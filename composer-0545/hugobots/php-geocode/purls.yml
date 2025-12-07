@@ -1,0 +1,3 @@
+- pkg:composer/hugobots/php-geocode@v1.0
+- pkg:composer/hugobots/php-geocode@v1.1
+- pkg:composer/hugobots/php-geocode@v2.0

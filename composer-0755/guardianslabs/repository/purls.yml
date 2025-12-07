@@ -1,0 +1,4 @@
+- pkg:composer/guardianslabs/repository@0.0.0
+- pkg:composer/guardianslabs/repository@0.1
+- pkg:composer/guardianslabs/repository@0.2
+- pkg:composer/guardianslabs/repository@0.2.1

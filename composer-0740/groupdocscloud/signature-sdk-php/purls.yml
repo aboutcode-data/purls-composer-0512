@@ -1,0 +1,12 @@
+- pkg:composer/groupdocscloud/signature-sdk-php@19.5
+- pkg:composer/groupdocscloud/signature-sdk-php@20.7
+- pkg:composer/groupdocscloud/signature-sdk-php@21.11
+- pkg:composer/groupdocscloud/signature-sdk-php@21.5
+- pkg:composer/groupdocscloud/signature-sdk-php@22.6
+- pkg:composer/groupdocscloud/signature-sdk-php@23.12
+- pkg:composer/groupdocscloud/signature-sdk-php@23.6
+- pkg:composer/groupdocscloud/signature-sdk-php@24.11
+- pkg:composer/groupdocscloud/signature-sdk-php@24.12
+- pkg:composer/groupdocscloud/signature-sdk-php@24.4
+- pkg:composer/groupdocscloud/signature-sdk-php@24.6
+- pkg:composer/groupdocscloud/signature-sdk-php@25.6

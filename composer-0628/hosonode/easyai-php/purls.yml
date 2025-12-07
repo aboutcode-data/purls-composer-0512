@@ -1,0 +1,13 @@
+- pkg:composer/hosonode/easyai-php@v0.0.1-alpha
+- pkg:composer/hosonode/easyai-php@v0.0.2-alpha
+- pkg:composer/hosonode/easyai-php@v0.0.3-alpha
+- pkg:composer/hosonode/easyai-php@v0.0.4-alpha
+- pkg:composer/hosonode/easyai-php@v0.1.0-beta
+- pkg:composer/hosonode/easyai-php@v0.2.0-beta
+- pkg:composer/hosonode/easyai-php@v0.3
+- pkg:composer/hosonode/easyai-php@v0.3.0-beta
+- pkg:composer/hosonode/easyai-php@v0.4
+- pkg:composer/hosonode/easyai-php@v0.5
+- pkg:composer/hosonode/easyai-php@v0.5.1
+- pkg:composer/hosonode/easyai-php@v0.5.2
+- pkg:composer/hosonode/easyai-php@v0.5.3

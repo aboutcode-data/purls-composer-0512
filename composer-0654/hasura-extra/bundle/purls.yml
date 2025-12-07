@@ -1,0 +1,15 @@
+- pkg:composer/hasura-extra/bundle@2.1.0
+- pkg:composer/hasura-extra/bundle@2.1.1
+- pkg:composer/hasura-extra/bundle@2.1.2
+- pkg:composer/hasura-extra/bundle@2.2.0
+- pkg:composer/hasura-extra/bundle@2.3.0
+- pkg:composer/hasura-extra/bundle@2.4.0
+- pkg:composer/hasura-extra/bundle@2.5.0
+- pkg:composer/hasura-extra/bundle@3.0.0
+- pkg:composer/hasura-extra/bundle@3.1.0
+- pkg:composer/hasura-extra/bundle@3.2.0
+- pkg:composer/hasura-extra/bundle@3.3.0
+- pkg:composer/hasura-extra/bundle@3.4.1
+- pkg:composer/hasura-extra/bundle@4.0.0
+- pkg:composer/hasura-extra/bundle@5.0.0
+- pkg:composer/hasura-extra/bundle@v2.0.0

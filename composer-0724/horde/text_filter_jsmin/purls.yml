@@ -1,0 +1,4 @@
+- pkg:composer/horde/text_filter_jsmin@1.0.2
+- pkg:composer/horde/text_filter_jsmin@2.0.0alpha1
+- pkg:composer/horde/text_filter_jsmin@2.0.0alpha2
+- pkg:composer/horde/text_filter_jsmin@v2.0.0alpha3

@@ -1,0 +1,5 @@
+- pkg:composer/hab/php-image-server@v1.0
+- pkg:composer/hab/php-image-server@v1.1
+- pkg:composer/hab/php-image-server@v1.1.1
+- pkg:composer/hab/php-image-server@v1.1.2
+- pkg:composer/hab/php-image-server@v1.1.3

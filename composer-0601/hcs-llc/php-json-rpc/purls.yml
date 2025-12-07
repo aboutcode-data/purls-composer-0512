@@ -1,0 +1,15 @@
+- pkg:composer/hcs-llc/php-json-rpc@1.0.0
+- pkg:composer/hcs-llc/php-json-rpc@1.0.1
+- pkg:composer/hcs-llc/php-json-rpc@2.0.0
+- pkg:composer/hcs-llc/php-json-rpc@2.0.1
+- pkg:composer/hcs-llc/php-json-rpc@2.0.2
+- pkg:composer/hcs-llc/php-json-rpc@3.0.0
+- pkg:composer/hcs-llc/php-json-rpc@4.0.0
+- pkg:composer/hcs-llc/php-json-rpc@4.0.1
+- pkg:composer/hcs-llc/php-json-rpc@4.0.2
+- pkg:composer/hcs-llc/php-json-rpc@4.0.3
+- pkg:composer/hcs-llc/php-json-rpc@4.0.4
+- pkg:composer/hcs-llc/php-json-rpc@5.0.0
+- pkg:composer/hcs-llc/php-json-rpc@6.0.0
+- pkg:composer/hcs-llc/php-json-rpc@6.1.0
+- pkg:composer/hcs-llc/php-json-rpc@7.0.0

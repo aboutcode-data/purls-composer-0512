@@ -1,0 +1,6 @@
+- pkg:composer/harbor/data-container@1.0.0
+- pkg:composer/harbor/data-container@1.1
+- pkg:composer/harbor/data-container@2.0.0
+- pkg:composer/harbor/data-container@2.0.1
+- pkg:composer/harbor/data-container@2.0.2
+- pkg:composer/harbor/data-container@2.0.3

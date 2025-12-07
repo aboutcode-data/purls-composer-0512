@@ -1,0 +1,8 @@
+- pkg:composer/hyperf/migration-generator-incubator@v0.1.0
+- pkg:composer/hyperf/migration-generator-incubator@v0.1.1
+- pkg:composer/hyperf/migration-generator-incubator@v0.2.0
+- pkg:composer/hyperf/migration-generator-incubator@v0.2.1
+- pkg:composer/hyperf/migration-generator-incubator@v0.3.0
+- pkg:composer/hyperf/migration-generator-incubator@v0.4.1
+- pkg:composer/hyperf/migration-generator-incubator@v0.4.2
+- pkg:composer/hyperf/migration-generator-incubator@v0.4.3

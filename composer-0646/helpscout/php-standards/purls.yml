@@ -1,0 +1,5 @@
+- pkg:composer/helpscout/php-standards@v0.9
+- pkg:composer/helpscout/php-standards@v1.0
+- pkg:composer/helpscout/php-standards@v1.1.0
+- pkg:composer/helpscout/php-standards@v1.2.0
+- pkg:composer/helpscout/php-standards@v1.3.0

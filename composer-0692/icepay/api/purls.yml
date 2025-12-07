@@ -1,0 +1,3 @@
+- pkg:composer/icepay/api@0.0.1
+- pkg:composer/icepay/api@1.0.0
+- pkg:composer/icepay/api@v1.1.0

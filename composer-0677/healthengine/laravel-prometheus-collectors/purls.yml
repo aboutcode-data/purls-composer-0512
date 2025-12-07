@@ -1,0 +1,9 @@
+- pkg:composer/healthengine/laravel-prometheus-collectors@0.1
+- pkg:composer/healthengine/laravel-prometheus-collectors@0.1.1
+- pkg:composer/healthengine/laravel-prometheus-collectors@0.1.2
+- pkg:composer/healthengine/laravel-prometheus-collectors@0.2.0
+- pkg:composer/healthengine/laravel-prometheus-collectors@0.3.0
+- pkg:composer/healthengine/laravel-prometheus-collectors@0.4.0
+- pkg:composer/healthengine/laravel-prometheus-collectors@v1.0
+- pkg:composer/healthengine/laravel-prometheus-collectors@v2.0.0
+- pkg:composer/healthengine/laravel-prometheus-collectors@v3.0.0

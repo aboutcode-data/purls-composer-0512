@@ -1,0 +1,4 @@
+- pkg:composer/hparadiz/aws-instance-connect@0.1
+- pkg:composer/hparadiz/aws-instance-connect@0.2
+- pkg:composer/hparadiz/aws-instance-connect@0.3
+- pkg:composer/hparadiz/aws-instance-connect@0.4

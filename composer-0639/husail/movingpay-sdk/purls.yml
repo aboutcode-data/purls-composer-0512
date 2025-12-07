@@ -1,0 +1,5 @@
+- pkg:composer/husail/movingpay-sdk@v1.0.0-alpha
+- pkg:composer/husail/movingpay-sdk@v1.0.1-alpha
+- pkg:composer/husail/movingpay-sdk@v1.1.0-alpha
+- pkg:composer/husail/movingpay-sdk@v1.2.0-alpha
+- pkg:composer/husail/movingpay-sdk@v1.3.0-alpha

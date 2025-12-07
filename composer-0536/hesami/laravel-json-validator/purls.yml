@@ -1,0 +1,4 @@
+- pkg:composer/hesami/laravel-json-validator@v0.1.0-alpha
+- pkg:composer/hesami/laravel-json-validator@v1.0.0
+- pkg:composer/hesami/laravel-json-validator@v1.1.0
+- pkg:composer/hesami/laravel-json-validator@v1.2.0

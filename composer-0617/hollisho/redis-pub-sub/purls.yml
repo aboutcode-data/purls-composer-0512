@@ -1,0 +1,10 @@
+- pkg:composer/hollisho/redis-pub-sub@0.0.3
+- pkg:composer/hollisho/redis-pub-sub@0.1.0
+- pkg:composer/hollisho/redis-pub-sub@0.1.1
+- pkg:composer/hollisho/redis-pub-sub@0.1.2
+- pkg:composer/hollisho/redis-pub-sub@0.1.3
+- pkg:composer/hollisho/redis-pub-sub@1.0.0
+- pkg:composer/hollisho/redis-pub-sub@1.0.1
+- pkg:composer/hollisho/redis-pub-sub@1.0.2
+- pkg:composer/hollisho/redis-pub-sub@1.0.3
+- pkg:composer/hollisho/redis-pub-sub@1.1.0

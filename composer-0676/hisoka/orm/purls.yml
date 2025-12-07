@@ -1,0 +1,4 @@
+- pkg:composer/hisoka/orm@1.0.1
+- pkg:composer/hisoka/orm@1.1.0
+- pkg:composer/hisoka/orm@2.0.0
+- pkg:composer/hisoka/orm@v1.0.0

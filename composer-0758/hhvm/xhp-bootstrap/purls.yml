@@ -1,0 +1,5 @@
+- pkg:composer/hhvm/xhp-bootstrap@v0.1
+- pkg:composer/hhvm/xhp-bootstrap@v1.0.0
+- pkg:composer/hhvm/xhp-bootstrap@v1.0.0rc1
+- pkg:composer/hhvm/xhp-bootstrap@v1.0.1
+- pkg:composer/hhvm/xhp-bootstrap@v1.0.2

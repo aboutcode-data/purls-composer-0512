@@ -1,0 +1,15 @@
+- pkg:composer/hasura-extra/auth-hook@2.1.0
+- pkg:composer/hasura-extra/auth-hook@2.1.1
+- pkg:composer/hasura-extra/auth-hook@2.1.2
+- pkg:composer/hasura-extra/auth-hook@2.2.0
+- pkg:composer/hasura-extra/auth-hook@2.3.0
+- pkg:composer/hasura-extra/auth-hook@2.4.0
+- pkg:composer/hasura-extra/auth-hook@2.5.0
+- pkg:composer/hasura-extra/auth-hook@3.0.0
+- pkg:composer/hasura-extra/auth-hook@3.1.0
+- pkg:composer/hasura-extra/auth-hook@3.2.0
+- pkg:composer/hasura-extra/auth-hook@3.3.0
+- pkg:composer/hasura-extra/auth-hook@3.4.1
+- pkg:composer/hasura-extra/auth-hook@4.0.0
+- pkg:composer/hasura-extra/auth-hook@5.0.0
+- pkg:composer/hasura-extra/auth-hook@v2.0.0

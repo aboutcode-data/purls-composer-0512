@@ -1,0 +1,17 @@
+- pkg:composer/http-interop/http-factory-tests@0.1.0
+- pkg:composer/http-interop/http-factory-tests@0.2.0
+- pkg:composer/http-interop/http-factory-tests@0.2.1
+- pkg:composer/http-interop/http-factory-tests@0.2.2
+- pkg:composer/http-interop/http-factory-tests@0.3.0
+- pkg:composer/http-interop/http-factory-tests@0.4.0
+- pkg:composer/http-interop/http-factory-tests@0.5.0
+- pkg:composer/http-interop/http-factory-tests@0.6.0
+- pkg:composer/http-interop/http-factory-tests@0.7.0
+- pkg:composer/http-interop/http-factory-tests@0.8.0
+- pkg:composer/http-interop/http-factory-tests@0.9.0
+- pkg:composer/http-interop/http-factory-tests@1.0.0
+- pkg:composer/http-interop/http-factory-tests@1.1.0
+- pkg:composer/http-interop/http-factory-tests@2.0.0
+- pkg:composer/http-interop/http-factory-tests@2.1.0
+- pkg:composer/http-interop/http-factory-tests@2.2.0
+- pkg:composer/http-interop/http-factory-tests@2.3.0

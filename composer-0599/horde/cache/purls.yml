@@ -1,0 +1,13 @@
+- pkg:composer/horde/cache@2.4.0
+- pkg:composer/horde/cache@2.4.1
+- pkg:composer/horde/cache@2.5.0
+- pkg:composer/horde/cache@2.5.1
+- pkg:composer/horde/cache@2.5.2
+- pkg:composer/horde/cache@2.5.3
+- pkg:composer/horde/cache@2.5.4
+- pkg:composer/horde/cache@2.5.5
+- pkg:composer/horde/cache@3.0.0alpha1
+- pkg:composer/horde/cache@3.0.0alpha2
+- pkg:composer/horde/cache@v3.0.0alpha3
+- pkg:composer/horde/cache@v3.0.0alpha4
+- pkg:composer/horde/cache@v3.0.0alpha5

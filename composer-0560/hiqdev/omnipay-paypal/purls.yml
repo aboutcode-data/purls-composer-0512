@@ -1,0 +1,4 @@
+- pkg:composer/hiqdev/omnipay-paypal@3.0.0
+- pkg:composer/hiqdev/omnipay-paypal@3.0.1
+- pkg:composer/hiqdev/omnipay-paypal@3.0.2
+- pkg:composer/hiqdev/omnipay-paypal@3.0.3

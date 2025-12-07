@@ -1,0 +1,4 @@
+- pkg:composer/grongor/kafka-rest-client@v0.1.0
+- pkg:composer/grongor/kafka-rest-client@v0.1.1
+- pkg:composer/grongor/kafka-rest-client@v0.1.2
+- pkg:composer/grongor/kafka-rest-client@v1.1.0

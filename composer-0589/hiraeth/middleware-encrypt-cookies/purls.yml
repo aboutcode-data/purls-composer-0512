@@ -1,0 +1,2 @@
+- pkg:composer/hiraeth/middleware-encrypt-cookies@2.0.0
+- pkg:composer/hiraeth/middleware-encrypt-cookies@3.0-beta
