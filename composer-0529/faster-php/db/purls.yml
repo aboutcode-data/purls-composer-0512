@@ -1,0 +1,3 @@
+- pkg:composer/faster-php/db@1.0.0-beta
+- pkg:composer/faster-php/db@2.0.0-rc1
+- pkg:composer/faster-php/db@2.0.0-rc2

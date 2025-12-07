@@ -1,0 +1,4 @@
+- pkg:composer/extpoint/yii2-gateway@0.0.1
+- pkg:composer/extpoint/yii2-gateway@1.0.0
+- pkg:composer/extpoint/yii2-gateway@1.1.0
+- pkg:composer/extpoint/yii2-gateway@1.2.1

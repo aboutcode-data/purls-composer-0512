@@ -1,0 +1,4 @@
+- pkg:composer/ekhaled/schema-parser-mysql@1.0
+- pkg:composer/ekhaled/schema-parser-mysql@1.1
+- pkg:composer/ekhaled/schema-parser-mysql@1.2
+- pkg:composer/ekhaled/schema-parser-mysql@1.3

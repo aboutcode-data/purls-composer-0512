@@ -1,0 +1,3 @@
+- pkg:composer/echo511/codeception-module-amqp@v1.0.0
+- pkg:composer/echo511/codeception-module-amqp@v1.0.1
+- pkg:composer/echo511/codeception-module-amqp@v1.0.2

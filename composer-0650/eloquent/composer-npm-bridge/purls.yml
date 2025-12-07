@@ -1,0 +1,15 @@
+- pkg:composer/eloquent/composer-npm-bridge@0.1.0
+- pkg:composer/eloquent/composer-npm-bridge@0.2.0
+- pkg:composer/eloquent/composer-npm-bridge@0.3.0
+- pkg:composer/eloquent/composer-npm-bridge@1.0.0
+- pkg:composer/eloquent/composer-npm-bridge@1.0.1
+- pkg:composer/eloquent/composer-npm-bridge@2.0.0
+- pkg:composer/eloquent/composer-npm-bridge@2.1.0
+- pkg:composer/eloquent/composer-npm-bridge@2.1.1
+- pkg:composer/eloquent/composer-npm-bridge@3.0.0
+- pkg:composer/eloquent/composer-npm-bridge@3.0.1
+- pkg:composer/eloquent/composer-npm-bridge@4.0.0
+- pkg:composer/eloquent/composer-npm-bridge@4.0.1
+- pkg:composer/eloquent/composer-npm-bridge@4.1.0
+- pkg:composer/eloquent/composer-npm-bridge@5.0.0
+- pkg:composer/eloquent/composer-npm-bridge@5.0.1

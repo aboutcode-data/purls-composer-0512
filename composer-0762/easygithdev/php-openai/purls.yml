@@ -1,0 +1,17 @@
+- pkg:composer/easygithdev/php-openai@v1.0.0
+- pkg:composer/easygithdev/php-openai@v1.1.0
+- pkg:composer/easygithdev/php-openai@v1.1.1
+- pkg:composer/easygithdev/php-openai@v1.1.2
+- pkg:composer/easygithdev/php-openai@v1.2.0
+- pkg:composer/easygithdev/php-openai@v2.0.0
+- pkg:composer/easygithdev/php-openai@v2.0.1
+- pkg:composer/easygithdev/php-openai@v2.0.2
+- pkg:composer/easygithdev/php-openai@v2.0.3
+- pkg:composer/easygithdev/php-openai@v2.0.4
+- pkg:composer/easygithdev/php-openai@v2.1.0
+- pkg:composer/easygithdev/php-openai@v2.2.0
+- pkg:composer/easygithdev/php-openai@v2.2.1
+- pkg:composer/easygithdev/php-openai@v2.2.2
+- pkg:composer/easygithdev/php-openai@v2.2.3
+- pkg:composer/easygithdev/php-openai@v2.2.4
+- pkg:composer/easygithdev/php-openai@v2.3

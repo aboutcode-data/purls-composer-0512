@@ -1,0 +1,4 @@
+- pkg:composer/eventsauce/backoff@1.0.0
+- pkg:composer/eventsauce/backoff@1.1.0
+- pkg:composer/eventsauce/backoff@1.1.1
+- pkg:composer/eventsauce/backoff@1.2.0

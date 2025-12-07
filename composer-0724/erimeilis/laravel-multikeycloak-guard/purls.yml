@@ -1,0 +1,3 @@
+- pkg:composer/erimeilis/laravel-multikeycloak-guard@1
+- pkg:composer/erimeilis/laravel-multikeycloak-guard@2
+- pkg:composer/erimeilis/laravel-multikeycloak-guard@3

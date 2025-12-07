@@ -1,0 +1,4 @@
+- pkg:composer/eventconnect/omnipay-payrix@1.0.0-RC2
+- pkg:composer/eventconnect/omnipay-payrix@1.0.0-RC3
+- pkg:composer/eventconnect/omnipay-payrix@1.0.0-RC4
+- pkg:composer/eventconnect/omnipay-payrix@1.0.0-RC5

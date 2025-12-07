@@ -1,0 +1,3 @@
+- pkg:composer/ericmartel/codeception-email-mailcatcher@1.0.0
+- pkg:composer/ericmartel/codeception-email-mailcatcher@1.0.2
+- pkg:composer/ericmartel/codeception-email-mailcatcher@1.0.3

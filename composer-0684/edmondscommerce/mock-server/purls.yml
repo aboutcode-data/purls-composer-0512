@@ -1,0 +1,6 @@
+- pkg:composer/edmondscommerce/mock-server@1.0
+- pkg:composer/edmondscommerce/mock-server@2.0
+- pkg:composer/edmondscommerce/mock-server@2.0.1
+- pkg:composer/edmondscommerce/mock-server@2.0.2
+- pkg:composer/edmondscommerce/mock-server@2.0.3
+- pkg:composer/edmondscommerce/mock-server@v2.0.4

@@ -1,0 +1,11 @@
+- pkg:composer/ecn/featuretoggle-bundle@v0.10.0
+- pkg:composer/ecn/featuretoggle-bundle@v0.10.1
+- pkg:composer/ecn/featuretoggle-bundle@v0.9.0
+- pkg:composer/ecn/featuretoggle-bundle@v1.0.0
+- pkg:composer/ecn/featuretoggle-bundle@v1.0.1
+- pkg:composer/ecn/featuretoggle-bundle@v1.1.0
+- pkg:composer/ecn/featuretoggle-bundle@v1.1.1
+- pkg:composer/ecn/featuretoggle-bundle@v2.0.0
+- pkg:composer/ecn/featuretoggle-bundle@v2.1.0
+- pkg:composer/ecn/featuretoggle-bundle@v2.1.1
+- pkg:composer/ecn/featuretoggle-bundle@v3.0.0

@@ -1,0 +1,2 @@
+- pkg:composer/e-sixt/rabbitmq-service-provider@1.1.0
+- pkg:composer/e-sixt/rabbitmq-service-provider@2.0.0

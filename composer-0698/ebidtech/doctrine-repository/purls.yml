@@ -1,0 +1,4 @@
+- pkg:composer/ebidtech/doctrine-repository@v0.1
+- pkg:composer/ebidtech/doctrine-repository@v0.1.1
+- pkg:composer/ebidtech/doctrine-repository@v0.1.2
+- pkg:composer/ebidtech/doctrine-repository@v0.2

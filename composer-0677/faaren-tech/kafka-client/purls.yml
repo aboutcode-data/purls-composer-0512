@@ -1,0 +1,4 @@
+- pkg:composer/faaren-tech/kafka-client@0.1.0
+- pkg:composer/faaren-tech/kafka-client@0.2.0
+- pkg:composer/faaren-tech/kafka-client@1.0.0-rc.1
+- pkg:composer/faaren-tech/kafka-client@1.0.0-rc.2

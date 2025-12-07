@@ -1,0 +1,15 @@
+- pkg:composer/ezlocate/ezlocate-php-sdk@0.0.1
+- pkg:composer/ezlocate/ezlocate-php-sdk@0.0.2
+- pkg:composer/ezlocate/ezlocate-php-sdk@0.0.3
+- pkg:composer/ezlocate/ezlocate-php-sdk@0.0.4
+- pkg:composer/ezlocate/ezlocate-php-sdk@0.0.5
+- pkg:composer/ezlocate/ezlocate-php-sdk@0.1.0
+- pkg:composer/ezlocate/ezlocate-php-sdk@0.1.1
+- pkg:composer/ezlocate/ezlocate-php-sdk@0.1.2
+- pkg:composer/ezlocate/ezlocate-php-sdk@0.2
+- pkg:composer/ezlocate/ezlocate-php-sdk@0.2.1
+- pkg:composer/ezlocate/ezlocate-php-sdk@0.2.3
+- pkg:composer/ezlocate/ezlocate-php-sdk@0.2.4
+- pkg:composer/ezlocate/ezlocate-php-sdk@0.2.5
+- pkg:composer/ezlocate/ezlocate-php-sdk@0.2.6
+- pkg:composer/ezlocate/ezlocate-php-sdk@0.2.7

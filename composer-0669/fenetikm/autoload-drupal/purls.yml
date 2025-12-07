@@ -1,0 +1,4 @@
+- pkg:composer/fenetikm/autoload-drupal@0.1
+- pkg:composer/fenetikm/autoload-drupal@0.2
+- pkg:composer/fenetikm/autoload-drupal@1.0.0
+- pkg:composer/fenetikm/autoload-drupal@1.0.1

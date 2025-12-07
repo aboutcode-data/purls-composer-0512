@@ -1,0 +1,4 @@
+- pkg:composer/endiorite/bedrock-protocol@37.0.0%2Bbedrock-1.21.70
+- pkg:composer/endiorite/bedrock-protocol@38.0.0%2Bbedrock-1.21.80
+- pkg:composer/endiorite/bedrock-protocol@38.0.1%2Bbedrock-1.21.80
+- pkg:composer/endiorite/bedrock-protocol@39.0.1%2Bbedrock-1.21.90
