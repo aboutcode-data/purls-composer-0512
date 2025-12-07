@@ -1,0 +1,3 @@
+- pkg:composer/bencoderus/min-auth@0.9.0
+- pkg:composer/bencoderus/min-auth@0.9.1
+- pkg:composer/bencoderus/min-auth@1.0

@@ -1,0 +1,6 @@
+- pkg:composer/begateway/magento2-payment-module@1.1.0
+- pkg:composer/begateway/magento2-payment-module@1.2.0
+- pkg:composer/begateway/magento2-payment-module@2.2.0
+- pkg:composer/begateway/magento2-payment-module@2.3.0
+- pkg:composer/begateway/magento2-payment-module@2.3.1
+- pkg:composer/begateway/magento2-payment-module@2.4.0

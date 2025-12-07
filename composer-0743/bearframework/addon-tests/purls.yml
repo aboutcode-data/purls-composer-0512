@@ -1,0 +1,15 @@
+- pkg:composer/bearframework/addon-tests@v0.1.0
+- pkg:composer/bearframework/addon-tests@v0.1.1
+- pkg:composer/bearframework/addon-tests@v0.1.2
+- pkg:composer/bearframework/addon-tests@v0.2.0
+- pkg:composer/bearframework/addon-tests@v0.3.0
+- pkg:composer/bearframework/addon-tests@v0.3.1
+- pkg:composer/bearframework/addon-tests@v0.3.2
+- pkg:composer/bearframework/addon-tests@v1.0.0
+- pkg:composer/bearframework/addon-tests@v1.0.1
+- pkg:composer/bearframework/addon-tests@v1.1.0
+- pkg:composer/bearframework/addon-tests@v1.2.0
+- pkg:composer/bearframework/addon-tests@v1.3.0
+- pkg:composer/bearframework/addon-tests@v1.4.0
+- pkg:composer/bearframework/addon-tests@v1.5.0
+- pkg:composer/bearframework/addon-tests@v1.6.0

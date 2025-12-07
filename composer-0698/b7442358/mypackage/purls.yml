@@ -1,0 +1,4 @@
+- pkg:composer/b7442358/mypackage@v1.0
+- pkg:composer/b7442358/mypackage@v1.1
+- pkg:composer/b7442358/mypackage@v1.3alpha
+- pkg:composer/b7442358/mypackage@v1.4

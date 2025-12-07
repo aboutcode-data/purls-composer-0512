@@ -1,0 +1,13 @@
+- pkg:composer/bayfrontmedia/php-http-request@1.0.0
+- pkg:composer/bayfrontmedia/php-http-request@1.0.1
+- pkg:composer/bayfrontmedia/php-http-request@1.1.0
+- pkg:composer/bayfrontmedia/php-http-request@v1.2.0
+- pkg:composer/bayfrontmedia/php-http-request@v1.3.0
+- pkg:composer/bayfrontmedia/php-http-request@v2.0.0
+- pkg:composer/bayfrontmedia/php-http-request@v2.0.1
+- pkg:composer/bayfrontmedia/php-http-request@v2.1.0
+- pkg:composer/bayfrontmedia/php-http-request@v3.0.0
+- pkg:composer/bayfrontmedia/php-http-request@v3.0.1
+- pkg:composer/bayfrontmedia/php-http-request@v3.1.0
+- pkg:composer/bayfrontmedia/php-http-request@v3.1.1
+- pkg:composer/bayfrontmedia/php-http-request@v3.1.2
