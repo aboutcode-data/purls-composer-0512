@@ -1,0 +1,4 @@
+- pkg:composer/dasann/kubernetes-client@v0.27.1
+- pkg:composer/dasann/kubernetes-client@v0.27.2
+- pkg:composer/dasann/kubernetes-client@v0.27.3
+- pkg:composer/dasann/kubernetes-client@v0.27.4

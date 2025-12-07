@@ -1,0 +1,3 @@
+- pkg:composer/doctrine/phpcr-dbal-symfony-pack@1.0.0
+- pkg:composer/doctrine/phpcr-dbal-symfony-pack@1.0.1
+- pkg:composer/doctrine/phpcr-dbal-symfony-pack@1.1.0

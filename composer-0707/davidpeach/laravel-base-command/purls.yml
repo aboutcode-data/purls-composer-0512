@@ -1,0 +1,6 @@
+- pkg:composer/davidpeach/laravel-base-command@v0.1.0
+- pkg:composer/davidpeach/laravel-base-command@v0.1.0-alpha
+- pkg:composer/davidpeach/laravel-base-command@v0.1.1-alpha
+- pkg:composer/davidpeach/laravel-base-command@v0.2.0-alpha
+- pkg:composer/davidpeach/laravel-base-command@v0.2.1-alpha
+- pkg:composer/davidpeach/laravel-base-command@v1.0.0

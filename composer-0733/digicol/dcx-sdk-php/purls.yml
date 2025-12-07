@@ -1,0 +1,4 @@
+- pkg:composer/digicol/dcx-sdk-php@1.0.0
+- pkg:composer/digicol/dcx-sdk-php@2.0.0
+- pkg:composer/digicol/dcx-sdk-php@2.0.1
+- pkg:composer/digicol/dcx-sdk-php@2.0.2

@@ -1,0 +1,5 @@
+- pkg:composer/decahedron/monolog-sticky-context@0.2.0
+- pkg:composer/decahedron/monolog-sticky-context@0.3.0
+- pkg:composer/decahedron/monolog-sticky-context@1.0.0
+- pkg:composer/decahedron/monolog-sticky-context@1.1.0
+- pkg:composer/decahedron/monolog-sticky-context@v0.1

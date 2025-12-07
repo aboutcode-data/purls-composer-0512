@@ -1,0 +1,5 @@
+- pkg:composer/drupal/lupus_decoupled_events@1.1.0
+- pkg:composer/drupal/lupus_decoupled_events@1.1.1
+- pkg:composer/drupal/lupus_decoupled_events@2.0.0-alpha1
+- pkg:composer/drupal/lupus_decoupled_events@2.0.0-alpha2
+- pkg:composer/drupal/lupus_decoupled_events@2.0.0-alpha3

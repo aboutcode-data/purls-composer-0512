@@ -1,0 +1,4 @@
+- pkg:composer/drupal/root@8.0.0
+- pkg:composer/drupal/root@8.0.1
+- pkg:composer/drupal/root@8.0.2
+- pkg:composer/drupal/root@8.1.0

@@ -1,0 +1,9 @@
+- pkg:composer/drupal/drupal_automatic_updater@1.0.4-beta5
+- pkg:composer/drupal/drupal_automatic_updater@1.0.4-beta6
+- pkg:composer/drupal/drupal_automatic_updater@v1.0.1-alpha
+- pkg:composer/drupal/drupal_automatic_updater@v1.0.2-alpha
+- pkg:composer/drupal/drupal_automatic_updater@v1.0.3-alpha
+- pkg:composer/drupal/drupal_automatic_updater@v1.0.4-beta.1
+- pkg:composer/drupal/drupal_automatic_updater@v1.0.4-beta.2
+- pkg:composer/drupal/drupal_automatic_updater@v1.0.4-beta.3
+- pkg:composer/drupal/drupal_automatic_updater@v1.0.4-beta.4

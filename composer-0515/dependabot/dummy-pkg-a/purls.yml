@@ -1,0 +1,5 @@
+- pkg:composer/dependabot/dummy-pkg-a@v1.0.0
+- pkg:composer/dependabot/dummy-pkg-a@v1.0.1
+- pkg:composer/dependabot/dummy-pkg-a@v1.1.0
+- pkg:composer/dependabot/dummy-pkg-a@v2.0.0
+- pkg:composer/dependabot/dummy-pkg-a@v2.1.0-RC1

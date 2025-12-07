@@ -1,0 +1,4 @@
+- pkg:composer/diablomedia/zf2-doctrine1@2.0.0
+- pkg:composer/diablomedia/zf2-doctrine1@2.1.0
+- pkg:composer/diablomedia/zf2-doctrine1@3.0.0
+- pkg:composer/diablomedia/zf2-doctrine1@v1.0.0

@@ -1,0 +1,11 @@
+- pkg:composer/defuse/php-encryption@2.0.0
+- pkg:composer/defuse/php-encryption@2.0.1
+- pkg:composer/defuse/php-encryption@2.0.3
+- pkg:composer/defuse/php-encryption@v1.2
+- pkg:composer/defuse/php-encryption@v1.2.1
+- pkg:composer/defuse/php-encryption@v2.1.0
+- pkg:composer/defuse/php-encryption@v2.2.0
+- pkg:composer/defuse/php-encryption@v2.2.1
+- pkg:composer/defuse/php-encryption@v2.3.0
+- pkg:composer/defuse/php-encryption@v2.3.1
+- pkg:composer/defuse/php-encryption@v2.4.0

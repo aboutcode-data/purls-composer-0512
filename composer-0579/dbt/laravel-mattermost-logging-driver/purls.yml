@@ -1,0 +1,4 @@
+- pkg:composer/dbt/laravel-mattermost-logging-driver@0.1.0
+- pkg:composer/dbt/laravel-mattermost-logging-driver@1.0.0
+- pkg:composer/dbt/laravel-mattermost-logging-driver@2.0.0
+- pkg:composer/dbt/laravel-mattermost-logging-driver@3.0.0

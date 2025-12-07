@@ -1,0 +1,3 @@
+- pkg:composer/davidvandertuijn/uuid@1.0
+- pkg:composer/davidvandertuijn/uuid@2.0
+- pkg:composer/davidvandertuijn/uuid@2.1

@@ -1,0 +1,16 @@
+- pkg:composer/demroos/php-abac@3.0.0
+- pkg:composer/demroos/php-abac@4.0.0
+- pkg:composer/demroos/php-abac@4.0.1
+- pkg:composer/demroos/php-abac@4.0.2
+- pkg:composer/demroos/php-abac@v0.2
+- pkg:composer/demroos/php-abac@v0.3
+- pkg:composer/demroos/php-abac@v1.0
+- pkg:composer/demroos/php-abac@v1.1
+- pkg:composer/demroos/php-abac@v1.2.0
+- pkg:composer/demroos/php-abac@v2.0.0
+- pkg:composer/demroos/php-abac@v2.0.1
+- pkg:composer/demroos/php-abac@v2.0.2
+- pkg:composer/demroos/php-abac@v2.0.3
+- pkg:composer/demroos/php-abac@v2.1.0
+- pkg:composer/demroos/php-abac@v2.1.1
+- pkg:composer/demroos/php-abac@v2.1.2

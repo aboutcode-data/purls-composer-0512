@@ -1,0 +1,4 @@
+- pkg:composer/dilneiss/laravel-nist-password-rules@6.1
+- pkg:composer/dilneiss/laravel-nist-password-rules@6.2
+- pkg:composer/dilneiss/laravel-nist-password-rules@6.3
+- pkg:composer/dilneiss/laravel-nist-password-rules@6.4

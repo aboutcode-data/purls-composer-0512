@@ -1,0 +1,3 @@
+- pkg:composer/dvanderburg/silex-batched-request@0.0.1
+- pkg:composer/dvanderburg/silex-batched-request@0.0.2
+- pkg:composer/dvanderburg/silex-batched-request@v0.0.3

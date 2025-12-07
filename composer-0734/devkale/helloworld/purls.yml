@@ -1,0 +1,12 @@
+- pkg:composer/devkale/helloworld@1.8.6
+- pkg:composer/devkale/helloworld@1.8.7
+- pkg:composer/devkale/helloworld@1.8.7-beta
+- pkg:composer/devkale/helloworld@1.8.8
+- pkg:composer/devkale/helloworld@1.8.8-beta
+- pkg:composer/devkale/helloworld@1.8.9
+- pkg:composer/devkale/helloworld@1.8.9-beta
+- pkg:composer/devkale/helloworld@1.9.0
+- pkg:composer/devkale/helloworld@2.0.0-alpha
+- pkg:composer/devkale/helloworld@2.0.0-beta
+- pkg:composer/devkale/helloworld@2.0.0-beta2
+- pkg:composer/devkale/helloworld@2.0.0-beta3

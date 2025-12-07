@@ -1,0 +1,12 @@
+- pkg:composer/datastax/php-driver@1.0.1
+- pkg:composer/datastax/php-driver@v1.0.0
+- pkg:composer/datastax/php-driver@v1.0.0-alpha
+- pkg:composer/datastax/php-driver@v1.0.0-beta
+- pkg:composer/datastax/php-driver@v1.0.0-rc
+- pkg:composer/datastax/php-driver@v1.1.0
+- pkg:composer/datastax/php-driver@v1.2.0
+- pkg:composer/datastax/php-driver@v1.2.1
+- pkg:composer/datastax/php-driver@v1.2.2
+- pkg:composer/datastax/php-driver@v1.3.0
+- pkg:composer/datastax/php-driver@v1.3.1
+- pkg:composer/datastax/php-driver@v1.3.2

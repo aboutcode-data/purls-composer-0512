@@ -1,0 +1,15 @@
+- pkg:composer/dlcs/elucidate-php@1.0.0
+- pkg:composer/dlcs/elucidate-php@1.0.1
+- pkg:composer/dlcs/elucidate-php@1.0.2
+- pkg:composer/dlcs/elucidate-php@2.1.0
+- pkg:composer/dlcs/elucidate-php@2.1.1
+- pkg:composer/dlcs/elucidate-php@3.0.0
+- pkg:composer/dlcs/elucidate-php@3.0.0-alpha
+- pkg:composer/dlcs/elucidate-php@3.0.1
+- pkg:composer/dlcs/elucidate-php@3.0.2
+- pkg:composer/dlcs/elucidate-php@3.0.3
+- pkg:composer/dlcs/elucidate-php@3.0.4
+- pkg:composer/dlcs/elucidate-php@3.0.5
+- pkg:composer/dlcs/elucidate-php@v2.0.0
+- pkg:composer/dlcs/elucidate-php@v2.1.2
+- pkg:composer/dlcs/elucidate-php@v3.0.6

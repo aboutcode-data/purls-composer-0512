@@ -1,0 +1,3 @@
+- pkg:composer/dbmigrate/dbmigrate@v1.0.0
+- pkg:composer/dbmigrate/dbmigrate@v1.1.0
+- pkg:composer/dbmigrate/dbmigrate@v2.0.0

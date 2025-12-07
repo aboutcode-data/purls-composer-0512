@@ -1,0 +1,6 @@
+- pkg:composer/dealnews/repository@2.0.0
+- pkg:composer/dealnews/repository@3.0.0
+- pkg:composer/dealnews/repository@3.1.0
+- pkg:composer/dealnews/repository@4.0.0
+- pkg:composer/dealnews/repository@v1.0
+- pkg:composer/dealnews/repository@v4.1.0

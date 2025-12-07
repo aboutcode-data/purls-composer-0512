@@ -1,0 +1,4 @@
+- pkg:composer/dkv/test_package@0.0.1
+- pkg:composer/dkv/test_package@v1.0.0
+- pkg:composer/dkv/test_package@v1.0.1
+- pkg:composer/dkv/test_package@v1.0.3

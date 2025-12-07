@@ -1,0 +1,14 @@
+- pkg:composer/de-swebhosting/php-codestyle@v1.0.0
+- pkg:composer/de-swebhosting/php-codestyle@v2.0.0
+- pkg:composer/de-swebhosting/php-codestyle@v3.0.0
+- pkg:composer/de-swebhosting/php-codestyle@v3.1.0
+- pkg:composer/de-swebhosting/php-codestyle@v4.0.0
+- pkg:composer/de-swebhosting/php-codestyle@v4.1.0
+- pkg:composer/de-swebhosting/php-codestyle@v5.0.0
+- pkg:composer/de-swebhosting/php-codestyle@v5.1.0
+- pkg:composer/de-swebhosting/php-codestyle@v5.2.0
+- pkg:composer/de-swebhosting/php-codestyle@v5.3.0
+- pkg:composer/de-swebhosting/php-codestyle@v5.3.1
+- pkg:composer/de-swebhosting/php-codestyle@v5.4.0
+- pkg:composer/de-swebhosting/php-codestyle@v6.0.0
+- pkg:composer/de-swebhosting/php-codestyle@v6.0.1
