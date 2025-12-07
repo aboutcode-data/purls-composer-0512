@@ -1,0 +1,8 @@
+- pkg:composer/bowlofsoup/couchbase-migrations-bundle@1.0.0
+- pkg:composer/bowlofsoup/couchbase-migrations-bundle@1.0.1
+- pkg:composer/bowlofsoup/couchbase-migrations-bundle@1.0.2
+- pkg:composer/bowlofsoup/couchbase-migrations-bundle@1.0.3
+- pkg:composer/bowlofsoup/couchbase-migrations-bundle@2.0
+- pkg:composer/bowlofsoup/couchbase-migrations-bundle@2.1
+- pkg:composer/bowlofsoup/couchbase-migrations-bundle@2.1.1
+- pkg:composer/bowlofsoup/couchbase-migrations-bundle@v0.1.0

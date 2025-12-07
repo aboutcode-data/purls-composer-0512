@@ -1,0 +1,4 @@
+- pkg:composer/braspag/braspag-php-sdk@0.1
+- pkg:composer/braspag/braspag-php-sdk@0.2
+- pkg:composer/braspag/braspag-php-sdk@0.3
+- pkg:composer/braspag/braspag-php-sdk@0.4

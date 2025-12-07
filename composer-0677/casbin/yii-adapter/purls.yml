@@ -1,0 +1,4 @@
+- pkg:composer/casbin/yii-adapter@v0.1
+- pkg:composer/casbin/yii-adapter@v0.1.1
+- pkg:composer/casbin/yii-adapter@v0.2.0
+- pkg:composer/casbin/yii-adapter@v1.0.0

@@ -1,0 +1,4 @@
+- pkg:composer/casbin/laravel-adapter@v0.1.0
+- pkg:composer/casbin/laravel-adapter@v0.1.1
+- pkg:composer/casbin/laravel-adapter@v0.1.2
+- pkg:composer/casbin/laravel-adapter@v0.2

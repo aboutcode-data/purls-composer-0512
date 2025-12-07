@@ -1,0 +1,5 @@
+- pkg:composer/carlo/logger@0.01
+- pkg:composer/carlo/logger@1.0.0
+- pkg:composer/carlo/logger@1.0.1
+- pkg:composer/carlo/logger@1.0.2
+- pkg:composer/carlo/logger@v1.0.3

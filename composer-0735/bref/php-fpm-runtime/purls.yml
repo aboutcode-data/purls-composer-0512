@@ -1,0 +1,4 @@
+- pkg:composer/bref/php-fpm-runtime@2.0.0
+- pkg:composer/bref/php-fpm-runtime@2.0.0-beta1
+- pkg:composer/bref/php-fpm-runtime@2.1.0
+- pkg:composer/bref/php-fpm-runtime@2.2.0

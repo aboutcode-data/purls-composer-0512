@@ -1,0 +1,12 @@
+- pkg:composer/beyondbluesky/cron-manager-bundle@v2.3.0
+- pkg:composer/beyondbluesky/cron-manager-bundle@v2.4.0
+- pkg:composer/beyondbluesky/cron-manager-bundle@v2.4.1
+- pkg:composer/beyondbluesky/cron-manager-bundle@v2.6
+- pkg:composer/beyondbluesky/cron-manager-bundle@v2.6.1
+- pkg:composer/beyondbluesky/cron-manager-bundle@v3.0
+- pkg:composer/beyondbluesky/cron-manager-bundle@v3.1
+- pkg:composer/beyondbluesky/cron-manager-bundle@v4.0
+- pkg:composer/beyondbluesky/cron-manager-bundle@v4.2
+- pkg:composer/beyondbluesky/cron-manager-bundle@v5.0
+- pkg:composer/beyondbluesky/cron-manager-bundle@v5.1
+- pkg:composer/beyondbluesky/cron-manager-bundle@v5.1.1

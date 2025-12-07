@@ -1,0 +1,5 @@
+- pkg:composer/brunonatali/mqtt-client@0.2
+- pkg:composer/brunonatali/mqtt-client@0.2.1
+- pkg:composer/brunonatali/mqtt-client@v0.1
+- pkg:composer/brunonatali/mqtt-client@v0.3
+- pkg:composer/brunonatali/mqtt-client@v0.3.1

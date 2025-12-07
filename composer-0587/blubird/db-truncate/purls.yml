@@ -1,0 +1,5 @@
+- pkg:composer/blubird/db-truncate@v1.0
+- pkg:composer/blubird/db-truncate@v1.1
+- pkg:composer/blubird/db-truncate@v1.2
+- pkg:composer/blubird/db-truncate@v2.0.0
+- pkg:composer/blubird/db-truncate@v2.0.1

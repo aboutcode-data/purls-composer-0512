@@ -1,0 +1,14 @@
+- pkg:composer/brown-rpc/brown-rpc@v1.0
+- pkg:composer/brown-rpc/brown-rpc@v2.0
+- pkg:composer/brown-rpc/brown-rpc@v2.0.1
+- pkg:composer/brown-rpc/brown-rpc@v2.0.2
+- pkg:composer/brown-rpc/brown-rpc@v2.0.3
+- pkg:composer/brown-rpc/brown-rpc@v3.0.0
+- pkg:composer/brown-rpc/brown-rpc@v3.0.1
+- pkg:composer/brown-rpc/brown-rpc@v3.0.2-stable
+- pkg:composer/brown-rpc/brown-rpc@v3.1.3-stable
+- pkg:composer/brown-rpc/brown-rpc@v3.2.4
+- pkg:composer/brown-rpc/brown-rpc@v3.3.0
+- pkg:composer/brown-rpc/brown-rpc@v4.0.0
+- pkg:composer/brown-rpc/brown-rpc@v4.1.0
+- pkg:composer/brown-rpc/brown-rpc@v5.0.0

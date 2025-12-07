@@ -1,0 +1,4 @@
+- pkg:composer/capsule-b/amazon-mws-php-lib@0.1
+- pkg:composer/capsule-b/amazon-mws-php-lib@0.2
+- pkg:composer/capsule-b/amazon-mws-php-lib@0.3
+- pkg:composer/capsule-b/amazon-mws-php-lib@v0.4

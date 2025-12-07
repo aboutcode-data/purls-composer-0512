@@ -1,0 +1,4 @@
+- pkg:composer/bmatovu/laravel-eloquent-uuid@v0.0.1
+- pkg:composer/bmatovu/laravel-eloquent-uuid@v0.0.2
+- pkg:composer/bmatovu/laravel-eloquent-uuid@v1.0.0
+- pkg:composer/bmatovu/laravel-eloquent-uuid@v1.1.0

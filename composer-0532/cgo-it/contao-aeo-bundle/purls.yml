@@ -1,0 +1,4 @@
+- pkg:composer/cgo-it/contao-aeo-bundle@4.0.0
+- pkg:composer/cgo-it/contao-aeo-bundle@4.0.1
+- pkg:composer/cgo-it/contao-aeo-bundle@4.1.0
+- pkg:composer/cgo-it/contao-aeo-bundle@4.1.1

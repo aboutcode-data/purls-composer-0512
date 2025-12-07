@@ -1,0 +1,5 @@
+- pkg:composer/cedricziel/typo3-base-distribution@8.6.0
+- pkg:composer/cedricziel/typo3-base-distribution@8.7.0
+- pkg:composer/cedricziel/typo3-base-distribution@v7.6.15
+- pkg:composer/cedricziel/typo3-base-distribution@v8.4
+- pkg:composer/cedricziel/typo3-base-distribution@v8.5.1

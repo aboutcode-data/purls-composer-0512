@@ -1,0 +1,3 @@
+- pkg:composer/bigfoot/cron-bundle@1.0.0
+- pkg:composer/bigfoot/cron-bundle@1.0.2
+- pkg:composer/bigfoot/cron-bundle@v1.0.1

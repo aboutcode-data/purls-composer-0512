@@ -1,0 +1,3 @@
+- pkg:composer/cdyweb/http-adapter@0.1
+- pkg:composer/cdyweb/http-adapter@0.2
+- pkg:composer/cdyweb/http-adapter@0.2.1

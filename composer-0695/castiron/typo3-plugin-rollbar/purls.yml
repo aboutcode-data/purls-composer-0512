@@ -1,0 +1,5 @@
+- pkg:composer/castiron/typo3-plugin-rollbar@2.0.1
+- pkg:composer/castiron/typo3-plugin-rollbar@2.0.2
+- pkg:composer/castiron/typo3-plugin-rollbar@2.1.0
+- pkg:composer/castiron/typo3-plugin-rollbar@2.2.0
+- pkg:composer/castiron/typo3-plugin-rollbar@2.2.1

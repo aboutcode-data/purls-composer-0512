@@ -1,0 +1,6 @@
+- pkg:composer/biwankaifa/redis@0.1
+- pkg:composer/biwankaifa/redis@0.4.2
+- pkg:composer/biwankaifa/redis@v0.2
+- pkg:composer/biwankaifa/redis@v0.3
+- pkg:composer/biwankaifa/redis@v0.4
+- pkg:composer/biwankaifa/redis@v0.4.1

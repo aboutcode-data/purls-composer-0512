@@ -1,0 +1,6 @@
+- pkg:composer/cellard/process-manager@0.1
+- pkg:composer/cellard/process-manager@0.2
+- pkg:composer/cellard/process-manager@0.3
+- pkg:composer/cellard/process-manager@0.4
+- pkg:composer/cellard/process-manager@1.0
+- pkg:composer/cellard/process-manager@v1.0.1

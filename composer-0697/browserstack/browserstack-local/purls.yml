@@ -1,0 +1,4 @@
+- pkg:composer/browserstack/browserstack-local@v0.1.0
+- pkg:composer/browserstack/browserstack-local@v0.2.0
+- pkg:composer/browserstack/browserstack-local@v1.0.0
+- pkg:composer/browserstack/browserstack-local@v1.1.0

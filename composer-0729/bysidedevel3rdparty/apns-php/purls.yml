@@ -1,0 +1,4 @@
+- pkg:composer/bysidedevel3rdparty/apns-php@v1.0.1
+- pkg:composer/bysidedevel3rdparty/apns-php@v2.0.0-alpha
+- pkg:composer/bysidedevel3rdparty/apns-php@v3.0.0
+- pkg:composer/bysidedevel3rdparty/apns-php@v3.0.1

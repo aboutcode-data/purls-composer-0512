@@ -1,0 +1,16 @@
+- pkg:composer/chillerlan/php-httpinterface@1.0.0
+- pkg:composer/chillerlan/php-httpinterface@1.0.1
+- pkg:composer/chillerlan/php-httpinterface@1.0.2
+- pkg:composer/chillerlan/php-httpinterface@1.1.0
+- pkg:composer/chillerlan/php-httpinterface@1.1.1
+- pkg:composer/chillerlan/php-httpinterface@1.1.2
+- pkg:composer/chillerlan/php-httpinterface@2.0.0
+- pkg:composer/chillerlan/php-httpinterface@3.0.0
+- pkg:composer/chillerlan/php-httpinterface@3.0.1
+- pkg:composer/chillerlan/php-httpinterface@3.1.0
+- pkg:composer/chillerlan/php-httpinterface@3.1.1
+- pkg:composer/chillerlan/php-httpinterface@3.1.2
+- pkg:composer/chillerlan/php-httpinterface@4.0.0
+- pkg:composer/chillerlan/php-httpinterface@5.0.0
+- pkg:composer/chillerlan/php-httpinterface@5.0.1
+- pkg:composer/chillerlan/php-httpinterface@6.0.0

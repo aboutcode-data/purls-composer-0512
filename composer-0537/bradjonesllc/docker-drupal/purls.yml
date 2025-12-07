@@ -1,0 +1,4 @@
+- pkg:composer/bradjonesllc/docker-drupal@v1.0
+- pkg:composer/bradjonesllc/docker-drupal@v2.0
+- pkg:composer/bradjonesllc/docker-drupal@v2.1
+- pkg:composer/bradjonesllc/docker-drupal@v2.2

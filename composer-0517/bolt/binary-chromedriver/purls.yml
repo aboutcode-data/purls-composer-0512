@@ -1,0 +1,16 @@
+- pkg:composer/bolt/binary-chromedriver@2.35.0.0
+- pkg:composer/bolt/binary-chromedriver@2.35.0.1
+- pkg:composer/bolt/binary-chromedriver@2.35.0.2
+- pkg:composer/bolt/binary-chromedriver@2.36.0
+- pkg:composer/bolt/binary-chromedriver@2.8.0
+- pkg:composer/bolt/binary-chromedriver@3.0.0
+- pkg:composer/bolt/binary-chromedriver@4.0.0
+- pkg:composer/bolt/binary-chromedriver@4.0.1
+- pkg:composer/bolt/binary-chromedriver@5.0.0
+- pkg:composer/bolt/binary-chromedriver@5.0.1
+- pkg:composer/bolt/binary-chromedriver@5.0.2
+- pkg:composer/bolt/binary-chromedriver@5.0.3
+- pkg:composer/bolt/binary-chromedriver@5.1.0
+- pkg:composer/bolt/binary-chromedriver@5.1.1
+- pkg:composer/bolt/binary-chromedriver@5.1.2
+- pkg:composer/bolt/binary-chromedriver@5.1.3

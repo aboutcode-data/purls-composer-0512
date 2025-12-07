@@ -1,0 +1,4 @@
+- pkg:composer/cgophp/webman-redis-cache@v1.0.0
+- pkg:composer/cgophp/webman-redis-cache@v1.0.1
+- pkg:composer/cgophp/webman-redis-cache@v1.0.2
+- pkg:composer/cgophp/webman-redis-cache@v1.0.3

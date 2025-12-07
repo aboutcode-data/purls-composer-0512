@@ -1,0 +1,17 @@
+- pkg:composer/brandstudio/elasticsearch@v1.0-stable
+- pkg:composer/brandstudio/elasticsearch@v1.0.1-stable
+- pkg:composer/brandstudio/elasticsearch@v1.0.2-stable
+- pkg:composer/brandstudio/elasticsearch@v1.0.3-stable
+- pkg:composer/brandstudio/elasticsearch@v1.0.4-stable
+- pkg:composer/brandstudio/elasticsearch@v1.0.5-stable
+- pkg:composer/brandstudio/elasticsearch@v1.0.6-stable
+- pkg:composer/brandstudio/elasticsearch@v1.0.7-stable
+- pkg:composer/brandstudio/elasticsearch@v1.0.8-stable
+- pkg:composer/brandstudio/elasticsearch@v2.0.0
+- pkg:composer/brandstudio/elasticsearch@v2.0.1
+- pkg:composer/brandstudio/elasticsearch@v2.0.2
+- pkg:composer/brandstudio/elasticsearch@v2.1.0
+- pkg:composer/brandstudio/elasticsearch@v2.1.1
+- pkg:composer/brandstudio/elasticsearch@v2.1.2
+- pkg:composer/brandstudio/elasticsearch@v2.1.3
+- pkg:composer/brandstudio/elasticsearch@v2.1.4

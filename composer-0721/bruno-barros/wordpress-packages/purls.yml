@@ -1,0 +1,11 @@
+- pkg:composer/bruno-barros/wordpress-packages@1.2
+- pkg:composer/bruno-barros/wordpress-packages@2.0
+- pkg:composer/bruno-barros/wordpress-packages@2.1
+- pkg:composer/bruno-barros/wordpress-packages@2.2
+- pkg:composer/bruno-barros/wordpress-packages@2.3
+- pkg:composer/bruno-barros/wordpress-packages@2.4
+- pkg:composer/bruno-barros/wordpress-packages@3.0.0
+- pkg:composer/bruno-barros/wordpress-packages@3.0.1
+- pkg:composer/bruno-barros/wordpress-packages@4.0.0
+- pkg:composer/bruno-barros/wordpress-packages@v1.0
+- pkg:composer/bruno-barros/wordpress-packages@v1.1

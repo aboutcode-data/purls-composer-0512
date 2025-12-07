@@ -1,0 +1,4 @@
+- pkg:composer/butschster/cycle-orm@v0.1
+- pkg:composer/butschster/cycle-orm@v0.4
+- pkg:composer/butschster/cycle-orm@v0.5
+- pkg:composer/butschster/cycle-orm@v0.6

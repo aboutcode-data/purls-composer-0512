@@ -1,0 +1,5 @@
+- pkg:composer/byjg/rabbitmq-client@4.9.0
+- pkg:composer/byjg/rabbitmq-client@5.0.0
+- pkg:composer/byjg/rabbitmq-client@5.0.1
+- pkg:composer/byjg/rabbitmq-client@5.0.2
+- pkg:composer/byjg/rabbitmq-client@6.0.0

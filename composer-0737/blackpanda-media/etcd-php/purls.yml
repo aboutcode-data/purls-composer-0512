@@ -1,0 +1,4 @@
+- pkg:composer/blackpanda-media/etcd-php@1.0
+- pkg:composer/blackpanda-media/etcd-php@2.0.0
+- pkg:composer/blackpanda-media/etcd-php@2.1.0
+- pkg:composer/blackpanda-media/etcd-php@V1.1
