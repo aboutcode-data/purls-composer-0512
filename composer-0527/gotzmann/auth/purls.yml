@@ -1,0 +1,5 @@
+- pkg:composer/gotzmann/auth@v0.8.2
+- pkg:composer/gotzmann/auth@v0.8.3
+- pkg:composer/gotzmann/auth@v0.9.0
+- pkg:composer/gotzmann/auth@v0.9.1
+- pkg:composer/gotzmann/auth@v1.0.0

@@ -1,0 +1,3 @@
+- pkg:composer/fordnox/php-queue-manager@0.1
+- pkg:composer/fordnox/php-queue-manager@0.2
+- pkg:composer/fordnox/php-queue-manager@0.3

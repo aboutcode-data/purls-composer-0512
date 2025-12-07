@@ -1,0 +1,4 @@
+- pkg:composer/frankvanhest/phpstan-rules-no-magic@v1.0.0
+- pkg:composer/frankvanhest/phpstan-rules-no-magic@v2.0.0
+- pkg:composer/frankvanhest/phpstan-rules-no-magic@v2.1.0
+- pkg:composer/frankvanhest/phpstan-rules-no-magic@v3.0.0

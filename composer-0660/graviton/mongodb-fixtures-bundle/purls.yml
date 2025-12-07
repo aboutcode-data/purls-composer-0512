@@ -1,0 +1,7 @@
+- pkg:composer/graviton/mongodb-fixtures-bundle@v1.0.0
+- pkg:composer/graviton/mongodb-fixtures-bundle@v1.0.1
+- pkg:composer/graviton/mongodb-fixtures-bundle@v2.0.0
+- pkg:composer/graviton/mongodb-fixtures-bundle@v3.0.0
+- pkg:composer/graviton/mongodb-fixtures-bundle@v3.0.1
+- pkg:composer/graviton/mongodb-fixtures-bundle@v4.0.0
+- pkg:composer/graviton/mongodb-fixtures-bundle@v4.0.1

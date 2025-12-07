@@ -1,0 +1,5 @@
+- pkg:composer/go1/jwt-middleware@v0.1
+- pkg:composer/go1/jwt-middleware@v0.2
+- pkg:composer/go1/jwt-middleware@v0.3
+- pkg:composer/go1/jwt-middleware@v0.4
+- pkg:composer/go1/jwt-middleware@v0.5

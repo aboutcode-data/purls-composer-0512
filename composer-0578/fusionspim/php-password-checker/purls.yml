@@ -1,0 +1,15 @@
+- pkg:composer/fusionspim/php-password-checker@1.0.0
+- pkg:composer/fusionspim/php-password-checker@2.0.0
+- pkg:composer/fusionspim/php-password-checker@2.0.1
+- pkg:composer/fusionspim/php-password-checker@2.0.2
+- pkg:composer/fusionspim/php-password-checker@2.0.3
+- pkg:composer/fusionspim/php-password-checker@3.0.0
+- pkg:composer/fusionspim/php-password-checker@3.1.0
+- pkg:composer/fusionspim/php-password-checker@4.0.0
+- pkg:composer/fusionspim/php-password-checker@4.0.1
+- pkg:composer/fusionspim/php-password-checker@4.0.2
+- pkg:composer/fusionspim/php-password-checker@4.0.3
+- pkg:composer/fusionspim/php-password-checker@4.1.0
+- pkg:composer/fusionspim/php-password-checker@4.1.1
+- pkg:composer/fusionspim/php-password-checker@5.0.0
+- pkg:composer/fusionspim/php-password-checker@5.0.1

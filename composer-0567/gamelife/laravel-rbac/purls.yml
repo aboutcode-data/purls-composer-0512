@@ -1,0 +1,5 @@
+- pkg:composer/gamelife/laravel-rbac@v0.1.0
+- pkg:composer/gamelife/laravel-rbac@v0.2.0
+- pkg:composer/gamelife/laravel-rbac@v0.2.1-rc
+- pkg:composer/gamelife/laravel-rbac@v0.2.2-rc
+- pkg:composer/gamelife/laravel-rbac@v0.2.3

@@ -1,0 +1,3 @@
+- pkg:composer/foxrp/rippled-php@1.0.0
+- pkg:composer/foxrp/rippled-php@1.0.1
+- pkg:composer/foxrp/rippled-php@v0.0.1

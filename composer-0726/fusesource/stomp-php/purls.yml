@@ -1,0 +1,4 @@
+- pkg:composer/fusesource/stomp-php@2.0.0
+- pkg:composer/fusesource/stomp-php@2.0.1
+- pkg:composer/fusesource/stomp-php@2.1.0
+- pkg:composer/fusesource/stomp-php@2.1.1

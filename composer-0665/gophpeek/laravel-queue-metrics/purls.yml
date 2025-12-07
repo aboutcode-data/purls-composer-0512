@@ -1,0 +1,5 @@
+- pkg:composer/gophpeek/laravel-queue-metrics@v0.0.1
+- pkg:composer/gophpeek/laravel-queue-metrics@v1.0.0
+- pkg:composer/gophpeek/laravel-queue-metrics@v1.1.0
+- pkg:composer/gophpeek/laravel-queue-metrics@v1.2.0
+- pkg:composer/gophpeek/laravel-queue-metrics@v1.3.0

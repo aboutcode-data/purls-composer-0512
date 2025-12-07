@@ -1,0 +1,2 @@
+- pkg:composer/foodticket/laravel-aws-pubsub@0.5.3
+- pkg:composer/foodticket/laravel-aws-pubsub@0.5.4

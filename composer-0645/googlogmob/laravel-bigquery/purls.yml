@@ -1,0 +1,9 @@
+- pkg:composer/googlogmob/laravel-bigquery@v1.0.0
+- pkg:composer/googlogmob/laravel-bigquery@v1.1
+- pkg:composer/googlogmob/laravel-bigquery@v2.0
+- pkg:composer/googlogmob/laravel-bigquery@v2.1
+- pkg:composer/googlogmob/laravel-bigquery@v2.2
+- pkg:composer/googlogmob/laravel-bigquery@v3.0
+- pkg:composer/googlogmob/laravel-bigquery@v3.1
+- pkg:composer/googlogmob/laravel-bigquery@v3.2
+- pkg:composer/googlogmob/laravel-bigquery@v4.0

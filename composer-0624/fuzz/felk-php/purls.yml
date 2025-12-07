@@ -1,0 +1,16 @@
+- pkg:composer/fuzz/felk-php@0.1
+- pkg:composer/fuzz/felk-php@0.2
+- pkg:composer/fuzz/felk-php@0.2.1
+- pkg:composer/fuzz/felk-php@0.3.0
+- pkg:composer/fuzz/felk-php@0.3.1
+- pkg:composer/fuzz/felk-php@0.3.10
+- pkg:composer/fuzz/felk-php@0.3.11
+- pkg:composer/fuzz/felk-php@0.3.12
+- pkg:composer/fuzz/felk-php@0.3.2
+- pkg:composer/fuzz/felk-php@0.3.3
+- pkg:composer/fuzz/felk-php@0.3.4
+- pkg:composer/fuzz/felk-php@0.3.5
+- pkg:composer/fuzz/felk-php@0.3.6
+- pkg:composer/fuzz/felk-php@0.3.7
+- pkg:composer/fuzz/felk-php@0.3.8
+- pkg:composer/fuzz/felk-php@0.3.9

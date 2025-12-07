@@ -1,0 +1,13 @@
+- pkg:composer/gregurco/guzzle-bundle-oauth2-plugin@v1.0.0
+- pkg:composer/gregurco/guzzle-bundle-oauth2-plugin@v1.0.1
+- pkg:composer/gregurco/guzzle-bundle-oauth2-plugin@v1.0.2
+- pkg:composer/gregurco/guzzle-bundle-oauth2-plugin@v1.0.3
+- pkg:composer/gregurco/guzzle-bundle-oauth2-plugin@v1.0.4
+- pkg:composer/gregurco/guzzle-bundle-oauth2-plugin@v1.0.5
+- pkg:composer/gregurco/guzzle-bundle-oauth2-plugin@v1.0.6
+- pkg:composer/gregurco/guzzle-bundle-oauth2-plugin@v1.0.7
+- pkg:composer/gregurco/guzzle-bundle-oauth2-plugin@v1.0.8
+- pkg:composer/gregurco/guzzle-bundle-oauth2-plugin@v2.0.0
+- pkg:composer/gregurco/guzzle-bundle-oauth2-plugin@v2.1.0
+- pkg:composer/gregurco/guzzle-bundle-oauth2-plugin@v2.2.0
+- pkg:composer/gregurco/guzzle-bundle-oauth2-plugin@v2.3.0

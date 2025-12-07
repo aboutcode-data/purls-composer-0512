@@ -1,0 +1,3 @@
+- pkg:composer/fulfillment/laravel-cache-fallback@1.0.0
+- pkg:composer/fulfillment/laravel-cache-fallback@2.0.0
+- pkg:composer/fulfillment/laravel-cache-fallback@2.1.0

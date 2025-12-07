@@ -1,0 +1,4 @@
+- pkg:composer/firephp/firephp-core@v0.4.0
+- pkg:composer/firephp/firephp-core@v0.5.1
+- pkg:composer/firephp/firephp-core@v0.5.2
+- pkg:composer/firephp/firephp-core@v0.5.3

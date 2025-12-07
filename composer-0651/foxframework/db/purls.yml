@@ -1,0 +1,11 @@
+- pkg:composer/foxframework/db@v0.1-alpha
+- pkg:composer/foxframework/db@v0.1.1-alpha
+- pkg:composer/foxframework/db@v0.1.2-alpha
+- pkg:composer/foxframework/db@v0.1.3-alpha
+- pkg:composer/foxframework/db@v0.1.4-alpha
+- pkg:composer/foxframework/db@v0.1.5-alpha
+- pkg:composer/foxframework/db@v0.1.6-alpha
+- pkg:composer/foxframework/db@v0.1.7-alpha
+- pkg:composer/foxframework/db@v0.1.8-alpha
+- pkg:composer/foxframework/db@v0.1.9-alpha
+- pkg:composer/foxframework/db@v0.2.0-alpha

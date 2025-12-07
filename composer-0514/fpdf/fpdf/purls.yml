@@ -1,0 +1,13 @@
+- pkg:composer/fpdf/fpdf@1.8.1
+- pkg:composer/fpdf/fpdf@1.81.1
+- pkg:composer/fpdf/fpdf@1.81.2
+- pkg:composer/fpdf/fpdf@1.82.1
+- pkg:composer/fpdf/fpdf@1.83.1
+- pkg:composer/fpdf/fpdf@1.83.2
+- pkg:composer/fpdf/fpdf@1.83.3
+- pkg:composer/fpdf/fpdf@1.84.0
+- pkg:composer/fpdf/fpdf@1.84.1
+- pkg:composer/fpdf/fpdf@1.84.2
+- pkg:composer/fpdf/fpdf@1.84.3
+- pkg:composer/fpdf/fpdf@1.85.0
+- pkg:composer/fpdf/fpdf@1.86.0

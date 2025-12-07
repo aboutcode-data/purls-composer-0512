@@ -1,0 +1,5 @@
+- pkg:composer/geocoder-php/mapquest-provider@4.0.0
+- pkg:composer/geocoder-php/mapquest-provider@4.1.0
+- pkg:composer/geocoder-php/mapquest-provider@4.2.0
+- pkg:composer/geocoder-php/mapquest-provider@4.3.0
+- pkg:composer/geocoder-php/mapquest-provider@4.4.0

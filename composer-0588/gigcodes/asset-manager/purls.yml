@@ -1,0 +1,16 @@
+- pkg:composer/gigcodes/asset-manager@v0.1
+- pkg:composer/gigcodes/asset-manager@v0.2
+- pkg:composer/gigcodes/asset-manager@v2.0.0-alpha
+- pkg:composer/gigcodes/asset-manager@v2.0.1-alpha
+- pkg:composer/gigcodes/asset-manager@v2.0.10-alpha
+- pkg:composer/gigcodes/asset-manager@v2.0.11-alpha
+- pkg:composer/gigcodes/asset-manager@v2.0.12-alpha
+- pkg:composer/gigcodes/asset-manager@v2.0.12-beta
+- pkg:composer/gigcodes/asset-manager@v2.0.2-alpha
+- pkg:composer/gigcodes/asset-manager@v2.0.3-alpha
+- pkg:composer/gigcodes/asset-manager@v2.0.4-alpha
+- pkg:composer/gigcodes/asset-manager@v2.0.5-alpha
+- pkg:composer/gigcodes/asset-manager@v2.0.6-alpha
+- pkg:composer/gigcodes/asset-manager@v2.0.7-alpha
+- pkg:composer/gigcodes/asset-manager@v2.0.8-alpha
+- pkg:composer/gigcodes/asset-manager@v2.0.9-alpha

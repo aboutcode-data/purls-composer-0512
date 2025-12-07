@@ -1,0 +1,10 @@
+- pkg:composer/fullpipe/twig-webpack-extension@v1.0
+- pkg:composer/fullpipe/twig-webpack-extension@v1.0.1
+- pkg:composer/fullpipe/twig-webpack-extension@v2.0.0
+- pkg:composer/fullpipe/twig-webpack-extension@v2.0.1
+- pkg:composer/fullpipe/twig-webpack-extension@v3.0.0
+- pkg:composer/fullpipe/twig-webpack-extension@v3.0.1
+- pkg:composer/fullpipe/twig-webpack-extension@v3.1.0
+- pkg:composer/fullpipe/twig-webpack-extension@v4.0.0
+- pkg:composer/fullpipe/twig-webpack-extension@v4.0.1
+- pkg:composer/fullpipe/twig-webpack-extension@v4.0.2

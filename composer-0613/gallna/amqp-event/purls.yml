@@ -1,0 +1,14 @@
+- pkg:composer/gallna/amqp-event@1.0
+- pkg:composer/gallna/amqp-event@1.0.1
+- pkg:composer/gallna/amqp-event@1.0.2
+- pkg:composer/gallna/amqp-event@1.0.3
+- pkg:composer/gallna/amqp-event@2.0
+- pkg:composer/gallna/amqp-event@2.0.1
+- pkg:composer/gallna/amqp-event@2.0.2
+- pkg:composer/gallna/amqp-event@2.1.0
+- pkg:composer/gallna/amqp-event@3.0.0
+- pkg:composer/gallna/amqp-event@3.0.1
+- pkg:composer/gallna/amqp-event@3.0.2
+- pkg:composer/gallna/amqp-event@v0.1
+- pkg:composer/gallna/amqp-event@v0.2
+- pkg:composer/gallna/amqp-event@v0.3

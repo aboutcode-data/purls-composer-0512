@@ -1,0 +1,8 @@
+- pkg:composer/gecko-packages/gecko-php-unit@v1.0
+- pkg:composer/gecko-packages/gecko-php-unit@v2.0
+- pkg:composer/gecko-packages/gecko-php-unit@v2.1
+- pkg:composer/gecko-packages/gecko-php-unit@v2.2
+- pkg:composer/gecko-packages/gecko-php-unit@v2.2.1
+- pkg:composer/gecko-packages/gecko-php-unit@v3.0
+- pkg:composer/gecko-packages/gecko-php-unit@v3.1
+- pkg:composer/gecko-packages/gecko-php-unit@v3.1.1

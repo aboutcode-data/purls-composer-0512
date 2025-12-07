@@ -1,0 +1,2 @@
+- pkg:composer/goalio/goalio-forgotpassword-doctrine-orm@0.9
+- pkg:composer/goalio/goalio-forgotpassword-doctrine-orm@1.0.0

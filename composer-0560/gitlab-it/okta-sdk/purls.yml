@@ -1,0 +1,4 @@
+- pkg:composer/gitlab-it/okta-sdk@2.2.1
+- pkg:composer/gitlab-it/okta-sdk@2.2.24
+- pkg:composer/gitlab-it/okta-sdk@3.0
+- pkg:composer/gitlab-it/okta-sdk@3.0.1

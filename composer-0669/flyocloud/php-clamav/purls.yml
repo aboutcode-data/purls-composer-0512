@@ -1,0 +1,4 @@
+- pkg:composer/flyocloud/php-clamav@1.1.0
+- pkg:composer/flyocloud/php-clamav@2.0.0
+- pkg:composer/flyocloud/php-clamav@v1.0.0
+- pkg:composer/flyocloud/php-clamav@v1.0.1

@@ -1,0 +1,4 @@
+- pkg:composer/flatphp/session@v2.0.0
+- pkg:composer/flatphp/session@v2.0.1
+- pkg:composer/flatphp/session@v3.0.0
+- pkg:composer/flatphp/session@v3.0.1

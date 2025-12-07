@@ -1,0 +1,12 @@
+- pkg:composer/fittinq-pimcore/pimcore-events@1.0.0
+- pkg:composer/fittinq-pimcore/pimcore-events@1.1.0
+- pkg:composer/fittinq-pimcore/pimcore-events@1.1.1
+- pkg:composer/fittinq-pimcore/pimcore-events@1.2.0
+- pkg:composer/fittinq-pimcore/pimcore-events@2.0.0
+- pkg:composer/fittinq-pimcore/pimcore-events@3.0.0
+- pkg:composer/fittinq-pimcore/pimcore-events@3.0.1
+- pkg:composer/fittinq-pimcore/pimcore-events@4.0.0
+- pkg:composer/fittinq-pimcore/pimcore-events@4.1.0
+- pkg:composer/fittinq-pimcore/pimcore-events@4.2.0
+- pkg:composer/fittinq-pimcore/pimcore-events@4.3.0
+- pkg:composer/fittinq-pimcore/pimcore-events@5.0.0

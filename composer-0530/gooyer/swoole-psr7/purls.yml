@@ -1,0 +1,4 @@
+- pkg:composer/gooyer/swoole-psr7@v0.0.1
+- pkg:composer/gooyer/swoole-psr7@v0.0.2
+- pkg:composer/gooyer/swoole-psr7@v0.1
+- pkg:composer/gooyer/swoole-psr7@v0.1.1
