@@ -1,0 +1,7 @@
+- pkg:composer/claroline/ldap-bundle@1.0.0
+- pkg:composer/claroline/ldap-bundle@2.0.0
+- pkg:composer/claroline/ldap-bundle@4.0.0
+- pkg:composer/claroline/ldap-bundle@5.0.0
+- pkg:composer/claroline/ldap-bundle@5.0.1
+- pkg:composer/claroline/ldap-bundle@6.0.0
+- pkg:composer/claroline/ldap-bundle@6.0.1

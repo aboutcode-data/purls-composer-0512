@@ -1,0 +1,3 @@
+- pkg:composer/dagstuhl/swh-archive-client@1.0
+- pkg:composer/dagstuhl/swh-archive-client@1.1
+- pkg:composer/dagstuhl/swh-archive-client@1.1.1

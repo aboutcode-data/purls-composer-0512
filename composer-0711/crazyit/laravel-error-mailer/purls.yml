@@ -1,0 +1,4 @@
+- pkg:composer/crazyit/laravel-error-mailer@0.2
+- pkg:composer/crazyit/laravel-error-mailer@0.3
+- pkg:composer/crazyit/laravel-error-mailer@0.3.1
+- pkg:composer/crazyit/laravel-error-mailer@v0.1.0

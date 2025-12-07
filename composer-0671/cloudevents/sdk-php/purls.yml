@@ -1,0 +1,6 @@
+- pkg:composer/cloudevents/sdk-php@v1.0.0
+- pkg:composer/cloudevents/sdk-php@v1.0.1
+- pkg:composer/cloudevents/sdk-php@v1.0.2
+- pkg:composer/cloudevents/sdk-php@v1.0.3
+- pkg:composer/cloudevents/sdk-php@v1.1.0
+- pkg:composer/cloudevents/sdk-php@v1.2.0

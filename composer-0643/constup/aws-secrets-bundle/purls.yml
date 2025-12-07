@@ -1,0 +1,11 @@
+- pkg:composer/constup/aws-secrets-bundle@1.0
+- pkg:composer/constup/aws-secrets-bundle@1.0.1
+- pkg:composer/constup/aws-secrets-bundle@1.0.2
+- pkg:composer/constup/aws-secrets-bundle@1.0.3
+- pkg:composer/constup/aws-secrets-bundle@1.0.4
+- pkg:composer/constup/aws-secrets-bundle@1.0.5
+- pkg:composer/constup/aws-secrets-bundle@1.0.6
+- pkg:composer/constup/aws-secrets-bundle@1.0.7
+- pkg:composer/constup/aws-secrets-bundle@1.0.8
+- pkg:composer/constup/aws-secrets-bundle@1.0.9
+- pkg:composer/constup/aws-secrets-bundle@v2.0.0

@@ -1,0 +1,15 @@
+- pkg:composer/contao-community-alliance/composer-client@0.14
+- pkg:composer/contao-community-alliance/composer-client@0.15
+- pkg:composer/contao-community-alliance/composer-client@0.15.1
+- pkg:composer/contao-community-alliance/composer-client@0.15.2
+- pkg:composer/contao-community-alliance/composer-client@0.15.3
+- pkg:composer/contao-community-alliance/composer-client@0.15.4
+- pkg:composer/contao-community-alliance/composer-client@0.16.0
+- pkg:composer/contao-community-alliance/composer-client@0.16.0-beta1
+- pkg:composer/contao-community-alliance/composer-client@0.16.1
+- pkg:composer/contao-community-alliance/composer-client@0.16.2
+- pkg:composer/contao-community-alliance/composer-client@0.16.3
+- pkg:composer/contao-community-alliance/composer-client@0.16.4
+- pkg:composer/contao-community-alliance/composer-client@0.16.5
+- pkg:composer/contao-community-alliance/composer-client@0.16.6
+- pkg:composer/contao-community-alliance/composer-client@0.17.0

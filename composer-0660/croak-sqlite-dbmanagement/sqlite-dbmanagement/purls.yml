@@ -1,0 +1,3 @@
+- pkg:composer/croak-sqlite-dbmanagement/sqlite-dbmanagement@1.0
+- pkg:composer/croak-sqlite-dbmanagement/sqlite-dbmanagement@1.02
+- pkg:composer/croak-sqlite-dbmanagement/sqlite-dbmanagement@1.1

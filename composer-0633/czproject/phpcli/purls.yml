@@ -1,0 +1,17 @@
+- pkg:composer/czproject/phpcli@v1.0.0
+- pkg:composer/czproject/phpcli@v1.0.1
+- pkg:composer/czproject/phpcli@v2.0.0
+- pkg:composer/czproject/phpcli@v2.0.0-beta
+- pkg:composer/czproject/phpcli@v2.0.0-beta2
+- pkg:composer/czproject/phpcli@v2.0.0-beta3
+- pkg:composer/czproject/phpcli@v2.0.0-beta4
+- pkg:composer/czproject/phpcli@v2.0.0-beta5
+- pkg:composer/czproject/phpcli@v3.0.0
+- pkg:composer/czproject/phpcli@v3.0.0-beta
+- pkg:composer/czproject/phpcli@v3.0.0-beta2
+- pkg:composer/czproject/phpcli@v3.0.0-beta3
+- pkg:composer/czproject/phpcli@v4.0.0
+- pkg:composer/czproject/phpcli@v4.0.1
+- pkg:composer/czproject/phpcli@v4.1.0
+- pkg:composer/czproject/phpcli@v5.0.0
+- pkg:composer/czproject/phpcli@v5.1.0

@@ -1,0 +1,3 @@
+- pkg:composer/conductor/symfony-4-platform-support@0.9.0
+- pkg:composer/conductor/symfony-4-platform-support@0.9.1
+- pkg:composer/conductor/symfony-4-platform-support@1.0.0

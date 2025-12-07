@@ -1,0 +1,13 @@
+- pkg:composer/dalpras/oauth2-openid-server@v1.0
+- pkg:composer/dalpras/oauth2-openid-server@v2.0
+- pkg:composer/dalpras/oauth2-openid-server@v2.1
+- pkg:composer/dalpras/oauth2-openid-server@v3.0
+- pkg:composer/dalpras/oauth2-openid-server@v3.1
+- pkg:composer/dalpras/oauth2-openid-server@v4.0
+- pkg:composer/dalpras/oauth2-openid-server@v4.1
+- pkg:composer/dalpras/oauth2-openid-server@v4.2
+- pkg:composer/dalpras/oauth2-openid-server@v5.0
+- pkg:composer/dalpras/oauth2-openid-server@v5.1
+- pkg:composer/dalpras/oauth2-openid-server@v5.2
+- pkg:composer/dalpras/oauth2-openid-server@v5.3
+- pkg:composer/dalpras/oauth2-openid-server@v6.0

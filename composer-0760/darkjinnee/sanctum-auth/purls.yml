@@ -1,0 +1,4 @@
+- pkg:composer/darkjinnee/sanctum-auth@1.0.0
+- pkg:composer/darkjinnee/sanctum-auth@2.0.0
+- pkg:composer/darkjinnee/sanctum-auth@2.0.1
+- pkg:composer/darkjinnee/sanctum-auth@2.0.2

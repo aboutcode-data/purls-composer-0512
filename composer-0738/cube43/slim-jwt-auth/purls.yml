@@ -1,0 +1,4 @@
+- pkg:composer/cube43/slim-jwt-auth@4.0.0
+- pkg:composer/cube43/slim-jwt-auth@5.0.0
+- pkg:composer/cube43/slim-jwt-auth@5.1.0
+- pkg:composer/cube43/slim-jwt-auth@6.0.0

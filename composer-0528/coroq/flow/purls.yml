@@ -1,0 +1,14 @@
+- pkg:composer/coroq/flow@v1.0
+- pkg:composer/coroq/flow@v2.0.0
+- pkg:composer/coroq/flow@v2.1.0
+- pkg:composer/coroq/flow@v3.0.0
+- pkg:composer/coroq/flow@v3.0.1
+- pkg:composer/coroq/flow@v4.0.0
+- pkg:composer/coroq/flow@v4.0.1
+- pkg:composer/coroq/flow@v4.0.2
+- pkg:composer/coroq/flow@v4.1.0
+- pkg:composer/coroq/flow@v5.0.0
+- pkg:composer/coroq/flow@v6.0.0
+- pkg:composer/coroq/flow@v6.1.0
+- pkg:composer/coroq/flow@v6.2.0
+- pkg:composer/coroq/flow@v7.0.0

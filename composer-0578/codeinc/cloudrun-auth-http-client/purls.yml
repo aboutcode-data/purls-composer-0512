@@ -1,0 +1,5 @@
+- pkg:composer/codeinc/cloudrun-auth-http-client@v1.0
+- pkg:composer/codeinc/cloudrun-auth-http-client@v1.1
+- pkg:composer/codeinc/cloudrun-auth-http-client@v1.2
+- pkg:composer/codeinc/cloudrun-auth-http-client@v1.3
+- pkg:composer/codeinc/cloudrun-auth-http-client@v1.4

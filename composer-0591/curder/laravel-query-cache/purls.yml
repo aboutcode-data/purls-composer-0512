@@ -1,0 +1,8 @@
+- pkg:composer/curder/laravel-query-cache@1.0.0
+- pkg:composer/curder/laravel-query-cache@1.1.0
+- pkg:composer/curder/laravel-query-cache@1.1.1
+- pkg:composer/curder/laravel-query-cache@2.0.0
+- pkg:composer/curder/laravel-query-cache@2.1.0
+- pkg:composer/curder/laravel-query-cache@3.0.0
+- pkg:composer/curder/laravel-query-cache@4.0.0
+- pkg:composer/curder/laravel-query-cache@5.0.0

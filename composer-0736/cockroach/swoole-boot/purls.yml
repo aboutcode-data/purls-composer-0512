@@ -1,0 +1,2 @@
+- pkg:composer/cockroach/swoole-boot@1.0.1
+- pkg:composer/cockroach/swoole-boot@1.0.2

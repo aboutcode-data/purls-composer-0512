@@ -1,0 +1,5 @@
+- pkg:composer/craftcms/azure-blob@1.0.0
+- pkg:composer/craftcms/azure-blob@1.0.1
+- pkg:composer/craftcms/azure-blob@2.0.0
+- pkg:composer/craftcms/azure-blob@2.0.0-beta.1
+- pkg:composer/craftcms/azure-blob@2.1.0

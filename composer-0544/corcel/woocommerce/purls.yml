@@ -1,0 +1,16 @@
+- pkg:composer/corcel/woocommerce@v1.0.0
+- pkg:composer/corcel/woocommerce@v1.0.1
+- pkg:composer/corcel/woocommerce@v1.0.2
+- pkg:composer/corcel/woocommerce@v1.0.3
+- pkg:composer/corcel/woocommerce@v1.0.4
+- pkg:composer/corcel/woocommerce@v2.0.0
+- pkg:composer/corcel/woocommerce@v2.0.1
+- pkg:composer/corcel/woocommerce@v2.0.2
+- pkg:composer/corcel/woocommerce@v2.0.3
+- pkg:composer/corcel/woocommerce@v2.1.0
+- pkg:composer/corcel/woocommerce@v2.1.1
+- pkg:composer/corcel/woocommerce@v3.0.0
+- pkg:composer/corcel/woocommerce@v4.0.0
+- pkg:composer/corcel/woocommerce@v5.0.0
+- pkg:composer/corcel/woocommerce@v5.0.1
+- pkg:composer/corcel/woocommerce@v6.0.0

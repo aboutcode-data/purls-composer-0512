@@ -1,0 +1,5 @@
+- pkg:composer/codegaudi/laravel-feature-flags@0.0.1
+- pkg:composer/codegaudi/laravel-feature-flags@1.0.0
+- pkg:composer/codegaudi/laravel-feature-flags@1.0.1
+- pkg:composer/codegaudi/laravel-feature-flags@2.0.0
+- pkg:composer/codegaudi/laravel-feature-flags@2.1.0

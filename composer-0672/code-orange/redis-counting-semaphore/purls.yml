@@ -1,0 +1,5 @@
+- pkg:composer/code-orange/redis-counting-semaphore@1.1.1
+- pkg:composer/code-orange/redis-counting-semaphore@v0.1
+- pkg:composer/code-orange/redis-counting-semaphore@v1.0.0
+- pkg:composer/code-orange/redis-counting-semaphore@v1.1
+- pkg:composer/code-orange/redis-counting-semaphore@v1.2

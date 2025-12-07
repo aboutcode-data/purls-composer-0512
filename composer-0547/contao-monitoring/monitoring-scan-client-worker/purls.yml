@@ -1,0 +1,4 @@
+- pkg:composer/contao-monitoring/monitoring-scan-client-worker@1.0.0
+- pkg:composer/contao-monitoring/monitoring-scan-client-worker@1.0.1
+- pkg:composer/contao-monitoring/monitoring-scan-client-worker@1.0.2
+- pkg:composer/contao-monitoring/monitoring-scan-client-worker@1.1.0

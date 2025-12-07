@@ -1,0 +1,5 @@
+- pkg:composer/cubicmushroom/payments-stripe@1.0.0
+- pkg:composer/cubicmushroom/payments-stripe@1.1.0
+- pkg:composer/cubicmushroom/payments-stripe@1.1.1
+- pkg:composer/cubicmushroom/payments-stripe@1.1.2
+- pkg:composer/cubicmushroom/payments-stripe@v1.1.4

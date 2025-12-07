@@ -1,0 +1,5 @@
+- pkg:composer/cwhite92/phpstan-laravel@1.0.0-alpha1
+- pkg:composer/cwhite92/phpstan-laravel@v1.0.0
+- pkg:composer/cwhite92/phpstan-laravel@v1.1.0
+- pkg:composer/cwhite92/phpstan-laravel@v1.1.1
+- pkg:composer/cwhite92/phpstan-laravel@v2.0.0

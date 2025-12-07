@@ -1,0 +1,4 @@
+- pkg:composer/dansmaculotte/laravel-omnipay@1.0.0
+- pkg:composer/dansmaculotte/laravel-omnipay@2.0.0
+- pkg:composer/dansmaculotte/laravel-omnipay@v3.0.0
+- pkg:composer/dansmaculotte/laravel-omnipay@v4.0.0

@@ -1,0 +1,2 @@
+- pkg:composer/cubicmushroom/slim-middleware-doctrine-orm@0.1.0
+- pkg:composer/cubicmushroom/slim-middleware-doctrine-orm@0.1.1

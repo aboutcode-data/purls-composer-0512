@@ -1,0 +1,4 @@
+- pkg:composer/crtl/slim-auth-middleware@1.0.0
+- pkg:composer/crtl/slim-auth-middleware@1.0.1
+- pkg:composer/crtl/slim-auth-middleware@1.0.2
+- pkg:composer/crtl/slim-auth-middleware@1.0.3

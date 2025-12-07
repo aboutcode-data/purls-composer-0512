@@ -1,0 +1,4 @@
+- pkg:composer/convenia/graphql-client@1.0
+- pkg:composer/convenia/graphql-client@1.1
+- pkg:composer/convenia/graphql-client@1.2
+- pkg:composer/convenia/graphql-client@2

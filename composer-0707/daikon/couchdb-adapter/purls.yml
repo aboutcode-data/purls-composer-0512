@@ -1,0 +1,4 @@
+- pkg:composer/daikon/couchdb-adapter@v0.1
+- pkg:composer/daikon/couchdb-adapter@v0.2
+- pkg:composer/daikon/couchdb-adapter@v0.3
+- pkg:composer/daikon/couchdb-adapter@v0.4

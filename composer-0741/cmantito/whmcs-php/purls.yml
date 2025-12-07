@@ -1,0 +1,16 @@
+- pkg:composer/cmantito/whmcs-php@v2.0
+- pkg:composer/cmantito/whmcs-php@v2.1
+- pkg:composer/cmantito/whmcs-php@v2.2
+- pkg:composer/cmantito/whmcs-php@v2.3
+- pkg:composer/cmantito/whmcs-php@v2.4
+- pkg:composer/cmantito/whmcs-php@v2.5
+- pkg:composer/cmantito/whmcs-php@v2.6
+- pkg:composer/cmantito/whmcs-php@v2.7
+- pkg:composer/cmantito/whmcs-php@v2.8
+- pkg:composer/cmantito/whmcs-php@v2.9
+- pkg:composer/cmantito/whmcs-php@v3.0
+- pkg:composer/cmantito/whmcs-php@v3.1
+- pkg:composer/cmantito/whmcs-php@v3.2
+- pkg:composer/cmantito/whmcs-php@v3.3
+- pkg:composer/cmantito/whmcs-php@v3.4
+- pkg:composer/cmantito/whmcs-php@v3.5

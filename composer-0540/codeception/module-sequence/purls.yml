@@ -1,0 +1,4 @@
+- pkg:composer/codeception/module-sequence@1.0.0
+- pkg:composer/codeception/module-sequence@1.0.1
+- pkg:composer/codeception/module-sequence@2.0.0
+- pkg:composer/codeception/module-sequence@3.0.0

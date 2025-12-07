@@ -1,0 +1,8 @@
+- pkg:composer/crowphp/crow@0.1-beta
+- pkg:composer/crowphp/crow@0.2
+- pkg:composer/crowphp/crow@0.3
+- pkg:composer/crowphp/crow@0.3.1
+- pkg:composer/crowphp/crow@0.3.2
+- pkg:composer/crowphp/crow@v0.4
+- pkg:composer/crowphp/crow@v0.4.1
+- pkg:composer/crowphp/crow@v0.4.2

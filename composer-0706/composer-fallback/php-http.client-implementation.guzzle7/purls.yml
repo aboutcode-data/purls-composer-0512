@@ -1,0 +1,2 @@
+- pkg:composer/composer-fallback/php-http.client-implementation.guzzle7@1.0
+- pkg:composer/composer-fallback/php-http.client-implementation.guzzle7@1.1

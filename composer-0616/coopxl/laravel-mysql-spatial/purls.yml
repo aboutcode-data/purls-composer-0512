@@ -1,0 +1,5 @@
+- pkg:composer/coopxl/laravel-mysql-spatial@v1.0.0
+- pkg:composer/coopxl/laravel-mysql-spatial@v1.0.1
+- pkg:composer/coopxl/laravel-mysql-spatial@v2.0.0
+- pkg:composer/coopxl/laravel-mysql-spatial@v2.0.1
+- pkg:composer/coopxl/laravel-mysql-spatial@v3.0.0

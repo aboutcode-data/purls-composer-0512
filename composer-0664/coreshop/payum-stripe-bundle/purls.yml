@@ -1,0 +1,6 @@
+- pkg:composer/coreshop/payum-stripe-bundle@2.2.0
+- pkg:composer/coreshop/payum-stripe-bundle@v1.0.0
+- pkg:composer/coreshop/payum-stripe-bundle@v1.0.1
+- pkg:composer/coreshop/payum-stripe-bundle@v2.0.0
+- pkg:composer/coreshop/payum-stripe-bundle@v2.0.1
+- pkg:composer/coreshop/payum-stripe-bundle@v2.1.0
