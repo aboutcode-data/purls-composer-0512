@@ -1,0 +1,5 @@
+- pkg:composer/luscii/php-fhir-model@v0.1.0
+- pkg:composer/luscii/php-fhir-model@v1.0.0
+- pkg:composer/luscii/php-fhir-model@v2.0.0
+- pkg:composer/luscii/php-fhir-model@v3.0.0
+- pkg:composer/luscii/php-fhir-model@v4.0.0

@@ -1,0 +1,4 @@
+- pkg:composer/laravel-notification-channels/vodafone@1.2.0
+- pkg:composer/laravel-notification-channels/vodafone@v1.0.0
+- pkg:composer/laravel-notification-channels/vodafone@v1.1.0
+- pkg:composer/laravel-notification-channels/vodafone@v2.0.0

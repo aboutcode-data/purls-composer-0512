@@ -1,0 +1,5 @@
+- pkg:composer/league/commonmark-ext-inlines-only@v0.1.0
+- pkg:composer/league/commonmark-ext-inlines-only@v0.2.0
+- pkg:composer/league/commonmark-ext-inlines-only@v1.0.0
+- pkg:composer/league/commonmark-ext-inlines-only@v1.0.0-beta1
+- pkg:composer/league/commonmark-ext-inlines-only@v1.1.0

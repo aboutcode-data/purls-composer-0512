@@ -1,0 +1,4 @@
+- pkg:composer/localfr/salesforce-client-bundle@v0.1.0
+- pkg:composer/localfr/salesforce-client-bundle@v0.1.1
+- pkg:composer/localfr/salesforce-client-bundle@v0.1.2
+- pkg:composer/localfr/salesforce-client-bundle@v1.0.0

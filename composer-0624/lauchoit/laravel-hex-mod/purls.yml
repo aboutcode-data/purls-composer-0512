@@ -1,0 +1,6 @@
+- pkg:composer/lauchoit/laravel-hex-mod@v0.9.3-RC
+- pkg:composer/lauchoit/laravel-hex-mod@v0.9.4-RC
+- pkg:composer/lauchoit/laravel-hex-mod@v0.9.5-RC
+- pkg:composer/lauchoit/laravel-hex-mod@v1.0.0
+- pkg:composer/lauchoit/laravel-hex-mod@v1.0.1
+- pkg:composer/lauchoit/laravel-hex-mod@v1.0.2

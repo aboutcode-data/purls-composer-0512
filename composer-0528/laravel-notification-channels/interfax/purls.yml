@@ -1,0 +1,12 @@
+- pkg:composer/laravel-notification-channels/interfax@v1.0.0
+- pkg:composer/laravel-notification-channels/interfax@v2.0.0
+- pkg:composer/laravel-notification-channels/interfax@v2.1.0
+- pkg:composer/laravel-notification-channels/interfax@v2.1.1
+- pkg:composer/laravel-notification-channels/interfax@v2.2.0
+- pkg:composer/laravel-notification-channels/interfax@v2.3.0
+- pkg:composer/laravel-notification-channels/interfax@v2.4.0
+- pkg:composer/laravel-notification-channels/interfax@v3.0.0
+- pkg:composer/laravel-notification-channels/interfax@v4.0.0
+- pkg:composer/laravel-notification-channels/interfax@v5.0.0
+- pkg:composer/laravel-notification-channels/interfax@v6.0.0
+- pkg:composer/laravel-notification-channels/interfax@v7.0.0

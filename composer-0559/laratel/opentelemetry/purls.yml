@@ -1,0 +1,6 @@
+- pkg:composer/laratel/opentelemetry@v1.0
+- pkg:composer/laratel/opentelemetry@v1.1
+- pkg:composer/laratel/opentelemetry@v1.2
+- pkg:composer/laratel/opentelemetry@v1.3
+- pkg:composer/laratel/opentelemetry@v1.4
+- pkg:composer/laratel/opentelemetry@v1.5

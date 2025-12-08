@@ -1,0 +1,15 @@
+- pkg:composer/lemonde/phalcon-abtest@1.0.0
+- pkg:composer/lemonde/phalcon-abtest@1.0.1
+- pkg:composer/lemonde/phalcon-abtest@1.0.2
+- pkg:composer/lemonde/phalcon-abtest@1.1.0
+- pkg:composer/lemonde/phalcon-abtest@1.1.1
+- pkg:composer/lemonde/phalcon-abtest@1.2.0
+- pkg:composer/lemonde/phalcon-abtest@1.2.1
+- pkg:composer/lemonde/phalcon-abtest@2.0.0
+- pkg:composer/lemonde/phalcon-abtest@3.0.0
+- pkg:composer/lemonde/phalcon-abtest@3.0.1
+- pkg:composer/lemonde/phalcon-abtest@4.0.0
+- pkg:composer/lemonde/phalcon-abtest@4.1.0
+- pkg:composer/lemonde/phalcon-abtest@v1.0.0-RC1
+- pkg:composer/lemonde/phalcon-abtest@v1.0.0-RC2
+- pkg:composer/lemonde/phalcon-abtest@v1.0.0-RC3

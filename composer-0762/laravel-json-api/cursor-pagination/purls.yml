@@ -1,0 +1,6 @@
+- pkg:composer/laravel-json-api/cursor-pagination@v1.0.0
+- pkg:composer/laravel-json-api/cursor-pagination@v2.0.0
+- pkg:composer/laravel-json-api/cursor-pagination@v2.1.0
+- pkg:composer/laravel-json-api/cursor-pagination@v3.0.0
+- pkg:composer/laravel-json-api/cursor-pagination@v4.0.0
+- pkg:composer/laravel-json-api/cursor-pagination@v4.1.0

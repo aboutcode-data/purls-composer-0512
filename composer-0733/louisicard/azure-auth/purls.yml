@@ -1,0 +1,5 @@
+- pkg:composer/louisicard/azure-auth@0.1
+- pkg:composer/louisicard/azure-auth@1.0
+- pkg:composer/louisicard/azure-auth@2.0
+- pkg:composer/louisicard/azure-auth@2.0.1
+- pkg:composer/louisicard/azure-auth@2.0.2

@@ -1,0 +1,12 @@
+- pkg:composer/liftkit/dependency-injection@v1.0
+- pkg:composer/liftkit/dependency-injection@v1.1
+- pkg:composer/liftkit/dependency-injection@v1.1.1
+- pkg:composer/liftkit/dependency-injection@v1.2.0
+- pkg:composer/liftkit/dependency-injection@v1.3.0
+- pkg:composer/liftkit/dependency-injection@v1.3.0-alpha1
+- pkg:composer/liftkit/dependency-injection@v1.3.0-alpha2
+- pkg:composer/liftkit/dependency-injection@v1.3.1
+- pkg:composer/liftkit/dependency-injection@v1.3.2
+- pkg:composer/liftkit/dependency-injection@v1.4.0
+- pkg:composer/liftkit/dependency-injection@v1.5.0
+- pkg:composer/liftkit/dependency-injection@v1.5.1

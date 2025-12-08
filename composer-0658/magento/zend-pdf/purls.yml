@@ -1,0 +1,6 @@
+- pkg:composer/magento/zend-pdf@1.16.0
+- pkg:composer/magento/zend-pdf@1.16.1
+- pkg:composer/magento/zend-pdf@1.16.2
+- pkg:composer/magento/zend-pdf@1.16.3
+- pkg:composer/magento/zend-pdf@1.16.4
+- pkg:composer/magento/zend-pdf@1.16.5

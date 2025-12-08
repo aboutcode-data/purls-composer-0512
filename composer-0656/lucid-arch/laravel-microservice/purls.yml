@@ -1,0 +1,11 @@
+- pkg:composer/lucid-arch/laravel-microservice@v5.3.0
+- pkg:composer/lucid-arch/laravel-microservice@v5.3.1
+- pkg:composer/lucid-arch/laravel-microservice@v5.3.2
+- pkg:composer/lucid-arch/laravel-microservice@v5.4.0
+- pkg:composer/lucid-arch/laravel-microservice@v5.5.0
+- pkg:composer/lucid-arch/laravel-microservice@v5.6.0
+- pkg:composer/lucid-arch/laravel-microservice@v5.7.0
+- pkg:composer/lucid-arch/laravel-microservice@v5.8.0
+- pkg:composer/lucid-arch/laravel-microservice@v6.0.0
+- pkg:composer/lucid-arch/laravel-microservice@v7.0.0
+- pkg:composer/lucid-arch/laravel-microservice@v8.0.0

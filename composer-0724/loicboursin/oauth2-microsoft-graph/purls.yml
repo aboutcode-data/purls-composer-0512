@@ -1,0 +1,5 @@
+- pkg:composer/loicboursin/oauth2-microsoft-graph@v0.1.0
+- pkg:composer/loicboursin/oauth2-microsoft-graph@v1.0.0
+- pkg:composer/loicboursin/oauth2-microsoft-graph@v1.0.1
+- pkg:composer/loicboursin/oauth2-microsoft-graph@v1.0.2
+- pkg:composer/loicboursin/oauth2-microsoft-graph@v1.0.3

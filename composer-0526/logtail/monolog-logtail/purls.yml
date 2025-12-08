@@ -1,0 +1,15 @@
+- pkg:composer/logtail/monolog-logtail@v0.1.0
+- pkg:composer/logtail/monolog-logtail@v0.1.1
+- pkg:composer/logtail/monolog-logtail@v0.1.2
+- pkg:composer/logtail/monolog-logtail@v0.1.3
+- pkg:composer/logtail/monolog-logtail@v0.1.4
+- pkg:composer/logtail/monolog-logtail@v0.1.5
+- pkg:composer/logtail/monolog-logtail@v2.0.0
+- pkg:composer/logtail/monolog-logtail@v2.0.1
+- pkg:composer/logtail/monolog-logtail@v2.1.0
+- pkg:composer/logtail/monolog-logtail@v2.2.0
+- pkg:composer/logtail/monolog-logtail@v2.3.0
+- pkg:composer/logtail/monolog-logtail@v3.0.0
+- pkg:composer/logtail/monolog-logtail@v3.1.0
+- pkg:composer/logtail/monolog-logtail@v3.2.0
+- pkg:composer/logtail/monolog-logtail@v3.3.0

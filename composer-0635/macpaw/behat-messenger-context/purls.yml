@@ -1,0 +1,11 @@
+- pkg:composer/macpaw/behat-messenger-context@v1.0.0
+- pkg:composer/macpaw/behat-messenger-context@v1.0.1
+- pkg:composer/macpaw/behat-messenger-context@v1.1.0
+- pkg:composer/macpaw/behat-messenger-context@v1.2.0
+- pkg:composer/macpaw/behat-messenger-context@v1.3.0
+- pkg:composer/macpaw/behat-messenger-context@v2.0.0
+- pkg:composer/macpaw/behat-messenger-context@v2.0.1
+- pkg:composer/macpaw/behat-messenger-context@v2.0.2
+- pkg:composer/macpaw/behat-messenger-context@v3.0.0
+- pkg:composer/macpaw/behat-messenger-context@v3.0.1
+- pkg:composer/macpaw/behat-messenger-context@v3.1.0

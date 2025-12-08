@@ -1,0 +1,4 @@
+- pkg:composer/ltdsh/telegram-bot-sender@0.1
+- pkg:composer/ltdsh/telegram-bot-sender@0.2
+- pkg:composer/ltdsh/telegram-bot-sender@0.2.1
+- pkg:composer/ltdsh/telegram-bot-sender@0.2.2

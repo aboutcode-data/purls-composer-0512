@@ -1,0 +1,5 @@
+- pkg:composer/loicm/shopify-webhook@1.0.0
+- pkg:composer/loicm/shopify-webhook@1.1.0-alpha
+- pkg:composer/loicm/shopify-webhook@1.2.0-alpha
+- pkg:composer/loicm/shopify-webhook@2.0.0
+- pkg:composer/loicm/shopify-webhook@2.0.1

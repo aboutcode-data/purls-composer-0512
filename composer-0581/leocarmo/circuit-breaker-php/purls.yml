@@ -1,0 +1,12 @@
+- pkg:composer/leocarmo/circuit-breaker-php@1.0.0
+- pkg:composer/leocarmo/circuit-breaker-php@2.0.0
+- pkg:composer/leocarmo/circuit-breaker-php@2.0.1
+- pkg:composer/leocarmo/circuit-breaker-php@2.0.2
+- pkg:composer/leocarmo/circuit-breaker-php@2.0.3
+- pkg:composer/leocarmo/circuit-breaker-php@3.0.0
+- pkg:composer/leocarmo/circuit-breaker-php@4.0.0
+- pkg:composer/leocarmo/circuit-breaker-php@4.0.1
+- pkg:composer/leocarmo/circuit-breaker-php@4.0.2
+- pkg:composer/leocarmo/circuit-breaker-php@5.0.0
+- pkg:composer/leocarmo/circuit-breaker-php@6.0.0
+- pkg:composer/leocarmo/circuit-breaker-php@6.0.1

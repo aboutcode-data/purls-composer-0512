@@ -1,0 +1,5 @@
+- pkg:composer/m00t/behat-partial-runner@1.0
+- pkg:composer/m00t/behat-partial-runner@2.0
+- pkg:composer/m00t/behat-partial-runner@3.0
+- pkg:composer/m00t/behat-partial-runner@3.1
+- pkg:composer/m00t/behat-partial-runner@3.2

@@ -1,0 +1,4 @@
+- pkg:composer/liplum/flarum-jwt-auth@0.1
+- pkg:composer/liplum/flarum-jwt-auth@0.2
+- pkg:composer/liplum/flarum-jwt-auth@0.3
+- pkg:composer/liplum/flarum-jwt-auth@0.3.1

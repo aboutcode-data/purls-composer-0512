@@ -1,0 +1,12 @@
+- pkg:composer/laravel-notification-channels/messagebird@0.0.1
+- pkg:composer/laravel-notification-channels/messagebird@1.0.2
+- pkg:composer/laravel-notification-channels/messagebird@v1.0.0
+- pkg:composer/laravel-notification-channels/messagebird@v1.0.1
+- pkg:composer/laravel-notification-channels/messagebird@v2.0.0
+- pkg:composer/laravel-notification-channels/messagebird@v2.1.0
+- pkg:composer/laravel-notification-channels/messagebird@v3.0.0
+- pkg:composer/laravel-notification-channels/messagebird@v4.0.0
+- pkg:composer/laravel-notification-channels/messagebird@v4.0.1
+- pkg:composer/laravel-notification-channels/messagebird@v4.1.0
+- pkg:composer/laravel-notification-channels/messagebird@v4.2.0
+- pkg:composer/laravel-notification-channels/messagebird@v4.3.0

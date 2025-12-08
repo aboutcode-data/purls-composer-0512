@@ -1,0 +1,4 @@
+- pkg:composer/laratalks/payment-gateways@v0.1-beta1
+- pkg:composer/laratalks/payment-gateways@v0.1.1-beta1
+- pkg:composer/laratalks/payment-gateways@v0.1.2-beta
+- pkg:composer/laratalks/payment-gateways@v0.1.3-beta

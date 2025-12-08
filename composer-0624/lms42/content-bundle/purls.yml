@@ -1,0 +1,4 @@
+- pkg:composer/lms42/content-bundle@v0.2
+- pkg:composer/lms42/content-bundle@v0.3
+- pkg:composer/lms42/content-bundle@v0.4.0
+- pkg:composer/lms42/content-bundle@v1.0.0

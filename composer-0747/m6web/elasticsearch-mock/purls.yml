@@ -1,0 +1,4 @@
+- pkg:composer/m6web/elasticsearch-mock@v0.1
+- pkg:composer/m6web/elasticsearch-mock@v0.2
+- pkg:composer/m6web/elasticsearch-mock@v0.3
+- pkg:composer/m6web/elasticsearch-mock@v5.0.0
