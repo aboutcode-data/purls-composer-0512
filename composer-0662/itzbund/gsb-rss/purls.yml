@@ -51,6 +51,7 @@
 - pkg:composer/itzbund/gsb-rss@v1.2.5
 - pkg:composer/itzbund/gsb-rss@v1.2.6
 - pkg:composer/itzbund/gsb-rss@v1.2.7
+- pkg:composer/itzbund/gsb-rss@v1.2.8
 - pkg:composer/itzbund/gsb-rss@v2.0.0
 - pkg:composer/itzbund/gsb-rss@v2.0.0-beta.1
 - pkg:composer/itzbund/gsb-rss@v2.0.0-beta.10
@@ -120,3 +121,5 @@
 - pkg:composer/itzbund/gsb-rss@v2.0.1-rc.5
 - pkg:composer/itzbund/gsb-rss@v2.0.2-rc.1
 - pkg:composer/itzbund/gsb-rss@v2.0.2-rc.2
+- pkg:composer/itzbund/gsb-rss@v2.1.0-rc.1
+- pkg:composer/itzbund/gsb-rss@v2.1.0-rc.2
