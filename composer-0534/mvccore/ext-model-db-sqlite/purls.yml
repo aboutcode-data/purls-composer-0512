@@ -1,0 +1,17 @@
+- pkg:composer/mvccore/ext-model-db-sqlite@v5.0.0
+- pkg:composer/mvccore/ext-model-db-sqlite@v5.0.1
+- pkg:composer/mvccore/ext-model-db-sqlite@v5.0.2
+- pkg:composer/mvccore/ext-model-db-sqlite@v5.0.3
+- pkg:composer/mvccore/ext-model-db-sqlite@v5.0.4
+- pkg:composer/mvccore/ext-model-db-sqlite@v5.1.0
+- pkg:composer/mvccore/ext-model-db-sqlite@v5.1.1
+- pkg:composer/mvccore/ext-model-db-sqlite@v5.1.2
+- pkg:composer/mvccore/ext-model-db-sqlite@v5.1.4
+- pkg:composer/mvccore/ext-model-db-sqlite@v5.1.5
+- pkg:composer/mvccore/ext-model-db-sqlite@v5.1.6
+- pkg:composer/mvccore/ext-model-db-sqlite@v5.2.0
+- pkg:composer/mvccore/ext-model-db-sqlite@v5.2.1
+- pkg:composer/mvccore/ext-model-db-sqlite@v5.2.2
+- pkg:composer/mvccore/ext-model-db-sqlite@v5.2.3
+- pkg:composer/mvccore/ext-model-db-sqlite@v5.2.4
+- pkg:composer/mvccore/ext-model-db-sqlite@v5.3.0

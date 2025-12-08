@@ -1,0 +1,4 @@
+- pkg:composer/nitricware/nwdatabase@1.1.1
+- pkg:composer/nitricware/nwdatabase@2.0
+- pkg:composer/nitricware/nwdatabase@2.1
+- pkg:composer/nitricware/nwdatabase@3.0

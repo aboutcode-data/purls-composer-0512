@@ -1,0 +1,4 @@
+- pkg:composer/mustache/silex-provider@v0.1.0
+- pkg:composer/mustache/silex-provider@v1.0.0
+- pkg:composer/mustache/silex-provider@v1.1.0
+- pkg:composer/mustache/silex-provider@v2.0.0

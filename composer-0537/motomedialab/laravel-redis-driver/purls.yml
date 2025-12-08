@@ -1,0 +1,5 @@
+- pkg:composer/motomedialab/laravel-redis-driver@v1.0.0
+- pkg:composer/motomedialab/laravel-redis-driver@v1.1.0
+- pkg:composer/motomedialab/laravel-redis-driver@v1.1.1
+- pkg:composer/motomedialab/laravel-redis-driver@v2.0.0
+- pkg:composer/motomedialab/laravel-redis-driver@v2.0.1

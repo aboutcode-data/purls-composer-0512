@@ -1,0 +1,6 @@
+- pkg:composer/neunerlei/event-bus@1.1.0
+- pkg:composer/neunerlei/event-bus@1.2.0
+- pkg:composer/neunerlei/event-bus@2.0.0
+- pkg:composer/neunerlei/event-bus@2.0.1
+- pkg:composer/neunerlei/event-bus@2.0.2
+- pkg:composer/neunerlei/event-bus@3.0.0

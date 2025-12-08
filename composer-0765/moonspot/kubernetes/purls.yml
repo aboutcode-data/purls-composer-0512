@@ -1,0 +1,9 @@
+- pkg:composer/moonspot/kubernetes@v1.21.0
+- pkg:composer/moonspot/kubernetes@v1.22.0
+- pkg:composer/moonspot/kubernetes@v1.23.0
+- pkg:composer/moonspot/kubernetes@v1.24.0
+- pkg:composer/moonspot/kubernetes@v1.25.0
+- pkg:composer/moonspot/kubernetes@v1.26.0
+- pkg:composer/moonspot/kubernetes@v1.27.0
+- pkg:composer/moonspot/kubernetes@v1.28.0
+- pkg:composer/moonspot/kubernetes@v1.29.0

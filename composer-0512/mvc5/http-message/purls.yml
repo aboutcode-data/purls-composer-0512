@@ -1,0 +1,16 @@
+- pkg:composer/mvc5/http-message@1.0
+- pkg:composer/mvc5/http-message@1.0.1
+- pkg:composer/mvc5/http-message@1.0.2
+- pkg:composer/mvc5/http-message@10.0.0
+- pkg:composer/mvc5/http-message@2.0
+- pkg:composer/mvc5/http-message@3.0
+- pkg:composer/mvc5/http-message@4.0
+- pkg:composer/mvc5/http-message@5.0
+- pkg:composer/mvc5/http-message@5.1
+- pkg:composer/mvc5/http-message@5.2
+- pkg:composer/mvc5/http-message@5.2.1
+- pkg:composer/mvc5/http-message@6.0.0
+- pkg:composer/mvc5/http-message@7.0.0
+- pkg:composer/mvc5/http-message@7.0.1
+- pkg:composer/mvc5/http-message@8.0.0
+- pkg:composer/mvc5/http-message@9.0.0

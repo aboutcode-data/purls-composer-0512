@@ -1,0 +1,3 @@
+- pkg:composer/mrden/php-osrm@1.0.0
+- pkg:composer/mrden/php-osrm@2.0.0
+- pkg:composer/mrden/php-osrm@3.0.0

@@ -1,0 +1,3 @@
+- pkg:composer/mustafstarlabs/oauth2-keycloak@0.0.1
+- pkg:composer/mustafstarlabs/oauth2-keycloak@0.0.2
+- pkg:composer/mustafstarlabs/oauth2-keycloak@0.0.3

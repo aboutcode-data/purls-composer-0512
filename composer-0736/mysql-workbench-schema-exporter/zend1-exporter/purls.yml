@@ -1,0 +1,9 @@
+- pkg:composer/mysql-workbench-schema-exporter/zend1-exporter@3.0.0
+- pkg:composer/mysql-workbench-schema-exporter/zend1-exporter@3.0.1
+- pkg:composer/mysql-workbench-schema-exporter/zend1-exporter@v3.0.2
+- pkg:composer/mysql-workbench-schema-exporter/zend1-exporter@v3.1.0
+- pkg:composer/mysql-workbench-schema-exporter/zend1-exporter@v3.1.1
+- pkg:composer/mysql-workbench-schema-exporter/zend1-exporter@v3.2.0
+- pkg:composer/mysql-workbench-schema-exporter/zend1-exporter@v4.0.0
+- pkg:composer/mysql-workbench-schema-exporter/zend1-exporter@v4.1.0
+- pkg:composer/mysql-workbench-schema-exporter/zend1-exporter@v4.2.0

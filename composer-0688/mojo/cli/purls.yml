@@ -1,0 +1,4 @@
+- pkg:composer/mojo/cli@1.0
+- pkg:composer/mojo/cli@1.1
+- pkg:composer/mojo/cli@1.2
+- pkg:composer/mojo/cli@1.3

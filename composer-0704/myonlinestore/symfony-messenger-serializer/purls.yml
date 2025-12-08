@@ -1,0 +1,5 @@
+- pkg:composer/myonlinestore/symfony-messenger-serializer@0.1
+- pkg:composer/myonlinestore/symfony-messenger-serializer@0.2
+- pkg:composer/myonlinestore/symfony-messenger-serializer@0.3
+- pkg:composer/myonlinestore/symfony-messenger-serializer@0.4
+- pkg:composer/myonlinestore/symfony-messenger-serializer@0.5

@@ -1,0 +1,8 @@
+- pkg:composer/networking/bootstrap-bundle@v5.1
+- pkg:composer/networking/bootstrap-bundle@v5.1.1
+- pkg:composer/networking/bootstrap-bundle@v6.2
+- pkg:composer/networking/bootstrap-bundle@v6.2.1
+- pkg:composer/networking/bootstrap-bundle@v6.2.2
+- pkg:composer/networking/bootstrap-bundle@v6.2.3
+- pkg:composer/networking/bootstrap-bundle@v6.2.4
+- pkg:composer/networking/bootstrap-bundle@v6.2.5

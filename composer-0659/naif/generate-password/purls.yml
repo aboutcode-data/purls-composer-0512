@@ -1,0 +1,4 @@
+- pkg:composer/naif/generate-password@v1.0
+- pkg:composer/naif/generate-password@v1.1
+- pkg:composer/naif/generate-password@v1.3
+- pkg:composer/naif/generate-password@v1.4

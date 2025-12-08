@@ -1,0 +1,4 @@
+- pkg:composer/nicksdot/phpstan-prettier-output@0.2.0
+- pkg:composer/nicksdot/phpstan-prettier-output@0.3.0
+- pkg:composer/nicksdot/phpstan-prettier-output@v0.1.0
+- pkg:composer/nicksdot/phpstan-prettier-output@v0.1.1

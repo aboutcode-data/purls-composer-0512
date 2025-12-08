@@ -1,0 +1,17 @@
+- pkg:composer/nexmo/laravel@0.4.0
+- pkg:composer/nexmo/laravel@1.0.0
+- pkg:composer/nexmo/laravel@1.0.0-beta3
+- pkg:composer/nexmo/laravel@1.0.0-beta4
+- pkg:composer/nexmo/laravel@1.0.0-beta5
+- pkg:composer/nexmo/laravel@1.0.1
+- pkg:composer/nexmo/laravel@1.0.2
+- pkg:composer/nexmo/laravel@1.1.0
+- pkg:composer/nexmo/laravel@1.1.1
+- pkg:composer/nexmo/laravel@1.1.2
+- pkg:composer/nexmo/laravel@2.0.0
+- pkg:composer/nexmo/laravel@2.1.0
+- pkg:composer/nexmo/laravel@2.2.0
+- pkg:composer/nexmo/laravel@2.3.0
+- pkg:composer/nexmo/laravel@2.4.0
+- pkg:composer/nexmo/laravel@2.4.1
+- pkg:composer/nexmo/laravel@3.0.0

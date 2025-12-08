@@ -1,0 +1,7 @@
+- pkg:composer/neos/ldap@0.0.2
+- pkg:composer/neos/ldap@0.1.1
+- pkg:composer/neos/ldap@0.1.2
+- pkg:composer/neos/ldap@1.0.0
+- pkg:composer/neos/ldap@2.0.0
+- pkg:composer/neos/ldap@3.0.0
+- pkg:composer/neos/ldap@3.1.0

@@ -1,0 +1,4 @@
+- pkg:composer/neam/docker-stack@0.1.0
+- pkg:composer/neam/docker-stack@0.2.0
+- pkg:composer/neam/docker-stack@0.3.0
+- pkg:composer/neam/docker-stack@0.4.0
