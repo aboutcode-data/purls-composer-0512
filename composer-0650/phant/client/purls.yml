@@ -1,0 +1,8 @@
+- pkg:composer/phant/client@1.0
+- pkg:composer/phant/client@1.1
+- pkg:composer/phant/client@1.2
+- pkg:composer/phant/client@2.0
+- pkg:composer/phant/client@2.1
+- pkg:composer/phant/client@2.2
+- pkg:composer/phant/client@2.3
+- pkg:composer/phant/client@2.4

@@ -1,0 +1,16 @@
+- pkg:composer/pestphp/pest-plugin-laravel@v0.2.0
+- pkg:composer/pestphp/pest-plugin-laravel@v0.3.0
+- pkg:composer/pestphp/pest-plugin-laravel@v1.0.0
+- pkg:composer/pestphp/pest-plugin-laravel@v1.1.0
+- pkg:composer/pestphp/pest-plugin-laravel@v1.2.0
+- pkg:composer/pestphp/pest-plugin-laravel@v1.3.0
+- pkg:composer/pestphp/pest-plugin-laravel@v1.4.0
+- pkg:composer/pestphp/pest-plugin-laravel@v2.0.0
+- pkg:composer/pestphp/pest-plugin-laravel@v2.1.0
+- pkg:composer/pestphp/pest-plugin-laravel@v2.2.0
+- pkg:composer/pestphp/pest-plugin-laravel@v2.3.0
+- pkg:composer/pestphp/pest-plugin-laravel@v2.4.0
+- pkg:composer/pestphp/pest-plugin-laravel@v3.0.0
+- pkg:composer/pestphp/pest-plugin-laravel@v3.1.0
+- pkg:composer/pestphp/pest-plugin-laravel@v3.2.0
+- pkg:composer/pestphp/pest-plugin-laravel@v4.0.0

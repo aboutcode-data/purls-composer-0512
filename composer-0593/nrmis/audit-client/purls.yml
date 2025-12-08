@@ -1,0 +1,3 @@
+- pkg:composer/nrmis/audit-client@1.1.0
+- pkg:composer/nrmis/audit-client@1.1.1
+- pkg:composer/nrmis/audit-client@v1.0.0

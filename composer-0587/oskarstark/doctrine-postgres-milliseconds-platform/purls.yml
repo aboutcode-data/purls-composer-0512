@@ -1,0 +1,4 @@
+- pkg:composer/oskarstark/doctrine-postgres-milliseconds-platform@2.1.0
+- pkg:composer/oskarstark/doctrine-postgres-milliseconds-platform@2.2.0
+- pkg:composer/oskarstark/doctrine-postgres-milliseconds-platform@2.3.0
+- pkg:composer/oskarstark/doctrine-postgres-milliseconds-platform@2.3.1

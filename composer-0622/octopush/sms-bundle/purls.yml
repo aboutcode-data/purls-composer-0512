@@ -1,0 +1,4 @@
+- pkg:composer/octopush/sms-bundle@1.0.0
+- pkg:composer/octopush/sms-bundle@1.1.0
+- pkg:composer/octopush/sms-bundle@1.1.1
+- pkg:composer/octopush/sms-bundle@2.0.0

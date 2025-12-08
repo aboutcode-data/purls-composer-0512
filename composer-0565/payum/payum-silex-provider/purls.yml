@@ -1,0 +1,9 @@
+- pkg:composer/payum/payum-silex-provider@0.12.0
+- pkg:composer/payum/payum-silex-provider@0.12.1
+- pkg:composer/payum/payum-silex-provider@0.13.0
+- pkg:composer/payum/payum-silex-provider@0.14.0
+- pkg:composer/payum/payum-silex-provider@0.15.0
+- pkg:composer/payum/payum-silex-provider@1.0.0-BETA1
+- pkg:composer/payum/payum-silex-provider@1.0.0-BETA2
+- pkg:composer/payum/payum-silex-provider@1.0.0-BETA3
+- pkg:composer/payum/payum-silex-provider@1.0.0-BETA4

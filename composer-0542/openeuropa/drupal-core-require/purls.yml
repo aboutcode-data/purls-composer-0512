@@ -1,0 +1,4 @@
+- pkg:composer/openeuropa/drupal-core-require@8.6.0
+- pkg:composer/openeuropa/drupal-core-require@8.6.1
+- pkg:composer/openeuropa/drupal-core-require@8.6.2
+- pkg:composer/openeuropa/drupal-core-require@8.6.3

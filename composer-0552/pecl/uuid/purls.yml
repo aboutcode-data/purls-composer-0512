@@ -1,0 +1,2 @@
+- pkg:composer/pecl/uuid@v1.2.1
+- pkg:composer/pecl/uuid@v1.3.0

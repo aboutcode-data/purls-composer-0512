@@ -1,0 +1,6 @@
+- pkg:composer/pamil/symfony-lock@v3.0
+- pkg:composer/pamil/symfony-lock@v3.1
+- pkg:composer/pamil/symfony-lock@v3.2
+- pkg:composer/pamil/symfony-lock@v3.3
+- pkg:composer/pamil/symfony-lock@v3.4
+- pkg:composer/pamil/symfony-lock@v4.0

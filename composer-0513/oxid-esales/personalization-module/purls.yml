@@ -1,0 +1,15 @@
+- pkg:composer/oxid-esales/personalization-module@v1.0.0
+- pkg:composer/oxid-esales/personalization-module@v1.1.0
+- pkg:composer/oxid-esales/personalization-module@v1.1.1
+- pkg:composer/oxid-esales/personalization-module@v1.2.0
+- pkg:composer/oxid-esales/personalization-module@v1.2.1
+- pkg:composer/oxid-esales/personalization-module@v1.2.2
+- pkg:composer/oxid-esales/personalization-module@v1.3.0
+- pkg:composer/oxid-esales/personalization-module@v1.3.1
+- pkg:composer/oxid-esales/personalization-module@v1.3.2
+- pkg:composer/oxid-esales/personalization-module@v1.4.0
+- pkg:composer/oxid-esales/personalization-module@v2.0.0
+- pkg:composer/oxid-esales/personalization-module@v2.1.0
+- pkg:composer/oxid-esales/personalization-module@v2.2.0
+- pkg:composer/oxid-esales/personalization-module@v3.0.0
+- pkg:composer/oxid-esales/personalization-module@v3.0.0-rc.1

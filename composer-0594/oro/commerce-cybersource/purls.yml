@@ -1,0 +1,4 @@
+- pkg:composer/oro/commerce-cybersource@4.1.0
+- pkg:composer/oro/commerce-cybersource@4.1.1
+- pkg:composer/oro/commerce-cybersource@4.2.0-beta
+- pkg:composer/oro/commerce-cybersource@5.0

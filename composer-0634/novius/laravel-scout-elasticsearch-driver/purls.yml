@@ -1,0 +1,7 @@
+- pkg:composer/novius/laravel-scout-elasticsearch-driver@0.0.1
+- pkg:composer/novius/laravel-scout-elasticsearch-driver@1.0.0
+- pkg:composer/novius/laravel-scout-elasticsearch-driver@1.0.1
+- pkg:composer/novius/laravel-scout-elasticsearch-driver@2.0.0
+- pkg:composer/novius/laravel-scout-elasticsearch-driver@3.0.0
+- pkg:composer/novius/laravel-scout-elasticsearch-driver@4.0.0
+- pkg:composer/novius/laravel-scout-elasticsearch-driver@5.0.0

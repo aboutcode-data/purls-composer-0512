@@ -1,0 +1,6 @@
+- pkg:composer/oceancodex/wpsp-mongodb@7.4.0
+- pkg:composer/oceancodex/wpsp-mongodb@8.0.0
+- pkg:composer/oceancodex/wpsp-mongodb@8.1.0
+- pkg:composer/oceancodex/wpsp-mongodb@8.2.0
+- pkg:composer/oceancodex/wpsp-mongodb@8.3.0
+- pkg:composer/oceancodex/wpsp-mongodb@8.4.0

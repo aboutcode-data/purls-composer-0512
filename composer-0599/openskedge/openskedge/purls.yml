@@ -1,0 +1,4 @@
+- pkg:composer/openskedge/openskedge@v1.0.0-alpha
+- pkg:composer/openskedge/openskedge@v1.0.0-beta
+- pkg:composer/openskedge/openskedge@v1.0.0-rc1
+- pkg:composer/openskedge/openskedge@v1.0.0-rc2

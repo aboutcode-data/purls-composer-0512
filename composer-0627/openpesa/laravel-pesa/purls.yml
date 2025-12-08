@@ -1,0 +1,5 @@
+- pkg:composer/openpesa/laravel-pesa@v0.0.2
+- pkg:composer/openpesa/laravel-pesa@v0.0.3
+- pkg:composer/openpesa/laravel-pesa@v1.0.0
+- pkg:composer/openpesa/laravel-pesa@v1.0.1
+- pkg:composer/openpesa/laravel-pesa@v1.0.2

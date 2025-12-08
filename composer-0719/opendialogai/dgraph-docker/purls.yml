@@ -1,0 +1,10 @@
+- pkg:composer/opendialogai/dgraph-docker@1.0.17
+- pkg:composer/opendialogai/dgraph-docker@1.1.0
+- pkg:composer/opendialogai/dgraph-docker@1.2.5
+- pkg:composer/opendialogai/dgraph-docker@1.2.6
+- pkg:composer/opendialogai/dgraph-docker@20.03.3
+- pkg:composer/opendialogai/dgraph-docker@20.11.0
+- pkg:composer/opendialogai/dgraph-docker@21.03.0
+- pkg:composer/opendialogai/dgraph-docker@21.03.0-rc.0
+- pkg:composer/opendialogai/dgraph-docker@21.03.0.1
+- pkg:composer/opendialogai/dgraph-docker@21.03.0.2

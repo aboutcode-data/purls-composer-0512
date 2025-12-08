@@ -1,0 +1,8 @@
+- pkg:composer/ondram/ci-detector-standalone@1.0.0
+- pkg:composer/ondram/ci-detector-standalone@2.1.0
+- pkg:composer/ondram/ci-detector-standalone@3.0.0
+- pkg:composer/ondram/ci-detector-standalone@3.1.0
+- pkg:composer/ondram/ci-detector-standalone@3.1.1
+- pkg:composer/ondram/ci-detector-standalone@3.2.0
+- pkg:composer/ondram/ci-detector-standalone@3.3.0
+- pkg:composer/ondram/ci-detector-standalone@3.4.0

@@ -1,0 +1,15 @@
+- pkg:composer/petrknap/php-migrationtool@v0.0.1
+- pkg:composer/petrknap/php-migrationtool@v0.0.2
+- pkg:composer/petrknap/php-migrationtool@v1.0.0
+- pkg:composer/petrknap/php-migrationtool@v1.0.1
+- pkg:composer/petrknap/php-migrationtool@v1.0.2
+- pkg:composer/petrknap/php-migrationtool@v1.1.0
+- pkg:composer/petrknap/php-migrationtool@v1.1.1
+- pkg:composer/petrknap/php-migrationtool@v1.1.2
+- pkg:composer/petrknap/php-migrationtool@v2.0.0-rc1
+- pkg:composer/petrknap/php-migrationtool@v2.0.0-rc2
+- pkg:composer/petrknap/php-migrationtool@v2.0.0-rc3
+- pkg:composer/petrknap/php-migrationtool@v2.0.0-rc4
+- pkg:composer/petrknap/php-migrationtool@v3.0.0-alpha
+- pkg:composer/petrknap/php-migrationtool@v3.0.0-beta
+- pkg:composer/petrknap/php-migrationtool@v3.0.0-rc1

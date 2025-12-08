@@ -1,0 +1,17 @@
+- pkg:composer/orisintel/laravel-migration-snapshot@v0.7
+- pkg:composer/orisintel/laravel-migration-snapshot@v0.8
+- pkg:composer/orisintel/laravel-migration-snapshot@v0.9
+- pkg:composer/orisintel/laravel-migration-snapshot@v0.9.1
+- pkg:composer/orisintel/laravel-migration-snapshot@v0.9.5
+- pkg:composer/orisintel/laravel-migration-snapshot@v1.0.0
+- pkg:composer/orisintel/laravel-migration-snapshot@v1.1.0
+- pkg:composer/orisintel/laravel-migration-snapshot@v1.2.0
+- pkg:composer/orisintel/laravel-migration-snapshot@v1.2.1
+- pkg:composer/orisintel/laravel-migration-snapshot@v1.3.0
+- pkg:composer/orisintel/laravel-migration-snapshot@v1.3.1
+- pkg:composer/orisintel/laravel-migration-snapshot@v1.3.2
+- pkg:composer/orisintel/laravel-migration-snapshot@v1.3.3
+- pkg:composer/orisintel/laravel-migration-snapshot@v2-alpha
+- pkg:composer/orisintel/laravel-migration-snapshot@v2.0.0
+- pkg:composer/orisintel/laravel-migration-snapshot@v2.0.1
+- pkg:composer/orisintel/laravel-migration-snapshot@v3.0.0

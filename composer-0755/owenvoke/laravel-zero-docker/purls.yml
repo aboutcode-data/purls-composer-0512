@@ -1,0 +1,4 @@
+- pkg:composer/owenvoke/laravel-zero-docker@v1.0.0
+- pkg:composer/owenvoke/laravel-zero-docker@v1.1.0
+- pkg:composer/owenvoke/laravel-zero-docker@v1.2.0
+- pkg:composer/owenvoke/laravel-zero-docker@v1.3.0

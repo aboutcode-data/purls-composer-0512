@@ -1,0 +1,2 @@
+- pkg:composer/pd/redis@v1.0.0
+- pkg:composer/pd/redis@v3.3.0

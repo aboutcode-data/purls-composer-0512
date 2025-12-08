@@ -1,0 +1,4 @@
+- pkg:composer/payme-quantum/payment-sdk@0.0.2
+- pkg:composer/payme-quantum/payment-sdk@0.0.3
+- pkg:composer/payme-quantum/payment-sdk@v0.0.0
+- pkg:composer/payme-quantum/payment-sdk@v0.0.1

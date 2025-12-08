@@ -1,0 +1,4 @@
+- pkg:composer/oleksiibulba/webpack-encore-plugin@0.1
+- pkg:composer/oleksiibulba/webpack-encore-plugin@1.0
+- pkg:composer/oleksiibulba/webpack-encore-plugin@1.1
+- pkg:composer/oleksiibulba/webpack-encore-plugin@v1.2

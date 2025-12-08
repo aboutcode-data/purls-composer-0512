@@ -1,0 +1,12 @@
+- pkg:composer/pestphp/pest-plugin-livewire@v0.1.0
+- pkg:composer/pestphp/pest-plugin-livewire@v0.2.0
+- pkg:composer/pestphp/pest-plugin-livewire@v0.2.1
+- pkg:composer/pestphp/pest-plugin-livewire@v0.3.0
+- pkg:composer/pestphp/pest-plugin-livewire@v0.3.1
+- pkg:composer/pestphp/pest-plugin-livewire@v0.3.2
+- pkg:composer/pestphp/pest-plugin-livewire@v1.0.0
+- pkg:composer/pestphp/pest-plugin-livewire@v2.0.0
+- pkg:composer/pestphp/pest-plugin-livewire@v2.1.0
+- pkg:composer/pestphp/pest-plugin-livewire@v3.0.0
+- pkg:composer/pestphp/pest-plugin-livewire@v4.0.0
+- pkg:composer/pestphp/pest-plugin-livewire@v4.0.1

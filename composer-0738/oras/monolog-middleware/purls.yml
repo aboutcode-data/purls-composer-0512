@@ -1,0 +1,8 @@
+- pkg:composer/oras/monolog-middleware@0.1
+- pkg:composer/oras/monolog-middleware@0.4
+- pkg:composer/oras/monolog-middleware@1.0
+- pkg:composer/oras/monolog-middleware@v1.1.2
+- pkg:composer/oras/monolog-middleware@v1.1.3
+- pkg:composer/oras/monolog-middleware@v1.1.4
+- pkg:composer/oras/monolog-middleware@v2.0.0
+- pkg:composer/oras/monolog-middleware@v3.0.0

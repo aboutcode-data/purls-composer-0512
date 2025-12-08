@@ -1,0 +1,5 @@
+- pkg:composer/pccomponentes/dbal-transaction@v1.0.0
+- pkg:composer/pccomponentes/dbal-transaction@v1.1.0
+- pkg:composer/pccomponentes/dbal-transaction@v1.1.1
+- pkg:composer/pccomponentes/dbal-transaction@v2.0.0
+- pkg:composer/pccomponentes/dbal-transaction@v2.1.0

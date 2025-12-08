@@ -1,0 +1,13 @@
+- pkg:composer/pestphp/pest-plugin-expectations@v0.3.0
+- pkg:composer/pestphp/pest-plugin-expectations@v0.3.1
+- pkg:composer/pestphp/pest-plugin-expectations@v0.3.2
+- pkg:composer/pestphp/pest-plugin-expectations@v0.3.3
+- pkg:composer/pestphp/pest-plugin-expectations@v1.0.0
+- pkg:composer/pestphp/pest-plugin-expectations@v1.0.1
+- pkg:composer/pestphp/pest-plugin-expectations@v1.1.0
+- pkg:composer/pestphp/pest-plugin-expectations@v1.2.0
+- pkg:composer/pestphp/pest-plugin-expectations@v1.2.1
+- pkg:composer/pestphp/pest-plugin-expectations@v1.3.0
+- pkg:composer/pestphp/pest-plugin-expectations@v1.4.0
+- pkg:composer/pestphp/pest-plugin-expectations@v1.5.0
+- pkg:composer/pestphp/pest-plugin-expectations@v1.6.0
