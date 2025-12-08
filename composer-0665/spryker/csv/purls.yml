@@ -1,0 +1,8 @@
+- pkg:composer/spryker/csv@0.20.0
+- pkg:composer/spryker/csv@1.0.0
+- pkg:composer/spryker/csv@2.0.0
+- pkg:composer/spryker/csv@2.0.0-RC1
+- pkg:composer/spryker/csv@2.0.0-RC2
+- pkg:composer/spryker/csv@2.0.1
+- pkg:composer/spryker/csv@3.0.0
+- pkg:composer/spryker/csv@3.0.1

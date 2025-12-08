@@ -1,0 +1,16 @@
+- pkg:composer/team-mercantil/php-messaging-rabbitmq@1.8
+- pkg:composer/team-mercantil/php-messaging-rabbitmq@1.8.1
+- pkg:composer/team-mercantil/php-messaging-rabbitmq@v0.1
+- pkg:composer/team-mercantil/php-messaging-rabbitmq@v1.0
+- pkg:composer/team-mercantil/php-messaging-rabbitmq@v1.1
+- pkg:composer/team-mercantil/php-messaging-rabbitmq@v1.2
+- pkg:composer/team-mercantil/php-messaging-rabbitmq@v1.3
+- pkg:composer/team-mercantil/php-messaging-rabbitmq@v1.4
+- pkg:composer/team-mercantil/php-messaging-rabbitmq@v1.5
+- pkg:composer/team-mercantil/php-messaging-rabbitmq@v1.6
+- pkg:composer/team-mercantil/php-messaging-rabbitmq@v1.7
+- pkg:composer/team-mercantil/php-messaging-rabbitmq@v1.7.1
+- pkg:composer/team-mercantil/php-messaging-rabbitmq@v1.8.2
+- pkg:composer/team-mercantil/php-messaging-rabbitmq@v1.8.3
+- pkg:composer/team-mercantil/php-messaging-rabbitmq@v1.8.4
+- pkg:composer/team-mercantil/php-messaging-rabbitmq@v1.8.5

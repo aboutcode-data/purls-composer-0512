@@ -1,0 +1,5 @@
+- pkg:composer/swop/github-webhook@v1.0
+- pkg:composer/swop/github-webhook@v1.1
+- pkg:composer/swop/github-webhook@v2.0
+- pkg:composer/swop/github-webhook@v3.0
+- pkg:composer/swop/github-webhook@v3.1

@@ -1,0 +1,5 @@
+- pkg:composer/superbalist/laravel-event-pubsub@1.0.0
+- pkg:composer/superbalist/laravel-event-pubsub@2.0.0
+- pkg:composer/superbalist/laravel-event-pubsub@2.0.1
+- pkg:composer/superbalist/laravel-event-pubsub@3.0.0
+- pkg:composer/superbalist/laravel-event-pubsub@3.0.1

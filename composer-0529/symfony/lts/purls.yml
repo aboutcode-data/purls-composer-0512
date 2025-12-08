@@ -1,0 +1,2 @@
+- pkg:composer/symfony/lts@v2
+- pkg:composer/symfony/lts@v3

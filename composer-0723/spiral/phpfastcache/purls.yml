@@ -1,0 +1,4 @@
+- pkg:composer/spiral/phpfastcache@v0.1.0
+- pkg:composer/spiral/phpfastcache@v0.9.0
+- pkg:composer/spiral/phpfastcache@v0.9.1
+- pkg:composer/spiral/phpfastcache@v0.9.2

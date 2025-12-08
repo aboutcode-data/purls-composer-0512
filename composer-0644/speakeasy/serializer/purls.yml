@@ -1,0 +1,5 @@
+- pkg:composer/speakeasy/serializer@4.0.1
+- pkg:composer/speakeasy/serializer@4.0.2
+- pkg:composer/speakeasy/serializer@4.0.3
+- pkg:composer/speakeasy/serializer@v3.40.0
+- pkg:composer/speakeasy/serializer@v4.0.0

@@ -1,0 +1,16 @@
+- pkg:composer/spartaques/phpcorekafka@1.0.0
+- pkg:composer/spartaques/phpcorekafka@v1.0.2
+- pkg:composer/spartaques/phpcorekafka@v1.0.3
+- pkg:composer/spartaques/phpcorekafka@v1.0.4
+- pkg:composer/spartaques/phpcorekafka@v10.0.0
+- pkg:composer/spartaques/phpcorekafka@v11.0.0
+- pkg:composer/spartaques/phpcorekafka@v13.0.0
+- pkg:composer/spartaques/phpcorekafka@v14.0.0
+- pkg:composer/spartaques/phpcorekafka@v15.0.0
+- pkg:composer/spartaques/phpcorekafka@v16.0.0
+- pkg:composer/spartaques/phpcorekafka@v17.0.0
+- pkg:composer/spartaques/phpcorekafka@v18.0.0
+- pkg:composer/spartaques/phpcorekafka@v2.0.0
+- pkg:composer/spartaques/phpcorekafka@v3.0.0
+- pkg:composer/spartaques/phpcorekafka@v4.0.0
+- pkg:composer/spartaques/phpcorekafka@v5.0.0

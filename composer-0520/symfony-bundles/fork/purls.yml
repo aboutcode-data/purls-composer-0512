@@ -1,0 +1,12 @@
+- pkg:composer/symfony-bundles/fork@3.1.1
+- pkg:composer/symfony-bundles/fork@3.2.0
+- pkg:composer/symfony-bundles/fork@3.3.0
+- pkg:composer/symfony-bundles/fork@3.4.1
+- pkg:composer/symfony-bundles/fork@v1.0.0
+- pkg:composer/symfony-bundles/fork@v1.0.1
+- pkg:composer/symfony-bundles/fork@v1.0.2
+- pkg:composer/symfony-bundles/fork@v2.0.0
+- pkg:composer/symfony-bundles/fork@v3.0.0
+- pkg:composer/symfony-bundles/fork@v3.1.0
+- pkg:composer/symfony-bundles/fork@v3.4.0
+- pkg:composer/symfony-bundles/fork@v3.5.0

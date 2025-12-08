@@ -1,0 +1,17 @@
+- pkg:composer/synergy/solarium-module@v1.0.0
+- pkg:composer/synergy/solarium-module@v1.0.1
+- pkg:composer/synergy/solarium-module@v1.0.2
+- pkg:composer/synergy/solarium-module@v2.0.0
+- pkg:composer/synergy/solarium-module@v2.0.1
+- pkg:composer/synergy/solarium-module@v2.0.2
+- pkg:composer/synergy/solarium-module@v2.1.0
+- pkg:composer/synergy/solarium-module@v3.0.0
+- pkg:composer/synergy/solarium-module@v3.0.1
+- pkg:composer/synergy/solarium-module@v3.1.0
+- pkg:composer/synergy/solarium-module@v4.0.0
+- pkg:composer/synergy/solarium-module@v4.1.0
+- pkg:composer/synergy/solarium-module@v5.0.0
+- pkg:composer/synergy/solarium-module@v5.1.0
+- pkg:composer/synergy/solarium-module@v6.0.0
+- pkg:composer/synergy/solarium-module@v6.1.0
+- pkg:composer/synergy/solarium-module@v6.1.1

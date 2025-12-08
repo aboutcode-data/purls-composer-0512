@@ -1,0 +1,4 @@
+- pkg:composer/stanbic/laravel-opentelemetry@1.0.0
+- pkg:composer/stanbic/laravel-opentelemetry@1.0.1
+- pkg:composer/stanbic/laravel-opentelemetry@2.0.0
+- pkg:composer/stanbic/laravel-opentelemetry@3.0.0

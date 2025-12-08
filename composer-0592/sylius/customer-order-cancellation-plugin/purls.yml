@@ -1,0 +1,6 @@
+- pkg:composer/sylius/customer-order-cancellation-plugin@0.2
+- pkg:composer/sylius/customer-order-cancellation-plugin@0.2.1
+- pkg:composer/sylius/customer-order-cancellation-plugin@1.0
+- pkg:composer/sylius/customer-order-cancellation-plugin@v0.1.0
+- pkg:composer/sylius/customer-order-cancellation-plugin@v0.1.1
+- pkg:composer/sylius/customer-order-cancellation-plugin@v1.1.0

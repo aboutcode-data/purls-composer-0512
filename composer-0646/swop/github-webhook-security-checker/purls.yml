@@ -1,0 +1,5 @@
+- pkg:composer/swop/github-webhook-security-checker@v1.0
+- pkg:composer/swop/github-webhook-security-checker@v1.1
+- pkg:composer/swop/github-webhook-security-checker@v2.0
+- pkg:composer/swop/github-webhook-security-checker@v3.0
+- pkg:composer/swop/github-webhook-security-checker@v3.1

@@ -1,0 +1,7 @@
+- pkg:composer/spomky-labs/php-punycode@1.0.0
+- pkg:composer/spomky-labs/php-punycode@1.0.1
+- pkg:composer/spomky-labs/php-punycode@1.1.0
+- pkg:composer/spomky-labs/php-punycode@2.0.0
+- pkg:composer/spomky-labs/php-punycode@v2.0.1
+- pkg:composer/spomky-labs/php-punycode@v3.0.0
+- pkg:composer/spomky-labs/php-punycode@v3.0.1

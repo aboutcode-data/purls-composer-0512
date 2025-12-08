@@ -1,0 +1,2 @@
+- pkg:composer/task/phpspec@v0.1.0
+- pkg:composer/task/phpspec@v0.1.1

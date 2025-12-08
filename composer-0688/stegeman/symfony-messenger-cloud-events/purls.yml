@@ -1,0 +1,14 @@
+- pkg:composer/stegeman/symfony-messenger-cloud-events@0.0.10-ALPHA
+- pkg:composer/stegeman/symfony-messenger-cloud-events@0.0.11-ALPHA
+- pkg:composer/stegeman/symfony-messenger-cloud-events@0.0.12-ALPHA
+- pkg:composer/stegeman/symfony-messenger-cloud-events@0.0.13-ALPHA
+- pkg:composer/stegeman/symfony-messenger-cloud-events@0.0.14-ALPHA
+- pkg:composer/stegeman/symfony-messenger-cloud-events@0.0.6-ALPHA
+- pkg:composer/stegeman/symfony-messenger-cloud-events@0.0.7-ALPHA
+- pkg:composer/stegeman/symfony-messenger-cloud-events@0.0.8-ALPHA
+- pkg:composer/stegeman/symfony-messenger-cloud-events@0.0.9-ALPHA
+- pkg:composer/stegeman/symfony-messenger-cloud-events@1.0
+- pkg:composer/stegeman/symfony-messenger-cloud-events@1.0-BETA
+- pkg:composer/stegeman/symfony-messenger-cloud-events@1.1.0
+- pkg:composer/stegeman/symfony-messenger-cloud-events@1.1.1
+- pkg:composer/stegeman/symfony-messenger-cloud-events@1.1.2

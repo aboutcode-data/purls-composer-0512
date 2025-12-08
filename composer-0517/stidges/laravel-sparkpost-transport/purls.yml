@@ -1,0 +1,4 @@
+- pkg:composer/stidges/laravel-sparkpost-transport@v1.0.0
+- pkg:composer/stidges/laravel-sparkpost-transport@v2.0.0
+- pkg:composer/stidges/laravel-sparkpost-transport@v3.0.0
+- pkg:composer/stidges/laravel-sparkpost-transport@v3.0.1

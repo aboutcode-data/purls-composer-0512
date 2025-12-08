@@ -1,0 +1,4 @@
+- pkg:composer/technopers/laravel-trackable-jobs@v1.0
+- pkg:composer/technopers/laravel-trackable-jobs@v1.0-beta
+- pkg:composer/technopers/laravel-trackable-jobs@v1.1
+- pkg:composer/technopers/laravel-trackable-jobs@v2.0

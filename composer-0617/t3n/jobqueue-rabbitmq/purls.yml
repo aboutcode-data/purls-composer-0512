@@ -1,0 +1,9 @@
+- pkg:composer/t3n/jobqueue-rabbitmq@1.0.0
+- pkg:composer/t3n/jobqueue-rabbitmq@1.0.1
+- pkg:composer/t3n/jobqueue-rabbitmq@1.0.2
+- pkg:composer/t3n/jobqueue-rabbitmq@1.0.3
+- pkg:composer/t3n/jobqueue-rabbitmq@2.0.0
+- pkg:composer/t3n/jobqueue-rabbitmq@2.1.0
+- pkg:composer/t3n/jobqueue-rabbitmq@2.2.0
+- pkg:composer/t3n/jobqueue-rabbitmq@2.3.0
+- pkg:composer/t3n/jobqueue-rabbitmq@2.3.1

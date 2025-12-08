@@ -1,0 +1,4 @@
+- pkg:composer/symbid/chainlink@0.1.0
+- pkg:composer/symbid/chainlink@0.2.0
+- pkg:composer/symbid/chainlink@0.3.0
+- pkg:composer/symbid/chainlink@v0.4

@@ -1,0 +1,6 @@
+- pkg:composer/square1/laravel-idempotency@1.0.0
+- pkg:composer/square1/laravel-idempotency@1.1.0
+- pkg:composer/square1/laravel-idempotency@12.0.0
+- pkg:composer/square1/laravel-idempotency@12.1.0
+- pkg:composer/square1/laravel-idempotency@12.2.0
+- pkg:composer/square1/laravel-idempotency@2.0.0

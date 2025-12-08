@@ -1,0 +1,14 @@
+- pkg:composer/symfony/icu@v1.0.0
+- pkg:composer/symfony/icu@v1.0.0-BETA1
+- pkg:composer/symfony/icu@v1.0.0-RC1
+- pkg:composer/symfony/icu@v1.0.1
+- pkg:composer/symfony/icu@v1.1.0
+- pkg:composer/symfony/icu@v1.1.0-BETA1
+- pkg:composer/symfony/icu@v1.1.0-RC1
+- pkg:composer/symfony/icu@v1.1.1
+- pkg:composer/symfony/icu@v1.1.2
+- pkg:composer/symfony/icu@v1.2.0
+- pkg:composer/symfony/icu@v1.2.0-BETA1
+- pkg:composer/symfony/icu@v1.2.0-RC1
+- pkg:composer/symfony/icu@v1.2.1
+- pkg:composer/symfony/icu@v1.2.2

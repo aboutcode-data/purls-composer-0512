@@ -1,0 +1,4 @@
+- pkg:composer/sylius/price-history-plugin@v0.1.0
+- pkg:composer/sylius/price-history-plugin@v0.2.0
+- pkg:composer/sylius/price-history-plugin@v1.0.0
+- pkg:composer/sylius/price-history-plugin@v1.0.0-RC.1

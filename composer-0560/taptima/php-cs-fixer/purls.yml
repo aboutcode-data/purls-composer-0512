@@ -1,0 +1,4 @@
+- pkg:composer/taptima/php-cs-fixer@1.0
+- pkg:composer/taptima/php-cs-fixer@8.1.0
+- pkg:composer/taptima/php-cs-fixer@8.1.1
+- pkg:composer/taptima/php-cs-fixer@8.1.2

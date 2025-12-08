@@ -1,0 +1,8 @@
+- pkg:composer/superbalist/php-event-pubsub@1.0.0
+- pkg:composer/superbalist/php-event-pubsub@2.0.0
+- pkg:composer/superbalist/php-event-pubsub@3.0.0
+- pkg:composer/superbalist/php-event-pubsub@3.0.1
+- pkg:composer/superbalist/php-event-pubsub@4.0.0
+- pkg:composer/superbalist/php-event-pubsub@4.0.1
+- pkg:composer/superbalist/php-event-pubsub@4.0.2
+- pkg:composer/superbalist/php-event-pubsub@4.0.3

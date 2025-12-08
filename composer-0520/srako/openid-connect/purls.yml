@@ -1,0 +1,13 @@
+- pkg:composer/srako/openid-connect@v0.1
+- pkg:composer/srako/openid-connect@v0.2
+- pkg:composer/srako/openid-connect@v1.0
+- pkg:composer/srako/openid-connect@v1.1
+- pkg:composer/srako/openid-connect@v1.2
+- pkg:composer/srako/openid-connect@v1.3
+- pkg:composer/srako/openid-connect@v1.4
+- pkg:composer/srako/openid-connect@v1.5
+- pkg:composer/srako/openid-connect@v1.6
+- pkg:composer/srako/openid-connect@v1.7
+- pkg:composer/srako/openid-connect@v1.7.1
+- pkg:composer/srako/openid-connect@v2.0
+- pkg:composer/srako/openid-connect@v2.0.1

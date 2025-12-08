@@ -1,0 +1,4 @@
+- pkg:composer/sylius/association@v0.17.0
+- pkg:composer/sylius/association@v0.18.0
+- pkg:composer/sylius/association@v0.19.0
+- pkg:composer/sylius/association@v1.0.0-alpha.1
