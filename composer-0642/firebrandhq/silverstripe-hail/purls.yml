@@ -80,6 +80,7 @@
 - pkg:composer/firebrandhq/silverstripe-hail@4.5.2
 - pkg:composer/firebrandhq/silverstripe-hail@4.5.3
 - pkg:composer/firebrandhq/silverstripe-hail@4.5.4
+- pkg:composer/firebrandhq/silverstripe-hail@4.5.5
 - pkg:composer/firebrandhq/silverstripe-hail@5.0.0
 - pkg:composer/firebrandhq/silverstripe-hail@5.0.1
 - pkg:composer/firebrandhq/silverstripe-hail@5.0.2
