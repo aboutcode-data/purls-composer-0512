@@ -209,3 +209,4 @@
 - pkg:composer/mistralys/application_framework@6.0.0
 - pkg:composer/mistralys/application_framework@6.1.0
 - pkg:composer/mistralys/application_framework@6.1.1
+- pkg:composer/mistralys/application_framework@6.2.0
