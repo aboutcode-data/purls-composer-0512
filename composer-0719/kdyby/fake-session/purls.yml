@@ -1,0 +1,5 @@
+- pkg:composer/kdyby/fake-session@v1.0.0
+- pkg:composer/kdyby/fake-session@v2.0.0
+- pkg:composer/kdyby/fake-session@v2.0.1
+- pkg:composer/kdyby/fake-session@v2.1.0
+- pkg:composer/kdyby/fake-session@v3.0.0

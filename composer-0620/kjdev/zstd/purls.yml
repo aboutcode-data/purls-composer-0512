@@ -1,0 +1,4 @@
+- pkg:composer/kjdev/zstd@0.14.0%2Bpie
+- pkg:composer/kjdev/zstd@0.15.0
+- pkg:composer/kjdev/zstd@0.15.1
+- pkg:composer/kjdev/zstd@0.15.2

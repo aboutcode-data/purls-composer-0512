@@ -1,0 +1,9 @@
+- pkg:composer/kdyby/elastic-search@v0.1
+- pkg:composer/kdyby/elastic-search@v1.0
+- pkg:composer/kdyby/elastic-search@v1.1.0
+- pkg:composer/kdyby/elastic-search@v1.1.1
+- pkg:composer/kdyby/elastic-search@v2.0.0
+- pkg:composer/kdyby/elastic-search@v3.0.0
+- pkg:composer/kdyby/elastic-search@v3.0.0-beta
+- pkg:composer/kdyby/elastic-search@v3.0.1
+- pkg:composer/kdyby/elastic-search@v3.0.2

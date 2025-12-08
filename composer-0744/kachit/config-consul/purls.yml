@@ -1,0 +1,4 @@
+- pkg:composer/kachit/config-consul@0.0.2
+- pkg:composer/kachit/config-consul@1.0
+- pkg:composer/kachit/config-consul@1.1
+- pkg:composer/kachit/config-consul@1.2

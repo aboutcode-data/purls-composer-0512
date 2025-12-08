@@ -1,0 +1,14 @@
+- pkg:composer/kdyby/curl@v0.9
+- pkg:composer/kdyby/curl@v1.0.0
+- pkg:composer/kdyby/curl@v1.0.1
+- pkg:composer/kdyby/curl@v1.0.2
+- pkg:composer/kdyby/curl@v1.0.3
+- pkg:composer/kdyby/curl@v1.0.4
+- pkg:composer/kdyby/curl@v1.0.5
+- pkg:composer/kdyby/curl@v1.0.6
+- pkg:composer/kdyby/curl@v1.0.7
+- pkg:composer/kdyby/curl@v2.0.0
+- pkg:composer/kdyby/curl@v2.1.0
+- pkg:composer/kdyby/curl@v2.1.1
+- pkg:composer/kdyby/curl@v2.1.2
+- pkg:composer/kdyby/curl@v2.2.0

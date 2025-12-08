@@ -1,0 +1,3 @@
+- pkg:composer/kisscms/oauth@1.0
+- pkg:composer/kisscms/oauth@1.1
+- pkg:composer/kisscms/oauth@2.0.0

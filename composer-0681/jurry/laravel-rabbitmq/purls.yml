@@ -1,0 +1,3 @@
+- pkg:composer/jurry/laravel-rabbitmq@1.0
+- pkg:composer/jurry/laravel-rabbitmq@1.1
+- pkg:composer/jurry/laravel-rabbitmq@1.2

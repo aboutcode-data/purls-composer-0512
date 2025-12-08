@@ -1,0 +1,3 @@
+- pkg:composer/kfosoft/yii2-queue-scheduler@20.05
+- pkg:composer/kfosoft/yii2-queue-scheduler@20.06
+- pkg:composer/kfosoft/yii2-queue-scheduler@20.09

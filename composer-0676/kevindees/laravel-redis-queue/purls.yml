@@ -1,0 +1,5 @@
+- pkg:composer/kevindees/laravel-redis-queue@v0.0.1
+- pkg:composer/kevindees/laravel-redis-queue@v0.0.2
+- pkg:composer/kevindees/laravel-redis-queue@v0.0.3
+- pkg:composer/kevindees/laravel-redis-queue@v0.0.4
+- pkg:composer/kevindees/laravel-redis-queue@v1.0.0

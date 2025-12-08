@@ -1,0 +1,4 @@
+- pkg:composer/knot-php/module-knot-pipeline@0.1.0
+- pkg:composer/knot-php/module-knot-pipeline@0.2.0
+- pkg:composer/knot-php/module-knot-pipeline@0.3.0
+- pkg:composer/knot-php/module-knot-pipeline@0.3.1

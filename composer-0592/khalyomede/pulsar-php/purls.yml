@@ -1,0 +1,15 @@
+- pkg:composer/khalyomede/pulsar-php@0.0.1
+- pkg:composer/khalyomede/pulsar-php@1.0.5
+- pkg:composer/khalyomede/pulsar-php@1.0.6
+- pkg:composer/khalyomede/pulsar-php@1.0.7
+- pkg:composer/khalyomede/pulsar-php@1.0.8
+- pkg:composer/khalyomede/pulsar-php@1.0.9
+- pkg:composer/khalyomede/pulsar-php@v2.0.0
+- pkg:composer/khalyomede/pulsar-php@v2.1.0
+- pkg:composer/khalyomede/pulsar-php@v3.0.0
+- pkg:composer/khalyomede/pulsar-php@v3.1.0
+- pkg:composer/khalyomede/pulsar-php@v3.2.0
+- pkg:composer/khalyomede/pulsar-php@v3.3.0
+- pkg:composer/khalyomede/pulsar-php@v3.4.0
+- pkg:composer/khalyomede/pulsar-php@v3.5.0
+- pkg:composer/khalyomede/pulsar-php@v3.6.0

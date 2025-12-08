@@ -1,0 +1,7 @@
+- pkg:composer/kitpages/util-bundle@v1.0.0
+- pkg:composer/kitpages/util-bundle@v2.0
+- pkg:composer/kitpages/util-bundle@v2.1.0BETA1
+- pkg:composer/kitpages/util-bundle@v2.1.0RC1
+- pkg:composer/kitpages/util-bundle@v3.0.0
+- pkg:composer/kitpages/util-bundle@v3.0.1
+- pkg:composer/kitpages/util-bundle@v3.0.2

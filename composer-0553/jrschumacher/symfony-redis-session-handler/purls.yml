@@ -1,0 +1,2 @@
+- pkg:composer/jrschumacher/symfony-redis-session-handler@v1.0
+- pkg:composer/jrschumacher/symfony-redis-session-handler@v1.0.1

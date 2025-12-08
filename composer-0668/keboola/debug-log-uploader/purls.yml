@@ -1,0 +1,15 @@
+- pkg:composer/keboola/debug-log-uploader@2.1.0
+- pkg:composer/keboola/debug-log-uploader@2.2.1
+- pkg:composer/keboola/debug-log-uploader@v0.1.0
+- pkg:composer/keboola/debug-log-uploader@v0.2.0
+- pkg:composer/keboola/debug-log-uploader@v0.2.1
+- pkg:composer/keboola/debug-log-uploader@v0.2.2
+- pkg:composer/keboola/debug-log-uploader@v0.3.0
+- pkg:composer/keboola/debug-log-uploader@v0.3.1
+- pkg:composer/keboola/debug-log-uploader@v0.4.0
+- pkg:composer/keboola/debug-log-uploader@v1.0.0
+- pkg:composer/keboola/debug-log-uploader@v1.1.0
+- pkg:composer/keboola/debug-log-uploader@v2.0.0
+- pkg:composer/keboola/debug-log-uploader@v2.2.0
+- pkg:composer/keboola/debug-log-uploader@v3.0.0
+- pkg:composer/keboola/debug-log-uploader@v4.0.0

@@ -1,0 +1,2 @@
+- pkg:composer/kch/rabbitmq-bundle@1.10.0
+- pkg:composer/kch/rabbitmq-bundle@1.14.4

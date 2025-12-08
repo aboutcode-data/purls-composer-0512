@@ -1,0 +1,9 @@
+- pkg:composer/kronos/redis-session-handler@v0.0.1
+- pkg:composer/kronos/redis-session-handler@v0.0.2
+- pkg:composer/kronos/redis-session-handler@v0.0.3
+- pkg:composer/kronos/redis-session-handler@v1.0.0
+- pkg:composer/kronos/redis-session-handler@v1.0.1
+- pkg:composer/kronos/redis-session-handler@v1.0.2
+- pkg:composer/kronos/redis-session-handler@v1.1.0
+- pkg:composer/kronos/redis-session-handler@v1.2.0
+- pkg:composer/kronos/redis-session-handler@v1.3.0

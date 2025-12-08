@@ -1,0 +1,3 @@
+- pkg:composer/kint-php/kint-helpers@4.0
+- pkg:composer/kint-php/kint-helpers@5.0
+- pkg:composer/kint-php/kint-helpers@6.0

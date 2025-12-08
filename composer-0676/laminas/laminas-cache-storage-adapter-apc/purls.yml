@@ -1,0 +1,2 @@
+- pkg:composer/laminas/laminas-cache-storage-adapter-apc@1.0.0
+- pkg:composer/laminas/laminas-cache-storage-adapter-apc@1.0.1

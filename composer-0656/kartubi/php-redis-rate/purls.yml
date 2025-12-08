@@ -1,0 +1,3 @@
+- pkg:composer/kartubi/php-redis-rate@v1.0.0
+- pkg:composer/kartubi/php-redis-rate@v3.0.0
+- pkg:composer/kartubi/php-redis-rate@v3.0.1

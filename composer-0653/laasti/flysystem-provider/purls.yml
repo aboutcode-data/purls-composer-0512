@@ -1,0 +1,3 @@
+- pkg:composer/laasti/flysystem-provider@v1.0
+- pkg:composer/laasti/flysystem-provider@v2.0
+- pkg:composer/laasti/flysystem-provider@v2.0.1

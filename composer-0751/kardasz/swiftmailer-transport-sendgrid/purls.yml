@@ -1,0 +1,3 @@
+- pkg:composer/kardasz/swiftmailer-transport-sendgrid@1.0.0
+- pkg:composer/kardasz/swiftmailer-transport-sendgrid@1.0.1
+- pkg:composer/kardasz/swiftmailer-transport-sendgrid@1.0.2

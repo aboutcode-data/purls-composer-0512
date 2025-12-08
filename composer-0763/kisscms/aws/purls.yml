@@ -1,0 +1,6 @@
+- pkg:composer/kisscms/aws@1.0
+- pkg:composer/kisscms/aws@2.0.0
+- pkg:composer/kisscms/aws@2.5.0
+- pkg:composer/kisscms/aws@3.0.0
+- pkg:composer/kisscms/aws@3.5.0
+- pkg:composer/kisscms/aws@3.8.0

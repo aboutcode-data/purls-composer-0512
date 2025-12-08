@@ -1,0 +1,8 @@
+- pkg:composer/kartavik/php-mock-integration@0.1
+- pkg:composer/kartavik/php-mock-integration@0.2
+- pkg:composer/kartavik/php-mock-integration@0.3
+- pkg:composer/kartavik/php-mock-integration@0.3.1
+- pkg:composer/kartavik/php-mock-integration@0.4
+- pkg:composer/kartavik/php-mock-integration@1.0.0
+- pkg:composer/kartavik/php-mock-integration@2.0.0
+- pkg:composer/kartavik/php-mock-integration@3.0.0

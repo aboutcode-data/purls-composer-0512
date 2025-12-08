@@ -1,0 +1,5 @@
+- pkg:composer/kain/hyperf-amqp@1.0
+- pkg:composer/kain/hyperf-amqp@1.1
+- pkg:composer/kain/hyperf-amqp@1.2
+- pkg:composer/kain/hyperf-amqp@2.0.0
+- pkg:composer/kain/hyperf-amqp@2.0.1

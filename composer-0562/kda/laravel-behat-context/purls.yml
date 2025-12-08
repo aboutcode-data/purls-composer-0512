@@ -1,0 +1,4 @@
+- pkg:composer/kda/laravel-behat-context@1.0.0
+- pkg:composer/kda/laravel-behat-context@1.0.1
+- pkg:composer/kda/laravel-behat-context@1.0.2
+- pkg:composer/kda/laravel-behat-context@2.0.0

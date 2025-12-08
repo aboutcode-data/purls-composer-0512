@@ -1,0 +1,5 @@
+- pkg:composer/laasti/symfony-translation-provider@v1.0
+- pkg:composer/laasti/symfony-translation-provider@v1.1
+- pkg:composer/laasti/symfony-translation-provider@v1.1.1
+- pkg:composer/laasti/symfony-translation-provider@v2.0.0
+- pkg:composer/laasti/symfony-translation-provider@v2.0.1

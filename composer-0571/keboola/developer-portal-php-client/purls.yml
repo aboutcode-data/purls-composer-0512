@@ -1,0 +1,4 @@
+- pkg:composer/keboola/developer-portal-php-client@4.1.2
+- pkg:composer/keboola/developer-portal-php-client@4.2.0
+- pkg:composer/keboola/developer-portal-php-client@5.0.0
+- pkg:composer/keboola/developer-portal-php-client@6.0.0
