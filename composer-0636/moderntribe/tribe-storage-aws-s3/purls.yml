@@ -1,0 +1,7 @@
+- pkg:composer/moderntribe/tribe-storage-aws-s3@v1.0.0
+- pkg:composer/moderntribe/tribe-storage-aws-s3@v1.1.0
+- pkg:composer/moderntribe/tribe-storage-aws-s3@v2.0.0
+- pkg:composer/moderntribe/tribe-storage-aws-s3@v2.0.1
+- pkg:composer/moderntribe/tribe-storage-aws-s3@v2.0.2
+- pkg:composer/moderntribe/tribe-storage-aws-s3@v2.0.3
+- pkg:composer/moderntribe/tribe-storage-aws-s3@v3.0.0

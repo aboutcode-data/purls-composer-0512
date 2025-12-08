@@ -1,0 +1,3 @@
+- pkg:composer/mobly/logger-laravel@1.0.0
+- pkg:composer/mobly/logger-laravel@1.0.1
+- pkg:composer/mobly/logger-laravel@2.0.0

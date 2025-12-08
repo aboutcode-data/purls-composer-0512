@@ -1,0 +1,4 @@
+- pkg:composer/miamioh/behat-csv-formatter@v0.5.0
+- pkg:composer/miamioh/behat-csv-formatter@v0.5.1
+- pkg:composer/miamioh/behat-csv-formatter@v0.6
+- pkg:composer/miamioh/behat-csv-formatter@v0.7

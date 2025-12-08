@@ -1,0 +1,4 @@
+- pkg:composer/mammatus/kubernetes-events@1.0.0
+- pkg:composer/mammatus/kubernetes-events@1.0.1
+- pkg:composer/mammatus/kubernetes-events@2.0.0
+- pkg:composer/mammatus/kubernetes-events@3.0.0

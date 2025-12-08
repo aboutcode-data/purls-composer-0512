@@ -1,0 +1,3 @@
+- pkg:composer/mkohei/laravel-td-notification-channel@v0.1.0-alpha
+- pkg:composer/mkohei/laravel-td-notification-channel@v1.0.0
+- pkg:composer/mkohei/laravel-td-notification-channel@v2.0.0

@@ -1,0 +1,3 @@
+- pkg:composer/micro/plugin-serializer@2.0.0-alpha
+- pkg:composer/micro/plugin-serializer@v1.6-rc1
+- pkg:composer/micro/plugin-serializer@v1.6.0

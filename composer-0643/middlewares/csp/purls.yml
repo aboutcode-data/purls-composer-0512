@@ -1,0 +1,15 @@
+- pkg:composer/middlewares/csp@v0.1.0
+- pkg:composer/middlewares/csp@v0.2.0
+- pkg:composer/middlewares/csp@v0.3.0
+- pkg:composer/middlewares/csp@v0.4.0
+- pkg:composer/middlewares/csp@v0.4.1
+- pkg:composer/middlewares/csp@v0.5.0
+- pkg:composer/middlewares/csp@v0.5.1
+- pkg:composer/middlewares/csp@v0.6.0
+- pkg:composer/middlewares/csp@v1.0.0
+- pkg:composer/middlewares/csp@v1.0.1
+- pkg:composer/middlewares/csp@v2.0.0
+- pkg:composer/middlewares/csp@v3.0.0
+- pkg:composer/middlewares/csp@v3.1.0
+- pkg:composer/middlewares/csp@v3.1.1
+- pkg:composer/middlewares/csp@v3.2.0

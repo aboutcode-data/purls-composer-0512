@@ -1,0 +1,4 @@
+- pkg:composer/minicli/pest-plugin-curly@0.1.0
+- pkg:composer/minicli/pest-plugin-curly@0.1.1
+- pkg:composer/minicli/pest-plugin-curly@0.2.1
+- pkg:composer/minicli/pest-plugin-curly@0.3.0

@@ -1,0 +1,16 @@
+- pkg:composer/mamitech/laravel-slow-query-log@v0.1
+- pkg:composer/mamitech/laravel-slow-query-log@v0.2
+- pkg:composer/mamitech/laravel-slow-query-log@v0.3
+- pkg:composer/mamitech/laravel-slow-query-log@v0.4
+- pkg:composer/mamitech/laravel-slow-query-log@v0.5
+- pkg:composer/mamitech/laravel-slow-query-log@v0.6
+- pkg:composer/mamitech/laravel-slow-query-log@v0.6.1
+- pkg:composer/mamitech/laravel-slow-query-log@v0.6.2
+- pkg:composer/mamitech/laravel-slow-query-log@v0.6.3
+- pkg:composer/mamitech/laravel-slow-query-log@v0.6.4
+- pkg:composer/mamitech/laravel-slow-query-log@v0.7
+- pkg:composer/mamitech/laravel-slow-query-log@v0.7.1
+- pkg:composer/mamitech/laravel-slow-query-log@v1.0
+- pkg:composer/mamitech/laravel-slow-query-log@v1.1
+- pkg:composer/mamitech/laravel-slow-query-log@v2.0
+- pkg:composer/mamitech/laravel-slow-query-log@v3.0

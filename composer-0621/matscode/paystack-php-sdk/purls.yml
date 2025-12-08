@@ -1,0 +1,5 @@
+- pkg:composer/matscode/paystack-php-sdk@v1.8.0
+- pkg:composer/matscode/paystack-php-sdk@v1.8.1
+- pkg:composer/matscode/paystack-php-sdk@v1.9.0
+- pkg:composer/matscode/paystack-php-sdk@v1.9.1
+- pkg:composer/matscode/paystack-php-sdk@v2.0.0

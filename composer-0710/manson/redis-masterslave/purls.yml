@@ -1,0 +1,2 @@
+- pkg:composer/manson/redis-masterslave@1.0
+- pkg:composer/manson/redis-masterslave@v1.0.1

@@ -1,0 +1,4 @@
+- pkg:composer/micro/plugin-http@0.1
+- pkg:composer/micro/plugin-http@1.0
+- pkg:composer/micro/plugin-http@1.1
+- pkg:composer/micro/plugin-http@1.2

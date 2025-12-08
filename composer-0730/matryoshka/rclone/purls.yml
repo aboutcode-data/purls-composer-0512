@@ -1,0 +1,7 @@
+- pkg:composer/matryoshka/rclone@1.0.0-alpha
+- pkg:composer/matryoshka/rclone@1.0.1-alpha
+- pkg:composer/matryoshka/rclone@1.0.2
+- pkg:composer/matryoshka/rclone@1.0.2-alpha
+- pkg:composer/matryoshka/rclone@1.0.3
+- pkg:composer/matryoshka/rclone@1.0.4
+- pkg:composer/matryoshka/rclone@1.0.5

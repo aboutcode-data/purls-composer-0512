@@ -1,0 +1,5 @@
+- pkg:composer/micro/plugin-http-exceptions@2.0.0-alpha
+- pkg:composer/micro/plugin-http-exceptions@v1.0
+- pkg:composer/micro/plugin-http-exceptions@v1.0.1
+- pkg:composer/micro/plugin-http-exceptions@v1.0.2
+- pkg:composer/micro/plugin-http-exceptions@v1.6.0

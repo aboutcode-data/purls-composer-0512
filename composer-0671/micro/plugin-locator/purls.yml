@@ -1,0 +1,4 @@
+- pkg:composer/micro/plugin-locator@1.0
+- pkg:composer/micro/plugin-locator@2.0.0-alpha
+- pkg:composer/micro/plugin-locator@v1.6.1
+- pkg:composer/micro/plugin-locator@v1.6.1.1

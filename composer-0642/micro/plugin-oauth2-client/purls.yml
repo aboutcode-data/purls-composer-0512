@@ -1,0 +1,2 @@
+- pkg:composer/micro/plugin-oauth2-client@1.0
+- pkg:composer/micro/plugin-oauth2-client@2.0.0-alpha

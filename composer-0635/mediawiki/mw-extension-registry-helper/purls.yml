@@ -1,0 +1,4 @@
+- pkg:composer/mediawiki/mw-extension-registry-helper@1.0
+- pkg:composer/mediawiki/mw-extension-registry-helper@1.1
+- pkg:composer/mediawiki/mw-extension-registry-helper@1.2
+- pkg:composer/mediawiki/mw-extension-registry-helper@1.2.1

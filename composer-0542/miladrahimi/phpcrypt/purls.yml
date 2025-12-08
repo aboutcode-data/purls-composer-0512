@@ -1,0 +1,10 @@
+- pkg:composer/miladrahimi/phpcrypt@1.5
+- pkg:composer/miladrahimi/phpcrypt@1.6
+- pkg:composer/miladrahimi/phpcrypt@2.0
+- pkg:composer/miladrahimi/phpcrypt@3.0
+- pkg:composer/miladrahimi/phpcrypt@v1.0
+- pkg:composer/miladrahimi/phpcrypt@v1.1
+- pkg:composer/miladrahimi/phpcrypt@v1.2
+- pkg:composer/miladrahimi/phpcrypt@v1.4
+- pkg:composer/miladrahimi/phpcrypt@v4.0
+- pkg:composer/miladrahimi/phpcrypt@v5.0.0

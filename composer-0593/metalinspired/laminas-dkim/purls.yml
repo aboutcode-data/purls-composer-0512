@@ -1,0 +1,4 @@
+- pkg:composer/metalinspired/laminas-dkim@1.0
+- pkg:composer/metalinspired/laminas-dkim@1.1
+- pkg:composer/metalinspired/laminas-dkim@2.0
+- pkg:composer/metalinspired/laminas-dkim@2.0.1

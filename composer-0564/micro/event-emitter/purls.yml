@@ -1,0 +1,4 @@
+- pkg:composer/micro/event-emitter@0.1
+- pkg:composer/micro/event-emitter@1.0
+- pkg:composer/micro/event-emitter@1.1
+- pkg:composer/micro/event-emitter@2.0.0-alpha

@@ -1,0 +1,13 @@
+- pkg:composer/mihaisolomon/event-store-client@v1.0.0-RC-1
+- pkg:composer/mihaisolomon/event-store-client@v1.0.0-RC-2
+- pkg:composer/mihaisolomon/event-store-client@v1.0.0-beta-1
+- pkg:composer/mihaisolomon/event-store-client@v1.0.0-beta-10
+- pkg:composer/mihaisolomon/event-store-client@v1.0.0-beta-2
+- pkg:composer/mihaisolomon/event-store-client@v1.0.0-beta-3
+- pkg:composer/mihaisolomon/event-store-client@v1.0.0-beta-4
+- pkg:composer/mihaisolomon/event-store-client@v1.0.0-beta-5
+- pkg:composer/mihaisolomon/event-store-client@v1.0.0-beta-6
+- pkg:composer/mihaisolomon/event-store-client@v1.0.0-beta-7
+- pkg:composer/mihaisolomon/event-store-client@v1.0.0-beta-8
+- pkg:composer/mihaisolomon/event-store-client@v1.0.0-beta-9
+- pkg:composer/mihaisolomon/event-store-client@v1.0.1

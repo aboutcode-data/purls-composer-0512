@@ -1,0 +1,4 @@
+- pkg:composer/mcustiel/codeception-wiremock-extension@1.1.0
+- pkg:composer/mcustiel/codeception-wiremock-extension@v0.5
+- pkg:composer/mcustiel/codeception-wiremock-extension@v1.0.0
+- pkg:composer/mcustiel/codeception-wiremock-extension@v1.0.1

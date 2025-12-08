@@ -1,0 +1,2 @@
+- pkg:composer/miotcloud/amqp@v0.1
+- pkg:composer/miotcloud/amqp@v0.2

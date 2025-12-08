@@ -1,0 +1,10 @@
+- pkg:composer/mfn/phpunit-immediate-exception-printer@1.0.0
+- pkg:composer/mfn/phpunit-immediate-exception-printer@1.0.1
+- pkg:composer/mfn/phpunit-immediate-exception-printer@1.1.0
+- pkg:composer/mfn/phpunit-immediate-exception-printer@1.2.0
+- pkg:composer/mfn/phpunit-immediate-exception-printer@1.3.0
+- pkg:composer/mfn/phpunit-immediate-exception-printer@1.4.0
+- pkg:composer/mfn/phpunit-immediate-exception-printer@2.0.0
+- pkg:composer/mfn/phpunit-immediate-exception-printer@3.0.0
+- pkg:composer/mfn/phpunit-immediate-exception-printer@4.0.0
+- pkg:composer/mfn/phpunit-immediate-exception-printer@5.0.0

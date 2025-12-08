@@ -1,0 +1,4 @@
+- pkg:composer/mattkirwan/illuminate-database-silex-service-provider@0.1
+- pkg:composer/mattkirwan/illuminate-database-silex-service-provider@0.2
+- pkg:composer/mattkirwan/illuminate-database-silex-service-provider@0.3
+- pkg:composer/mattkirwan/illuminate-database-silex-service-provider@0.4

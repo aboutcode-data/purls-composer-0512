@@ -1,0 +1,16 @@
+- pkg:composer/mix/redis-subscriber@v2.1.0
+- pkg:composer/mix/redis-subscriber@v2.1.0-RC
+- pkg:composer/mix/redis-subscriber@v2.1.0-RC2
+- pkg:composer/mix/redis-subscriber@v2.1.15
+- pkg:composer/mix/redis-subscriber@v2.1.2
+- pkg:composer/mix/redis-subscriber@v2.2.1
+- pkg:composer/mix/redis-subscriber@v2.2.14
+- pkg:composer/mix/redis-subscriber@v2.2.15
+- pkg:composer/mix/redis-subscriber@v2.2.16
+- pkg:composer/mix/redis-subscriber@v2.2.2
+- pkg:composer/mix/redis-subscriber@v3.0.1
+- pkg:composer/mix/redis-subscriber@v3.0.2
+- pkg:composer/mix/redis-subscriber@v3.0.3
+- pkg:composer/mix/redis-subscriber@v3.0.4
+- pkg:composer/mix/redis-subscriber@v3.0.5
+- pkg:composer/mix/redis-subscriber@v3.0.6

@@ -1,0 +1,5 @@
+- pkg:composer/metamodels/bundle_filter@1.0.0
+- pkg:composer/metamodels/bundle_filter@2.0.0
+- pkg:composer/metamodels/bundle_filter@2.1.0
+- pkg:composer/metamodels/bundle_filter@2.2.0
+- pkg:composer/metamodels/bundle_filter@2.3.0

@@ -1,0 +1,3 @@
+- pkg:composer/mailium/oauth-client-php@1.0.20
+- pkg:composer/mailium/oauth-client-php@1.0.22
+- pkg:composer/mailium/oauth-client-php@1.0.23

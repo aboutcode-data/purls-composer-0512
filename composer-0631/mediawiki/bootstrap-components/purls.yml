@@ -1,0 +1,17 @@
+- pkg:composer/mediawiki/bootstrap-components@1.0.0
+- pkg:composer/mediawiki/bootstrap-components@1.1.0
+- pkg:composer/mediawiki/bootstrap-components@1.1.1
+- pkg:composer/mediawiki/bootstrap-components@1.2.0
+- pkg:composer/mediawiki/bootstrap-components@1.2.1
+- pkg:composer/mediawiki/bootstrap-components@1.2.2
+- pkg:composer/mediawiki/bootstrap-components@1.2.3
+- pkg:composer/mediawiki/bootstrap-components@1.2.4
+- pkg:composer/mediawiki/bootstrap-components@4.0.0
+- pkg:composer/mediawiki/bootstrap-components@4.0.1
+- pkg:composer/mediawiki/bootstrap-components@5.0.0
+- pkg:composer/mediawiki/bootstrap-components@5.0.1
+- pkg:composer/mediawiki/bootstrap-components@5.1.0
+- pkg:composer/mediawiki/bootstrap-components@5.1.1
+- pkg:composer/mediawiki/bootstrap-components@5.1.2
+- pkg:composer/mediawiki/bootstrap-components@5.2.0
+- pkg:composer/mediawiki/bootstrap-components@5.2.1

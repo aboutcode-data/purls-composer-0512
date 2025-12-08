@@ -1,0 +1,16 @@
+- pkg:composer/maymeow/php-encrypt@v2017.6
+- pkg:composer/maymeow/php-encrypt@v2017.6.1
+- pkg:composer/maymeow/php-encrypt@v2017.8
+- pkg:composer/maymeow/php-encrypt@v2018.3
+- pkg:composer/maymeow/php-encrypt@v2018.4
+- pkg:composer/maymeow/php-encrypt@v2018.5
+- pkg:composer/maymeow/php-encrypt@v2018.5.1
+- pkg:composer/maymeow/php-encrypt@v2018.5.2
+- pkg:composer/maymeow/php-encrypt@v2018.8
+- pkg:composer/maymeow/php-encrypt@v2018.8.1
+- pkg:composer/maymeow/php-encrypt@v2018.8.2
+- pkg:composer/maymeow/php-encrypt@v2020.6
+- pkg:composer/maymeow/php-encrypt@v2020.6.rc1
+- pkg:composer/maymeow/php-encrypt@v2021.1
+- pkg:composer/maymeow/php-encrypt@v2021.2.0
+- pkg:composer/maymeow/php-encrypt@v2021.2.1

@@ -1,0 +1,4 @@
+- pkg:composer/minimum/cms@v2.0
+- pkg:composer/minimum/cms@v4.0.0
+- pkg:composer/minimum/cms@v4.1.0
+- pkg:composer/minimum/cms@v5.9-beta.3

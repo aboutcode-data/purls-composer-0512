@@ -1,0 +1,12 @@
+- pkg:composer/maxh/php-nominatim@1.0.0
+- pkg:composer/maxh/php-nominatim@1.1.0
+- pkg:composer/maxh/php-nominatim@1.1.1
+- pkg:composer/maxh/php-nominatim@1.2.0
+- pkg:composer/maxh/php-nominatim@1.2.1
+- pkg:composer/maxh/php-nominatim@1.2.2
+- pkg:composer/maxh/php-nominatim@1.2.3
+- pkg:composer/maxh/php-nominatim@2.0.0
+- pkg:composer/maxh/php-nominatim@2.0.1
+- pkg:composer/maxh/php-nominatim@2.1.0
+- pkg:composer/maxh/php-nominatim@2.2.0
+- pkg:composer/maxh/php-nominatim@2.3.0
