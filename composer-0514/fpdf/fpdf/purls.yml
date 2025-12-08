@@ -11,3 +11,4 @@
 - pkg:composer/fpdf/fpdf@1.84.3
 - pkg:composer/fpdf/fpdf@1.85.0
 - pkg:composer/fpdf/fpdf@1.86.0
+- pkg:composer/fpdf/fpdf@1.86.1
