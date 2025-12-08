@@ -1,0 +1,6 @@
+- pkg:composer/islandora/drupal-project@8.4
+- pkg:composer/islandora/drupal-project@8.5
+- pkg:composer/islandora/drupal-project@8.6
+- pkg:composer/islandora/drupal-project@8.6.10
+- pkg:composer/islandora/drupal-project@8.7
+- pkg:composer/islandora/drupal-project@8.8.1

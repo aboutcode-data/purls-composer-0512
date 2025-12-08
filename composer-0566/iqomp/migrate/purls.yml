@@ -1,0 +1,4 @@
+- pkg:composer/iqomp/migrate@1.0.0
+- pkg:composer/iqomp/migrate@1.0.1
+- pkg:composer/iqomp/migrate@2.0.0
+- pkg:composer/iqomp/migrate@3.0.1

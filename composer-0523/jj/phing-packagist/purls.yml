@@ -1,0 +1,5 @@
+- pkg:composer/jj/phing-packagist@0.3.0-beta
+- pkg:composer/jj/phing-packagist@0.3.1-beta
+- pkg:composer/jj/phing-packagist@0.3.2-beta
+- pkg:composer/jj/phing-packagist@0.3.3-beta
+- pkg:composer/jj/phing-packagist@0.3.4-beta

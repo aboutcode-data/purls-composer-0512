@@ -1,0 +1,4 @@
+- pkg:composer/jcode/framework-dbadapter-mysql@0.0.1
+- pkg:composer/jcode/framework-dbadapter-mysql@1.0.0
+- pkg:composer/jcode/framework-dbadapter-mysql@1.0.1
+- pkg:composer/jcode/framework-dbadapter-mysql@1.0.2

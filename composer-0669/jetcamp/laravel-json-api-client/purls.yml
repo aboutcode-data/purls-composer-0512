@@ -1,0 +1,10 @@
+- pkg:composer/jetcamp/laravel-json-api-client@2
+- pkg:composer/jetcamp/laravel-json-api-client@3
+- pkg:composer/jetcamp/laravel-json-api-client@4.0.0
+- pkg:composer/jetcamp/laravel-json-api-client@5.0.0
+- pkg:composer/jetcamp/laravel-json-api-client@5.0.2
+- pkg:composer/jetcamp/laravel-json-api-client@6.0.0
+- pkg:composer/jetcamp/laravel-json-api-client@7.0.0
+- pkg:composer/jetcamp/laravel-json-api-client@7.0.1
+- pkg:composer/jetcamp/laravel-json-api-client@v0.0.1-alpha
+- pkg:composer/jetcamp/laravel-json-api-client@v5.0.1

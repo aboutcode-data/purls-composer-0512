@@ -1,0 +1,4 @@
+- pkg:composer/jcab/composer-check-cwd-plugin@1.0
+- pkg:composer/jcab/composer-check-cwd-plugin@1.1
+- pkg:composer/jcab/composer-check-cwd-plugin@1.2
+- pkg:composer/jcab/composer-check-cwd-plugin@1.3

@@ -1,0 +1,14 @@
+- pkg:composer/johnshopkins/logger@v1.0
+- pkg:composer/johnshopkins/logger@v1.0.1
+- pkg:composer/johnshopkins/logger@v2.0
+- pkg:composer/johnshopkins/logger@v2.1
+- pkg:composer/johnshopkins/logger@v2.2
+- pkg:composer/johnshopkins/logger@v2.2.1
+- pkg:composer/johnshopkins/logger@v2.3
+- pkg:composer/johnshopkins/logger@v2.3.1
+- pkg:composer/johnshopkins/logger@v2.4
+- pkg:composer/johnshopkins/logger@v3.0
+- pkg:composer/johnshopkins/logger@v3.0.1
+- pkg:composer/johnshopkins/logger@v3.1
+- pkg:composer/johnshopkins/logger@v3.1.1
+- pkg:composer/johnshopkins/logger@v3.2.0

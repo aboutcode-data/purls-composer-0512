@@ -1,0 +1,4 @@
+- pkg:composer/innmind/command-bus-bundle@1.0.0
+- pkg:composer/innmind/command-bus-bundle@1.0.1
+- pkg:composer/innmind/command-bus-bundle@1.1.0
+- pkg:composer/innmind/command-bus-bundle@2.0.0

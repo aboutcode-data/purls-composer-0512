@@ -1,0 +1,5 @@
+- pkg:composer/izal/knet-payment-php@1.0.0
+- pkg:composer/izal/knet-payment-php@2.0.0
+- pkg:composer/izal/knet-payment-php@2.0.1
+- pkg:composer/izal/knet-payment-php@3.0
+- pkg:composer/izal/knet-payment-php@3.1

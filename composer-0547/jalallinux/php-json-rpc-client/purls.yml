@@ -1,0 +1,3 @@
+- pkg:composer/jalallinux/php-json-rpc-client@1.0.0
+- pkg:composer/jalallinux/php-json-rpc-client@1.0.1
+- pkg:composer/jalallinux/php-json-rpc-client@1.1.0

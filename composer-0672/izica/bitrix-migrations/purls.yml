@@ -1,0 +1,14 @@
+- pkg:composer/izica/bitrix-migrations@2.2
+- pkg:composer/izica/bitrix-migrations@2.3
+- pkg:composer/izica/bitrix-migrations@2.4
+- pkg:composer/izica/bitrix-migrations@2.5
+- pkg:composer/izica/bitrix-migrations@2.6
+- pkg:composer/izica/bitrix-migrations@2.7
+- pkg:composer/izica/bitrix-migrations@3.0
+- pkg:composer/izica/bitrix-migrations@3.1
+- pkg:composer/izica/bitrix-migrations@3.2
+- pkg:composer/izica/bitrix-migrations@3.3
+- pkg:composer/izica/bitrix-migrations@3.4
+- pkg:composer/izica/bitrix-migrations@3.5
+- pkg:composer/izica/bitrix-migrations@3.6
+- pkg:composer/izica/bitrix-migrations@3.6.1

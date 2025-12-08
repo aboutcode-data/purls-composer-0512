@@ -1,0 +1,4 @@
+- pkg:composer/jippi/php-cassandra@v0.3.0
+- pkg:composer/jippi/php-cassandra@v0.5.0
+- pkg:composer/jippi/php-cassandra@v0.5.1
+- pkg:composer/jippi/php-cassandra@v0.5.2

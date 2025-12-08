@@ -1,0 +1,13 @@
+- pkg:composer/inwicast/claroline-plugin-bundle@v1.0.0
+- pkg:composer/inwicast/claroline-plugin-bundle@v1.0.1
+- pkg:composer/inwicast/claroline-plugin-bundle@v1.0.2
+- pkg:composer/inwicast/claroline-plugin-bundle@v1.0.3
+- pkg:composer/inwicast/claroline-plugin-bundle@v5.0.0
+- pkg:composer/inwicast/claroline-plugin-bundle@v5.0.1
+- pkg:composer/inwicast/claroline-plugin-bundle@v5.0.2
+- pkg:composer/inwicast/claroline-plugin-bundle@v5.0.3
+- pkg:composer/inwicast/claroline-plugin-bundle@v6.0.0
+- pkg:composer/inwicast/claroline-plugin-bundle@v6.0.1
+- pkg:composer/inwicast/claroline-plugin-bundle@v6.0.2
+- pkg:composer/inwicast/claroline-plugin-bundle@v7.0.0
+- pkg:composer/inwicast/claroline-plugin-bundle@v8.0.0

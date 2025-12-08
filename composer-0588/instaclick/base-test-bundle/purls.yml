@@ -1,0 +1,7 @@
+- pkg:composer/instaclick/base-test-bundle@0.1
+- pkg:composer/instaclick/base-test-bundle@0.2
+- pkg:composer/instaclick/base-test-bundle@0.5.1
+- pkg:composer/instaclick/base-test-bundle@0.5.2
+- pkg:composer/instaclick/base-test-bundle@v0.3
+- pkg:composer/instaclick/base-test-bundle@v0.4
+- pkg:composer/instaclick/base-test-bundle@v0.5

@@ -1,0 +1,5 @@
+- pkg:composer/imoisey/docker-compose-builder@0.1.0
+- pkg:composer/imoisey/docker-compose-builder@0.1.1
+- pkg:composer/imoisey/docker-compose-builder@0.1.10
+- pkg:composer/imoisey/docker-compose-builder@0.1.2
+- pkg:composer/imoisey/docker-compose-builder@0.1.3

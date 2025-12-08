@@ -1,0 +1,14 @@
+- pkg:composer/islandora/jsonld@0.1.0
+- pkg:composer/islandora/jsonld@0.2.0
+- pkg:composer/islandora/jsonld@1.0.0
+- pkg:composer/islandora/jsonld@1.1.0
+- pkg:composer/islandora/jsonld@2.0.0
+- pkg:composer/islandora/jsonld@2.1.0
+- pkg:composer/islandora/jsonld@2.1.1
+- pkg:composer/islandora/jsonld@2.1.2
+- pkg:composer/islandora/jsonld@2.1.3
+- pkg:composer/islandora/jsonld@2.2.0
+- pkg:composer/islandora/jsonld@3.0.1
+- pkg:composer/islandora/jsonld@3.0.2
+- pkg:composer/islandora/jsonld@3.0.3
+- pkg:composer/islandora/jsonld@3.0.4

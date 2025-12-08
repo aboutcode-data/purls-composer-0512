@@ -1,0 +1,4 @@
+- pkg:composer/jcergolj/laravel-php-cs-fixer-phpdoc-rules@v0.1
+- pkg:composer/jcergolj/laravel-php-cs-fixer-phpdoc-rules@v0.2
+- pkg:composer/jcergolj/laravel-php-cs-fixer-phpdoc-rules@v0.3
+- pkg:composer/jcergolj/laravel-php-cs-fixer-phpdoc-rules@v0.4

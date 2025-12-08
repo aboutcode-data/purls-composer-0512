@@ -1,0 +1,13 @@
+- pkg:composer/itwmw/engine-validate-middleware@v1.0.0
+- pkg:composer/itwmw/engine-validate-middleware@v1.0.1
+- pkg:composer/itwmw/engine-validate-middleware@v4.0.0
+- pkg:composer/itwmw/engine-validate-middleware@v4.0.0-alpha.1
+- pkg:composer/itwmw/engine-validate-middleware@v4.0.0-beta.1
+- pkg:composer/itwmw/engine-validate-middleware@v4.0.0-beta.2
+- pkg:composer/itwmw/engine-validate-middleware@v4.1.0
+- pkg:composer/itwmw/engine-validate-middleware@v4.1.1
+- pkg:composer/itwmw/engine-validate-middleware@v4.2.0
+- pkg:composer/itwmw/engine-validate-middleware@v5.0.0
+- pkg:composer/itwmw/engine-validate-middleware@v5.1.0
+- pkg:composer/itwmw/engine-validate-middleware@v5.1.1
+- pkg:composer/itwmw/engine-validate-middleware@v6.0.0

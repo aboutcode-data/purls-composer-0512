@@ -1,0 +1,6 @@
+- pkg:composer/iqual/scheduler_cron@1.0-rc
+- pkg:composer/iqual/scheduler_cron@1.1-rc
+- pkg:composer/iqual/scheduler_cron@2.0
+- pkg:composer/iqual/scheduler_cron@2.2
+- pkg:composer/iqual/scheduler_cron@3.0
+- pkg:composer/iqual/scheduler_cron@v2.1

@@ -1,0 +1,4 @@
+- pkg:composer/integrated/deployment-bundle@0.3
+- pkg:composer/integrated/deployment-bundle@1.0
+- pkg:composer/integrated/deployment-bundle@1.1
+- pkg:composer/integrated/deployment-bundle@1.2

@@ -1,0 +1,15 @@
+- pkg:composer/joggapp/laravel-natural-language@v1.0.0
+- pkg:composer/joggapp/laravel-natural-language@v1.0.1
+- pkg:composer/joggapp/laravel-natural-language@v1.0.2
+- pkg:composer/joggapp/laravel-natural-language@v2.0.0
+- pkg:composer/joggapp/laravel-natural-language@v2.0.1
+- pkg:composer/joggapp/laravel-natural-language@v2.1.0
+- pkg:composer/joggapp/laravel-natural-language@v3.0.0
+- pkg:composer/joggapp/laravel-natural-language@v3.0.1
+- pkg:composer/joggapp/laravel-natural-language@v4.0.0
+- pkg:composer/joggapp/laravel-natural-language@v5.0.0
+- pkg:composer/joggapp/laravel-natural-language@v6.0.0
+- pkg:composer/joggapp/laravel-natural-language@v6.0.1
+- pkg:composer/joggapp/laravel-natural-language@v7.0.0
+- pkg:composer/joggapp/laravel-natural-language@v7.0.1
+- pkg:composer/joggapp/laravel-natural-language@v8.0.0

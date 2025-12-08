@@ -1,0 +1,15 @@
+- pkg:composer/irstea/phpcpd-shim@2.0.1
+- pkg:composer/irstea/phpcpd-shim@2.0.2
+- pkg:composer/irstea/phpcpd-shim@2.0.3
+- pkg:composer/irstea/phpcpd-shim@2.0.4
+- pkg:composer/irstea/phpcpd-shim@3.0.0
+- pkg:composer/irstea/phpcpd-shim@3.0.1
+- pkg:composer/irstea/phpcpd-shim@4.0.0
+- pkg:composer/irstea/phpcpd-shim@4.1.0
+- pkg:composer/irstea/phpcpd-shim@5.0.0
+- pkg:composer/irstea/phpcpd-shim@5.0.1
+- pkg:composer/irstea/phpcpd-shim@5.0.2
+- pkg:composer/irstea/phpcpd-shim@6.0.0
+- pkg:composer/irstea/phpcpd-shim@6.0.1
+- pkg:composer/irstea/phpcpd-shim@6.0.2
+- pkg:composer/irstea/phpcpd-shim@6.0.3
