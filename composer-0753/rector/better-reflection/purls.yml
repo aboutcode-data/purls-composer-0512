@@ -1,0 +1,14 @@
+- pkg:composer/rector/better-reflection@0.1.0
+- pkg:composer/rector/better-reflection@1.0.0
+- pkg:composer/rector/better-reflection@1.0.1
+- pkg:composer/rector/better-reflection@1.1.0
+- pkg:composer/rector/better-reflection@1.2.0
+- pkg:composer/rector/better-reflection@2.0.0
+- pkg:composer/rector/better-reflection@v3.0.0
+- pkg:composer/rector/better-reflection@v3.0.1
+- pkg:composer/rector/better-reflection@v3.0.2
+- pkg:composer/rector/better-reflection@v3.0.3
+- pkg:composer/rector/better-reflection@v3.0.4
+- pkg:composer/rector/better-reflection@v3.0.5
+- pkg:composer/rector/better-reflection@v3.0.6
+- pkg:composer/rector/better-reflection@v4.0.0

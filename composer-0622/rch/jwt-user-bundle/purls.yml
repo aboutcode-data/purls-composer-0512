@@ -1,0 +1,4 @@
+- pkg:composer/rch/jwt-user-bundle@v1.0.1
+- pkg:composer/rch/jwt-user-bundle@v1.2.0
+- pkg:composer/rch/jwt-user-bundle@v1.3.0
+- pkg:composer/rch/jwt-user-bundle@v2.0.0-alpha1

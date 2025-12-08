@@ -1,0 +1,6 @@
+- pkg:composer/roadrunner-php/centrifugo@1.0.0
+- pkg:composer/roadrunner-php/centrifugo@2.0.0
+- pkg:composer/roadrunner-php/centrifugo@2.2.1
+- pkg:composer/roadrunner-php/centrifugo@v2.0.1
+- pkg:composer/roadrunner-php/centrifugo@v2.1.0
+- pkg:composer/roadrunner-php/centrifugo@v2.2.0

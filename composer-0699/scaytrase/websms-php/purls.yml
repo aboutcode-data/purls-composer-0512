@@ -1,0 +1,4 @@
+- pkg:composer/scaytrase/websms-php@0.1
+- pkg:composer/scaytrase/websms-php@1.0
+- pkg:composer/scaytrase/websms-php@1.0-alpha
+- pkg:composer/scaytrase/websms-php@1.0.1

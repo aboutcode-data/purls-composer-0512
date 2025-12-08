@@ -1,0 +1,11 @@
+- pkg:composer/ratehub/laravel-newrelic@0.6
+- pkg:composer/ratehub/laravel-newrelic@0.7
+- pkg:composer/ratehub/laravel-newrelic@0.8.0
+- pkg:composer/ratehub/laravel-newrelic@0.8.1
+- pkg:composer/ratehub/laravel-newrelic@0.8.2
+- pkg:composer/ratehub/laravel-newrelic@0.8.3
+- pkg:composer/ratehub/laravel-newrelic@v0.1
+- pkg:composer/ratehub/laravel-newrelic@v0.2
+- pkg:composer/ratehub/laravel-newrelic@v0.3
+- pkg:composer/ratehub/laravel-newrelic@v0.4
+- pkg:composer/ratehub/laravel-newrelic@v0.5

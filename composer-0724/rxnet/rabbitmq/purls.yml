@@ -1,0 +1,4 @@
+- pkg:composer/rxnet/rabbitmq@0.1
+- pkg:composer/rxnet/rabbitmq@0.1.1
+- pkg:composer/rxnet/rabbitmq@0.2.0
+- pkg:composer/rxnet/rabbitmq@0.3.0

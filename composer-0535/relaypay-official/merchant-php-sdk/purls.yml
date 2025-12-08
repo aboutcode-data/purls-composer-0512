@@ -1,0 +1,4 @@
+- pkg:composer/relaypay-official/merchant-php-sdk@1.0.0
+- pkg:composer/relaypay-official/merchant-php-sdk@1.0.1
+- pkg:composer/relaypay-official/merchant-php-sdk@1.0.2
+- pkg:composer/relaypay-official/merchant-php-sdk@1.0.3

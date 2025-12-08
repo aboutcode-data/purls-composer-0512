@@ -1,0 +1,9 @@
+- pkg:composer/rollbar/rollbar-php-symfony3-bundle@v1.0.0
+- pkg:composer/rollbar/rollbar-php-symfony3-bundle@v1.0.1
+- pkg:composer/rollbar/rollbar-php-symfony3-bundle@v1.0.2
+- pkg:composer/rollbar/rollbar-php-symfony3-bundle@v2.0.0
+- pkg:composer/rollbar/rollbar-php-symfony3-bundle@v3.0.0
+- pkg:composer/rollbar/rollbar-php-symfony3-bundle@v3.1.0
+- pkg:composer/rollbar/rollbar-php-symfony3-bundle@v3.1.1
+- pkg:composer/rollbar/rollbar-php-symfony3-bundle@v3.1.2
+- pkg:composer/rollbar/rollbar-php-symfony3-bundle@v4.0.0

@@ -1,0 +1,12 @@
+- pkg:composer/rickselby/laravel-permission-setup@v1.0
+- pkg:composer/rickselby/laravel-permission-setup@v2.0
+- pkg:composer/rickselby/laravel-permission-setup@v3.0
+- pkg:composer/rickselby/laravel-permission-setup@v3.1
+- pkg:composer/rickselby/laravel-permission-setup@v3.2
+- pkg:composer/rickselby/laravel-permission-setup@v4.0
+- pkg:composer/rickselby/laravel-permission-setup@v4.1
+- pkg:composer/rickselby/laravel-permission-setup@v4.2.0
+- pkg:composer/rickselby/laravel-permission-setup@v4.3.0
+- pkg:composer/rickselby/laravel-permission-setup@v4.4.0
+- pkg:composer/rickselby/laravel-permission-setup@v4.5.0
+- pkg:composer/rickselby/laravel-permission-setup@v4.6.0

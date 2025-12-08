@@ -1,0 +1,9 @@
+- pkg:composer/resque/php-resque@v1.2
+- pkg:composer/resque/php-resque@v1.2.1
+- pkg:composer/resque/php-resque@v1.3.2
+- pkg:composer/resque/php-resque@v1.3.3
+- pkg:composer/resque/php-resque@v1.3.4
+- pkg:composer/resque/php-resque@v1.3.4-beta
+- pkg:composer/resque/php-resque@v1.3.5
+- pkg:composer/resque/php-resque@v1.3.5-beta
+- pkg:composer/resque/php-resque@v1.3.6

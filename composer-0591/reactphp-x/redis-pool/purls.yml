@@ -1,0 +1,2 @@
+- pkg:composer/reactphp-x/redis-pool@v1.0.0
+- pkg:composer/reactphp-x/redis-pool@v2.0.0

@@ -1,0 +1,4 @@
+- pkg:composer/sadok-f/docker-secrets@0.1
+- pkg:composer/sadok-f/docker-secrets@0.2
+- pkg:composer/sadok-f/docker-secrets@0.3
+- pkg:composer/sadok-f/docker-secrets@1.0.0

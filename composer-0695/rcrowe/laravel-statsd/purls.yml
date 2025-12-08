@@ -1,0 +1,5 @@
+- pkg:composer/rcrowe/laravel-statsd@v0.0.1
+- pkg:composer/rcrowe/laravel-statsd@v0.0.2
+- pkg:composer/rcrowe/laravel-statsd@v0.5.0
+- pkg:composer/rcrowe/laravel-statsd@v0.5.1
+- pkg:composer/rcrowe/laravel-statsd@v0.5.2

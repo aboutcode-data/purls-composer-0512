@@ -1,0 +1,5 @@
+- pkg:composer/royalcms/laravel-sql-generator@v1.0.0
+- pkg:composer/royalcms/laravel-sql-generator@v2.0.0
+- pkg:composer/royalcms/laravel-sql-generator@v2.1.0
+- pkg:composer/royalcms/laravel-sql-generator@v2.1.1
+- pkg:composer/royalcms/laravel-sql-generator@v2.1.2

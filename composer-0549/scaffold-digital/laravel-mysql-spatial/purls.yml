@@ -1,0 +1,9 @@
+- pkg:composer/scaffold-digital/laravel-mysql-spatial@5.0.0
+- pkg:composer/scaffold-digital/laravel-mysql-spatial@6.0.0
+- pkg:composer/scaffold-digital/laravel-mysql-spatial@6.0.1
+- pkg:composer/scaffold-digital/laravel-mysql-spatial@6.0.2
+- pkg:composer/scaffold-digital/laravel-mysql-spatial@7.0.0
+- pkg:composer/scaffold-digital/laravel-mysql-spatial@7.0.1
+- pkg:composer/scaffold-digital/laravel-mysql-spatial@7.0.2
+- pkg:composer/scaffold-digital/laravel-mysql-spatial@8.0.0
+- pkg:composer/scaffold-digital/laravel-mysql-spatial@8.0.1

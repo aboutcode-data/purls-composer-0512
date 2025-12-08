@@ -1,0 +1,4 @@
+- pkg:composer/raptor/php-migration-helper@v1.0.10-stable
+- pkg:composer/raptor/php-migration-helper@v1.0.11-stable
+- pkg:composer/raptor/php-migration-helper@v1.0.8-stable
+- pkg:composer/raptor/php-migration-helper@v1.0.9-stable

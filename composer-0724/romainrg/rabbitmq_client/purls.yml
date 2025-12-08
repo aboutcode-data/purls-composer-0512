@@ -1,0 +1,7 @@
+- pkg:composer/romainrg/rabbitmq_client@5.0.0
+- pkg:composer/romainrg/rabbitmq_client@5.1.0
+- pkg:composer/romainrg/rabbitmq_client@6.0.0
+- pkg:composer/romainrg/rabbitmq_client@6.1.0
+- pkg:composer/romainrg/rabbitmq_client@6.2.0
+- pkg:composer/romainrg/rabbitmq_client@7.0-alpha
+- pkg:composer/romainrg/rabbitmq_client@7.0-beta

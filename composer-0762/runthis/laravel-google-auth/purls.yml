@@ -1,0 +1,4 @@
+- pkg:composer/runthis/laravel-google-auth@1.0.0
+- pkg:composer/runthis/laravel-google-auth@1.0.1
+- pkg:composer/runthis/laravel-google-auth@1.0.2
+- pkg:composer/runthis/laravel-google-auth@2.0.2

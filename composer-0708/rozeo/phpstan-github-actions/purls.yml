@@ -1,0 +1,4 @@
+- pkg:composer/rozeo/phpstan-github-actions@0.0.1
+- pkg:composer/rozeo/phpstan-github-actions@0.0.2
+- pkg:composer/rozeo/phpstan-github-actions@1.0.0
+- pkg:composer/rozeo/phpstan-github-actions@v0.1

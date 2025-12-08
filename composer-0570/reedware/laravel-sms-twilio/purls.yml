@@ -1,0 +1,5 @@
+- pkg:composer/reedware/laravel-sms-twilio@v0.1.0
+- pkg:composer/reedware/laravel-sms-twilio@v0.2.0
+- pkg:composer/reedware/laravel-sms-twilio@v0.3.0
+- pkg:composer/reedware/laravel-sms-twilio@v0.3.1
+- pkg:composer/reedware/laravel-sms-twilio@v1.0.0
