@@ -1,0 +1,16 @@
+- pkg:composer/phputil/validator@0.4.1
+- pkg:composer/phputil/validator@0.5
+- pkg:composer/phputil/validator@1.0
+- pkg:composer/phputil/validator@1.0.1
+- pkg:composer/phputil/validator@2.0
+- pkg:composer/phputil/validator@2.1
+- pkg:composer/phputil/validator@2.1.1
+- pkg:composer/phputil/validator@2.1.2
+- pkg:composer/phputil/validator@2.2
+- pkg:composer/phputil/validator@2.3
+- pkg:composer/phputil/validator@2.3.1
+- pkg:composer/phputil/validator@2.4
+- pkg:composer/phputil/validator@2.4.1
+- pkg:composer/phputil/validator@2.5
+- pkg:composer/phputil/validator@2.5.1
+- pkg:composer/phputil/validator@2.5.2

@@ -1,0 +1,13 @@
+- pkg:composer/phpxmlrpc/extras@0.5.1
+- pkg:composer/phpxmlrpc/extras@0.5.2
+- pkg:composer/phpxmlrpc/extras@0.6.0
+- pkg:composer/phpxmlrpc/extras@0.6.1
+- pkg:composer/phpxmlrpc/extras@0.6.2
+- pkg:composer/phpxmlrpc/extras@0.6.3
+- pkg:composer/phpxmlrpc/extras@1.0.0
+- pkg:composer/phpxmlrpc/extras@1.0.0-alpha
+- pkg:composer/phpxmlrpc/extras@1.0.0-beta1
+- pkg:composer/phpxmlrpc/extras@1.0.0-beta2
+- pkg:composer/phpxmlrpc/extras@1.0.0-beta3
+- pkg:composer/phpxmlrpc/extras@1.0.0-beta4
+- pkg:composer/phpxmlrpc/extras@1.0.1

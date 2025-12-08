@@ -1,0 +1,12 @@
+- pkg:composer/phpdotnet/phpdotnet@v0.0.1-beta
+- pkg:composer/phpdotnet/phpdotnet@v0.0.2-beta
+- pkg:composer/phpdotnet/phpdotnet@v0.0.2.1-beta
+- pkg:composer/phpdotnet/phpdotnet@v0.0.2.2-beta
+- pkg:composer/phpdotnet/phpdotnet@v0.0.3
+- pkg:composer/phpdotnet/phpdotnet@v0.0.3-beta
+- pkg:composer/phpdotnet/phpdotnet@v0.0.3.1-beta
+- pkg:composer/phpdotnet/phpdotnet@v0.0.3.2-beta
+- pkg:composer/phpdotnet/phpdotnet@v0.0.3.3-beta
+- pkg:composer/phpdotnet/phpdotnet@v0.0.3.4-beta
+- pkg:composer/phpdotnet/phpdotnet@v0.0.4-beta
+- pkg:composer/phpdotnet/phpdotnet@v0.0.4.1-beta

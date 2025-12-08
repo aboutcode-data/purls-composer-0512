@@ -1,0 +1,5 @@
+- pkg:composer/phpbin/openldap@v0.1
+- pkg:composer/phpbin/openldap@v0.2
+- pkg:composer/phpbin/openldap@v0.3
+- pkg:composer/phpbin/openldap@v0.4
+- pkg:composer/phpbin/openldap@v0.5

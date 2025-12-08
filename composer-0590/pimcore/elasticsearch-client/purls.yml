@@ -1,0 +1,6 @@
+- pkg:composer/pimcore/elasticsearch-client@v1.0.0
+- pkg:composer/pimcore/elasticsearch-client@v1.0.1
+- pkg:composer/pimcore/elasticsearch-client@v1.1.0
+- pkg:composer/pimcore/elasticsearch-client@v1.1.0-RC1
+- pkg:composer/pimcore/elasticsearch-client@v2.0.0
+- pkg:composer/pimcore/elasticsearch-client@v2.0.0-RC1

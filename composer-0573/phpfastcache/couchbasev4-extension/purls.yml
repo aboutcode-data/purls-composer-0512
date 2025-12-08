@@ -1,0 +1,7 @@
+- pkg:composer/phpfastcache/couchbasev4-extension@9.2.0
+- pkg:composer/phpfastcache/couchbasev4-extension@9.2.0-alpha
+- pkg:composer/phpfastcache/couchbasev4-extension@9.2.0-beta
+- pkg:composer/phpfastcache/couchbasev4-extension@9.2.0-rc
+- pkg:composer/phpfastcache/couchbasev4-extension@9.2.1
+- pkg:composer/phpfastcache/couchbasev4-extension@9.2.2
+- pkg:composer/phpfastcache/couchbasev4-extension@9.2.3

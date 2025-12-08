@@ -1,0 +1,8 @@
+- pkg:composer/phpvv/db-pdo@0.1
+- pkg:composer/phpvv/db-pdo@0.2.0
+- pkg:composer/phpvv/db-pdo@0.2.1
+- pkg:composer/phpvv/db-pdo@0.3.0
+- pkg:composer/phpvv/db-pdo@0.3.0-beta.1
+- pkg:composer/phpvv/db-pdo@0.3.0-beta.2
+- pkg:composer/phpvv/db-pdo@0.3.0-beta.7
+- pkg:composer/phpvv/db-pdo@0.3.0-rc.1

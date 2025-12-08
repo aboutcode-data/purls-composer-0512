@@ -1,0 +1,15 @@
+- pkg:composer/prolix/image-bundle@1.6
+- pkg:composer/prolix/image-bundle@1.8
+- pkg:composer/prolix/image-bundle@2.0.1
+- pkg:composer/prolix/image-bundle@2.0.2
+- pkg:composer/prolix/image-bundle@2.0.3
+- pkg:composer/prolix/image-bundle@2.0.4
+- pkg:composer/prolix/image-bundle@2.0.5
+- pkg:composer/prolix/image-bundle@3.0.0
+- pkg:composer/prolix/image-bundle@v1.0
+- pkg:composer/prolix/image-bundle@v1.1
+- pkg:composer/prolix/image-bundle@v1.2
+- pkg:composer/prolix/image-bundle@v1.3
+- pkg:composer/prolix/image-bundle@v1.4
+- pkg:composer/prolix/image-bundle@v1.5
+- pkg:composer/prolix/image-bundle@v1.7

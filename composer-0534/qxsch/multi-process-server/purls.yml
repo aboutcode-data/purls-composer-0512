@@ -1,0 +1,7 @@
+- pkg:composer/qxsch/multi-process-server@0.5.1
+- pkg:composer/qxsch/multi-process-server@0.6.0
+- pkg:composer/qxsch/multi-process-server@0.7.1
+- pkg:composer/qxsch/multi-process-server@v0.5
+- pkg:composer/qxsch/multi-process-server@v0.7.2
+- pkg:composer/qxsch/multi-process-server@v0.7.3
+- pkg:composer/qxsch/multi-process-server@v1.0.1

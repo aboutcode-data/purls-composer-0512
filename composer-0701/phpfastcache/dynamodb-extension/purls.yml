@@ -1,0 +1,2 @@
+- pkg:composer/phpfastcache/dynamodb-extension@9.2.0
+- pkg:composer/phpfastcache/dynamodb-extension@9.2.1

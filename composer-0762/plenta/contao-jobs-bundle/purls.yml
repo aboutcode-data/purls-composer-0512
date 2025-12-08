@@ -1,0 +1,4 @@
+- pkg:composer/plenta/contao-jobs-bundle@4.0.0
+- pkg:composer/plenta/contao-jobs-bundle@4.1.0
+- pkg:composer/plenta/contao-jobs-bundle@4.2.0
+- pkg:composer/plenta/contao-jobs-bundle@5.0.0

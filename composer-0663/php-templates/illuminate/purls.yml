@@ -1,0 +1,5 @@
+- pkg:composer/php-templates/illuminate@0.0.1
+- pkg:composer/php-templates/illuminate@0.0.2
+- pkg:composer/php-templates/illuminate@1.0.0
+- pkg:composer/php-templates/illuminate@1.0.1
+- pkg:composer/php-templates/illuminate@2.0.0

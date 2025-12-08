@@ -1,0 +1,8 @@
+- pkg:composer/preprio/php-rest-sdk@v1.0.0
+- pkg:composer/preprio/php-rest-sdk@v2.0.0
+- pkg:composer/preprio/php-rest-sdk@v2.0.1
+- pkg:composer/preprio/php-rest-sdk@v2.0.2
+- pkg:composer/preprio/php-rest-sdk@v3.0.0
+- pkg:composer/preprio/php-rest-sdk@v3.0.1
+- pkg:composer/preprio/php-rest-sdk@v4.0.0
+- pkg:composer/preprio/php-rest-sdk@v5.0.1

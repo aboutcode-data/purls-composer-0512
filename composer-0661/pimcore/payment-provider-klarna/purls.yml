@@ -1,0 +1,6 @@
+- pkg:composer/pimcore/payment-provider-klarna@v1.0.0
+- pkg:composer/pimcore/payment-provider-klarna@v1.0.1
+- pkg:composer/pimcore/payment-provider-klarna@v1.0.2
+- pkg:composer/pimcore/payment-provider-klarna@v1.0.3
+- pkg:composer/pimcore/payment-provider-klarna@v1.0.4
+- pkg:composer/pimcore/payment-provider-klarna@v2.0.0

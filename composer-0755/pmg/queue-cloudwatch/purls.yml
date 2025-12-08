@@ -1,0 +1,6 @@
+- pkg:composer/pmg/queue-cloudwatch@1.0.0
+- pkg:composer/pmg/queue-cloudwatch@v5.0.0
+- pkg:composer/pmg/queue-cloudwatch@v5.0.0-BETA1
+- pkg:composer/pmg/queue-cloudwatch@v5.1.0
+- pkg:composer/pmg/queue-cloudwatch@v6.0.0
+- pkg:composer/pmg/queue-cloudwatch@v7.0.0

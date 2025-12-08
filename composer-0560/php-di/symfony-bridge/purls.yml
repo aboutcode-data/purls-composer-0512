@@ -1,0 +1,9 @@
+- pkg:composer/php-di/symfony-bridge@1.0.0
+- pkg:composer/php-di/symfony-bridge@1.0.1
+- pkg:composer/php-di/symfony-bridge@1.0.2
+- pkg:composer/php-di/symfony-bridge@1.0.3
+- pkg:composer/php-di/symfony-bridge@1.1.0
+- pkg:composer/php-di/symfony-bridge@2.0.0
+- pkg:composer/php-di/symfony-bridge@2.0.0-beta1
+- pkg:composer/php-di/symfony-bridge@2.0.1
+- pkg:composer/php-di/symfony-bridge@3.0.0

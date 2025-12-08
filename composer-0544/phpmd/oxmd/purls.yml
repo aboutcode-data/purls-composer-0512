@@ -1,0 +1,3 @@
+- pkg:composer/phpmd/oxmd@1.0.0
+- pkg:composer/phpmd/oxmd@1.0.2
+- pkg:composer/phpmd/oxmd@1.0.3

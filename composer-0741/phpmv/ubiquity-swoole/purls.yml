@@ -1,0 +1,5 @@
+- pkg:composer/phpmv/ubiquity-swoole@0.0.3
+- pkg:composer/phpmv/ubiquity-swoole@0.0.4
+- pkg:composer/phpmv/ubiquity-swoole@0.0.5
+- pkg:composer/phpmv/ubiquity-swoole@v0.0.1
+- pkg:composer/phpmv/ubiquity-swoole@v0.0.2

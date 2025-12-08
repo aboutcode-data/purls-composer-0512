@@ -1,0 +1,3 @@
+- pkg:composer/quankim/laravel-counter-cache@1.0
+- pkg:composer/quankim/laravel-counter-cache@1.1
+- pkg:composer/quankim/laravel-counter-cache@1.2

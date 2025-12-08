@@ -1,0 +1,3 @@
+- pkg:composer/phpunit/phpunit-mink-trait@1.0.0
+- pkg:composer/phpunit/phpunit-mink-trait@1.0.1
+- pkg:composer/phpunit/phpunit-mink-trait@2.0.0

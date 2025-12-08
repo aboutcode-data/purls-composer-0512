@@ -1,0 +1,4 @@
+- pkg:composer/project-a/acl-bundle@v1.0.0
+- pkg:composer/project-a/acl-bundle@v1.0.0-RC1
+- pkg:composer/project-a/acl-bundle@v1.0.1
+- pkg:composer/project-a/acl-bundle@v1.1.0

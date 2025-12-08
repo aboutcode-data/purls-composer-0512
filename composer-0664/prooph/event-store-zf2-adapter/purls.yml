@@ -1,0 +1,7 @@
+- pkg:composer/prooph/event-store-zf2-adapter@0.1.0
+- pkg:composer/prooph/event-store-zf2-adapter@0.1.1
+- pkg:composer/prooph/event-store-zf2-adapter@v0.2.0
+- pkg:composer/prooph/event-store-zf2-adapter@v0.3.0
+- pkg:composer/prooph/event-store-zf2-adapter@v0.3.1
+- pkg:composer/prooph/event-store-zf2-adapter@v0.3.2
+- pkg:composer/prooph/event-store-zf2-adapter@v1.0

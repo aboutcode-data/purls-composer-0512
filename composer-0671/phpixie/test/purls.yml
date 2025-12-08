@@ -1,0 +1,5 @@
+- pkg:composer/phpixie/test@3.0
+- pkg:composer/phpixie/test@3.0.1
+- pkg:composer/phpixie/test@3.1
+- pkg:composer/phpixie/test@3.2
+- pkg:composer/phpixie/test@4.0

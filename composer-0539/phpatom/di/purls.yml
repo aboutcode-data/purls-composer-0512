@@ -1,0 +1,4 @@
+- pkg:composer/phpatom/di@v0.1.0-stable
+- pkg:composer/phpatom/di@v0.2.0
+- pkg:composer/phpatom/di@v0.3.0
+- pkg:composer/phpatom/di@v0.3.1

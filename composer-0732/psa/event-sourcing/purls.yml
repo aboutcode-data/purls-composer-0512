@@ -1,0 +1,5 @@
+- pkg:composer/psa/event-sourcing@1.0.0
+- pkg:composer/psa/event-sourcing@1.1.0
+- pkg:composer/psa/event-sourcing@1.1.1
+- pkg:composer/psa/event-sourcing@1.1.2
+- pkg:composer/psa/event-sourcing@1.1.3

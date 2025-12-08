@@ -1,0 +1,7 @@
+- pkg:composer/pluggable/plugin@0.9
+- pkg:composer/pluggable/plugin@0.92
+- pkg:composer/pluggable/plugin@0.93
+- pkg:composer/pluggable/plugin@0.95
+- pkg:composer/pluggable/plugin@0.96
+- pkg:composer/pluggable/plugin@0.98
+- pkg:composer/pluggable/plugin@0.98.1

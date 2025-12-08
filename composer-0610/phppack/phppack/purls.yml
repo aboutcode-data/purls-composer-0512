@@ -1,0 +1,7 @@
+- pkg:composer/phppack/phppack@v0.0.1
+- pkg:composer/phppack/phppack@v0.0.2
+- pkg:composer/phppack/phppack@v0.0.3
+- pkg:composer/phppack/phppack@v0.0.4
+- pkg:composer/phppack/phppack@v1.0.0
+- pkg:composer/phppack/phppack@v2.0.0
+- pkg:composer/phppack/phppack@v2.0.1

@@ -1,0 +1,14 @@
+- pkg:composer/php-http/adapter@2.1.0
+- pkg:composer/php-http/adapter@2.2.0
+- pkg:composer/php-http/adapter@2.3.0
+- pkg:composer/php-http/adapter@2.4.0
+- pkg:composer/php-http/adapter@2.4.1
+- pkg:composer/php-http/adapter@v0.1.0
+- pkg:composer/php-http/adapter@v1.0.0
+- pkg:composer/php-http/adapter@v1.0.0-RC1
+- pkg:composer/php-http/adapter@v1.0.0-alpha
+- pkg:composer/php-http/adapter@v1.0.0-alpha2
+- pkg:composer/php-http/adapter@v1.0.0-alpha3
+- pkg:composer/php-http/adapter@v1.0.0-beta
+- pkg:composer/php-http/adapter@v1.1.0
+- pkg:composer/php-http/adapter@v2.0.0

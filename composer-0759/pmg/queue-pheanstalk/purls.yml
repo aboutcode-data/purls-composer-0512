@@ -1,0 +1,14 @@
+- pkg:composer/pmg/queue-pheanstalk@1.0.0
+- pkg:composer/pmg/queue-pheanstalk@1.1.0
+- pkg:composer/pmg/queue-pheanstalk@2.0.0
+- pkg:composer/pmg/queue-pheanstalk@3.0.0-RC1
+- pkg:composer/pmg/queue-pheanstalk@v3.0.0
+- pkg:composer/pmg/queue-pheanstalk@v5.0.0
+- pkg:composer/pmg/queue-pheanstalk@v5.0.0-BETA1
+- pkg:composer/pmg/queue-pheanstalk@v5.0.0-BETA2
+- pkg:composer/pmg/queue-pheanstalk@v5.0.0-BETA3
+- pkg:composer/pmg/queue-pheanstalk@v5.1.0
+- pkg:composer/pmg/queue-pheanstalk@v5.1.0-BETA1
+- pkg:composer/pmg/queue-pheanstalk@v5.2.0
+- pkg:composer/pmg/queue-pheanstalk@v6.0.0
+- pkg:composer/pmg/queue-pheanstalk@v7.0.0

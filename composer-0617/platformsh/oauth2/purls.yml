@@ -1,0 +1,6 @@
+- pkg:composer/platformsh/oauth2@0.0.1
+- pkg:composer/platformsh/oauth2@0.0.2
+- pkg:composer/platformsh/oauth2@0.0.3
+- pkg:composer/platformsh/oauth2@1.0.0-beta
+- pkg:composer/platformsh/oauth2@1.0.0-beta2
+- pkg:composer/platformsh/oauth2@1.0.0-beta3

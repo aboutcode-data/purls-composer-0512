@@ -1,0 +1,7 @@
+- pkg:composer/phpro/mage2-module-scheduler@5.0.0
+- pkg:composer/phpro/mage2-module-scheduler@6.0.0
+- pkg:composer/phpro/mage2-module-scheduler@7.0.0
+- pkg:composer/phpro/mage2-module-scheduler@7.0.1
+- pkg:composer/phpro/mage2-module-scheduler@8.0.0
+- pkg:composer/phpro/mage2-module-scheduler@8.0.1
+- pkg:composer/phpro/mage2-module-scheduler@8.0.2
