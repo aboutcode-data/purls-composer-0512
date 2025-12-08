@@ -1,0 +1,11 @@
+- pkg:composer/serialization/serialization@1.0
+- pkg:composer/serialization/serialization@2.0
+- pkg:composer/serialization/serialization@2.1
+- pkg:composer/serialization/serialization@2.2
+- pkg:composer/serialization/serialization@3.0
+- pkg:composer/serialization/serialization@3.1
+- pkg:composer/serialization/serialization@3.2
+- pkg:composer/serialization/serialization@3.2.1
+- pkg:composer/serialization/serialization@3.2.2
+- pkg:composer/serialization/serialization@4.0.0
+- pkg:composer/serialization/serialization@4.1.0

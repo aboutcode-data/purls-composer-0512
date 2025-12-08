@@ -1,0 +1,12 @@
+- pkg:composer/shazam/php-statsd@1.0.0
+- pkg:composer/shazam/php-statsd@1.0.1
+- pkg:composer/shazam/php-statsd@1.0.3
+- pkg:composer/shazam/php-statsd@1.0.4
+- pkg:composer/shazam/php-statsd@1.0.5
+- pkg:composer/shazam/php-statsd@1.0.6
+- pkg:composer/shazam/php-statsd@1.0.7
+- pkg:composer/shazam/php-statsd@1.0.8
+- pkg:composer/shazam/php-statsd@1.0.9
+- pkg:composer/shazam/php-statsd@2.0.1
+- pkg:composer/shazam/php-statsd@2.0.2
+- pkg:composer/shazam/php-statsd@3.0.1

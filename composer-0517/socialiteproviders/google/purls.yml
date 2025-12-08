@@ -1,0 +1,15 @@
+- pkg:composer/socialiteproviders/google@4.0.0
+- pkg:composer/socialiteproviders/google@4.1.0
+- pkg:composer/socialiteproviders/google@v1.0.0
+- pkg:composer/socialiteproviders/google@v1.0.1
+- pkg:composer/socialiteproviders/google@v1.0.2
+- pkg:composer/socialiteproviders/google@v1.0.3
+- pkg:composer/socialiteproviders/google@v1.0.4
+- pkg:composer/socialiteproviders/google@v1.0.5
+- pkg:composer/socialiteproviders/google@v1.0.6
+- pkg:composer/socialiteproviders/google@v1.0.7
+- pkg:composer/socialiteproviders/google@v1.1.0
+- pkg:composer/socialiteproviders/google@v2.0.0
+- pkg:composer/socialiteproviders/google@v2.0.1
+- pkg:composer/socialiteproviders/google@v3.0.0
+- pkg:composer/socialiteproviders/google@v3.1.0

@@ -1,0 +1,9 @@
+- pkg:composer/serendipity_hq/component-symfony-messenger-utils@1.0.0
+- pkg:composer/serendipity_hq/component-symfony-messenger-utils@2.0.0
+- pkg:composer/serendipity_hq/component-symfony-messenger-utils@2.1.0
+- pkg:composer/serendipity_hq/component-symfony-messenger-utils@2.1.1
+- pkg:composer/serendipity_hq/component-symfony-messenger-utils@3.0.0
+- pkg:composer/serendipity_hq/component-symfony-messenger-utils@3.0.1
+- pkg:composer/serendipity_hq/component-symfony-messenger-utils@3.0.2
+- pkg:composer/serendipity_hq/component-symfony-messenger-utils@3.0.3
+- pkg:composer/serendipity_hq/component-symfony-messenger-utils@3.0.4

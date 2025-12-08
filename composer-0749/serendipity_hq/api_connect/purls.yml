@@ -1,0 +1,4 @@
+- pkg:composer/serendipity_hq/api_connect@0.1
+- pkg:composer/serendipity_hq/api_connect@0.2
+- pkg:composer/serendipity_hq/api_connect@0.3
+- pkg:composer/serendipity_hq/api_connect@0.4.0

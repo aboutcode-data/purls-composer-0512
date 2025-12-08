@@ -1,0 +1,3 @@
+- pkg:composer/shyevsa/yii2-redis-sentinel@v0.1.0
+- pkg:composer/shyevsa/yii2-redis-sentinel@v0.1.1
+- pkg:composer/shyevsa/yii2-redis-sentinel@v0.1.2

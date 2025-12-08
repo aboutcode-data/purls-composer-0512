@@ -1,0 +1,5 @@
+- pkg:composer/soapbox/laravel-formatter@1.1
+- pkg:composer/soapbox/laravel-formatter@1.4
+- pkg:composer/soapbox/laravel-formatter@2.0
+- pkg:composer/soapbox/laravel-formatter@3.0
+- pkg:composer/soapbox/laravel-formatter@3.1.1

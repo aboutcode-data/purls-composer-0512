@@ -1,0 +1,4 @@
+- pkg:composer/smichaelsen/php-cron-scheduler@v0.1
+- pkg:composer/smichaelsen/php-cron-scheduler@v1.0
+- pkg:composer/smichaelsen/php-cron-scheduler@v1.0.1
+- pkg:composer/smichaelsen/php-cron-scheduler@v1.1

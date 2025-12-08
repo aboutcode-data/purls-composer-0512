@@ -1,0 +1,12 @@
+- pkg:composer/smrtr/mysql-version-control@0.1
+- pkg:composer/smrtr/mysql-version-control@0.2
+- pkg:composer/smrtr/mysql-version-control@0.3
+- pkg:composer/smrtr/mysql-version-control@0.4
+- pkg:composer/smrtr/mysql-version-control@0.5
+- pkg:composer/smrtr/mysql-version-control@0.6
+- pkg:composer/smrtr/mysql-version-control@1.0.0
+- pkg:composer/smrtr/mysql-version-control@1.0.1
+- pkg:composer/smrtr/mysql-version-control@1.0.1-alpha
+- pkg:composer/smrtr/mysql-version-control@1.1.0
+- pkg:composer/smrtr/mysql-version-control@1.2.0
+- pkg:composer/smrtr/mysql-version-control@1.3.0

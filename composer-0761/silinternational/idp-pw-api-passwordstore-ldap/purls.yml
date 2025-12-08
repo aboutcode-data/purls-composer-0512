@@ -1,0 +1,6 @@
+- pkg:composer/silinternational/idp-pw-api-passwordstore-ldap@1.0
+- pkg:composer/silinternational/idp-pw-api-passwordstore-ldap@2.0
+- pkg:composer/silinternational/idp-pw-api-passwordstore-ldap@2.1
+- pkg:composer/silinternational/idp-pw-api-passwordstore-ldap@2.2.0
+- pkg:composer/silinternational/idp-pw-api-passwordstore-ldap@2.2.1
+- pkg:composer/silinternational/idp-pw-api-passwordstore-ldap@2.2.2

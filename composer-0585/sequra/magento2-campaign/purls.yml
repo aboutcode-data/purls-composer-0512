@@ -1,0 +1,16 @@
+- pkg:composer/sequra/magento2-campaign@2.3.0
+- pkg:composer/sequra/magento2-campaign@2.3.3.0
+- pkg:composer/sequra/magento2-campaign@2.3.3.1
+- pkg:composer/sequra/magento2-campaign@2.3.3.2
+- pkg:composer/sequra/magento2-campaign@2.3.3.3
+- pkg:composer/sequra/magento2-campaign@2.3.3.4
+- pkg:composer/sequra/magento2-campaign@2.3.3.5
+- pkg:composer/sequra/magento2-campaign@2.3.3.6
+- pkg:composer/sequra/magento2-campaign@2.4.0
+- pkg:composer/sequra/magento2-campaign@2.4.0.1
+- pkg:composer/sequra/magento2-campaign@2.4.0.4
+- pkg:composer/sequra/magento2-campaign@2.4.0.7
+- pkg:composer/sequra/magento2-campaign@2.4.1.0
+- pkg:composer/sequra/magento2-campaign@2.4.2.0
+- pkg:composer/sequra/magento2-campaign@2.4.2.1
+- pkg:composer/sequra/magento2-campaign@2.4.2.4

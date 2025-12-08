@@ -1,0 +1,2 @@
+- pkg:composer/smartcoder01/laravel-queue-rabbitmq@14.1
+- pkg:composer/smartcoder01/laravel-queue-rabbitmq@14.2

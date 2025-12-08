@@ -1,0 +1,11 @@
+- pkg:composer/soupmix/mongodb@0.1
+- pkg:composer/soupmix/mongodb@0.1.1
+- pkg:composer/soupmix/mongodb@0.1.2
+- pkg:composer/soupmix/mongodb@0.1.3
+- pkg:composer/soupmix/mongodb@0.5
+- pkg:composer/soupmix/mongodb@0.5.1
+- pkg:composer/soupmix/mongodb@0.6
+- pkg:composer/soupmix/mongodb@0.7
+- pkg:composer/soupmix/mongodb@0.7.1
+- pkg:composer/soupmix/mongodb@0.8
+- pkg:composer/soupmix/mongodb@0.8.1

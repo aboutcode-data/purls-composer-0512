@@ -1,0 +1,3 @@
+- pkg:composer/skopek/hooks@v0.1
+- pkg:composer/skopek/hooks@v0.2
+- pkg:composer/skopek/hooks@v0.2.1

@@ -1,0 +1,10 @@
+- pkg:composer/socialiteproviders/gitlab@4.0.0
+- pkg:composer/socialiteproviders/gitlab@4.1.0
+- pkg:composer/socialiteproviders/gitlab@v1.0.0
+- pkg:composer/socialiteproviders/gitlab@v2.0.0
+- pkg:composer/socialiteproviders/gitlab@v2.0.1
+- pkg:composer/socialiteproviders/gitlab@v3.0.0
+- pkg:composer/socialiteproviders/gitlab@v3.0.1
+- pkg:composer/socialiteproviders/gitlab@v3.0.2
+- pkg:composer/socialiteproviders/gitlab@v3.0.3
+- pkg:composer/socialiteproviders/gitlab@v3.1

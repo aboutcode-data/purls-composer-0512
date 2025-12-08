@@ -1,0 +1,3 @@
+- pkg:composer/services/http-factory-nyholm@0.1.0
+- pkg:composer/services/http-factory-nyholm@0.2.0
+- pkg:composer/services/http-factory-nyholm@0.2.1

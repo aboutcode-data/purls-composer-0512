@@ -1,0 +1,4 @@
+- pkg:composer/simplesamlphp/simplesamlphp-module-riak@v0.9.0
+- pkg:composer/simplesamlphp/simplesamlphp-module-riak@v0.9.1
+- pkg:composer/simplesamlphp/simplesamlphp-module-riak@v1.0.0
+- pkg:composer/simplesamlphp/simplesamlphp-module-riak@v1.0.1

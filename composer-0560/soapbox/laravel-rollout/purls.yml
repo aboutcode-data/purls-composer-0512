@@ -1,0 +1,13 @@
+- pkg:composer/soapbox/laravel-rollout@v0.1
+- pkg:composer/soapbox/laravel-rollout@v0.2
+- pkg:composer/soapbox/laravel-rollout@v0.2.1
+- pkg:composer/soapbox/laravel-rollout@v0.2.2
+- pkg:composer/soapbox/laravel-rollout@v0.3
+- pkg:composer/soapbox/laravel-rollout@v0.3.1
+- pkg:composer/soapbox/laravel-rollout@v0.3.3
+- pkg:composer/soapbox/laravel-rollout@v1.0.0
+- pkg:composer/soapbox/laravel-rollout@v1.0.1
+- pkg:composer/soapbox/laravel-rollout@v2.0.0
+- pkg:composer/soapbox/laravel-rollout@v2.0.1
+- pkg:composer/soapbox/laravel-rollout@v3.0.0
+- pkg:composer/soapbox/laravel-rollout@v4.0.0

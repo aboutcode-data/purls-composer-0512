@@ -1,0 +1,4 @@
+- pkg:composer/socialiteproviders/steem@4.0.0
+- pkg:composer/socialiteproviders/steem@4.1.0
+- pkg:composer/socialiteproviders/steem@v1.0.0
+- pkg:composer/socialiteproviders/steem@v1.0.1

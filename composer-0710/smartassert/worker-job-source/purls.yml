@@ -1,0 +1,9 @@
+- pkg:composer/smartassert/worker-job-source@0.1
+- pkg:composer/smartassert/worker-job-source@0.2
+- pkg:composer/smartassert/worker-job-source@1.0
+- pkg:composer/smartassert/worker-job-source@2.0
+- pkg:composer/smartassert/worker-job-source@3.0
+- pkg:composer/smartassert/worker-job-source@4.0
+- pkg:composer/smartassert/worker-job-source@5.0
+- pkg:composer/smartassert/worker-job-source@6.0
+- pkg:composer/smartassert/worker-job-source@7.0

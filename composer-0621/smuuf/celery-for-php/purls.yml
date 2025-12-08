@@ -1,0 +1,4 @@
+- pkg:composer/smuuf/celery-for-php@0.1
+- pkg:composer/smuuf/celery-for-php@0.2
+- pkg:composer/smuuf/celery-for-php@0.3
+- pkg:composer/smuuf/celery-for-php@0.4

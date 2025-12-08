@@ -1,0 +1,5 @@
+- pkg:composer/sipay/php-sdk@1.0.0
+- pkg:composer/sipay/php-sdk@1.0.1
+- pkg:composer/sipay/php-sdk@1.0.2
+- pkg:composer/sipay/php-sdk@1.0.3
+- pkg:composer/sipay/php-sdk@2.0.0

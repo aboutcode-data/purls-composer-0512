@@ -1,0 +1,6 @@
+- pkg:composer/soketi/echo-server-core@1.0.0
+- pkg:composer/soketi/echo-server-core@2.0.0
+- pkg:composer/soketi/echo-server-core@2.1.0
+- pkg:composer/soketi/echo-server-core@2.2.0
+- pkg:composer/soketi/echo-server-core@2.3.0
+- pkg:composer/soketi/echo-server-core@3.0.0

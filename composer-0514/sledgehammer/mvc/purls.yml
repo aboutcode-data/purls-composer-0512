@@ -1,0 +1,8 @@
+- pkg:composer/sledgehammer/mvc@12.10.1
+- pkg:composer/sledgehammer/mvc@12.10.2
+- pkg:composer/sledgehammer/mvc@13.02.0
+- pkg:composer/sledgehammer/mvc@13.06.0
+- pkg:composer/sledgehammer/mvc@13.09.0
+- pkg:composer/sledgehammer/mvc@16.05.0
+- pkg:composer/sledgehammer/mvc@18.04.0
+- pkg:composer/sledgehammer/mvc@18.08.0

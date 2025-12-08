@@ -1,0 +1,3 @@
+- pkg:composer/signdeer/laravel-html-minify@v1.0.0
+- pkg:composer/signdeer/laravel-html-minify@v1.0.1
+- pkg:composer/signdeer/laravel-html-minify@v1.0.2

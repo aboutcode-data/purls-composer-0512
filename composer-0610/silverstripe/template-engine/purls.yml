@@ -1,0 +1,4 @@
+- pkg:composer/silverstripe/template-engine@1.0.0
+- pkg:composer/silverstripe/template-engine@1.0.0-alpha1
+- pkg:composer/silverstripe/template-engine@1.0.0-beta1
+- pkg:composer/silverstripe/template-engine@1.0.0-rc1

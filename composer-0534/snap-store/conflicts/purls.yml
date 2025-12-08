@@ -1,0 +1,3 @@
+- pkg:composer/snap-store/conflicts@0.1.20
+- pkg:composer/snap-store/conflicts@0.1.4
+- pkg:composer/snap-store/conflicts@0.1.9

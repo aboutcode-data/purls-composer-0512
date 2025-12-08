@@ -1,0 +1,5 @@
+- pkg:composer/silverstripe/platform-project@1.0.0
+- pkg:composer/silverstripe/platform-project@2.0.0
+- pkg:composer/silverstripe/platform-project@3.0.0
+- pkg:composer/silverstripe/platform-project@3.0.1
+- pkg:composer/silverstripe/platform-project@4.0.0

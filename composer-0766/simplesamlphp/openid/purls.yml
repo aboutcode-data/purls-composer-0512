@@ -1,0 +1,4 @@
+- pkg:composer/simplesamlphp/openid@v0.0.19
+- pkg:composer/simplesamlphp/openid@v0.1.0
+- pkg:composer/simplesamlphp/openid@v0.1.1
+- pkg:composer/simplesamlphp/openid@v0.1.2
