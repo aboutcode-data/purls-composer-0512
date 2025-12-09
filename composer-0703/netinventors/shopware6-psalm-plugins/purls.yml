@@ -10,3 +10,4 @@
 - pkg:composer/netinventors/shopware6-psalm-plugins@6.1.0
 - pkg:composer/netinventors/shopware6-psalm-plugins@7.0.0
 - pkg:composer/netinventors/shopware6-psalm-plugins@7.0.1
+- pkg:composer/netinventors/shopware6-psalm-plugins@7.0.2

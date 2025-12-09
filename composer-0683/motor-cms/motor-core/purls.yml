@@ -146,6 +146,9 @@
 - pkg:composer/motor-cms/motor-core@2.9.0
 - pkg:composer/motor-cms/motor-core@2.9.1
 - pkg:composer/motor-cms/motor-core@2.9.2
+- pkg:composer/motor-cms/motor-core@2025.50.0-RC
+- pkg:composer/motor-cms/motor-core@2025.50.0-alpha
+- pkg:composer/motor-cms/motor-core@2025.50.1-RC
 - pkg:composer/motor-cms/motor-core@3.0
 - pkg:composer/motor-cms/motor-core@3.0.1
 - pkg:composer/motor-cms/motor-core@3.1.0
