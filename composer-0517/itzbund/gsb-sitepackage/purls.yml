@@ -512,6 +512,7 @@
 - pkg:composer/itzbund/gsb-sitepackage@v7.17.22
 - pkg:composer/itzbund/gsb-sitepackage@v7.17.23
 - pkg:composer/itzbund/gsb-sitepackage@v7.17.24
+- pkg:composer/itzbund/gsb-sitepackage@v7.17.25
 - pkg:composer/itzbund/gsb-sitepackage@v7.17.3
 - pkg:composer/itzbund/gsb-sitepackage@v7.17.4
 - pkg:composer/itzbund/gsb-sitepackage@v7.17.5
@@ -775,3 +776,4 @@
 - pkg:composer/itzbund/gsb-sitepackage@v8.2.1
 - pkg:composer/itzbund/gsb-sitepackage@v8.2.1-rc.1
 - pkg:composer/itzbund/gsb-sitepackage@v8.2.2-rc.1
+- pkg:composer/itzbund/gsb-sitepackage@v8.2.2-rc.2
