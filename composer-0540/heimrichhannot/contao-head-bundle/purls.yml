@@ -33,6 +33,7 @@
 - pkg:composer/heimrichhannot/contao-head-bundle@1.13.4
 - pkg:composer/heimrichhannot/contao-head-bundle@1.14.0
 - pkg:composer/heimrichhannot/contao-head-bundle@1.14.0-beta.0
+- pkg:composer/heimrichhannot/contao-head-bundle@1.14.1
 - pkg:composer/heimrichhannot/contao-head-bundle@1.2.0
 - pkg:composer/heimrichhannot/contao-head-bundle@1.2.1
 - pkg:composer/heimrichhannot/contao-head-bundle@1.2.2
