@@ -1,3 +1,4 @@
 - pkg:composer/reefki/laravel-device-detector@v1.0.0
 - pkg:composer/reefki/laravel-device-detector@v1.0.1
 - pkg:composer/reefki/laravel-device-detector@v1.0.2
+- pkg:composer/reefki/laravel-device-detector@v2.0.0
