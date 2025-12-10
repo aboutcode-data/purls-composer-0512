@@ -6,3 +6,4 @@
 - pkg:composer/outerweb/filament-translatable-fields@v2.0.1
 - pkg:composer/outerweb/filament-translatable-fields@v2.1.0
 - pkg:composer/outerweb/filament-translatable-fields@v3.0.0
+- pkg:composer/outerweb/filament-translatable-fields@v4.0.0
