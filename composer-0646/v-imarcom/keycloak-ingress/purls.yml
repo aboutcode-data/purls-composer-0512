@@ -1,0 +1,9 @@
+- pkg:composer/v-imarcom/keycloak-ingress@4.0.0
+- pkg:composer/v-imarcom/keycloak-ingress@4.1.0
+- pkg:composer/v-imarcom/keycloak-ingress@5.0.0
+- pkg:composer/v-imarcom/keycloak-ingress@5.1.0
+- pkg:composer/v-imarcom/keycloak-ingress@5.1.1
+- pkg:composer/v-imarcom/keycloak-ingress@5.1.2
+- pkg:composer/v-imarcom/keycloak-ingress@v3.0.0
+- pkg:composer/v-imarcom/keycloak-ingress@v3.0.1
+- pkg:composer/v-imarcom/keycloak-ingress@v3.0.2

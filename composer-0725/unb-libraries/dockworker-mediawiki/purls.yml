@@ -1,0 +1,4 @@
+- pkg:composer/unb-libraries/dockworker-mediawiki@3.0.0
+- pkg:composer/unb-libraries/dockworker-mediawiki@3.0.1
+- pkg:composer/unb-libraries/dockworker-mediawiki@4.0.0
+- pkg:composer/unb-libraries/dockworker-mediawiki@5.0.0

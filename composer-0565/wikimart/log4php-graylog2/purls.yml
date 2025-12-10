@@ -1,0 +1,4 @@
+- pkg:composer/wikimart/log4php-graylog2@1.0.0
+- pkg:composer/wikimart/log4php-graylog2@1.0.1
+- pkg:composer/wikimart/log4php-graylog2@1.0.2
+- pkg:composer/wikimart/log4php-graylog2@1.0.3

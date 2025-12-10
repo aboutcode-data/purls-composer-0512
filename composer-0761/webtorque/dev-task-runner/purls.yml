@@ -1,0 +1,4 @@
+- pkg:composer/webtorque/dev-task-runner@0.1
+- pkg:composer/webtorque/dev-task-runner@0.2
+- pkg:composer/webtorque/dev-task-runner@1.0.0
+- pkg:composer/webtorque/dev-task-runner@1.0.1

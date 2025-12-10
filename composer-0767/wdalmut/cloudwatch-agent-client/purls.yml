@@ -1,0 +1,5 @@
+- pkg:composer/wdalmut/cloudwatch-agent-client@0.0.1
+- pkg:composer/wdalmut/cloudwatch-agent-client@0.0.2
+- pkg:composer/wdalmut/cloudwatch-agent-client@0.0.3
+- pkg:composer/wdalmut/cloudwatch-agent-client@0.0.4
+- pkg:composer/wdalmut/cloudwatch-agent-client@0.0.5

@@ -1,0 +1,4 @@
+- pkg:composer/vantt/opentracing-php@1.0.0-beta5
+- pkg:composer/vantt/opentracing-php@1.1.0
+- pkg:composer/vantt/opentracing-php@1.1.1
+- pkg:composer/vantt/opentracing-php@1.1.2

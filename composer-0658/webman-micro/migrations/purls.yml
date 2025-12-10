@@ -1,0 +1,5 @@
+- pkg:composer/webman-micro/migrations@0.1
+- pkg:composer/webman-micro/migrations@0.2
+- pkg:composer/webman-micro/migrations@0.3
+- pkg:composer/webman-micro/migrations@1.0.0
+- pkg:composer/webman-micro/migrations@2.0.0

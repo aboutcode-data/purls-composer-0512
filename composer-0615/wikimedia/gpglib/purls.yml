@@ -1,0 +1,3 @@
+- pkg:composer/wikimedia/gpglib@0.1.0
+- pkg:composer/wikimedia/gpglib@0.2.0
+- pkg:composer/wikimedia/gpglib@0.2.1

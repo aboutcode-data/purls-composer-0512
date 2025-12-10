@@ -1,0 +1,7 @@
+- pkg:composer/wikimedia/request-timeout@1.0.0
+- pkg:composer/wikimedia/request-timeout@1.1.0
+- pkg:composer/wikimedia/request-timeout@1.2.0
+- pkg:composer/wikimedia/request-timeout@2.0.0
+- pkg:composer/wikimedia/request-timeout@v2.0.1
+- pkg:composer/wikimedia/request-timeout@v2.0.2
+- pkg:composer/wikimedia/request-timeout@v3.0.0

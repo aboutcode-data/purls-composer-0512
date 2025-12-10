@@ -1,0 +1,4 @@
+- pkg:composer/understeam/yii2-mailgun@v0.1
+- pkg:composer/understeam/yii2-mailgun@v0.2.0
+- pkg:composer/understeam/yii2-mailgun@v0.2.1
+- pkg:composer/understeam/yii2-mailgun@v0.2.2

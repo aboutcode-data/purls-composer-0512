@@ -1,0 +1,3 @@
+- pkg:composer/vmpublishing/psr15-middleware-request-logger@1.0.0
+- pkg:composer/vmpublishing/psr15-middleware-request-logger@1.0.1
+- pkg:composer/vmpublishing/psr15-middleware-request-logger@1.0.2

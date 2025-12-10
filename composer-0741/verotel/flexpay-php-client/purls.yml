@@ -1,0 +1,15 @@
+- pkg:composer/verotel/flexpay-php-client@3.2.0
+- pkg:composer/verotel/flexpay-php-client@3.3.0
+- pkg:composer/verotel/flexpay-php-client@3.4.0
+- pkg:composer/verotel/flexpay-php-client@4.0.0
+- pkg:composer/verotel/flexpay-php-client@4.0.1
+- pkg:composer/verotel/flexpay-php-client@4.0.2
+- pkg:composer/verotel/flexpay-php-client@4.1.0
+- pkg:composer/verotel/flexpay-php-client@4.2.0
+- pkg:composer/verotel/flexpay-php-client@4.3.0
+- pkg:composer/verotel/flexpay-php-client@4.4.0
+- pkg:composer/verotel/flexpay-php-client@4.5.0
+- pkg:composer/verotel/flexpay-php-client@5.0.0
+- pkg:composer/verotel/flexpay-php-client@5.0.1
+- pkg:composer/verotel/flexpay-php-client@5.1.0
+- pkg:composer/verotel/flexpay-php-client@5.1.1

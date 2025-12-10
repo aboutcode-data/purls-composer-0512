@@ -1,0 +1,4 @@
+- pkg:composer/varzer/curl-http@v0.1
+- pkg:composer/varzer/curl-http@v0.2
+- pkg:composer/varzer/curl-http@v0.2.1
+- pkg:composer/varzer/curl-http@v0.2.2

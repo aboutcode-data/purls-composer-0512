@@ -1,0 +1,15 @@
+- pkg:composer/v3project/aff-core-app@1.0.0
+- pkg:composer/v3project/aff-core-app@1.0.0.1
+- pkg:composer/v3project/aff-core-app@1.0.1
+- pkg:composer/v3project/aff-core-app@2.0.0
+- pkg:composer/v3project/aff-core-app@2.0.0-alpha
+- pkg:composer/v3project/aff-core-app@2.0.0-beta
+- pkg:composer/v3project/aff-core-app@2.0.0-rc
+- pkg:composer/v3project/aff-core-app@2.0.1
+- pkg:composer/v3project/aff-core-app@2.0.2
+- pkg:composer/v3project/aff-core-app@2.0.3
+- pkg:composer/v3project/aff-core-app@2.0.4
+- pkg:composer/v3project/aff-core-app@2.0.5
+- pkg:composer/v3project/aff-core-app@3.0.0
+- pkg:composer/v3project/aff-core-app@3.0.2
+- pkg:composer/v3project/aff-core-app@3.0.3

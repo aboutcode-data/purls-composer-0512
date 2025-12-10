@@ -1,0 +1,5 @@
+- pkg:composer/wehaa/laravel-scout-elasticsearch@v0.1-alpha
+- pkg:composer/wehaa/laravel-scout-elasticsearch@v0.2-alpha
+- pkg:composer/wehaa/laravel-scout-elasticsearch@v0.3-alpha
+- pkg:composer/wehaa/laravel-scout-elasticsearch@v0.4-alpha
+- pkg:composer/wehaa/laravel-scout-elasticsearch@v0.5-alpha

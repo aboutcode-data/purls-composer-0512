@@ -1,0 +1,4 @@
+- pkg:composer/up9cloud/engine.io-php-client@1.0.0
+- pkg:composer/up9cloud/engine.io-php-client@2.0.0
+- pkg:composer/up9cloud/engine.io-php-client@2.0.1
+- pkg:composer/up9cloud/engine.io-php-client@2.0.2

@@ -1,0 +1,6 @@
+- pkg:composer/webthink/guzzle-jwt@v0.1.0
+- pkg:composer/webthink/guzzle-jwt@v0.2.0
+- pkg:composer/webthink/guzzle-jwt@v0.3.0
+- pkg:composer/webthink/guzzle-jwt@v0.4.0
+- pkg:composer/webthink/guzzle-jwt@v1.0.0
+- pkg:composer/webthink/guzzle-jwt@v1.1.0

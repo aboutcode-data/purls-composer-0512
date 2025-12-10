@@ -1,0 +1,4 @@
+- pkg:composer/vntrungld/prometheus-exporter-horizon-collector@v0.0.1
+- pkg:composer/vntrungld/prometheus-exporter-horizon-collector@v0.0.2
+- pkg:composer/vntrungld/prometheus-exporter-horizon-collector@v1.0.0
+- pkg:composer/vntrungld/prometheus-exporter-horizon-collector@v1.0.1

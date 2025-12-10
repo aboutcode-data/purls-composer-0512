@@ -1,0 +1,4 @@
+- pkg:composer/univicosa/laravel-payment-client@2.2.1
+- pkg:composer/univicosa/laravel-payment-client@v1.0.0
+- pkg:composer/univicosa/laravel-payment-client@v2.1.0
+- pkg:composer/univicosa/laravel-payment-client@v2.2.0

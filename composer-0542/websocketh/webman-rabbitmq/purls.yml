@@ -1,0 +1,4 @@
+- pkg:composer/websocketh/webman-rabbitmq@1.0.2
+- pkg:composer/websocketh/webman-rabbitmq@v1.0.0
+- pkg:composer/websocketh/webman-rabbitmq@v2.0.2
+- pkg:composer/websocketh/webman-rabbitmq@v2.0.3

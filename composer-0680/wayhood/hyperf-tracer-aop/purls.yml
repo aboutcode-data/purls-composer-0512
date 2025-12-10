@@ -1,0 +1,4 @@
+- pkg:composer/wayhood/hyperf-tracer-aop@2.2.0
+- pkg:composer/wayhood/hyperf-tracer-aop@v3.0.0
+- pkg:composer/wayhood/hyperf-tracer-aop@v3.0.1
+- pkg:composer/wayhood/hyperf-tracer-aop@v3.1.0

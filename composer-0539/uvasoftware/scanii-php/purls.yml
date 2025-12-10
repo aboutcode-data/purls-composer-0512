@@ -1,0 +1,15 @@
+- pkg:composer/uvasoftware/scanii-php@v2.1
+- pkg:composer/uvasoftware/scanii-php@v2.2.2
+- pkg:composer/uvasoftware/scanii-php@v3.0.0
+- pkg:composer/uvasoftware/scanii-php@v3.1.0
+- pkg:composer/uvasoftware/scanii-php@v3.2.0
+- pkg:composer/uvasoftware/scanii-php@v3.2.1
+- pkg:composer/uvasoftware/scanii-php@v3.2.2
+- pkg:composer/uvasoftware/scanii-php@v4.0.1
+- pkg:composer/uvasoftware/scanii-php@v4.0.2
+- pkg:composer/uvasoftware/scanii-php@v5.0.1
+- pkg:composer/uvasoftware/scanii-php@v5.0.2
+- pkg:composer/uvasoftware/scanii-php@v5.1.0
+- pkg:composer/uvasoftware/scanii-php@v5.1.1
+- pkg:composer/uvasoftware/scanii-php@v5.1.2
+- pkg:composer/uvasoftware/scanii-php@v5.1.4

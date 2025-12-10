@@ -1,0 +1,4 @@
+- pkg:composer/webignition/resque-job-factory@0.1
+- pkg:composer/webignition/resque-job-factory@0.1.1
+- pkg:composer/webignition/resque-job-factory@1.0
+- pkg:composer/webignition/resque-job-factory@1.0.1

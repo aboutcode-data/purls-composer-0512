@@ -1,0 +1,4 @@
+- pkg:composer/wikibase-solutions/mediawiki-template-parser@v1.0.0
+- pkg:composer/wikibase-solutions/mediawiki-template-parser@v2.0.0
+- pkg:composer/wikibase-solutions/mediawiki-template-parser@v2.1.0
+- pkg:composer/wikibase-solutions/mediawiki-template-parser@v2.2.0

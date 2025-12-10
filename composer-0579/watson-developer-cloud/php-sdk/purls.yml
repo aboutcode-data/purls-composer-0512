@@ -1,0 +1,6 @@
+- pkg:composer/watson-developer-cloud/php-sdk@1.0.0
+- pkg:composer/watson-developer-cloud/php-sdk@1.1
+- pkg:composer/watson-developer-cloud/php-sdk@1.2
+- pkg:composer/watson-developer-cloud/php-sdk@2.0
+- pkg:composer/watson-developer-cloud/php-sdk@4.1
+- pkg:composer/watson-developer-cloud/php-sdk@5.0

@@ -1,0 +1,3 @@
+- pkg:composer/unb-libraries/dockworker-mysql@3.0.0
+- pkg:composer/unb-libraries/dockworker-mysql@4.0.0
+- pkg:composer/unb-libraries/dockworker-mysql@5.0.0

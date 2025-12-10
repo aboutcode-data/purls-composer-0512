@@ -1,0 +1,4 @@
+- pkg:composer/uselocale/locale-laravel@1.0.0
+- pkg:composer/uselocale/locale-laravel@1.0.1
+- pkg:composer/uselocale/locale-laravel@2.0.0
+- pkg:composer/uselocale/locale-laravel@2.0.1

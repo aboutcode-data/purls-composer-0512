@@ -1,0 +1,6 @@
+- pkg:composer/vatsim/xml@1.0
+- pkg:composer/vatsim/xml@2.0
+- pkg:composer/vatsim/xml@2.1
+- pkg:composer/vatsim/xml@2.3
+- pkg:composer/vatsim/xml@2.3.1
+- pkg:composer/vatsim/xml@v2.2

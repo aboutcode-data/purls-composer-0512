@@ -1,0 +1,5 @@
+- pkg:composer/usefulteam/jwt-auth@2.1.5
+- pkg:composer/usefulteam/jwt-auth@2.1.6
+- pkg:composer/usefulteam/jwt-auth@3.0.2
+- pkg:composer/usefulteam/jwt-auth@v2.0.0
+- pkg:composer/usefulteam/jwt-auth@v2.1.0

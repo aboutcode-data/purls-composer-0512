@@ -1,0 +1,15 @@
+- pkg:composer/webkleur/builder@3.6
+- pkg:composer/webkleur/builder@3.7
+- pkg:composer/webkleur/builder@3.8
+- pkg:composer/webkleur/builder@3.9
+- pkg:composer/webkleur/builder@4.0.0
+- pkg:composer/webkleur/builder@4.0.1
+- pkg:composer/webkleur/builder@4.0.2
+- pkg:composer/webkleur/builder@4.0.3
+- pkg:composer/webkleur/builder@4.0.5
+- pkg:composer/webkleur/builder@5.0.0
+- pkg:composer/webkleur/builder@5.1.1
+- pkg:composer/webkleur/builder@5.1.2
+- pkg:composer/webkleur/builder@5.1.3
+- pkg:composer/webkleur/builder@5.2.0
+- pkg:composer/webkleur/builder@v5.1.0
