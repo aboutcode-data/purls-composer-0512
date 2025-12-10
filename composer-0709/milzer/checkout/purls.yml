@@ -20,7 +20,9 @@
 - pkg:composer/milzer/checkout@v1.0.26
 - pkg:composer/milzer/checkout@v1.0.27
 - pkg:composer/milzer/checkout@v1.0.28
+- pkg:composer/milzer/checkout@v1.0.29
 - pkg:composer/milzer/checkout@v1.0.3
+- pkg:composer/milzer/checkout@v1.0.30
 - pkg:composer/milzer/checkout@v1.0.4
 - pkg:composer/milzer/checkout@v1.0.5
 - pkg:composer/milzer/checkout@v1.0.6
