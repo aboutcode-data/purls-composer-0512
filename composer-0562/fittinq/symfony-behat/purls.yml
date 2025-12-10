@@ -13,6 +13,7 @@
 - pkg:composer/fittinq/symfony-behat@10.0.1
 - pkg:composer/fittinq/symfony-behat@10.1.0
 - pkg:composer/fittinq/symfony-behat@11.0.0
+- pkg:composer/fittinq/symfony-behat@12.0.0
 - pkg:composer/fittinq/symfony-behat@2.0.0
 - pkg:composer/fittinq/symfony-behat@2.0.1
 - pkg:composer/fittinq/symfony-behat@2.0.2
