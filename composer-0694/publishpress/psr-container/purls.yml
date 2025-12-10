@@ -8,3 +8,5 @@
 - pkg:composer/publishpress/psr-container@2.0.1.7
 - pkg:composer/publishpress/psr-container@2.0.1.8
 - pkg:composer/publishpress/psr-container@2.0.1.9
+- pkg:composer/publishpress/psr-container@2.0.2.0
+- pkg:composer/publishpress/psr-container@2.0.2.1

@@ -68,6 +68,7 @@
 - pkg:composer/protoframework/proto@1.0.16
 - pkg:composer/protoframework/proto@1.0.160
 - pkg:composer/protoframework/proto@1.0.161
+- pkg:composer/protoframework/proto@1.0.162
 - pkg:composer/protoframework/proto@1.0.17
 - pkg:composer/protoframework/proto@1.0.18
 - pkg:composer/protoframework/proto@1.0.19

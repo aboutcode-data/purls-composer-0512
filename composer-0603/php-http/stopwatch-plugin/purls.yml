@@ -5,4 +5,5 @@
 - pkg:composer/php-http/stopwatch-plugin@1.4.0
 - pkg:composer/php-http/stopwatch-plugin@1.4.1
 - pkg:composer/php-http/stopwatch-plugin@1.4.2
+- pkg:composer/php-http/stopwatch-plugin@1.5.0
 - pkg:composer/php-http/stopwatch-plugin@v1.0.0

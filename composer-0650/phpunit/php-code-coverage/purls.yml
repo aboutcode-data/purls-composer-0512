@@ -69,6 +69,7 @@
 - pkg:composer/phpunit/php-code-coverage@12.3.8
 - pkg:composer/phpunit/php-code-coverage@12.4.0
 - pkg:composer/phpunit/php-code-coverage@12.5.0
+- pkg:composer/phpunit/php-code-coverage@12.5.1
 - pkg:composer/phpunit/php-code-coverage@2.0.0
 - pkg:composer/phpunit/php-code-coverage@2.0.1
 - pkg:composer/phpunit/php-code-coverage@2.0.10
