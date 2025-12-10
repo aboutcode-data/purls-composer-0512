@@ -13,7 +13,9 @@
 - pkg:composer/sirs/dataimporter@1.1.0
 - pkg:composer/sirs/dataimporter@10.0.0
 - pkg:composer/sirs/dataimporter@11.0.0
+- pkg:composer/sirs/dataimporter@11.0.1
 - pkg:composer/sirs/dataimporter@12.0.0
+- pkg:composer/sirs/dataimporter@12.0.1
 - pkg:composer/sirs/dataimporter@2.0.1
 - pkg:composer/sirs/dataimporter@2.0.2
 - pkg:composer/sirs/dataimporter@2.0.3
