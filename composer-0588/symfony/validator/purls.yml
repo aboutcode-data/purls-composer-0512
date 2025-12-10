@@ -739,3 +739,4 @@
 - pkg:composer/symfony/validator@v8.0.0-RC1
 - pkg:composer/symfony/validator@v8.0.0-RC3
 - pkg:composer/symfony/validator@v8.0.1
+- pkg:composer/symfony/validator@v8.0.2

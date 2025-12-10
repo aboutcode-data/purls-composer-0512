@@ -52,3 +52,5 @@
 - pkg:composer/superadminx/admin@v3.0.8
 - pkg:composer/superadminx/admin@v3.0.9
 - pkg:composer/superadminx/admin@v3.1.0
+- pkg:composer/superadminx/admin@v3.1.1
+- pkg:composer/superadminx/admin@v3.1.2

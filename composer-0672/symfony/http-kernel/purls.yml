@@ -797,3 +797,4 @@
 - pkg:composer/symfony/http-kernel@v8.0.0-RC2
 - pkg:composer/symfony/http-kernel@v8.0.0-RC3
 - pkg:composer/symfony/http-kernel@v8.0.1
+- pkg:composer/symfony/http-kernel@v8.0.2

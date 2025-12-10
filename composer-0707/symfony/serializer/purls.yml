@@ -719,3 +719,4 @@
 - pkg:composer/symfony/serializer@v8.0.0-BETA2
 - pkg:composer/symfony/serializer@v8.0.0-RC1
 - pkg:composer/symfony/serializer@v8.0.0-RC3
+- pkg:composer/symfony/serializer@v8.0.2

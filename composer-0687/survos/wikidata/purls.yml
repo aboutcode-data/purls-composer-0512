@@ -1,3 +1,4 @@
 - pkg:composer/survos/wikidata@4.0.0
 - pkg:composer/survos/wikidata@5.0.0
 - pkg:composer/survos/wikidata@5.1
+- pkg:composer/survos/wikidata@5.1.1
