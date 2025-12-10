@@ -68,6 +68,7 @@
 - pkg:composer/parsely/wp-parsely@3.20.8
 - pkg:composer/parsely/wp-parsely@3.21.0
 - pkg:composer/parsely/wp-parsely@3.21.1
+- pkg:composer/parsely/wp-parsely@3.21.2
 - pkg:composer/parsely/wp-parsely@3.3.0
 - pkg:composer/parsely/wp-parsely@3.3.1
 - pkg:composer/parsely/wp-parsely@3.3.2

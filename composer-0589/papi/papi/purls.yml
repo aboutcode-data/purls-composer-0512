@@ -1,4 +1,2 @@
-- pkg:composer/papi/papi@1.0.0
-- pkg:composer/papi/papi@1.0.1
-- pkg:composer/papi/papi@1.0.2
-- pkg:composer/papi/papi@1.0.3
+- pkg:composer/papi/papi@v1.1.0
+- pkg:composer/papi/papi@v1.1.1

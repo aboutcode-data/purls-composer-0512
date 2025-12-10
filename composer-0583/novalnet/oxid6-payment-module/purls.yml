@@ -9,4 +9,5 @@
 - pkg:composer/novalnet/oxid6-payment-module@13.0.0
 - pkg:composer/novalnet/oxid6-payment-module@13.1.0
 - pkg:composer/novalnet/oxid6-payment-module@13.2.0
+- pkg:composer/novalnet/oxid6-payment-module@13.3.0
 - pkg:composer/novalnet/oxid6-payment-module@v11.5.0

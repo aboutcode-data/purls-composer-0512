@@ -2,3 +2,4 @@
 - pkg:composer/patricksamson/phpunit-flaky-fix@1.1.0
 - pkg:composer/patricksamson/phpunit-flaky-fix@1.2.0
 - pkg:composer/patricksamson/phpunit-flaky-fix@1.2.1
+- pkg:composer/patricksamson/phpunit-flaky-fix@1.3.0

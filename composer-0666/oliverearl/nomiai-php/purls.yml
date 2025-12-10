@@ -1,4 +1,5 @@
 - pkg:composer/oliverearl/nomiai-php@1.0.2
+- pkg:composer/oliverearl/nomiai-php@1.0.3
 - pkg:composer/oliverearl/nomiai-php@v0.1.0-alpha
 - pkg:composer/oliverearl/nomiai-php@v0.1.1-alpha
 - pkg:composer/oliverearl/nomiai-php@v0.1.2-alpha
