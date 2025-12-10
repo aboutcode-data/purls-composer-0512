@@ -41,6 +41,7 @@
 - pkg:composer/dbp/relay-base-person-connector-ldap-bundle@v0.5.13
 - pkg:composer/dbp/relay-base-person-connector-ldap-bundle@v0.5.14
 - pkg:composer/dbp/relay-base-person-connector-ldap-bundle@v0.5.15
+- pkg:composer/dbp/relay-base-person-connector-ldap-bundle@v0.5.16
 - pkg:composer/dbp/relay-base-person-connector-ldap-bundle@v0.5.2
 - pkg:composer/dbp/relay-base-person-connector-ldap-bundle@v0.5.3
 - pkg:composer/dbp/relay-base-person-connector-ldap-bundle@v0.5.4
