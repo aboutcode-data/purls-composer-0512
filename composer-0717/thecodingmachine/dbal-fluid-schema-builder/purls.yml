@@ -1,0 +1,13 @@
+- pkg:composer/thecodingmachine/dbal-fluid-schema-builder@v0.1.0
+- pkg:composer/thecodingmachine/dbal-fluid-schema-builder@v1.0.0
+- pkg:composer/thecodingmachine/dbal-fluid-schema-builder@v1.1.0
+- pkg:composer/thecodingmachine/dbal-fluid-schema-builder@v1.2.0
+- pkg:composer/thecodingmachine/dbal-fluid-schema-builder@v1.2.1
+- pkg:composer/thecodingmachine/dbal-fluid-schema-builder@v1.3.0
+- pkg:composer/thecodingmachine/dbal-fluid-schema-builder@v1.4.0
+- pkg:composer/thecodingmachine/dbal-fluid-schema-builder@v1.5.0
+- pkg:composer/thecodingmachine/dbal-fluid-schema-builder@v1.6.0
+- pkg:composer/thecodingmachine/dbal-fluid-schema-builder@v1.6.1
+- pkg:composer/thecodingmachine/dbal-fluid-schema-builder@v1.7.0
+- pkg:composer/thecodingmachine/dbal-fluid-schema-builder@v2.0.0
+- pkg:composer/thecodingmachine/dbal-fluid-schema-builder@v2.0.1

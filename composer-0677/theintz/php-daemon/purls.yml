@@ -1,0 +1,3 @@
+- pkg:composer/theintz/php-daemon@3.0.0
+- pkg:composer/theintz/php-daemon@3.0.1
+- pkg:composer/theintz/php-daemon@v2.0

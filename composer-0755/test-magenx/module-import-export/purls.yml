@@ -1,0 +1,5 @@
+- pkg:composer/test-magenx/module-import-export@100.3.2
+- pkg:composer/test-magenx/module-import-export@100.3.4
+- pkg:composer/test-magenx/module-import-export@101.0.1
+- pkg:composer/test-magenx/module-import-export@101.0.2
+- pkg:composer/test-magenx/module-import-export@101.0.3

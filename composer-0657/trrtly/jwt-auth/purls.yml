@@ -1,0 +1,5 @@
+- pkg:composer/trrtly/jwt-auth@v3.0.0
+- pkg:composer/trrtly/jwt-auth@v5.0.0
+- pkg:composer/trrtly/jwt-auth@v5.0.1
+- pkg:composer/trrtly/jwt-auth@v6.0.0
+- pkg:composer/trrtly/jwt-auth@v6.1.0

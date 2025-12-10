@@ -1,0 +1,4 @@
+- pkg:composer/tfont/behat-laravel-extension@1.0
+- pkg:composer/tfont/behat-laravel-extension@1.1.1
+- pkg:composer/tfont/behat-laravel-extension@1.2
+- pkg:composer/tfont/behat-laravel-extension@1.3

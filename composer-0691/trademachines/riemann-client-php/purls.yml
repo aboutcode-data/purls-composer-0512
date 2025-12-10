@@ -1,0 +1,9 @@
+- pkg:composer/trademachines/riemann-client-php@0.3.0
+- pkg:composer/trademachines/riemann-client-php@1.0.0
+- pkg:composer/trademachines/riemann-client-php@1.0.1
+- pkg:composer/trademachines/riemann-client-php@1.1.0
+- pkg:composer/trademachines/riemann-client-php@1.1.1
+- pkg:composer/trademachines/riemann-client-php@1.2.0
+- pkg:composer/trademachines/riemann-client-php@v0.1.0
+- pkg:composer/trademachines/riemann-client-php@v0.2.0
+- pkg:composer/trademachines/riemann-client-php@v0.2.1

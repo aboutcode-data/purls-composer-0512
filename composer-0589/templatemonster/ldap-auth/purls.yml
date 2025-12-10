@@ -1,0 +1,4 @@
+- pkg:composer/templatemonster/ldap-auth@0.1
+- pkg:composer/templatemonster/ldap-auth@0.2
+- pkg:composer/templatemonster/ldap-auth@0.3.0
+- pkg:composer/templatemonster/ldap-auth@0.4.0

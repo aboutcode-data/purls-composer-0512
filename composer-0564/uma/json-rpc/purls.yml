@@ -1,0 +1,14 @@
+- pkg:composer/uma/json-rpc@v0.9.0
+- pkg:composer/uma/json-rpc@v1.0.0
+- pkg:composer/uma/json-rpc@v2.0.0
+- pkg:composer/uma/json-rpc@v2.1.0
+- pkg:composer/uma/json-rpc@v2.1.1
+- pkg:composer/uma/json-rpc@v2.1.2
+- pkg:composer/uma/json-rpc@v2.1.3
+- pkg:composer/uma/json-rpc@v3.0.0
+- pkg:composer/uma/json-rpc@v4.0.0
+- pkg:composer/uma/json-rpc@v4.0.1
+- pkg:composer/uma/json-rpc@v4.0.2
+- pkg:composer/uma/json-rpc@v4.1.0
+- pkg:composer/uma/json-rpc@v4.2.0
+- pkg:composer/uma/json-rpc@v5.0.0

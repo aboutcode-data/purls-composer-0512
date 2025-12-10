@@ -1,0 +1,16 @@
+- pkg:composer/tigitz/phpcs@1.0.0
+- pkg:composer/tigitz/phpcs@1.0.1
+- pkg:composer/tigitz/phpcs@2.0.0
+- pkg:composer/tigitz/phpcs@2.0.1
+- pkg:composer/tigitz/phpcs@2.0.2
+- pkg:composer/tigitz/phpcs@2.0.3
+- pkg:composer/tigitz/phpcs@2.1.0
+- pkg:composer/tigitz/phpcs@3.0.0
+- pkg:composer/tigitz/phpcs@3.1.0
+- pkg:composer/tigitz/phpcs@4.0.0
+- pkg:composer/tigitz/phpcs@5.0.0
+- pkg:composer/tigitz/phpcs@6.0.0
+- pkg:composer/tigitz/phpcs@6.1.0
+- pkg:composer/tigitz/phpcs@6.1.1
+- pkg:composer/tigitz/phpcs@7.0.0
+- pkg:composer/tigitz/phpcs@8.0.0

@@ -1,0 +1,15 @@
+- pkg:composer/um-flint/laravel-repository@v0.0.1
+- pkg:composer/um-flint/laravel-repository@v0.0.2
+- pkg:composer/um-flint/laravel-repository@v0.0.3
+- pkg:composer/um-flint/laravel-repository@v0.0.4
+- pkg:composer/um-flint/laravel-repository@v0.0.5
+- pkg:composer/um-flint/laravel-repository@v0.0.6
+- pkg:composer/um-flint/laravel-repository@v1.0.0
+- pkg:composer/um-flint/laravel-repository@v1.0.1
+- pkg:composer/um-flint/laravel-repository@v1.1.0
+- pkg:composer/um-flint/laravel-repository@v1.1.1
+- pkg:composer/um-flint/laravel-repository@v2.0.0
+- pkg:composer/um-flint/laravel-repository@v3.0.0
+- pkg:composer/um-flint/laravel-repository@v3.1.0
+- pkg:composer/um-flint/laravel-repository@v3.1.1
+- pkg:composer/um-flint/laravel-repository@v4.0.0

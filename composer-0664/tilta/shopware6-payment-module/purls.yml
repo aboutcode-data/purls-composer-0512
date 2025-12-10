@@ -1,0 +1,4 @@
+- pkg:composer/tilta/shopware6-payment-module@1.0.0
+- pkg:composer/tilta/shopware6-payment-module@2.0.0
+- pkg:composer/tilta/shopware6-payment-module@3.0.0
+- pkg:composer/tilta/shopware6-payment-module@3.0.1

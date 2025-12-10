@@ -1,0 +1,5 @@
+- pkg:composer/therezor/laravel-database-schedule@1.0
+- pkg:composer/therezor/laravel-database-schedule@1.1
+- pkg:composer/therezor/laravel-database-schedule@1.2
+- pkg:composer/therezor/laravel-database-schedule@2.0
+- pkg:composer/therezor/laravel-database-schedule@2.1

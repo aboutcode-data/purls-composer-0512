@@ -1,0 +1,3 @@
+- pkg:composer/testmonitor/teams-client@v1.0.0
+- pkg:composer/testmonitor/teams-client@v2.0.0
+- pkg:composer/testmonitor/teams-client@v3.0.0

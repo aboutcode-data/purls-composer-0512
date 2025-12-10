@@ -1,0 +1,12 @@
+- pkg:composer/tightenco/nova-package-discovery@v0.1
+- pkg:composer/tightenco/nova-package-discovery@v0.2
+- pkg:composer/tightenco/nova-package-discovery@v0.3
+- pkg:composer/tightenco/nova-package-discovery@v0.4.0
+- pkg:composer/tightenco/nova-package-discovery@v0.4.1
+- pkg:composer/tightenco/nova-package-discovery@v0.4.2
+- pkg:composer/tightenco/nova-package-discovery@v0.4.3
+- pkg:composer/tightenco/nova-package-discovery@v0.4.4
+- pkg:composer/tightenco/nova-package-discovery@v0.4.5
+- pkg:composer/tightenco/nova-package-discovery@v0.4.6
+- pkg:composer/tightenco/nova-package-discovery@v0.4.7
+- pkg:composer/tightenco/nova-package-discovery@v1.0.0

@@ -1,0 +1,10 @@
+- pkg:composer/umang/laravel-logging-logstash@1.0.0
+- pkg:composer/umang/laravel-logging-logstash@1.0.1
+- pkg:composer/umang/laravel-logging-logstash@1.1.0
+- pkg:composer/umang/laravel-logging-logstash@1.2.0
+- pkg:composer/umang/laravel-logging-logstash@1.3.0
+- pkg:composer/umang/laravel-logging-logstash@2.0.0
+- pkg:composer/umang/laravel-logging-logstash@2.0.1
+- pkg:composer/umang/laravel-logging-logstash@2.0.2
+- pkg:composer/umang/laravel-logging-logstash@2.0.3
+- pkg:composer/umang/laravel-logging-logstash@v2.0.4

@@ -1,0 +1,5 @@
+- pkg:composer/tourstream/typo3-redis-lock-strategy@1.0.0
+- pkg:composer/tourstream/typo3-redis-lock-strategy@2.0.0
+- pkg:composer/tourstream/typo3-redis-lock-strategy@2.0.1
+- pkg:composer/tourstream/typo3-redis-lock-strategy@3.0.0
+- pkg:composer/tourstream/typo3-redis-lock-strategy@3.0.1

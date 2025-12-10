@@ -1,0 +1,11 @@
+- pkg:composer/twofas/encryption@v1.0
+- pkg:composer/twofas/encryption@v1.1
+- pkg:composer/twofas/encryption@v1.1-alpha
+- pkg:composer/twofas/encryption@v1.2
+- pkg:composer/twofas/encryption@v2.0
+- pkg:composer/twofas/encryption@v2.1
+- pkg:composer/twofas/encryption@v2.1.1
+- pkg:composer/twofas/encryption@v2.1.2
+- pkg:composer/twofas/encryption@v3.0
+- pkg:composer/twofas/encryption@v3.0.1
+- pkg:composer/twofas/encryption@v4.0.0

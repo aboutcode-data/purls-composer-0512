@@ -1,0 +1,4 @@
+- pkg:composer/test-magenx/module-msrp-configurable-product@100.3.1
+- pkg:composer/test-magenx/module-msrp-configurable-product@100.3.3
+- pkg:composer/test-magenx/module-msrp-configurable-product@100.4.0
+- pkg:composer/test-magenx/module-msrp-configurable-product@100.4.1

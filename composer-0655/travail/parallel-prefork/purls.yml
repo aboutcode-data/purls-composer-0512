@@ -1,0 +1,4 @@
+- pkg:composer/travail/parallel-prefork@v0.1.0
+- pkg:composer/travail/parallel-prefork@v0.2.0
+- pkg:composer/travail/parallel-prefork@v0.2.0-BETA
+- pkg:composer/travail/parallel-prefork@v0.2.1
