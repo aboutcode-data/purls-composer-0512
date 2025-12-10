@@ -799,6 +799,7 @@
 - pkg:composer/matomo/matomo@5.6.0-b1.20251126013337
 - pkg:composer/matomo/matomo@5.6.0-rc1
 - pkg:composer/matomo/matomo@5.6.1
+- pkg:composer/matomo/matomo@5.6.2
 - pkg:composer/matomo/matomo@5.7.0-alpha.20251205013403
 - pkg:composer/matomo/matomo@5.7.0-alpha.20251206013320
 - pkg:composer/matomo/matomo@5.7.0-alpha.20251209021831
