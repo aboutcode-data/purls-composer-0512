@@ -116,3 +116,4 @@
 - pkg:composer/netgen/tagsbundle@5.2.4
 - pkg:composer/netgen/tagsbundle@5.3.0
 - pkg:composer/netgen/tagsbundle@5.3.1
+- pkg:composer/netgen/tagsbundle@6.0.0
