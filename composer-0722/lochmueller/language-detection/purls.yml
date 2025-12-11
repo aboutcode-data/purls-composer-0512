@@ -32,3 +32,4 @@
 - pkg:composer/lochmueller/language-detection@4.0.3
 - pkg:composer/lochmueller/language-detection@5.0.0
 - pkg:composer/lochmueller/language-detection@5.0.1
+- pkg:composer/lochmueller/language-detection@5.1.0
