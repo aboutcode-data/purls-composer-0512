@@ -202,6 +202,7 @@
 - pkg:composer/eonx-com/easy-swoole@6.15.0
 - pkg:composer/eonx-com/easy-swoole@6.15.1
 - pkg:composer/eonx-com/easy-swoole@6.15.2
+- pkg:composer/eonx-com/easy-swoole@6.16.0
 - pkg:composer/eonx-com/easy-swoole@6.2.0
 - pkg:composer/eonx-com/easy-swoole@6.3.0
 - pkg:composer/eonx-com/easy-swoole@6.3.1
