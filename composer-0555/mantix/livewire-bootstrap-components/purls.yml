@@ -12,6 +12,9 @@
 - pkg:composer/mantix/livewire-bootstrap-components@v1.15
 - pkg:composer/mantix/livewire-bootstrap-components@v1.16
 - pkg:composer/mantix/livewire-bootstrap-components@v1.17
+- pkg:composer/mantix/livewire-bootstrap-components@v1.18
+- pkg:composer/mantix/livewire-bootstrap-components@v1.19
+- pkg:composer/mantix/livewire-bootstrap-components@v1.20
 - pkg:composer/mantix/livewire-bootstrap-components@v1.6
 - pkg:composer/mantix/livewire-bootstrap-components@v1.7
 - pkg:composer/mantix/livewire-bootstrap-components@v1.8
