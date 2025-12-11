@@ -27,6 +27,7 @@
 - pkg:composer/dotkernel/admin@6.0.0
 - pkg:composer/dotkernel/admin@6.1.0
 - pkg:composer/dotkernel/admin@6.2.0
+- pkg:composer/dotkernel/admin@7.0.0
 - pkg:composer/dotkernel/admin@v1.0.0
 - pkg:composer/dotkernel/admin@v1.0.1
 - pkg:composer/dotkernel/admin@v1.0.2
