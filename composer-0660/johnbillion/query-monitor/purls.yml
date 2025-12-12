@@ -74,6 +74,7 @@
 - pkg:composer/johnbillion/query-monitor@3.2.2
 - pkg:composer/johnbillion/query-monitor@3.20.0
 - pkg:composer/johnbillion/query-monitor@3.20.1
+- pkg:composer/johnbillion/query-monitor@3.20.2
 - pkg:composer/johnbillion/query-monitor@3.3.0
 - pkg:composer/johnbillion/query-monitor@3.3.1
 - pkg:composer/johnbillion/query-monitor@3.3.2
