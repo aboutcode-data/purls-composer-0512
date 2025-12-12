@@ -75,3 +75,4 @@
 - pkg:composer/sensiolabs/connect@v8.1.8
 - pkg:composer/sensiolabs/connect@v8.2.0
 - pkg:composer/sensiolabs/connect@v8.2.1
+- pkg:composer/sensiolabs/connect@v8.2.2
