@@ -235,6 +235,8 @@
 - pkg:composer/openeuropa/oe_theme@0.5.202509251515
 - pkg:composer/openeuropa/oe_theme@0.5.202510021220
 - pkg:composer/openeuropa/oe_theme@0.5.202510151115
+- pkg:composer/openeuropa/oe_theme@0.5.202512121445
+- pkg:composer/openeuropa/oe_theme@0.5.202512121449
 - pkg:composer/openeuropa/oe_theme@0.5096.202501241320
 - pkg:composer/openeuropa/oe_theme@0.5096.202501271215
 - pkg:composer/openeuropa/oe_theme@0.5104.202501081505
