@@ -50,6 +50,7 @@
 - pkg:composer/nexusphp/cs-config@v3.26.2
 - pkg:composer/nexusphp/cs-config@v3.26.3
 - pkg:composer/nexusphp/cs-config@v3.26.4
+- pkg:composer/nexusphp/cs-config@v3.27.0
 - pkg:composer/nexusphp/cs-config@v3.3.0
 - pkg:composer/nexusphp/cs-config@v3.3.1
 - pkg:composer/nexusphp/cs-config@v3.3.2
