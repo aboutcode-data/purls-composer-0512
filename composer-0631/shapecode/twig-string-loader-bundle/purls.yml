@@ -17,3 +17,4 @@
 - pkg:composer/shapecode/twig-string-loader-bundle@2.2.0
 - pkg:composer/shapecode/twig-string-loader-bundle@2.3.0
 - pkg:composer/shapecode/twig-string-loader-bundle@3.0.0
+- pkg:composer/shapecode/twig-string-loader-bundle@4.0.0
