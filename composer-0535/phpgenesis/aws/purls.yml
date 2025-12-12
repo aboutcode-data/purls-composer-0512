@@ -73,3 +73,8 @@
 - pkg:composer/phpgenesis/aws@v0.3.7
 - pkg:composer/phpgenesis/aws@v0.3.8
 - pkg:composer/phpgenesis/aws@v0.3.9
+- pkg:composer/phpgenesis/aws@v1.6.2
+- pkg:composer/phpgenesis/aws@v1.7.0
+- pkg:composer/phpgenesis/aws@v1.8.0
+- pkg:composer/phpgenesis/aws@v1.9.0
+- pkg:composer/phpgenesis/aws@v1.9.1
