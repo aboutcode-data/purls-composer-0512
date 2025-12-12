@@ -5,3 +5,4 @@
 - pkg:composer/flow4ui/flow-symfony@v0.1.4
 - pkg:composer/flow4ui/flow-symfony@v0.1.5
 - pkg:composer/flow4ui/flow-symfony@v0.1.6
+- pkg:composer/flow4ui/flow-symfony@v0.2.0
