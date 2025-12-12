@@ -147,6 +147,11 @@
 - pkg:composer/symplify/monorepo-builder@12.3.0
 - pkg:composer/symplify/monorepo-builder@12.3.1
 - pkg:composer/symplify/monorepo-builder@12.3.2
+- pkg:composer/symplify/monorepo-builder@12.4.0
+- pkg:composer/symplify/monorepo-builder@12.4.1
+- pkg:composer/symplify/monorepo-builder@12.4.2
+- pkg:composer/symplify/monorepo-builder@12.4.3
+- pkg:composer/symplify/monorepo-builder@12.4.4
 - pkg:composer/symplify/monorepo-builder@8.2.17
 - pkg:composer/symplify/monorepo-builder@8.2.18
 - pkg:composer/symplify/monorepo-builder@8.2.19
