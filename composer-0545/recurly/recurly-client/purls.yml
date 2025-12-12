@@ -60,6 +60,7 @@
 - pkg:composer/recurly/recurly-client@2.14.12
 - pkg:composer/recurly/recurly-client@2.14.13
 - pkg:composer/recurly/recurly-client@2.14.14
+- pkg:composer/recurly/recurly-client@2.14.15
 - pkg:composer/recurly/recurly-client@2.14.2
 - pkg:composer/recurly/recurly-client@2.14.3
 - pkg:composer/recurly/recurly-client@2.14.4
@@ -201,6 +202,7 @@
 - pkg:composer/recurly/recurly-client@4.66.0
 - pkg:composer/recurly/recurly-client@4.67.0
 - pkg:composer/recurly/recurly-client@4.68.0
+- pkg:composer/recurly/recurly-client@4.69.0
 - pkg:composer/recurly/recurly-client@4.7.0
 - pkg:composer/recurly/recurly-client@4.8.0
 - pkg:composer/recurly/recurly-client@4.9.0
