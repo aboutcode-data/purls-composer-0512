@@ -193,6 +193,7 @@
 - pkg:composer/heroku/heroku-buildpack-php@v276
 - pkg:composer/heroku/heroku-buildpack-php@v277
 - pkg:composer/heroku/heroku-buildpack-php@v278
+- pkg:composer/heroku/heroku-buildpack-php@v279
 - pkg:composer/heroku/heroku-buildpack-php@v28
 - pkg:composer/heroku/heroku-buildpack-php@v29
 - pkg:composer/heroku/heroku-buildpack-php@v30
