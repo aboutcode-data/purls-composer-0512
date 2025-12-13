@@ -48,3 +48,4 @@
 - pkg:composer/webignition/base-basil-test-case@5.0
 - pkg:composer/webignition/base-basil-test-case@5.1
 - pkg:composer/webignition/base-basil-test-case@6.0
+- pkg:composer/webignition/base-basil-test-case@6.1

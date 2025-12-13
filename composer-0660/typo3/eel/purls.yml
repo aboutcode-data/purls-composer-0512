@@ -498,6 +498,7 @@
 - pkg:composer/typo3/eel@8.3.15
 - pkg:composer/typo3/eel@8.3.16
 - pkg:composer/typo3/eel@8.3.17
+- pkg:composer/typo3/eel@8.3.18
 - pkg:composer/typo3/eel@8.3.2
 - pkg:composer/typo3/eel@8.3.3
 - pkg:composer/typo3/eel@8.3.4
@@ -508,6 +509,7 @@
 - pkg:composer/typo3/eel@8.3.9
 - pkg:composer/typo3/eel@8.4.0
 - pkg:composer/typo3/eel@8.4.1
+- pkg:composer/typo3/eel@8.4.2
 - pkg:composer/typo3/eel@9.0.0
 - pkg:composer/typo3/eel@9.0.0-beta1
 - pkg:composer/typo3/eel@9.0.0-beta10
@@ -527,3 +529,4 @@
 - pkg:composer/typo3/eel@9.0.2
 - pkg:composer/typo3/eel@9.0.3
 - pkg:composer/typo3/eel@9.0.4
+- pkg:composer/typo3/eel@9.0.5
