@@ -13,6 +13,7 @@
 - pkg:composer/mantle-framework/framework-views@v1.13.4
 - pkg:composer/mantle-framework/framework-views@v1.14.0
 - pkg:composer/mantle-framework/framework-views@v1.14.1
+- pkg:composer/mantle-framework/framework-views@v1.15.0
 - pkg:composer/mantle-framework/framework-views@v1.8.2
 - pkg:composer/mantle-framework/framework-views@v1.8.3
 - pkg:composer/mantle-framework/framework-views@v1.8.4
