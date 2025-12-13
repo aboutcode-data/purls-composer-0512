@@ -3,3 +3,4 @@
 - pkg:composer/passendo/openrtb-php@v2.0
 - pkg:composer/passendo/openrtb-php@v3.0
 - pkg:composer/passendo/openrtb-php@v3.0.1
+- pkg:composer/passendo/openrtb-php@v3.0.2
