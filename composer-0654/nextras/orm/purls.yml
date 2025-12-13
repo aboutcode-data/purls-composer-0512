@@ -69,3 +69,4 @@
 - pkg:composer/nextras/orm@v5.0.0-rc2
 - pkg:composer/nextras/orm@v5.0.0-rc3
 - pkg:composer/nextras/orm@v5.0.1
+- pkg:composer/nextras/orm@v5.1.0-rc1
