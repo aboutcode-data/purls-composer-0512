@@ -7,7 +7,9 @@
 - pkg:composer/progalaxyelabs/stonescriptphp-server@v2.0.15
 - pkg:composer/progalaxyelabs/stonescriptphp-server@v2.0.16
 - pkg:composer/progalaxyelabs/stonescriptphp-server@v2.0.17
+- pkg:composer/progalaxyelabs/stonescriptphp-server@v2.0.18
 - pkg:composer/progalaxyelabs/stonescriptphp-server@v2.0.2
 - pkg:composer/progalaxyelabs/stonescriptphp-server@v2.0.3
 - pkg:composer/progalaxyelabs/stonescriptphp-server@v2.0.4
 - pkg:composer/progalaxyelabs/stonescriptphp-server@v2.0.5
+- pkg:composer/progalaxyelabs/stonescriptphp-server@v2.1.0
