@@ -88,6 +88,8 @@
 - pkg:composer/tecnickcom/tc-lib-file@2.1.5
 - pkg:composer/tecnickcom/tc-lib-file@2.1.6
 - pkg:composer/tecnickcom/tc-lib-file@2.2.1
+- pkg:composer/tecnickcom/tc-lib-file@2.2.11
+- pkg:composer/tecnickcom/tc-lib-file@2.2.12
 - pkg:composer/tecnickcom/tc-lib-file@2.2.2
 - pkg:composer/tecnickcom/tc-lib-file@2.2.4
 - pkg:composer/tecnickcom/tc-lib-file@2.2.5
