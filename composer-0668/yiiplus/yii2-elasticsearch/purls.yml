@@ -1,0 +1,14 @@
+- pkg:composer/yiiplus/yii2-elasticsearch@2.0.0
+- pkg:composer/yiiplus/yii2-elasticsearch@2.0.0-alpha
+- pkg:composer/yiiplus/yii2-elasticsearch@2.0.0-beta
+- pkg:composer/yiiplus/yii2-elasticsearch@2.0.0-rc
+- pkg:composer/yiiplus/yii2-elasticsearch@2.0.1
+- pkg:composer/yiiplus/yii2-elasticsearch@2.0.2
+- pkg:composer/yiiplus/yii2-elasticsearch@2.0.3
+- pkg:composer/yiiplus/yii2-elasticsearch@2.0.4
+- pkg:composer/yiiplus/yii2-elasticsearch@2.0.5
+- pkg:composer/yiiplus/yii2-elasticsearch@2.0.6
+- pkg:composer/yiiplus/yii2-elasticsearch@6.0.1
+- pkg:composer/yiiplus/yii2-elasticsearch@6.0.2
+- pkg:composer/yiiplus/yii2-elasticsearch@6.0.3
+- pkg:composer/yiiplus/yii2-elasticsearch@6.0.4

@@ -1,0 +1,4 @@
+- pkg:composer/wordpress/wp-ai-client@0.1.0
+- pkg:composer/wordpress/wp-ai-client@0.1.1
+- pkg:composer/wordpress/wp-ai-client@0.2.0
+- pkg:composer/wordpress/wp-ai-client@0.2.1

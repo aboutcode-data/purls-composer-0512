@@ -1,0 +1,9 @@
+- pkg:composer/xrpl/xumm-sdk-php@v0.2.0-beta
+- pkg:composer/xrpl/xumm-sdk-php@v0.2.1-beta
+- pkg:composer/xrpl/xumm-sdk-php@v0.2.2-beta
+- pkg:composer/xrpl/xumm-sdk-php@v0.2.3-beta
+- pkg:composer/xrpl/xumm-sdk-php@v0.2.4-beta
+- pkg:composer/xrpl/xumm-sdk-php@v0.2.5-beta
+- pkg:composer/xrpl/xumm-sdk-php@v1.0.0
+- pkg:composer/xrpl/xumm-sdk-php@v1.1.0
+- pkg:composer/xrpl/xumm-sdk-php@v1.2.0

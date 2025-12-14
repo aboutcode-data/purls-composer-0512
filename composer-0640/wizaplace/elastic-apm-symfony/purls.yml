@@ -1,0 +1,12 @@
+- pkg:composer/wizaplace/elastic-apm-symfony@0.1.0
+- pkg:composer/wizaplace/elastic-apm-symfony@0.1.1
+- pkg:composer/wizaplace/elastic-apm-symfony@0.1.2
+- pkg:composer/wizaplace/elastic-apm-symfony@0.2.0
+- pkg:composer/wizaplace/elastic-apm-symfony@0.3.0
+- pkg:composer/wizaplace/elastic-apm-symfony@0.3.1
+- pkg:composer/wizaplace/elastic-apm-symfony@0.4.0
+- pkg:composer/wizaplace/elastic-apm-symfony@0.4.1
+- pkg:composer/wizaplace/elastic-apm-symfony@0.4.2
+- pkg:composer/wizaplace/elastic-apm-symfony@1.0
+- pkg:composer/wizaplace/elastic-apm-symfony@2.0
+- pkg:composer/wizaplace/elastic-apm-symfony@2.0.1

@@ -1,0 +1,5 @@
+- pkg:composer/yiisoft/db-mysql@1.0.0
+- pkg:composer/yiisoft/db-mysql@1.0.1
+- pkg:composer/yiisoft/db-mysql@1.1.0
+- pkg:composer/yiisoft/db-mysql@1.2.0
+- pkg:composer/yiisoft/db-mysql@2.0.0

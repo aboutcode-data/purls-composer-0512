@@ -1,0 +1,6 @@
+- pkg:composer/xervice/redis@1.0.0
+- pkg:composer/xervice/redis@1.0.1
+- pkg:composer/xervice/redis@1.1.0
+- pkg:composer/xervice/redis@1.2.0
+- pkg:composer/xervice/redis@2.0.0
+- pkg:composer/xervice/redis@2.1.0

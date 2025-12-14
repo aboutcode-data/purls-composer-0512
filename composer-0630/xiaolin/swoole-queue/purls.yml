@@ -1,0 +1,4 @@
+- pkg:composer/xiaolin/swoole-queue@0.1
+- pkg:composer/xiaolin/swoole-queue@0.2
+- pkg:composer/xiaolin/swoole-queue@0.3
+- pkg:composer/xiaolin/swoole-queue@0.3.1

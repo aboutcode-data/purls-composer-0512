@@ -1,0 +1,4 @@
+- pkg:composer/yroot/neos-openstack-swift@v0.1.0
+- pkg:composer/yroot/neos-openstack-swift@v0.1.1
+- pkg:composer/yroot/neos-openstack-swift@v1.0.0
+- pkg:composer/yroot/neos-openstack-swift@v1.0.1

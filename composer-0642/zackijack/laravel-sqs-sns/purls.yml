@@ -1,0 +1,6 @@
+- pkg:composer/zackijack/laravel-sqs-sns@v1.0
+- pkg:composer/zackijack/laravel-sqs-sns@v2.0
+- pkg:composer/zackijack/laravel-sqs-sns@v2.1
+- pkg:composer/zackijack/laravel-sqs-sns@v2.2
+- pkg:composer/zackijack/laravel-sqs-sns@v2.2.1
+- pkg:composer/zackijack/laravel-sqs-sns@v2.3

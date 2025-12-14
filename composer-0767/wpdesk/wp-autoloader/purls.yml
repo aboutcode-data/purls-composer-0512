@@ -1,0 +1,4 @@
+- pkg:composer/wpdesk/wp-autoloader@1.0
+- pkg:composer/wpdesk/wp-autoloader@1.0-alpha
+- pkg:composer/wpdesk/wp-autoloader@1.1
+- pkg:composer/wpdesk/wp-autoloader@1.2

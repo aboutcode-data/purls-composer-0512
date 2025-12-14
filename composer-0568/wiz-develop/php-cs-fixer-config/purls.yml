@@ -1,0 +1,4 @@
+- pkg:composer/wiz-develop/php-cs-fixer-config@v8.3.0
+- pkg:composer/wiz-develop/php-cs-fixer-config@v8.3.1
+- pkg:composer/wiz-develop/php-cs-fixer-config@v8.3.2
+- pkg:composer/wiz-develop/php-cs-fixer-config@v8.4.0

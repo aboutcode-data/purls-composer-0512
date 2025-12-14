@@ -1,0 +1,5 @@
+- pkg:composer/wiser/saml-bundle@1.0
+- pkg:composer/wiser/saml-bundle@2.0
+- pkg:composer/wiser/saml-bundle@2.0.1
+- pkg:composer/wiser/saml-bundle@2.0.2
+- pkg:composer/wiser/saml-bundle@3.0.0

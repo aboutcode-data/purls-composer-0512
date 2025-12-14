@@ -1,0 +1,4 @@
+- pkg:composer/wp-blueprint/theme-core@1.0.0
+- pkg:composer/wp-blueprint/theme-core@1.0.1
+- pkg:composer/wp-blueprint/theme-core@2.0.0
+- pkg:composer/wp-blueprint/theme-core@2.0.0-alpha.1

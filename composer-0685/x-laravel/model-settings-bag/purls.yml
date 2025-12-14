@@ -1,0 +1,4 @@
+- pkg:composer/x-laravel/model-settings-bag@v1.0.0
+- pkg:composer/x-laravel/model-settings-bag@v2.0.0
+- pkg:composer/x-laravel/model-settings-bag@v2.1.0
+- pkg:composer/x-laravel/model-settings-bag@v3.0.0

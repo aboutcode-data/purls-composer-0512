@@ -1,0 +1,10 @@
+- pkg:composer/xp-forge/redis-sessions@v0.1.0
+- pkg:composer/xp-forge/redis-sessions@v0.2.0
+- pkg:composer/xp-forge/redis-sessions@v1.0.0
+- pkg:composer/xp-forge/redis-sessions@v1.0.1
+- pkg:composer/xp-forge/redis-sessions@v1.0.2
+- pkg:composer/xp-forge/redis-sessions@v1.1.0
+- pkg:composer/xp-forge/redis-sessions@v1.1.1
+- pkg:composer/xp-forge/redis-sessions@v2.0.0
+- pkg:composer/xp-forge/redis-sessions@v2.1.0
+- pkg:composer/xp-forge/redis-sessions@v2.2.0

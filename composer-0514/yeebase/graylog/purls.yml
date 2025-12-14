@@ -1,0 +1,15 @@
+- pkg:composer/yeebase/graylog@1.0.1
+- pkg:composer/yeebase/graylog@1.1.0
+- pkg:composer/yeebase/graylog@1.1.1
+- pkg:composer/yeebase/graylog@1.1.2
+- pkg:composer/yeebase/graylog@2.0.0
+- pkg:composer/yeebase/graylog@2.0.1
+- pkg:composer/yeebase/graylog@2.1.0
+- pkg:composer/yeebase/graylog@2.1.1
+- pkg:composer/yeebase/graylog@2.1.2
+- pkg:composer/yeebase/graylog@2.2.0
+- pkg:composer/yeebase/graylog@2.3.0
+- pkg:composer/yeebase/graylog@2.3.1
+- pkg:composer/yeebase/graylog@2.4.0
+- pkg:composer/yeebase/graylog@3.0.0
+- pkg:composer/yeebase/graylog@3.1.0

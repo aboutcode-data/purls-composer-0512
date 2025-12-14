@@ -1,0 +1,3 @@
+- pkg:composer/xefi/phpstan-xefi-rules@v1.0.0
+- pkg:composer/xefi/phpstan-xefi-rules@v1.0.1
+- pkg:composer/xefi/phpstan-xefi-rules@v1.1

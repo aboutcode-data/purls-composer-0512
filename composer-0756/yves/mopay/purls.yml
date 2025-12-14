@@ -1,0 +1,5 @@
+- pkg:composer/yves/mopay@4.0.1
+- pkg:composer/yves/mopay@v1.0
+- pkg:composer/yves/mopay@v1.1-beta
+- pkg:composer/yves/mopay@v2
+- pkg:composer/yves/mopay@v3

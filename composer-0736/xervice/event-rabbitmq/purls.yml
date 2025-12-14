@@ -1,0 +1,6 @@
+- pkg:composer/xervice/event-rabbitmq@1.0.0
+- pkg:composer/xervice/event-rabbitmq@1.1.0
+- pkg:composer/xervice/event-rabbitmq@1.1.1
+- pkg:composer/xervice/event-rabbitmq@2.0.0
+- pkg:composer/xervice/event-rabbitmq@2.1.0
+- pkg:composer/xervice/event-rabbitmq@2.2.0

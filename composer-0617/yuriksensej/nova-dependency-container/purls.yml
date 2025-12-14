@@ -1,0 +1,5 @@
+- pkg:composer/yuriksensej/nova-dependency-container@v1.0.0
+- pkg:composer/yuriksensej/nova-dependency-container@v2.0.0
+- pkg:composer/yuriksensej/nova-dependency-container@v3.0.0
+- pkg:composer/yuriksensej/nova-dependency-container@v3.0.2
+- pkg:composer/yuriksensej/nova-dependency-container@v3.0.3

@@ -1,0 +1,15 @@
+- pkg:composer/yajra/laravel-sql-loader@v1.0.0
+- pkg:composer/yajra/laravel-sql-loader@v1.0.1
+- pkg:composer/yajra/laravel-sql-loader@v1.1.0
+- pkg:composer/yajra/laravel-sql-loader@v1.2.0
+- pkg:composer/yajra/laravel-sql-loader@v1.3.0
+- pkg:composer/yajra/laravel-sql-loader@v1.3.1
+- pkg:composer/yajra/laravel-sql-loader@v1.4.0
+- pkg:composer/yajra/laravel-sql-loader@v1.5.0
+- pkg:composer/yajra/laravel-sql-loader@v1.6.0
+- pkg:composer/yajra/laravel-sql-loader@v1.6.1
+- pkg:composer/yajra/laravel-sql-loader@v1.6.2
+- pkg:composer/yajra/laravel-sql-loader@v1.7.0
+- pkg:composer/yajra/laravel-sql-loader@v1.7.1
+- pkg:composer/yajra/laravel-sql-loader@v1.8.0
+- pkg:composer/yajra/laravel-sql-loader@v1.8.1
