@@ -9,3 +9,5 @@
 - pkg:composer/jobmetric/laravel-reaction@1.5.0
 - pkg:composer/jobmetric/laravel-reaction@2.0.0
 - pkg:composer/jobmetric/laravel-reaction@3.0.0
+- pkg:composer/jobmetric/laravel-reaction@3.1.0
+- pkg:composer/jobmetric/laravel-reaction@3.1.1

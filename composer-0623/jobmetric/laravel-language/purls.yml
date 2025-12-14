@@ -25,3 +25,4 @@
 - pkg:composer/jobmetric/laravel-language@2.1.2
 - pkg:composer/jobmetric/laravel-language@2.2.0
 - pkg:composer/jobmetric/laravel-language@2.3.0
+- pkg:composer/jobmetric/laravel-language@2.4.0
