@@ -287,6 +287,7 @@
 - pkg:composer/php-extended/php-certificate-provider-mozilla@8.0.23
 - pkg:composer/php-extended/php-certificate-provider-mozilla@8.0.24
 - pkg:composer/php-extended/php-certificate-provider-mozilla@8.0.25
+- pkg:composer/php-extended/php-certificate-provider-mozilla@8.0.26
 - pkg:composer/php-extended/php-certificate-provider-mozilla@8.0.3
 - pkg:composer/php-extended/php-certificate-provider-mozilla@8.0.4
 - pkg:composer/php-extended/php-certificate-provider-mozilla@8.0.5
