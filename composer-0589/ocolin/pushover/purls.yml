@@ -1,2 +1,4 @@
 - pkg:composer/ocolin/pushover@1.0
 - pkg:composer/ocolin/pushover@1.1
+- pkg:composer/ocolin/pushover@2.0
+- pkg:composer/ocolin/pushover@2.1
