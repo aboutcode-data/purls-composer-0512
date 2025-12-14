@@ -1,0 +1,4 @@
+- pkg:composer/zotornit/typo3-classic@10.3.0
+- pkg:composer/zotornit/typo3-classic@10.4.0
+- pkg:composer/zotornit/typo3-classic@8.7.32
+- pkg:composer/zotornit/typo3-classic@9.5.15

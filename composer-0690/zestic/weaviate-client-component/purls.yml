@@ -1,0 +1,5 @@
+- pkg:composer/zestic/weaviate-client-component@0.1.0
+- pkg:composer/zestic/weaviate-client-component@v0.1.1
+- pkg:composer/zestic/weaviate-client-component@v0.1.2
+- pkg:composer/zestic/weaviate-client-component@v0.1.3
+- pkg:composer/zestic/weaviate-client-component@v0.1.4

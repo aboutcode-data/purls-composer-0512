@@ -1,0 +1,6 @@
+- pkg:composer/zeek/php-utils@1.0
+- pkg:composer/zeek/php-utils@2.0
+- pkg:composer/zeek/php-utils@2.1
+- pkg:composer/zeek/php-utils@2.2.0
+- pkg:composer/zeek/php-utils@2.2.1
+- pkg:composer/zeek/php-utils@2.2.2

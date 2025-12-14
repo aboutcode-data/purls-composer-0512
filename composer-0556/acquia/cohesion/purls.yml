@@ -81,3 +81,4 @@
 - pkg:composer/acquia/cohesion@8.2.0-rc1
 - pkg:composer/acquia/cohesion@8.2.1
 - pkg:composer/acquia/cohesion@8.2.1-rc1
+- pkg:composer/acquia/cohesion@8.2.2

@@ -1,0 +1,12 @@
+- pkg:composer/zero-to-prod/stream-socket@v71.0.0
+- pkg:composer/zero-to-prod/stream-socket@v71.0.1
+- pkg:composer/zero-to-prod/stream-socket@v71.0.2
+- pkg:composer/zero-to-prod/stream-socket@v71.0.3
+- pkg:composer/zero-to-prod/stream-socket@v71.0.4
+- pkg:composer/zero-to-prod/stream-socket@v71.0.5
+- pkg:composer/zero-to-prod/stream-socket@v71.0.6
+- pkg:composer/zero-to-prod/stream-socket@v81.0.0
+- pkg:composer/zero-to-prod/stream-socket@v81.0.1
+- pkg:composer/zero-to-prod/stream-socket@v81.0.2
+- pkg:composer/zero-to-prod/stream-socket@v81.0.3
+- pkg:composer/zero-to-prod/stream-socket@v81.1.0

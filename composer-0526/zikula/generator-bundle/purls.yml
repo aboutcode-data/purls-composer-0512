@@ -1,0 +1,5 @@
+- pkg:composer/zikula/generator-bundle@1.4
+- pkg:composer/zikula/generator-bundle@2.0.0
+- pkg:composer/zikula/generator-bundle@2.0.1
+- pkg:composer/zikula/generator-bundle@3.0.0
+- pkg:composer/zikula/generator-bundle@3.0.1

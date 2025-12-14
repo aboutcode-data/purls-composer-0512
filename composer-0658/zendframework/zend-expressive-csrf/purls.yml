@@ -1,0 +1,5 @@
+- pkg:composer/zendframework/zend-expressive-csrf@0.1.0
+- pkg:composer/zendframework/zend-expressive-csrf@0.1.1
+- pkg:composer/zendframework/zend-expressive-csrf@1.0.0
+- pkg:composer/zendframework/zend-expressive-csrf@1.0.0alpha1
+- pkg:composer/zendframework/zend-expressive-csrf@1.0.1

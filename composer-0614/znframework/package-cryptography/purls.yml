@@ -1,0 +1,6 @@
+- pkg:composer/znframework/package-cryptography@6.0.0
+- pkg:composer/znframework/package-cryptography@6.0.1
+- pkg:composer/znframework/package-cryptography@6.0.3
+- pkg:composer/znframework/package-cryptography@7.0.0
+- pkg:composer/znframework/package-cryptography@7.0.1
+- pkg:composer/znframework/package-cryptography@8.21.0

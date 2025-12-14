@@ -19,6 +19,7 @@
 - pkg:composer/aimeos/ai-cms-grapesjs@2021.10.6
 - pkg:composer/aimeos/ai-cms-grapesjs@2021.10.7
 - pkg:composer/aimeos/ai-cms-grapesjs@2021.10.8
+- pkg:composer/aimeos/ai-cms-grapesjs@2021.10.9
 - pkg:composer/aimeos/ai-cms-grapesjs@2022.04.1
 - pkg:composer/aimeos/ai-cms-grapesjs@2022.04.2
 - pkg:composer/aimeos/ai-cms-grapesjs@2022.04.3
@@ -27,6 +28,7 @@
 - pkg:composer/aimeos/ai-cms-grapesjs@2022.07.2
 - pkg:composer/aimeos/ai-cms-grapesjs@2022.07.3
 - pkg:composer/aimeos/ai-cms-grapesjs@2022.10.1
+- pkg:composer/aimeos/ai-cms-grapesjs@2022.10.10
 - pkg:composer/aimeos/ai-cms-grapesjs@2022.10.2
 - pkg:composer/aimeos/ai-cms-grapesjs@2022.10.3
 - pkg:composer/aimeos/ai-cms-grapesjs@2022.10.4
@@ -48,6 +50,7 @@
 - pkg:composer/aimeos/ai-cms-grapesjs@2023.10.13
 - pkg:composer/aimeos/ai-cms-grapesjs@2023.10.14
 - pkg:composer/aimeos/ai-cms-grapesjs@2023.10.15
+- pkg:composer/aimeos/ai-cms-grapesjs@2023.10.16
 - pkg:composer/aimeos/ai-cms-grapesjs@2023.10.2
 - pkg:composer/aimeos/ai-cms-grapesjs@2023.10.3
 - pkg:composer/aimeos/ai-cms-grapesjs@2023.10.4
@@ -73,9 +76,11 @@
 - pkg:composer/aimeos/ai-cms-grapesjs@2024.10.6
 - pkg:composer/aimeos/ai-cms-grapesjs@2024.10.7
 - pkg:composer/aimeos/ai-cms-grapesjs@2024.10.8
+- pkg:composer/aimeos/ai-cms-grapesjs@2024.10.9
 - pkg:composer/aimeos/ai-cms-grapesjs@2025.04.1
 - pkg:composer/aimeos/ai-cms-grapesjs@2025.04.2
 - pkg:composer/aimeos/ai-cms-grapesjs@2025.07.1
 - pkg:composer/aimeos/ai-cms-grapesjs@2025.07.2
 - pkg:composer/aimeos/ai-cms-grapesjs@2025.10.1
 - pkg:composer/aimeos/ai-cms-grapesjs@2025.10.2
+- pkg:composer/aimeos/ai-cms-grapesjs@2025.10.3

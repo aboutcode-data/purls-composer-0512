@@ -1,0 +1,3 @@
+- pkg:composer/ziya/yii2-redis-rate-limiter@0.1
+- pkg:composer/ziya/yii2-redis-rate-limiter@0.2
+- pkg:composer/ziya/yii2-redis-rate-limiter@0.3

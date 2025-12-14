@@ -39,3 +39,6 @@
 - pkg:composer/alibabacloud/ens-20171110@6.7.0
 - pkg:composer/alibabacloud/ens-20171110@7.0.0
 - pkg:composer/alibabacloud/ens-20171110@8.0.0
+- pkg:composer/alibabacloud/ens-20171110@8.0.1
+- pkg:composer/alibabacloud/ens-20171110@8.0.2
+- pkg:composer/alibabacloud/ens-20171110@8.0.3
