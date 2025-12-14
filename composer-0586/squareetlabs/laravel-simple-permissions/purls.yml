@@ -1,1 +1,2 @@
 - pkg:composer/squareetlabs/laravel-simple-permissions@V1.0.0
+- pkg:composer/squareetlabs/laravel-simple-permissions@v1.0.1
