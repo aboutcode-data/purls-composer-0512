@@ -1,1 +1,5 @@
 - pkg:composer/luminor/luminor@v1.0.0
+- pkg:composer/luminor/luminor@v2.0.0
+- pkg:composer/luminor/luminor@v2.1.0
+- pkg:composer/luminor/luminor@v2.2.0
+- pkg:composer/luminor/luminor@v2.3.0
