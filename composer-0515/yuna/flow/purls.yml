@@ -16,3 +16,5 @@
 - pkg:composer/yuna/flow@3.0.4
 - pkg:composer/yuna/flow@3.0.5
 - pkg:composer/yuna/flow@3.0.6
+- pkg:composer/yuna/flow@4.0.0
+- pkg:composer/yuna/flow@4.0.1
