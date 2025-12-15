@@ -9,3 +9,6 @@
 - pkg:composer/weslinkde/laravel-postgres-tools@v0.5.3
 - pkg:composer/weslinkde/laravel-postgres-tools@v0.5.4
 - pkg:composer/weslinkde/laravel-postgres-tools@v0.5.5
+- pkg:composer/weslinkde/laravel-postgres-tools@v1.0.0
+- pkg:composer/weslinkde/laravel-postgres-tools@v1.0.1
+- pkg:composer/weslinkde/laravel-postgres-tools@v1.0.2
