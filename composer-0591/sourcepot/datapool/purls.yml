@@ -218,6 +218,7 @@
 - pkg:composer/sourcepot/datapool@v4.31.0
 - pkg:composer/sourcepot/datapool@v4.31.1
 - pkg:composer/sourcepot/datapool@v4.32.0
+- pkg:composer/sourcepot/datapool@v4.33.0
 - pkg:composer/sourcepot/datapool@v4.4.0
 - pkg:composer/sourcepot/datapool@v4.4.1
 - pkg:composer/sourcepot/datapool@v4.5.0
