@@ -175,3 +175,4 @@
 - pkg:composer/nunomaduro/larastan@v3.7.1
 - pkg:composer/nunomaduro/larastan@v3.7.2
 - pkg:composer/nunomaduro/larastan@v3.8.0
+- pkg:composer/nunomaduro/larastan@v3.8.1
