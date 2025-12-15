@@ -9,6 +9,7 @@
 - pkg:composer/raifucore/laravel-support@1.16.0
 - pkg:composer/raifucore/laravel-support@1.17.0
 - pkg:composer/raifucore/laravel-support@1.18.0
+- pkg:composer/raifucore/laravel-support@1.19.0
 - pkg:composer/raifucore/laravel-support@1.2
 - pkg:composer/raifucore/laravel-support@1.2.1
 - pkg:composer/raifucore/laravel-support@1.2.3
