@@ -38,3 +38,6 @@
 - pkg:composer/virusphp/bridging-bpjs@v2.1.6
 - pkg:composer/virusphp/bridging-bpjs@v2.1.7
 - pkg:composer/virusphp/bridging-bpjs@v2.1.8
+- pkg:composer/virusphp/bridging-bpjs@v2.1.9
+- pkg:composer/virusphp/bridging-bpjs@v2.2.0
+- pkg:composer/virusphp/bridging-bpjs@v2.2.1
