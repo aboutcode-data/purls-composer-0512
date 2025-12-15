@@ -31,5 +31,6 @@
 - pkg:composer/sequra/integration-core@v3.0.1
 - pkg:composer/sequra/integration-core@v3.0.2
 - pkg:composer/sequra/integration-core@v3.0.3
+- pkg:composer/sequra/integration-core@v4.0.0
 - pkg:composer/sequra/integration-core@v4.0.0-rc.1
 - pkg:composer/sequra/integration-core@v4.0.0-rc.2
