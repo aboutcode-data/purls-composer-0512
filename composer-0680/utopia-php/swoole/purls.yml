@@ -17,3 +17,4 @@
 - pkg:composer/utopia-php/swoole@0.8.2
 - pkg:composer/utopia-php/swoole@0.8.3
 - pkg:composer/utopia-php/swoole@0.8.4
+- pkg:composer/utopia-php/swoole@0.8.5
