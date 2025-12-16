@@ -14,6 +14,7 @@
 - pkg:composer/instapunchout/magento2-punchout@1.1.0
 - pkg:composer/instapunchout/magento2-punchout@1.1.1
 - pkg:composer/instapunchout/magento2-punchout@1.1.2
+- pkg:composer/instapunchout/magento2-punchout@1.1.20
 - pkg:composer/instapunchout/magento2-punchout@1.1.3
 - pkg:composer/instapunchout/magento2-punchout@1.1.4
 - pkg:composer/instapunchout/magento2-punchout@1.1.5
