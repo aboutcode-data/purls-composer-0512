@@ -16,3 +16,5 @@
 - pkg:composer/dejwcake/sms-client@1.0.8
 - pkg:composer/dejwcake/sms-client@1.0.9
 - pkg:composer/dejwcake/sms-client@2.0.0
+- pkg:composer/dejwcake/sms-client@3.0.0
+- pkg:composer/dejwcake/sms-client@3.0.1
