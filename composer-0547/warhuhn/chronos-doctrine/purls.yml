@@ -7,5 +7,5 @@
 - pkg:composer/warhuhn/chronos-doctrine@3.0.1
 - pkg:composer/warhuhn/chronos-doctrine@3.0.2
 - pkg:composer/warhuhn/chronos-doctrine@4.0.0
+- pkg:composer/warhuhn/chronos-doctrine@4.1.0
 - pkg:composer/warhuhn/chronos-doctrine@5.0.0
-- pkg:composer/warhuhn/chronos-doctrine@v4.1.0
