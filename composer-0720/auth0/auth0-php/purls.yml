@@ -109,6 +109,7 @@
 - pkg:composer/auth0/auth0-php@8.15.0
 - pkg:composer/auth0/auth0-php@8.16.0
 - pkg:composer/auth0/auth0-php@8.17.0
+- pkg:composer/auth0/auth0-php@8.18.0
 - pkg:composer/auth0/auth0-php@8.2.0
 - pkg:composer/auth0/auth0-php@8.2.1
 - pkg:composer/auth0/auth0-php@8.3.0
