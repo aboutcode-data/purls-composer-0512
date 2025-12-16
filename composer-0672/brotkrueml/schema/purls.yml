@@ -73,6 +73,7 @@
 - pkg:composer/brotkrueml/schema@v3.14.0
 - pkg:composer/brotkrueml/schema@v3.14.1
 - pkg:composer/brotkrueml/schema@v3.14.2
+- pkg:composer/brotkrueml/schema@v3.15.0
 - pkg:composer/brotkrueml/schema@v3.2.0
 - pkg:composer/brotkrueml/schema@v3.3.0
 - pkg:composer/brotkrueml/schema@v3.4.0
@@ -93,3 +94,4 @@
 - pkg:composer/brotkrueml/schema@v4.0.1
 - pkg:composer/brotkrueml/schema@v4.1.0
 - pkg:composer/brotkrueml/schema@v4.1.1
+- pkg:composer/brotkrueml/schema@v4.2.0

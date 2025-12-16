@@ -45,3 +45,4 @@
 - pkg:composer/bacula-web/bacula-web@v9.8.0
 - pkg:composer/bacula-web/bacula-web@v9.9.0
 - pkg:composer/bacula-web/bacula-web@v9.9.1
+- pkg:composer/bacula-web/bacula-web@v9.9.2

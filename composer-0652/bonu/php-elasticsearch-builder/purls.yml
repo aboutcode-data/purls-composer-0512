@@ -1,1 +1,10 @@
 - pkg:composer/bonu/php-elasticsearch-builder@v0.0.1
+- pkg:composer/bonu/php-elasticsearch-builder@v0.0.1-alpha1
+- pkg:composer/bonu/php-elasticsearch-builder@v0.0.1-alpha2
+- pkg:composer/bonu/php-elasticsearch-builder@v0.0.1-alpha3
+- pkg:composer/bonu/php-elasticsearch-builder@v0.0.1-alpha4
+- pkg:composer/bonu/php-elasticsearch-builder@v0.1.0
+- pkg:composer/bonu/php-elasticsearch-builder@v0.2.0
+- pkg:composer/bonu/php-elasticsearch-builder@v0.2.1
+- pkg:composer/bonu/php-elasticsearch-builder@v0.2.2
+- pkg:composer/bonu/php-elasticsearch-builder@v0.3.0

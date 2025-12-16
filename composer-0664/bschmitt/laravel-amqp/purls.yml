@@ -20,3 +20,4 @@
 - pkg:composer/bschmitt/laravel-amqp@2.1.0
 - pkg:composer/bschmitt/laravel-amqp@2.1.1
 - pkg:composer/bschmitt/laravel-amqp@2.1.2
+- pkg:composer/bschmitt/laravel-amqp@v3.1.0
