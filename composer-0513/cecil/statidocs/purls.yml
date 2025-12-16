@@ -63,6 +63,7 @@
 - pkg:composer/cecil/statidocs@2.32.10
 - pkg:composer/cecil/statidocs@2.32.11
 - pkg:composer/cecil/statidocs@2.32.12
+- pkg:composer/cecil/statidocs@2.32.13
 - pkg:composer/cecil/statidocs@2.32.2
 - pkg:composer/cecil/statidocs@2.32.3
 - pkg:composer/cecil/statidocs@2.32.4

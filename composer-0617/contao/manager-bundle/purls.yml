@@ -421,3 +421,4 @@
 - pkg:composer/contao/manager-bundle@5.6.6
 - pkg:composer/contao/manager-bundle@5.6.7
 - pkg:composer/contao/manager-bundle@5.6.8
+- pkg:composer/contao/manager-bundle@5.6.9

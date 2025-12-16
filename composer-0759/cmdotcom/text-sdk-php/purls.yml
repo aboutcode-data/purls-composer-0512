@@ -20,3 +20,4 @@
 - pkg:composer/cmdotcom/text-sdk-php@2.3.1
 - pkg:composer/cmdotcom/text-sdk-php@3.0.0
 - pkg:composer/cmdotcom/text-sdk-php@3.0.1
+- pkg:composer/cmdotcom/text-sdk-php@3.0.2

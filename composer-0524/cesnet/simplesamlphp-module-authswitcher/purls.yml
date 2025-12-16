@@ -30,6 +30,7 @@
 - pkg:composer/cesnet/simplesamlphp-module-authswitcher@v12.2.0
 - pkg:composer/cesnet/simplesamlphp-module-authswitcher@v12.3.0
 - pkg:composer/cesnet/simplesamlphp-module-authswitcher@v12.3.1
+- pkg:composer/cesnet/simplesamlphp-module-authswitcher@v12.4.0
 - pkg:composer/cesnet/simplesamlphp-module-authswitcher@v2.0.0
 - pkg:composer/cesnet/simplesamlphp-module-authswitcher@v3.0.0
 - pkg:composer/cesnet/simplesamlphp-module-authswitcher@v3.0.1

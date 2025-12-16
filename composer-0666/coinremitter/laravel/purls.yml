@@ -9,3 +9,4 @@
 - pkg:composer/coinremitter/laravel@0.1.9
 - pkg:composer/coinremitter/laravel@0.2.0
 - pkg:composer/coinremitter/laravel@1.0.0
+- pkg:composer/coinremitter/laravel@1.0.1

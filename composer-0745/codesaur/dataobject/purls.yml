@@ -73,3 +73,6 @@
 - pkg:composer/codesaur/dataobject@v7.2.0
 - pkg:composer/codesaur/dataobject@v7.2.1
 - pkg:composer/codesaur/dataobject@v7.3.0
+- pkg:composer/codesaur/dataobject@v7.4.0
+- pkg:composer/codesaur/dataobject@v7.5.0
+- pkg:composer/codesaur/dataobject@v7.6.0
