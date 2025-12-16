@@ -34,3 +34,4 @@
 - pkg:composer/vanilo/order@4.2.0
 - pkg:composer/vanilo/order@5.0.0
 - pkg:composer/vanilo/order@5.1.0
+- pkg:composer/vanilo/order@5.1.1
