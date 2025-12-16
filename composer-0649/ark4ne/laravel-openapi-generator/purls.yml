@@ -28,3 +28,4 @@
 - pkg:composer/ark4ne/laravel-openapi-generator@v0.4.0
 - pkg:composer/ark4ne/laravel-openapi-generator@v0.4.1
 - pkg:composer/ark4ne/laravel-openapi-generator@v0.4.2
+- pkg:composer/ark4ne/laravel-openapi-generator@v0.4.3

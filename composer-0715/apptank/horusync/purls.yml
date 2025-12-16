@@ -54,6 +54,8 @@
 - pkg:composer/apptank/horusync@v0.14.8
 - pkg:composer/apptank/horusync@v0.14.9
 - pkg:composer/apptank/horusync@v0.15.0
+- pkg:composer/apptank/horusync@v0.15.1
+- pkg:composer/apptank/horusync@v0.15.2
 - pkg:composer/apptank/horusync@v0.2.0-rc1
 - pkg:composer/apptank/horusync@v0.2.1
 - pkg:composer/apptank/horusync@v0.3.0-rc1

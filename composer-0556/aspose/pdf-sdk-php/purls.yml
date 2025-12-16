@@ -70,6 +70,8 @@
 - pkg:composer/aspose/pdf-sdk-php@24.8.0
 - pkg:composer/aspose/pdf-sdk-php@24.9.0
 - pkg:composer/aspose/pdf-sdk-php@25.1.0
+- pkg:composer/aspose/pdf-sdk-php@25.10.0
+- pkg:composer/aspose/pdf-sdk-php@25.11.0
 - pkg:composer/aspose/pdf-sdk-php@25.2.0
 - pkg:composer/aspose/pdf-sdk-php@25.3.0
 - pkg:composer/aspose/pdf-sdk-php@25.4.0

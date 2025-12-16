@@ -187,3 +187,6 @@
 - pkg:composer/automattic/jetpack-shared-extension-utils@v1.3.7
 - pkg:composer/automattic/jetpack-shared-extension-utils@v1.3.8
 - pkg:composer/automattic/jetpack-shared-extension-utils@v1.3.9
+- pkg:composer/automattic/jetpack-shared-extension-utils@v1.4.0
+- pkg:composer/automattic/jetpack-shared-extension-utils@v1.4.1
+- pkg:composer/automattic/jetpack-shared-extension-utils@v1.4.2
