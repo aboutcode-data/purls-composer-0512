@@ -12,3 +12,4 @@
 - pkg:composer/safrapay/magento2-payment@1.1.9
 - pkg:composer/safrapay/magento2-payment@1.2.0
 - pkg:composer/safrapay/magento2-payment@1.2.1
+- pkg:composer/safrapay/magento2-payment@1.2.2
