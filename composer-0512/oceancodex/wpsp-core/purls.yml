@@ -1,6 +1,1 @@
-- pkg:composer/oceancodex/wpsp-core@7.4.0
-- pkg:composer/oceancodex/wpsp-core@8.0.0
-- pkg:composer/oceancodex/wpsp-core@8.1.0
-- pkg:composer/oceancodex/wpsp-core@8.2.0
-- pkg:composer/oceancodex/wpsp-core@8.3.0
-- pkg:composer/oceancodex/wpsp-core@8.4.0
+- pkg:composer/oceancodex/wpsp-core@12.0.0
