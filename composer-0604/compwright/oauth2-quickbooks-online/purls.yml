@@ -1,2 +1,3 @@
 - pkg:composer/compwright/oauth2-quickbooks-online@v1.0.0
 - pkg:composer/compwright/oauth2-quickbooks-online@v1.0.1
+- pkg:composer/compwright/oauth2-quickbooks-online@v2.0.0
