@@ -1,5 +1,6 @@
 - pkg:composer/helori/laravel-cms@2.0.0
 - pkg:composer/helori/laravel-cms@2.0.1
+- pkg:composer/helori/laravel-cms@2.0.10
 - pkg:composer/helori/laravel-cms@2.0.2
 - pkg:composer/helori/laravel-cms@2.0.3
 - pkg:composer/helori/laravel-cms@2.0.4
@@ -8,3 +9,4 @@
 - pkg:composer/helori/laravel-cms@2.0.7
 - pkg:composer/helori/laravel-cms@2.0.8
 - pkg:composer/helori/laravel-cms@v1.0.0
+- pkg:composer/helori/laravel-cms@v2.0.9

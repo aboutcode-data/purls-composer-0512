@@ -1,2 +1,4 @@
 - pkg:composer/haeckel/type_wrapper@1.0.0
 - pkg:composer/haeckel/type_wrapper@1.0.1
+- pkg:composer/haeckel/type_wrapper@1.1
+- pkg:composer/haeckel/type_wrapper@2.0.0
