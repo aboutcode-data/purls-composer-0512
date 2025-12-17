@@ -46,6 +46,7 @@
 - pkg:composer/ameos/ameos_tarteaucitron@3.0.1
 - pkg:composer/ameos/ameos_tarteaucitron@3.1.0
 - pkg:composer/ameos/ameos_tarteaucitron@3.10.0
+- pkg:composer/ameos/ameos_tarteaucitron@3.11.0
 - pkg:composer/ameos/ameos_tarteaucitron@3.2.0
 - pkg:composer/ameos/ameos_tarteaucitron@3.2.1
 - pkg:composer/ameos/ameos_tarteaucitron@3.3.0

@@ -2,7 +2,6 @@
 - pkg:composer/amitdugar/db-tools@1.0.1
 - pkg:composer/amitdugar/db-tools@1.0.10
 - pkg:composer/amitdugar/db-tools@1.0.11
-- pkg:composer/amitdugar/db-tools@1.0.12
 - pkg:composer/amitdugar/db-tools@1.0.13
 - pkg:composer/amitdugar/db-tools@1.0.2
 - pkg:composer/amitdugar/db-tools@1.0.3
@@ -12,3 +11,4 @@
 - pkg:composer/amitdugar/db-tools@1.0.7
 - pkg:composer/amitdugar/db-tools@1.0.8
 - pkg:composer/amitdugar/db-tools@1.0.9
+- pkg:composer/amitdugar/db-tools@v1.0.12
