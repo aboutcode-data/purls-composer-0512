@@ -64,6 +64,8 @@
 - pkg:composer/2lenet/crudit-bundle@1.15.3
 - pkg:composer/2lenet/crudit-bundle@1.15.4
 - pkg:composer/2lenet/crudit-bundle@1.15.5
+- pkg:composer/2lenet/crudit-bundle@1.15.6
+- pkg:composer/2lenet/crudit-bundle@1.15.7
 - pkg:composer/2lenet/crudit-bundle@1.2.22
 - pkg:composer/2lenet/crudit-bundle@1.2.23
 - pkg:composer/2lenet/crudit-bundle@1.2.24
