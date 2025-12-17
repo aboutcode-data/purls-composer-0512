@@ -22,3 +22,4 @@
 - pkg:composer/webignition/symfony-panther-dom-crawler-navigator@0.8
 - pkg:composer/webignition/symfony-panther-dom-crawler-navigator@0.9
 - pkg:composer/webignition/symfony-panther-dom-crawler-navigator@1.0
+- pkg:composer/webignition/symfony-panther-dom-crawler-navigator@2.0
