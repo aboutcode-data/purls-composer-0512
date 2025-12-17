@@ -2,6 +2,7 @@
 - pkg:composer/drupal/lupus_decoupled_recipe@1.0.1
 - pkg:composer/drupal/lupus_decoupled_recipe@1.1.0
 - pkg:composer/drupal/lupus_decoupled_recipe@1.1.1
+- pkg:composer/drupal/lupus_decoupled_recipe@1.2.0
 - pkg:composer/drupal/lupus_decoupled_recipe@2.0.0-alpha1
 - pkg:composer/drupal/lupus_decoupled_recipe@2.0.0-alpha2
 - pkg:composer/drupal/lupus_decoupled_recipe@2.0.0-alpha3
