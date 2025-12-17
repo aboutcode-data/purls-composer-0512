@@ -46,3 +46,4 @@
 - pkg:composer/sonata-project/seo-bundle@3.8.0
 - pkg:composer/sonata-project/seo-bundle@3.8.1
 - pkg:composer/sonata-project/seo-bundle@3.8.2
+- pkg:composer/sonata-project/seo-bundle@3.9.0
