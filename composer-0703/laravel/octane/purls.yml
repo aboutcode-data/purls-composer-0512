@@ -90,6 +90,7 @@
 - pkg:composer/laravel/octane@v2.13.0
 - pkg:composer/laravel/octane@v2.13.1
 - pkg:composer/laravel/octane@v2.13.2
+- pkg:composer/laravel/octane@v2.13.3
 - pkg:composer/laravel/octane@v2.2.0
 - pkg:composer/laravel/octane@v2.2.1
 - pkg:composer/laravel/octane@v2.2.2

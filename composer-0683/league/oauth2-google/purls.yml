@@ -14,5 +14,6 @@
 - pkg:composer/league/oauth2-google@3.0.4
 - pkg:composer/league/oauth2-google@4.0.0
 - pkg:composer/league/oauth2-google@4.0.1
+- pkg:composer/league/oauth2-google@4.1.0
 - pkg:composer/league/oauth2-google@v0.1.0
 - pkg:composer/league/oauth2-google@v0.2.0

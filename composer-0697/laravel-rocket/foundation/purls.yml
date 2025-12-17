@@ -54,4 +54,5 @@
 - pkg:composer/laravel-rocket/foundation@2.7.0
 - pkg:composer/laravel-rocket/foundation@3.0.0
 - pkg:composer/laravel-rocket/foundation@3.1.0
+- pkg:composer/laravel-rocket/foundation@3.1.1
 - pkg:composer/laravel-rocket/foundation@v2.0.3
