@@ -33,6 +33,7 @@
 - pkg:composer/flow-php/etl-adapter-avro@0.26.1
 - pkg:composer/flow-php/etl-adapter-avro@0.27.0
 - pkg:composer/flow-php/etl-adapter-avro@0.28.0
+- pkg:composer/flow-php/etl-adapter-avro@0.29.0
 - pkg:composer/flow-php/etl-adapter-avro@0.3.0
 - pkg:composer/flow-php/etl-adapter-avro@0.3.1
 - pkg:composer/flow-php/etl-adapter-avro@0.3.2
