@@ -70,3 +70,4 @@
 - pkg:composer/codesaur/http-application@v5.7.2
 - pkg:composer/codesaur/http-application@v5.8.0
 - pkg:composer/codesaur/http-application@v5.8.1
+- pkg:composer/codesaur/http-application@v5.9.0
