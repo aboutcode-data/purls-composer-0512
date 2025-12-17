@@ -115,6 +115,7 @@
 - pkg:composer/spryker-shop/cart-page@3.54.0
 - pkg:composer/spryker-shop/cart-page@3.55.0
 - pkg:composer/spryker-shop/cart-page@3.56.0
+- pkg:composer/spryker-shop/cart-page@3.56.1
 - pkg:composer/spryker-shop/cart-page@3.6.0
 - pkg:composer/spryker-shop/cart-page@3.6.1
 - pkg:composer/spryker-shop/cart-page@3.7.0
