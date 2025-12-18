@@ -23,6 +23,7 @@
 - pkg:composer/tochka-developers/jsonrpc-client@v3.0.0-beta3
 - pkg:composer/tochka-developers/jsonrpc-client@v3.0.0-beta4
 - pkg:composer/tochka-developers/jsonrpc-client@v3.0.1
+- pkg:composer/tochka-developers/jsonrpc-client@v3.10.0
 - pkg:composer/tochka-developers/jsonrpc-client@v3.2.0
 - pkg:composer/tochka-developers/jsonrpc-client@v3.2.1
 - pkg:composer/tochka-developers/jsonrpc-client@v3.2.2
