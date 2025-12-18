@@ -45,3 +45,4 @@
 - pkg:composer/auth0/symfony@5.4.0
 - pkg:composer/auth0/symfony@5.4.1
 - pkg:composer/auth0/symfony@5.5.0
+- pkg:composer/auth0/symfony@5.6.0

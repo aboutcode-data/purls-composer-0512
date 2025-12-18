@@ -66,3 +66,4 @@
 - pkg:composer/auth0/wordpress@5.2.1
 - pkg:composer/auth0/wordpress@5.3.0
 - pkg:composer/auth0/wordpress@5.4.0
+- pkg:composer/auth0/wordpress@5.5.0
