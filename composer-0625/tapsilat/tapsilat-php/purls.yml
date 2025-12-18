@@ -1,4 +1,5 @@
 - pkg:composer/tapsilat/tapsilat-php@2025.08.14.1
+- pkg:composer/tapsilat/tapsilat-php@2025.12.18.2
 - pkg:composer/tapsilat/tapsilat-php@v2025.07.14.1
 - pkg:composer/tapsilat/tapsilat-php@v2025.07.14.2
 - pkg:composer/tapsilat/tapsilat-php@v2025.07.14.3
@@ -12,4 +13,6 @@
 - pkg:composer/tapsilat/tapsilat-php@v2025.11.21.1
 - pkg:composer/tapsilat/tapsilat-php@v2025.11.24.1
 - pkg:composer/tapsilat/tapsilat-php@v2025.12.01.1
+- pkg:composer/tapsilat/tapsilat-php@v2025.12.18.3
+- pkg:composer/tapsilat/tapsilat-php@v2025.12.18.4
 - pkg:composer/tapsilat/tapsilat-php@v2025.12.5.1
