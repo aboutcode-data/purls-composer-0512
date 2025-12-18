@@ -35,3 +35,4 @@
 - pkg:composer/codesaur/router@v4.4.2
 - pkg:composer/codesaur/router@v4.5.0
 - pkg:composer/codesaur/router@v4.6.0
+- pkg:composer/codesaur/router@v5.0.0
