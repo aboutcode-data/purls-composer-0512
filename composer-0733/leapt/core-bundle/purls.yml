@@ -105,3 +105,4 @@
 - pkg:composer/leapt/core-bundle@v5.5.0
 - pkg:composer/leapt/core-bundle@v5.5.1
 - pkg:composer/leapt/core-bundle@v5.6.0
+- pkg:composer/leapt/core-bundle@v5.6.1

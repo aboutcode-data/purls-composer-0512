@@ -17,6 +17,7 @@
 - pkg:composer/launchdarkly/api-client-php@18.0.2
 - pkg:composer/launchdarkly/api-client-php@18.1.0
 - pkg:composer/launchdarkly/api-client-php@19.0.0
+- pkg:composer/launchdarkly/api-client-php@20.0.0
 - pkg:composer/launchdarkly/api-client-php@6.0.0
 - pkg:composer/launchdarkly/api-client-php@6.0.1
 - pkg:composer/launchdarkly/api-client-php@7.0.0

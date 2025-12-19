@@ -28,6 +28,7 @@
 - pkg:composer/lakedrops/d10-project-scaffold@1.0.33
 - pkg:composer/lakedrops/d10-project-scaffold@1.0.34
 - pkg:composer/lakedrops/d10-project-scaffold@1.0.35
+- pkg:composer/lakedrops/d10-project-scaffold@1.0.36
 - pkg:composer/lakedrops/d10-project-scaffold@1.0.4
 - pkg:composer/lakedrops/d10-project-scaffold@1.0.5
 - pkg:composer/lakedrops/d10-project-scaffold@1.0.6

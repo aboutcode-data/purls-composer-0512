@@ -70,3 +70,5 @@
 - pkg:composer/laudis/neo4j-php-client@3.2.0
 - pkg:composer/laudis/neo4j-php-client@3.3.0
 - pkg:composer/laudis/neo4j-php-client@3.4.0
+- pkg:composer/laudis/neo4j-php-client@3.4.1
+- pkg:composer/laudis/neo4j-php-client@3.4.2
