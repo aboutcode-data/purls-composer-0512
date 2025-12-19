@@ -232,3 +232,4 @@
 - pkg:composer/ycloudyusa/y_lb@4.0.6-rc2
 - pkg:composer/ycloudyusa/y_lb@4.0.6-rc3
 - pkg:composer/ycloudyusa/y_lb@4.0.6-rc4
+- pkg:composer/ycloudyusa/y_lb@5.0.0

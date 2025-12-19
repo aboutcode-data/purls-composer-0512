@@ -4,3 +4,4 @@
 - pkg:composer/yiisoft/yii-event@1.0.3
 - pkg:composer/yiisoft/yii-event@2.0.0
 - pkg:composer/yiisoft/yii-event@2.1.0
+- pkg:composer/yiisoft/yii-event@2.2.0
