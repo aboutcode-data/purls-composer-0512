@@ -1,1 +1,2 @@
 - pkg:composer/vigilant/healthchecks@1.0.0
+- pkg:composer/vigilant/healthchecks@1.0.1
