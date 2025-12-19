@@ -214,6 +214,7 @@
 - pkg:composer/oojs/ui@v0.51.7
 - pkg:composer/oojs/ui@v0.52.0
 - pkg:composer/oojs/ui@v0.53.0
+- pkg:composer/oojs/ui@v0.53.1
 - pkg:composer/oojs/ui@v0.6.0
 - pkg:composer/oojs/ui@v0.6.1
 - pkg:composer/oojs/ui@v0.6.2
