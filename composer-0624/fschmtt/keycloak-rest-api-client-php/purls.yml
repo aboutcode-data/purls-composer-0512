@@ -41,6 +41,7 @@
 - pkg:composer/fschmtt/keycloak-rest-api-client-php@v0.36.0
 - pkg:composer/fschmtt/keycloak-rest-api-client-php@v0.37.0
 - pkg:composer/fschmtt/keycloak-rest-api-client-php@v0.38.0
+- pkg:composer/fschmtt/keycloak-rest-api-client-php@v0.39.0
 - pkg:composer/fschmtt/keycloak-rest-api-client-php@v0.4.0
 - pkg:composer/fschmtt/keycloak-rest-api-client-php@v0.4.1
 - pkg:composer/fschmtt/keycloak-rest-api-client-php@v0.5.0
