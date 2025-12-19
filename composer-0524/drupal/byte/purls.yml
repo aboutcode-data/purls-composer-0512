@@ -5,3 +5,4 @@
 - pkg:composer/drupal/byte@1.0.0-alpha5
 - pkg:composer/drupal/byte@1.0.0-alpha6
 - pkg:composer/drupal/byte@1.0.0-beta1
+- pkg:composer/drupal/byte@1.0.0-beta2

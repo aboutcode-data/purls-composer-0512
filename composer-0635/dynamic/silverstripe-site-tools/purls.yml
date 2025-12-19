@@ -5,8 +5,6 @@
 - pkg:composer/dynamic/silverstripe-site-tools@1.1.0
 - pkg:composer/dynamic/silverstripe-site-tools@1.1.1
 - pkg:composer/dynamic/silverstripe-site-tools@1.1.2
-- pkg:composer/dynamic/silverstripe-site-tools@2.0.0
-- pkg:composer/dynamic/silverstripe-site-tools@2.0.1
 - pkg:composer/dynamic/silverstripe-site-tools@3.0.0
 - pkg:composer/dynamic/silverstripe-site-tools@4.0.0
 - pkg:composer/dynamic/silverstripe-site-tools@5.0.0
