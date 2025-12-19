@@ -21,3 +21,4 @@
 - pkg:composer/justbetter/statamic-glide-directive@2.7.0
 - pkg:composer/justbetter/statamic-glide-directive@3.0.0
 - pkg:composer/justbetter/statamic-glide-directive@3.0.1
+- pkg:composer/justbetter/statamic-glide-directive@3.0.2
