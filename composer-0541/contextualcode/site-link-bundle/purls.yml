@@ -58,3 +58,5 @@
 - pkg:composer/contextualcode/site-link-bundle@v4.6.8
 - pkg:composer/contextualcode/site-link-bundle@v4.6.9
 - pkg:composer/contextualcode/site-link-bundle@v4.7.0
+- pkg:composer/contextualcode/site-link-bundle@v4.7.1
+- pkg:composer/contextualcode/site-link-bundle@v4.7.2
