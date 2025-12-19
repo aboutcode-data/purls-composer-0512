@@ -50,6 +50,7 @@
 - pkg:composer/coldtrick/group_tools@v21.0
 - pkg:composer/coldtrick/group_tools@v21.0.1
 - pkg:composer/coldtrick/group_tools@v22.0
+- pkg:composer/coldtrick/group_tools@v22.1
 - pkg:composer/coldtrick/group_tools@v3.2
 - pkg:composer/coldtrick/group_tools@v4.0
 - pkg:composer/coldtrick/group_tools@v5.0

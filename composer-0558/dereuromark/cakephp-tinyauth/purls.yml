@@ -47,3 +47,4 @@
 - pkg:composer/dereuromark/cakephp-tinyauth@4.5.3
 - pkg:composer/dereuromark/cakephp-tinyauth@5.0.0
 - pkg:composer/dereuromark/cakephp-tinyauth@5.1.0
+- pkg:composer/dereuromark/cakephp-tinyauth@5.1.1

@@ -4,3 +4,5 @@
 - pkg:composer/deviantintegral/composer-gavel@0.4.0
 - pkg:composer/deviantintegral/composer-gavel@0.4.1
 - pkg:composer/deviantintegral/composer-gavel@0.5.0
+- pkg:composer/deviantintegral/composer-gavel@v0.6.0
+- pkg:composer/deviantintegral/composer-gavel@v1.0.0
