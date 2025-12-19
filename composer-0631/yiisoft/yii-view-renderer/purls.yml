@@ -15,3 +15,4 @@
 - pkg:composer/yiisoft/yii-view-renderer@7.1.0
 - pkg:composer/yiisoft/yii-view-renderer@7.2.0
 - pkg:composer/yiisoft/yii-view-renderer@7.3.0
+- pkg:composer/yiisoft/yii-view-renderer@7.3.1
