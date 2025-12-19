@@ -13,6 +13,8 @@
 - pkg:composer/marein/php-nchan-client@3.0.0
 - pkg:composer/marein/php-nchan-client@3.0.1
 - pkg:composer/marein/php-nchan-client@3.0.2
+- pkg:composer/marein/php-nchan-client@3.0.3
 - pkg:composer/marein/php-nchan-client@3.1.0
 - pkg:composer/marein/php-nchan-client@3.1.1
 - pkg:composer/marein/php-nchan-client@3.1.2
+- pkg:composer/marein/php-nchan-client@3.1.3
