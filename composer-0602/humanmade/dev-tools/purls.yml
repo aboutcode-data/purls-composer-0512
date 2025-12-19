@@ -205,6 +205,7 @@
 - pkg:composer/humanmade/dev-tools@21.0.16
 - pkg:composer/humanmade/dev-tools@21.0.17
 - pkg:composer/humanmade/dev-tools@21.0.18
+- pkg:composer/humanmade/dev-tools@21.0.19
 - pkg:composer/humanmade/dev-tools@21.0.2
 - pkg:composer/humanmade/dev-tools@21.0.3
 - pkg:composer/humanmade/dev-tools@21.0.4
@@ -220,11 +221,13 @@
 - pkg:composer/humanmade/dev-tools@22.0.3
 - pkg:composer/humanmade/dev-tools@22.0.4
 - pkg:composer/humanmade/dev-tools@22.0.5
+- pkg:composer/humanmade/dev-tools@22.0.6
 - pkg:composer/humanmade/dev-tools@23.0.0
 - pkg:composer/humanmade/dev-tools@23.0.0-beta.1
 - pkg:composer/humanmade/dev-tools@23.0.1
 - pkg:composer/humanmade/dev-tools@23.0.10
 - pkg:composer/humanmade/dev-tools@23.0.11
+- pkg:composer/humanmade/dev-tools@23.0.12
 - pkg:composer/humanmade/dev-tools@23.0.2
 - pkg:composer/humanmade/dev-tools@23.0.3
 - pkg:composer/humanmade/dev-tools@23.0.4
@@ -241,8 +244,10 @@
 - pkg:composer/humanmade/dev-tools@24.0.4
 - pkg:composer/humanmade/dev-tools@24.0.5
 - pkg:composer/humanmade/dev-tools@24.0.6
+- pkg:composer/humanmade/dev-tools@24.0.7
 - pkg:composer/humanmade/dev-tools@25.0.0
 - pkg:composer/humanmade/dev-tools@25.0.0-beta.1
+- pkg:composer/humanmade/dev-tools@25.0.1
 - pkg:composer/humanmade/dev-tools@3.0.0
 - pkg:composer/humanmade/dev-tools@3.0.0-beta1
 - pkg:composer/humanmade/dev-tools@3.0.0-beta2

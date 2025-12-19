@@ -5,3 +5,4 @@
 - pkg:composer/hryha/laravel-request-logger@2.2.0
 - pkg:composer/hryha/laravel-request-logger@2.2.1
 - pkg:composer/hryha/laravel-request-logger@3.0.0
+- pkg:composer/hryha/laravel-request-logger@3.1.0
