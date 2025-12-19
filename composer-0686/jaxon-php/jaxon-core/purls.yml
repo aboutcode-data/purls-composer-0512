@@ -193,3 +193,4 @@
 - pkg:composer/jaxon-php/jaxon-core@v5.2.2
 - pkg:composer/jaxon-php/jaxon-core@v5.2.3
 - pkg:composer/jaxon-php/jaxon-core@v5.2.4
+- pkg:composer/jaxon-php/jaxon-core@v5.2.5

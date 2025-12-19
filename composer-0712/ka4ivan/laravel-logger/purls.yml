@@ -16,3 +16,5 @@
 - pkg:composer/ka4ivan/laravel-logger@2.0.0
 - pkg:composer/ka4ivan/laravel-logger@2.0.1
 - pkg:composer/ka4ivan/laravel-logger@2.0.2
+- pkg:composer/ka4ivan/laravel-logger@3.0.0
+- pkg:composer/ka4ivan/laravel-logger@3.0.1

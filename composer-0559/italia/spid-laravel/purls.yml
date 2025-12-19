@@ -39,3 +39,4 @@
 - pkg:composer/italia/spid-laravel@v2.0.2-beta
 - pkg:composer/italia/spid-laravel@v2.0.3-beta
 - pkg:composer/italia/spid-laravel@v2.0.4-beta
+- pkg:composer/italia/spid-laravel@v2.1.0-beta
