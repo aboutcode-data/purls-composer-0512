@@ -17,6 +17,7 @@
 - pkg:composer/pingencom/pingen2-sdk-php@2.19.0
 - pkg:composer/pingencom/pingen2-sdk-php@2.19.1
 - pkg:composer/pingencom/pingen2-sdk-php@2.2.0
+- pkg:composer/pingencom/pingen2-sdk-php@2.20.0
 - pkg:composer/pingencom/pingen2-sdk-php@2.3.0
 - pkg:composer/pingencom/pingen2-sdk-php@2.4.0
 - pkg:composer/pingencom/pingen2-sdk-php@2.5.0

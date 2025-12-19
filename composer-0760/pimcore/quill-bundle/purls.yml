@@ -11,3 +11,4 @@
 - pkg:composer/pimcore/quill-bundle@v2.1.2
 - pkg:composer/pimcore/quill-bundle@v2.2.0
 - pkg:composer/pimcore/quill-bundle@v2.2.1
+- pkg:composer/pimcore/quill-bundle@v2.2.2

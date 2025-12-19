@@ -155,3 +155,5 @@
 - pkg:composer/php-cs-fixer/shim@v3.91.3
 - pkg:composer/php-cs-fixer/shim@v3.92.0
 - pkg:composer/php-cs-fixer/shim@v3.92.1
+- pkg:composer/php-cs-fixer/shim@v3.92.2
+- pkg:composer/php-cs-fixer/shim@v3.92.3
