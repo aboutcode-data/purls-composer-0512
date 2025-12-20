@@ -5,3 +5,4 @@
 - pkg:composer/henryavila/laravel-nova-email-tracking@v2.0.3
 - pkg:composer/henryavila/laravel-nova-email-tracking@v3.0.0
 - pkg:composer/henryavila/laravel-nova-email-tracking@v3.1.0
+- pkg:composer/henryavila/laravel-nova-email-tracking@v3.2.0
