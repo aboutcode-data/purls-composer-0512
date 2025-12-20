@@ -5,6 +5,7 @@
 - pkg:composer/knplabs/knp-snappy-bundle@v1.10.2
 - pkg:composer/knplabs/knp-snappy-bundle@v1.10.3
 - pkg:composer/knplabs/knp-snappy-bundle@v1.10.4
+- pkg:composer/knplabs/knp-snappy-bundle@v1.10.5
 - pkg:composer/knplabs/knp-snappy-bundle@v1.2
 - pkg:composer/knplabs/knp-snappy-bundle@v1.3
 - pkg:composer/knplabs/knp-snappy-bundle@v1.4
