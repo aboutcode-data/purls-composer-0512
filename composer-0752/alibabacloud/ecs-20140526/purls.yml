@@ -95,3 +95,4 @@
 - pkg:composer/alibabacloud/ecs-20140526@7.2.3
 - pkg:composer/alibabacloud/ecs-20140526@7.3.0
 - pkg:composer/alibabacloud/ecs-20140526@7.4.0
+- pkg:composer/alibabacloud/ecs-20140526@7.4.1
