@@ -322,6 +322,7 @@
 - pkg:composer/ecotone/amqp@1.281.1
 - pkg:composer/ecotone/amqp@1.281.2
 - pkg:composer/ecotone/amqp@1.282.0
+- pkg:composer/ecotone/amqp@1.283.0
 - pkg:composer/ecotone/amqp@1.29.0
 - pkg:composer/ecotone/amqp@1.30.0
 - pkg:composer/ecotone/amqp@1.30.1
