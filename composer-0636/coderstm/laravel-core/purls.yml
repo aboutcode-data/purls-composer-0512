@@ -10,3 +10,4 @@
 - pkg:composer/coderstm/laravel-core@v6.2.3
 - pkg:composer/coderstm/laravel-core@v6.2.4
 - pkg:composer/coderstm/laravel-core@v6.3.1
+- pkg:composer/coderstm/laravel-core@v6.3.13
