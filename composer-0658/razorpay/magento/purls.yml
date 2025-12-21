@@ -69,4 +69,5 @@
 - pkg:composer/razorpay/magento@4.1.7
 - pkg:composer/razorpay/magento@4.1.8
 - pkg:composer/razorpay/magento@4.1.9
+- pkg:composer/razorpay/magento@4.2.0
 - pkg:composer/razorpay/magento@v2.2.0

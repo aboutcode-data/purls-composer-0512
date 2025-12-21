@@ -44,3 +44,4 @@
 - pkg:composer/pocketmine/bedrock-data@6.0.0%2Bbedrock-1.21.100
 - pkg:composer/pocketmine/bedrock-data@6.1.0%2Bbedrock-1.21.111
 - pkg:composer/pocketmine/bedrock-data@6.2.0%2Bbedrock-1.21.120
+- pkg:composer/pocketmine/bedrock-data@6.3.0%2Bbedrock-1.21.130
