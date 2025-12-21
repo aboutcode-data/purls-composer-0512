@@ -7,6 +7,7 @@
 - pkg:composer/celysium/cache@1.14
 - pkg:composer/celysium/cache@1.15
 - pkg:composer/celysium/cache@1.16
+- pkg:composer/celysium/cache@1.17
 - pkg:composer/celysium/cache@1.2
 - pkg:composer/celysium/cache@1.3
 - pkg:composer/celysium/cache@1.4
