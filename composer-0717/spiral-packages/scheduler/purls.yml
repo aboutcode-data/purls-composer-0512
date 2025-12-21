@@ -10,3 +10,4 @@
 - pkg:composer/spiral-packages/scheduler@2.5.0
 - pkg:composer/spiral-packages/scheduler@2.6.0
 - pkg:composer/spiral-packages/scheduler@2.6.1
+- pkg:composer/spiral-packages/scheduler@2.7.0

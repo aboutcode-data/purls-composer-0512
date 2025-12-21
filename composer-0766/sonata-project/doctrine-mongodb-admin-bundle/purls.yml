@@ -25,6 +25,7 @@
 - pkg:composer/sonata-project/doctrine-mongodb-admin-bundle@4.1.1
 - pkg:composer/sonata-project/doctrine-mongodb-admin-bundle@4.10.0
 - pkg:composer/sonata-project/doctrine-mongodb-admin-bundle@4.11.0
+- pkg:composer/sonata-project/doctrine-mongodb-admin-bundle@4.12.0
 - pkg:composer/sonata-project/doctrine-mongodb-admin-bundle@4.2.0
 - pkg:composer/sonata-project/doctrine-mongodb-admin-bundle@4.3.0
 - pkg:composer/sonata-project/doctrine-mongodb-admin-bundle@4.3.1
