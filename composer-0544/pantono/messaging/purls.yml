@@ -36,6 +36,7 @@
 - pkg:composer/pantono/messaging@v0.0.42
 - pkg:composer/pantono/messaging@v0.0.43
 - pkg:composer/pantono/messaging@v0.0.44
+- pkg:composer/pantono/messaging@v0.0.45
 - pkg:composer/pantono/messaging@v0.0.5
 - pkg:composer/pantono/messaging@v0.0.6
 - pkg:composer/pantono/messaging@v0.0.7

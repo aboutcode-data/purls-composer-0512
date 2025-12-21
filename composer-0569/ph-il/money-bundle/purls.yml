@@ -37,3 +37,5 @@
 - pkg:composer/ph-il/money-bundle@v6.3.1
 - pkg:composer/ph-il/money-bundle@v6.3.2
 - pkg:composer/ph-il/money-bundle@v6.3.3
+- pkg:composer/ph-il/money-bundle@v6.4.0
+- pkg:composer/ph-il/money-bundle@v6.4.1
