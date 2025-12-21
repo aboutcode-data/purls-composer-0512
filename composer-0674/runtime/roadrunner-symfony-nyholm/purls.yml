@@ -4,3 +4,4 @@
 - pkg:composer/runtime/roadrunner-symfony-nyholm@0.3.0
 - pkg:composer/runtime/roadrunner-symfony-nyholm@0.3.1
 - pkg:composer/runtime/roadrunner-symfony-nyholm@0.4.0
+- pkg:composer/runtime/roadrunner-symfony-nyholm@1.0.0

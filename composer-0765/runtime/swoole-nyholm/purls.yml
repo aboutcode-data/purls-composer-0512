@@ -1,3 +1,4 @@
 - pkg:composer/runtime/swoole-nyholm@0.1.0
 - pkg:composer/runtime/swoole-nyholm@0.1.1
 - pkg:composer/runtime/swoole-nyholm@0.2.0
+- pkg:composer/runtime/swoole-nyholm@1.0.0
