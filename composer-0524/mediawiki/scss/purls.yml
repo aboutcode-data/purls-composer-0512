@@ -11,3 +11,4 @@
 - pkg:composer/mediawiki/scss@3.0.0
 - pkg:composer/mediawiki/scss@3.0.1
 - pkg:composer/mediawiki/scss@4.0.0
+- pkg:composer/mediawiki/scss@5.0.0
