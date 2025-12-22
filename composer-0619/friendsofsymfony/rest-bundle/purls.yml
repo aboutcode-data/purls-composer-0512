@@ -94,3 +94,4 @@
 - pkg:composer/friendsofsymfony/rest-bundle@3.7.0
 - pkg:composer/friendsofsymfony/rest-bundle@3.7.1
 - pkg:composer/friendsofsymfony/rest-bundle@3.8.0
+- pkg:composer/friendsofsymfony/rest-bundle@3.9.0-beta1
