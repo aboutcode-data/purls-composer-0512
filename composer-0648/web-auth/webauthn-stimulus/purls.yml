@@ -52,5 +52,6 @@
 - pkg:composer/web-auth/webauthn-stimulus@5.2.0
 - pkg:composer/web-auth/webauthn-stimulus@5.2.1
 - pkg:composer/web-auth/webauthn-stimulus@5.2.2
+- pkg:composer/web-auth/webauthn-stimulus@5.2.3
 - pkg:composer/web-auth/webauthn-stimulus@v4.0.4
 - pkg:composer/web-auth/webauthn-stimulus@v4.0.5
