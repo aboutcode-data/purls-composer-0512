@@ -5,6 +5,7 @@
 - pkg:composer/enqueue/test@0.10.16
 - pkg:composer/enqueue/test@0.10.2
 - pkg:composer/enqueue/test@0.10.25
+- pkg:composer/enqueue/test@0.10.27
 - pkg:composer/enqueue/test@0.10.7
 - pkg:composer/enqueue/test@0.2.0
 - pkg:composer/enqueue/test@0.2.1

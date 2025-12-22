@@ -8,6 +8,7 @@
 - pkg:composer/enqueue/rdkafka@0.10.20
 - pkg:composer/enqueue/rdkafka@0.10.25
 - pkg:composer/enqueue/rdkafka@0.10.26
+- pkg:composer/enqueue/rdkafka@0.10.27
 - pkg:composer/enqueue/rdkafka@0.10.3
 - pkg:composer/enqueue/rdkafka@0.10.4
 - pkg:composer/enqueue/rdkafka@0.10.5
