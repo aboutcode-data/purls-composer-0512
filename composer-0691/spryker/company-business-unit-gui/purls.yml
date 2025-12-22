@@ -12,6 +12,7 @@
 - pkg:composer/spryker/company-business-unit-gui@2.12.1
 - pkg:composer/spryker/company-business-unit-gui@2.13.0
 - pkg:composer/spryker/company-business-unit-gui@2.14.0
+- pkg:composer/spryker/company-business-unit-gui@2.15.0
 - pkg:composer/spryker/company-business-unit-gui@2.2.0
 - pkg:composer/spryker/company-business-unit-gui@2.2.1
 - pkg:composer/spryker/company-business-unit-gui@2.3.0
