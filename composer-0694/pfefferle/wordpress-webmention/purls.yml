@@ -57,3 +57,4 @@
 - pkg:composer/pfefferle/wordpress-webmention@5.4.1
 - pkg:composer/pfefferle/wordpress-webmention@5.5.0
 - pkg:composer/pfefferle/wordpress-webmention@5.6.0
+- pkg:composer/pfefferle/wordpress-webmention@5.6.1

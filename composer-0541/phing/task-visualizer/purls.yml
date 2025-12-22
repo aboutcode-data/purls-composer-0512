@@ -3,6 +3,7 @@
 - pkg:composer/phing/task-visualizer@3.0.0-rc6
 - pkg:composer/phing/task-visualizer@3.0.1
 - pkg:composer/phing/task-visualizer@3.1.0
+- pkg:composer/phing/task-visualizer@3.1.1
 - pkg:composer/phing/task-visualizer@v1.0.0
 - pkg:composer/phing/task-visualizer@v1.1.0
 - pkg:composer/phing/task-visualizer@v1.2.0
