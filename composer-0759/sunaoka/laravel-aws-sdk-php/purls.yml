@@ -4,3 +4,4 @@
 - pkg:composer/sunaoka/laravel-aws-sdk-php@1.3.0
 - pkg:composer/sunaoka/laravel-aws-sdk-php@1.3.1
 - pkg:composer/sunaoka/laravel-aws-sdk-php@1.4.0
+- pkg:composer/sunaoka/laravel-aws-sdk-php@1.4.1

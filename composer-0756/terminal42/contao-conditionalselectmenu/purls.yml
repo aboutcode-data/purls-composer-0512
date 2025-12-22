@@ -12,3 +12,4 @@
 - pkg:composer/terminal42/contao-conditionalselectmenu@4.0.4
 - pkg:composer/terminal42/contao-conditionalselectmenu@4.1.0
 - pkg:composer/terminal42/contao-conditionalselectmenu@4.2.0
+- pkg:composer/terminal42/contao-conditionalselectmenu@4.2.1

@@ -2,6 +2,7 @@
 - pkg:composer/sypex/geo@0.2.0
 - pkg:composer/sypex/geo@0.3.0
 - pkg:composer/sypex/geo@0.3.1
+- pkg:composer/sypex/geo@0.3.2
 - pkg:composer/sypex/geo@v0.1.0
 - pkg:composer/sypex/geo@v0.1.1
 - pkg:composer/sypex/geo@v0.1.2
