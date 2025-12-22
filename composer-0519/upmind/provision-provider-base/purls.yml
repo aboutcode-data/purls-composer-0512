@@ -27,6 +27,7 @@
 - pkg:composer/upmind/provision-provider-base@v3.7.4
 - pkg:composer/upmind/provision-provider-base@v3.7.5
 - pkg:composer/upmind/provision-provider-base@v3.7.6
+- pkg:composer/upmind/provision-provider-base@v3.7.7
 - pkg:composer/upmind/provision-provider-base@v4.0
 - pkg:composer/upmind/provision-provider-base@v4.0.1
 - pkg:composer/upmind/provision-provider-base@v4.1
@@ -37,3 +38,4 @@
 - pkg:composer/upmind/provision-provider-base@v4.3.1
 - pkg:composer/upmind/provision-provider-base@v4.3.2
 - pkg:composer/upmind/provision-provider-base@v4.3.3
+- pkg:composer/upmind/provision-provider-base@v4.3.4
