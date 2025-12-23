@@ -11,6 +11,7 @@
 - pkg:composer/marekskopal/typo3-core@v13.4.11
 - pkg:composer/marekskopal/typo3-core@v13.4.12
 - pkg:composer/marekskopal/typo3-core@v13.4.13
+- pkg:composer/marekskopal/typo3-core@v13.4.14
 - pkg:composer/marekskopal/typo3-core@v13.4.2
 - pkg:composer/marekskopal/typo3-core@v13.4.3
 - pkg:composer/marekskopal/typo3-core@v13.4.4
