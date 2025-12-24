@@ -1,0 +1,2 @@
+- pkg:composer/rocksolid/flysystem-azure-blob-storage@v1
+- pkg:composer/rocksolid/flysystem-azure-blob-storage@v1.0.1

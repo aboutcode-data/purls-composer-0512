@@ -1,4 +1,6 @@
-- pkg:composer/saucebase/module-installer@v1.0
-- pkg:composer/saucebase/module-installer@v1.1
-- pkg:composer/saucebase/module-installer@v1.2
-- pkg:composer/saucebase/module-installer@v1.3
+- pkg:composer/saucebase/module-installer@v0.0.1
+- pkg:composer/saucebase/module-installer@v0.0.2
+- pkg:composer/saucebase/module-installer@v0.0.3
+- pkg:composer/saucebase/module-installer@v0.0.4
+- pkg:composer/saucebase/module-installer@v0.0.5
+- pkg:composer/saucebase/module-installer@v0.0.6
