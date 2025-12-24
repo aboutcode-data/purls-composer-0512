@@ -369,4 +369,5 @@
 - pkg:composer/moonshine/moonshine@4.2.0
 - pkg:composer/moonshine/moonshine@4.2.1
 - pkg:composer/moonshine/moonshine@4.2.2
+- pkg:composer/moonshine/moonshine@4.3.0
 - pkg:composer/moonshine/moonshine@v2.23.4
