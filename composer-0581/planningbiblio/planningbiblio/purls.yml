@@ -159,6 +159,7 @@
 - pkg:composer/planningbiblio/planningbiblio@v25.04.12
 - pkg:composer/planningbiblio/planningbiblio@v25.04.13
 - pkg:composer/planningbiblio/planningbiblio@v25.04.14
+- pkg:composer/planningbiblio/planningbiblio@v25.04.15
 - pkg:composer/planningbiblio/planningbiblio@v25.10.00
 - pkg:composer/planningbiblio/planningbiblio@v25.10.01
 - pkg:composer/planningbiblio/planningbiblio@v25.10.02
@@ -169,3 +170,4 @@
 - pkg:composer/planningbiblio/planningbiblio@v25.10.07
 - pkg:composer/planningbiblio/planningbiblio@v25.10.08
 - pkg:composer/planningbiblio/planningbiblio@v25.10.09
+- pkg:composer/planningbiblio/planningbiblio@v25.10.10
