@@ -318,6 +318,9 @@
 - pkg:composer/team-reflex/discord-php@v10.41.7
 - pkg:composer/team-reflex/discord-php@v10.41.8
 - pkg:composer/team-reflex/discord-php@v10.41.9
+- pkg:composer/team-reflex/discord-php@v10.42.0
+- pkg:composer/team-reflex/discord-php@v10.42.1
+- pkg:composer/team-reflex/discord-php@v10.42.2
 - pkg:composer/team-reflex/discord-php@v10.5.0
 - pkg:composer/team-reflex/discord-php@v10.5.1
 - pkg:composer/team-reflex/discord-php@v10.5.2

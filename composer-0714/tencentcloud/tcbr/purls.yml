@@ -402,6 +402,8 @@
 - pkg:composer/tencentcloud/tcbr@3.0.1451
 - pkg:composer/tencentcloud/tcbr@3.0.1460
 - pkg:composer/tencentcloud/tcbr@3.0.1492
+- pkg:composer/tencentcloud/tcbr@3.0.1508
+- pkg:composer/tencentcloud/tcbr@3.0.1509
 - pkg:composer/tencentcloud/tcbr@3.0.651
 - pkg:composer/tencentcloud/tcbr@3.0.652
 - pkg:composer/tencentcloud/tcbr@3.0.653
