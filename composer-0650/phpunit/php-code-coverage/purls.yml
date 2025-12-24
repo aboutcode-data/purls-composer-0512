@@ -39,6 +39,7 @@
 - pkg:composer/phpunit/php-code-coverage@11.0.1
 - pkg:composer/phpunit/php-code-coverage@11.0.10
 - pkg:composer/phpunit/php-code-coverage@11.0.11
+- pkg:composer/phpunit/php-code-coverage@11.0.12
 - pkg:composer/phpunit/php-code-coverage@11.0.2
 - pkg:composer/phpunit/php-code-coverage@11.0.3
 - pkg:composer/phpunit/php-code-coverage@11.0.4
@@ -70,6 +71,7 @@
 - pkg:composer/phpunit/php-code-coverage@12.4.0
 - pkg:composer/phpunit/php-code-coverage@12.5.0
 - pkg:composer/phpunit/php-code-coverage@12.5.1
+- pkg:composer/phpunit/php-code-coverage@12.5.2
 - pkg:composer/phpunit/php-code-coverage@2.0.0
 - pkg:composer/phpunit/php-code-coverage@2.0.1
 - pkg:composer/phpunit/php-code-coverage@2.0.10
