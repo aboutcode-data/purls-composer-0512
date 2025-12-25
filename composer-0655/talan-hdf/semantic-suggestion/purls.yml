@@ -23,3 +23,4 @@
 - pkg:composer/talan-hdf/semantic-suggestion@3.1.1
 - pkg:composer/talan-hdf/semantic-suggestion@3.2.0
 - pkg:composer/talan-hdf/semantic-suggestion@3.3.0
+- pkg:composer/talan-hdf/semantic-suggestion@4.0.0
