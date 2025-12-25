@@ -10,3 +10,6 @@
 - pkg:composer/paigejulianne/picoorm@1.6.0
 - pkg:composer/paigejulianne/picoorm@1.7-alpha
 - pkg:composer/paigejulianne/picoorm@1.7.1-alpha
+- pkg:composer/paigejulianne/picoorm@2.0.0
+- pkg:composer/paigejulianne/picoorm@2.1.0
+- pkg:composer/paigejulianne/picoorm@2.1.1
