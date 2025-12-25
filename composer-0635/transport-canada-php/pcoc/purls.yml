@@ -10,3 +10,5 @@
 - pkg:composer/transport-canada-php/pcoc@2.0.1
 - pkg:composer/transport-canada-php/pcoc@2.0.2
 - pkg:composer/transport-canada-php/pcoc@2.1.0
+- pkg:composer/transport-canada-php/pcoc@2.2.0
+- pkg:composer/transport-canada-php/pcoc@2.2.1
