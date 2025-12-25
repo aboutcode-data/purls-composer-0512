@@ -12,3 +12,4 @@
 - pkg:composer/jaxon-php/jaxon-utils@v1.1.5
 - pkg:composer/jaxon-php/jaxon-utils@v2.0.0
 - pkg:composer/jaxon-php/jaxon-utils@v2.0.1
+- pkg:composer/jaxon-php/jaxon-utils@v2.1.0
