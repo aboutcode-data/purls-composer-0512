@@ -32,3 +32,4 @@
 - pkg:composer/nadar/quill-delta-parser@3.4.1
 - pkg:composer/nadar/quill-delta-parser@3.4.2
 - pkg:composer/nadar/quill-delta-parser@3.5.0
+- pkg:composer/nadar/quill-delta-parser@3.6.0

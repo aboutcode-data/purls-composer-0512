@@ -17,3 +17,4 @@
 - pkg:composer/moonshine/core@3.9.0
 - pkg:composer/moonshine/core@4.0.0
 - pkg:composer/moonshine/core@4.1.0
+- pkg:composer/moonshine/core@4.3.1
