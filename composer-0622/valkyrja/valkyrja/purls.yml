@@ -53,4 +53,6 @@
 - pkg:composer/valkyrja/valkyrja@v25.3.3
 - pkg:composer/valkyrja/valkyrja@v25.3.4
 - pkg:composer/valkyrja/valkyrja@v25.4.0
+- pkg:composer/valkyrja/valkyrja@v25.4.1
+- pkg:composer/valkyrja/valkyrja@v25.5.0
 - pkg:composer/valkyrja/valkyrja@v3.0.0
