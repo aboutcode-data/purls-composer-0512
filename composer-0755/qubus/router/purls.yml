@@ -19,3 +19,4 @@
 - pkg:composer/qubus/router@v4.1.0
 - pkg:composer/qubus/router@v4.2.0
 - pkg:composer/qubus/router@v4.2.1
+- pkg:composer/qubus/router@v4.2.2
