@@ -7,3 +7,4 @@
 - pkg:composer/citricguy/postmark-webhooks-laravel@v1.1.1
 - pkg:composer/citricguy/postmark-webhooks-laravel@v1.1.1-beta
 - pkg:composer/citricguy/postmark-webhooks-laravel@v1.1.2
+- pkg:composer/citricguy/postmark-webhooks-laravel@v2.0.0

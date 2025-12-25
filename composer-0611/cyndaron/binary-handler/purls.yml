@@ -1,3 +1,4 @@
 - pkg:composer/cyndaron/binary-handler@v1
 - pkg:composer/cyndaron/binary-handler@v1.1
 - pkg:composer/cyndaron/binary-handler@v2
+- pkg:composer/cyndaron/binary-handler@v3
