@@ -11,5 +11,7 @@
 - pkg:composer/xima/xima-typo3-frontend-edit@1.7.0
 - pkg:composer/xima/xima-typo3-frontend-edit@1.7.1
 - pkg:composer/xima/xima-typo3-frontend-edit@1.7.2
+- pkg:composer/xima/xima-typo3-frontend-edit@2.0.0
+- pkg:composer/xima/xima-typo3-frontend-edit@2.0.1
 - pkg:composer/xima/xima-typo3-frontend-edit@v1.0.0
 - pkg:composer/xima/xima-typo3-frontend-edit@v1.3.1

@@ -13,3 +13,4 @@
 - pkg:composer/yiisoft/yii-console@2.3.0
 - pkg:composer/yiisoft/yii-console@2.4.0
 - pkg:composer/yiisoft/yii-console@2.4.1
+- pkg:composer/yiisoft/yii-console@2.4.2

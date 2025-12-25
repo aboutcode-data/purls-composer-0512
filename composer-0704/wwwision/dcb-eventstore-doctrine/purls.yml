@@ -17,3 +17,4 @@
 - pkg:composer/wwwision/dcb-eventstore-doctrine@4.2.0
 - pkg:composer/wwwision/dcb-eventstore-doctrine@4.3.0
 - pkg:composer/wwwision/dcb-eventstore-doctrine@5.0-beta-1
+- pkg:composer/wwwision/dcb-eventstore-doctrine@5.0.0

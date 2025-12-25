@@ -91,6 +91,7 @@
 - pkg:composer/youwe/testing-suite@2.7.0
 - pkg:composer/youwe/testing-suite@2.8.0
 - pkg:composer/youwe/testing-suite@2.9.0
+- pkg:composer/youwe/testing-suite@3.0.0
 - pkg:composer/youwe/testing-suite@3.0.0-rc1
 - pkg:composer/youwe/testing-suite@3.0.0-rc2
 - pkg:composer/youwe/testing-suite@3.0.0-rc3
