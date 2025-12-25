@@ -158,6 +158,7 @@
 - pkg:composer/bailing/helper@v3.0.517
 - pkg:composer/bailing/helper@v3.0.518
 - pkg:composer/bailing/helper@v3.0.519
+- pkg:composer/bailing/helper@v3.0.520
 - pkg:composer/bailing/helper@v3.0.54
 - pkg:composer/bailing/helper@v3.0.56
 - pkg:composer/bailing/helper@v3.0.57
@@ -322,6 +323,7 @@
 - pkg:composer/bailing/helper@v3.1.598
 - pkg:composer/bailing/helper@v3.1.599
 - pkg:composer/bailing/helper@v3.1.60
+- pkg:composer/bailing/helper@v3.1.600
 - pkg:composer/bailing/helper@v3.1.63
 - pkg:composer/bailing/helper@v3.1.68
 - pkg:composer/bailing/helper@v3.1.7
