@@ -18,3 +18,4 @@
 - pkg:composer/fusio/adapter-memcache@v6.0.2
 - pkg:composer/fusio/adapter-memcache@v6.0.3
 - pkg:composer/fusio/adapter-memcache@v6.1.0
+- pkg:composer/fusio/adapter-memcache@v6.2.0

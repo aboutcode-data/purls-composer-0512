@@ -104,6 +104,8 @@
 - pkg:composer/gemvc/library@5.2.0-alpha15
 - pkg:composer/gemvc/library@5.2.0-alpha16
 - pkg:composer/gemvc/library@5.2.0-alpha17
+- pkg:composer/gemvc/library@5.2.0-alpha18
+- pkg:composer/gemvc/library@5.2.0-alpha19
 - pkg:composer/gemvc/library@5.2.0-alpha2
 - pkg:composer/gemvc/library@5.2.0-alpha3
 - pkg:composer/gemvc/library@5.2.0-alpha4
