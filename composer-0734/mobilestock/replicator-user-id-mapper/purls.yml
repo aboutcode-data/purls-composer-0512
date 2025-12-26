@@ -226,6 +226,8 @@
 - pkg:composer/mobilestock/replicator-user-id-mapper@v1.0.300
 - pkg:composer/mobilestock/replicator-user-id-mapper@v1.0.301
 - pkg:composer/mobilestock/replicator-user-id-mapper@v1.0.302
+- pkg:composer/mobilestock/replicator-user-id-mapper@v1.0.303
+- pkg:composer/mobilestock/replicator-user-id-mapper@v1.0.304
 - pkg:composer/mobilestock/replicator-user-id-mapper@v1.0.31
 - pkg:composer/mobilestock/replicator-user-id-mapper@v1.0.32
 - pkg:composer/mobilestock/replicator-user-id-mapper@v1.0.33
