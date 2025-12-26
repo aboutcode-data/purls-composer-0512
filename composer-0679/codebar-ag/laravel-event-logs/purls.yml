@@ -3,3 +3,5 @@
 - pkg:composer/codebar-ag/laravel-event-logs@v12.1
 - pkg:composer/codebar-ag/laravel-event-logs@v12.2
 - pkg:composer/codebar-ag/laravel-event-logs@v12.3
+- pkg:composer/codebar-ag/laravel-event-logs@v12.4
+- pkg:composer/codebar-ag/laravel-event-logs@v12.4.1

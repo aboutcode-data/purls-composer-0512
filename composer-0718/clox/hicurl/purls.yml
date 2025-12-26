@@ -27,6 +27,7 @@
 - pkg:composer/clox/hicurl@v3.12.0
 - pkg:composer/clox/hicurl@v3.13.0
 - pkg:composer/clox/hicurl@v3.14.0
+- pkg:composer/clox/hicurl@v3.15.0
 - pkg:composer/clox/hicurl@v3.3.0
 - pkg:composer/clox/hicurl@v3.4.0
 - pkg:composer/clox/hicurl@v3.5.0
