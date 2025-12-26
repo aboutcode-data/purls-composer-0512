@@ -10,3 +10,4 @@
 - pkg:composer/eureka/component-console@6.1.0
 - pkg:composer/eureka/component-console@6.2.0
 - pkg:composer/eureka/component-console@6.3.0
+- pkg:composer/eureka/component-console@7.0.0
