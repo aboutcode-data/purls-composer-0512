@@ -2,3 +2,4 @@
 - pkg:composer/wnx/laravel-tfa-confirmation@v0.1.1
 - pkg:composer/wnx/laravel-tfa-confirmation@v1.0.0
 - pkg:composer/wnx/laravel-tfa-confirmation@v1.0.1
+- pkg:composer/wnx/laravel-tfa-confirmation@v1.0.2
