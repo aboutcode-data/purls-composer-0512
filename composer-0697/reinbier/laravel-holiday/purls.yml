@@ -14,3 +14,4 @@
 - pkg:composer/reinbier/laravel-holiday@v2.1.2
 - pkg:composer/reinbier/laravel-holiday@v2.1.3
 - pkg:composer/reinbier/laravel-holiday@v2.2.0
+- pkg:composer/reinbier/laravel-holiday@v3.0.0
