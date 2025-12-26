@@ -21,3 +21,6 @@
 - pkg:composer/discord-php-extended/discordphp-mtg@v0.8.0
 - pkg:composer/discord-php-extended/discordphp-mtg@v0.8.1
 - pkg:composer/discord-php-extended/discordphp-mtg@v0.8.3
+- pkg:composer/discord-php-extended/discordphp-mtg@v0.8.4
+- pkg:composer/discord-php-extended/discordphp-mtg@v0.8.5
+- pkg:composer/discord-php-extended/discordphp-mtg@v0.8.6

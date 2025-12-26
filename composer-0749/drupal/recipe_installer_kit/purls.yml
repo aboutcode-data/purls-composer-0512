@@ -7,3 +7,4 @@
 - pkg:composer/drupal/recipe_installer_kit@1.0.0-alpha6
 - pkg:composer/drupal/recipe_installer_kit@1.0.0-alpha7
 - pkg:composer/drupal/recipe_installer_kit@1.0.0-alpha8
+- pkg:composer/drupal/recipe_installer_kit@1.0.1
