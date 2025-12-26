@@ -16,3 +16,4 @@
 - pkg:composer/alibabacloud/clickhouse-20230522@2.2.0
 - pkg:composer/alibabacloud/clickhouse-20230522@2.2.1
 - pkg:composer/alibabacloud/clickhouse-20230522@2.3.0
+- pkg:composer/alibabacloud/clickhouse-20230522@2.4.0
