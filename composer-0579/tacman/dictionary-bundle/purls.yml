@@ -6,6 +6,7 @@
 - pkg:composer/tacman/dictionary-bundle@4.0.7
 - pkg:composer/tacman/dictionary-bundle@4.0.8
 - pkg:composer/tacman/dictionary-bundle@4.0.9
+- pkg:composer/tacman/dictionary-bundle@5.0.0
 - pkg:composer/tacman/dictionary-bundle@v1.0.0
 - pkg:composer/tacman/dictionary-bundle@v1.1.0
 - pkg:composer/tacman/dictionary-bundle@v1.1.1
