@@ -2,3 +2,4 @@
 - pkg:composer/stefanfroemken/mysql-widget@0.2.1
 - pkg:composer/stefanfroemken/mysql-widget@1.0.0
 - pkg:composer/stefanfroemken/mysql-widget@1.0.1
+- pkg:composer/stefanfroemken/mysql-widget@2.0.0
