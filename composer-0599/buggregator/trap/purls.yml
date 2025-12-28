@@ -38,6 +38,7 @@
 - pkg:composer/buggregator/trap@1.13.9
 - pkg:composer/buggregator/trap@1.14.0
 - pkg:composer/buggregator/trap@1.15.0
+- pkg:composer/buggregator/trap@1.15.1
 - pkg:composer/buggregator/trap@1.2.0
 - pkg:composer/buggregator/trap@1.2.1
 - pkg:composer/buggregator/trap@1.2.2
