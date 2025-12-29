@@ -2,3 +2,5 @@
 - pkg:composer/datatables.net/datatables.net-datetime@1.5.4
 - pkg:composer/datatables.net/datatables.net-datetime@1.6.0
 - pkg:composer/datatables.net/datatables.net-datetime@1.6.1
+- pkg:composer/datatables.net/datatables.net-datetime@1.6.2
+- pkg:composer/datatables.net/datatables.net-datetime@1.6.3
