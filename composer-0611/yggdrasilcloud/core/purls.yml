@@ -22,3 +22,4 @@
 - pkg:composer/yggdrasilcloud/core@v0.7.0
 - pkg:composer/yggdrasilcloud/core@v0.8.0
 - pkg:composer/yggdrasilcloud/core@v0.9.0
+- pkg:composer/yggdrasilcloud/core@v0.9.1
