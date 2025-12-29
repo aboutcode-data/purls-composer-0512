@@ -25,3 +25,4 @@
 - pkg:composer/sunaoka/laravel-postgres-extension@v3.2.4
 - pkg:composer/sunaoka/laravel-postgres-extension@v4.0.0
 - pkg:composer/sunaoka/laravel-postgres-extension@v4.0.1
+- pkg:composer/sunaoka/laravel-postgres-extension@v4.1.0
