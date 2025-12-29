@@ -101,3 +101,4 @@
 - pkg:composer/vich/uploader-bundle@v2.8.1
 - pkg:composer/vich/uploader-bundle@v2.9.0
 - pkg:composer/vich/uploader-bundle@v2.9.1
+- pkg:composer/vich/uploader-bundle@v3.0.0-rc
