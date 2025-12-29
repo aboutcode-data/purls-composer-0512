@@ -15,6 +15,7 @@
 - pkg:composer/friendsofsymfony1/symfony1@v1.5.21
 - pkg:composer/friendsofsymfony1/symfony1@v1.5.22
 - pkg:composer/friendsofsymfony1/symfony1@v1.5.23
+- pkg:composer/friendsofsymfony1/symfony1@v1.5.24
 - pkg:composer/friendsofsymfony1/symfony1@v1.5.3
 - pkg:composer/friendsofsymfony1/symfony1@v1.5.4
 - pkg:composer/friendsofsymfony1/symfony1@v1.5.5
