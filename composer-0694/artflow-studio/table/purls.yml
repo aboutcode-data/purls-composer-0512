@@ -20,6 +20,7 @@
 - pkg:composer/artflow-studio/table@1.5
 - pkg:composer/artflow-studio/table@1.5.1
 - pkg:composer/artflow-studio/table@1.5.2
+- pkg:composer/artflow-studio/table@1.5.3
 - pkg:composer/artflow-studio/table@V0.08.5
 - pkg:composer/artflow-studio/table@v0.0.1
 - pkg:composer/artflow-studio/table@v0.0.2

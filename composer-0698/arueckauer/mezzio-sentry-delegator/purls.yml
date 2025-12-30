@@ -7,3 +7,4 @@
 - pkg:composer/arueckauer/mezzio-sentry-delegator@1.6.0
 - pkg:composer/arueckauer/mezzio-sentry-delegator@1.7.0
 - pkg:composer/arueckauer/mezzio-sentry-delegator@2.0.0
+- pkg:composer/arueckauer/mezzio-sentry-delegator@3.0.0
