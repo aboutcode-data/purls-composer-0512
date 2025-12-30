@@ -1,2 +1,1 @@
-- pkg:composer/faktly/laravel-prometheus-metrics@0.0.1
-- pkg:composer/faktly/laravel-prometheus-metrics@0.0.2
+- pkg:composer/faktly/laravel-prometheus-metrics@v0.1.0
