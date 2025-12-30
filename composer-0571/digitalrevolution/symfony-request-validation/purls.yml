@@ -10,3 +10,4 @@
 - pkg:composer/digitalrevolution/symfony-request-validation@v2.3.0
 - pkg:composer/digitalrevolution/symfony-request-validation@v2.3.1
 - pkg:composer/digitalrevolution/symfony-request-validation@v2.4.0
+- pkg:composer/digitalrevolution/symfony-request-validation@v3.0.0
