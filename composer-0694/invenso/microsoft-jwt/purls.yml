@@ -7,3 +7,4 @@
 - pkg:composer/invenso/microsoft-jwt@1.3.0-rc2
 - pkg:composer/invenso/microsoft-jwt@1.3.0-rc3
 - pkg:composer/invenso/microsoft-jwt@1.3.1
+- pkg:composer/invenso/microsoft-jwt@1.3.2
