@@ -24,6 +24,7 @@
 - pkg:composer/userfrosting/userfrosting@6.0.0-beta.4
 - pkg:composer/userfrosting/userfrosting@6.0.0-beta.5
 - pkg:composer/userfrosting/userfrosting@6.0.0-beta.6
+- pkg:composer/userfrosting/userfrosting@6.0.0-beta.7
 - pkg:composer/userfrosting/userfrosting@v4.1.10-alpha
 - pkg:composer/userfrosting/userfrosting@v4.1.11-alpha
 - pkg:composer/userfrosting/userfrosting@v4.1.12-alpha
