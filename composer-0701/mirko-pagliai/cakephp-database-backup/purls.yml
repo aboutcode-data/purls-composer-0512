@@ -32,6 +32,7 @@
 - pkg:composer/mirko-pagliai/cakephp-database-backup@2.14.4
 - pkg:composer/mirko-pagliai/cakephp-database-backup@2.15.0
 - pkg:composer/mirko-pagliai/cakephp-database-backup@2.15.1
+- pkg:composer/mirko-pagliai/cakephp-database-backup@2.15.2
 - pkg:composer/mirko-pagliai/cakephp-database-backup@2.2.0
 - pkg:composer/mirko-pagliai/cakephp-database-backup@2.3.0
 - pkg:composer/mirko-pagliai/cakephp-database-backup@2.4.0
