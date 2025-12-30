@@ -1,6 +1,7 @@
 - pkg:composer/pantono/products@1.0.0
 - pkg:composer/pantono/products@1.0.1
 - pkg:composer/pantono/products@1.0.10
+- pkg:composer/pantono/products@1.0.100
 - pkg:composer/pantono/products@1.0.11
 - pkg:composer/pantono/products@1.0.12
 - pkg:composer/pantono/products@1.0.13
@@ -89,3 +90,12 @@
 - pkg:composer/pantono/products@1.0.89
 - pkg:composer/pantono/products@1.0.9
 - pkg:composer/pantono/products@1.0.90
+- pkg:composer/pantono/products@1.0.91
+- pkg:composer/pantono/products@1.0.92
+- pkg:composer/pantono/products@1.0.93
+- pkg:composer/pantono/products@1.0.94
+- pkg:composer/pantono/products@1.0.95
+- pkg:composer/pantono/products@1.0.96
+- pkg:composer/pantono/products@1.0.97
+- pkg:composer/pantono/products@1.0.98
+- pkg:composer/pantono/products@1.0.99
