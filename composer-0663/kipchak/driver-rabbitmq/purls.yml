@@ -1,0 +1,2 @@
+- pkg:composer/kipchak/driver-rabbitmq@1.0
+- pkg:composer/kipchak/driver-rabbitmq@1.1

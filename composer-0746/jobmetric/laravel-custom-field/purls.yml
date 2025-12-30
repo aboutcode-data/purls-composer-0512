@@ -15,3 +15,4 @@
 - pkg:composer/jobmetric/laravel-custom-field@1.9.0
 - pkg:composer/jobmetric/laravel-custom-field@2.0.0
 - pkg:composer/jobmetric/laravel-custom-field@2.1.0
+- pkg:composer/jobmetric/laravel-custom-field@2.1.1
