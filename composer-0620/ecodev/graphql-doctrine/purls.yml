@@ -4,6 +4,7 @@
 - pkg:composer/ecodev/graphql-doctrine@10.0.1
 - pkg:composer/ecodev/graphql-doctrine@10.1.0
 - pkg:composer/ecodev/graphql-doctrine@11.0.0
+- pkg:composer/ecodev/graphql-doctrine@11.0.1
 - pkg:composer/ecodev/graphql-doctrine@2.0.0
 - pkg:composer/ecodev/graphql-doctrine@2.0.1
 - pkg:composer/ecodev/graphql-doctrine@3.0.0

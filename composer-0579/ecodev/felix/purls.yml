@@ -71,6 +71,7 @@
 - pkg:composer/ecodev/felix@16.2.1
 - pkg:composer/ecodev/felix@16.3.0
 - pkg:composer/ecodev/felix@16.3.1
+- pkg:composer/ecodev/felix@17.0.0
 - pkg:composer/ecodev/felix@2.0.0
 - pkg:composer/ecodev/felix@2.0.1
 - pkg:composer/ecodev/felix@2.1.0
