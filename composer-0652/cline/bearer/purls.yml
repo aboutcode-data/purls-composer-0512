@@ -5,3 +5,5 @@
 - pkg:composer/cline/bearer@2.2.0
 - pkg:composer/cline/bearer@2.3.0
 - pkg:composer/cline/bearer@3.0.0
+- pkg:composer/cline/bearer@3.1.0
+- pkg:composer/cline/bearer@3.1.1
