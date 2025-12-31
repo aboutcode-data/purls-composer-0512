@@ -34,6 +34,7 @@
 - pkg:composer/blesta/domains@1.18.1
 - pkg:composer/blesta/domains@1.18.3
 - pkg:composer/blesta/domains@1.18.4
+- pkg:composer/blesta/domains@1.18.5
 - pkg:composer/blesta/domains@1.2.0
 - pkg:composer/blesta/domains@1.2.1
 - pkg:composer/blesta/domains@1.2.2
