@@ -15,6 +15,7 @@
 - pkg:composer/shopsys/google-cloud-bundle@v16.0.0
 - pkg:composer/shopsys/google-cloud-bundle@v17.0.0
 - pkg:composer/shopsys/google-cloud-bundle@v17.0.1
+- pkg:composer/shopsys/google-cloud-bundle@v18.0.0
 - pkg:composer/shopsys/google-cloud-bundle@v7.0.0
 - pkg:composer/shopsys/google-cloud-bundle@v7.0.0-beta6
 - pkg:composer/shopsys/google-cloud-bundle@v7.0.1

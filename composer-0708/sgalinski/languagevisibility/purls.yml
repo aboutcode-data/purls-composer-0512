@@ -98,6 +98,7 @@
 - pkg:composer/sgalinski/languagevisibility@5.0.14
 - pkg:composer/sgalinski/languagevisibility@5.0.15
 - pkg:composer/sgalinski/languagevisibility@5.0.16
+- pkg:composer/sgalinski/languagevisibility@5.0.17
 - pkg:composer/sgalinski/languagevisibility@5.0.2
 - pkg:composer/sgalinski/languagevisibility@5.0.3
 - pkg:composer/sgalinski/languagevisibility@5.0.4
@@ -113,3 +114,4 @@
 - pkg:composer/sgalinski/languagevisibility@6.0.5
 - pkg:composer/sgalinski/languagevisibility@6.0.6
 - pkg:composer/sgalinski/languagevisibility@6.0.7
+- pkg:composer/sgalinski/languagevisibility@6.0.8

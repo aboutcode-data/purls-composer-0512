@@ -17,6 +17,7 @@
 - pkg:composer/shopsys/form-types-bundle@v16.0.0
 - pkg:composer/shopsys/form-types-bundle@v17.0.0
 - pkg:composer/shopsys/form-types-bundle@v17.0.1
+- pkg:composer/shopsys/form-types-bundle@v18.0.0
 - pkg:composer/shopsys/form-types-bundle@v7.0.0
 - pkg:composer/shopsys/form-types-bundle@v7.0.0-alpha1
 - pkg:composer/shopsys/form-types-bundle@v7.0.0-alpha2
