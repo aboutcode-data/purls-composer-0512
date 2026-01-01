@@ -11,3 +11,4 @@
 - pkg:composer/berry/html@v0.5.1
 - pkg:composer/berry/html@v0.6.0
 - pkg:composer/berry/html@v0.6.1
+- pkg:composer/berry/html@v0.7.0
