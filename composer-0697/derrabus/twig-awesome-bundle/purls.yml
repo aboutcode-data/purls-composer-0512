@@ -20,3 +20,5 @@
 - pkg:composer/derrabus/twig-awesome-bundle@v4.3.2
 - pkg:composer/derrabus/twig-awesome-bundle@v4.4.0
 - pkg:composer/derrabus/twig-awesome-bundle@v4.5.0
+- pkg:composer/derrabus/twig-awesome-bundle@v4.6.0
+- pkg:composer/derrabus/twig-awesome-bundle@v5.0.0
