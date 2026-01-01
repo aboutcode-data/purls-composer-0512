@@ -1,1 +1,2 @@
 - pkg:composer/kocal/phpstan-symfony-ux@v1.0.0
+- pkg:composer/kocal/phpstan-symfony-ux@v1.1.0
