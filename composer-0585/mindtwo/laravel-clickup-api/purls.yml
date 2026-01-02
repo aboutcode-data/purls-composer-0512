@@ -1,2 +1,3 @@
 - pkg:composer/mindtwo/laravel-clickup-api@1.0
 - pkg:composer/mindtwo/laravel-clickup-api@1.1
+- pkg:composer/mindtwo/laravel-clickup-api@2.0
