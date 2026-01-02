@@ -60,3 +60,6 @@
 - pkg:composer/musonza/chat@v6.5.0
 - pkg:composer/musonza/chat@v6.6.0
 - pkg:composer/musonza/chat@v6.6.1
+- pkg:composer/musonza/chat@v6.7.0
+- pkg:composer/musonza/chat@v6.8.0
+- pkg:composer/musonza/chat@v6.9.0
