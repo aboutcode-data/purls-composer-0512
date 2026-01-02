@@ -41,6 +41,10 @@
 - pkg:composer/image-charts/image-charts@6.1.38
 - pkg:composer/image-charts/image-charts@6.1.39
 - pkg:composer/image-charts/image-charts@6.1.4
+- pkg:composer/image-charts/image-charts@6.1.40
+- pkg:composer/image-charts/image-charts@6.1.41
+- pkg:composer/image-charts/image-charts@6.1.42
+- pkg:composer/image-charts/image-charts@6.1.43
 - pkg:composer/image-charts/image-charts@6.1.5
 - pkg:composer/image-charts/image-charts@6.1.6
 - pkg:composer/image-charts/image-charts@6.1.7
