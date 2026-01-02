@@ -8,6 +8,7 @@
 - pkg:composer/phenx/php-svg-lib@0.5.3
 - pkg:composer/phenx/php-svg-lib@0.5.4
 - pkg:composer/phenx/php-svg-lib@1.0.0
+- pkg:composer/phenx/php-svg-lib@1.0.1
 - pkg:composer/phenx/php-svg-lib@v0.2
 - pkg:composer/phenx/php-svg-lib@v0.3.0
 - pkg:composer/phenx/php-svg-lib@v0.3.1

@@ -2,6 +2,7 @@
 - pkg:composer/phore/core@1.1.1
 - pkg:composer/phore/core@1.2.0
 - pkg:composer/phore/core@1.2.1
+- pkg:composer/phore/core@1.2.2
 - pkg:composer/phore/core@v1.0
 - pkg:composer/phore/core@v1.0.2
 - pkg:composer/phore/core@v1.0.3
