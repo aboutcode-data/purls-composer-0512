@@ -26,3 +26,4 @@
 - pkg:composer/neuron-php/logging@0.8.1
 - pkg:composer/neuron-php/logging@0.8.2
 - pkg:composer/neuron-php/logging@0.9.0
+- pkg:composer/neuron-php/logging@0.9.1
