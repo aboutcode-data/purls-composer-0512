@@ -12,3 +12,5 @@
 - pkg:composer/gatherpress/gatherpress@0.32.3
 - pkg:composer/gatherpress/gatherpress@0.33.0-alpha.1
 - pkg:composer/gatherpress/gatherpress@0.33.0-alpha.2
+- pkg:composer/gatherpress/gatherpress@0.33.0-beta.1
+- pkg:composer/gatherpress/gatherpress@0.33.0-beta.2
