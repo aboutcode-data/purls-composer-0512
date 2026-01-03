@@ -1,1 +1,2 @@
 - pkg:composer/secgin/php-http-client@v0.1
+- pkg:composer/secgin/php-http-client@v0.1.1
