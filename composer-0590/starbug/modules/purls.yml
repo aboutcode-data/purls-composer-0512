@@ -1,3 +1,4 @@
 - pkg:composer/starbug/modules@v0.8
 - pkg:composer/starbug/modules@v0.8.1
 - pkg:composer/starbug/modules@v1.0.0
+- pkg:composer/starbug/modules@v1.1.0
