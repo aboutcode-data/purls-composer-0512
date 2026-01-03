@@ -2,3 +2,4 @@
 - pkg:composer/n5s/brotli@1.1.0
 - pkg:composer/n5s/brotli@1.2.0
 - pkg:composer/n5s/brotli@2.0.0
+- pkg:composer/n5s/brotli@3.0.0
