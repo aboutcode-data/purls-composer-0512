@@ -236,6 +236,9 @@
 - pkg:composer/mobilestock/laravel-replicator@v1.0.31
 - pkg:composer/mobilestock/laravel-replicator@v1.0.310
 - pkg:composer/mobilestock/laravel-replicator@v1.0.311
+- pkg:composer/mobilestock/laravel-replicator@v1.0.312
+- pkg:composer/mobilestock/laravel-replicator@v1.0.313
+- pkg:composer/mobilestock/laravel-replicator@v1.0.314
 - pkg:composer/mobilestock/laravel-replicator@v1.0.32
 - pkg:composer/mobilestock/laravel-replicator@v1.0.33
 - pkg:composer/mobilestock/laravel-replicator@v1.0.34
