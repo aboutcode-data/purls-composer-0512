@@ -4,3 +4,4 @@
 - pkg:composer/gophpeek/laravel-queue-metrics@v1.2.0
 - pkg:composer/gophpeek/laravel-queue-metrics@v1.3.0
 - pkg:composer/gophpeek/laravel-queue-metrics@v1.3.1
+- pkg:composer/gophpeek/laravel-queue-metrics@v1.4.0
