@@ -27,3 +27,4 @@
 - pkg:composer/phpbb/skeleton@1.1.8
 - pkg:composer/phpbb/skeleton@1.1.9
 - pkg:composer/phpbb/skeleton@1.2.0
+- pkg:composer/phpbb/skeleton@1.2.1

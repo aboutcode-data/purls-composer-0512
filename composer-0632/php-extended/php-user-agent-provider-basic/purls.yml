@@ -92,6 +92,7 @@
 - pkg:composer/php-extended/php-user-agent-provider-basic@8.0.58
 - pkg:composer/php-extended/php-user-agent-provider-basic@8.0.59
 - pkg:composer/php-extended/php-user-agent-provider-basic@8.0.6
+- pkg:composer/php-extended/php-user-agent-provider-basic@8.0.60
 - pkg:composer/php-extended/php-user-agent-provider-basic@8.0.7
 - pkg:composer/php-extended/php-user-agent-provider-basic@8.0.8
 - pkg:composer/php-extended/php-user-agent-provider-basic@8.0.9
