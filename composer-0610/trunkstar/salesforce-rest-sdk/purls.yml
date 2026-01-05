@@ -4,6 +4,7 @@
 - pkg:composer/trunkstar/salesforce-rest-sdk@3.0.2
 - pkg:composer/trunkstar/salesforce-rest-sdk@3.0.4
 - pkg:composer/trunkstar/salesforce-rest-sdk@3.0.5
+- pkg:composer/trunkstar/salesforce-rest-sdk@3.1.0
 - pkg:composer/trunkstar/salesforce-rest-sdk@v1.0.0
 - pkg:composer/trunkstar/salesforce-rest-sdk@v1.1.0
 - pkg:composer/trunkstar/salesforce-rest-sdk@v1.1.1

@@ -27,6 +27,15 @@
 - pkg:composer/valkyrja/valkyrja@v25.1.4
 - pkg:composer/valkyrja/valkyrja@v25.1.5
 - pkg:composer/valkyrja/valkyrja@v25.1.6
+- pkg:composer/valkyrja/valkyrja@v25.10.0
+- pkg:composer/valkyrja/valkyrja@v25.11.0
+- pkg:composer/valkyrja/valkyrja@v25.12.0
+- pkg:composer/valkyrja/valkyrja@v25.13.0
+- pkg:composer/valkyrja/valkyrja@v25.14.0
+- pkg:composer/valkyrja/valkyrja@v25.15.0
+- pkg:composer/valkyrja/valkyrja@v25.15.1
+- pkg:composer/valkyrja/valkyrja@v25.16.0
+- pkg:composer/valkyrja/valkyrja@v25.17.0
 - pkg:composer/valkyrja/valkyrja@v25.2.0
 - pkg:composer/valkyrja/valkyrja@v25.2.1
 - pkg:composer/valkyrja/valkyrja@v25.2.10
@@ -57,4 +66,8 @@
 - pkg:composer/valkyrja/valkyrja@v25.5.0
 - pkg:composer/valkyrja/valkyrja@v25.6.0
 - pkg:composer/valkyrja/valkyrja@v25.6.1
+- pkg:composer/valkyrja/valkyrja@v25.7.0
+- pkg:composer/valkyrja/valkyrja@v25.8.0
+- pkg:composer/valkyrja/valkyrja@v25.9.0
+- pkg:composer/valkyrja/valkyrja@v25.9.1
 - pkg:composer/valkyrja/valkyrja@v3.0.0
