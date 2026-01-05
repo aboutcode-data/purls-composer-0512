@@ -178,5 +178,7 @@
 - pkg:composer/zircote/swagger-php@5.7.4
 - pkg:composer/zircote/swagger-php@5.7.5
 - pkg:composer/zircote/swagger-php@5.7.6
+- pkg:composer/zircote/swagger-php@5.7.7
 - pkg:composer/zircote/swagger-php@6.0.0-RC1
 - pkg:composer/zircote/swagger-php@6.0.0-RC2
+- pkg:composer/zircote/swagger-php@6.0.0-RC3
