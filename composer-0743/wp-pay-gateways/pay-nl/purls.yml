@@ -36,3 +36,4 @@
 - pkg:composer/wp-pay-gateways/pay-nl@v4.5.7
 - pkg:composer/wp-pay-gateways/pay-nl@v4.6.0
 - pkg:composer/wp-pay-gateways/pay-nl@v4.6.1
+- pkg:composer/wp-pay-gateways/pay-nl@v4.7.0
