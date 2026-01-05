@@ -1,2 +1,4 @@
 - pkg:composer/theunic/symfony-response-helpers@v0.1.0
 - pkg:composer/theunic/symfony-response-helpers@v0.2.0
+- pkg:composer/theunic/symfony-response-helpers@v0.3.0
+- pkg:composer/theunic/symfony-response-helpers@v1.0.0

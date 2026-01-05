@@ -1,3 +1,4 @@
 - pkg:composer/thecodingmachine/tdbm-graphql-bundle@3.1.0
 - pkg:composer/thecodingmachine/tdbm-graphql-bundle@v4.0.0
 - pkg:composer/thecodingmachine/tdbm-graphql-bundle@v4.0.1
+- pkg:composer/thecodingmachine/tdbm-graphql-bundle@v6.0.0

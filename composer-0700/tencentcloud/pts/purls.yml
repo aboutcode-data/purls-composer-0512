@@ -393,6 +393,7 @@
 - pkg:composer/tencentcloud/pts@3.0.1393
 - pkg:composer/tencentcloud/pts@3.0.1394
 - pkg:composer/tencentcloud/pts@3.0.1414
+- pkg:composer/tencentcloud/pts@3.0.1514
 - pkg:composer/tencentcloud/pts@3.0.683
 - pkg:composer/tencentcloud/pts@3.0.684
 - pkg:composer/tencentcloud/pts@3.0.685

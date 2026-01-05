@@ -9,3 +9,4 @@
 - pkg:composer/sweetchuck/git-hooks@v0.0.8
 - pkg:composer/sweetchuck/git-hooks@v0.0.9
 - pkg:composer/sweetchuck/git-hooks@v0.1.0
+- pkg:composer/sweetchuck/git-hooks@v3.0.0

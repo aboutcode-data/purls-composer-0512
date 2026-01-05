@@ -398,6 +398,8 @@
 - pkg:composer/tencentcloud/iai@3.0.1465
 - pkg:composer/tencentcloud/iai@3.0.1493
 - pkg:composer/tencentcloud/iai@3.0.1494
+- pkg:composer/tencentcloud/iai@3.0.1515
+- pkg:composer/tencentcloud/iai@3.0.1516
 - pkg:composer/tencentcloud/iai@3.0.248
 - pkg:composer/tencentcloud/iai@3.0.249
 - pkg:composer/tencentcloud/iai@3.0.250

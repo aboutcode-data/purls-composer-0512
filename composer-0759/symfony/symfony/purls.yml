@@ -737,6 +737,7 @@
 - pkg:composer/symfony/symfony@v6.4.29
 - pkg:composer/symfony/symfony@v6.4.3
 - pkg:composer/symfony/symfony@v6.4.30
+- pkg:composer/symfony/symfony@v6.4.31
 - pkg:composer/symfony/symfony@v6.4.4
 - pkg:composer/symfony/symfony@v6.4.5
 - pkg:composer/symfony/symfony@v6.4.6
@@ -798,6 +799,7 @@
 - pkg:composer/symfony/symfony@v7.3.6
 - pkg:composer/symfony/symfony@v7.3.7
 - pkg:composer/symfony/symfony@v7.3.8
+- pkg:composer/symfony/symfony@v7.3.9
 - pkg:composer/symfony/symfony@v7.4.0
 - pkg:composer/symfony/symfony@v7.4.0-BETA1
 - pkg:composer/symfony/symfony@v7.4.0-BETA2
@@ -806,6 +808,7 @@
 - pkg:composer/symfony/symfony@v7.4.0-RC3
 - pkg:composer/symfony/symfony@v7.4.1
 - pkg:composer/symfony/symfony@v7.4.2
+- pkg:composer/symfony/symfony@v7.4.3
 - pkg:composer/symfony/symfony@v8.0.0
 - pkg:composer/symfony/symfony@v8.0.0-BETA1
 - pkg:composer/symfony/symfony@v8.0.0-BETA2
@@ -814,3 +817,4 @@
 - pkg:composer/symfony/symfony@v8.0.0-RC3
 - pkg:composer/symfony/symfony@v8.0.1
 - pkg:composer/symfony/symfony@v8.0.2
+- pkg:composer/symfony/symfony@v8.0.3
