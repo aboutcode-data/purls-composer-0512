@@ -31,6 +31,7 @@
 - pkg:composer/php-twinfield/twinfield@v3.0.2
 - pkg:composer/php-twinfield/twinfield@v3.0.3
 - pkg:composer/php-twinfield/twinfield@v3.1.0
+- pkg:composer/php-twinfield/twinfield@v3.10.0
 - pkg:composer/php-twinfield/twinfield@v3.2.0
 - pkg:composer/php-twinfield/twinfield@v3.3.0
 - pkg:composer/php-twinfield/twinfield@v3.4.0
