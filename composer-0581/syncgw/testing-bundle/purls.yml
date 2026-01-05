@@ -3,3 +3,4 @@
 - pkg:composer/syncgw/testing-bundle@9.20.4
 - pkg:composer/syncgw/testing-bundle@9.20.5
 - pkg:composer/syncgw/testing-bundle@9.20.6
+- pkg:composer/syncgw/testing-bundle@9.20.7
