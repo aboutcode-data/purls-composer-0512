@@ -2,3 +2,4 @@
 - pkg:composer/freema/n8n-bundle@1.1
 - pkg:composer/freema/n8n-bundle@1.2
 - pkg:composer/freema/n8n-bundle@1.2.1
+- pkg:composer/freema/n8n-bundle@1.3.0
