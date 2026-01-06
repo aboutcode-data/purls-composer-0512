@@ -13,6 +13,7 @@
 - pkg:composer/atellitech/utils-hyperf@1.1.7
 - pkg:composer/atellitech/utils-hyperf@1.1.8
 - pkg:composer/atellitech/utils-hyperf@1.1.9
+- pkg:composer/atellitech/utils-hyperf@1.2.0
 - pkg:composer/atellitech/utils-hyperf@v1.0.10
 - pkg:composer/atellitech/utils-hyperf@v1.0.11
 - pkg:composer/atellitech/utils-hyperf@v1.0.2
