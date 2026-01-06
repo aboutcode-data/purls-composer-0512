@@ -167,6 +167,7 @@
 - pkg:composer/etrias/php-toolkit@2.10.3
 - pkg:composer/etrias/php-toolkit@2.10.4
 - pkg:composer/etrias/php-toolkit@2.10.5
+- pkg:composer/etrias/php-toolkit@2.10.6
 - pkg:composer/etrias/php-toolkit@2.2.0
 - pkg:composer/etrias/php-toolkit@2.2.1
 - pkg:composer/etrias/php-toolkit@2.2.2

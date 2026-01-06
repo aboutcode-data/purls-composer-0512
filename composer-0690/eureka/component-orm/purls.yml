@@ -45,3 +45,4 @@
 - pkg:composer/eureka/component-orm@6.1.0
 - pkg:composer/eureka/component-orm@7.0.0
 - pkg:composer/eureka/component-orm@7.1.0
+- pkg:composer/eureka/component-orm@7.2.0

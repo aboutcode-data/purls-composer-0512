@@ -8,3 +8,4 @@
 - pkg:composer/eureka/component-deployer@2.0.0
 - pkg:composer/eureka/component-deployer@2.1.0
 - pkg:composer/eureka/component-deployer@3.0.0
+- pkg:composer/eureka/component-deployer@4.0.0

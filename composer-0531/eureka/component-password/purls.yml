@@ -5,3 +5,4 @@
 - pkg:composer/eureka/component-password@4.1.0
 - pkg:composer/eureka/component-password@4.2.0
 - pkg:composer/eureka/component-password@5.0.0
+- pkg:composer/eureka/component-password@6.0.0
