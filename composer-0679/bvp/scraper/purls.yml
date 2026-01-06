@@ -1,2 +1,4 @@
 - pkg:composer/bvp/scraper@5.4.0
 - pkg:composer/bvp/scraper@6.0.0
+- pkg:composer/bvp/scraper@6.0.1
+- pkg:composer/bvp/scraper@6.1.0

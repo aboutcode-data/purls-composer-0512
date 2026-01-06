@@ -21,3 +21,7 @@
 - pkg:composer/byteshard/grid@v2.5.0
 - pkg:composer/byteshard/grid@v2.5.1
 - pkg:composer/byteshard/grid@v2.6.0
+- pkg:composer/byteshard/grid@v2.6.1
+- pkg:composer/byteshard/grid@v2.6.2
+- pkg:composer/byteshard/grid@v2.6.3
+- pkg:composer/byteshard/grid@v2.6.4
