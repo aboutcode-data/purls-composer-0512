@@ -72,3 +72,4 @@
 - pkg:composer/popphp/popphp@4.3.8
 - pkg:composer/popphp/popphp@4.3.9
 - pkg:composer/popphp/popphp@4.4.0
+- pkg:composer/popphp/popphp@4.4.1
