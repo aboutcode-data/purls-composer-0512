@@ -37,3 +37,4 @@
 - pkg:composer/cloudatlas/flyclone@v2.5.0
 - pkg:composer/cloudatlas/flyclone@v3.0.0
 - pkg:composer/cloudatlas/flyclone@v3.0.1
+- pkg:composer/cloudatlas/flyclone@v4.0.0

@@ -92,6 +92,7 @@
 - pkg:composer/darkaonline/l5-swagger@8.6.5
 - pkg:composer/darkaonline/l5-swagger@9.0.0
 - pkg:composer/darkaonline/l5-swagger@9.0.1
+- pkg:composer/darkaonline/l5-swagger@9.1.0
 - pkg:composer/darkaonline/l5-swagger@v0.1
 - pkg:composer/darkaonline/l5-swagger@v0.2
 - pkg:composer/darkaonline/l5-swagger@v2.0

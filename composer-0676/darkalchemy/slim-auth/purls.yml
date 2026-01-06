@@ -26,3 +26,5 @@
 - pkg:composer/darkalchemy/slim-auth@0.3.8
 - pkg:composer/darkalchemy/slim-auth@0.3.9
 - pkg:composer/darkalchemy/slim-auth@0.4.0
+- pkg:composer/darkalchemy/slim-auth@0.4.1
+- pkg:composer/darkalchemy/slim-auth@0.4.2
