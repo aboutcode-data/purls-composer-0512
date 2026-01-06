@@ -90,6 +90,7 @@
 - pkg:composer/afragen/github-updater@12.20.0
 - pkg:composer/afragen/github-updater@12.20.1
 - pkg:composer/afragen/github-updater@12.20.2
+- pkg:composer/afragen/github-updater@12.21.0
 - pkg:composer/afragen/github-updater@12.3.0
 - pkg:composer/afragen/github-updater@12.3.1
 - pkg:composer/afragen/github-updater@12.4.0

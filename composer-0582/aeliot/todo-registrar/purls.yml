@@ -1,3 +1,4 @@
+- pkg:composer/aeliot/todo-registrar@2.3.0
 - pkg:composer/aeliot/todo-registrar@v1.0.0
 - pkg:composer/aeliot/todo-registrar@v1.1.0
 - pkg:composer/aeliot/todo-registrar@v1.1.1
@@ -21,3 +22,7 @@
 - pkg:composer/aeliot/todo-registrar@v2.0.0
 - pkg:composer/aeliot/todo-registrar@v2.1.0
 - pkg:composer/aeliot/todo-registrar@v2.2.0
+- pkg:composer/aeliot/todo-registrar@v2.2.0.1
+- pkg:composer/aeliot/todo-registrar@v2.2.0.2
+- pkg:composer/aeliot/todo-registrar@v2.2.0.3
+- pkg:composer/aeliot/todo-registrar@v2.3.1
