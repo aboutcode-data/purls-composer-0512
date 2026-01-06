@@ -7,3 +7,4 @@
 - pkg:composer/devdot/monolog-parser@v1.4.1
 - pkg:composer/devdot/monolog-parser@v1.4.2
 - pkg:composer/devdot/monolog-parser@v1.6
+- pkg:composer/devdot/monolog-parser@v1.6.1
