@@ -1,7 +1,2 @@
-- pkg:composer/securerun/bubblewrap-sandbox@v1.0.0
-- pkg:composer/securerun/bubblewrap-sandbox@v1.0.1
-- pkg:composer/securerun/bubblewrap-sandbox@v1.0.2
-- pkg:composer/securerun/bubblewrap-sandbox@v1.0.3
-- pkg:composer/securerun/bubblewrap-sandbox@v1.0.4
-- pkg:composer/securerun/bubblewrap-sandbox@v1.0.5
 - pkg:composer/securerun/bubblewrap-sandbox@v1.0.6
+- pkg:composer/securerun/bubblewrap-sandbox@v1.2.0
