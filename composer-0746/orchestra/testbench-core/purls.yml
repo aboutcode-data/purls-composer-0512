@@ -19,6 +19,7 @@
 - pkg:composer/orchestra/testbench-core@v10.7.0
 - pkg:composer/orchestra/testbench-core@v10.8.0
 - pkg:composer/orchestra/testbench-core@v10.8.1
+- pkg:composer/orchestra/testbench-core@v10.8.2
 - pkg:composer/orchestra/testbench-core@v3.4.0
 - pkg:composer/orchestra/testbench-core@v3.4.1
 - pkg:composer/orchestra/testbench-core@v3.4.2
