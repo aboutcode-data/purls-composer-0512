@@ -17,3 +17,4 @@
 - pkg:composer/tormjens/firestore@2.0.8
 - pkg:composer/tormjens/firestore@2.0.9
 - pkg:composer/tormjens/firestore@2.1
+- pkg:composer/tormjens/firestore@2.1.1
