@@ -43,6 +43,7 @@
 - pkg:composer/backpack/logmanager@4.0.0
 - pkg:composer/backpack/logmanager@5.0.3
 - pkg:composer/backpack/logmanager@5.1.0
+- pkg:composer/backpack/logmanager@5.1.1
 - pkg:composer/backpack/logmanager@v3.0.4
 - pkg:composer/backpack/logmanager@v4.0.1
 - pkg:composer/backpack/logmanager@v4.0.10
