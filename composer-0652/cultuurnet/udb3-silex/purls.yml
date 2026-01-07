@@ -75,6 +75,7 @@
 - pkg:composer/cultuurnet/udb3-silex@2025.11.06.132649
 - pkg:composer/cultuurnet/udb3-silex@2025.11.17.153314
 - pkg:composer/cultuurnet/udb3-silex@2025.12.02.093313
+- pkg:composer/cultuurnet/udb3-silex@2026.01.07.110054
 - pkg:composer/cultuurnet/udb3-silex@v3.0.10
 - pkg:composer/cultuurnet/udb3-silex@v3.0.11
 - pkg:composer/cultuurnet/udb3-silex@v3.0.12
@@ -84,7 +85,9 @@
 - pkg:composer/cultuurnet/udb3-silex@v3.0.16
 - pkg:composer/cultuurnet/udb3-silex@v3.0.17
 - pkg:composer/cultuurnet/udb3-silex@v3.0.18
+- pkg:composer/cultuurnet/udb3-silex@v3.0.19
 - pkg:composer/cultuurnet/udb3-silex@v3.0.2
+- pkg:composer/cultuurnet/udb3-silex@v3.0.20
 - pkg:composer/cultuurnet/udb3-silex@v3.0.3
 - pkg:composer/cultuurnet/udb3-silex@v3.0.4
 - pkg:composer/cultuurnet/udb3-silex@v3.0.5
