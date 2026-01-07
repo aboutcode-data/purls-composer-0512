@@ -25,3 +25,4 @@
 - pkg:composer/alibabacloud/eventbridge-20200401@6.0.0
 - pkg:composer/alibabacloud/eventbridge-20200401@6.0.1
 - pkg:composer/alibabacloud/eventbridge-20200401@6.0.2
+- pkg:composer/alibabacloud/eventbridge-20200401@6.0.3
