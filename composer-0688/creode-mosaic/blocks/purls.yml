@@ -109,3 +109,6 @@
 - pkg:composer/creode-mosaic/blocks@3.1.0
 - pkg:composer/creode-mosaic/blocks@3.2.0
 - pkg:composer/creode-mosaic/blocks@3.2.1
+- pkg:composer/creode-mosaic/blocks@3.3.0
+- pkg:composer/creode-mosaic/blocks@3.4.0
+- pkg:composer/creode-mosaic/blocks@3.4.1
