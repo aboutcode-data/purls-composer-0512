@@ -1098,6 +1098,7 @@
 - pkg:composer/yoast/wordpress-seo@26.7-RC1
 - pkg:composer/yoast/wordpress-seo@26.7-RC2
 - pkg:composer/yoast/wordpress-seo@26.8-RC1
+- pkg:composer/yoast/wordpress-seo@26.8-RC2
 - pkg:composer/yoast/wordpress-seo@3.0
 - pkg:composer/yoast/wordpress-seo@3.0.2
 - pkg:composer/yoast/wordpress-seo@3.0.3
