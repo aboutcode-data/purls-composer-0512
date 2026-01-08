@@ -61,5 +61,6 @@
 - pkg:composer/secursus/laravel-openapi@v1.0.3
 - pkg:composer/secursus/laravel-openapi@v1.1.0
 - pkg:composer/secursus/laravel-openapi@v1.13.0
+- pkg:composer/secursus/laravel-openapi@v1.14.0
 - pkg:composer/secursus/laravel-openapi@v1.2.0
 - pkg:composer/secursus/laravel-openapi@v1.3.0
