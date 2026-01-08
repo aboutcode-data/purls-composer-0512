@@ -67,3 +67,4 @@
 - pkg:composer/phpdocumentor/reflection-docblock@5.6.4
 - pkg:composer/phpdocumentor/reflection-docblock@5.6.5
 - pkg:composer/phpdocumentor/reflection-docblock@5.6.6
+- pkg:composer/phpdocumentor/reflection-docblock@6.0.0
