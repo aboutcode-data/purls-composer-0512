@@ -89,3 +89,4 @@
 - pkg:composer/hanaboso/commons-bundle@2.8.1
 - pkg:composer/hanaboso/commons-bundle@2.8.2
 - pkg:composer/hanaboso/commons-bundle@2.9.0
+- pkg:composer/hanaboso/commons-bundle@3.0.0
