@@ -11,3 +11,4 @@
 - pkg:composer/binance/binance-connector-php@v2.0.0
 - pkg:composer/binance/binance-connector-php@v2.0.1
 - pkg:composer/binance/binance-connector-php@v3.0.0
+- pkg:composer/binance/binance-connector-php@v4.0.0

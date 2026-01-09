@@ -42,3 +42,4 @@
 - pkg:composer/beluga-php/docker-php-api@v7.1.45.1
 - pkg:composer/beluga-php/docker-php-api@v7.1.45.2
 - pkg:composer/beluga-php/docker-php-api@v7.1.45.3
+- pkg:composer/beluga-php/docker-php-api@v7.1.45.4
