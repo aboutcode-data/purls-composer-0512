@@ -165,6 +165,7 @@
 - pkg:composer/laravel/cashier@v16.0.5
 - pkg:composer/laravel/cashier@v16.0.6
 - pkg:composer/laravel/cashier@v16.1.0
+- pkg:composer/laravel/cashier@v16.2.0
 - pkg:composer/laravel/cashier@v2.0.0
 - pkg:composer/laravel/cashier@v2.0.1
 - pkg:composer/laravel/cashier@v2.0.2

@@ -11,3 +11,7 @@
 - pkg:composer/lkt/http-router@1.0.7
 - pkg:composer/lkt/http-router@1.0.8
 - pkg:composer/lkt/http-router@1.0.9
+- pkg:composer/lkt/http-router@2.0.0
+- pkg:composer/lkt/http-router@2.0.2
+- pkg:composer/lkt/http-router@2.0.3
+- pkg:composer/lkt/http-router@2.0.4

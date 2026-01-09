@@ -2,5 +2,6 @@
 - pkg:composer/laposta/laposta-api-php@2.0.0
 - pkg:composer/laposta/laposta-api-php@2.0.0-rc.1
 - pkg:composer/laposta/laposta-api-php@2.0.1
+- pkg:composer/laposta/laposta-api-php@2.1.0
 - pkg:composer/laposta/laposta-api-php@v1.5
 - pkg:composer/laposta/laposta-api-php@v1.8

@@ -8,3 +8,4 @@
 - pkg:composer/level51/silverstripe-s3upload@2.0.3
 - pkg:composer/level51/silverstripe-s3upload@2.0.4
 - pkg:composer/level51/silverstripe-s3upload@3.0.0
+- pkg:composer/level51/silverstripe-s3upload@3.0.1
