@@ -45,6 +45,7 @@
 - pkg:composer/alibabacloud/vpc-20160428@6.13.1
 - pkg:composer/alibabacloud/vpc-20160428@6.13.2
 - pkg:composer/alibabacloud/vpc-20160428@6.14.0
+- pkg:composer/alibabacloud/vpc-20160428@6.14.1
 - pkg:composer/alibabacloud/vpc-20160428@6.2.0
 - pkg:composer/alibabacloud/vpc-20160428@6.2.1
 - pkg:composer/alibabacloud/vpc-20160428@6.2.2
