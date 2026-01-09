@@ -21,6 +21,7 @@
 - pkg:composer/drupal/drupal_cms_admin_ui@1.2.6
 - pkg:composer/drupal/drupal_cms_admin_ui@1.2.7
 - pkg:composer/drupal/drupal_cms_admin_ui@1.2.8
+- pkg:composer/drupal/drupal_cms_admin_ui@1.2.9
 - pkg:composer/drupal/drupal_cms_admin_ui@2.0.0-alpha1
 - pkg:composer/drupal/drupal_cms_admin_ui@2.0.0-alpha2
 - pkg:composer/drupal/drupal_cms_admin_ui@2.0.0-beta1

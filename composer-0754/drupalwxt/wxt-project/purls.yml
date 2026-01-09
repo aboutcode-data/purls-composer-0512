@@ -58,6 +58,7 @@
 - pkg:composer/drupalwxt/wxt-project@5.4.2
 - pkg:composer/drupalwxt/wxt-project@5.4.3
 - pkg:composer/drupalwxt/wxt-project@5.4.4
+- pkg:composer/drupalwxt/wxt-project@5.4.5
 - pkg:composer/drupalwxt/wxt-project@6.1.0
 - pkg:composer/drupalwxt/wxt-project@6.1.1
 - pkg:composer/drupalwxt/wxt-project@6.1.2
