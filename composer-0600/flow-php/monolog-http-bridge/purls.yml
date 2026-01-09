@@ -24,6 +24,7 @@
 - pkg:composer/flow-php/monolog-http-bridge@0.27.0
 - pkg:composer/flow-php/monolog-http-bridge@0.28.0
 - pkg:composer/flow-php/monolog-http-bridge@0.29.0
+- pkg:composer/flow-php/monolog-http-bridge@0.30.0
 - pkg:composer/flow-php/monolog-http-bridge@0.8.0
 - pkg:composer/flow-php/monolog-http-bridge@0.9.0
 - pkg:composer/flow-php/monolog-http-bridge@0.9.1

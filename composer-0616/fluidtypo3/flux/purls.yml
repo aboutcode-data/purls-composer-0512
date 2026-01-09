@@ -20,6 +20,7 @@
 - pkg:composer/fluidtypo3/flux@11.0.6
 - pkg:composer/fluidtypo3/flux@11.0.7
 - pkg:composer/fluidtypo3/flux@11.1.0
+- pkg:composer/fluidtypo3/flux@11.1.1
 - pkg:composer/fluidtypo3/flux@7.0.0
 - pkg:composer/fluidtypo3/flux@7.1.0
 - pkg:composer/fluidtypo3/flux@7.1.1
