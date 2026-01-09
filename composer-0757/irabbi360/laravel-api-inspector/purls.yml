@@ -1,2 +1,4 @@
 - pkg:composer/irabbi360/laravel-api-inspector@1.0.0
 - pkg:composer/irabbi360/laravel-api-inspector@1.1
+- pkg:composer/irabbi360/laravel-api-inspector@1.2
+- pkg:composer/irabbi360/laravel-api-inspector@1.2.1

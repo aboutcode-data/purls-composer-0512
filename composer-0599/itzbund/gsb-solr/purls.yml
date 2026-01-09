@@ -195,6 +195,13 @@
 - pkg:composer/itzbund/gsb-solr@v1.14.20
 - pkg:composer/itzbund/gsb-solr@v1.14.21
 - pkg:composer/itzbund/gsb-solr@v1.14.22
+- pkg:composer/itzbund/gsb-solr@v1.14.23
+- pkg:composer/itzbund/gsb-solr@v1.14.24
+- pkg:composer/itzbund/gsb-solr@v1.14.25
+- pkg:composer/itzbund/gsb-solr@v1.14.26
+- pkg:composer/itzbund/gsb-solr@v1.14.27
+- pkg:composer/itzbund/gsb-solr@v1.14.28
+- pkg:composer/itzbund/gsb-solr@v1.14.29
 - pkg:composer/itzbund/gsb-solr@v1.14.3
 - pkg:composer/itzbund/gsb-solr@v1.14.4
 - pkg:composer/itzbund/gsb-solr@v1.14.4-rc.1
@@ -589,3 +596,9 @@
 - pkg:composer/itzbund/gsb-solr@v2.2.1-rc.7
 - pkg:composer/itzbund/gsb-solr@v2.2.1-rc.8
 - pkg:composer/itzbund/gsb-solr@v2.2.1-rc.9
+- pkg:composer/itzbund/gsb-solr@v2.3.0-rc.1
+- pkg:composer/itzbund/gsb-solr@v2.3.0-rc.2
+- pkg:composer/itzbund/gsb-solr@v2.3.0-rc.3
+- pkg:composer/itzbund/gsb-solr@v2.3.0-rc.4
+- pkg:composer/itzbund/gsb-solr@v2.3.0-rc.5
+- pkg:composer/itzbund/gsb-solr@v2.3.0-rc.6
