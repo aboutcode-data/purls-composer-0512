@@ -804,3 +804,4 @@
 - pkg:composer/matomo/matomo@5.7.0-alpha.20251206013320
 - pkg:composer/matomo/matomo@5.7.0-alpha.20251209021831
 - pkg:composer/matomo/matomo@5.7.0-alpha.20251212013507
+- pkg:composer/matomo/matomo@5.7.0-b1

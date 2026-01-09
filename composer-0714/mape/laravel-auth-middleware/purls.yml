@@ -6,6 +6,8 @@
 - pkg:composer/mape/laravel-auth-middleware@v1.0.14
 - pkg:composer/mape/laravel-auth-middleware@v1.0.15
 - pkg:composer/mape/laravel-auth-middleware@v1.0.16
+- pkg:composer/mape/laravel-auth-middleware@v1.0.17
+- pkg:composer/mape/laravel-auth-middleware@v1.0.18
 - pkg:composer/mape/laravel-auth-middleware@v1.0.2
 - pkg:composer/mape/laravel-auth-middleware@v1.0.3
 - pkg:composer/mape/laravel-auth-middleware@v1.0.4
