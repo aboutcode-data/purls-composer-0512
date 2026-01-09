@@ -1,1 +1,2 @@
 - pkg:composer/kipchak/driver-couchdb@1.0
+- pkg:composer/kipchak/driver-couchdb@1.1

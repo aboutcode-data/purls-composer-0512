@@ -17,6 +17,7 @@
 - pkg:composer/jpi/orm@v2.2.1
 - pkg:composer/jpi/orm@v2.2.10
 - pkg:composer/jpi/orm@v2.2.11
+- pkg:composer/jpi/orm@v2.2.12
 - pkg:composer/jpi/orm@v2.2.2
 - pkg:composer/jpi/orm@v2.2.3
 - pkg:composer/jpi/orm@v2.2.4
@@ -25,3 +26,6 @@
 - pkg:composer/jpi/orm@v2.2.7
 - pkg:composer/jpi/orm@v2.2.8
 - pkg:composer/jpi/orm@v2.2.9
+- pkg:composer/jpi/orm@v2.3.0
+- pkg:composer/jpi/orm@v2.4.0
+- pkg:composer/jpi/orm@v2.4.1
