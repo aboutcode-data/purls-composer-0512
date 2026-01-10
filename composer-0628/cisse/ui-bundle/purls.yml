@@ -37,6 +37,9 @@
 - pkg:composer/cisse/ui-bundle@v1.8.18
 - pkg:composer/cisse/ui-bundle@v1.8.19
 - pkg:composer/cisse/ui-bundle@v1.8.2
+- pkg:composer/cisse/ui-bundle@v1.8.20
+- pkg:composer/cisse/ui-bundle@v1.8.21
+- pkg:composer/cisse/ui-bundle@v1.8.22
 - pkg:composer/cisse/ui-bundle@v1.8.3
 - pkg:composer/cisse/ui-bundle@v1.8.4
 - pkg:composer/cisse/ui-bundle@v1.8.5
