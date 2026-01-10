@@ -1,2 +1,3 @@
 - pkg:composer/tibbs/scoped-logger-laravel@v0.10
 - pkg:composer/tibbs/scoped-logger-laravel@v0.20
+- pkg:composer/tibbs/scoped-logger-laravel@v0.30
