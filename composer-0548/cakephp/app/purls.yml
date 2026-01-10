@@ -80,3 +80,4 @@
 - pkg:composer/cakephp/app@5.1.1
 - pkg:composer/cakephp/app@5.1.2
 - pkg:composer/cakephp/app@5.2.0
+- pkg:composer/cakephp/app@5.3.0
