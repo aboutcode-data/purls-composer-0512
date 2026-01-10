@@ -22,3 +22,4 @@
 - pkg:composer/freshcells/soap-client-bundle@2.3.2
 - pkg:composer/freshcells/soap-client-bundle@3.0.0
 - pkg:composer/freshcells/soap-client-bundle@3.0.1
+- pkg:composer/freshcells/soap-client-bundle@3.1.0
