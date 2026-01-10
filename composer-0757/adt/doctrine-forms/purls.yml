@@ -51,3 +51,5 @@
 - pkg:composer/adt/doctrine-forms@v2.2.1
 - pkg:composer/adt/doctrine-forms@v2.2.2
 - pkg:composer/adt/doctrine-forms@v2.2.3
+- pkg:composer/adt/doctrine-forms@v2.3.0
+- pkg:composer/adt/doctrine-forms@v2.3.1
