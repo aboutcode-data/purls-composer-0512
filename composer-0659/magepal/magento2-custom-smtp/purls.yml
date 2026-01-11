@@ -4,3 +4,4 @@
 - pkg:composer/magepal/magento2-custom-smtp@3.5.1
 - pkg:composer/magepal/magento2-custom-smtp@4.0.0
 - pkg:composer/magepal/magento2-custom-smtp@4.0.1
+- pkg:composer/magepal/magento2-custom-smtp@4.0.2
