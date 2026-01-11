@@ -59,6 +59,8 @@
 - pkg:composer/lindemannrock/craft-smartlink-manager@5.12.1
 - pkg:composer/lindemannrock/craft-smartlink-manager@5.12.2
 - pkg:composer/lindemannrock/craft-smartlink-manager@5.13.0
+- pkg:composer/lindemannrock/craft-smartlink-manager@5.14.0
+- pkg:composer/lindemannrock/craft-smartlink-manager@5.15.0
 - pkg:composer/lindemannrock/craft-smartlink-manager@5.2.0
 - pkg:composer/lindemannrock/craft-smartlink-manager@5.3.0
 - pkg:composer/lindemannrock/craft-smartlink-manager@5.3.1
