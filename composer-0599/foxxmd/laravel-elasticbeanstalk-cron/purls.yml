@@ -11,3 +11,4 @@
 - pkg:composer/foxxmd/laravel-elasticbeanstalk-cron@1.2
 - pkg:composer/foxxmd/laravel-elasticbeanstalk-cron@1.3
 - pkg:composer/foxxmd/laravel-elasticbeanstalk-cron@2.0.0
+- pkg:composer/foxxmd/laravel-elasticbeanstalk-cron@2.0.1

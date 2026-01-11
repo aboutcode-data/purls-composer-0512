@@ -25,6 +25,7 @@
 - pkg:composer/game-worker/kiri-http-server@v2.13
 - pkg:composer/game-worker/kiri-http-server@v2.14
 - pkg:composer/game-worker/kiri-http-server@v2.15
+- pkg:composer/game-worker/kiri-http-server@v2.16
 - pkg:composer/game-worker/kiri-http-server@v2.2
 - pkg:composer/game-worker/kiri-http-server@v2.3
 - pkg:composer/game-worker/kiri-http-server@v2.4
