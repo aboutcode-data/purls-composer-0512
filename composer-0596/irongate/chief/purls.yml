@@ -375,6 +375,7 @@
 - pkg:composer/irongate/chief@v0.97.10
 - pkg:composer/irongate/chief@v0.97.11
 - pkg:composer/irongate/chief@v0.97.12
+- pkg:composer/irongate/chief@v0.97.13
 - pkg:composer/irongate/chief@v0.97.2
 - pkg:composer/irongate/chief@v0.97.3
 - pkg:composer/irongate/chief@v0.97.4
