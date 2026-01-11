@@ -1,5 +1,6 @@
 - pkg:composer/corrivate/laravel-mysqldump@3.0.0
 - pkg:composer/corrivate/laravel-mysqldump@3.0.1
+- pkg:composer/corrivate/laravel-mysqldump@4.0.0
 - pkg:composer/corrivate/laravel-mysqldump@v0.1.0
 - pkg:composer/corrivate/laravel-mysqldump@v1.0.0
 - pkg:composer/corrivate/laravel-mysqldump@v2.0.0
