@@ -62,3 +62,4 @@
 - pkg:composer/mirko-pagliai/cakephp-database-backup@3.0.0-RC2
 - pkg:composer/mirko-pagliai/cakephp-database-backup@3.0.0-beta1
 - pkg:composer/mirko-pagliai/cakephp-database-backup@3.0.1
+- pkg:composer/mirko-pagliai/cakephp-database-backup@3.0.2
