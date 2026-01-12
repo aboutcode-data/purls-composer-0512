@@ -204,6 +204,8 @@
 - pkg:composer/itzbund/gsb-solr@v1.14.29
 - pkg:composer/itzbund/gsb-solr@v1.14.3
 - pkg:composer/itzbund/gsb-solr@v1.14.30
+- pkg:composer/itzbund/gsb-solr@v1.14.31
+- pkg:composer/itzbund/gsb-solr@v1.14.32
 - pkg:composer/itzbund/gsb-solr@v1.14.4
 - pkg:composer/itzbund/gsb-solr@v1.14.4-rc.1
 - pkg:composer/itzbund/gsb-solr@v1.14.4-rc.2
