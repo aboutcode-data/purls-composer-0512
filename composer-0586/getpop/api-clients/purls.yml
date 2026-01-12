@@ -99,6 +99,7 @@
 - pkg:composer/getpop/api-clients@15.2.0
 - pkg:composer/getpop/api-clients@15.2.1
 - pkg:composer/getpop/api-clients@15.3.0
+- pkg:composer/getpop/api-clients@16.0.0
 - pkg:composer/getpop/api-clients@2.0.0
 - pkg:composer/getpop/api-clients@2.0.1
 - pkg:composer/getpop/api-clients@2.1.0
