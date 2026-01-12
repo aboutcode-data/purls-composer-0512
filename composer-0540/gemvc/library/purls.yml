@@ -130,6 +130,7 @@
 - pkg:composer/gemvc/library@5.4.1
 - pkg:composer/gemvc/library@5.4.2
 - pkg:composer/gemvc/library@5.4.2-alpha
+- pkg:composer/gemvc/library@5.4.2-alpha1
 - pkg:composer/gemvc/library@V1.0.0
 - pkg:composer/gemvc/library@V1.0.0.5
 - pkg:composer/gemvc/library@V1.1.0
