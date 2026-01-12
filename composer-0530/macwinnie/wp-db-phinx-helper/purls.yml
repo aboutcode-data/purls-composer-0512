@@ -6,4 +6,5 @@
 - pkg:composer/macwinnie/wp-db-phinx-helper@0.1.6
 - pkg:composer/macwinnie/wp-db-phinx-helper@0.1.7
 - pkg:composer/macwinnie/wp-db-phinx-helper@0.1.8
+- pkg:composer/macwinnie/wp-db-phinx-helper@1.0.0
 - pkg:composer/macwinnie/wp-db-phinx-helper@v0.1.0
