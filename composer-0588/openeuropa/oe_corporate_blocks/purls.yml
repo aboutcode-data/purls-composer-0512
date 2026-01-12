@@ -43,8 +43,10 @@
 - pkg:composer/openeuropa/oe_corporate_blocks@4.7.0
 - pkg:composer/openeuropa/oe_corporate_blocks@4.8.0
 - pkg:composer/openeuropa/oe_corporate_blocks@4.9.0
+- pkg:composer/openeuropa/oe_corporate_blocks@5.0.0
 - pkg:composer/openeuropa/oe_corporate_blocks@5.0.0-beta1
 - pkg:composer/openeuropa/oe_corporate_blocks@5.0.0-beta2
 - pkg:composer/openeuropa/oe_corporate_blocks@5.0.0-beta3
 - pkg:composer/openeuropa/oe_corporate_blocks@5.0.0-beta4
 - pkg:composer/openeuropa/oe_corporate_blocks@5.0.0-beta5
+- pkg:composer/openeuropa/oe_corporate_blocks@5.0.1

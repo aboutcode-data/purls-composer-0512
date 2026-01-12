@@ -99,6 +99,7 @@
 - pkg:composer/oat-sa/extension-tao-ltideliveryprovider@v12.7.0
 - pkg:composer/oat-sa/extension-tao-ltideliveryprovider@v12.8.0
 - pkg:composer/oat-sa/extension-tao-ltideliveryprovider@v12.9.0
+- pkg:composer/oat-sa/extension-tao-ltideliveryprovider@v13.0.0
 - pkg:composer/oat-sa/extension-tao-ltideliveryprovider@v2.1.0
 - pkg:composer/oat-sa/extension-tao-ltideliveryprovider@v2.2.0
 - pkg:composer/oat-sa/extension-tao-ltideliveryprovider@v2.4.0
