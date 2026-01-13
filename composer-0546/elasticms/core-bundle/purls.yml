@@ -511,6 +511,7 @@
 - pkg:composer/elasticms/core-bundle@6.7.1
 - pkg:composer/elasticms/core-bundle@6.7.2
 - pkg:composer/elasticms/core-bundle@6.7.3
+- pkg:composer/elasticms/core-bundle@6.7.4
 - pkg:composer/elasticms/core-bundle@6.8.0
 - pkg:composer/elasticms/core-bundle@6.8.1
 - pkg:composer/elasticms/core-bundle@6.9.0
@@ -519,6 +520,7 @@
 - pkg:composer/elasticms/core-bundle@6.9.3
 - pkg:composer/elasticms/core-bundle@6.9.4
 - pkg:composer/elasticms/core-bundle@6.9.5
+- pkg:composer/elasticms/core-bundle@6.9.6
 - pkg:composer/elasticms/core-bundle@V1.4.10
 - pkg:composer/elasticms/core-bundle@V1.4.4
 - pkg:composer/elasticms/core-bundle@V1.4.6
