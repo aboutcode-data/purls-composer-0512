@@ -75,6 +75,7 @@
 - pkg:composer/ingrid/checkout-magento@2.0.3
 - pkg:composer/ingrid/checkout-magento@2.0.31
 - pkg:composer/ingrid/checkout-magento@2.0.32
+- pkg:composer/ingrid/checkout-magento@2.0.33
 - pkg:composer/ingrid/checkout-magento@2.0.4
 - pkg:composer/ingrid/checkout-magento@2.0.5
 - pkg:composer/ingrid/checkout-magento@2.0.6
