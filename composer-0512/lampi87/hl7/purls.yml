@@ -62,3 +62,5 @@
 - pkg:composer/lampi87/hl7@3.2.1
 - pkg:composer/lampi87/hl7@3.2.2
 - pkg:composer/lampi87/hl7@3.2.3
+- pkg:composer/lampi87/hl7@3.2.5
+- pkg:composer/lampi87/hl7@3.2.6
