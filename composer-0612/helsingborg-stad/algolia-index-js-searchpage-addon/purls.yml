@@ -51,6 +51,8 @@
 - pkg:composer/helsingborg-stad/algolia-index-js-searchpage-addon@3.5.7
 - pkg:composer/helsingborg-stad/algolia-index-js-searchpage-addon@3.5.9
 - pkg:composer/helsingborg-stad/algolia-index-js-searchpage-addon@3.6.0
+- pkg:composer/helsingborg-stad/algolia-index-js-searchpage-addon@3.6.10
 - pkg:composer/helsingborg-stad/algolia-index-js-searchpage-addon@3.6.2
 - pkg:composer/helsingborg-stad/algolia-index-js-searchpage-addon@3.6.4
 - pkg:composer/helsingborg-stad/algolia-index-js-searchpage-addon@3.6.6
+- pkg:composer/helsingborg-stad/algolia-index-js-searchpage-addon@3.6.8
