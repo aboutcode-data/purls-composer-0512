@@ -807,3 +807,4 @@
 - pkg:composer/matomo/matomo@5.7.0-b1
 - pkg:composer/matomo/matomo@5.7.0-b1.20260110013413
 - pkg:composer/matomo/matomo@5.7.0-b1.20260112013519
+- pkg:composer/matomo/matomo@5.7.0-b1.20260113013418
