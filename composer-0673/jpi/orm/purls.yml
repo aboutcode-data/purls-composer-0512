@@ -30,3 +30,4 @@
 - pkg:composer/jpi/orm@v2.4.0
 - pkg:composer/jpi/orm@v2.4.1
 - pkg:composer/jpi/orm@v2.4.2
+- pkg:composer/jpi/orm@v2.4.3
