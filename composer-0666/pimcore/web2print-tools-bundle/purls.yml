@@ -55,6 +55,8 @@
 - pkg:composer/pimcore/web2print-tools-bundle@v5.2.0
 - pkg:composer/pimcore/web2print-tools-bundle@v5.2.0-RC1
 - pkg:composer/pimcore/web2print-tools-bundle@v5.2.1
+- pkg:composer/pimcore/web2print-tools-bundle@v5.2.2
 - pkg:composer/pimcore/web2print-tools-bundle@v6.0.0
 - pkg:composer/pimcore/web2print-tools-bundle@v6.0.0-RC1
 - pkg:composer/pimcore/web2print-tools-bundle@v6.1.0
+- pkg:composer/pimcore/web2print-tools-bundle@v6.1.1
