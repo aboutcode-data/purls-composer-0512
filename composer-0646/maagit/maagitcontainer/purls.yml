@@ -43,3 +43,4 @@
 - pkg:composer/maagit/maagitcontainer@v13.4.9
 - pkg:composer/maagit/maagitcontainer@v14.0.0
 - pkg:composer/maagit/maagitcontainer@v14.0.1
+- pkg:composer/maagit/maagitcontainer@v14.0.2
