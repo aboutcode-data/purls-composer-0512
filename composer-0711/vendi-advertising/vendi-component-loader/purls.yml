@@ -24,6 +24,7 @@
 - pkg:composer/vendi-advertising/vendi-component-loader@v2.2.3
 - pkg:composer/vendi-advertising/vendi-component-loader@v2.2.4
 - pkg:composer/vendi-advertising/vendi-component-loader@v2.2.5
+- pkg:composer/vendi-advertising/vendi-component-loader@v2.2.6
 - pkg:composer/vendi-advertising/vendi-component-loader@v3.0.0
 - pkg:composer/vendi-advertising/vendi-component-loader@v3.0.1
 - pkg:composer/vendi-advertising/vendi-component-loader@v3.0.2
@@ -32,3 +33,4 @@
 - pkg:composer/vendi-advertising/vendi-component-loader@v3.0.5
 - pkg:composer/vendi-advertising/vendi-component-loader@v3.0.6
 - pkg:composer/vendi-advertising/vendi-component-loader@v4.0.0
+- pkg:composer/vendi-advertising/vendi-component-loader@v4.0.1

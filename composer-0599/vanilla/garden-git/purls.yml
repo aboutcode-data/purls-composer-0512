@@ -13,3 +13,4 @@
 - pkg:composer/vanilla/garden-git@v3.0
 - pkg:composer/vanilla/garden-git@v3.1
 - pkg:composer/vanilla/garden-git@v3.2
+- pkg:composer/vanilla/garden-git@v3.3
