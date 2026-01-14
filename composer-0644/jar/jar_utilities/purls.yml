@@ -13,6 +13,7 @@
 - pkg:composer/jar/jar_utilities@3.0.0
 - pkg:composer/jar/jar_utilities@3.0.1
 - pkg:composer/jar/jar_utilities@3.0.2
+- pkg:composer/jar/jar_utilities@3.0.3
 - pkg:composer/jar/jar_utilities@v1.0.1
 - pkg:composer/jar/jar_utilities@v1.0.10
 - pkg:composer/jar/jar_utilities@v1.0.11
