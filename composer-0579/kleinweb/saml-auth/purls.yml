@@ -22,3 +22,5 @@
 - pkg:composer/kleinweb/saml-auth@5.1.1
 - pkg:composer/kleinweb/saml-auth@5.1.2
 - pkg:composer/kleinweb/saml-auth@5.2.0
+- pkg:composer/kleinweb/saml-auth@6.0.0
+- pkg:composer/kleinweb/saml-auth@6.0.1
