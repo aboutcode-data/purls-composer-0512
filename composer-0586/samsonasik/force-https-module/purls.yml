@@ -41,3 +41,4 @@
 - pkg:composer/samsonasik/force-https-module@4.1.1
 - pkg:composer/samsonasik/force-https-module@5.0.0
 - pkg:composer/samsonasik/force-https-module@5.0.1
+- pkg:composer/samsonasik/force-https-module@5.1.0

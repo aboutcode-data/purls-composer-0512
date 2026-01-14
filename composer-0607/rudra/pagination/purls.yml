@@ -1,3 +1,4 @@
 - pkg:composer/rudra/pagination@v25.10
 - pkg:composer/rudra/pagination@v25.12
 - pkg:composer/rudra/pagination@v25.6
+- pkg:composer/rudra/pagination@v26.1

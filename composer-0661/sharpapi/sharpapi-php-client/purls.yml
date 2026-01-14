@@ -2,3 +2,4 @@
 - pkg:composer/sharpapi/sharpapi-php-client@v1.0.3
 - pkg:composer/sharpapi/sharpapi-php-client@v1.1.0
 - pkg:composer/sharpapi/sharpapi-php-client@v1.2.0
+- pkg:composer/sharpapi/sharpapi-php-client@v2.0.0
