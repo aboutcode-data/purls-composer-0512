@@ -20,3 +20,5 @@
 - pkg:composer/netlogix/jobqueue-scheduled@3.3.1
 - pkg:composer/netlogix/jobqueue-scheduled@3.3.2
 - pkg:composer/netlogix/jobqueue-scheduled@4.0.0
+- pkg:composer/netlogix/jobqueue-scheduled@5.0.0
+- pkg:composer/netlogix/jobqueue-scheduled@5.1.0
