@@ -33,3 +33,4 @@
 - pkg:composer/3xw/cakephp-elastic-search@4.1.0
 - pkg:composer/3xw/cakephp-elastic-search@5.0
 - pkg:composer/3xw/cakephp-elastic-search@5.0.1
+- pkg:composer/3xw/cakephp-elastic-search@5.0.2

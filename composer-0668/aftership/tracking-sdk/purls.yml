@@ -9,6 +9,7 @@
 - pkg:composer/aftership/tracking-sdk@12.0.0
 - pkg:composer/aftership/tracking-sdk@13.0.0
 - pkg:composer/aftership/tracking-sdk@14.0.0
+- pkg:composer/aftership/tracking-sdk@15.0.0
 - pkg:composer/aftership/tracking-sdk@7.0.0
 - pkg:composer/aftership/tracking-sdk@8.0.0
 - pkg:composer/aftership/tracking-sdk@9.0.0
