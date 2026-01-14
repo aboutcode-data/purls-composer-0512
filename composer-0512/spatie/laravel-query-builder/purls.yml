@@ -120,3 +120,4 @@
 - pkg:composer/spatie/laravel-query-builder@6.3.4
 - pkg:composer/spatie/laravel-query-builder@6.3.5
 - pkg:composer/spatie/laravel-query-builder@6.3.6
+- pkg:composer/spatie/laravel-query-builder@6.4.0

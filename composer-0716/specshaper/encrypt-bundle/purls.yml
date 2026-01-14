@@ -10,3 +10,4 @@
 - pkg:composer/specshaper/encrypt-bundle@v3.2.0
 - pkg:composer/specshaper/encrypt-bundle@v3.2.1
 - pkg:composer/specshaper/encrypt-bundle@v4.0.0-beta
+- pkg:composer/specshaper/encrypt-bundle@v5.0.1

@@ -12,6 +12,7 @@
 - pkg:composer/silverstripe/saml@3.1.0
 - pkg:composer/silverstripe/saml@3.2.0
 - pkg:composer/silverstripe/saml@3.3.0
+- pkg:composer/silverstripe/saml@3.4.0
 - pkg:composer/silverstripe/saml@4.0.0
 - pkg:composer/silverstripe/saml@4.0.1
 - pkg:composer/silverstripe/saml@4.1.0
