@@ -55,3 +55,4 @@
 - pkg:composer/reinfi/zf-dependency-injection@7.1.0
 - pkg:composer/reinfi/zf-dependency-injection@7.2.0
 - pkg:composer/reinfi/zf-dependency-injection@7.3.0
+- pkg:composer/reinfi/zf-dependency-injection@7.3.1
