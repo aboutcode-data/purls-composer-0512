@@ -12,3 +12,4 @@
 - pkg:composer/x-one/notifier-bundle@v2.0.3
 - pkg:composer/x-one/notifier-bundle@v2.0.4
 - pkg:composer/x-one/notifier-bundle@v2.0.5
+- pkg:composer/x-one/notifier-bundle@v3.0.0

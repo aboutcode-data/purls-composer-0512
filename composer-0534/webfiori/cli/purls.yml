@@ -21,3 +21,4 @@
 - pkg:composer/webfiori/cli@v1.3.1
 - pkg:composer/webfiori/cli@v2.0.0
 - pkg:composer/webfiori/cli@v2.0.1
+- pkg:composer/webfiori/cli@v2.1.0
