@@ -17,6 +17,7 @@
 - pkg:composer/haveapi/client@0.22.0
 - pkg:composer/haveapi/client@0.25.0
 - pkg:composer/haveapi/client@0.26.0
+- pkg:composer/haveapi/client@0.26.3
 - pkg:composer/haveapi/client@0.3.0
 - pkg:composer/haveapi/client@0.4.0
 - pkg:composer/haveapi/client@0.4.1
