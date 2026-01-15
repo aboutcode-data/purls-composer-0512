@@ -24,6 +24,7 @@
 - pkg:composer/laravel-lang/attributes@2.13.5
 - pkg:composer/laravel-lang/attributes@2.13.6
 - pkg:composer/laravel-lang/attributes@2.14.0
+- pkg:composer/laravel-lang/attributes@2.14.1
 - pkg:composer/laravel-lang/attributes@2.5.0
 - pkg:composer/laravel-lang/attributes@2.5.1
 - pkg:composer/laravel-lang/attributes@2.6.0

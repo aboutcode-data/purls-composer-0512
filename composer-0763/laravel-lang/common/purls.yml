@@ -18,6 +18,7 @@
 - pkg:composer/laravel-lang/common@6.6.0
 - pkg:composer/laravel-lang/common@6.7.0
 - pkg:composer/laravel-lang/common@6.7.1
+- pkg:composer/laravel-lang/common@6.7.2
 - pkg:composer/laravel-lang/common@v1.0.0
 - pkg:composer/laravel-lang/common@v1.0.1
 - pkg:composer/laravel-lang/common@v2.0.0
