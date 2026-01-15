@@ -111,3 +111,4 @@
 - pkg:composer/silverstripe/versioned-admin@3.1.0-rc1
 - pkg:composer/silverstripe/versioned-admin@3.1.1
 - pkg:composer/silverstripe/versioned-admin@3.1.2
+- pkg:composer/silverstripe/versioned-admin@3.1.3
