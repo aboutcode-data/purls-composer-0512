@@ -59,3 +59,5 @@
 - pkg:composer/atomicsmash/launchpad-blocks@4.0.0
 - pkg:composer/atomicsmash/launchpad-blocks@4.1.0
 - pkg:composer/atomicsmash/launchpad-blocks@4.1.1
+- pkg:composer/atomicsmash/launchpad-blocks@4.2.0
+- pkg:composer/atomicsmash/launchpad-blocks@4.3.0

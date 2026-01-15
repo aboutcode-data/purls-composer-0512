@@ -1,3 +1,4 @@
+- pkg:composer/assoconnect/linxo-client@V2.0.1
 - pkg:composer/assoconnect/linxo-client@v1.0.0
 - pkg:composer/assoconnect/linxo-client@v1.0.1
 - pkg:composer/assoconnect/linxo-client@v1.0.2

@@ -17,3 +17,4 @@
 - pkg:composer/automattic/jetpack-analyzer@v2.0.0
 - pkg:composer/automattic/jetpack-analyzer@v3.0.0
 - pkg:composer/automattic/jetpack-analyzer@v3.0.1
+- pkg:composer/automattic/jetpack-analyzer@v3.0.2
