@@ -5,3 +5,4 @@
 - pkg:composer/terremoth/php-async@v1.0.4
 - pkg:composer/terremoth/php-async@v1.0.5
 - pkg:composer/terremoth/php-async@v1.0.6
+- pkg:composer/terremoth/php-async@v1.0.7
