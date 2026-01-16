@@ -16,6 +16,7 @@
 - pkg:composer/klaviyo/api@15.0.0
 - pkg:composer/klaviyo/api@16.0.0
 - pkg:composer/klaviyo/api@17.0.0
+- pkg:composer/klaviyo/api@18.0.0
 - pkg:composer/klaviyo/api@2.0.0
 - pkg:composer/klaviyo/api@2.0.1
 - pkg:composer/klaviyo/api@2.0.2
