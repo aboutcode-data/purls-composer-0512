@@ -622,3 +622,5 @@
 - pkg:composer/itzbund/gsb-solr@v2.3.1-rc.1
 - pkg:composer/itzbund/gsb-solr@v2.3.1-rc.2
 - pkg:composer/itzbund/gsb-solr@v2.4.0-rc.1
+- pkg:composer/itzbund/gsb-solr@v2.4.0-rc.2
+- pkg:composer/itzbund/gsb-solr@v2.4.0-rc.3
