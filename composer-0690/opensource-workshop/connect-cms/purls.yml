@@ -95,6 +95,7 @@
 - pkg:composer/opensource-workshop/connect-cms@v1.37.0
 - pkg:composer/opensource-workshop/connect-cms@v1.38.0
 - pkg:composer/opensource-workshop/connect-cms@v1.38.1
+- pkg:composer/opensource-workshop/connect-cms@v1.39.0
 - pkg:composer/opensource-workshop/connect-cms@v1.4.0
 - pkg:composer/opensource-workshop/connect-cms@v1.4.1
 - pkg:composer/opensource-workshop/connect-cms@v1.4.2
@@ -191,6 +192,7 @@
 - pkg:composer/opensource-workshop/connect-cms@v2.37.0
 - pkg:composer/opensource-workshop/connect-cms@v2.38.0
 - pkg:composer/opensource-workshop/connect-cms@v2.38.1
+- pkg:composer/opensource-workshop/connect-cms@v2.39.0
 - pkg:composer/opensource-workshop/connect-cms@v2.4.0
 - pkg:composer/opensource-workshop/connect-cms@v2.4.1
 - pkg:composer/opensource-workshop/connect-cms@v2.4.10
