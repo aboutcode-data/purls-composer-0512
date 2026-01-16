@@ -22,3 +22,4 @@
 - pkg:composer/novaway/elasticsearch-bundle@2.5.1
 - pkg:composer/novaway/elasticsearch-bundle@2.6.0
 - pkg:composer/novaway/elasticsearch-bundle@2.7.0
+- pkg:composer/novaway/elasticsearch-bundle@2.7.1
