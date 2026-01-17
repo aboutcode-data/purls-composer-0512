@@ -17,3 +17,4 @@
 - pkg:composer/zepgram/module-rest@2.0.2
 - pkg:composer/zepgram/module-rest@2.0.3
 - pkg:composer/zepgram/module-rest@2.1.0
+- pkg:composer/zepgram/module-rest@2.1.1

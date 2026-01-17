@@ -3,6 +3,7 @@
 - pkg:composer/acseo/typesense-bundle@v0.11
 - pkg:composer/acseo/typesense-bundle@v0.12
 - pkg:composer/acseo/typesense-bundle@v0.12.1
+- pkg:composer/acseo/typesense-bundle@v0.12.2
 - pkg:composer/acseo/typesense-bundle@v0.2
 - pkg:composer/acseo/typesense-bundle@v0.3
 - pkg:composer/acseo/typesense-bundle@v0.4
