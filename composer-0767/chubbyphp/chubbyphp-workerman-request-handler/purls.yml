@@ -9,3 +9,4 @@
 - pkg:composer/chubbyphp/chubbyphp-workerman-request-handler@2.1.0
 - pkg:composer/chubbyphp/chubbyphp-workerman-request-handler@2.2.0
 - pkg:composer/chubbyphp/chubbyphp-workerman-request-handler@2.3.0
+- pkg:composer/chubbyphp/chubbyphp-workerman-request-handler@2.3.1

@@ -68,6 +68,8 @@
 - pkg:composer/byteshard/core@v2.24.0
 - pkg:composer/byteshard/core@v2.24.1
 - pkg:composer/byteshard/core@v2.24.2
+- pkg:composer/byteshard/core@v2.24.3
+- pkg:composer/byteshard/core@v2.24.4
 - pkg:composer/byteshard/core@v2.3.0
 - pkg:composer/byteshard/core@v2.4.0
 - pkg:composer/byteshard/core@v2.4.1

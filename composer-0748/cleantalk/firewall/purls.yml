@@ -17,6 +17,7 @@
 - pkg:composer/cleantalk/firewall@1.15.11
 - pkg:composer/cleantalk/firewall@1.15.12
 - pkg:composer/cleantalk/firewall@1.15.13
+- pkg:composer/cleantalk/firewall@1.15.14
 - pkg:composer/cleantalk/firewall@1.15.2
 - pkg:composer/cleantalk/firewall@1.15.3
 - pkg:composer/cleantalk/firewall@1.15.4

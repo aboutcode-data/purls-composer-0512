@@ -1,1 +1,2 @@
-- pkg:composer/cdgrph/craft-recaptcha@1.0.0
+- pkg:composer/cdgrph/craft-recaptcha@1.1.0
+- pkg:composer/cdgrph/craft-recaptcha@v1.0.0
