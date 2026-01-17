@@ -5,3 +5,5 @@
 - pkg:composer/ditscheri/laravel-check-constraints@v0.0.5
 - pkg:composer/ditscheri/laravel-check-constraints@v0.0.6
 - pkg:composer/ditscheri/laravel-check-constraints@v0.0.7
+- pkg:composer/ditscheri/laravel-check-constraints@v0.0.8
+- pkg:composer/ditscheri/laravel-check-constraints@v0.0.9
