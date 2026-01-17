@@ -10,3 +10,4 @@
 - pkg:composer/qubus/injector@v3.0.1
 - pkg:composer/qubus/injector@v4.0.0
 - pkg:composer/qubus/injector@v4.0.1
+- pkg:composer/qubus/injector@v4.1.0
