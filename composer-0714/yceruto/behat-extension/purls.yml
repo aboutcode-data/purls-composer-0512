@@ -1,2 +1,3 @@
 - pkg:composer/yceruto/behat-extension@v1.0.0
 - pkg:composer/yceruto/behat-extension@v1.0.1
+- pkg:composer/yceruto/behat-extension@v1.0.2
