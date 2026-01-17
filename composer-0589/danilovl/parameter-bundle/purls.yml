@@ -41,3 +41,5 @@
 - pkg:composer/danilovl/parameter-bundle@v4.4.4
 - pkg:composer/danilovl/parameter-bundle@v4.4.5
 - pkg:composer/danilovl/parameter-bundle@v4.4.6
+- pkg:composer/danilovl/parameter-bundle@v5.0.0
+- pkg:composer/danilovl/parameter-bundle@v5.0.1
