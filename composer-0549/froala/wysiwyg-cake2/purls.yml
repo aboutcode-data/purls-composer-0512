@@ -93,3 +93,4 @@
 - pkg:composer/froala/wysiwyg-cake2@4.6.2
 - pkg:composer/froala/wysiwyg-cake2@4.7.0
 - pkg:composer/froala/wysiwyg-cake2@4.7.1
+- pkg:composer/froala/wysiwyg-cake2@5.0.0

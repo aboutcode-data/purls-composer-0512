@@ -35,3 +35,4 @@
 - pkg:composer/google/cloud-video-live-stream@v1.2.1
 - pkg:composer/google/cloud-video-live-stream@v1.3.0
 - pkg:composer/google/cloud-video-live-stream@v1.3.1
+- pkg:composer/google/cloud-video-live-stream@v1.3.2

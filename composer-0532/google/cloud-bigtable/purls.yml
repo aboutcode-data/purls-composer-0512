@@ -131,6 +131,7 @@
 - pkg:composer/google/cloud-bigtable@v2.2.0
 - pkg:composer/google/cloud-bigtable@v2.2.1
 - pkg:composer/google/cloud-bigtable@v2.20.0
+- pkg:composer/google/cloud-bigtable@v2.20.1
 - pkg:composer/google/cloud-bigtable@v2.3.0
 - pkg:composer/google/cloud-bigtable@v2.4.0
 - pkg:composer/google/cloud-bigtable@v2.5.0

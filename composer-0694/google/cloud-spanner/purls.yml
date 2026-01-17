@@ -188,3 +188,4 @@
 - pkg:composer/google/cloud-spanner@v2.0.0-RC1
 - pkg:composer/google/cloud-spanner@v2.1.0
 - pkg:composer/google/cloud-spanner@v2.2.0
+- pkg:composer/google/cloud-spanner@v2.4.0

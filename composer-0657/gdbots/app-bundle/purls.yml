@@ -24,3 +24,4 @@
 - pkg:composer/gdbots/app-bundle@v2.5.2
 - pkg:composer/gdbots/app-bundle@v3.0.0
 - pkg:composer/gdbots/app-bundle@v3.0.1
+- pkg:composer/gdbots/app-bundle@v4.0.0
