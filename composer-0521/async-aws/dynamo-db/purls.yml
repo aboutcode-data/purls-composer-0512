@@ -24,3 +24,4 @@
 - pkg:composer/async-aws/dynamo-db@3.6.0
 - pkg:composer/async-aws/dynamo-db@3.7.0
 - pkg:composer/async-aws/dynamo-db@3.8.0
+- pkg:composer/async-aws/dynamo-db@3.9.0

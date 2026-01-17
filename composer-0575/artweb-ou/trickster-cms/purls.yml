@@ -228,6 +228,7 @@
 - pkg:composer/artweb-ou/trickster-cms@4.8.4
 - pkg:composer/artweb-ou/trickster-cms@4.8.5
 - pkg:composer/artweb-ou/trickster-cms@4.8.6
+- pkg:composer/artweb-ou/trickster-cms@4.9.0
 - pkg:composer/artweb-ou/trickster-cms@99999.1.0.1
 - pkg:composer/artweb-ou/trickster-cms@99999.1.0.10
 - pkg:composer/artweb-ou/trickster-cms@99999.1.0.2

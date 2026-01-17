@@ -5,6 +5,7 @@
 - pkg:composer/async-aws/code-build@2.10.0
 - pkg:composer/async-aws/code-build@2.11.0
 - pkg:composer/async-aws/code-build@2.11.1
+- pkg:composer/async-aws/code-build@2.12.0
 - pkg:composer/async-aws/code-build@2.2.0
 - pkg:composer/async-aws/code-build@2.3.0
 - pkg:composer/async-aws/code-build@2.4.0

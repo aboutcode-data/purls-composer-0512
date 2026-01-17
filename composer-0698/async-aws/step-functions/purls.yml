@@ -12,3 +12,4 @@
 - pkg:composer/async-aws/step-functions@1.5.0
 - pkg:composer/async-aws/step-functions@1.6.0
 - pkg:composer/async-aws/step-functions@1.6.1
+- pkg:composer/async-aws/step-functions@1.7.0

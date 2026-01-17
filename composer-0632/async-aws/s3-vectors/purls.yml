@@ -1,1 +1,2 @@
 - pkg:composer/async-aws/s3-vectors@1.0.0
+- pkg:composer/async-aws/s3-vectors@2.0.0
