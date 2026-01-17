@@ -89,6 +89,9 @@
 - pkg:composer/elliotjreed/disposable-emails-filter@5.0.1
 - pkg:composer/elliotjreed/disposable-emails-filter@5.0.10
 - pkg:composer/elliotjreed/disposable-emails-filter@5.0.100
+- pkg:composer/elliotjreed/disposable-emails-filter@5.0.101
+- pkg:composer/elliotjreed/disposable-emails-filter@5.0.102
+- pkg:composer/elliotjreed/disposable-emails-filter@5.0.103
 - pkg:composer/elliotjreed/disposable-emails-filter@5.0.11
 - pkg:composer/elliotjreed/disposable-emails-filter@5.0.12
 - pkg:composer/elliotjreed/disposable-emails-filter@5.0.13
