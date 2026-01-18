@@ -60,6 +60,8 @@
 - pkg:composer/cognesy/instructor-setup@v1.18.0
 - pkg:composer/cognesy/instructor-setup@v1.18.1
 - pkg:composer/cognesy/instructor-setup@v1.18.2
+- pkg:composer/cognesy/instructor-setup@v1.18.3
+- pkg:composer/cognesy/instructor-setup@v1.18.4
 - pkg:composer/cognesy/instructor-setup@v1.2.0
 - pkg:composer/cognesy/instructor-setup@v1.3.0
 - pkg:composer/cognesy/instructor-setup@v1.4.0
