@@ -63,4 +63,5 @@
 - pkg:composer/ronu/rest-generic-class@1.6.9
 - pkg:composer/ronu/rest-generic-class@1.7.0
 - pkg:composer/ronu/rest-generic-class@1.7.1
+- pkg:composer/ronu/rest-generic-class@1.7.2
 - pkg:composer/ronu/rest-generic-class@v1.0.0
