@@ -165,6 +165,7 @@
 - pkg:composer/vardot/varbase-patches@10.1.50
 - pkg:composer/vardot/varbase-patches@10.1.51
 - pkg:composer/vardot/varbase-patches@10.1.52
+- pkg:composer/vardot/varbase-patches@10.1.53
 - pkg:composer/vardot/varbase-patches@10.1.6
 - pkg:composer/vardot/varbase-patches@10.1.7
 - pkg:composer/vardot/varbase-patches@10.1.8
