@@ -6,3 +6,4 @@
 - pkg:composer/axepress/wp-graphql-cs@2.0.0-beta.2
 - pkg:composer/axepress/wp-graphql-cs@2.0.0-beta.3
 - pkg:composer/axepress/wp-graphql-cs@2.0.1
+- pkg:composer/axepress/wp-graphql-cs@2.1.0
