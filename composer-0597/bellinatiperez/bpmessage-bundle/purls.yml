@@ -33,6 +33,8 @@
 - pkg:composer/bellinatiperez/bpmessage-bundle@0.0.41
 - pkg:composer/bellinatiperez/bpmessage-bundle@0.0.42
 - pkg:composer/bellinatiperez/bpmessage-bundle@0.0.43
+- pkg:composer/bellinatiperez/bpmessage-bundle@0.0.44
+- pkg:composer/bellinatiperez/bpmessage-bundle@0.0.45
 - pkg:composer/bellinatiperez/bpmessage-bundle@0.0.5
 - pkg:composer/bellinatiperez/bpmessage-bundle@0.0.6
 - pkg:composer/bellinatiperez/bpmessage-bundle@0.0.7
