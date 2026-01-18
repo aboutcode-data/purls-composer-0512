@@ -1,4 +1,5 @@
 - pkg:composer/jar/jar_pugtemplate@2.0.0
+- pkg:composer/jar/jar_pugtemplate@3.0.0
 - pkg:composer/jar/jar_pugtemplate@v1.0.0
 - pkg:composer/jar/jar_pugtemplate@v1.0.1
 - pkg:composer/jar/jar_pugtemplate@v1.0.10

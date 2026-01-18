@@ -574,6 +574,9 @@
 - pkg:composer/itzbund/gsb-sitepackage@v7.19.10
 - pkg:composer/itzbund/gsb-sitepackage@v7.19.11
 - pkg:composer/itzbund/gsb-sitepackage@v7.19.12
+- pkg:composer/itzbund/gsb-sitepackage@v7.19.13
+- pkg:composer/itzbund/gsb-sitepackage@v7.19.14
+- pkg:composer/itzbund/gsb-sitepackage@v7.19.15
 - pkg:composer/itzbund/gsb-sitepackage@v7.19.2
 - pkg:composer/itzbund/gsb-sitepackage@v7.19.3
 - pkg:composer/itzbund/gsb-sitepackage@v7.19.4
