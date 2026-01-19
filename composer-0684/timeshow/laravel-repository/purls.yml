@@ -44,3 +44,4 @@
 - pkg:composer/timeshow/laravel-repository@v2.8.0
 - pkg:composer/timeshow/laravel-repository@v2.8.1
 - pkg:composer/timeshow/laravel-repository@v2.8.2
+- pkg:composer/timeshow/laravel-repository@v2.8.3
