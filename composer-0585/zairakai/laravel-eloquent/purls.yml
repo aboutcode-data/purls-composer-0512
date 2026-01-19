@@ -5,3 +5,6 @@
 - pkg:composer/zairakai/laravel-eloquent@v2.3.1
 - pkg:composer/zairakai/laravel-eloquent@v2.3.2
 - pkg:composer/zairakai/laravel-eloquent@v2.4.0
+- pkg:composer/zairakai/laravel-eloquent@v2.5.0
+- pkg:composer/zairakai/laravel-eloquent@v2.5.1
+- pkg:composer/zairakai/laravel-eloquent@v2.5.2
