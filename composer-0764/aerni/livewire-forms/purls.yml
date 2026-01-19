@@ -6,6 +6,7 @@
 - pkg:composer/aerni/livewire-forms@v1.2.0-beta.4
 - pkg:composer/aerni/livewire-forms@v1.2.0-beta.5
 - pkg:composer/aerni/livewire-forms@v1.2.0-beta.6
+- pkg:composer/aerni/livewire-forms@v10.0.0
 - pkg:composer/aerni/livewire-forms@v2.0.0
 - pkg:composer/aerni/livewire-forms@v3.0.0
 - pkg:composer/aerni/livewire-forms@v3.1.0
