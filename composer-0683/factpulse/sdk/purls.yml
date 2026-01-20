@@ -79,3 +79,5 @@
 - pkg:composer/factpulse/sdk@v3.0.7
 - pkg:composer/factpulse/sdk@v3.0.8
 - pkg:composer/factpulse/sdk@v3.0.9
+- pkg:composer/factpulse/sdk@v4.0.0
+- pkg:composer/factpulse/sdk@v4.0.1
