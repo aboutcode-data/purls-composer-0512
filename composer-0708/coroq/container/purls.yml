@@ -2,3 +2,5 @@
 - pkg:composer/coroq/container@v0.2.0
 - pkg:composer/coroq/container@v0.3.0
 - pkg:composer/coroq/container@v0.3.1
+- pkg:composer/coroq/container@v0.3.2
+- pkg:composer/coroq/container@v0.3.3

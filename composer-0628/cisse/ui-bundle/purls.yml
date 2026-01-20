@@ -25,6 +25,7 @@
 - pkg:composer/cisse/ui-bundle@v1.15.0
 - pkg:composer/cisse/ui-bundle@v1.16.0
 - pkg:composer/cisse/ui-bundle@v1.17.0
+- pkg:composer/cisse/ui-bundle@v1.18.0
 - pkg:composer/cisse/ui-bundle@v1.3.10
 - pkg:composer/cisse/ui-bundle@v1.3.6
 - pkg:composer/cisse/ui-bundle@v1.3.7

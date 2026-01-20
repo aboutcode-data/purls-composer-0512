@@ -70,3 +70,4 @@
 - pkg:composer/codefog/contao-events_subscriptions@2.9.0
 - pkg:composer/codefog/contao-events_subscriptions@2.9.1
 - pkg:composer/codefog/contao-events_subscriptions@3.0.0
+- pkg:composer/codefog/contao-events_subscriptions@3.0.1
