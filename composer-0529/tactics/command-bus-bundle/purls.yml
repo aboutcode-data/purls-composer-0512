@@ -1,4 +1,5 @@
 - pkg:composer/tactics/command-bus-bundle@2.1.0
+- pkg:composer/tactics/command-bus-bundle@2.2.0
 - pkg:composer/tactics/command-bus-bundle@v1.0.0
 - pkg:composer/tactics/command-bus-bundle@v1.0.1
 - pkg:composer/tactics/command-bus-bundle@v1.1.0
