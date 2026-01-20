@@ -55,3 +55,4 @@
 - pkg:composer/aonodevs/laravel-cookie-consent@4.1.0
 - pkg:composer/aonodevs/laravel-cookie-consent@4.1.1
 - pkg:composer/aonodevs/laravel-cookie-consent@4.1.2
+- pkg:composer/aonodevs/laravel-cookie-consent@5.0.0
