@@ -3,3 +3,4 @@
 - pkg:composer/zenmanage/zenmanage-laravel@1.0.2
 - pkg:composer/zenmanage/zenmanage-laravel@2.0.0
 - pkg:composer/zenmanage/zenmanage-laravel@2.0.1
+- pkg:composer/zenmanage/zenmanage-laravel@3.0.0
