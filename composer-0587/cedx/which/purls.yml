@@ -3,6 +3,7 @@
 - pkg:composer/cedx/which@11.0.0
 - pkg:composer/cedx/which@11.1.0
 - pkg:composer/cedx/which@11.2.0
+- pkg:composer/cedx/which@12.0.0
 - pkg:composer/cedx/which@9.1.0
 - pkg:composer/cedx/which@v0.1.0
 - pkg:composer/cedx/which@v0.2.0
