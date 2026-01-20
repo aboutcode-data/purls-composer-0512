@@ -26,6 +26,7 @@
 - pkg:composer/doctrine/collections@2.5.0
 - pkg:composer/doctrine/collections@2.5.1
 - pkg:composer/doctrine/collections@2.6.0
+- pkg:composer/doctrine/collections@3.0.0
 - pkg:composer/doctrine/collections@v1.0
 - pkg:composer/doctrine/collections@v1.1
 - pkg:composer/doctrine/collections@v1.2

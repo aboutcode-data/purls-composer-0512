@@ -39,3 +39,4 @@
 - pkg:composer/dodopayments/client@v4.6.0
 - pkg:composer/dodopayments/client@v5.0.0
 - pkg:composer/dodopayments/client@v5.0.1
+- pkg:composer/dodopayments/client@v5.1.0
