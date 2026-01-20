@@ -31,3 +31,4 @@
 - pkg:composer/xefi/faker-php@v1.4.2
 - pkg:composer/xefi/faker-php@v1.4.3
 - pkg:composer/xefi/faker-php@v1.4.4
+- pkg:composer/xefi/faker-php@v1.5.0

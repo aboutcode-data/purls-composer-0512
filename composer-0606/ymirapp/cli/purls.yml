@@ -111,3 +111,4 @@
 - pkg:composer/ymirapp/cli@v1.8.0
 - pkg:composer/ymirapp/cli@v1.8.1
 - pkg:composer/ymirapp/cli@v1.9.0
+- pkg:composer/ymirapp/cli@v2.0.0
