@@ -49,6 +49,7 @@
 - pkg:composer/mantle-framework/new-relic@v1.14.1
 - pkg:composer/mantle-framework/new-relic@v1.15.0
 - pkg:composer/mantle-framework/new-relic@v1.16.0
+- pkg:composer/mantle-framework/new-relic@v1.17.0
 - pkg:composer/mantle-framework/new-relic@v1.2.0
 - pkg:composer/mantle-framework/new-relic@v1.3.0
 - pkg:composer/mantle-framework/new-relic@v1.3.1

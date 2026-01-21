@@ -48,4 +48,6 @@
 - pkg:composer/marellocommerce/marello-application@5.0.0
 - pkg:composer/marellocommerce/marello-application@6.0.0
 - pkg:composer/marellocommerce/marello-application@6.0.1
+- pkg:composer/marellocommerce/marello-application@6.0.2
 - pkg:composer/marellocommerce/marello-application@6.1.0
+- pkg:composer/marellocommerce/marello-application@6.1.1

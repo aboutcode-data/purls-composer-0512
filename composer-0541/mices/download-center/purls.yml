@@ -5,3 +5,5 @@
 - pkg:composer/mices/download-center@1.4
 - pkg:composer/mices/download-center@1.5
 - pkg:composer/mices/download-center@1.6
+- pkg:composer/mices/download-center@1.7
+- pkg:composer/mices/download-center@1.8
