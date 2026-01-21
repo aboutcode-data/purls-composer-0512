@@ -16,6 +16,7 @@
 - pkg:composer/jweiland/events2@10.0.7
 - pkg:composer/jweiland/events2@10.0.8
 - pkg:composer/jweiland/events2@10.0.9
+- pkg:composer/jweiland/events2@10.1.0
 - pkg:composer/jweiland/events2@2.0.0
 - pkg:composer/jweiland/events2@2.1.0
 - pkg:composer/jweiland/events2@2.1.1
@@ -176,6 +177,7 @@
 - pkg:composer/jweiland/events2@8.4.7
 - pkg:composer/jweiland/events2@8.4.8
 - pkg:composer/jweiland/events2@8.4.9
+- pkg:composer/jweiland/events2@8.5.0
 - pkg:composer/jweiland/events2@9.0.0
 - pkg:composer/jweiland/events2@9.0.1
 - pkg:composer/jweiland/events2@9.0.2
@@ -201,3 +203,4 @@
 - pkg:composer/jweiland/events2@9.2.2
 - pkg:composer/jweiland/events2@9.2.3
 - pkg:composer/jweiland/events2@9.2.4
+- pkg:composer/jweiland/events2@9.3.0
