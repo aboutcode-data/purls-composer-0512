@@ -62,6 +62,8 @@
 - pkg:composer/dschuppelius/php-common-toolkit@v0.9.3
 - pkg:composer/dschuppelius/php-common-toolkit@v0.9.3.1
 - pkg:composer/dschuppelius/php-common-toolkit@v0.9.30
+- pkg:composer/dschuppelius/php-common-toolkit@v0.9.31
+- pkg:composer/dschuppelius/php-common-toolkit@v0.9.32
 - pkg:composer/dschuppelius/php-common-toolkit@v0.9.5
 - pkg:composer/dschuppelius/php-common-toolkit@v0.9.6
 - pkg:composer/dschuppelius/php-common-toolkit@v0.9.7
