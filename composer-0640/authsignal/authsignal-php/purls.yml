@@ -18,3 +18,5 @@
 - pkg:composer/authsignal/authsignal-php@v4.1.2
 - pkg:composer/authsignal/authsignal-php@v4.2.0
 - pkg:composer/authsignal/authsignal-php@v4.3.0
+- pkg:composer/authsignal/authsignal-php@v4.3.1
+- pkg:composer/authsignal/authsignal-php@v4.4.0
