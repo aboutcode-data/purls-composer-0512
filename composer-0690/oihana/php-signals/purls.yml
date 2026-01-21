@@ -1,1 +1,3 @@
 - pkg:composer/oihana/php-signals@1.0.0
+- pkg:composer/oihana/php-signals@1.0.1
+- pkg:composer/oihana/php-signals@1.0.2

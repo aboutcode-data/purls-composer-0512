@@ -59,3 +59,6 @@
 - pkg:composer/openfed/openfed@12.5.2
 - pkg:composer/openfed/openfed@12.5.3
 - pkg:composer/openfed/openfed@12.5.4
+- pkg:composer/openfed/openfed@12.5.5
+- pkg:composer/openfed/openfed@12.6.0
+- pkg:composer/openfed/openfed@13.6.0

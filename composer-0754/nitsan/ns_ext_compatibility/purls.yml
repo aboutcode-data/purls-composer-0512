@@ -1,5 +1,6 @@
 - pkg:composer/nitsan/ns_ext_compatibility@12.0.0
 - pkg:composer/nitsan/ns_ext_compatibility@12.0.1
+- pkg:composer/nitsan/ns_ext_compatibility@12.1.0
 - pkg:composer/nitsan/ns_ext_compatibility@4.0.0
 - pkg:composer/nitsan/ns_ext_compatibility@4.0.1
 - pkg:composer/nitsan/ns_ext_compatibility@4.0.2

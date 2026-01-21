@@ -169,6 +169,7 @@
 - pkg:composer/ottimis/phplibs@4.0.0
 - pkg:composer/ottimis/phplibs@4.1.0
 - pkg:composer/ottimis/phplibs@4.10.0
+- pkg:composer/ottimis/phplibs@4.11.0
 - pkg:composer/ottimis/phplibs@4.2.0
 - pkg:composer/ottimis/phplibs@4.2.1
 - pkg:composer/ottimis/phplibs@4.3.0
