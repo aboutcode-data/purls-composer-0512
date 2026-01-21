@@ -48,3 +48,4 @@
 - pkg:composer/torann/laravel-repository@1.0.1
 - pkg:composer/torann/laravel-repository@1.0.2
 - pkg:composer/torann/laravel-repository@1.1.0
+- pkg:composer/torann/laravel-repository@1.1.1
