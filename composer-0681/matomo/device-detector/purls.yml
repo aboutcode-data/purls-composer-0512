@@ -112,3 +112,4 @@
 - pkg:composer/matomo/device-detector@6.4.6
 - pkg:composer/matomo/device-detector@6.4.7
 - pkg:composer/matomo/device-detector@6.4.8
+- pkg:composer/matomo/device-detector@6.5.0
