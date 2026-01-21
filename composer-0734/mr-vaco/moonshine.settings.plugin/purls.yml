@@ -1,2 +1,4 @@
 - pkg:composer/mr-vaco/moonshine.settings.plugin@1.0
 - pkg:composer/mr-vaco/moonshine.settings.plugin@2.0
+- pkg:composer/mr-vaco/moonshine.settings.plugin@2.0.1
+- pkg:composer/mr-vaco/moonshine.settings.plugin@2.0.2
