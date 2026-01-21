@@ -809,3 +809,4 @@
 - pkg:composer/piwik/piwik@5.7.0-b1.20260112013519
 - pkg:composer/piwik/piwik@5.7.0-b1.20260113013418
 - pkg:composer/piwik/piwik@5.7.0-b1.20260118013446
+- pkg:composer/piwik/piwik@5.7.0-b2

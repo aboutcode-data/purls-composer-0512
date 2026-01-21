@@ -73,6 +73,7 @@
 - pkg:composer/pressbooks/pressbooks-book@2.30.2
 - pkg:composer/pressbooks/pressbooks-book@2.30.3
 - pkg:composer/pressbooks/pressbooks-book@2.31.0
+- pkg:composer/pressbooks/pressbooks-book@2.31.1
 - pkg:composer/pressbooks/pressbooks-book@2.4.0
 - pkg:composer/pressbooks/pressbooks-book@2.4.1
 - pkg:composer/pressbooks/pressbooks-book@2.4.2
