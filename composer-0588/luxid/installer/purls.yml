@@ -1,1 +1,4 @@
 - pkg:composer/luxid/installer@v0.1.0
+- pkg:composer/luxid/installer@v0.1.1
+- pkg:composer/luxid/installer@v0.1.2
+- pkg:composer/luxid/installer@v0.1.3
