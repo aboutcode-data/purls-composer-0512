@@ -28,3 +28,5 @@
 - pkg:composer/moxio/php-codesniffer-sniffs@v2.5.6
 - pkg:composer/moxio/php-codesniffer-sniffs@v2.5.7
 - pkg:composer/moxio/php-codesniffer-sniffs@v2.6.3
+- pkg:composer/moxio/php-codesniffer-sniffs@v2.6.4
+- pkg:composer/moxio/php-codesniffer-sniffs@v2.6.5

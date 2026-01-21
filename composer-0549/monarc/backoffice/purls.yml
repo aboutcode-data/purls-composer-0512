@@ -19,6 +19,7 @@
 - pkg:composer/monarc/backoffice@v2.13.1
 - pkg:composer/monarc/backoffice@v2.13.2
 - pkg:composer/monarc/backoffice@v2.13.3
+- pkg:composer/monarc/backoffice@v2.13.4
 - pkg:composer/monarc/backoffice@v2.9.5
 - pkg:composer/monarc/backoffice@v2.9.6
 - pkg:composer/monarc/backoffice@v2.9.7
