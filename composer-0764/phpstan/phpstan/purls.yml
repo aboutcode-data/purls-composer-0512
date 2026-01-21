@@ -393,6 +393,7 @@
 - pkg:composer/phpstan/phpstan@2.1.33
 - pkg:composer/phpstan/phpstan@2.1.34
 - pkg:composer/phpstan/phpstan@2.1.35
+- pkg:composer/phpstan/phpstan@2.1.36
 - pkg:composer/phpstan/phpstan@2.1.4
 - pkg:composer/phpstan/phpstan@2.1.5
 - pkg:composer/phpstan/phpstan@2.1.6
