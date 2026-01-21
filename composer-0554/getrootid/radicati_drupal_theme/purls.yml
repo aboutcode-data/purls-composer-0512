@@ -34,3 +34,5 @@
 - pkg:composer/getrootid/radicati_drupal_theme@1.2.7
 - pkg:composer/getrootid/radicati_drupal_theme@2.0.0
 - pkg:composer/getrootid/radicati_drupal_theme@2.0.1
+- pkg:composer/getrootid/radicati_drupal_theme@2.0.2
+- pkg:composer/getrootid/radicati_drupal_theme@2.0.3

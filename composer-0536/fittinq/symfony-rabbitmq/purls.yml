@@ -69,6 +69,7 @@
 - pkg:composer/fittinq/symfony-rabbitmq@22.1.0
 - pkg:composer/fittinq/symfony-rabbitmq@22.1.1
 - pkg:composer/fittinq/symfony-rabbitmq@22.1.2
+- pkg:composer/fittinq/symfony-rabbitmq@22.2.0
 - pkg:composer/fittinq/symfony-rabbitmq@3.0.0
 - pkg:composer/fittinq/symfony-rabbitmq@4.0.0
 - pkg:composer/fittinq/symfony-rabbitmq@4.1.0
