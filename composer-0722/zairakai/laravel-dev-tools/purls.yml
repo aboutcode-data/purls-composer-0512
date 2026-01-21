@@ -9,6 +9,8 @@
 - pkg:composer/zairakai/laravel-dev-tools@v2.11.0
 - pkg:composer/zairakai/laravel-dev-tools@v2.12.0
 - pkg:composer/zairakai/laravel-dev-tools@v2.12.1
+- pkg:composer/zairakai/laravel-dev-tools@v2.13.0
+- pkg:composer/zairakai/laravel-dev-tools@v2.13.1
 - pkg:composer/zairakai/laravel-dev-tools@v2.2.0
 - pkg:composer/zairakai/laravel-dev-tools@v2.2.1
 - pkg:composer/zairakai/laravel-dev-tools@v2.2.2
