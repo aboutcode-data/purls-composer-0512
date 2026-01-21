@@ -12,3 +12,4 @@
 - pkg:composer/van-ons/laravel-attachment-library@v1.0.0-rc3
 - pkg:composer/van-ons/laravel-attachment-library@v1.1.0
 - pkg:composer/van-ons/laravel-attachment-library@v1.2.0
+- pkg:composer/van-ons/laravel-attachment-library@v1.2.1
