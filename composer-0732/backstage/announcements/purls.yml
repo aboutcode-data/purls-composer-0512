@@ -52,6 +52,7 @@
 - pkg:composer/backstage/announcements@v1.1.51
 - pkg:composer/backstage/announcements@v1.1.52
 - pkg:composer/backstage/announcements@v1.1.53
+- pkg:composer/backstage/announcements@v1.1.54
 - pkg:composer/backstage/announcements@v1.1.6
 - pkg:composer/backstage/announcements@v1.1.7
 - pkg:composer/backstage/announcements@v1.1.8
@@ -71,6 +72,7 @@
 - pkg:composer/backstage/announcements@v2.0.0-beta20
 - pkg:composer/backstage/announcements@v2.0.0-beta21
 - pkg:composer/backstage/announcements@v2.0.0-beta22
+- pkg:composer/backstage/announcements@v2.0.0-beta23
 - pkg:composer/backstage/announcements@v2.0.0-beta3
 - pkg:composer/backstage/announcements@v2.0.0-beta4
 - pkg:composer/backstage/announcements@v2.0.0-beta5
