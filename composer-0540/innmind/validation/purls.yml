@@ -14,3 +14,4 @@
 - pkg:composer/innmind/validation@2.1.0
 - pkg:composer/innmind/validation@2.2.0
 - pkg:composer/innmind/validation@2.3.0
+- pkg:composer/innmind/validation@3.0.0

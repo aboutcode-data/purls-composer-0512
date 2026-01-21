@@ -56,7 +56,9 @@
 - pkg:composer/itzbund/gsb-minimal@v1.5.16
 - pkg:composer/itzbund/gsb-minimal@v1.5.17
 - pkg:composer/itzbund/gsb-minimal@v1.5.18
+- pkg:composer/itzbund/gsb-minimal@v1.5.19
 - pkg:composer/itzbund/gsb-minimal@v1.5.2
+- pkg:composer/itzbund/gsb-minimal@v1.5.20
 - pkg:composer/itzbund/gsb-minimal@v1.5.3
 - pkg:composer/itzbund/gsb-minimal@v1.5.4
 - pkg:composer/itzbund/gsb-minimal@v1.5.5

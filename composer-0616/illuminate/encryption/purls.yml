@@ -292,6 +292,8 @@
 - pkg:composer/illuminate/encryption@v12.45.2
 - pkg:composer/illuminate/encryption@v12.46.0
 - pkg:composer/illuminate/encryption@v12.47.0
+- pkg:composer/illuminate/encryption@v12.48.0
+- pkg:composer/illuminate/encryption@v12.48.1
 - pkg:composer/illuminate/encryption@v12.5.0
 - pkg:composer/illuminate/encryption@v12.6.0
 - pkg:composer/illuminate/encryption@v12.7.0
