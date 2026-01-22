@@ -24,3 +24,4 @@
 - pkg:composer/flow-php/filesystem-async-aws-bridge@0.28.0
 - pkg:composer/flow-php/filesystem-async-aws-bridge@0.29.0
 - pkg:composer/flow-php/filesystem-async-aws-bridge@0.30.0
+- pkg:composer/flow-php/filesystem-async-aws-bridge@0.31.0
