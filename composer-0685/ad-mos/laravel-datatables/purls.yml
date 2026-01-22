@@ -25,3 +25,4 @@
 - pkg:composer/ad-mos/laravel-datatables@v2.6.1
 - pkg:composer/ad-mos/laravel-datatables@v2.7
 - pkg:composer/ad-mos/laravel-datatables@v2.8
+- pkg:composer/ad-mos/laravel-datatables@v2.9

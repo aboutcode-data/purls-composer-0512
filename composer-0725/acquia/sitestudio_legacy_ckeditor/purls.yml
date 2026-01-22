@@ -41,3 +41,4 @@
 - pkg:composer/acquia/sitestudio_legacy_ckeditor@8.2.1
 - pkg:composer/acquia/sitestudio_legacy_ckeditor@8.2.1-rc1
 - pkg:composer/acquia/sitestudio_legacy_ckeditor@8.2.2
+- pkg:composer/acquia/sitestudio_legacy_ckeditor@8.2.3
