@@ -76,6 +76,7 @@
 - pkg:composer/codingms/modules@6.4.0
 - pkg:composer/codingms/modules@6.4.1
 - pkg:composer/codingms/modules@6.4.2
+- pkg:composer/codingms/modules@6.4.3
 - pkg:composer/codingms/modules@7.0.0
 - pkg:composer/codingms/modules@7.0.1
 - pkg:composer/codingms/modules@7.0.2
