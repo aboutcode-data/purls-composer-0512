@@ -35,4 +35,3 @@
 - pkg:composer/workbunny/webman-rabbitmq@2.3.5
 - pkg:composer/workbunny/webman-rabbitmq@2.4.0
 - pkg:composer/workbunny/webman-rabbitmq@2.4.1
-- pkg:composer/workbunny/webman-rabbitmq@2.5.0

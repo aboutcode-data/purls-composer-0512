@@ -1,3 +1,4 @@
+- pkg:composer/workos/workos-php@4.30.0
 - pkg:composer/workos/workos-php@V0.9.4
 - pkg:composer/workos/workos-php@v0.0.1
 - pkg:composer/workos/workos-php@v0.3.0
