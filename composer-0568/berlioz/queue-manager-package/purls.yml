@@ -2,6 +2,7 @@
 - pkg:composer/berlioz/queue-manager-package@v1.1.0
 - pkg:composer/berlioz/queue-manager-package@v1.1.1
 - pkg:composer/berlioz/queue-manager-package@v1.2.0
+- pkg:composer/berlioz/queue-manager-package@v1.3.0
 - pkg:composer/berlioz/queue-manager-package@v2.0.0
 - pkg:composer/berlioz/queue-manager-package@v2.0.0-beta1
 - pkg:composer/berlioz/queue-manager-package@v2.0.0-beta2
@@ -9,3 +10,4 @@
 - pkg:composer/berlioz/queue-manager-package@v2.0.0-beta4
 - pkg:composer/berlioz/queue-manager-package@v2.0.0-beta5
 - pkg:composer/berlioz/queue-manager-package@v2.1.0
+- pkg:composer/berlioz/queue-manager-package@v2.2.0

@@ -12,3 +12,4 @@
 - pkg:composer/berlioz/queue-manager@v1.0.1
 - pkg:composer/berlioz/queue-manager@v1.1.0
 - pkg:composer/berlioz/queue-manager@v1.2.0
+- pkg:composer/berlioz/queue-manager@v1.3.0
