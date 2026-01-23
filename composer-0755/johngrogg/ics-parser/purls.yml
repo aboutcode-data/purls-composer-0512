@@ -44,3 +44,4 @@
 - pkg:composer/johngrogg/ics-parser@v3.4.0
 - pkg:composer/johngrogg/ics-parser@v3.4.1
 - pkg:composer/johngrogg/ics-parser@v3.5.0
+- pkg:composer/johngrogg/ics-parser@v3.5.1

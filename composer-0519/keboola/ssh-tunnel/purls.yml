@@ -11,3 +11,4 @@
 - pkg:composer/keboola/ssh-tunnel@2.0.4
 - pkg:composer/keboola/ssh-tunnel@2.1.0
 - pkg:composer/keboola/ssh-tunnel@2.2.0
+- pkg:composer/keboola/ssh-tunnel@2.2.1
