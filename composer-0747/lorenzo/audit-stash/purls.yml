@@ -18,3 +18,4 @@
 - pkg:composer/lorenzo/audit-stash@4.1.0
 - pkg:composer/lorenzo/audit-stash@4.2.0
 - pkg:composer/lorenzo/audit-stash@4.2.1
+- pkg:composer/lorenzo/audit-stash@4.2.2

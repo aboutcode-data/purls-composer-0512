@@ -39,3 +39,4 @@
 - pkg:composer/knplabs/doctrine-behaviors@v2.0.7
 - pkg:composer/knplabs/doctrine-behaviors@v2.0.8
 - pkg:composer/knplabs/doctrine-behaviors@v3.0.0
+- pkg:composer/knplabs/doctrine-behaviors@v3.1.0
