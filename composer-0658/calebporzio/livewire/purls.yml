@@ -261,6 +261,7 @@
 - pkg:composer/calebporzio/livewire@v3.7.3
 - pkg:composer/calebporzio/livewire@v3.7.4
 - pkg:composer/calebporzio/livewire@v3.7.5
+- pkg:composer/calebporzio/livewire@v3.7.6
 - pkg:composer/calebporzio/livewire@v4.0.0
 - pkg:composer/calebporzio/livewire@v4.0.0-beta.1
 - pkg:composer/calebporzio/livewire@v4.0.0-beta.2
@@ -270,3 +271,4 @@
 - pkg:composer/calebporzio/livewire@v4.0.0-beta.6
 - pkg:composer/calebporzio/livewire@v4.0.1
 - pkg:composer/calebporzio/livewire@v4.0.2
+- pkg:composer/calebporzio/livewire@v4.0.3
