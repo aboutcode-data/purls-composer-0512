@@ -123,6 +123,8 @@
 - pkg:composer/google/gax@v1.39.0
 - pkg:composer/google/gax@v1.40.0
 - pkg:composer/google/gax@v1.40.1
+- pkg:composer/google/gax@v1.41.0
+- pkg:composer/google/gax@v1.42.0
 - pkg:composer/google/gax@v1.7.1
 - pkg:composer/google/gax@v1.8.0
 - pkg:composer/google/gax@v1.9.0
