@@ -63,6 +63,7 @@
 - pkg:composer/ensi/laravel-elastic-query@7.2.0
 - pkg:composer/ensi/laravel-elastic-query@7.2.1
 - pkg:composer/ensi/laravel-elastic-query@7.2.2
+- pkg:composer/ensi/laravel-elastic-query@7.2.3
 - pkg:composer/ensi/laravel-elastic-query@8.0.0
 - pkg:composer/ensi/laravel-elastic-query@8.0.1
 - pkg:composer/ensi/laravel-elastic-query@8.0.10
@@ -112,3 +113,4 @@
 - pkg:composer/ensi/laravel-elastic-query@8.2.0
 - pkg:composer/ensi/laravel-elastic-query@8.2.1
 - pkg:composer/ensi/laravel-elastic-query@8.2.2
+- pkg:composer/ensi/laravel-elastic-query@8.2.3
