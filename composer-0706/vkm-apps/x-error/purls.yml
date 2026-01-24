@@ -1,4 +1,4 @@
 - pkg:composer/vkm-apps/x-error@1.0.0
 - pkg:composer/vkm-apps/x-error@1.0.1
 - pkg:composer/vkm-apps/x-error@1.0.2
-- pkg:composer/vkm-apps/x-error@1.0.25
+- pkg:composer/vkm-apps/x-error@v1.0.3

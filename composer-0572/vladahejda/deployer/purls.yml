@@ -1,3 +1,4 @@
 - pkg:composer/vladahejda/deployer@1.0.0
 - pkg:composer/vladahejda/deployer@1.1.0
 - pkg:composer/vladahejda/deployer@1.2.0
+- pkg:composer/vladahejda/deployer@2.0.0

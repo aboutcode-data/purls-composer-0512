@@ -1,2 +1,5 @@
 - pkg:composer/ttt/openapi-model-creator@1.0.0
 - pkg:composer/ttt/openapi-model-creator@1.1.0
+- pkg:composer/ttt/openapi-model-creator@2.0.0
+- pkg:composer/ttt/openapi-model-creator@2.0.1
+- pkg:composer/ttt/openapi-model-creator@2.0.2
