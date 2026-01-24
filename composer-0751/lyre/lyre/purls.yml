@@ -60,6 +60,7 @@
 - pkg:composer/lyre/lyre@1.10.5
 - pkg:composer/lyre/lyre@1.11.0
 - pkg:composer/lyre/lyre@1.11.1
+- pkg:composer/lyre/lyre@1.11.2
 - pkg:composer/lyre/lyre@1.2.0
 - pkg:composer/lyre/lyre@1.2.1
 - pkg:composer/lyre/lyre@1.2.10
@@ -113,3 +114,4 @@
 - pkg:composer/lyre/lyre@1.8.8
 - pkg:composer/lyre/lyre@1.9.0
 - pkg:composer/lyre/lyre@2.0.0
+- pkg:composer/lyre/lyre@2.0.0-beta1
