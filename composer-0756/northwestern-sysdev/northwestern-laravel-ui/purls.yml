@@ -20,3 +20,5 @@
 - pkg:composer/northwestern-sysdev/northwestern-laravel-ui@v3.0.0
 - pkg:composer/northwestern-sysdev/northwestern-laravel-ui@v3.1.0
 - pkg:composer/northwestern-sysdev/northwestern-laravel-ui@v4.0.0
+- pkg:composer/northwestern-sysdev/northwestern-laravel-ui@v4.0.1
+- pkg:composer/northwestern-sysdev/northwestern-laravel-ui@v4.1.0

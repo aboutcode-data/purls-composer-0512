@@ -5,6 +5,7 @@
 - pkg:composer/nntmux/newznab-tmux@3.0.1
 - pkg:composer/nntmux/newznab-tmux@4.0
 - pkg:composer/nntmux/newznab-tmux@4.1
+- pkg:composer/nntmux/newznab-tmux@4.2
 - pkg:composer/nntmux/newznab-tmux@v0.6.1.0
 - pkg:composer/nntmux/newznab-tmux@v0.6.1.1
 - pkg:composer/nntmux/newznab-tmux@v0.6.1.2
