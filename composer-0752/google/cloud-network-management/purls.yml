@@ -46,3 +46,4 @@
 - pkg:composer/google/cloud-network-management@v2.6.0
 - pkg:composer/google/cloud-network-management@v2.6.1
 - pkg:composer/google/cloud-network-management@v2.7.0
+- pkg:composer/google/cloud-network-management@v2.8.0

@@ -18,3 +18,4 @@
 - pkg:composer/google/cloud-rapidmigrationassessment@v1.1.2
 - pkg:composer/google/cloud-rapidmigrationassessment@v1.2.0
 - pkg:composer/google/cloud-rapidmigrationassessment@v1.2.1
+- pkg:composer/google/cloud-rapidmigrationassessment@v1.2.3
