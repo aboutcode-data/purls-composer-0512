@@ -81,6 +81,7 @@
 - pkg:composer/discoverygarden/dgi_migrate@v3.18.1
 - pkg:composer/discoverygarden/dgi_migrate@v3.18.2
 - pkg:composer/discoverygarden/dgi_migrate@v3.18.3
+- pkg:composer/discoverygarden/dgi_migrate@v3.18.4
 - pkg:composer/discoverygarden/dgi_migrate@v3.2.0
 - pkg:composer/discoverygarden/dgi_migrate@v3.2.1
 - pkg:composer/discoverygarden/dgi_migrate@v3.3.0
