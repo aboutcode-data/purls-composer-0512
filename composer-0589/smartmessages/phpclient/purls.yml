@@ -3,3 +3,4 @@
 - pkg:composer/smartmessages/phpclient@v2.0
 - pkg:composer/smartmessages/phpclient@v2.0.1
 - pkg:composer/smartmessages/phpclient@v2.0.2
+- pkg:composer/smartmessages/phpclient@v3.0.0

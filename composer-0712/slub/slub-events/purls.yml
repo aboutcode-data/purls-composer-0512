@@ -31,3 +31,5 @@
 - pkg:composer/slub/slub-events@v6.2.0
 - pkg:composer/slub/slub-events@v6.2.1
 - pkg:composer/slub/slub-events@v6.3.0
+- pkg:composer/slub/slub-events@v6.3.2
+- pkg:composer/slub/slub-events@v6.3.3
