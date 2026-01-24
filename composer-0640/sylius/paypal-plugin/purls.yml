@@ -49,3 +49,4 @@
 - pkg:composer/sylius/paypal-plugin@v2.0.4
 - pkg:composer/sylius/paypal-plugin@v2.0.5
 - pkg:composer/sylius/paypal-plugin@v2.0.6
+- pkg:composer/sylius/paypal-plugin@v2.0.7

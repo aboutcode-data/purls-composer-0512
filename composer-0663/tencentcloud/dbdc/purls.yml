@@ -394,6 +394,7 @@
 - pkg:composer/tencentcloud/dbdc@3.0.1394
 - pkg:composer/tencentcloud/dbdc@3.0.1414
 - pkg:composer/tencentcloud/dbdc@3.0.1498
+- pkg:composer/tencentcloud/dbdc@3.0.1526
 - pkg:composer/tencentcloud/dbdc@3.0.640
 - pkg:composer/tencentcloud/dbdc@3.0.641
 - pkg:composer/tencentcloud/dbdc@3.0.642

@@ -92,6 +92,8 @@
 - pkg:composer/techart/bxapp@0.8.12
 - pkg:composer/techart/bxapp@0.8.13
 - pkg:composer/techart/bxapp@0.8.14
+- pkg:composer/techart/bxapp@0.8.15
+- pkg:composer/techart/bxapp@0.8.16
 - pkg:composer/techart/bxapp@0.8.2
 - pkg:composer/techart/bxapp@0.8.3
 - pkg:composer/techart/bxapp@0.8.4

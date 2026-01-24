@@ -23,6 +23,7 @@
 - pkg:composer/topvisor/xlsx-creator@v1.21
 - pkg:composer/topvisor/xlsx-creator@v1.22
 - pkg:composer/topvisor/xlsx-creator@v1.23
+- pkg:composer/topvisor/xlsx-creator@v1.24
 - pkg:composer/topvisor/xlsx-creator@v1.3
 - pkg:composer/topvisor/xlsx-creator@v1.4
 - pkg:composer/topvisor/xlsx-creator@v1.5
