@@ -71,3 +71,7 @@
 - pkg:composer/rotexsoft/slim3-skeleton-mvc-tools@6.3.1
 - pkg:composer/rotexsoft/slim3-skeleton-mvc-tools@6.3.2
 - pkg:composer/rotexsoft/slim3-skeleton-mvc-tools@6.3.3
+- pkg:composer/rotexsoft/slim3-skeleton-mvc-tools@7.0.0
+- pkg:composer/rotexsoft/slim3-skeleton-mvc-tools@7.0.1
+- pkg:composer/rotexsoft/slim3-skeleton-mvc-tools@7.1.0
+- pkg:composer/rotexsoft/slim3-skeleton-mvc-tools@7.1.1

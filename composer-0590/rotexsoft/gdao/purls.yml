@@ -19,3 +19,5 @@
 - pkg:composer/rotexsoft/gdao@3.0.0-RC5
 - pkg:composer/rotexsoft/gdao@3.0.1
 - pkg:composer/rotexsoft/gdao@3.0.2
+- pkg:composer/rotexsoft/gdao@4.0.0
+- pkg:composer/rotexsoft/gdao@4.0.1

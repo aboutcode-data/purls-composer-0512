@@ -3,3 +3,4 @@
 - pkg:composer/secretary/gcp-secret-manager-adapter@4.0.0
 - pkg:composer/secretary/gcp-secret-manager-adapter@4.1.0
 - pkg:composer/secretary/gcp-secret-manager-adapter@4.1.1
+- pkg:composer/secretary/gcp-secret-manager-adapter@4.2.0

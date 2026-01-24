@@ -177,3 +177,4 @@
 - pkg:composer/shopware/production@v6.7.5.1
 - pkg:composer/shopware/production@v6.7.6.0
 - pkg:composer/shopware/production@v6.7.6.1
+- pkg:composer/shopware/production@v6.7.6.2

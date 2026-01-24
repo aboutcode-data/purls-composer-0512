@@ -60,7 +60,7 @@
 - pkg:composer/shopware/platform@6.5.0.0-rc2
 - pkg:composer/shopware/platform@6.5.0.0-rc3
 - pkg:composer/shopware/platform@6.5.0.0-rc4
-- pkg:composer/shopware/platform@v6.0.0%2Bea2
+- pkg:composer/shopware/platform@v6.0.0%2Bdp1
 - pkg:composer/shopware/platform@v6.1.0
 - pkg:composer/shopware/platform@v6.1.0-rc1
 - pkg:composer/shopware/platform@v6.1.0-rc2
@@ -179,3 +179,4 @@
 - pkg:composer/shopware/platform@v6.7.5.1
 - pkg:composer/shopware/platform@v6.7.6.0
 - pkg:composer/shopware/platform@v6.7.6.1
+- pkg:composer/shopware/platform@v6.7.6.2
