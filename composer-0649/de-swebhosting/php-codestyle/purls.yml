@@ -13,3 +13,4 @@
 - pkg:composer/de-swebhosting/php-codestyle@v6.0.0
 - pkg:composer/de-swebhosting/php-codestyle@v6.0.1
 - pkg:composer/de-swebhosting/php-codestyle@v6.0.2
+- pkg:composer/de-swebhosting/php-codestyle@v7.0.0
