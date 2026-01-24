@@ -90,6 +90,9 @@
 - pkg:composer/protoframework/proto@1.0.18
 - pkg:composer/protoframework/proto@1.0.180
 - pkg:composer/protoframework/proto@1.0.181
+- pkg:composer/protoframework/proto@1.0.182
+- pkg:composer/protoframework/proto@1.0.183
+- pkg:composer/protoframework/proto@1.0.184
 - pkg:composer/protoframework/proto@1.0.19
 - pkg:composer/protoframework/proto@1.0.2
 - pkg:composer/protoframework/proto@1.0.20

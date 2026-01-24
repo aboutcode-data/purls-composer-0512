@@ -3,6 +3,7 @@
 - pkg:composer/restruct/silverstripe-shortcodable@4.0.12
 - pkg:composer/restruct/silverstripe-shortcodable@4.0.13
 - pkg:composer/restruct/silverstripe-shortcodable@4.0.14
+- pkg:composer/restruct/silverstripe-shortcodable@4.0.15
 - pkg:composer/restruct/silverstripe-shortcodable@4.0.3
 - pkg:composer/restruct/silverstripe-shortcodable@4.0.4
 - pkg:composer/restruct/silverstripe-shortcodable@4.0.6
@@ -10,3 +11,6 @@
 - pkg:composer/restruct/silverstripe-shortcodable@4.0.8
 - pkg:composer/restruct/silverstripe-shortcodable@4.0.9
 - pkg:composer/restruct/silverstripe-shortcodable@5.0.0
+- pkg:composer/restruct/silverstripe-shortcodable@5.0.1
+- pkg:composer/restruct/silverstripe-shortcodable@5.0.2
+- pkg:composer/restruct/silverstripe-shortcodable@5.0.3

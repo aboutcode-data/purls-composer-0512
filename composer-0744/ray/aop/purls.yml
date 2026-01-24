@@ -49,7 +49,9 @@
 - pkg:composer/ray/aop@2.17.2
 - pkg:composer/ray/aop@2.17.3
 - pkg:composer/ray/aop@2.18.0
+- pkg:composer/ray/aop@2.18.1
 - pkg:composer/ray/aop@2.19.0
+- pkg:composer/ray/aop@2.19.1
 - pkg:composer/ray/aop@2.2.0
 - pkg:composer/ray/aop@2.3.0
 - pkg:composer/ray/aop@2.3.1
