@@ -2,3 +2,4 @@
 - pkg:composer/roslov/laravel-migration-checker@0.1.1
 - pkg:composer/roslov/laravel-migration-checker@0.2.0
 - pkg:composer/roslov/laravel-migration-checker@0.3.0
+- pkg:composer/roslov/laravel-migration-checker@0.4.0
