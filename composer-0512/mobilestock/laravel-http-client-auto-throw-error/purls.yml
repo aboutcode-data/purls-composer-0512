@@ -494,7 +494,12 @@
 - pkg:composer/mobilestock/laravel-http-client-auto-throw-error@v0.0.543
 - pkg:composer/mobilestock/laravel-http-client-auto-throw-error@v0.0.544
 - pkg:composer/mobilestock/laravel-http-client-auto-throw-error@v0.0.545
+- pkg:composer/mobilestock/laravel-http-client-auto-throw-error@v0.0.546
+- pkg:composer/mobilestock/laravel-http-client-auto-throw-error@v0.0.547
+- pkg:composer/mobilestock/laravel-http-client-auto-throw-error@v0.0.548
+- pkg:composer/mobilestock/laravel-http-client-auto-throw-error@v0.0.549
 - pkg:composer/mobilestock/laravel-http-client-auto-throw-error@v0.0.55
+- pkg:composer/mobilestock/laravel-http-client-auto-throw-error@v0.0.550
 - pkg:composer/mobilestock/laravel-http-client-auto-throw-error@v0.0.56
 - pkg:composer/mobilestock/laravel-http-client-auto-throw-error@v0.0.57
 - pkg:composer/mobilestock/laravel-http-client-auto-throw-error@v0.0.58

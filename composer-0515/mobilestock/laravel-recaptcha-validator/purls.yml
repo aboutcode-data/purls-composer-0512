@@ -757,6 +757,11 @@
 - pkg:composer/mobilestock/laravel-recaptcha-validator@v0.0.780
 - pkg:composer/mobilestock/laravel-recaptcha-validator@v0.0.781
 - pkg:composer/mobilestock/laravel-recaptcha-validator@v0.0.782
+- pkg:composer/mobilestock/laravel-recaptcha-validator@v0.0.783
+- pkg:composer/mobilestock/laravel-recaptcha-validator@v0.0.784
+- pkg:composer/mobilestock/laravel-recaptcha-validator@v0.0.785
+- pkg:composer/mobilestock/laravel-recaptcha-validator@v0.0.786
+- pkg:composer/mobilestock/laravel-recaptcha-validator@v0.0.787
 - pkg:composer/mobilestock/laravel-recaptcha-validator@v0.0.79
 - pkg:composer/mobilestock/laravel-recaptcha-validator@v0.0.8
 - pkg:composer/mobilestock/laravel-recaptcha-validator@v0.0.80
