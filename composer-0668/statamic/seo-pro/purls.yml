@@ -59,6 +59,7 @@
 - pkg:composer/statamic/seo-pro@6.11.4
 - pkg:composer/statamic/seo-pro@6.11.5
 - pkg:composer/statamic/seo-pro@6.11.6
+- pkg:composer/statamic/seo-pro@6.11.7
 - pkg:composer/statamic/seo-pro@6.2.0
 - pkg:composer/statamic/seo-pro@6.3.0
 - pkg:composer/statamic/seo-pro@6.4.0

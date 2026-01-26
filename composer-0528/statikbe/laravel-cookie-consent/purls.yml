@@ -11,6 +11,7 @@
 - pkg:composer/statikbe/laravel-cookie-consent@1.11.1
 - pkg:composer/statikbe/laravel-cookie-consent@1.11.2
 - pkg:composer/statikbe/laravel-cookie-consent@1.11.3
+- pkg:composer/statikbe/laravel-cookie-consent@1.11.4
 - pkg:composer/statikbe/laravel-cookie-consent@1.2.0
 - pkg:composer/statikbe/laravel-cookie-consent@1.2.1
 - pkg:composer/statikbe/laravel-cookie-consent@1.2.10
