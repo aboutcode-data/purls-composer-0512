@@ -7,3 +7,4 @@
 - pkg:composer/tectly/openapi-client@v1.2.4
 - pkg:composer/tectly/openapi-client@v1.3.0
 - pkg:composer/tectly/openapi-client@v1.3.1
+- pkg:composer/tectly/openapi-client@v1.4.0

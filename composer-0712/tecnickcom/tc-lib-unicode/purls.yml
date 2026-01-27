@@ -90,6 +90,10 @@
 - pkg:composer/tecnickcom/tc-lib-unicode@2.0.32
 - pkg:composer/tecnickcom/tc-lib-unicode@2.0.34
 - pkg:composer/tecnickcom/tc-lib-unicode@2.0.35
+- pkg:composer/tecnickcom/tc-lib-unicode@2.0.36
+- pkg:composer/tecnickcom/tc-lib-unicode@2.0.37
+- pkg:composer/tecnickcom/tc-lib-unicode@2.0.38
+- pkg:composer/tecnickcom/tc-lib-unicode@2.0.39
 - pkg:composer/tecnickcom/tc-lib-unicode@2.0.6
 - pkg:composer/tecnickcom/tc-lib-unicode@2.0.7
 - pkg:composer/tecnickcom/tc-lib-unicode@2.0.8

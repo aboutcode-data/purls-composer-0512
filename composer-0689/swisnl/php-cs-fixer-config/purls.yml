@@ -43,6 +43,7 @@
 - pkg:composer/swisnl/php-cs-fixer-config@1.45.0
 - pkg:composer/swisnl/php-cs-fixer-config@1.46.0
 - pkg:composer/swisnl/php-cs-fixer-config@1.47.0
+- pkg:composer/swisnl/php-cs-fixer-config@1.48.0
 - pkg:composer/swisnl/php-cs-fixer-config@1.5.0
 - pkg:composer/swisnl/php-cs-fixer-config@1.6.0
 - pkg:composer/swisnl/php-cs-fixer-config@1.7.0

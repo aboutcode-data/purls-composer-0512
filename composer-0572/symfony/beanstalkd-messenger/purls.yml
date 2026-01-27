@@ -59,6 +59,7 @@
 - pkg:composer/symfony/beanstalkd-messenger@v6.4.18
 - pkg:composer/symfony/beanstalkd-messenger@v6.4.24
 - pkg:composer/symfony/beanstalkd-messenger@v6.4.3
+- pkg:composer/symfony/beanstalkd-messenger@v6.4.32
 - pkg:composer/symfony/beanstalkd-messenger@v6.4.4
 - pkg:composer/symfony/beanstalkd-messenger@v6.4.7
 - pkg:composer/symfony/beanstalkd-messenger@v6.4.8
@@ -86,11 +87,14 @@
 - pkg:composer/symfony/beanstalkd-messenger@v7.3.0-BETA1
 - pkg:composer/symfony/beanstalkd-messenger@v7.3.0-BETA2
 - pkg:composer/symfony/beanstalkd-messenger@v7.3.0-RC1
+- pkg:composer/symfony/beanstalkd-messenger@v7.3.10
 - pkg:composer/symfony/beanstalkd-messenger@v7.4.0
 - pkg:composer/symfony/beanstalkd-messenger@v7.4.0-BETA1
 - pkg:composer/symfony/beanstalkd-messenger@v7.4.0-BETA2
 - pkg:composer/symfony/beanstalkd-messenger@v7.4.0-RC1
+- pkg:composer/symfony/beanstalkd-messenger@v7.4.4
 - pkg:composer/symfony/beanstalkd-messenger@v8.0.0
 - pkg:composer/symfony/beanstalkd-messenger@v8.0.0-BETA1
 - pkg:composer/symfony/beanstalkd-messenger@v8.0.0-BETA2
 - pkg:composer/symfony/beanstalkd-messenger@v8.0.0-RC1
+- pkg:composer/symfony/beanstalkd-messenger@v8.0.4
