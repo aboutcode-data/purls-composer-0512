@@ -28,6 +28,7 @@
 - pkg:composer/studio1902/statamic-peak-commands@v1.9
 - pkg:composer/studio1902/statamic-peak-commands@v10.0.0
 - pkg:composer/studio1902/statamic-peak-commands@v10.1.0
+- pkg:composer/studio1902/statamic-peak-commands@v10.2.0
 - pkg:composer/studio1902/statamic-peak-commands@v2.0
 - pkg:composer/studio1902/statamic-peak-commands@v2.0-beta.1
 - pkg:composer/studio1902/statamic-peak-commands@v2.0-beta.2

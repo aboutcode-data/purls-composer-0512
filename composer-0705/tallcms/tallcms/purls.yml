@@ -35,3 +35,6 @@
 - pkg:composer/tallcms/tallcms@v2.7.0
 - pkg:composer/tallcms/tallcms@v2.8.0
 - pkg:composer/tallcms/tallcms@v2.8.1
+- pkg:composer/tallcms/tallcms@v2.8.2
+- pkg:composer/tallcms/tallcms@v2.8.3
+- pkg:composer/tallcms/tallcms@v2.8.4
