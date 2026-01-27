@@ -5,3 +5,4 @@
 - pkg:composer/solapi/sdk@5.0.4
 - pkg:composer/solapi/sdk@5.0.5
 - pkg:composer/solapi/sdk@5.0.6
+- pkg:composer/solapi/sdk@5.1.0
