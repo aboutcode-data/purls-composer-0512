@@ -10,3 +10,4 @@
 - pkg:composer/laravel/roster@v0.2.8
 - pkg:composer/laravel/roster@v0.2.9
 - pkg:composer/laravel/roster@v0.3.0
+- pkg:composer/laravel/roster@v0.3.1
