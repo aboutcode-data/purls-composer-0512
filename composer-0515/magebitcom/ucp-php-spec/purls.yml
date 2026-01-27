@@ -9,3 +9,5 @@
 - pkg:composer/magebitcom/ucp-php-spec@v0.0.8
 - pkg:composer/magebitcom/ucp-php-spec@v0.0.9
 - pkg:composer/magebitcom/ucp-php-spec@v1.0.0
+- pkg:composer/magebitcom/ucp-php-spec@v1.0.1
+- pkg:composer/magebitcom/ucp-php-spec@v1.0.2
