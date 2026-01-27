@@ -5,6 +5,7 @@
 - pkg:composer/sergeytsalkov/meekrodb@v2.4
 - pkg:composer/sergeytsalkov/meekrodb@v2.5
 - pkg:composer/sergeytsalkov/meekrodb@v2.5.1
+- pkg:composer/sergeytsalkov/meekrodb@v2.5.2
 - pkg:composer/sergeytsalkov/meekrodb@v3.0.0
 - pkg:composer/sergeytsalkov/meekrodb@v3.0.1
 - pkg:composer/sergeytsalkov/meekrodb@v3.1.0
@@ -12,3 +13,4 @@
 - pkg:composer/sergeytsalkov/meekrodb@v3.1.2
 - pkg:composer/sergeytsalkov/meekrodb@v3.1.3
 - pkg:composer/sergeytsalkov/meekrodb@v3.1.4
+- pkg:composer/sergeytsalkov/meekrodb@v3.1.5
