@@ -17,3 +17,4 @@
 - pkg:composer/paynl/php-sdk@1.0.9
 - pkg:composer/paynl/php-sdk@1.1.0
 - pkg:composer/paynl/php-sdk@1.1.1
+- pkg:composer/paynl/php-sdk@1.1.2
