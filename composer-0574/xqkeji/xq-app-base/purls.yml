@@ -47,7 +47,12 @@
 - pkg:composer/xqkeji/xq-app-base@v1.1.7
 - pkg:composer/xqkeji/xq-app-base@v1.1.8
 - pkg:composer/xqkeji/xq-app-base@v1.2.1
+- pkg:composer/xqkeji/xq-app-base@v1.2.10
 - pkg:composer/xqkeji/xq-app-base@v1.2.2
 - pkg:composer/xqkeji/xq-app-base@v1.2.3
-- pkg:composer/xqkeji/xq-app-base@v2.0.1
-- pkg:composer/xqkeji/xq-app-base@v2.0.2
+- pkg:composer/xqkeji/xq-app-base@v1.2.4
+- pkg:composer/xqkeji/xq-app-base@v1.2.5
+- pkg:composer/xqkeji/xq-app-base@v1.2.6
+- pkg:composer/xqkeji/xq-app-base@v1.2.7
+- pkg:composer/xqkeji/xq-app-base@v1.2.8
+- pkg:composer/xqkeji/xq-app-base@v1.2.9

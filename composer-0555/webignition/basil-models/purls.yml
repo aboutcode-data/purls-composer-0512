@@ -66,6 +66,10 @@
 - pkg:composer/webignition/basil-models@11.2
 - pkg:composer/webignition/basil-models@12.0
 - pkg:composer/webignition/basil-models@13.0
+- pkg:composer/webignition/basil-models@14.0
+- pkg:composer/webignition/basil-models@15.0
+- pkg:composer/webignition/basil-models@15.1
+- pkg:composer/webignition/basil-models@15.2
 - pkg:composer/webignition/basil-models@2.0
 - pkg:composer/webignition/basil-models@3.0
 - pkg:composer/webignition/basil-models@4.0
