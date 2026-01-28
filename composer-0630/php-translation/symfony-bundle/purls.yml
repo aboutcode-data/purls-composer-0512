@@ -21,6 +21,7 @@
 - pkg:composer/php-translation/symfony-bundle@0.15.0
 - pkg:composer/php-translation/symfony-bundle@0.16.0
 - pkg:composer/php-translation/symfony-bundle@0.16.1
+- pkg:composer/php-translation/symfony-bundle@0.17.0
 - pkg:composer/php-translation/symfony-bundle@0.2.0
 - pkg:composer/php-translation/symfony-bundle@0.3.0
 - pkg:composer/php-translation/symfony-bundle@0.3.1

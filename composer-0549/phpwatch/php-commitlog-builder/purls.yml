@@ -35,3 +35,4 @@
 - pkg:composer/phpwatch/php-commitlog-builder@v2.0.8
 - pkg:composer/phpwatch/php-commitlog-builder@v2.0.9
 - pkg:composer/phpwatch/php-commitlog-builder@v3.0.0
+- pkg:composer/phpwatch/php-commitlog-builder@v3.0.1
