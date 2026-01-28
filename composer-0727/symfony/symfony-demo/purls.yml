@@ -58,3 +58,4 @@
 - pkg:composer/symfony/symfony-demo@v2.8.0
 - pkg:composer/symfony/symfony-demo@v2.8.1
 - pkg:composer/symfony/symfony-demo@v2.9.0
+- pkg:composer/symfony/symfony-demo@v3.0.0
