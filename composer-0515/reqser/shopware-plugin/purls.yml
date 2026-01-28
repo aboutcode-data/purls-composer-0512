@@ -4,6 +4,7 @@
 - pkg:composer/reqser/shopware-plugin@1.6.4
 - pkg:composer/reqser/shopware-plugin@1.6.5
 - pkg:composer/reqser/shopware-plugin@1.6.7
+- pkg:composer/reqser/shopware-plugin@1.7.10
 - pkg:composer/reqser/shopware-plugin@1.7.3
 - pkg:composer/reqser/shopware-plugin@1.7.4
 - pkg:composer/reqser/shopware-plugin@1.7.5
@@ -12,6 +13,7 @@
 - pkg:composer/reqser/shopware-plugin@1.7.9
 - pkg:composer/reqser/shopware-plugin@2.0.0
 - pkg:composer/reqser/shopware-plugin@2.0.1
+- pkg:composer/reqser/shopware-plugin@2.0.10
 - pkg:composer/reqser/shopware-plugin@2.0.2
 - pkg:composer/reqser/shopware-plugin@2.0.3
 - pkg:composer/reqser/shopware-plugin@2.0.4
