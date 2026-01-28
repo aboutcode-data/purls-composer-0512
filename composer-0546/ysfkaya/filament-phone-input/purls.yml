@@ -49,3 +49,4 @@
 - pkg:composer/ysfkaya/filament-phone-input@v3.2.4
 - pkg:composer/ysfkaya/filament-phone-input@v4.0.0
 - pkg:composer/ysfkaya/filament-phone-input@v4.0.0-beta
+- pkg:composer/ysfkaya/filament-phone-input@v4.1.0

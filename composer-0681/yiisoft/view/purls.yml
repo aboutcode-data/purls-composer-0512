@@ -8,6 +8,7 @@
 - pkg:composer/yiisoft/view@12.2.0
 - pkg:composer/yiisoft/view@12.2.1
 - pkg:composer/yiisoft/view@12.2.2
+- pkg:composer/yiisoft/view@12.2.3
 - pkg:composer/yiisoft/view@2.0.0
 - pkg:composer/yiisoft/view@2.0.1
 - pkg:composer/yiisoft/view@2.1.0

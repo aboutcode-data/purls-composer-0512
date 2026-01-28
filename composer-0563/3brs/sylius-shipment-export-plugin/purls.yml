@@ -3,3 +3,4 @@
 - pkg:composer/3brs/sylius-shipment-export-plugin@v0.7.0
 - pkg:composer/3brs/sylius-shipment-export-plugin@v0.8.0
 - pkg:composer/3brs/sylius-shipment-export-plugin@v1.0.0
+- pkg:composer/3brs/sylius-shipment-export-plugin@v2.0.0
