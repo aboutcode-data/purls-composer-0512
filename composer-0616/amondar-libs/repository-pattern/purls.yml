@@ -16,3 +16,5 @@
 - pkg:composer/amondar-libs/repository-pattern@1.4.7
 - pkg:composer/amondar-libs/repository-pattern@1.5.0
 - pkg:composer/amondar-libs/repository-pattern@2.0.0
+- pkg:composer/amondar-libs/repository-pattern@2.0.1
+- pkg:composer/amondar-libs/repository-pattern@2.0.2

@@ -1,6 +1,12 @@
 - pkg:composer/alcamo/html-creation@0.1
 - pkg:composer/alcamo/html-creation@0.1.1
 - pkg:composer/alcamo/html-creation@0.1.2
+- pkg:composer/alcamo/html-creation@0.10.0
+- pkg:composer/alcamo/html-creation@0.10.1
+- pkg:composer/alcamo/html-creation@0.10.2
+- pkg:composer/alcamo/html-creation@0.10.4
+- pkg:composer/alcamo/html-creation@0.10.5
+- pkg:composer/alcamo/html-creation@0.11.0
 - pkg:composer/alcamo/html-creation@0.2
 - pkg:composer/alcamo/html-creation@0.3
 - pkg:composer/alcamo/html-creation@0.4
