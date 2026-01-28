@@ -72,4 +72,7 @@
 - pkg:composer/ronu/rest-generic-class@1.8.2
 - pkg:composer/ronu/rest-generic-class@1.8.3
 - pkg:composer/ronu/rest-generic-class@1.8.4
+- pkg:composer/ronu/rest-generic-class@1.8.5
+- pkg:composer/ronu/rest-generic-class@1.8.6
+- pkg:composer/ronu/rest-generic-class@1.8.8
 - pkg:composer/ronu/rest-generic-class@v1.0.0
