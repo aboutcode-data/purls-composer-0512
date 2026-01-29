@@ -23,6 +23,7 @@
 - pkg:composer/openpsa/midgard-portable@v1.10.3
 - pkg:composer/openpsa/midgard-portable@v1.10.4
 - pkg:composer/openpsa/midgard-portable@v1.10.5
+- pkg:composer/openpsa/midgard-portable@v1.10.6
 - pkg:composer/openpsa/midgard-portable@v1.2.0
 - pkg:composer/openpsa/midgard-portable@v1.3.0
 - pkg:composer/openpsa/midgard-portable@v1.3.1
