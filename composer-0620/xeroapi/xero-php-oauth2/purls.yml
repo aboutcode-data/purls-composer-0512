@@ -49,6 +49,7 @@
 - pkg:composer/xeroapi/xero-php-oauth2@10.1.0
 - pkg:composer/xeroapi/xero-php-oauth2@10.2.0
 - pkg:composer/xeroapi/xero-php-oauth2@10.3.0
+- pkg:composer/xeroapi/xero-php-oauth2@10.4.0
 - pkg:composer/xeroapi/xero-php-oauth2@2.0.0
 - pkg:composer/xeroapi/xero-php-oauth2@2.0.1
 - pkg:composer/xeroapi/xero-php-oauth2@2.0.2
