@@ -44,3 +44,4 @@
 - pkg:composer/bestcompany/bestcompany-api@v0.5.0.0
 - pkg:composer/bestcompany/bestcompany-api@v0.7.0.0
 - pkg:composer/bestcompany/bestcompany-api@v0.8.0
+- pkg:composer/bestcompany/bestcompany-api@v0.8.1

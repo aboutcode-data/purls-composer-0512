@@ -18,4 +18,6 @@
 - pkg:composer/artisanpack-ui/livewire-ui-components@1.0.0
 - pkg:composer/artisanpack-ui/livewire-ui-components@1.0.1
 - pkg:composer/artisanpack-ui/livewire-ui-components@1.0.2
+- pkg:composer/artisanpack-ui/livewire-ui-components@2.0.0
 - pkg:composer/artisanpack-ui/livewire-ui-components@2.0.0-beta1
+- pkg:composer/artisanpack-ui/livewire-ui-components@2.0.1

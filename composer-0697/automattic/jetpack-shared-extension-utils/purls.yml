@@ -194,3 +194,4 @@
 - pkg:composer/automattic/jetpack-shared-extension-utils@v1.4.4
 - pkg:composer/automattic/jetpack-shared-extension-utils@v1.4.5
 - pkg:composer/automattic/jetpack-shared-extension-utils@v1.4.6
+- pkg:composer/automattic/jetpack-shared-extension-utils@v1.4.7

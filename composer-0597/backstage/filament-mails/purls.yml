@@ -5,6 +5,15 @@
 - pkg:composer/backstage/filament-mails@v1.0.4
 - pkg:composer/backstage/filament-mails@v1.0.5
 - pkg:composer/backstage/filament-mails@v2.0.0
+- pkg:composer/backstage/filament-mails@v2.0.0-beta34
+- pkg:composer/backstage/filament-mails@v2.0.0-beta35
+- pkg:composer/backstage/filament-mails@v2.0.0-beta36
+- pkg:composer/backstage/filament-mails@v2.0.0-beta38
+- pkg:composer/backstage/filament-mails@v2.0.0-beta39
+- pkg:composer/backstage/filament-mails@v2.0.0-beta40
+- pkg:composer/backstage/filament-mails@v2.0.0-beta41
+- pkg:composer/backstage/filament-mails@v2.0.0-beta42
+- pkg:composer/backstage/filament-mails@v2.0.0beta-37
 - pkg:composer/backstage/filament-mails@v2.0.1
 - pkg:composer/backstage/filament-mails@v2.0.2
 - pkg:composer/backstage/filament-mails@v2.0.3

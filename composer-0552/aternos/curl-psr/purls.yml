@@ -11,3 +11,4 @@
 - pkg:composer/aternos/curl-psr@v1.3.3
 - pkg:composer/aternos/curl-psr@v1.3.4
 - pkg:composer/aternos/curl-psr@v1.3.5
+- pkg:composer/aternos/curl-psr@v2.0.0

@@ -7,5 +7,10 @@
 - pkg:composer/artimman/dbmframework@v2.3.6
 - pkg:composer/artimman/dbmframework@v2.3.7
 - pkg:composer/artimman/dbmframework@v3.0.0
+- pkg:composer/artimman/dbmframework@v3.1
 - pkg:composer/artimman/dbmframework@v3.1.2
 - pkg:composer/artimman/dbmframework@v3.1.3
+- pkg:composer/artimman/dbmframework@v3.2
+- pkg:composer/artimman/dbmframework@v4.0.0
+- pkg:composer/artimman/dbmframework@v4.1.5
+- pkg:composer/artimman/dbmframework@v4.1.6
