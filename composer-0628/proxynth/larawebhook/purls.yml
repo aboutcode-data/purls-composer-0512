@@ -7,3 +7,6 @@
 - pkg:composer/proxynth/larawebhook@v1.5.1
 - pkg:composer/proxynth/larawebhook@v1.6.0
 - pkg:composer/proxynth/larawebhook@v1.7.0
+- pkg:composer/proxynth/larawebhook@v1.8.0
+- pkg:composer/proxynth/larawebhook@v1.9.0
+- pkg:composer/proxynth/larawebhook@v1.9.1
