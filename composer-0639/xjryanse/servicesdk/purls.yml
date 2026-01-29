@@ -97,8 +97,12 @@
 - pkg:composer/xjryanse/servicesdk@v0.0.98
 - pkg:composer/xjryanse/servicesdk@v0.0.99
 - pkg:composer/xjryanse/servicesdk@v0.1.1
+- pkg:composer/xjryanse/servicesdk@v0.1.10
 - pkg:composer/xjryanse/servicesdk@v0.1.2
 - pkg:composer/xjryanse/servicesdk@v0.1.3
 - pkg:composer/xjryanse/servicesdk@v0.1.4
 - pkg:composer/xjryanse/servicesdk@v0.1.5
 - pkg:composer/xjryanse/servicesdk@v0.1.6
+- pkg:composer/xjryanse/servicesdk@v0.1.7
+- pkg:composer/xjryanse/servicesdk@v0.1.8
+- pkg:composer/xjryanse/servicesdk@v0.1.9
