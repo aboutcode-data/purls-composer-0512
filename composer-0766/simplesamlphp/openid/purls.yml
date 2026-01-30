@@ -28,6 +28,7 @@
 - pkg:composer/simplesamlphp/openid@v0.1.32
 - pkg:composer/simplesamlphp/openid@v0.1.33
 - pkg:composer/simplesamlphp/openid@v0.1.34
+- pkg:composer/simplesamlphp/openid@v0.1.35
 - pkg:composer/simplesamlphp/openid@v0.1.4
 - pkg:composer/simplesamlphp/openid@v0.1.5
 - pkg:composer/simplesamlphp/openid@v0.1.6
