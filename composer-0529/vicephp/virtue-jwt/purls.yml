@@ -18,3 +18,6 @@
 - pkg:composer/vicephp/virtue-jwt@0.7.3
 - pkg:composer/vicephp/virtue-jwt@0.7.4
 - pkg:composer/vicephp/virtue-jwt@0.8.0
+- pkg:composer/vicephp/virtue-jwt@0.8.1
+- pkg:composer/vicephp/virtue-jwt@0.8.1-RC1
+- pkg:composer/vicephp/virtue-jwt@0.8.1-RC2
