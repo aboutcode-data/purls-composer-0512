@@ -38,3 +38,4 @@
 - pkg:composer/sulu/form-bundle@2.5.7
 - pkg:composer/sulu/form-bundle@2.5.8
 - pkg:composer/sulu/form-bundle@2.5.9
+- pkg:composer/sulu/form-bundle@3.0.0-RC1
