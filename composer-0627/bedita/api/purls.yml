@@ -163,3 +163,5 @@
 - pkg:composer/bedita/api@v6.0.2
 - pkg:composer/bedita/api@v6.1.0
 - pkg:composer/bedita/api@v6.2.0
+- pkg:composer/bedita/api@v6.2.1
+- pkg:composer/bedita/api@v6.2.2
