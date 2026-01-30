@@ -80,6 +80,8 @@
 - pkg:composer/doctrine/mongodb-odm@2.15.1
 - pkg:composer/doctrine/mongodb-odm@2.15.2
 - pkg:composer/doctrine/mongodb-odm@2.15.3
+- pkg:composer/doctrine/mongodb-odm@2.16.0
+- pkg:composer/doctrine/mongodb-odm@2.16.1
 - pkg:composer/doctrine/mongodb-odm@2.2.0
 - pkg:composer/doctrine/mongodb-odm@2.2.1
 - pkg:composer/doctrine/mongodb-odm@2.2.2
