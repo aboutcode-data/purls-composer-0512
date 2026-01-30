@@ -108,6 +108,8 @@
 - pkg:composer/codingms/modules@7.7.1
 - pkg:composer/codingms/modules@7.7.2
 - pkg:composer/codingms/modules@7.7.3
+- pkg:composer/codingms/modules@7.7.4
 - pkg:composer/codingms/modules@7.7.5
 - pkg:composer/codingms/modules@7.7.6
 - pkg:composer/codingms/modules@7.7.7
+- pkg:composer/codingms/modules@7.7.8
