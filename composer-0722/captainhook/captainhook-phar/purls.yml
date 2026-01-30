@@ -83,6 +83,7 @@
 - pkg:composer/captainhook/captainhook-phar@5.27.2
 - pkg:composer/captainhook/captainhook-phar@5.27.3
 - pkg:composer/captainhook/captainhook-phar@5.27.4
+- pkg:composer/captainhook/captainhook-phar@5.27.5
 - pkg:composer/captainhook/captainhook-phar@5.4.2
 - pkg:composer/captainhook/captainhook-phar@5.4.3
 - pkg:composer/captainhook/captainhook-phar@5.5.0

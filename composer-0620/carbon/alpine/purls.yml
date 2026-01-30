@@ -43,3 +43,4 @@
 - pkg:composer/carbon/alpine@0.2.3
 - pkg:composer/carbon/alpine@0.2.4
 - pkg:composer/carbon/alpine@0.3.0
+- pkg:composer/carbon/alpine@0.3.1

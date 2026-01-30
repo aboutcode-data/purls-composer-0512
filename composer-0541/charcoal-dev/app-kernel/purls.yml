@@ -1,4 +1,3 @@
 - pkg:composer/charcoal-dev/app-kernel@0.1.17
 - pkg:composer/charcoal-dev/app-kernel@0.1.22
-- pkg:composer/charcoal-dev/app-kernel@0.1.23
 - pkg:composer/charcoal-dev/app-kernel@0.1.24

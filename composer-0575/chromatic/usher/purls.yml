@@ -61,3 +61,4 @@
 - pkg:composer/chromatic/usher@v5.0.1
 - pkg:composer/chromatic/usher@v5.1.0
 - pkg:composer/chromatic/usher@v5.1.1
+- pkg:composer/chromatic/usher@v5.1.2

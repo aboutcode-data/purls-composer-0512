@@ -48,6 +48,8 @@
 - pkg:composer/boneframework/bone@v3.12.5
 - pkg:composer/boneframework/bone@v3.12.6
 - pkg:composer/boneframework/bone@v3.13.0
+- pkg:composer/boneframework/bone@v3.13.1
+- pkg:composer/boneframework/bone@v3.13.2
 - pkg:composer/boneframework/bone@v3.2.0
 - pkg:composer/boneframework/bone@v3.2.1
 - pkg:composer/boneframework/bone@v3.2.2

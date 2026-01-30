@@ -6,3 +6,4 @@
 - pkg:composer/canoastec/code-generator@v1.3
 - pkg:composer/canoastec/code-generator@v1.4
 - pkg:composer/canoastec/code-generator@v1.6
+- pkg:composer/canoastec/code-generator@v2.0

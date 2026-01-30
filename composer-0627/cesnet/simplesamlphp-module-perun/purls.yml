@@ -56,6 +56,9 @@
 - pkg:composer/cesnet/simplesamlphp-module-perun@v10.18.0
 - pkg:composer/cesnet/simplesamlphp-module-perun@v10.19.0
 - pkg:composer/cesnet/simplesamlphp-module-perun@v10.2.0
+- pkg:composer/cesnet/simplesamlphp-module-perun@v10.20.0
+- pkg:composer/cesnet/simplesamlphp-module-perun@v10.20.1
+- pkg:composer/cesnet/simplesamlphp-module-perun@v10.20.2
 - pkg:composer/cesnet/simplesamlphp-module-perun@v10.3.0
 - pkg:composer/cesnet/simplesamlphp-module-perun@v10.3.1
 - pkg:composer/cesnet/simplesamlphp-module-perun@v10.4.0
