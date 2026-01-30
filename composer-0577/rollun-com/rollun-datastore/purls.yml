@@ -21,6 +21,7 @@
 - pkg:composer/rollun-com/rollun-datastore@10.6.2
 - pkg:composer/rollun-com/rollun-datastore@10.6.3
 - pkg:composer/rollun-com/rollun-datastore@10.7.0
+- pkg:composer/rollun-com/rollun-datastore@10.7.1
 - pkg:composer/rollun-com/rollun-datastore@11.0.0
 - pkg:composer/rollun-com/rollun-datastore@11.0.1
 - pkg:composer/rollun-com/rollun-datastore@11.0.2
@@ -34,6 +35,7 @@
 - pkg:composer/rollun-com/rollun-datastore@11.2.3
 - pkg:composer/rollun-com/rollun-datastore@11.2.4
 - pkg:composer/rollun-com/rollun-datastore@11.3.0
+- pkg:composer/rollun-com/rollun-datastore@11.3.1
 - pkg:composer/rollun-com/rollun-datastore@2.0.0
 - pkg:composer/rollun-com/rollun-datastore@2.0.1
 - pkg:composer/rollun-com/rollun-datastore@2.1.0

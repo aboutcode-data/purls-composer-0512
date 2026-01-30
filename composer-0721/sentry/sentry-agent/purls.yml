@@ -1,2 +1,3 @@
+- pkg:composer/sentry/sentry-agent@0.0.1
 - pkg:composer/sentry/sentry-agent@0.1.0
 - pkg:composer/sentry/sentry-agent@0.1.1
