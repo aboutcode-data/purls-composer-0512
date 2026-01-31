@@ -9,3 +9,4 @@
 - pkg:composer/chindit/composer-check-update@2.0.2
 - pkg:composer/chindit/composer-check-update@2.0.3
 - pkg:composer/chindit/composer-check-update@2.0.4
+- pkg:composer/chindit/composer-check-update@3.0.0
