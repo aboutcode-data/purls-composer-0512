@@ -1,6 +1,7 @@
 - pkg:composer/finc/vufind-results-grouping@1.1.1
 - pkg:composer/finc/vufind-results-grouping@2.0.0
 - pkg:composer/finc/vufind-results-grouping@2.2.0
+- pkg:composer/finc/vufind-results-grouping@3.0.0
 - pkg:composer/finc/vufind-results-grouping@v0.1
 - pkg:composer/finc/vufind-results-grouping@v0.2
 - pkg:composer/finc/vufind-results-grouping@v1.0.0

@@ -32,3 +32,4 @@
 - pkg:composer/google/cloud-network-security@v1.1.0
 - pkg:composer/google/cloud-network-security@v1.2.0
 - pkg:composer/google/cloud-network-security@v1.2.1
+- pkg:composer/google/cloud-network-security@v1.2.2

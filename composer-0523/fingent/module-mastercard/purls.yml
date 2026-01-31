@@ -12,3 +12,4 @@
 - pkg:composer/fingent/module-mastercard@2.4.7
 - pkg:composer/fingent/module-mastercard@3.0.0
 - pkg:composer/fingent/module-mastercard@3.0.1
+- pkg:composer/fingent/module-mastercard@3.0.2

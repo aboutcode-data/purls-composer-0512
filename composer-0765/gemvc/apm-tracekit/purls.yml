@@ -2,3 +2,5 @@
 - pkg:composer/gemvc/apm-tracekit@1.1.0
 - pkg:composer/gemvc/apm-tracekit@2.0.0
 - pkg:composer/gemvc/apm-tracekit@2.1.0
+- pkg:composer/gemvc/apm-tracekit@2.1.1
+- pkg:composer/gemvc/apm-tracekit@2.1.2

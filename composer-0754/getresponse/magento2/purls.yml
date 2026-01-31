@@ -78,3 +78,4 @@
 - pkg:composer/getresponse/magento2@20.9.0
 - pkg:composer/getresponse/magento2@20.9.1
 - pkg:composer/getresponse/magento2@20.9.2
+- pkg:composer/getresponse/magento2@21.0.0

@@ -30,3 +30,4 @@
 - pkg:composer/google/cloud-private-catalog@v0.5.3
 - pkg:composer/google/cloud-private-catalog@v0.6.0
 - pkg:composer/google/cloud-private-catalog@v0.6.1
+- pkg:composer/google/cloud-private-catalog@v0.6.2

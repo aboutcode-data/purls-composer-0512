@@ -25,3 +25,5 @@
 - pkg:composer/franzose/closure-table@v6.0.1
 - pkg:composer/franzose/closure-table@v6.1.0
 - pkg:composer/franzose/closure-table@v6.1.1
+- pkg:composer/franzose/closure-table@v6.2
+- pkg:composer/franzose/closure-table@v6.2.1

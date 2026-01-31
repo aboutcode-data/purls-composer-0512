@@ -25,3 +25,4 @@
 - pkg:composer/google/cloud-beyondcorp-clientconnectorservices@v1.0.5
 - pkg:composer/google/cloud-beyondcorp-clientconnectorservices@v1.1.0
 - pkg:composer/google/cloud-beyondcorp-clientconnectorservices@v1.1.1
+- pkg:composer/google/cloud-beyondcorp-clientconnectorservices@v1.1.2

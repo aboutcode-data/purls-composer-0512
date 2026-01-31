@@ -35,3 +35,4 @@
 - pkg:composer/google/cloud-resource-manager@v1.0.4
 - pkg:composer/google/cloud-resource-manager@v1.1.0
 - pkg:composer/google/cloud-resource-manager@v1.1.1
+- pkg:composer/google/cloud-resource-manager@v1.1.2

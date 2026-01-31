@@ -1,4 +1,5 @@
 - pkg:composer/giberti/phpunit-local-server@0.1.0
+- pkg:composer/giberti/phpunit-local-server@3.0.1
 - pkg:composer/giberti/phpunit-local-server@v0.1.1
 - pkg:composer/giberti/phpunit-local-server@v0.1.2
 - pkg:composer/giberti/phpunit-local-server@v1.0.0
