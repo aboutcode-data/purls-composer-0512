@@ -1,4 +1,4 @@
 - pkg:composer/cline/postal-code@1.0.0
 - pkg:composer/cline/postal-code@1.1.0
-- pkg:composer/cline/postal-code@1.2.0
 - pkg:composer/cline/postal-code@1.3.0
+- pkg:composer/cline/postal-code@1.5.0
