@@ -6,3 +6,4 @@
 - pkg:composer/casbin/laravel-admin@v3.0.3
 - pkg:composer/casbin/laravel-admin@v3.0.4
 - pkg:composer/casbin/laravel-admin@v3.0.5
+- pkg:composer/casbin/laravel-admin@v3.0.6
