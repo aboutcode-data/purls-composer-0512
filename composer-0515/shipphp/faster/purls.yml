@@ -1,2 +1,4 @@
 - pkg:composer/shipphp/faster@v1.0.0
 - pkg:composer/shipphp/faster@v2.0.0
+- pkg:composer/shipphp/faster@v2.1.0
+- pkg:composer/shipphp/faster@v2.1.1
