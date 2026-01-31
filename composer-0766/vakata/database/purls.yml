@@ -220,3 +220,4 @@
 - pkg:composer/vakata/database@5.4.8
 - pkg:composer/vakata/database@5.4.9
 - pkg:composer/vakata/database@5.5.0
+- pkg:composer/vakata/database@5.5.1
