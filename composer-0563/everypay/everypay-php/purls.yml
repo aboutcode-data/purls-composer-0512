@@ -19,4 +19,5 @@
 - pkg:composer/everypay/everypay-php@3.0.0
 - pkg:composer/everypay/everypay-php@4.0.0
 - pkg:composer/everypay/everypay-php@4.1.0
+- pkg:composer/everypay/everypay-php@4.1.1
 - pkg:composer/everypay/everypay-php@v1.0.3

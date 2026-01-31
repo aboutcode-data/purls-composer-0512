@@ -38,6 +38,7 @@
 - pkg:composer/ebizmarts/mailchimp-lib@3.0.42
 - pkg:composer/ebizmarts/mailchimp-lib@3.0.43
 - pkg:composer/ebizmarts/mailchimp-lib@3.0.44
+- pkg:composer/ebizmarts/mailchimp-lib@3.0.45
 - pkg:composer/ebizmarts/mailchimp-lib@3.0.5
 - pkg:composer/ebizmarts/mailchimp-lib@3.0.6
 - pkg:composer/ebizmarts/mailchimp-lib@3.0.7

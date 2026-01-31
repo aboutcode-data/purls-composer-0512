@@ -36,6 +36,8 @@
 - pkg:composer/ergebnis/phpstan-rules@2.10.5
 - pkg:composer/ergebnis/phpstan-rules@2.11.0
 - pkg:composer/ergebnis/phpstan-rules@2.12.0
+- pkg:composer/ergebnis/phpstan-rules@2.13.0
+- pkg:composer/ergebnis/phpstan-rules@2.13.1
 - pkg:composer/ergebnis/phpstan-rules@2.2.0
 - pkg:composer/ergebnis/phpstan-rules@2.3.0
 - pkg:composer/ergebnis/phpstan-rules@2.4.0
