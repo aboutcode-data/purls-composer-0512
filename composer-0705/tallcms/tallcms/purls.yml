@@ -39,3 +39,4 @@
 - pkg:composer/tallcms/tallcms@v2.8.3
 - pkg:composer/tallcms/tallcms@v2.8.4
 - pkg:composer/tallcms/tallcms@v2.8.5
+- pkg:composer/tallcms/tallcms@v2.9.0
