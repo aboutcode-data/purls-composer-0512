@@ -16,3 +16,4 @@
 - pkg:composer/innmind/server-status@4.1.0
 - pkg:composer/innmind/server-status@4.1.1
 - pkg:composer/innmind/server-status@5.0.0
+- pkg:composer/innmind/server-status@6.0.0

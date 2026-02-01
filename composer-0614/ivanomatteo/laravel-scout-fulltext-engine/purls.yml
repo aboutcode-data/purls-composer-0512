@@ -13,3 +13,4 @@
 - pkg:composer/ivanomatteo/laravel-scout-fulltext-engine@0.1.8
 - pkg:composer/ivanomatteo/laravel-scout-fulltext-engine@0.1.9
 - pkg:composer/ivanomatteo/laravel-scout-fulltext-engine@0.2.0
+- pkg:composer/ivanomatteo/laravel-scout-fulltext-engine@0.2.1

@@ -1,5 +1,6 @@
 - pkg:composer/jeandormehl/laracache@1.0
 - pkg:composer/jeandormehl/laracache@3.0.0
+- pkg:composer/jeandormehl/laracache@5.0.0
 - pkg:composer/jeandormehl/laracache@v1.0.2
 - pkg:composer/jeandormehl/laracache@v1.0.3
 - pkg:composer/jeandormehl/laracache@v1.0.4

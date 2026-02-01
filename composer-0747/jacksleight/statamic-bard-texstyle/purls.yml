@@ -37,4 +37,6 @@
 - pkg:composer/jacksleight/statamic-bard-texstyle@3.5.5
 - pkg:composer/jacksleight/statamic-bard-texstyle@3.5.6
 - pkg:composer/jacksleight/statamic-bard-texstyle@3.6.0
+- pkg:composer/jacksleight/statamic-bard-texstyle@4.0.0
 - pkg:composer/jacksleight/statamic-bard-texstyle@4.0.0-beta.1
+- pkg:composer/jacksleight/statamic-bard-texstyle@4.0.0-beta.2

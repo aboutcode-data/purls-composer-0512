@@ -136,3 +136,5 @@
 - pkg:composer/itzbund/gsb-csp@v2.0.1-rc.6
 - pkg:composer/itzbund/gsb-csp@v2.0.2
 - pkg:composer/itzbund/gsb-csp@v2.0.3
+- pkg:composer/itzbund/gsb-csp@v2.0.4
+- pkg:composer/itzbund/gsb-csp@v2.0.4-rc.1
