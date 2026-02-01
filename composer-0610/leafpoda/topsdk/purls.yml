@@ -38,6 +38,7 @@
 - pkg:composer/leafpoda/topsdk@v1.42.0
 - pkg:composer/leafpoda/topsdk@v1.43.0
 - pkg:composer/leafpoda/topsdk@v1.44.0
+- pkg:composer/leafpoda/topsdk@v1.45.0
 - pkg:composer/leafpoda/topsdk@v1.5.0
 - pkg:composer/leafpoda/topsdk@v1.6.0
 - pkg:composer/leafpoda/topsdk@v1.7.0
