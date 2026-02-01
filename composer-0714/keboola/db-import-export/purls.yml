@@ -11,6 +11,7 @@
 - pkg:composer/keboola/db-import-export@3.4.1
 - pkg:composer/keboola/db-import-export@4.0.0
 - pkg:composer/keboola/db-import-export@4.1.0
+- pkg:composer/keboola/db-import-export@4.2.0
 - pkg:composer/keboola/db-import-export@v0.1
 - pkg:composer/keboola/db-import-export@v0.1.1
 - pkg:composer/keboola/db-import-export@v0.1.2

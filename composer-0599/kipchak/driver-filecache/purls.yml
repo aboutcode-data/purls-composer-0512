@@ -2,3 +2,5 @@
 - pkg:composer/kipchak/driver-filecache@1.1
 - pkg:composer/kipchak/driver-filecache@1.2
 - pkg:composer/kipchak/driver-filecache@1.3
+- pkg:composer/kipchak/driver-filecache@1.4
+- pkg:composer/kipchak/driver-filecache@1.5

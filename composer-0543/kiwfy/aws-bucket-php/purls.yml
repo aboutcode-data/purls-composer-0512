@@ -5,3 +5,4 @@
 - pkg:composer/kiwfy/aws-bucket-php@5.0.0
 - pkg:composer/kiwfy/aws-bucket-php@6.0.0
 - pkg:composer/kiwfy/aws-bucket-php@7.0.0
+- pkg:composer/kiwfy/aws-bucket-php@8.0.0

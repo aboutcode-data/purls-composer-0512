@@ -117,6 +117,7 @@
 - pkg:composer/kaltura/api-client-library@v22.0.0
 - pkg:composer/kaltura/api-client-library@v22.1.0
 - pkg:composer/kaltura/api-client-library@v22.10.0
+- pkg:composer/kaltura/api-client-library@v22.11.0
 - pkg:composer/kaltura/api-client-library@v22.2.0
 - pkg:composer/kaltura/api-client-library@v22.3.0
 - pkg:composer/kaltura/api-client-library@v22.4.0

@@ -46,3 +46,4 @@
 - pkg:composer/kassko/data-mapper-bundle@v2.6.0-beta
 - pkg:composer/kassko/data-mapper-bundle@v2.7.0-beta
 - pkg:composer/kassko/data-mapper-bundle@v2.8.0-rc
+- pkg:composer/kassko/data-mapper-bundle@v2.9.0-rc

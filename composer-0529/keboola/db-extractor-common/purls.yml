@@ -73,6 +73,7 @@
 - pkg:composer/keboola/db-extractor-common@17.2.0
 - pkg:composer/keboola/db-extractor-common@17.2.1
 - pkg:composer/keboola/db-extractor-common@17.2.2
+- pkg:composer/keboola/db-extractor-common@17.2.3
 - pkg:composer/keboola/db-extractor-common@2.0.0
 - pkg:composer/keboola/db-extractor-common@2.0.1
 - pkg:composer/keboola/db-extractor-common@2.0.2

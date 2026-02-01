@@ -6,3 +6,5 @@
 - pkg:composer/kipchak/driver-rabbitmq@1.5
 - pkg:composer/kipchak/driver-rabbitmq@1.6
 - pkg:composer/kipchak/driver-rabbitmq@1.7
+- pkg:composer/kipchak/driver-rabbitmq@1.8
+- pkg:composer/kipchak/driver-rabbitmq@1.9
