@@ -57,6 +57,7 @@
 - pkg:composer/honeybadger-io/honeybadger-php@v2.24.0
 - pkg:composer/honeybadger-io/honeybadger-php@v2.24.1
 - pkg:composer/honeybadger-io/honeybadger-php@v2.25.0
+- pkg:composer/honeybadger-io/honeybadger-php@v2.25.1
 - pkg:composer/honeybadger-io/honeybadger-php@v2.3.0
 - pkg:composer/honeybadger-io/honeybadger-php@v2.4.0
 - pkg:composer/honeybadger-io/honeybadger-php@v2.4.1
