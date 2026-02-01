@@ -5,3 +5,4 @@
 - pkg:composer/valkyrja/application@v0.7.1
 - pkg:composer/valkyrja/application@v0.9.0
 - pkg:composer/valkyrja/application@v25.0.0
+- pkg:composer/valkyrja/application@v25.25.1
