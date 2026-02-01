@@ -81,6 +81,7 @@
 - pkg:composer/yii2-extended/yii2-export-policy-interface@8.0.11
 - pkg:composer/yii2-extended/yii2-export-policy-interface@8.0.12
 - pkg:composer/yii2-extended/yii2-export-policy-interface@8.0.13
+- pkg:composer/yii2-extended/yii2-export-policy-interface@8.0.14
 - pkg:composer/yii2-extended/yii2-export-policy-interface@8.0.2
 - pkg:composer/yii2-extended/yii2-export-policy-interface@8.0.3
 - pkg:composer/yii2-extended/yii2-export-policy-interface@8.0.4
