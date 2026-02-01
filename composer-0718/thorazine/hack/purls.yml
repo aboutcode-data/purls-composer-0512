@@ -69,3 +69,5 @@
 - pkg:composer/thorazine/hack@1.13.2
 - pkg:composer/thorazine/hack@1.13.3
 - pkg:composer/thorazine/hack@1.13.4
+- pkg:composer/thorazine/hack@2.0.0
+- pkg:composer/thorazine/hack@2.0.1
