@@ -8,6 +8,7 @@
 - pkg:composer/vufind/vufind@v10.2.0
 - pkg:composer/vufind/vufind@v10.2.1
 - pkg:composer/vufind/vufind@v11.0.0
+- pkg:composer/vufind/vufind@v11.0.1
 - pkg:composer/vufind/vufind@v2.0
 - pkg:composer/vufind/vufind@v2.0.1
 - pkg:composer/vufind/vufind@v2.0RC1
