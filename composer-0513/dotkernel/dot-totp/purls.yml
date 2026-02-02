@@ -1,1 +1,2 @@
 - pkg:composer/dotkernel/dot-totp@0.1
+- pkg:composer/dotkernel/dot-totp@0.2
