@@ -8,3 +8,4 @@
 - pkg:composer/contoweb/laravel-pdflib@v2.1.0
 - pkg:composer/contoweb/laravel-pdflib@v3.0.0
 - pkg:composer/contoweb/laravel-pdflib@v3.1.0
+- pkg:composer/contoweb/laravel-pdflib@v3.2.0
