@@ -74,3 +74,4 @@
 - pkg:composer/wpmetabox/meta-box-builder@5.1.5
 - pkg:composer/wpmetabox/meta-box-builder@5.1.6
 - pkg:composer/wpmetabox/meta-box-builder@5.2.0
+- pkg:composer/wpmetabox/meta-box-builder@5.2.1
