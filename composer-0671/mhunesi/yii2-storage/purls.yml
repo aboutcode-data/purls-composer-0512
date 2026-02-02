@@ -1,1 +1,3 @@
 - pkg:composer/mhunesi/yii2-storage@v1.0.0
+- pkg:composer/mhunesi/yii2-storage@v1.0.1
+- pkg:composer/mhunesi/yii2-storage@v2.0.0
