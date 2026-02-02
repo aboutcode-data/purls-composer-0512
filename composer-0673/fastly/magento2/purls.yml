@@ -170,6 +170,7 @@
 - pkg:composer/fastly/magento2@1.2.234
 - pkg:composer/fastly/magento2@1.2.235
 - pkg:composer/fastly/magento2@1.2.236
+- pkg:composer/fastly/magento2@1.2.237
 - pkg:composer/fastly/magento2@1.2.24
 - pkg:composer/fastly/magento2@1.2.25
 - pkg:composer/fastly/magento2@1.2.26
