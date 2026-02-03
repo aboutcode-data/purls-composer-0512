@@ -70,6 +70,7 @@
 - pkg:composer/draw/core@0.34.0
 - pkg:composer/draw/core@0.35.0
 - pkg:composer/draw/core@0.36.0
+- pkg:composer/draw/core@0.37.0
 - pkg:composer/draw/core@0.5.22
 - pkg:composer/draw/core@0.7.21
 - pkg:composer/draw/core@0.7.53
