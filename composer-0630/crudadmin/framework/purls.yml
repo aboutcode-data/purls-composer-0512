@@ -240,3 +240,4 @@
 - pkg:composer/crudadmin/framework@5.4.6
 - pkg:composer/crudadmin/framework@5.5.0
 - pkg:composer/crudadmin/framework@5.5.1
+- pkg:composer/crudadmin/framework@5.5.2
