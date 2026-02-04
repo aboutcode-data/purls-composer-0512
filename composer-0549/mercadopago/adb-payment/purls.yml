@@ -8,6 +8,7 @@
 - pkg:composer/mercadopago/adb-payment@1.13.1
 - pkg:composer/mercadopago/adb-payment@1.13.2
 - pkg:composer/mercadopago/adb-payment@1.14.0
+- pkg:composer/mercadopago/adb-payment@1.15.0
 - pkg:composer/mercadopago/adb-payment@1.2.0
 - pkg:composer/mercadopago/adb-payment@1.5.0
 - pkg:composer/mercadopago/adb-payment@1.6.0

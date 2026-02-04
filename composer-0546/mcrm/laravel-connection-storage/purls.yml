@@ -1,3 +1,7 @@
+- pkg:composer/mcrm/laravel-connection-storage@0.5.1
+- pkg:composer/mcrm/laravel-connection-storage@0.5.2
+- pkg:composer/mcrm/laravel-connection-storage@0.5.3
+- pkg:composer/mcrm/laravel-connection-storage@0.5.4
 - pkg:composer/mcrm/laravel-connection-storage@v0.2.0
 - pkg:composer/mcrm/laravel-connection-storage@v0.3.0
 - pkg:composer/mcrm/laravel-connection-storage@v0.4.0

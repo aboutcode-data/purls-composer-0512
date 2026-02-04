@@ -46,3 +46,4 @@
 - pkg:composer/memio/memio@v2.0.0-alpha3
 - pkg:composer/memio/memio@v2.0.1
 - pkg:composer/memio/memio@v3.0.0
+- pkg:composer/memio/memio@v3.0.1
