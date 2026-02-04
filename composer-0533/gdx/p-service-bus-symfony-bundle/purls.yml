@@ -37,6 +37,7 @@
 - pkg:composer/gdx/p-service-bus-symfony-bundle@2.4.0
 - pkg:composer/gdx/p-service-bus-symfony-bundle@2.5.0
 - pkg:composer/gdx/p-service-bus-symfony-bundle@2.6.0
+- pkg:composer/gdx/p-service-bus-symfony-bundle@2.7.0
 - pkg:composer/gdx/p-service-bus-symfony-bundle@3.0.0
 - pkg:composer/gdx/p-service-bus-symfony-bundle@3.1.0
 - pkg:composer/gdx/p-service-bus-symfony-bundle@3.2.0
@@ -46,3 +47,4 @@
 - pkg:composer/gdx/p-service-bus-symfony-bundle@3.4.0
 - pkg:composer/gdx/p-service-bus-symfony-bundle@3.5.0
 - pkg:composer/gdx/p-service-bus-symfony-bundle@3.6.0
+- pkg:composer/gdx/p-service-bus-symfony-bundle@3.7.0
