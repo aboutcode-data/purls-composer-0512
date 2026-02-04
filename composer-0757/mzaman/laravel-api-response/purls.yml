@@ -5,3 +5,5 @@
 - pkg:composer/mzaman/laravel-api-response@2.1.1
 - pkg:composer/mzaman/laravel-api-response@3.0.0
 - pkg:composer/mzaman/laravel-api-response@3.1.0
+- pkg:composer/mzaman/laravel-api-response@3.2.0
+- pkg:composer/mzaman/laravel-api-response@3.2.1

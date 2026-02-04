@@ -1,2 +1,3 @@
 - pkg:composer/mimicak/shipway-php-sdk@v0.0.1_beta
 - pkg:composer/mimicak/shipway-php-sdk@v1.0.0
+- pkg:composer/mimicak/shipway-php-sdk@v1.0.1
