@@ -25,3 +25,6 @@
 - pkg:composer/inspiredminds/contao-fieldset-duplication@2.0.5
 - pkg:composer/inspiredminds/contao-fieldset-duplication@2.1.0
 - pkg:composer/inspiredminds/contao-fieldset-duplication@2.2.0
+- pkg:composer/inspiredminds/contao-fieldset-duplication@2.2.1
+- pkg:composer/inspiredminds/contao-fieldset-duplication@2.2.2
+- pkg:composer/inspiredminds/contao-fieldset-duplication@2.3.0
