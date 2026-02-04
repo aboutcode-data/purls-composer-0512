@@ -800,3 +800,4 @@
 - pkg:composer/johnpbloch/wordpress-core@6.8.2
 - pkg:composer/johnpbloch/wordpress-core@6.8.3
 - pkg:composer/johnpbloch/wordpress-core@6.9.0
+- pkg:composer/johnpbloch/wordpress-core@6.9.1
