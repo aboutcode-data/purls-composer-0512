@@ -131,3 +131,5 @@
 - pkg:composer/mpl/matomo@5.6.0
 - pkg:composer/mpl/matomo@5.6.1
 - pkg:composer/mpl/matomo@5.6.2
+- pkg:composer/mpl/matomo@5.7.0
+- pkg:composer/mpl/matomo@5.7.1

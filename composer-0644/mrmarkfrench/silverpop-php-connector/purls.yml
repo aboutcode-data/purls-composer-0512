@@ -8,6 +8,7 @@
 - pkg:composer/mrmarkfrench/silverpop-php-connector@1.6.0
 - pkg:composer/mrmarkfrench/silverpop-php-connector@1.6.10
 - pkg:composer/mrmarkfrench/silverpop-php-connector@1.6.11
+- pkg:composer/mrmarkfrench/silverpop-php-connector@1.6.12
 - pkg:composer/mrmarkfrench/silverpop-php-connector@1.6.2
 - pkg:composer/mrmarkfrench/silverpop-php-connector@1.6.3
 - pkg:composer/mrmarkfrench/silverpop-php-connector@1.6.5

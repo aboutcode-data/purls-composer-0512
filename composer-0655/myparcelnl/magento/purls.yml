@@ -166,6 +166,7 @@
 - pkg:composer/myparcelnl/magento@5.0.0-beta6
 - pkg:composer/myparcelnl/magento@5.1.0
 - pkg:composer/myparcelnl/magento@5.2.0
+- pkg:composer/myparcelnl/magento@5.2.1
 - pkg:composer/myparcelnl/magento@v0.1.0-alpha.1
 - pkg:composer/myparcelnl/magento@v0.1.0-alpha.2
 - pkg:composer/myparcelnl/magento@v0.1.1-alpha
