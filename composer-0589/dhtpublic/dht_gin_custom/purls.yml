@@ -140,3 +140,4 @@
 - pkg:composer/dhtpublic/dht_gin_custom@2.12.8
 - pkg:composer/dhtpublic/dht_gin_custom@2.12.9
 - pkg:composer/dhtpublic/dht_gin_custom@2.13.0
+- pkg:composer/dhtpublic/dht_gin_custom@2.13.1
