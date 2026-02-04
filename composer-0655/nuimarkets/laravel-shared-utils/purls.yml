@@ -54,6 +54,8 @@
 - pkg:composer/nuimarkets/laravel-shared-utils@0.2.30
 - pkg:composer/nuimarkets/laravel-shared-utils@0.2.31
 - pkg:composer/nuimarkets/laravel-shared-utils@0.2.32
+- pkg:composer/nuimarkets/laravel-shared-utils@0.2.33
+- pkg:composer/nuimarkets/laravel-shared-utils@0.2.34
 - pkg:composer/nuimarkets/laravel-shared-utils@0.2.4
 - pkg:composer/nuimarkets/laravel-shared-utils@0.2.5
 - pkg:composer/nuimarkets/laravel-shared-utils@0.2.6

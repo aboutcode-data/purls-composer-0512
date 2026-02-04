@@ -30,6 +30,7 @@
 - pkg:composer/onpage-dev/laravel-plugin@v1.35
 - pkg:composer/onpage-dev/laravel-plugin@v1.36
 - pkg:composer/onpage-dev/laravel-plugin@v1.37
+- pkg:composer/onpage-dev/laravel-plugin@v1.38
 - pkg:composer/onpage-dev/laravel-plugin@v1.4
 - pkg:composer/onpage-dev/laravel-plugin@v1.5
 - pkg:composer/onpage-dev/laravel-plugin@v1.6

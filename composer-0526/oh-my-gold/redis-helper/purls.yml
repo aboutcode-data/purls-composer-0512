@@ -1,3 +1,4 @@
 - pkg:composer/oh-my-gold/redis-helper@v0.9.0
 - pkg:composer/oh-my-gold/redis-helper@v0.9.01
 - pkg:composer/oh-my-gold/redis-helper@v1.0.0
+- pkg:composer/oh-my-gold/redis-helper@v1.0.01

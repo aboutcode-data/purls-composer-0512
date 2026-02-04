@@ -77,3 +77,4 @@
 - pkg:composer/oro/health-check-bundle@6.1.0-rc.3
 - pkg:composer/oro/health-check-bundle@6.1.1
 - pkg:composer/oro/health-check-bundle@6.1.2
+- pkg:composer/oro/health-check-bundle@7.0.0-rc

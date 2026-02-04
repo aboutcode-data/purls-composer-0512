@@ -75,4 +75,5 @@
 - pkg:composer/oat-sa/extension-tao-task-queue@v6.9.1
 - pkg:composer/oat-sa/extension-tao-task-queue@v6.9.2
 - pkg:composer/oat-sa/extension-tao-task-queue@v6.9.3
+- pkg:composer/oat-sa/extension-tao-task-queue@v6.9.3.1
 - pkg:composer/oat-sa/extension-tao-task-queue@v6.9.4

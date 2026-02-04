@@ -65,3 +65,4 @@
 - pkg:composer/oro/commerce-dpd@6.1.0-rc
 - pkg:composer/oro/commerce-dpd@6.1.0-rc.2
 - pkg:composer/oro/commerce-dpd@6.1.0-rc.3
+- pkg:composer/oro/commerce-dpd@7.0.0-rc
