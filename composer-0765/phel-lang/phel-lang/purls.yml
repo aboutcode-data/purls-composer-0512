@@ -30,6 +30,7 @@
 - pkg:composer/phel-lang/phel-lang@v0.26.0
 - pkg:composer/phel-lang/phel-lang@v0.27.0
 - pkg:composer/phel-lang/phel-lang@v0.28.0
+- pkg:composer/phel-lang/phel-lang@v0.29.0
 - pkg:composer/phel-lang/phel-lang@v0.3.0
 - pkg:composer/phel-lang/phel-lang@v0.3.1
 - pkg:composer/phel-lang/phel-lang@v0.3.2

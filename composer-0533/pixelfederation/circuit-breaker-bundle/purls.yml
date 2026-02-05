@@ -8,3 +8,4 @@
 - pkg:composer/pixelfederation/circuit-breaker-bundle@2.0.1
 - pkg:composer/pixelfederation/circuit-breaker-bundle@3.0.0
 - pkg:composer/pixelfederation/circuit-breaker-bundle@4.0.0
+- pkg:composer/pixelfederation/circuit-breaker-bundle@5.0.0

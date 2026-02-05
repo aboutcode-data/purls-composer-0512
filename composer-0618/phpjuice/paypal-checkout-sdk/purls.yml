@@ -14,3 +14,4 @@
 - pkg:composer/phpjuice/paypal-checkout-sdk@v3.2.1
 - pkg:composer/phpjuice/paypal-checkout-sdk@v3.2.2
 - pkg:composer/phpjuice/paypal-checkout-sdk@v3.3.0
+- pkg:composer/phpjuice/paypal-checkout-sdk@v3.4.0

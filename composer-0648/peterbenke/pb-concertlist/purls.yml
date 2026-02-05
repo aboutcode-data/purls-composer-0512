@@ -1,8 +1,11 @@
 - pkg:composer/peterbenke/pb-concertlist@12.4.0
 - pkg:composer/peterbenke/pb-concertlist@12.4.1
 - pkg:composer/peterbenke/pb-concertlist@12.4.2
+- pkg:composer/peterbenke/pb-concertlist@12.4.3
 - pkg:composer/peterbenke/pb-concertlist@13.4.0
 - pkg:composer/peterbenke/pb-concertlist@13.4.1
+- pkg:composer/peterbenke/pb-concertlist@13.4.2
+- pkg:composer/peterbenke/pb-concertlist@13.4.3
 - pkg:composer/peterbenke/pb-concertlist@3.0.0
 - pkg:composer/peterbenke/pb-concertlist@3.0.1
 - pkg:composer/peterbenke/pb-concertlist@3.0.2

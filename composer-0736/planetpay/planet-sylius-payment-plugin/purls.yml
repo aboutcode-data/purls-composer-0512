@@ -6,3 +6,4 @@
 - pkg:composer/planetpay/planet-sylius-payment-plugin@1.1.0
 - pkg:composer/planetpay/planet-sylius-payment-plugin@1.1.1
 - pkg:composer/planetpay/planet-sylius-payment-plugin@1.1.2
+- pkg:composer/planetpay/planet-sylius-payment-plugin@1.1.3
