@@ -98,6 +98,7 @@
 - pkg:composer/googleads/googleads-php-lib@7.0.0
 - pkg:composer/googleads/googleads-php-lib@70.0.0
 - pkg:composer/googleads/googleads-php-lib@71.0.0
+- pkg:composer/googleads/googleads-php-lib@72.0.0
 - pkg:composer/googleads/googleads-php-lib@8.0.0
 - pkg:composer/googleads/googleads-php-lib@8.1.0
 - pkg:composer/googleads/googleads-php-lib@8.2.0

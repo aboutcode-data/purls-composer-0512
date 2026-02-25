@@ -10,3 +10,4 @@
 - pkg:composer/flow-php/openapi-specification-bridge@0.29.0
 - pkg:composer/flow-php/openapi-specification-bridge@0.30.0
 - pkg:composer/flow-php/openapi-specification-bridge@0.31.0
+- pkg:composer/flow-php/openapi-specification-bridge@0.32.0

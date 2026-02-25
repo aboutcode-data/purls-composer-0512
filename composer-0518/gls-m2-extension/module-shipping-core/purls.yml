@@ -5,3 +5,4 @@
 - pkg:composer/gls-m2-extension/module-shipping-core@3.5
 - pkg:composer/gls-m2-extension/module-shipping-core@3.6
 - pkg:composer/gls-m2-extension/module-shipping-core@3.7
+- pkg:composer/gls-m2-extension/module-shipping-core@3.8

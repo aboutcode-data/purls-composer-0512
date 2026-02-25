@@ -39,3 +39,5 @@
 - pkg:composer/fixpunkt/backendtools@v6.0.6
 - pkg:composer/fixpunkt/backendtools@v6.1.0
 - pkg:composer/fixpunkt/backendtools@v6.1.1
+- pkg:composer/fixpunkt/backendtools@v6.1.2
+- pkg:composer/fixpunkt/backendtools@v6.2.0

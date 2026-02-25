@@ -21,6 +21,7 @@
 - pkg:composer/glavweb/data-schema-bundle@v1.6.2
 - pkg:composer/glavweb/data-schema-bundle@v1.7.0
 - pkg:composer/glavweb/data-schema-bundle@v1.7.1
+- pkg:composer/glavweb/data-schema-bundle@v1.8.0
 - pkg:composer/glavweb/data-schema-bundle@v2.0.0
 - pkg:composer/glavweb/data-schema-bundle@v2.0.1
 - pkg:composer/glavweb/data-schema-bundle@v2.0.2
@@ -38,3 +39,4 @@
 - pkg:composer/glavweb/data-schema-bundle@v2.5.2
 - pkg:composer/glavweb/data-schema-bundle@v2.6.0
 - pkg:composer/glavweb/data-schema-bundle@v2.6.1
+- pkg:composer/glavweb/data-schema-bundle@v2.7.0

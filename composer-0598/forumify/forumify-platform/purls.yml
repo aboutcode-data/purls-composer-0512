@@ -68,6 +68,8 @@
 - pkg:composer/forumify/forumify-platform@0.4.9
 - pkg:composer/forumify/forumify-platform@1.0.0
 - pkg:composer/forumify/forumify-platform@1.0.1
+- pkg:composer/forumify/forumify-platform@1.0.10
+- pkg:composer/forumify/forumify-platform@1.0.11
 - pkg:composer/forumify/forumify-platform@1.0.2
 - pkg:composer/forumify/forumify-platform@1.0.3
 - pkg:composer/forumify/forumify-platform@1.0.4

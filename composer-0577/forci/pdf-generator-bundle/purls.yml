@@ -15,5 +15,8 @@
 - pkg:composer/forci/pdf-generator-bundle@v0.5.4
 - pkg:composer/forci/pdf-generator-bundle@v0.6.0
 - pkg:composer/forci/pdf-generator-bundle@v0.7.0
+- pkg:composer/forci/pdf-generator-bundle@v0.7.1
 - pkg:composer/forci/pdf-generator-bundle@v1.0.0
 - pkg:composer/forci/pdf-generator-bundle@v1.0.1
+- pkg:composer/forci/pdf-generator-bundle@v1.0.2
+- pkg:composer/forci/pdf-generator-bundle@v2.0.0
