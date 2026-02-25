@@ -85,6 +85,8 @@
 - pkg:composer/hyperf/tracer@v3.1.58
 - pkg:composer/hyperf/tracer@v3.1.60
 - pkg:composer/hyperf/tracer@v3.1.63
+- pkg:composer/hyperf/tracer@v3.1.67
 - pkg:composer/hyperf/tracer@v3.1.8
 - pkg:composer/hyperf/tracer@v3.2.0-alpha.1
 - pkg:composer/hyperf/tracer@v3.2.0-alpha.3
+- pkg:composer/hyperf/tracer@v3.2.0-beta.2

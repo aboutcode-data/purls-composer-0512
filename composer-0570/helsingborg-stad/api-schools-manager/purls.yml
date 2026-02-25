@@ -55,6 +55,7 @@
 - pkg:composer/helsingborg-stad/api-schools-manager@0.25.4
 - pkg:composer/helsingborg-stad/api-schools-manager@0.25.5
 - pkg:composer/helsingborg-stad/api-schools-manager@0.25.6
+- pkg:composer/helsingborg-stad/api-schools-manager@0.25.7
 - pkg:composer/helsingborg-stad/api-schools-manager@0.3.0
 - pkg:composer/helsingborg-stad/api-schools-manager@0.3.2
 - pkg:composer/helsingborg-stad/api-schools-manager@0.3.3

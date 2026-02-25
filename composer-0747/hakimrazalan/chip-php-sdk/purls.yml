@@ -1,1 +1,5 @@
+- pkg:composer/hakimrazalan/chip-php-sdk@0.1
 - pkg:composer/hakimrazalan/chip-php-sdk@1.0
+- pkg:composer/hakimrazalan/chip-php-sdk@1.1
+- pkg:composer/hakimrazalan/chip-php-sdk@1.2
+- pkg:composer/hakimrazalan/chip-php-sdk@1.3

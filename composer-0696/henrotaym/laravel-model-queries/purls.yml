@@ -9,3 +9,5 @@
 - pkg:composer/henrotaym/laravel-model-queries@v1.6.0
 - pkg:composer/henrotaym/laravel-model-queries@v1.6.1
 - pkg:composer/henrotaym/laravel-model-queries@v1.6.2
+- pkg:composer/henrotaym/laravel-model-queries@v2.0.0
+- pkg:composer/henrotaym/laravel-model-queries@v2.0.1
