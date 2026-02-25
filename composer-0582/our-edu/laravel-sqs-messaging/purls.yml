@@ -7,3 +7,5 @@
 - pkg:composer/our-edu/laravel-sqs-messaging@1.0.8
 - pkg:composer/our-edu/laravel-sqs-messaging@1.0.9
 - pkg:composer/our-edu/laravel-sqs-messaging@2.0.0
+- pkg:composer/our-edu/laravel-sqs-messaging@2.0.1
+- pkg:composer/our-edu/laravel-sqs-messaging@3.0.0

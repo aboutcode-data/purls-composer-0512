@@ -1,4 +1,8 @@
 - pkg:composer/nodus-it/livewire-forms@v0.1-alpha
+- pkg:composer/nodus-it/livewire-forms@v0.10
+- pkg:composer/nodus-it/livewire-forms@v0.11
+- pkg:composer/nodus-it/livewire-forms@v0.11.1
+- pkg:composer/nodus-it/livewire-forms@v0.11.2
 - pkg:composer/nodus-it/livewire-forms@v0.2
 - pkg:composer/nodus-it/livewire-forms@v0.2.1
 - pkg:composer/nodus-it/livewire-forms@v0.3

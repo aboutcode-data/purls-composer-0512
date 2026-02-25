@@ -34,3 +34,4 @@
 - pkg:composer/orbitale/imagemagick-php@v3.3.2
 - pkg:composer/orbitale/imagemagick-php@v3.3.3
 - pkg:composer/orbitale/imagemagick-php@v3.3.4
+- pkg:composer/orbitale/imagemagick-php@v3.3.5

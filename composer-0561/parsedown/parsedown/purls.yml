@@ -70,6 +70,7 @@
 - pkg:composer/parsedown/parsedown@1.7.3
 - pkg:composer/parsedown/parsedown@1.7.4
 - pkg:composer/parsedown/parsedown@1.7.5
+- pkg:composer/parsedown/parsedown@1.8.0
 - pkg:composer/parsedown/parsedown@1.8.0-beta-1
 - pkg:composer/parsedown/parsedown@1.8.0-beta-2
 - pkg:composer/parsedown/parsedown@1.8.0-beta-3

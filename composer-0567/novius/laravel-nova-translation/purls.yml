@@ -10,3 +10,4 @@
 - pkg:composer/novius/laravel-nova-translation@3.2.0
 - pkg:composer/novius/laravel-nova-translation@3.2.1
 - pkg:composer/novius/laravel-nova-translation@3.3.0
+- pkg:composer/novius/laravel-nova-translation@4.0.0

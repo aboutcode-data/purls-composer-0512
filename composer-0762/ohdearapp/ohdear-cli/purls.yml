@@ -26,3 +26,6 @@
 - pkg:composer/ohdearapp/ohdear-cli@v4.5.0
 - pkg:composer/ohdearapp/ohdear-cli@v4.5.1
 - pkg:composer/ohdearapp/ohdear-cli@v4.5.2
+- pkg:composer/ohdearapp/ohdear-cli@v5.0.0
+- pkg:composer/ohdearapp/ohdear-cli@v5.1.0
+- pkg:composer/ohdearapp/ohdear-cli@v5.1.1

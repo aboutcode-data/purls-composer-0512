@@ -1,2 +1,4 @@
 - pkg:composer/oniva/jobqueue-azurequeuestorage@0.1.0
 - pkg:composer/oniva/jobqueue-azurequeuestorage@0.1.1
+- pkg:composer/oniva/jobqueue-azurequeuestorage@0.2.0
+- pkg:composer/oniva/jobqueue-azurequeuestorage@0.2.0-beta

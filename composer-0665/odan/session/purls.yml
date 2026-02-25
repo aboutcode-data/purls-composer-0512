@@ -21,3 +21,5 @@
 - pkg:composer/odan/session@6.3.0
 - pkg:composer/odan/session@6.4.0
 - pkg:composer/odan/session@6.4.1
+- pkg:composer/odan/session@6.5.0
+- pkg:composer/odan/session@6.5.1

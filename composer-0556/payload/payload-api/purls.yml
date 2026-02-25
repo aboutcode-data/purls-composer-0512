@@ -12,3 +12,4 @@
 - pkg:composer/payload/payload-api@0.3.6
 - pkg:composer/payload/payload-api@0.3.7
 - pkg:composer/payload/payload-api@0.4.0
+- pkg:composer/payload/payload-api@1.0.0

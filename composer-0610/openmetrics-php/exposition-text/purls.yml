@@ -5,3 +5,4 @@
 - pkg:composer/openmetrics-php/exposition-text@v0.4.0
 - pkg:composer/openmetrics-php/exposition-text@v0.4.1
 - pkg:composer/openmetrics-php/exposition-text@v0.4.2
+- pkg:composer/openmetrics-php/exposition-text@v0.4.3

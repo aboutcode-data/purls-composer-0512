@@ -8,6 +8,7 @@
 - pkg:composer/nunomaduro/laravel-console-task@v1.0.7
 - pkg:composer/nunomaduro/laravel-console-task@v1.1.0
 - pkg:composer/nunomaduro/laravel-console-task@v1.10.0
+- pkg:composer/nunomaduro/laravel-console-task@v1.11.0
 - pkg:composer/nunomaduro/laravel-console-task@v1.2.0
 - pkg:composer/nunomaduro/laravel-console-task@v1.3.0
 - pkg:composer/nunomaduro/laravel-console-task@v1.4.0
