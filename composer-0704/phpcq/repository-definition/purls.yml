@@ -1,1 +1,3 @@
 - pkg:composer/phpcq/repository-definition@1.0.0
+- pkg:composer/phpcq/repository-definition@1.0.1
+- pkg:composer/phpcq/repository-definition@1.0.2

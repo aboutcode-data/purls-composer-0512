@@ -49,3 +49,4 @@
 - pkg:composer/phake/phake@v4.6.0
 - pkg:composer/phake/phake@v4.6.1
 - pkg:composer/phake/phake@v4.6.2
+- pkg:composer/phake/phake@v4.7.0

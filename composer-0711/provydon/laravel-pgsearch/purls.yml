@@ -1,3 +1,4 @@
+- pkg:composer/provydon/laravel-pgsearch@1.6.0
 - pkg:composer/provydon/laravel-pgsearch@v1.0.0
 - pkg:composer/provydon/laravel-pgsearch@v1.0.1
 - pkg:composer/provydon/laravel-pgsearch@v1.1.0

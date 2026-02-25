@@ -815,3 +815,10 @@
 - pkg:composer/piwik/piwik@5.7.0-rc1.20260124013426
 - pkg:composer/piwik/piwik@5.7.1
 - pkg:composer/piwik/piwik@5.8.0-alpha.20260129013605
+- pkg:composer/piwik/piwik@5.8.0-alpha.20260212013734
+- pkg:composer/piwik/piwik@5.8.0-alpha.20260214013635
+- pkg:composer/piwik/piwik@5.8.0-alpha.20260218013658
+- pkg:composer/piwik/piwik@5.8.0-b1
+- pkg:composer/piwik/piwik@5.8.0-b1.20260223013714
+- pkg:composer/piwik/piwik@5.8.0-b1.20260223175845
+- pkg:composer/piwik/piwik@5.8.0-b2

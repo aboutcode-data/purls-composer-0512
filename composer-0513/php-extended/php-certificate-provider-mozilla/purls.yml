@@ -297,9 +297,12 @@
 - pkg:composer/php-extended/php-certificate-provider-mozilla@8.0.32
 - pkg:composer/php-extended/php-certificate-provider-mozilla@8.0.33
 - pkg:composer/php-extended/php-certificate-provider-mozilla@8.0.34
+- pkg:composer/php-extended/php-certificate-provider-mozilla@8.0.35
+- pkg:composer/php-extended/php-certificate-provider-mozilla@8.0.36
 - pkg:composer/php-extended/php-certificate-provider-mozilla@8.0.4
 - pkg:composer/php-extended/php-certificate-provider-mozilla@8.0.5
 - pkg:composer/php-extended/php-certificate-provider-mozilla@8.0.6
 - pkg:composer/php-extended/php-certificate-provider-mozilla@8.0.7
 - pkg:composer/php-extended/php-certificate-provider-mozilla@8.0.8
 - pkg:composer/php-extended/php-certificate-provider-mozilla@8.0.9
+- pkg:composer/php-extended/php-certificate-provider-mozilla@9.0.0

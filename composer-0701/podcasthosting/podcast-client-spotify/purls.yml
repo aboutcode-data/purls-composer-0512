@@ -12,3 +12,4 @@
 - pkg:composer/podcasthosting/podcast-client-spotify@v0.12.5-beta
 - pkg:composer/podcasthosting/podcast-client-spotify@v0.12.6-beta
 - pkg:composer/podcasthosting/podcast-client-spotify@v0.12.7-beta
+- pkg:composer/podcasthosting/podcast-client-spotify@v0.13.0

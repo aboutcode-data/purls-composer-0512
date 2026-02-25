@@ -23,3 +23,4 @@
 - pkg:composer/pestphp/pest-dev-tools@v3.3.0
 - pkg:composer/pestphp/pest-dev-tools@v3.4.0
 - pkg:composer/pestphp/pest-dev-tools@v4.0.0
+- pkg:composer/pestphp/pest-dev-tools@v4.1.0

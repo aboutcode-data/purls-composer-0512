@@ -6,3 +6,4 @@
 - pkg:composer/php-openapi/openapi@2.0
 - pkg:composer/php-openapi/openapi@2.0.1
 - pkg:composer/php-openapi/openapi@2.0.2
+- pkg:composer/php-openapi/openapi@2.1.0

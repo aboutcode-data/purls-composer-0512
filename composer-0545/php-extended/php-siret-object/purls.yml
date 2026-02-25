@@ -2,3 +2,4 @@
 - pkg:composer/php-extended/php-siret-object@8.0.1
 - pkg:composer/php-extended/php-siret-object@8.0.2
 - pkg:composer/php-extended/php-siret-object@8.0.3
+- pkg:composer/php-extended/php-siret-object@9.0.0

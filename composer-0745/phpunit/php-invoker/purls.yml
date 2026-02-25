@@ -13,3 +13,4 @@
 - pkg:composer/phpunit/php-invoker@5.0.0
 - pkg:composer/phpunit/php-invoker@5.0.1
 - pkg:composer/phpunit/php-invoker@6.0.0
+- pkg:composer/phpunit/php-invoker@7.0.0

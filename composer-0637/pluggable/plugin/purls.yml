@@ -5,3 +5,4 @@
 - pkg:composer/pluggable/plugin@0.96
 - pkg:composer/pluggable/plugin@0.98
 - pkg:composer/pluggable/plugin@0.98.1
+- pkg:composer/pluggable/plugin@1.0.0

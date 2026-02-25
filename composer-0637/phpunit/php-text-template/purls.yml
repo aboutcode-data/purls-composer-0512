@@ -13,3 +13,4 @@
 - pkg:composer/phpunit/php-text-template@4.0.0
 - pkg:composer/phpunit/php-text-template@4.0.1
 - pkg:composer/phpunit/php-text-template@5.0.0
+- pkg:composer/phpunit/php-text-template@6.0.0
