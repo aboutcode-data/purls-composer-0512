@@ -11,3 +11,4 @@
 - pkg:composer/innmind/http-server@4.0.0
 - pkg:composer/innmind/http-server@4.1.0
 - pkg:composer/innmind/http-server@5.0.0
+- pkg:composer/innmind/http-server@6.0.0

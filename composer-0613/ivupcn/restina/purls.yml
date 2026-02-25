@@ -1,3 +1,4 @@
+- pkg:composer/ivupcn/restina@1.1.4
 - pkg:composer/ivupcn/restina@v1.0.0
 - pkg:composer/ivupcn/restina@v1.0.1
 - pkg:composer/ivupcn/restina@v1.0.2
@@ -7,3 +8,9 @@
 - pkg:composer/ivupcn/restina@v1.0.6
 - pkg:composer/ivupcn/restina@v1.0.7
 - pkg:composer/ivupcn/restina@v1.0.8
+- pkg:composer/ivupcn/restina@v1.0.9
+- pkg:composer/ivupcn/restina@v1.1.0
+- pkg:composer/ivupcn/restina@v1.1.1
+- pkg:composer/ivupcn/restina@v1.1.2
+- pkg:composer/ivupcn/restina@v1.1.3
+- pkg:composer/ivupcn/restina@v1.1.5

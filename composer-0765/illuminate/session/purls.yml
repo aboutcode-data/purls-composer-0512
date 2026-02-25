@@ -295,6 +295,9 @@
 - pkg:composer/illuminate/session@v12.49.0
 - pkg:composer/illuminate/session@v12.5.0
 - pkg:composer/illuminate/session@v12.50.0
+- pkg:composer/illuminate/session@v12.51.0
+- pkg:composer/illuminate/session@v12.52.0
+- pkg:composer/illuminate/session@v12.53.0
 - pkg:composer/illuminate/session@v12.6.0
 - pkg:composer/illuminate/session@v12.7.0
 - pkg:composer/illuminate/session@v12.7.1

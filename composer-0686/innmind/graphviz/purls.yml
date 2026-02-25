@@ -14,3 +14,4 @@
 - pkg:composer/innmind/graphviz@3.3.0
 - pkg:composer/innmind/graphviz@3.4.0
 - pkg:composer/innmind/graphviz@4.0.0
+- pkg:composer/innmind/graphviz@5.0.0

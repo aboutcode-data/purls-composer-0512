@@ -75,6 +75,15 @@
 - pkg:composer/itzbund/gsb-minimal@v1.8.1
 - pkg:composer/itzbund/gsb-minimal@v1.8.2
 - pkg:composer/itzbund/gsb-minimal@v1.8.3
+- pkg:composer/itzbund/gsb-minimal@v1.9.0
+- pkg:composer/itzbund/gsb-minimal@v1.9.1
+- pkg:composer/itzbund/gsb-minimal@v1.9.2
+- pkg:composer/itzbund/gsb-minimal@v1.9.3
+- pkg:composer/itzbund/gsb-minimal@v1.9.4
+- pkg:composer/itzbund/gsb-minimal@v1.9.5
+- pkg:composer/itzbund/gsb-minimal@v1.9.6
+- pkg:composer/itzbund/gsb-minimal@v1.9.7
+- pkg:composer/itzbund/gsb-minimal@v1.9.8
 - pkg:composer/itzbund/gsb-minimal@v2.0.0
 - pkg:composer/itzbund/gsb-minimal@v2.0.0-beta.1
 - pkg:composer/itzbund/gsb-minimal@v2.0.0-beta.10
@@ -216,3 +225,9 @@
 - pkg:composer/itzbund/gsb-minimal@v2.4.1
 - pkg:composer/itzbund/gsb-minimal@v2.4.1-rc.1
 - pkg:composer/itzbund/gsb-minimal@v2.4.2
+- pkg:composer/itzbund/gsb-minimal@v2.4.3-rc.1
+- pkg:composer/itzbund/gsb-minimal@v2.5.0
+- pkg:composer/itzbund/gsb-minimal@v2.5.0-rc.1
+- pkg:composer/itzbund/gsb-minimal@v2.6.0
+- pkg:composer/itzbund/gsb-minimal@v2.6.0-rc.1
+- pkg:composer/itzbund/gsb-minimal@v2.6.0-rc.2

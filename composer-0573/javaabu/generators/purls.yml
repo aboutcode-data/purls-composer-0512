@@ -15,6 +15,7 @@
 - pkg:composer/javaabu/generators@v1.15.1
 - pkg:composer/javaabu/generators@v1.16.0
 - pkg:composer/javaabu/generators@v1.17.0
+- pkg:composer/javaabu/generators@v1.18.0
 - pkg:composer/javaabu/generators@v1.2.0
 - pkg:composer/javaabu/generators@v1.3.0
 - pkg:composer/javaabu/generators@v1.3.1

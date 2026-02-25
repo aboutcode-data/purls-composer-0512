@@ -37,3 +37,4 @@
 - pkg:composer/jimmiw/php-time-ago@3.2.3
 - pkg:composer/jimmiw/php-time-ago@3.2.4
 - pkg:composer/jimmiw/php-time-ago@3.2.5
+- pkg:composer/jimmiw/php-time-ago@3.3.0
