@@ -8,6 +8,7 @@
 - pkg:composer/mediawiki/ldap-groups@2.0.12
 - pkg:composer/mediawiki/ldap-groups@2.0.13
 - pkg:composer/mediawiki/ldap-groups@2.0.14
+- pkg:composer/mediawiki/ldap-groups@2.0.15
 - pkg:composer/mediawiki/ldap-groups@2.0.2
 - pkg:composer/mediawiki/ldap-groups@2.0.3
 - pkg:composer/mediawiki/ldap-groups@2.0.4
@@ -22,3 +23,4 @@
 - pkg:composer/mediawiki/ldap-groups@3.0.3
 - pkg:composer/mediawiki/ldap-groups@3.0.4
 - pkg:composer/mediawiki/ldap-groups@3.0.5
+- pkg:composer/mediawiki/ldap-groups@3.0.6

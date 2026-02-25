@@ -40,6 +40,7 @@
 - pkg:composer/metadrop/behat-contexts@v1.23.0
 - pkg:composer/metadrop/behat-contexts@v1.24.0
 - pkg:composer/metadrop/behat-contexts@v1.24.1
+- pkg:composer/metadrop/behat-contexts@v1.24.2
 - pkg:composer/metadrop/behat-contexts@v1.3.1
 - pkg:composer/metadrop/behat-contexts@v1.3.2
 - pkg:composer/metadrop/behat-contexts@v1.3.3

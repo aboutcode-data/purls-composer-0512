@@ -204,3 +204,4 @@
 - pkg:composer/microsoft/microsoft-graph@v2.53.0
 - pkg:composer/microsoft/microsoft-graph@v2.54.0
 - pkg:composer/microsoft/microsoft-graph@v2.55.0
+- pkg:composer/microsoft/microsoft-graph@v2.56.0

@@ -7,3 +7,4 @@
 - pkg:composer/mblsolutions/audit-logging@v1.5.0
 - pkg:composer/mblsolutions/audit-logging@v1.6.0
 - pkg:composer/mblsolutions/audit-logging@v1.6.1
+- pkg:composer/mblsolutions/audit-logging@v2.0.0

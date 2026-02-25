@@ -1,3 +1,4 @@
 - pkg:composer/metalogico/laravel-mocka@1.0.2
 - pkg:composer/metalogico/laravel-mocka@v1.0.0
 - pkg:composer/metalogico/laravel-mocka@v1.0.1
+- pkg:composer/metalogico/laravel-mocka@v1.0.3

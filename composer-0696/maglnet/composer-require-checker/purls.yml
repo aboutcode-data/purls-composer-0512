@@ -37,6 +37,7 @@
 - pkg:composer/maglnet/composer-require-checker@4.19.0
 - pkg:composer/maglnet/composer-require-checker@4.2.0
 - pkg:composer/maglnet/composer-require-checker@4.20.0
+- pkg:composer/maglnet/composer-require-checker@4.21.0
 - pkg:composer/maglnet/composer-require-checker@4.3.0
 - pkg:composer/maglnet/composer-require-checker@4.4.0
 - pkg:composer/maglnet/composer-require-checker@4.5.0

@@ -3,3 +3,4 @@
 - pkg:composer/matbcvo/mautic-amazon-sns-callback@2.0.0
 - pkg:composer/matbcvo/mautic-amazon-sns-callback@3.0.0
 - pkg:composer/matbcvo/mautic-amazon-sns-callback@3.0.1
+- pkg:composer/matbcvo/mautic-amazon-sns-callback@3.0.2

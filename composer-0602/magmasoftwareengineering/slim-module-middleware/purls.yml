@@ -21,3 +21,7 @@
 - pkg:composer/magmasoftwareengineering/slim-module-middleware@1.0.5
 - pkg:composer/magmasoftwareengineering/slim-module-middleware@1.1.0
 - pkg:composer/magmasoftwareengineering/slim-module-middleware@1.1.1
+- pkg:composer/magmasoftwareengineering/slim-module-middleware@2.0.0
+- pkg:composer/magmasoftwareengineering/slim-module-middleware@2.0.1
+- pkg:composer/magmasoftwareengineering/slim-module-middleware@2.0.2
+- pkg:composer/magmasoftwareengineering/slim-module-middleware@2.1.0

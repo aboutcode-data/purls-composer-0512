@@ -210,3 +210,12 @@
 - pkg:composer/mistralys/application_framework@6.1.0
 - pkg:composer/mistralys/application_framework@6.1.1
 - pkg:composer/mistralys/application_framework@6.2.0
+- pkg:composer/mistralys/application_framework@7.0.0
+- pkg:composer/mistralys/application_framework@7.0.1
+- pkg:composer/mistralys/application_framework@7.0.2
+- pkg:composer/mistralys/application_framework@7.0.3
+- pkg:composer/mistralys/application_framework@7.0.4
+- pkg:composer/mistralys/application_framework@7.0.5
+- pkg:composer/mistralys/application_framework@7.0.6
+- pkg:composer/mistralys/application_framework@7.0.7
+- pkg:composer/mistralys/application_framework@7.0.8

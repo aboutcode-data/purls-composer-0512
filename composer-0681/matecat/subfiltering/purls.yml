@@ -75,3 +75,5 @@
 - pkg:composer/matecat/subfiltering@v2.3.4
 - pkg:composer/matecat/subfiltering@v3.0.0
 - pkg:composer/matecat/subfiltering@v3.0.1
+- pkg:composer/matecat/subfiltering@v3.0.2
+- pkg:composer/matecat/subfiltering@v3.0.3

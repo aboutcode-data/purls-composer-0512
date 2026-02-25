@@ -1,2 +1,3 @@
 - pkg:composer/mantle-framework/testing-dependencies@v1.19.0
 - pkg:composer/mantle-framework/testing-dependencies@v1.19.1
+- pkg:composer/mantle-framework/testing-dependencies@v1.19.2

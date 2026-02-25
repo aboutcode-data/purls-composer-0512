@@ -1,1 +1,4 @@
 - pkg:composer/mailrify/mailrify-php@v0.1.0
+- pkg:composer/mailrify/mailrify-php@v1.0.0
+- pkg:composer/mailrify/mailrify-php@v1.0.1
+- pkg:composer/mailrify/mailrify-php@v1.1.0

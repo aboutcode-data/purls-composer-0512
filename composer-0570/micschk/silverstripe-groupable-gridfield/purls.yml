@@ -7,4 +7,7 @@
 - pkg:composer/micschk/silverstripe-groupable-gridfield@1.0.1
 - pkg:composer/micschk/silverstripe-groupable-gridfield@1.0.2
 - pkg:composer/micschk/silverstripe-groupable-gridfield@2.0.0
+- pkg:composer/micschk/silverstripe-groupable-gridfield@2.1.0
+- pkg:composer/micschk/silverstripe-groupable-gridfield@2.2.0
+- pkg:composer/micschk/silverstripe-groupable-gridfield@2.3.0
 - pkg:composer/micschk/silverstripe-groupable-gridfield@3.0.0

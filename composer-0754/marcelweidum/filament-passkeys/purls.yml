@@ -9,3 +9,5 @@
 - pkg:composer/marcelweidum/filament-passkeys@v2.0.0
 - pkg:composer/marcelweidum/filament-passkeys@v2.0.1
 - pkg:composer/marcelweidum/filament-passkeys@v2.0.2
+- pkg:composer/marcelweidum/filament-passkeys@v2.0.3
+- pkg:composer/marcelweidum/filament-passkeys@v3.0.0

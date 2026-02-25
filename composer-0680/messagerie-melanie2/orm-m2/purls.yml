@@ -163,6 +163,8 @@
 - pkg:composer/messagerie-melanie2/orm-m2@0.6.3.4
 - pkg:composer/messagerie-melanie2/orm-m2@0.6.3.5
 - pkg:composer/messagerie-melanie2/orm-m2@0.6.3.6
+- pkg:composer/messagerie-melanie2/orm-m2@0.6.30
+- pkg:composer/messagerie-melanie2/orm-m2@0.6.31
 - pkg:composer/messagerie-melanie2/orm-m2@0.6.4
 - pkg:composer/messagerie-melanie2/orm-m2@0.6.4.1
 - pkg:composer/messagerie-melanie2/orm-m2@0.6.4.2

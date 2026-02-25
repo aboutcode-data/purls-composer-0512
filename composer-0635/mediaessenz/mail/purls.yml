@@ -79,6 +79,7 @@
 - pkg:composer/mediaessenz/mail@v3.0.3
 - pkg:composer/mediaessenz/mail@v3.1.0
 - pkg:composer/mediaessenz/mail@v3.1.1
+- pkg:composer/mediaessenz/mail@v3.10.0
 - pkg:composer/mediaessenz/mail@v3.2.0
 - pkg:composer/mediaessenz/mail@v3.2.1
 - pkg:composer/mediaessenz/mail@v3.2.2
