@@ -7,3 +7,5 @@
 - pkg:composer/netglue/revs@1.3.0
 - pkg:composer/netglue/revs@1.4.0
 - pkg:composer/netglue/revs@1.5.0
+- pkg:composer/netglue/revs@1.6.0
+- pkg:composer/netglue/revs@1.6.1

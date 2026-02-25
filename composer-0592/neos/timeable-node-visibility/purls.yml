@@ -1,4 +1,5 @@
 - pkg:composer/neos/timeable-node-visibility@8.3.21
+- pkg:composer/neos/timeable-node-visibility@8.3.31
 - pkg:composer/neos/timeable-node-visibility@9.0.0
 - pkg:composer/neos/timeable-node-visibility@9.0.0-beta10
 - pkg:composer/neos/timeable-node-visibility@9.0.0-beta11
@@ -15,6 +16,7 @@
 - pkg:composer/neos/timeable-node-visibility@9.0.0-beta8
 - pkg:composer/neos/timeable-node-visibility@9.0.0-beta9
 - pkg:composer/neos/timeable-node-visibility@9.0.1
+- pkg:composer/neos/timeable-node-visibility@9.0.10
 - pkg:composer/neos/timeable-node-visibility@9.0.2
 - pkg:composer/neos/timeable-node-visibility@9.0.3
 - pkg:composer/neos/timeable-node-visibility@9.0.4
@@ -22,5 +24,8 @@
 - pkg:composer/neos/timeable-node-visibility@9.0.6
 - pkg:composer/neos/timeable-node-visibility@9.0.7
 - pkg:composer/neos/timeable-node-visibility@9.0.8
+- pkg:composer/neos/timeable-node-visibility@9.0.9
 - pkg:composer/neos/timeable-node-visibility@9.1.0
 - pkg:composer/neos/timeable-node-visibility@9.1.1
+- pkg:composer/neos/timeable-node-visibility@9.1.2
+- pkg:composer/neos/timeable-node-visibility@9.1.3

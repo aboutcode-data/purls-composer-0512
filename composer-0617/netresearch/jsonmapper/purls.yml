@@ -41,3 +41,4 @@
 - pkg:composer/netresearch/jsonmapper@v4.4.1
 - pkg:composer/netresearch/jsonmapper@v4.5.0
 - pkg:composer/netresearch/jsonmapper@v5.0.0
+- pkg:composer/netresearch/jsonmapper@v5.0.1

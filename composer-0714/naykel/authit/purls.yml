@@ -13,6 +13,7 @@
 - pkg:composer/naykel/authit@v1.1.2
 - pkg:composer/naykel/authit@v1.10.0
 - pkg:composer/naykel/authit@v1.10.1
+- pkg:composer/naykel/authit@v1.10.2
 - pkg:composer/naykel/authit@v1.2.0
 - pkg:composer/naykel/authit@v1.3.0
 - pkg:composer/naykel/authit@v1.4.0
@@ -34,17 +35,3 @@
 - pkg:composer/naykel/authit@v1.9.0
 - pkg:composer/naykel/authit@v1.9.1
 - pkg:composer/naykel/authit@v2.0.0
-- pkg:composer/naykel/authit@v2.1.0
-- pkg:composer/naykel/authit@v2.2.0
-- pkg:composer/naykel/authit@v2.3.0
-- pkg:composer/naykel/authit@v2.3.1
-- pkg:composer/naykel/authit@v3.0.0
-- pkg:composer/naykel/authit@v3.0.1
-- pkg:composer/naykel/authit@v3.1.0
-- pkg:composer/naykel/authit@v3.2.0
-- pkg:composer/naykel/authit@v3.2.1
-- pkg:composer/naykel/authit@v3.3.0
-- pkg:composer/naykel/authit@v3.3.1
-- pkg:composer/naykel/authit@v3.4.0
-- pkg:composer/naykel/authit@v3.4.1
-- pkg:composer/naykel/authit@v3.4.2

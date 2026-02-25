@@ -1,3 +1,4 @@
 - pkg:composer/nextcloud/horde-smtp@v1.0.0
 - pkg:composer/nextcloud/horde-smtp@v1.0.1
 - pkg:composer/nextcloud/horde-smtp@v1.0.2
+- pkg:composer/nextcloud/horde-smtp@v1.0.3

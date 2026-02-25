@@ -59,3 +59,4 @@
 - pkg:composer/mondu/magento2-payment@2.4.2
 - pkg:composer/mondu/magento2-payment@2.5.0
 - pkg:composer/mondu/magento2-payment@2.6.0
+- pkg:composer/mondu/magento2-payment@2.7.0

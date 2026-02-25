@@ -1,3 +1,4 @@
+- pkg:composer/netgen/information-collection-bundle@4.0.0-alpha1
 - pkg:composer/netgen/information-collection-bundle@v0.1
 - pkg:composer/netgen/information-collection-bundle@v0.2
 - pkg:composer/netgen/information-collection-bundle@v0.3
@@ -58,6 +59,7 @@
 - pkg:composer/netgen/information-collection-bundle@v3.0.0-alpha12
 - pkg:composer/netgen/information-collection-bundle@v3.0.0-alpha13
 - pkg:composer/netgen/information-collection-bundle@v3.0.0-alpha14
+- pkg:composer/netgen/information-collection-bundle@v3.0.0-alpha15
 - pkg:composer/netgen/information-collection-bundle@v3.0.0-alpha2
 - pkg:composer/netgen/information-collection-bundle@v3.0.0-alpha3
 - pkg:composer/netgen/information-collection-bundle@v3.0.0-alpha4

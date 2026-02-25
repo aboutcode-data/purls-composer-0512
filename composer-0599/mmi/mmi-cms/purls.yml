@@ -642,6 +642,9 @@
 - pkg:composer/mmi/mmi-cms@5.8.4.1
 - pkg:composer/mmi/mmi-cms@5.8.40
 - pkg:composer/mmi/mmi-cms@5.8.41
+- pkg:composer/mmi/mmi-cms@5.8.42
+- pkg:composer/mmi/mmi-cms@5.8.43
+- pkg:composer/mmi/mmi-cms@5.8.44
 - pkg:composer/mmi/mmi-cms@5.8.5
 - pkg:composer/mmi/mmi-cms@5.8.6
 - pkg:composer/mmi/mmi-cms@5.8.6.1
