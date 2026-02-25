@@ -41,6 +41,7 @@
 - pkg:composer/kriss/webman-logger@v5.0.12
 - pkg:composer/kriss/webman-logger@v5.0.13
 - pkg:composer/kriss/webman-logger@v5.0.14
+- pkg:composer/kriss/webman-logger@v5.0.15
 - pkg:composer/kriss/webman-logger@v5.0.2
 - pkg:composer/kriss/webman-logger@v5.0.3
 - pkg:composer/kriss/webman-logger@v5.0.4
@@ -49,3 +50,4 @@
 - pkg:composer/kriss/webman-logger@v5.0.7
 - pkg:composer/kriss/webman-logger@v5.0.8
 - pkg:composer/kriss/webman-logger@v5.0.9
+- pkg:composer/kriss/webman-logger@v5.1.0

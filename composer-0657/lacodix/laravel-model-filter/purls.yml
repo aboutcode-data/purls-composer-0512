@@ -71,3 +71,5 @@
 - pkg:composer/lacodix/laravel-model-filter@v3.5.2
 - pkg:composer/lacodix/laravel-model-filter@v3.6.0
 - pkg:composer/lacodix/laravel-model-filter@v3.6.1
+- pkg:composer/lacodix/laravel-model-filter@v3.6.2
+- pkg:composer/lacodix/laravel-model-filter@v3.7.0

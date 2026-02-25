@@ -24,3 +24,4 @@
 - pkg:composer/jonasarts/phpqrcode-bundle@v6.4.4
 - pkg:composer/jonasarts/phpqrcode-bundle@v6.4.5
 - pkg:composer/jonasarts/phpqrcode-bundle@v7.0.0
+- pkg:composer/jonasarts/phpqrcode-bundle@v7.0.1

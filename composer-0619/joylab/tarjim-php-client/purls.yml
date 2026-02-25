@@ -23,3 +23,4 @@
 - pkg:composer/joylab/tarjim-php-client@1.2.1
 - pkg:composer/joylab/tarjim-php-client@1.2.2
 - pkg:composer/joylab/tarjim-php-client@1.2.3
+- pkg:composer/joylab/tarjim-php-client@1.2.4

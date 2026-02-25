@@ -15,3 +15,5 @@
 - pkg:composer/kununu/code-tools@v3.1.4
 - pkg:composer/kununu/code-tools@v3.1.5
 - pkg:composer/kununu/code-tools@v3.1.6
+- pkg:composer/kununu/code-tools@v3.2.0
+- pkg:composer/kununu/code-tools@v4.0.0

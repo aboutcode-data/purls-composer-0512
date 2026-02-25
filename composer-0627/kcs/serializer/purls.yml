@@ -52,3 +52,4 @@
 - pkg:composer/kcs/serializer@4.5.1
 - pkg:composer/kcs/serializer@4.5.2
 - pkg:composer/kcs/serializer@5.0.0
+- pkg:composer/kcs/serializer@5.0.1
