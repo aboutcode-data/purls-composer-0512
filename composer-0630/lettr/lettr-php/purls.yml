@@ -15,3 +15,8 @@
 - pkg:composer/lettr/lettr-php@v0.3.0
 - pkg:composer/lettr/lettr-php@v0.4.0
 - pkg:composer/lettr/lettr-php@v0.5.0
+- pkg:composer/lettr/lettr-php@v0.6.0
+- pkg:composer/lettr/lettr-php@v0.7.0
+- pkg:composer/lettr/lettr-php@v0.8.0
+- pkg:composer/lettr/lettr-php@v1.0.0
+- pkg:composer/lettr/lettr-php@v1.1.0

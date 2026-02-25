@@ -19,3 +19,8 @@
 - pkg:composer/lliure/cronjob@v2.4.8
 - pkg:composer/lliure/cronjob@v2.5.0
 - pkg:composer/lliure/cronjob@v2.5.1
+- pkg:composer/lliure/cronjob@v2.6.0
+- pkg:composer/lliure/cronjob@v2.6.1
+- pkg:composer/lliure/cronjob@v2.6.2
+- pkg:composer/lliure/cronjob@v2.6.3
+- pkg:composer/lliure/cronjob@v2.6.4

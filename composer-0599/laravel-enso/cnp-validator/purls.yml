@@ -44,3 +44,4 @@
 - pkg:composer/laravel-enso/cnp-validator@3.0.0
 - pkg:composer/laravel-enso/cnp-validator@3.1.0
 - pkg:composer/laravel-enso/cnp-validator@3.2.0
+- pkg:composer/laravel-enso/cnp-validator@3.3.0

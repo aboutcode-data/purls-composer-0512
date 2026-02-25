@@ -11,3 +11,4 @@
 - pkg:composer/langsys/swagger-auto-generator@v1.1.3
 - pkg:composer/langsys/swagger-auto-generator@v1.1.4
 - pkg:composer/langsys/swagger-auto-generator@v1.1.5
+- pkg:composer/langsys/swagger-auto-generator@v1.1.6

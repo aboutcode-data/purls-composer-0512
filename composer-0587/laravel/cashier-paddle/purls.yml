@@ -68,3 +68,4 @@
 - pkg:composer/laravel/cashier-paddle@v2.6.1
 - pkg:composer/laravel/cashier-paddle@v2.6.2
 - pkg:composer/laravel/cashier-paddle@v2.6.3
+- pkg:composer/laravel/cashier-paddle@v2.7.0

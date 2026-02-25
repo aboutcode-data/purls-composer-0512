@@ -48,6 +48,7 @@
 - pkg:composer/lightning/view@0.3.30
 - pkg:composer/lightning/view@0.3.31
 - pkg:composer/lightning/view@0.3.32
+- pkg:composer/lightning/view@0.3.33
 - pkg:composer/lightning/view@0.3.4
 - pkg:composer/lightning/view@0.3.5
 - pkg:composer/lightning/view@0.3.6

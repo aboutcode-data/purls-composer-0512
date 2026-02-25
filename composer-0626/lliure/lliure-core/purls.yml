@@ -29,6 +29,9 @@
 - pkg:composer/lliure/lliure-core@v6.13.0
 - pkg:composer/lliure/lliure-core@v6.13.1
 - pkg:composer/lliure/lliure-core@v6.14.0
+- pkg:composer/lliure/lliure-core@v6.14.1
+- pkg:composer/lliure/lliure-core@v6.14.2
+- pkg:composer/lliure/lliure-core@v6.14.3
 - pkg:composer/lliure/lliure-core@v6.2
 - pkg:composer/lliure/lliure-core@v6.3
 - pkg:composer/lliure/lliure-core@v6.4

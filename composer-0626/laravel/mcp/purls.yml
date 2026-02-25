@@ -17,3 +17,8 @@
 - pkg:composer/laravel/mcp@v0.5.3
 - pkg:composer/laravel/mcp@v0.5.4
 - pkg:composer/laravel/mcp@v0.5.5
+- pkg:composer/laravel/mcp@v0.5.6
+- pkg:composer/laravel/mcp@v0.5.7
+- pkg:composer/laravel/mcp@v0.5.8
+- pkg:composer/laravel/mcp@v0.5.9
+- pkg:composer/laravel/mcp@v0.6.0

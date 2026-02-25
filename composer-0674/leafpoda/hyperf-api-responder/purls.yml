@@ -8,3 +8,4 @@
 - pkg:composer/leafpoda/hyperf-api-responder@v1.7
 - pkg:composer/leafpoda/hyperf-api-responder@v3.1
 - pkg:composer/leafpoda/hyperf-api-responder@v3.1.1
+- pkg:composer/leafpoda/hyperf-api-responder@v3.1.2

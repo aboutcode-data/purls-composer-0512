@@ -34,3 +34,4 @@
 - pkg:composer/laravel/reverb@v1.6.3
 - pkg:composer/laravel/reverb@v1.7.0
 - pkg:composer/laravel/reverb@v1.7.1
+- pkg:composer/laravel/reverb@v1.8.0
