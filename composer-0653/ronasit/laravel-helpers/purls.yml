@@ -111,6 +111,7 @@
 - pkg:composer/ronasit/laravel-helpers@1.6.1
 - pkg:composer/ronasit/laravel-helpers@1.6.2
 - pkg:composer/ronasit/laravel-helpers@1.6.3
+- pkg:composer/ronasit/laravel-helpers@1.6.4
 - pkg:composer/ronasit/laravel-helpers@2.0.0-beta
 - pkg:composer/ronasit/laravel-helpers@2.0.1-beta
 - pkg:composer/ronasit/laravel-helpers@2.0.2-beta

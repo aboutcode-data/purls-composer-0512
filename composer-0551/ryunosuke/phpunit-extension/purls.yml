@@ -27,6 +27,7 @@
 - pkg:composer/ryunosuke/phpunit-extension@v3.20.2
 - pkg:composer/ryunosuke/phpunit-extension@v3.21.0
 - pkg:composer/ryunosuke/phpunit-extension@v3.22.0
+- pkg:composer/ryunosuke/phpunit-extension@v3.22.1
 - pkg:composer/ryunosuke/phpunit-extension@v3.3.0
 - pkg:composer/ryunosuke/phpunit-extension@v3.4.0
 - pkg:composer/ryunosuke/phpunit-extension@v3.5.0
@@ -42,3 +43,4 @@
 - pkg:composer/ryunosuke/phpunit-extension@v4.2.1
 - pkg:composer/ryunosuke/phpunit-extension@v4.2.2
 - pkg:composer/ryunosuke/phpunit-extension@v4.3.0
+- pkg:composer/ryunosuke/phpunit-extension@v4.3.1

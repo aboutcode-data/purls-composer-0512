@@ -5,3 +5,4 @@
 - pkg:composer/remind/headless-solr@v3.0.1
 - pkg:composer/remind/headless-solr@v3.1.0
 - pkg:composer/remind/headless-solr@v3.1.1
+- pkg:composer/remind/headless-solr@v4.0.0

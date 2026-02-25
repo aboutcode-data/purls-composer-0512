@@ -1,3 +1,4 @@
+- pkg:composer/rconfig/laravel-netbox-api@1.0.3
 - pkg:composer/rconfig/laravel-netbox-api@V1.0.0
 - pkg:composer/rconfig/laravel-netbox-api@V1.0.1
 - pkg:composer/rconfig/laravel-netbox-api@V1.0.2

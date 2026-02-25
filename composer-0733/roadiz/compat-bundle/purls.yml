@@ -213,6 +213,8 @@
 - pkg:composer/roadiz/compat-bundle@v2.5.4
 - pkg:composer/roadiz/compat-bundle@v2.5.40
 - pkg:composer/roadiz/compat-bundle@v2.5.41
+- pkg:composer/roadiz/compat-bundle@v2.5.42
+- pkg:composer/roadiz/compat-bundle@v2.5.43
 - pkg:composer/roadiz/compat-bundle@v2.5.5
 - pkg:composer/roadiz/compat-bundle@v2.5.6
 - pkg:composer/roadiz/compat-bundle@v2.5.7

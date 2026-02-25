@@ -37,6 +37,8 @@
 - pkg:composer/rokka/client@1.21.0
 - pkg:composer/rokka/client@1.21.1
 - pkg:composer/rokka/client@1.21.2
+- pkg:composer/rokka/client@1.21.3
+- pkg:composer/rokka/client@1.21.4
 - pkg:composer/rokka/client@1.3.0
 - pkg:composer/rokka/client@1.3.1
 - pkg:composer/rokka/client@1.3.2

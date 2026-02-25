@@ -24,6 +24,7 @@
 - pkg:composer/rkr/service-dispatcher@0.3
 - pkg:composer/rkr/service-dispatcher@0.3.1
 - pkg:composer/rkr/service-dispatcher@0.3.10
+- pkg:composer/rkr/service-dispatcher@0.3.11
 - pkg:composer/rkr/service-dispatcher@0.3.2
 - pkg:composer/rkr/service-dispatcher@0.3.3
 - pkg:composer/rkr/service-dispatcher@0.3.4

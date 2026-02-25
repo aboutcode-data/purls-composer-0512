@@ -13,6 +13,7 @@
 - pkg:composer/rodrigogalura/tuner@v1.2.1
 - pkg:composer/rodrigogalura/tuner@v1.3
 - pkg:composer/rodrigogalura/tuner@v1.3.1
+- pkg:composer/rodrigogalura/tuner@v1.3.10
 - pkg:composer/rodrigogalura/tuner@v1.3.2
 - pkg:composer/rodrigogalura/tuner@v1.3.3
 - pkg:composer/rodrigogalura/tuner@v1.3.4
@@ -20,3 +21,4 @@
 - pkg:composer/rodrigogalura/tuner@v1.3.6
 - pkg:composer/rodrigogalura/tuner@v1.3.7
 - pkg:composer/rodrigogalura/tuner@v1.3.8
+- pkg:composer/rodrigogalura/tuner@v1.3.9
