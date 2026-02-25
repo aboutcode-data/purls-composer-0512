@@ -8,6 +8,9 @@
 - pkg:composer/ecommit/doctrine-entities-generator-bundle@v2.1.0
 - pkg:composer/ecommit/doctrine-entities-generator-bundle@v2.1.1
 - pkg:composer/ecommit/doctrine-entities-generator-bundle@v2.2.0
+- pkg:composer/ecommit/doctrine-entities-generator-bundle@v2.3.0
 - pkg:composer/ecommit/doctrine-entities-generator-bundle@v3.0.0
 - pkg:composer/ecommit/doctrine-entities-generator-bundle@v3.0.0-BETA1
 - pkg:composer/ecommit/doctrine-entities-generator-bundle@v3.0.1
+- pkg:composer/ecommit/doctrine-entities-generator-bundle@v3.1.0
+- pkg:composer/ecommit/doctrine-entities-generator-bundle@v4.0.0-BETA1

@@ -5,3 +5,4 @@
 - pkg:composer/eminos/statamic-field-item-relationship@v1.3.0
 - pkg:composer/eminos/statamic-field-item-relationship@v1.4.0
 - pkg:composer/eminos/statamic-field-item-relationship@v1.4.1
+- pkg:composer/eminos/statamic-field-item-relationship@v2.0

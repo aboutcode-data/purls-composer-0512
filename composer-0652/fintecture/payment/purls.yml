@@ -41,3 +41,4 @@
 - pkg:composer/fintecture/payment@3.5.4
 - pkg:composer/fintecture/payment@3.5.5
 - pkg:composer/fintecture/payment@3.6.0
+- pkg:composer/fintecture/payment@3.6.1

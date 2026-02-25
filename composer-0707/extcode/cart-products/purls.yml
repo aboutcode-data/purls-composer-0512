@@ -60,3 +60,4 @@
 - pkg:composer/extcode/cart-products@v7.0.2
 - pkg:composer/extcode/cart-products@v7.1.0
 - pkg:composer/extcode/cart-products@v7.2.0
+- pkg:composer/extcode/cart-products@v7.3.0

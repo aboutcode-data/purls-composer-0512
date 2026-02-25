@@ -3,3 +3,4 @@
 - pkg:composer/ecommit/doctrine-orm-refetch@v1.0.0
 - pkg:composer/ecommit/doctrine-orm-refetch@v1.1.0
 - pkg:composer/ecommit/doctrine-orm-refetch@v1.1.1
+- pkg:composer/ecommit/doctrine-orm-refetch@v1.1.2

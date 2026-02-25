@@ -1,3 +1,4 @@
+- pkg:composer/elbformat/ibexa-behat-bundle@2.1.0
 - pkg:composer/elbformat/ibexa-behat-bundle@v1.0.0
 - pkg:composer/elbformat/ibexa-behat-bundle@v1.0.1
 - pkg:composer/elbformat/ibexa-behat-bundle@v1.0.2

@@ -93,6 +93,7 @@
 - pkg:composer/excelwebzone/symfony-admin-bundle@v2.1.58
 - pkg:composer/excelwebzone/symfony-admin-bundle@v2.1.59
 - pkg:composer/excelwebzone/symfony-admin-bundle@v2.1.6
+- pkg:composer/excelwebzone/symfony-admin-bundle@v2.1.60
 - pkg:composer/excelwebzone/symfony-admin-bundle@v2.1.7
 - pkg:composer/excelwebzone/symfony-admin-bundle@v2.1.8
 - pkg:composer/excelwebzone/symfony-admin-bundle@v2.1.9

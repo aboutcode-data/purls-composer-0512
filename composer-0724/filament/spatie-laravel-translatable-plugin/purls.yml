@@ -905,6 +905,8 @@
 - pkg:composer/filament/spatie-laravel-translatable-plugin@v3.3.45
 - pkg:composer/filament/spatie-laravel-translatable-plugin@v3.3.46
 - pkg:composer/filament/spatie-laravel-translatable-plugin@v3.3.47
+- pkg:composer/filament/spatie-laravel-translatable-plugin@v3.3.48
+- pkg:composer/filament/spatie-laravel-translatable-plugin@v3.3.49
 - pkg:composer/filament/spatie-laravel-translatable-plugin@v3.3.5
 - pkg:composer/filament/spatie-laravel-translatable-plugin@v3.3.6
 - pkg:composer/filament/spatie-laravel-translatable-plugin@v3.3.7

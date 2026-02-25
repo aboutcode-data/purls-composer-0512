@@ -7,6 +7,10 @@
 - pkg:composer/eduplex-api/cake-api-assessment@0.2.0
 - pkg:composer/eduplex-api/cake-api-assessment@0.2.1
 - pkg:composer/eduplex-api/cake-api-assessment@0.2.10
+- pkg:composer/eduplex-api/cake-api-assessment@0.2.11
+- pkg:composer/eduplex-api/cake-api-assessment@0.2.12
+- pkg:composer/eduplex-api/cake-api-assessment@0.2.13
+- pkg:composer/eduplex-api/cake-api-assessment@0.2.14
 - pkg:composer/eduplex-api/cake-api-assessment@0.2.2
 - pkg:composer/eduplex-api/cake-api-assessment@0.2.3
 - pkg:composer/eduplex-api/cake-api-assessment@0.2.4

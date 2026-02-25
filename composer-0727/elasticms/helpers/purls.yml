@@ -169,3 +169,5 @@
 - pkg:composer/elasticms/helpers@6.9.5
 - pkg:composer/elasticms/helpers@6.9.6
 - pkg:composer/elasticms/helpers@6.9.7
+- pkg:composer/elasticms/helpers@6.9.8
+- pkg:composer/elasticms/helpers@7.0.0
