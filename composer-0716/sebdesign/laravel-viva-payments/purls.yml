@@ -49,6 +49,7 @@
 - pkg:composer/sebdesign/laravel-viva-payments@v6.1.0
 - pkg:composer/sebdesign/laravel-viva-payments@v6.1.1
 - pkg:composer/sebdesign/laravel-viva-payments@v6.1.10
+- pkg:composer/sebdesign/laravel-viva-payments@v6.1.11
 - pkg:composer/sebdesign/laravel-viva-payments@v6.1.2
 - pkg:composer/sebdesign/laravel-viva-payments@v6.1.3
 - pkg:composer/sebdesign/laravel-viva-payments@v6.1.4

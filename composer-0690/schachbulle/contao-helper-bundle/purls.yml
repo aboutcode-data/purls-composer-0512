@@ -42,3 +42,5 @@
 - pkg:composer/schachbulle/contao-helper-bundle@1.8.2
 - pkg:composer/schachbulle/contao-helper-bundle@1.8.3
 - pkg:composer/schachbulle/contao-helper-bundle@1.8.4
+- pkg:composer/schachbulle/contao-helper-bundle@1.8.5
+- pkg:composer/schachbulle/contao-helper-bundle@1.8.6

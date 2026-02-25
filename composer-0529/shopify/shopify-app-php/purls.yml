@@ -1,1 +1,2 @@
 - pkg:composer/shopify/shopify-app-php@v0.1.0
+- pkg:composer/shopify/shopify-app-php@v0.1.1

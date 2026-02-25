@@ -78,4 +78,6 @@
 - pkg:composer/sensiolabs-de/live2vod-api@1.80.0
 - pkg:composer/sensiolabs-de/live2vod-api@1.81.0
 - pkg:composer/sensiolabs-de/live2vod-api@1.82.0
+- pkg:composer/sensiolabs-de/live2vod-api@1.83.0
+- pkg:composer/sensiolabs-de/live2vod-api@1.84.0
 - pkg:composer/sensiolabs-de/live2vod-api@1.9.0

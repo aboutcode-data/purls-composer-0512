@@ -16,6 +16,8 @@
 - pkg:composer/socialiteproviders/apple@5.6.0
 - pkg:composer/socialiteproviders/apple@5.6.1
 - pkg:composer/socialiteproviders/apple@5.7.0
+- pkg:composer/socialiteproviders/apple@5.8.0
+- pkg:composer/socialiteproviders/apple@5.9.0
 - pkg:composer/socialiteproviders/apple@v3.0.0
 - pkg:composer/socialiteproviders/apple@v3.0.1
 - pkg:composer/socialiteproviders/apple@v3.0.2

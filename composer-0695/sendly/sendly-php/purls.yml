@@ -10,6 +10,11 @@
 - pkg:composer/sendly/sendly-php@3.12.2
 - pkg:composer/sendly/sendly-php@3.12.3
 - pkg:composer/sendly/sendly-php@3.13.0
+- pkg:composer/sendly/sendly-php@3.13.1
+- pkg:composer/sendly/sendly-php@3.15.1
+- pkg:composer/sendly/sendly-php@3.15.2
+- pkg:composer/sendly/sendly-php@3.15.3
+- pkg:composer/sendly/sendly-php@3.17.0
 - pkg:composer/sendly/sendly-php@3.4.0
 - pkg:composer/sendly/sendly-php@3.5.2
 - pkg:composer/sendly/sendly-php@3.5.3

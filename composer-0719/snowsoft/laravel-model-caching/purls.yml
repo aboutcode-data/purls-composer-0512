@@ -5,3 +5,4 @@
 - pkg:composer/snowsoft/laravel-model-caching@v0.05
 - pkg:composer/snowsoft/laravel-model-caching@v0.06
 - pkg:composer/snowsoft/laravel-model-caching@v0.07
+- pkg:composer/snowsoft/laravel-model-caching@v0.08

@@ -71,6 +71,7 @@
 - pkg:composer/savks/negotiator@2.32.1
 - pkg:composer/savks/negotiator@2.32.2
 - pkg:composer/savks/negotiator@2.33.0
+- pkg:composer/savks/negotiator@2.33.1
 - pkg:composer/savks/negotiator@2.4.0
 - pkg:composer/savks/negotiator@2.5.0
 - pkg:composer/savks/negotiator@2.6.0

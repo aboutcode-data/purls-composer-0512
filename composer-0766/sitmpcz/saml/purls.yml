@@ -14,6 +14,7 @@
 - pkg:composer/sitmpcz/saml@v1.4.0
 - pkg:composer/sitmpcz/saml@v1.4.1
 - pkg:composer/sitmpcz/saml@v1.4.2
+- pkg:composer/sitmpcz/saml@v1.4.3
 - pkg:composer/sitmpcz/saml@v1.4.4
 - pkg:composer/sitmpcz/saml@v1.4.5
 - pkg:composer/sitmpcz/saml@v1.4.6
@@ -21,3 +22,4 @@
 - pkg:composer/sitmpcz/saml@v1.5.0
 - pkg:composer/sitmpcz/saml@v1.6.1
 - pkg:composer/sitmpcz/saml@v1.6.2
+- pkg:composer/sitmpcz/saml@v1.7.0

@@ -3,6 +3,8 @@
 - pkg:composer/simmcomm/content-api-client@0.10.0
 - pkg:composer/simmcomm/content-api-client@0.11.0
 - pkg:composer/simmcomm/content-api-client@0.12.0
+- pkg:composer/simmcomm/content-api-client@0.13.0
+- pkg:composer/simmcomm/content-api-client@0.13.1
 - pkg:composer/simmcomm/content-api-client@0.2.0
 - pkg:composer/simmcomm/content-api-client@0.2.1
 - pkg:composer/simmcomm/content-api-client@0.2.2

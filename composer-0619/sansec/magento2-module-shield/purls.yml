@@ -32,6 +32,7 @@
 - pkg:composer/sansec/magento2-module-shield@1.0.19
 - pkg:composer/sansec/magento2-module-shield@1.0.2
 - pkg:composer/sansec/magento2-module-shield@1.0.20
+- pkg:composer/sansec/magento2-module-shield@1.0.21
 - pkg:composer/sansec/magento2-module-shield@1.0.3
 - pkg:composer/sansec/magento2-module-shield@1.0.4
 - pkg:composer/sansec/magento2-module-shield@1.0.5

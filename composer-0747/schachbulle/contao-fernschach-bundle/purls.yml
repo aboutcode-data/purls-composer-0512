@@ -117,6 +117,9 @@
 - pkg:composer/schachbulle/contao-fernschach-bundle@1.5.11
 - pkg:composer/schachbulle/contao-fernschach-bundle@1.5.12
 - pkg:composer/schachbulle/contao-fernschach-bundle@1.5.13
+- pkg:composer/schachbulle/contao-fernschach-bundle@1.5.14
+- pkg:composer/schachbulle/contao-fernschach-bundle@1.5.15
+- pkg:composer/schachbulle/contao-fernschach-bundle@1.5.16
 - pkg:composer/schachbulle/contao-fernschach-bundle@1.5.2
 - pkg:composer/schachbulle/contao-fernschach-bundle@1.5.3
 - pkg:composer/schachbulle/contao-fernschach-bundle@1.5.4
@@ -125,3 +128,7 @@
 - pkg:composer/schachbulle/contao-fernschach-bundle@1.5.7
 - pkg:composer/schachbulle/contao-fernschach-bundle@1.5.8
 - pkg:composer/schachbulle/contao-fernschach-bundle@1.5.9
+- pkg:composer/schachbulle/contao-fernschach-bundle@1.6.0
+- pkg:composer/schachbulle/contao-fernschach-bundle@1.6.1
+- pkg:composer/schachbulle/contao-fernschach-bundle@1.6.2
+- pkg:composer/schachbulle/contao-fernschach-bundle@1.6.3
