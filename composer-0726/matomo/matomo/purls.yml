@@ -822,3 +822,4 @@
 - pkg:composer/matomo/matomo@5.8.0-b1.20260223013714
 - pkg:composer/matomo/matomo@5.8.0-b1.20260223175845
 - pkg:composer/matomo/matomo@5.8.0-b2
+- pkg:composer/matomo/matomo@5.8.0-b2.20260226013628
