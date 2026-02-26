@@ -35,3 +35,6 @@
 - pkg:composer/steelants/form@1.5.3
 - pkg:composer/steelants/form@1.6.0
 - pkg:composer/steelants/form@1.6.1
+- pkg:composer/steelants/form@1.6.2
+- pkg:composer/steelants/form@1.6.3
+- pkg:composer/steelants/form@1.6.4

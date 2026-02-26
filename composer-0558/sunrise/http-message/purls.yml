@@ -36,3 +36,4 @@
 - pkg:composer/sunrise/http-message@v3.5.0
 - pkg:composer/sunrise/http-message@v3.6.0
 - pkg:composer/sunrise/http-message@v3.7.0
+- pkg:composer/sunrise/http-message@v3.8.0

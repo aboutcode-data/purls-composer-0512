@@ -19,3 +19,5 @@
 - pkg:composer/sveaekonomi/checkout@1.5.2
 - pkg:composer/sveaekonomi/checkout@1.5.3
 - pkg:composer/sveaekonomi/checkout@1.6.0
+- pkg:composer/sveaekonomi/checkout@1.7.0
+- pkg:composer/sveaekonomi/checkout@1.7.1

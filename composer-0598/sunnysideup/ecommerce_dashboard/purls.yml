@@ -19,3 +19,7 @@
 - pkg:composer/sunnysideup/ecommerce_dashboard@5.0.1
 - pkg:composer/sunnysideup/ecommerce_dashboard@5.0.2
 - pkg:composer/sunnysideup/ecommerce_dashboard@5.1.0
+- pkg:composer/sunnysideup/ecommerce_dashboard@6.0.0
+- pkg:composer/sunnysideup/ecommerce_dashboard@7.0.0
+- pkg:composer/sunnysideup/ecommerce_dashboard@8.0.0
+- pkg:composer/sunnysideup/ecommerce_dashboard@8.0.1

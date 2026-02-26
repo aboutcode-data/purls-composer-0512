@@ -142,6 +142,8 @@
 - pkg:composer/swissup/breeze@2.27.2
 - pkg:composer/swissup/breeze@2.27.3
 - pkg:composer/swissup/breeze@2.27.4
+- pkg:composer/swissup/breeze@2.28.0
+- pkg:composer/swissup/breeze@2.28.1
 - pkg:composer/swissup/breeze@2.3.0
 - pkg:composer/swissup/breeze@2.3.1
 - pkg:composer/swissup/breeze@2.3.2

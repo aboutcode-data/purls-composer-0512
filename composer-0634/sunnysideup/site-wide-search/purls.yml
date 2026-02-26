@@ -27,6 +27,8 @@
 - pkg:composer/sunnysideup/site-wide-search@7.12.0
 - pkg:composer/sunnysideup/site-wide-search@7.13.0
 - pkg:composer/sunnysideup/site-wide-search@7.13.1
+- pkg:composer/sunnysideup/site-wide-search@7.13.2
+- pkg:composer/sunnysideup/site-wide-search@7.13.3
 - pkg:composer/sunnysideup/site-wide-search@7.2.0
 - pkg:composer/sunnysideup/site-wide-search@7.2.1
 - pkg:composer/sunnysideup/site-wide-search@7.3.0

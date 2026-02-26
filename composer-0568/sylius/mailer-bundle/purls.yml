@@ -102,3 +102,4 @@
 - pkg:composer/sylius/mailer-bundle@v2.1.0
 - pkg:composer/sylius/mailer-bundle@v2.1.0-ALPHA.1
 - pkg:composer/sylius/mailer-bundle@v2.1.0-BETA.1
+- pkg:composer/sylius/mailer-bundle@v2.2.0

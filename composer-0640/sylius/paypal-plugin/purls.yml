@@ -31,9 +31,11 @@
 - pkg:composer/sylius/paypal-plugin@v1.5.0
 - pkg:composer/sylius/paypal-plugin@v1.5.1
 - pkg:composer/sylius/paypal-plugin@v1.5.2
+- pkg:composer/sylius/paypal-plugin@v1.5.3
 - pkg:composer/sylius/paypal-plugin@v1.6.0
 - pkg:composer/sylius/paypal-plugin@v1.6.1
 - pkg:composer/sylius/paypal-plugin@v1.6.2
+- pkg:composer/sylius/paypal-plugin@v1.6.3
 - pkg:composer/sylius/paypal-plugin@v1.7.0
 - pkg:composer/sylius/paypal-plugin@v1.7.1
 - pkg:composer/sylius/paypal-plugin@v1.7.2
@@ -42,6 +44,7 @@
 - pkg:composer/sylius/paypal-plugin@v1.7.5
 - pkg:composer/sylius/paypal-plugin@v1.7.6
 - pkg:composer/sylius/paypal-plugin@v1.7.7
+- pkg:composer/sylius/paypal-plugin@v1.7.8
 - pkg:composer/sylius/paypal-plugin@v2.0.0
 - pkg:composer/sylius/paypal-plugin@v2.0.1
 - pkg:composer/sylius/paypal-plugin@v2.0.2
@@ -50,3 +53,4 @@
 - pkg:composer/sylius/paypal-plugin@v2.0.5
 - pkg:composer/sylius/paypal-plugin@v2.0.6
 - pkg:composer/sylius/paypal-plugin@v2.0.7
+- pkg:composer/sylius/paypal-plugin@v2.0.8

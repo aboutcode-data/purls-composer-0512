@@ -27,3 +27,4 @@
 - pkg:composer/synolia/sylius-scheduler-command-plugin@v3.8.2
 - pkg:composer/synolia/sylius-scheduler-command-plugin@v4.0.0
 - pkg:composer/synolia/sylius-scheduler-command-plugin@v4.0.1
+- pkg:composer/synolia/sylius-scheduler-command-plugin@v4.0.2

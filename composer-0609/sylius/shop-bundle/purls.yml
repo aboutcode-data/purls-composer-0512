@@ -266,3 +266,4 @@
 - pkg:composer/sylius/shop-bundle@v2.1.9
 - pkg:composer/sylius/shop-bundle@v2.2.0
 - pkg:composer/sylius/shop-bundle@v2.2.1
+- pkg:composer/sylius/shop-bundle@v2.2.2

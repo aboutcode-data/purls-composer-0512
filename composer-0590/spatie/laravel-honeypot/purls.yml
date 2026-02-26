@@ -39,3 +39,4 @@
 - pkg:composer/spatie/laravel-honeypot@4.6.0
 - pkg:composer/spatie/laravel-honeypot@4.6.1
 - pkg:composer/spatie/laravel-honeypot@4.6.2
+- pkg:composer/spatie/laravel-honeypot@4.7.0

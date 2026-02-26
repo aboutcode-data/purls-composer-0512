@@ -10,3 +10,4 @@
 - pkg:composer/spyrit/propel-datagrid-bundle@4.0.8
 - pkg:composer/spyrit/propel-datagrid-bundle@4.0.9
 - pkg:composer/spyrit/propel-datagrid-bundle@5.1.0
+- pkg:composer/spyrit/propel-datagrid-bundle@5.2.0

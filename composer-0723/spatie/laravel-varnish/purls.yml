@@ -11,6 +11,7 @@
 - pkg:composer/spatie/laravel-varnish@2.10.0
 - pkg:composer/spatie/laravel-varnish@2.10.1
 - pkg:composer/spatie/laravel-varnish@2.10.2
+- pkg:composer/spatie/laravel-varnish@2.10.3
 - pkg:composer/spatie/laravel-varnish@2.2.0
 - pkg:composer/spatie/laravel-varnish@2.3.0
 - pkg:composer/spatie/laravel-varnish@2.7.0

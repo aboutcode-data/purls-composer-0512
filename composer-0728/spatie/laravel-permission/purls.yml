@@ -198,6 +198,7 @@
 - pkg:composer/spatie/laravel-permission@6.22.0
 - pkg:composer/spatie/laravel-permission@6.23.0
 - pkg:composer/spatie/laravel-permission@6.24.0
+- pkg:composer/spatie/laravel-permission@6.24.1
 - pkg:composer/spatie/laravel-permission@6.3.0
 - pkg:composer/spatie/laravel-permission@6.4.0
 - pkg:composer/spatie/laravel-permission@6.5.0
@@ -205,3 +206,9 @@
 - pkg:composer/spatie/laravel-permission@6.7.0
 - pkg:composer/spatie/laravel-permission@6.8.0
 - pkg:composer/spatie/laravel-permission@6.9.0
+- pkg:composer/spatie/laravel-permission@7.0.0
+- pkg:composer/spatie/laravel-permission@7.1.0
+- pkg:composer/spatie/laravel-permission@7.2.0
+- pkg:composer/spatie/laravel-permission@7.2.1
+- pkg:composer/spatie/laravel-permission@7.2.2
+- pkg:composer/spatie/laravel-permission@7.2.3

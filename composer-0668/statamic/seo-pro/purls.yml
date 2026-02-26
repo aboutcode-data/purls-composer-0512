@@ -84,3 +84,6 @@
 - pkg:composer/statamic/seo-pro@v7.0.0-beta.6
 - pkg:composer/statamic/seo-pro@v7.0.0-beta.7
 - pkg:composer/statamic/seo-pro@v7.0.1
+- pkg:composer/statamic/seo-pro@v7.0.2
+- pkg:composer/statamic/seo-pro@v7.0.3
+- pkg:composer/statamic/seo-pro@v7.1.0

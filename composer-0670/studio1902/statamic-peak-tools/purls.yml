@@ -65,3 +65,7 @@
 - pkg:composer/studio1902/statamic-peak-tools@v8.0.0
 - pkg:composer/studio1902/statamic-peak-tools@v8.1.0
 - pkg:composer/studio1902/statamic-peak-tools@v8.2.0
+- pkg:composer/studio1902/statamic-peak-tools@v8.3.0
+- pkg:composer/studio1902/statamic-peak-tools@v8.4.0
+- pkg:composer/studio1902/statamic-peak-tools@v9.0.0
+- pkg:composer/studio1902/statamic-peak-tools@v9.0.1
