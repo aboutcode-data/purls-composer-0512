@@ -20,3 +20,8 @@
 - pkg:composer/woocommerce/email-editor@2.3.1
 - pkg:composer/woocommerce/email-editor@2.4.0
 - pkg:composer/woocommerce/email-editor@2.5.0
+- pkg:composer/woocommerce/email-editor@2.6.0
+- pkg:composer/woocommerce/email-editor@2.7.0
+- pkg:composer/woocommerce/email-editor@2.8.0
+- pkg:composer/woocommerce/email-editor@2.8.1
+- pkg:composer/woocommerce/email-editor@2.9.0

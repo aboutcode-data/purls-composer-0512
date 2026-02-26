@@ -1,3 +1,4 @@
+- pkg:composer/xoops/base-requires25@1.1.10-beta2
 - pkg:composer/xoops/base-requires25@v0.1.0
 - pkg:composer/xoops/base-requires25@v0.2.0
 - pkg:composer/xoops/base-requires25@v0.2.1

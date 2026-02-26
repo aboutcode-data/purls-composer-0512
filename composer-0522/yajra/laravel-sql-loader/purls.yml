@@ -13,3 +13,4 @@
 - pkg:composer/yajra/laravel-sql-loader@v1.7.1
 - pkg:composer/yajra/laravel-sql-loader@v1.8.0
 - pkg:composer/yajra/laravel-sql-loader@v1.8.1
+- pkg:composer/yajra/laravel-sql-loader@v1.9.0

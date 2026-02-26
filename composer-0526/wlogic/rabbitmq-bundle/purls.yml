@@ -3,6 +3,7 @@
 - pkg:composer/wlogic/rabbitmq-bundle@3.2
 - pkg:composer/wlogic/rabbitmq-bundle@3.3
 - pkg:composer/wlogic/rabbitmq-bundle@4.0
+- pkg:composer/wlogic/rabbitmq-bundle@4.1
 - pkg:composer/wlogic/rabbitmq-bundle@v1.0.0
 - pkg:composer/wlogic/rabbitmq-bundle@v1.1.0
 - pkg:composer/wlogic/rabbitmq-bundle@v1.1.1

@@ -9,3 +9,4 @@
 - pkg:composer/yiisoft/test-support@3.0.1
 - pkg:composer/yiisoft/test-support@3.0.2
 - pkg:composer/yiisoft/test-support@3.1.0
+- pkg:composer/yiisoft/test-support@3.2.0

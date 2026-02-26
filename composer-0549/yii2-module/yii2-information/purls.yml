@@ -104,3 +104,5 @@
 - pkg:composer/yii2-module/yii2-information@8.0.3
 - pkg:composer/yii2-module/yii2-information@8.0.4
 - pkg:composer/yii2-module/yii2-information@8.0.5
+- pkg:composer/yii2-module/yii2-information@8.0.6
+- pkg:composer/yii2-module/yii2-information@9.0.0

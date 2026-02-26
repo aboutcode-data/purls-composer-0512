@@ -77,8 +77,10 @@
 - pkg:composer/wp4laravel/wp4laravel@v1.0.0
 - pkg:composer/wp4laravel/wp4laravel@v1.1.0
 - pkg:composer/wp4laravel/wp4laravel@v1.2.0
+- pkg:composer/wp4laravel/wp4laravel@v1.2.1
 - pkg:composer/wp4laravel/wp4laravel@v2.0.0
 - pkg:composer/wp4laravel/wp4laravel@v2.0.1
 - pkg:composer/wp4laravel/wp4laravel@v2.1.0
 - pkg:composer/wp4laravel/wp4laravel@v2.1.1
 - pkg:composer/wp4laravel/wp4laravel@v3.0.0
+- pkg:composer/wp4laravel/wp4laravel@v3.0.1

@@ -123,3 +123,4 @@
 - pkg:composer/xp-framework/compiler@v9.6.0
 - pkg:composer/xp-framework/compiler@v9.7.0
 - pkg:composer/xp-framework/compiler@v9.8.0
+- pkg:composer/xp-framework/compiler@v9.9.0

@@ -21,6 +21,8 @@
 - pkg:composer/zalas/toolbox@v1.104.0
 - pkg:composer/zalas/toolbox@v1.104.1
 - pkg:composer/zalas/toolbox@v1.104.2
+- pkg:composer/zalas/toolbox@v1.105.0
+- pkg:composer/zalas/toolbox@v1.106.0
 - pkg:composer/zalas/toolbox@v1.11.0
 - pkg:composer/zalas/toolbox@v1.12.0
 - pkg:composer/zalas/toolbox@v1.13.0

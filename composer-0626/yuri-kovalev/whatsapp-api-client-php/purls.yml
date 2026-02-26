@@ -1,1 +1,3 @@
 - pkg:composer/yuri-kovalev/whatsapp-api-client-php@v0.3.5
+- pkg:composer/yuri-kovalev/whatsapp-api-client-php@v0.3.6
+- pkg:composer/yuri-kovalev/whatsapp-api-client-php@v0.3.7

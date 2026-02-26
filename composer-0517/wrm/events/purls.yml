@@ -37,14 +37,17 @@
 - pkg:composer/wrm/events@v3.8.0
 - pkg:composer/wrm/events@v3.9.0
 - pkg:composer/wrm/events@v3.9.1
+- pkg:composer/wrm/events@v3.9.2
 - pkg:composer/wrm/events@v4.0.0
 - pkg:composer/wrm/events@v4.0.1
 - pkg:composer/wrm/events@v4.1.0
 - pkg:composer/wrm/events@v4.2.0
 - pkg:composer/wrm/events@v4.2.1
+- pkg:composer/wrm/events@v4.2.2
 - pkg:composer/wrm/events@v5.0.0
 - pkg:composer/wrm/events@v5.1.0
 - pkg:composer/wrm/events@v5.2.0
 - pkg:composer/wrm/events@v5.2.1
 - pkg:composer/wrm/events@v5.2.2
 - pkg:composer/wrm/events@v5.3.0
+- pkg:composer/wrm/events@v5.4.0

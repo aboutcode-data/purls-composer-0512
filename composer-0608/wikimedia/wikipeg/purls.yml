@@ -10,3 +10,5 @@
 - pkg:composer/wikimedia/wikipeg@5.0.0
 - pkg:composer/wikimedia/wikipeg@5.0.1
 - pkg:composer/wikimedia/wikipeg@6.0.0
+- pkg:composer/wikimedia/wikipeg@6.1.0
+- pkg:composer/wikimedia/wikipeg@6.1.1

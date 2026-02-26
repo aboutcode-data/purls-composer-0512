@@ -2,6 +2,7 @@
 - pkg:composer/win-local-inc/message-bus@2.0.22
 - pkg:composer/win-local-inc/message-bus@2.0.23
 - pkg:composer/win-local-inc/message-bus@2.0.24
+- pkg:composer/win-local-inc/message-bus@2.0.25
 - pkg:composer/win-local-inc/message-bus@3.0
 - pkg:composer/win-local-inc/message-bus@3.0.1
 - pkg:composer/win-local-inc/message-bus@3.0.2

@@ -25,3 +25,4 @@
 - pkg:composer/wikibase-solutions/array-functions@v1.7.0
 - pkg:composer/wikibase-solutions/array-functions@v1.8.0
 - pkg:composer/wikibase-solutions/array-functions@v1.9.0
+- pkg:composer/wikibase-solutions/array-functions@v2.0.0
