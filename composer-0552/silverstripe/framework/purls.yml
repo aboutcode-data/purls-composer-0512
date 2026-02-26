@@ -480,6 +480,7 @@
 - pkg:composer/silverstripe/framework@5.4.26
 - pkg:composer/silverstripe/framework@5.4.27
 - pkg:composer/silverstripe/framework@5.4.28
+- pkg:composer/silverstripe/framework@5.4.29
 - pkg:composer/silverstripe/framework@5.4.3
 - pkg:composer/silverstripe/framework@5.4.4
 - pkg:composer/silverstripe/framework@5.4.5
