@@ -346,3 +346,4 @@
 - pkg:composer/roots/wordpress-full@6.9.1
 - pkg:composer/roots/wordpress-full@6.9.1-RC1
 - pkg:composer/roots/wordpress-full@7.0-beta1
+- pkg:composer/roots/wordpress-full@7.0-beta2
