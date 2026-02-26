@@ -17,3 +17,5 @@
 - pkg:composer/threls/activity-log@1.1.6
 - pkg:composer/threls/activity-log@1.1.7
 - pkg:composer/threls/activity-log@1.1.8
+- pkg:composer/threls/activity-log@1.1.9
+- pkg:composer/threls/activity-log@2.0.0

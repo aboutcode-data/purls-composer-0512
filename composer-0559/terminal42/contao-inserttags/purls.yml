@@ -19,3 +19,5 @@
 - pkg:composer/terminal42/contao-inserttags@2.4.3
 - pkg:composer/terminal42/contao-inserttags@2.4.4
 - pkg:composer/terminal42/contao-inserttags@2.4.5
+- pkg:composer/terminal42/contao-inserttags@2.4.6
+- pkg:composer/terminal42/contao-inserttags@2.5.0

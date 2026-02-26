@@ -35,6 +35,8 @@
 - pkg:composer/transip/tipctl@v6.3.0
 - pkg:composer/transip/tipctl@v6.34.1
 - pkg:composer/transip/tipctl@v6.34.2
+- pkg:composer/transip/tipctl@v6.34.3
+- pkg:composer/transip/tipctl@v6.34.4
 - pkg:composer/transip/tipctl@v6.4.0
 - pkg:composer/transip/tipctl@v6.5.0
 - pkg:composer/transip/tipctl@v6.6.0

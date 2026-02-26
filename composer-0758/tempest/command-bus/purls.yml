@@ -52,3 +52,8 @@
 - pkg:composer/tempest/command-bus@v2.9.1
 - pkg:composer/tempest/command-bus@v2.9.2
 - pkg:composer/tempest/command-bus@v2.9.3
+- pkg:composer/tempest/command-bus@v3.0.0
+- pkg:composer/tempest/command-bus@v3.0.1
+- pkg:composer/tempest/command-bus@v3.1.0
+- pkg:composer/tempest/command-bus@v3.2.0
+- pkg:composer/tempest/command-bus@v3.2.1

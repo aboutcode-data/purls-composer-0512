@@ -9,3 +9,5 @@
 - pkg:composer/torq/pimcore-flysystem-azure-bundle@v5.0.1
 - pkg:composer/torq/pimcore-flysystem-azure-bundle@v5.1
 - pkg:composer/torq/pimcore-flysystem-azure-bundle@v5.1.1
+- pkg:composer/torq/pimcore-flysystem-azure-bundle@v5.2.1
+- pkg:composer/torq/pimcore-flysystem-azure-bundle@v5.2.2

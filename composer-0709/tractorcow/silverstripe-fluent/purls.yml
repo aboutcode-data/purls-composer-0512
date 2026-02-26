@@ -89,6 +89,7 @@
 - pkg:composer/tractorcow/silverstripe-fluent@7.3.2
 - pkg:composer/tractorcow/silverstripe-fluent@7.3.3
 - pkg:composer/tractorcow/silverstripe-fluent@7.3.4
+- pkg:composer/tractorcow/silverstripe-fluent@7.3.5
 - pkg:composer/tractorcow/silverstripe-fluent@8.0.0
 - pkg:composer/tractorcow/silverstripe-fluent@8.0.0-alpha1
 - pkg:composer/tractorcow/silverstripe-fluent@8.0.0-beta1
@@ -100,3 +101,5 @@
 - pkg:composer/tractorcow/silverstripe-fluent@8.1.0
 - pkg:composer/tractorcow/silverstripe-fluent@8.1.0-beta1
 - pkg:composer/tractorcow/silverstripe-fluent@8.1.0-rc1
+- pkg:composer/tractorcow/silverstripe-fluent@8.1.1
+- pkg:composer/tractorcow/silverstripe-fluent@8.2.0-beta1

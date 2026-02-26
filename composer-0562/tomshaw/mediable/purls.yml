@@ -36,6 +36,14 @@
 - pkg:composer/tomshaw/mediable@v0.1.6
 - pkg:composer/tomshaw/mediable@v0.1.8
 - pkg:composer/tomshaw/mediable@v0.1.9
+- pkg:composer/tomshaw/mediable@v0.10.0
+- pkg:composer/tomshaw/mediable@v0.10.1
+- pkg:composer/tomshaw/mediable@v0.10.2
+- pkg:composer/tomshaw/mediable@v0.11.0
+- pkg:composer/tomshaw/mediable@v0.12.0
+- pkg:composer/tomshaw/mediable@v0.12.1
+- pkg:composer/tomshaw/mediable@v0.12.2
+- pkg:composer/tomshaw/mediable@v0.12.3
 - pkg:composer/tomshaw/mediable@v0.2.0
 - pkg:composer/tomshaw/mediable@v0.2.1
 - pkg:composer/tomshaw/mediable@v0.2.10
@@ -86,3 +94,8 @@
 - pkg:composer/tomshaw/mediable@v0.7.1
 - pkg:composer/tomshaw/mediable@v0.7.2
 - pkg:composer/tomshaw/mediable@v0.8.0
+- pkg:composer/tomshaw/mediable@v0.9.0
+- pkg:composer/tomshaw/mediable@v0.9.1
+- pkg:composer/tomshaw/mediable@v0.9.2
+- pkg:composer/tomshaw/mediable@v1.0.0
+- pkg:composer/tomshaw/mediable@v1.0.1

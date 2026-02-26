@@ -57,3 +57,13 @@
 - pkg:composer/topoff/laravel-user-logger@v5.7
 - pkg:composer/topoff/laravel-user-logger@v6.1.0
 - pkg:composer/topoff/laravel-user-logger@v6.2
+- pkg:composer/topoff/laravel-user-logger@v7.0.0
+- pkg:composer/topoff/laravel-user-logger@v7.0.1
+- pkg:composer/topoff/laravel-user-logger@v8.0.0
+- pkg:composer/topoff/laravel-user-logger@v8.1.0
+- pkg:composer/topoff/laravel-user-logger@v8.2.0
+- pkg:composer/topoff/laravel-user-logger@v8.3.0
+- pkg:composer/topoff/laravel-user-logger@v8.3.1
+- pkg:composer/topoff/laravel-user-logger@v8.3.2
+- pkg:composer/topoff/laravel-user-logger@v8.3.3
+- pkg:composer/topoff/laravel-user-logger@v8.3.4

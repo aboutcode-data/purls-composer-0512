@@ -451,6 +451,11 @@
 - pkg:composer/tencentcloud/ocr@3.0.1525
 - pkg:composer/tencentcloud/ocr@3.0.1526
 - pkg:composer/tencentcloud/ocr@3.0.1527
+- pkg:composer/tencentcloud/ocr@3.0.1535
+- pkg:composer/tencentcloud/ocr@3.0.1536
+- pkg:composer/tencentcloud/ocr@3.0.1537
+- pkg:composer/tencentcloud/ocr@3.0.1538
+- pkg:composer/tencentcloud/ocr@3.0.1539
 - pkg:composer/tencentcloud/ocr@3.0.248
 - pkg:composer/tencentcloud/ocr@3.0.249
 - pkg:composer/tencentcloud/ocr@3.0.250

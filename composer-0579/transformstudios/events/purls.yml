@@ -59,3 +59,4 @@
 - pkg:composer/transformstudios/events@v5.8.1
 - pkg:composer/transformstudios/events@v5.8.2
 - pkg:composer/transformstudios/events@v5.8.3
+- pkg:composer/transformstudios/events@v6.0-alpha.1
