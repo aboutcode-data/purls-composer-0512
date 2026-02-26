@@ -3,3 +3,5 @@
 - pkg:composer/glook/isolated-composer@0.2.0
 - pkg:composer/glook/isolated-composer@0.3.0
 - pkg:composer/glook/isolated-composer@0.3.1
+- pkg:composer/glook/isolated-composer@0.3.2
+- pkg:composer/glook/isolated-composer@0.3.3
