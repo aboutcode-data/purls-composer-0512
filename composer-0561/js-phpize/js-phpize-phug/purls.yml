@@ -20,3 +20,4 @@
 - pkg:composer/js-phpize/js-phpize-phug@2.1.0
 - pkg:composer/js-phpize/js-phpize-phug@2.2.0
 - pkg:composer/js-phpize/js-phpize-phug@2.2.1
+- pkg:composer/js-phpize/js-phpize-phug@2.3.0
