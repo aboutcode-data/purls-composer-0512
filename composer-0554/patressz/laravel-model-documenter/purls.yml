@@ -5,3 +5,4 @@
 - pkg:composer/patressz/laravel-model-documenter@v0.3.0
 - pkg:composer/patressz/laravel-model-documenter@v1.0.0
 - pkg:composer/patressz/laravel-model-documenter@v1.0.1
+- pkg:composer/patressz/laravel-model-documenter@v1.0.2

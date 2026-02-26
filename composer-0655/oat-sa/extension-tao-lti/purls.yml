@@ -120,6 +120,7 @@
 - pkg:composer/oat-sa/extension-tao-lti@v17.2.1
 - pkg:composer/oat-sa/extension-tao-lti@v18.0.0
 - pkg:composer/oat-sa/extension-tao-lti@v19.0.0
+- pkg:composer/oat-sa/extension-tao-lti@v19.1.0
 - pkg:composer/oat-sa/extension-tao-lti@v2.0.0
 - pkg:composer/oat-sa/extension-tao-lti@v3.0.0
 - pkg:composer/oat-sa/extension-tao-lti@v3.1.0
