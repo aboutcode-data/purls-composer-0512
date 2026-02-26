@@ -1,1 +1,2 @@
 - pkg:composer/verdient/hyperf3-bearer-token@1.0.0
+- pkg:composer/verdient/hyperf3-bearer-token@2.0.0

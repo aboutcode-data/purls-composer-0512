@@ -6,3 +6,4 @@
 - pkg:composer/verdient/cli@0.0.5
 - pkg:composer/verdient/cli@0.0.6
 - pkg:composer/verdient/cli@0.0.7
+- pkg:composer/verdient/cli@1.0.0

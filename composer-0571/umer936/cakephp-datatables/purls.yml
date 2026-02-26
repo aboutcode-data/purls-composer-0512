@@ -4,3 +4,6 @@
 - pkg:composer/umer936/cakephp-datatables@v3.0
 - pkg:composer/umer936/cakephp-datatables@v5.0
 - pkg:composer/umer936/cakephp-datatables@v5.1
+- pkg:composer/umer936/cakephp-datatables@v5.2
+- pkg:composer/umer936/cakephp-datatables@v5.3
+- pkg:composer/umer936/cakephp-datatables@v5.3.1

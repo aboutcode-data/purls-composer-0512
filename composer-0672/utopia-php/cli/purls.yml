@@ -7,6 +7,7 @@
 - pkg:composer/utopia-php/cli@0.15.1
 - pkg:composer/utopia-php/cli@0.15.2
 - pkg:composer/utopia-php/cli@0.15.3
+- pkg:composer/utopia-php/cli@0.15.4
 - pkg:composer/utopia-php/cli@0.16.0
 - pkg:composer/utopia-php/cli@0.17.0
 - pkg:composer/utopia-php/cli@0.18.0

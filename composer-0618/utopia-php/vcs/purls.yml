@@ -39,3 +39,5 @@
 - pkg:composer/utopia-php/vcs@0.9.4
 - pkg:composer/utopia-php/vcs@0.9.5
 - pkg:composer/utopia-php/vcs@1.0.0
+- pkg:composer/utopia-php/vcs@1.0.1
+- pkg:composer/utopia-php/vcs@2.0.0

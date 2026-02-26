@@ -24,3 +24,4 @@
 - pkg:composer/vankosoft/api-bundle@v3.0.5
 - pkg:composer/vankosoft/api-bundle@v3.0.6
 - pkg:composer/vankosoft/api-bundle@v4.0.0
+- pkg:composer/vankosoft/api-bundle@v4.0.1

@@ -1,3 +1,5 @@
 - pkg:composer/webmavens/laravel-remote-http-database@0.0.1
 - pkg:composer/webmavens/laravel-remote-http-database@0.0.2
 - pkg:composer/webmavens/laravel-remote-http-database@0.0.3
+- pkg:composer/webmavens/laravel-remote-http-database@0.0.4
+- pkg:composer/webmavens/laravel-remote-http-database@0.0.5
