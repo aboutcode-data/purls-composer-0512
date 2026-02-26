@@ -27,6 +27,10 @@
 - pkg:composer/netresearch/rte-ckeditor-image@v12.0.1
 - pkg:composer/netresearch/rte-ckeditor-image@v12.0.4
 - pkg:composer/netresearch/rte-ckeditor-image@v12.0.5
+- pkg:composer/netresearch/rte-ckeditor-image@v12.0.6
+- pkg:composer/netresearch/rte-ckeditor-image@v12.0.7
+- pkg:composer/netresearch/rte-ckeditor-image@v12.0.8
+- pkg:composer/netresearch/rte-ckeditor-image@v12.0.9
 - pkg:composer/netresearch/rte-ckeditor-image@v13.0.1
 - pkg:composer/netresearch/rte-ckeditor-image@v13.1.0-rc1
 - pkg:composer/netresearch/rte-ckeditor-image@v13.1.0-rc2
