@@ -1,6 +1,7 @@
 - pkg:composer/andrew-svirin/ebics-client-php@1.0.0
 - pkg:composer/andrew-svirin/ebics-client-php@1.0.1
 - pkg:composer/andrew-svirin/ebics-client-php@3.0.2
+- pkg:composer/andrew-svirin/ebics-client-php@3.0.3
 - pkg:composer/andrew-svirin/ebics-client-php@v1.0.2
 - pkg:composer/andrew-svirin/ebics-client-php@v1.1.0
 - pkg:composer/andrew-svirin/ebics-client-php@v1.2.0

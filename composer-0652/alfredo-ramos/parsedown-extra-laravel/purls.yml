@@ -35,3 +35,4 @@
 - pkg:composer/alfredo-ramos/parsedown-extra-laravel@5.0.0
 - pkg:composer/alfredo-ramos/parsedown-extra-laravel@6.0.0
 - pkg:composer/alfredo-ramos/parsedown-extra-laravel@7.0.0
+- pkg:composer/alfredo-ramos/parsedown-extra-laravel@7.1.0

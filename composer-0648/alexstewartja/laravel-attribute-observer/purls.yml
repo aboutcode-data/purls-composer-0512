@@ -15,3 +15,5 @@
 - pkg:composer/alexstewartja/laravel-attribute-observer@1.5.0
 - pkg:composer/alexstewartja/laravel-attribute-observer@1.6.0
 - pkg:composer/alexstewartja/laravel-attribute-observer@1.7.0
+- pkg:composer/alexstewartja/laravel-attribute-observer@1.7.5
+- pkg:composer/alexstewartja/laravel-attribute-observer@1.7.8

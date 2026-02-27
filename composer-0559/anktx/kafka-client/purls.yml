@@ -6,3 +6,4 @@
 - pkg:composer/anktx/kafka-client@0.2.0
 - pkg:composer/anktx/kafka-client@0.3.0
 - pkg:composer/anktx/kafka-client@0.3.1
+- pkg:composer/anktx/kafka-client@0.3.2

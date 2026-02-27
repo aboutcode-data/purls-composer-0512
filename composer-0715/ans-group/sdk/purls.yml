@@ -161,6 +161,7 @@
 - pkg:composer/ans-group/sdk@v1.26.2
 - pkg:composer/ans-group/sdk@v1.26.3
 - pkg:composer/ans-group/sdk@v1.27.0
+- pkg:composer/ans-group/sdk@v1.28.0
 - pkg:composer/ans-group/sdk@v1.3.0
 - pkg:composer/ans-group/sdk@v1.3.1
 - pkg:composer/ans-group/sdk@v1.3.10
@@ -329,3 +330,5 @@
 - pkg:composer/ans-group/sdk@v2.1.0
 - pkg:composer/ans-group/sdk@v2.1.1
 - pkg:composer/ans-group/sdk@v2.2.0
+- pkg:composer/ans-group/sdk@v2.3.0
+- pkg:composer/ans-group/sdk@v2.3.1

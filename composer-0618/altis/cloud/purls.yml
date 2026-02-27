@@ -230,7 +230,10 @@
 - pkg:composer/altis/cloud@22.0.15
 - pkg:composer/altis/cloud@22.0.16
 - pkg:composer/altis/cloud@22.0.17
+- pkg:composer/altis/cloud@22.0.18
+- pkg:composer/altis/cloud@22.0.19
 - pkg:composer/altis/cloud@22.0.2
+- pkg:composer/altis/cloud@22.0.20
 - pkg:composer/altis/cloud@22.0.3
 - pkg:composer/altis/cloud@22.0.4
 - pkg:composer/altis/cloud@22.0.5
@@ -253,6 +256,9 @@
 - pkg:composer/altis/cloud@23.0.19
 - pkg:composer/altis/cloud@23.0.2
 - pkg:composer/altis/cloud@23.0.20
+- pkg:composer/altis/cloud@23.0.21
+- pkg:composer/altis/cloud@23.0.22
+- pkg:composer/altis/cloud@23.0.23
 - pkg:composer/altis/cloud@23.0.3
 - pkg:composer/altis/cloud@23.0.4
 - pkg:composer/altis/cloud@23.0.5
@@ -269,6 +275,8 @@
 - pkg:composer/altis/cloud@24.0.13
 - pkg:composer/altis/cloud@24.0.14
 - pkg:composer/altis/cloud@24.0.15
+- pkg:composer/altis/cloud@24.0.16
+- pkg:composer/altis/cloud@24.0.17
 - pkg:composer/altis/cloud@24.0.2
 - pkg:composer/altis/cloud@24.0.3
 - pkg:composer/altis/cloud@24.0.4
@@ -280,6 +288,7 @@
 - pkg:composer/altis/cloud@25.0.0
 - pkg:composer/altis/cloud@25.0.0-beta.1
 - pkg:composer/altis/cloud@25.0.1
+- pkg:composer/altis/cloud@25.0.10
 - pkg:composer/altis/cloud@25.0.2
 - pkg:composer/altis/cloud@25.0.3
 - pkg:composer/altis/cloud@25.0.4
@@ -287,6 +296,10 @@
 - pkg:composer/altis/cloud@25.0.6
 - pkg:composer/altis/cloud@25.0.7
 - pkg:composer/altis/cloud@25.0.8
+- pkg:composer/altis/cloud@25.0.9
+- pkg:composer/altis/cloud@26.0.0
+- pkg:composer/altis/cloud@26.0.0-beta.1
+- pkg:composer/altis/cloud@26.0.0-beta.2
 - pkg:composer/altis/cloud@3.0.0
 - pkg:composer/altis/cloud@3.0.0-beta1
 - pkg:composer/altis/cloud@3.0.0-beta2

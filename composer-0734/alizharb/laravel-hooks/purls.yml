@@ -1,3 +1,4 @@
 - pkg:composer/alizharb/laravel-hooks@v1.0.0
 - pkg:composer/alizharb/laravel-hooks@v1.1.0
 - pkg:composer/alizharb/laravel-hooks@v1.2.0
+- pkg:composer/alizharb/laravel-hooks@v1.2.1

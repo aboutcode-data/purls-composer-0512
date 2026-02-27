@@ -17,3 +17,4 @@
 - pkg:composer/alphagov/notifications-php-client@6.0.0
 - pkg:composer/alphagov/notifications-php-client@6.1.0
 - pkg:composer/alphagov/notifications-php-client@6.2.0
+- pkg:composer/alphagov/notifications-php-client@7.0.0
