@@ -1,3 +1,4 @@
 - pkg:composer/neos/symfonymailer@0.1.0
 - pkg:composer/neos/symfonymailer@1.0.0
 - pkg:composer/neos/symfonymailer@1.0.1
+- pkg:composer/neos/symfonymailer@1.0.2
