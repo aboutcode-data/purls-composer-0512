@@ -25,3 +25,6 @@
 - pkg:composer/cline/sequencer@1.7.1
 - pkg:composer/cline/sequencer@1.8.0
 - pkg:composer/cline/sequencer@1.9.0
+- pkg:composer/cline/sequencer@1.9.1
+- pkg:composer/cline/sequencer@1.9.2
+- pkg:composer/cline/sequencer@2.0.0

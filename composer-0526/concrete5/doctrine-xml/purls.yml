@@ -3,3 +3,4 @@
 - pkg:composer/concrete5/doctrine-xml@1.1.0
 - pkg:composer/concrete5/doctrine-xml@1.2.0
 - pkg:composer/concrete5/doctrine-xml@1.3.0
+- pkg:composer/concrete5/doctrine-xml@1.4.0

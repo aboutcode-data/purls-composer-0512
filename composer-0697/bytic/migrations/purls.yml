@@ -14,3 +14,4 @@
 - pkg:composer/bytic/migrations@0.12.9
 - pkg:composer/bytic/migrations@0.13.1
 - pkg:composer/bytic/migrations@0.13.2
+- pkg:composer/bytic/migrations@0.13.3

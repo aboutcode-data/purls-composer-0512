@@ -1,3 +1,4 @@
 - pkg:composer/charcoal-dev/http-router@0.2.51
 - pkg:composer/charcoal-dev/http-router@0.2.59
 - pkg:composer/charcoal-dev/http-router@0.2.60
+- pkg:composer/charcoal-dev/http-router@0.2.61

@@ -30,3 +30,7 @@
 - pkg:composer/cline/toggl@2.3.0
 - pkg:composer/cline/toggl@2.3.1
 - pkg:composer/cline/toggl@2.3.3
+- pkg:composer/cline/toggl@2.3.4
+- pkg:composer/cline/toggl@2.3.5
+- pkg:composer/cline/toggl@2.3.6
+- pkg:composer/cline/toggl@2.3.7

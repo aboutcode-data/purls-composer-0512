@@ -1,5 +1,6 @@
 - pkg:composer/campaigningsoftware/cambuildr-validation@7.1
 - pkg:composer/campaigningsoftware/cambuildr-validation@7.1.1
+- pkg:composer/campaigningsoftware/cambuildr-validation@8.0.0
 - pkg:composer/campaigningsoftware/cambuildr-validation@v0.1
 - pkg:composer/campaigningsoftware/cambuildr-validation@v1.0
 - pkg:composer/campaigningsoftware/cambuildr-validation@v1.1

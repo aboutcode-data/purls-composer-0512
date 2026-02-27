@@ -199,6 +199,7 @@
 - pkg:composer/contao-components/tinymce4@7.8.0
 - pkg:composer/contao-components/tinymce4@7.9.0
 - pkg:composer/contao-components/tinymce4@7.9.1
+- pkg:composer/contao-components/tinymce4@7.9.2
 - pkg:composer/contao-components/tinymce4@8.0.0
 - pkg:composer/contao-components/tinymce4@8.0.1
 - pkg:composer/contao-components/tinymce4@8.0.2
