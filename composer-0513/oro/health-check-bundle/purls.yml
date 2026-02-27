@@ -51,6 +51,7 @@
 - pkg:composer/oro/health-check-bundle@5.0.2
 - pkg:composer/oro/health-check-bundle@5.0.3
 - pkg:composer/oro/health-check-bundle@5.0.4
+- pkg:composer/oro/health-check-bundle@5.0.5
 - pkg:composer/oro/health-check-bundle@5.1.0
 - pkg:composer/oro/health-check-bundle@5.1.0-alpha.1
 - pkg:composer/oro/health-check-bundle@5.1.0-alpha.2

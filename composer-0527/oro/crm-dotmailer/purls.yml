@@ -118,6 +118,7 @@
 - pkg:composer/oro/crm-dotmailer@5.0.4
 - pkg:composer/oro/crm-dotmailer@5.0.5
 - pkg:composer/oro/crm-dotmailer@5.0.6
+- pkg:composer/oro/crm-dotmailer@5.0.7
 - pkg:composer/oro/crm-dotmailer@5.1.0
 - pkg:composer/oro/crm-dotmailer@5.1.0-alpha.1
 - pkg:composer/oro/crm-dotmailer@5.1.0-alpha.2
