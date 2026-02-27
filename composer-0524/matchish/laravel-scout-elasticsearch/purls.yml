@@ -24,6 +24,7 @@
 - pkg:composer/matchish/laravel-scout-elasticsearch@5.0.1
 - pkg:composer/matchish/laravel-scout-elasticsearch@8.0.0-alpha.1
 - pkg:composer/matchish/laravel-scout-elasticsearch@8.0.0-alpha.2
+- pkg:composer/matchish/laravel-scout-elasticsearch@8.0.0-alpha.3
 - pkg:composer/matchish/laravel-scout-elasticsearch@V6.0.2
 - pkg:composer/matchish/laravel-scout-elasticsearch@v5.0.2
 - pkg:composer/matchish/laravel-scout-elasticsearch@v5.0.3
