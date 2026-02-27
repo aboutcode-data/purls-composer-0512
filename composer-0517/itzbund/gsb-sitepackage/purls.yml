@@ -701,7 +701,9 @@
 - pkg:composer/itzbund/gsb-sitepackage@v7.24.46
 - pkg:composer/itzbund/gsb-sitepackage@v7.24.47
 - pkg:composer/itzbund/gsb-sitepackage@v7.24.48
+- pkg:composer/itzbund/gsb-sitepackage@v7.24.49
 - pkg:composer/itzbund/gsb-sitepackage@v7.24.5
+- pkg:composer/itzbund/gsb-sitepackage@v7.24.50
 - pkg:composer/itzbund/gsb-sitepackage@v7.24.6
 - pkg:composer/itzbund/gsb-sitepackage@v7.24.7
 - pkg:composer/itzbund/gsb-sitepackage@v7.24.8
