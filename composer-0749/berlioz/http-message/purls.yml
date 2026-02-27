@@ -20,3 +20,4 @@
 - pkg:composer/berlioz/http-message@v2.3.4
 - pkg:composer/berlioz/http-message@v2.4.0
 - pkg:composer/berlioz/http-message@v2.5.0
+- pkg:composer/berlioz/http-message@v3.0.0

@@ -13,3 +13,4 @@
 - pkg:composer/berlioz/config@v2.1.0
 - pkg:composer/berlioz/config@v2.2.0
 - pkg:composer/berlioz/config@v2.3.0
+- pkg:composer/berlioz/config@v3.0.0

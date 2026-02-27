@@ -87,3 +87,5 @@
 - pkg:composer/benfeitoria/notification-php-sdk@v5.3.1
 - pkg:composer/benfeitoria/notification-php-sdk@v5.4.0
 - pkg:composer/benfeitoria/notification-php-sdk@v5.4.1
+- pkg:composer/benfeitoria/notification-php-sdk@v5.4.2
+- pkg:composer/benfeitoria/notification-php-sdk@v5.4.3

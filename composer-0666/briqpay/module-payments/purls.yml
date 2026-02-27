@@ -19,3 +19,5 @@
 - pkg:composer/briqpay/module-payments@1.1.5
 - pkg:composer/briqpay/module-payments@1.1.6
 - pkg:composer/briqpay/module-payments@1.1.7
+- pkg:composer/briqpay/module-payments@1.1.8
+- pkg:composer/briqpay/module-payments@1.1.9

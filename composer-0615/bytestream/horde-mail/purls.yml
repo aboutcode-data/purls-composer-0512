@@ -13,3 +13,4 @@
 - pkg:composer/bytestream/horde-mail@2.6.5
 - pkg:composer/bytestream/horde-mail@v2.7.0
 - pkg:composer/bytestream/horde-mail@v2.7.1
+- pkg:composer/bytestream/horde-mail@v2.7.2

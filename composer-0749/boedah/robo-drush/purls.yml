@@ -17,3 +17,4 @@
 - pkg:composer/boedah/robo-drush@4.0.0
 - pkg:composer/boedah/robo-drush@4.1.0
 - pkg:composer/boedah/robo-drush@4.2.0
+- pkg:composer/boedah/robo-drush@5.0.0

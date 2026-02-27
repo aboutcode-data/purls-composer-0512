@@ -1,2 +1,4 @@
 - pkg:composer/bentools/pest-symfony-kernel@1.0
 - pkg:composer/bentools/pest-symfony-kernel@1.1
+- pkg:composer/bentools/pest-symfony-kernel@1.2
+- pkg:composer/bentools/pest-symfony-kernel@1.2.1

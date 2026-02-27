@@ -9,3 +9,4 @@
 - pkg:composer/bytestream/horde-util@v2.6.4
 - pkg:composer/bytestream/horde-util@v2.7.0
 - pkg:composer/bytestream/horde-util@v2.8.0
+- pkg:composer/bytestream/horde-util@v2.8.1

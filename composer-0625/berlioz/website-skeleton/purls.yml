@@ -1,3 +1,5 @@
 - pkg:composer/berlioz/website-skeleton@v1.0
 - pkg:composer/berlioz/website-skeleton@v2.0
 - pkg:composer/berlioz/website-skeleton@v2.1
+- pkg:composer/berlioz/website-skeleton@v2.2
+- pkg:composer/berlioz/website-skeleton@v3.0
