@@ -98,3 +98,4 @@
 - pkg:composer/php-extended/php-basic-console-logger@8.0.8
 - pkg:composer/php-extended/php-basic-console-logger@8.0.9
 - pkg:composer/php-extended/php-basic-console-logger@9.0.0
+- pkg:composer/php-extended/php-basic-console-logger@9.0.1

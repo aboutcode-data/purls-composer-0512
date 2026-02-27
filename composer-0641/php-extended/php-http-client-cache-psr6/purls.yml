@@ -69,3 +69,4 @@
 - pkg:composer/php-extended/php-http-client-cache-psr6@8.0.8
 - pkg:composer/php-extended/php-http-client-cache-psr6@8.0.9
 - pkg:composer/php-extended/php-http-client-cache-psr6@9.0.0
+- pkg:composer/php-extended/php-http-client-cache-psr6@9.0.1
