@@ -13,3 +13,4 @@
 - pkg:composer/verdient/hyperf3-database@1.0.7
 - pkg:composer/verdient/hyperf3-database@1.0.8
 - pkg:composer/verdient/hyperf3-database@1.0.9
+- pkg:composer/verdient/hyperf3-database@2.0.0

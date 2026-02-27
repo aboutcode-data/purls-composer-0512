@@ -25,3 +25,5 @@
 - pkg:composer/web-ex-machina/contao-job-offers@2.3.9
 - pkg:composer/web-ex-machina/contao-job-offers@2.4.0
 - pkg:composer/web-ex-machina/contao-job-offers@2.4.1
+- pkg:composer/web-ex-machina/contao-job-offers@2.5.0
+- pkg:composer/web-ex-machina/contao-job-offers@2.5.1
