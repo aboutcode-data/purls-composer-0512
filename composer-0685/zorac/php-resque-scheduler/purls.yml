@@ -12,3 +12,4 @@
 - pkg:composer/zorac/php-resque-scheduler@2.2.4
 - pkg:composer/zorac/php-resque-scheduler@2.2.5
 - pkg:composer/zorac/php-resque-scheduler@2.2.6
+- pkg:composer/zorac/php-resque-scheduler@2.3.0

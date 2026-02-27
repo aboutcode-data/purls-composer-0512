@@ -11,3 +11,4 @@
 - pkg:composer/airfleet/wordpress-dev@3.2.0
 - pkg:composer/airfleet/wordpress-dev@4.0.0
 - pkg:composer/airfleet/wordpress-dev@4.0.1
+- pkg:composer/airfleet/wordpress-dev@4.0.2

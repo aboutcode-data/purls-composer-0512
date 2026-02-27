@@ -11,3 +11,4 @@
 - pkg:composer/adt/api-json-router@v2.3
 - pkg:composer/adt/api-json-router@v2.3.1
 - pkg:composer/adt/api-json-router@v2.4
+- pkg:composer/adt/api-json-router@v3.0

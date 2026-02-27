@@ -5,3 +5,4 @@
 - pkg:composer/ahed92wakim/laravel-mysql-deadlock-retry@2.0.0
 - pkg:composer/ahed92wakim/laravel-mysql-deadlock-retry@3.0.0
 - pkg:composer/ahed92wakim/laravel-mysql-deadlock-retry@4.0.0
+- pkg:composer/ahed92wakim/laravel-mysql-deadlock-retry@5.0.0

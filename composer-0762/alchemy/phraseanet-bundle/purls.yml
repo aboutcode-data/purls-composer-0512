@@ -18,3 +18,7 @@
 - pkg:composer/alchemy/phraseanet-bundle@0.2.7
 - pkg:composer/alchemy/phraseanet-bundle@0.2.8
 - pkg:composer/alchemy/phraseanet-bundle@0.2.9
+- pkg:composer/alchemy/phraseanet-bundle@100.0.0
+- pkg:composer/alchemy/phraseanet-bundle@100.0.2
+- pkg:composer/alchemy/phraseanet-bundle@100.0.3
+- pkg:composer/alchemy/phraseanet-bundle@100.0.4

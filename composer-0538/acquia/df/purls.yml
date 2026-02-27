@@ -118,3 +118,4 @@
 - pkg:composer/acquia/df@7.2.7
 - pkg:composer/acquia/df@8.0.0
 - pkg:composer/acquia/df@8.1.0
+- pkg:composer/acquia/df@8.2.0
