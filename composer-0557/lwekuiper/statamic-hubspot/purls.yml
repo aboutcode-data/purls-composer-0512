@@ -1,4 +1,6 @@
 - pkg:composer/lwekuiper/statamic-hubspot@v1.0.0
 - pkg:composer/lwekuiper/statamic-hubspot@v1.0.1
+- pkg:composer/lwekuiper/statamic-hubspot@v1.0.2
 - pkg:composer/lwekuiper/statamic-hubspot@v2.0.0
 - pkg:composer/lwekuiper/statamic-hubspot@v2.0.1
+- pkg:composer/lwekuiper/statamic-hubspot@v2.0.2
