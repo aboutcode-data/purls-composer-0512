@@ -24,3 +24,4 @@
 - pkg:composer/laravel-lang/starter-kits@1.6.2
 - pkg:composer/laravel-lang/starter-kits@1.7.0
 - pkg:composer/laravel-lang/starter-kits@1.8.0
+- pkg:composer/laravel-lang/starter-kits@1.9.0
