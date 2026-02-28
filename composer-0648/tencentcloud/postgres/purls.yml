@@ -405,6 +405,7 @@
 - pkg:composer/tencentcloud/postgres@3.0.1472
 - pkg:composer/tencentcloud/postgres@3.0.1480
 - pkg:composer/tencentcloud/postgres@3.0.1490
+- pkg:composer/tencentcloud/postgres@3.0.1540
 - pkg:composer/tencentcloud/postgres@3.0.248
 - pkg:composer/tencentcloud/postgres@3.0.249
 - pkg:composer/tencentcloud/postgres@3.0.250
