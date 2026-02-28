@@ -39,6 +39,7 @@
 - pkg:composer/joaopaulolndev/filament-edit-profile@v1.0.43
 - pkg:composer/joaopaulolndev/filament-edit-profile@v1.0.44
 - pkg:composer/joaopaulolndev/filament-edit-profile@v1.0.45
+- pkg:composer/joaopaulolndev/filament-edit-profile@v1.0.46
 - pkg:composer/joaopaulolndev/filament-edit-profile@v1.0.5
 - pkg:composer/joaopaulolndev/filament-edit-profile@v1.0.6
 - pkg:composer/joaopaulolndev/filament-edit-profile@v1.0.7
@@ -50,6 +51,7 @@
 - pkg:composer/joaopaulolndev/filament-edit-profile@v2.0.11
 - pkg:composer/joaopaulolndev/filament-edit-profile@v2.0.12
 - pkg:composer/joaopaulolndev/filament-edit-profile@v2.0.13
+- pkg:composer/joaopaulolndev/filament-edit-profile@v2.0.14
 - pkg:composer/joaopaulolndev/filament-edit-profile@v2.0.2
 - pkg:composer/joaopaulolndev/filament-edit-profile@v2.0.3
 - pkg:composer/joaopaulolndev/filament-edit-profile@v2.0.4
@@ -59,3 +61,4 @@
 - pkg:composer/joaopaulolndev/filament-edit-profile@v2.0.8
 - pkg:composer/joaopaulolndev/filament-edit-profile@v2.0.9
 - pkg:composer/joaopaulolndev/filament-edit-profile@v3.0.0
+- pkg:composer/joaopaulolndev/filament-edit-profile@v3.0.1
