@@ -1,1 +1,8 @@
+- pkg:composer/z-trippete/jwt-verifier@1.0.0
+- pkg:composer/z-trippete/jwt-verifier@1.0.1
+- pkg:composer/z-trippete/jwt-verifier@1.0.2
+- pkg:composer/z-trippete/jwt-verifier@2.0.0
+- pkg:composer/z-trippete/jwt-verifier@2.0.1
+- pkg:composer/z-trippete/jwt-verifier@2.1.0
 - pkg:composer/z-trippete/jwt-verifier@2.1.1
+- pkg:composer/z-trippete/jwt-verifier@2.1.2
