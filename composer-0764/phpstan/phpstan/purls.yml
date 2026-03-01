@@ -271,6 +271,7 @@
 - pkg:composer/phpstan/phpstan@1.12.30
 - pkg:composer/phpstan/phpstan@1.12.31
 - pkg:composer/phpstan/phpstan@1.12.32
+- pkg:composer/phpstan/phpstan@1.12.33
 - pkg:composer/phpstan/phpstan@1.12.4
 - pkg:composer/phpstan/phpstan@1.12.5
 - pkg:composer/phpstan/phpstan@1.12.6
