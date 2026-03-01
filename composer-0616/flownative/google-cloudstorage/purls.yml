@@ -54,3 +54,4 @@
 - pkg:composer/flownative/google-cloudstorage@v6.1.1
 - pkg:composer/flownative/google-cloudstorage@v6.1.2
 - pkg:composer/flownative/google-cloudstorage@v6.1.3
+- pkg:composer/flownative/google-cloudstorage@v6.1.4

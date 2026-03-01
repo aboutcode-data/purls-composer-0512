@@ -8,3 +8,4 @@
 - pkg:composer/flux-se/odoo-api-client@v1.1.0
 - pkg:composer/flux-se/odoo-api-client@v1.1.1
 - pkg:composer/flux-se/odoo-api-client@v1.1.2
+- pkg:composer/flux-se/odoo-api-client@v1.1.3
