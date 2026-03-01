@@ -1,3 +1,4 @@
+- pkg:composer/dalpras/smart-template@V2.0
 - pkg:composer/dalpras/smart-template@v1.0
 - pkg:composer/dalpras/smart-template@v1.1
 - pkg:composer/dalpras/smart-template@v1.2
@@ -7,3 +8,5 @@
 - pkg:composer/dalpras/smart-template@v1.4.3
 - pkg:composer/dalpras/smart-template@v1.5.0
 - pkg:composer/dalpras/smart-template@v1.6
+- pkg:composer/dalpras/smart-template@v2.1
+- pkg:composer/dalpras/smart-template@v3.1

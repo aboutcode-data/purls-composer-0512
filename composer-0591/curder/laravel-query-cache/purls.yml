@@ -6,3 +6,5 @@
 - pkg:composer/curder/laravel-query-cache@3.0.0
 - pkg:composer/curder/laravel-query-cache@4.0.0
 - pkg:composer/curder/laravel-query-cache@5.0.0
+- pkg:composer/curder/laravel-query-cache@6.0.0
+- pkg:composer/curder/laravel-query-cache@6.1.0

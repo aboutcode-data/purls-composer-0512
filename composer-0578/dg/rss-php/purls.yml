@@ -4,3 +4,5 @@
 - pkg:composer/dg/rss-php@v1.3
 - pkg:composer/dg/rss-php@v1.4
 - pkg:composer/dg/rss-php@v1.5
+- pkg:composer/dg/rss-php@v1.6
+- pkg:composer/dg/rss-php@v1.7

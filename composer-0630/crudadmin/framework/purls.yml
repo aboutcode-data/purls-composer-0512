@@ -241,3 +241,7 @@
 - pkg:composer/crudadmin/framework@5.5.0
 - pkg:composer/crudadmin/framework@5.5.1
 - pkg:composer/crudadmin/framework@5.5.2
+- pkg:composer/crudadmin/framework@5.5.3
+- pkg:composer/crudadmin/framework@5.5.4
+- pkg:composer/crudadmin/framework@5.5.5
+- pkg:composer/crudadmin/framework@5.5.6

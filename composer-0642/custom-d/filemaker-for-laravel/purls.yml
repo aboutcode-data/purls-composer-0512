@@ -4,3 +4,4 @@
 - pkg:composer/custom-d/filemaker-for-laravel@v3.0.0
 - pkg:composer/custom-d/filemaker-for-laravel@v3.0.1
 - pkg:composer/custom-d/filemaker-for-laravel@v3.1.0
+- pkg:composer/custom-d/filemaker-for-laravel@v3.1.1

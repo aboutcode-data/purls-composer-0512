@@ -43,3 +43,4 @@
 - pkg:composer/datalogix/laravel-utils@v5.3.0
 - pkg:composer/datalogix/laravel-utils@v5.4.0
 - pkg:composer/datalogix/laravel-utils@v5.5.0
+- pkg:composer/datalogix/laravel-utils@v5.6.0

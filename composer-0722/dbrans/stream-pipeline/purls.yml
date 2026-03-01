@@ -8,3 +8,4 @@
 - pkg:composer/dbrans/stream-pipeline@2.3.0
 - pkg:composer/dbrans/stream-pipeline@2.4.0
 - pkg:composer/dbrans/stream-pipeline@2.5.0
+- pkg:composer/dbrans/stream-pipeline@2.5.1

@@ -96,6 +96,9 @@
 - pkg:composer/dedoc/scramble@v0.13.1
 - pkg:composer/dedoc/scramble@v0.13.10
 - pkg:composer/dedoc/scramble@v0.13.11
+- pkg:composer/dedoc/scramble@v0.13.12
+- pkg:composer/dedoc/scramble@v0.13.13
+- pkg:composer/dedoc/scramble@v0.13.14
 - pkg:composer/dedoc/scramble@v0.13.2
 - pkg:composer/dedoc/scramble@v0.13.3
 - pkg:composer/dedoc/scramble@v0.13.4

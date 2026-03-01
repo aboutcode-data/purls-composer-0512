@@ -4,3 +4,5 @@
 - pkg:composer/deepdiver/zipstreamer@v0.5
 - pkg:composer/deepdiver/zipstreamer@v2.0.2
 - pkg:composer/deepdiver/zipstreamer@v2.0.3
+- pkg:composer/deepdiver/zipstreamer@v3.0.0
+- pkg:composer/deepdiver/zipstreamer@v3.0.1

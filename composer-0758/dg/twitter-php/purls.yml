@@ -12,3 +12,4 @@
 - pkg:composer/dg/twitter-php@v4.1
 - pkg:composer/dg/twitter-php@v4.1.1
 - pkg:composer/dg/twitter-php@v4.1.2
+- pkg:composer/dg/twitter-php@v5.0.0

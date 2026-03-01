@@ -43,3 +43,6 @@
 - pkg:composer/craftcms/aws-s3@2.2.2
 - pkg:composer/craftcms/aws-s3@2.2.3
 - pkg:composer/craftcms/aws-s3@2.2.4
+- pkg:composer/craftcms/aws-s3@2.2.5
+- pkg:composer/craftcms/aws-s3@2.2.6
+- pkg:composer/craftcms/aws-s3@2.3.0

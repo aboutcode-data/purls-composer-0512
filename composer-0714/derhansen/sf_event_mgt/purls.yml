@@ -108,3 +108,4 @@
 - pkg:composer/derhansen/sf_event_mgt@8.5.2
 - pkg:composer/derhansen/sf_event_mgt@8.5.3
 - pkg:composer/derhansen/sf_event_mgt@8.5.4
+- pkg:composer/derhansen/sf_event_mgt@8.6.0
