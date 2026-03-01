@@ -9,3 +9,4 @@
 - pkg:composer/markrogoyski/ipv4-subnet-calculator@v4.2.0
 - pkg:composer/markrogoyski/ipv4-subnet-calculator@v4.3.0
 - pkg:composer/markrogoyski/ipv4-subnet-calculator@v4.4.0
+- pkg:composer/markrogoyski/ipv4-subnet-calculator@v5.0.0
