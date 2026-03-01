@@ -7,6 +7,7 @@
 - pkg:composer/royalphp/frankenphp-sylius@0.1.6
 - pkg:composer/royalphp/frankenphp-sylius@0.1.7
 - pkg:composer/royalphp/frankenphp-sylius@0.1.8
+- pkg:composer/royalphp/frankenphp-sylius@0.1.9
 - pkg:composer/royalphp/frankenphp-sylius@0.2.0
 - pkg:composer/royalphp/frankenphp-sylius@0.2.1
 - pkg:composer/royalphp/frankenphp-sylius@0.2.2
