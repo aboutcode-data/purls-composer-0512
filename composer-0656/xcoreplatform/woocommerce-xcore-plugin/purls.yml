@@ -17,6 +17,7 @@
 - pkg:composer/xcoreplatform/woocommerce-xcore-plugin@1.14.7
 - pkg:composer/xcoreplatform/woocommerce-xcore-plugin@1.14.8
 - pkg:composer/xcoreplatform/woocommerce-xcore-plugin@1.14.9
+- pkg:composer/xcoreplatform/woocommerce-xcore-plugin@1.15.0
 - pkg:composer/xcoreplatform/woocommerce-xcore-plugin@1.5.1
 - pkg:composer/xcoreplatform/woocommerce-xcore-plugin@1.6.0
 - pkg:composer/xcoreplatform/woocommerce-xcore-plugin@1.6.1

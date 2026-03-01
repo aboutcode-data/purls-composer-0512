@@ -111,3 +111,4 @@
 - pkg:composer/yii2-module/yii2-currency@8.0.5
 - pkg:composer/yii2-module/yii2-currency@8.0.6
 - pkg:composer/yii2-module/yii2-currency@9.0.0
+- pkg:composer/yii2-module/yii2-currency@9.0.1
