@@ -15,4 +15,5 @@
 - pkg:composer/dmk/t3rest@v11.0.2
 - pkg:composer/dmk/t3rest@v12.0.0
 - pkg:composer/dmk/t3rest@v13.0.0
+- pkg:composer/dmk/t3rest@v13.0.1
 - pkg:composer/dmk/t3rest@v9.0.1

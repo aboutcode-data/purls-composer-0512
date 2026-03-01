@@ -1,1 +1,4 @@
 - pkg:composer/enabel/coding-standard@v1.0.0
+- pkg:composer/enabel/coding-standard@v1.1.0
+- pkg:composer/enabel/coding-standard@v1.1.1
+- pkg:composer/enabel/coding-standard@v1.2.0

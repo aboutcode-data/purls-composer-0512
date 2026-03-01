@@ -8,3 +8,5 @@
 - pkg:composer/divineomega/php-geolocation@v2.0.0
 - pkg:composer/divineomega/php-geolocation@v2.0.1
 - pkg:composer/divineomega/php-geolocation@v3.0.0
+- pkg:composer/divineomega/php-geolocation@v4.0.0
+- pkg:composer/divineomega/php-geolocation@v5.0.0

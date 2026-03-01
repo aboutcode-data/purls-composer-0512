@@ -4,3 +4,6 @@
 - pkg:composer/divineomega/php-dcom@v1.2.0
 - pkg:composer/divineomega/php-dcom@v1.2.1
 - pkg:composer/divineomega/php-dcom@v1.2.2
+- pkg:composer/divineomega/php-dcom@v2.0.0
+- pkg:composer/divineomega/php-dcom@v3.0.0
+- pkg:composer/divineomega/php-dcom@v3.0.1

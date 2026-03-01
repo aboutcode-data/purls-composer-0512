@@ -177,3 +177,4 @@
 - pkg:composer/drenso/symfony-shared@6.4.0
 - pkg:composer/drenso/symfony-shared@6.5.0
 - pkg:composer/drenso/symfony-shared@6.5.1
+- pkg:composer/drenso/symfony-shared@6.6.0

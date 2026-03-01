@@ -22,3 +22,4 @@
 - pkg:composer/draw/graphviz@0.35.0
 - pkg:composer/draw/graphviz@0.36.0
 - pkg:composer/draw/graphviz@0.37.0
+- pkg:composer/draw/graphviz@0.38.0
