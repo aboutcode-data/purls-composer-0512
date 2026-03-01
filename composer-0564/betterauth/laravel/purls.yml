@@ -1,1 +1,2 @@
 - pkg:composer/betterauth/laravel@v0.0.1
+- pkg:composer/betterauth/laravel@v0.0.2
