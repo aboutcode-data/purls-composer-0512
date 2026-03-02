@@ -78,3 +78,4 @@
 - pkg:composer/baks-dev/telegram-bot@v7.3.6
 - pkg:composer/baks-dev/telegram-bot@v7.3.7
 - pkg:composer/baks-dev/telegram-bot@v7.4.0
+- pkg:composer/baks-dev/telegram-bot@v7.4.1

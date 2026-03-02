@@ -12,3 +12,4 @@
 - pkg:composer/baks-dev/search-redis@v7.3.5
 - pkg:composer/baks-dev/search-redis@v7.3.6
 - pkg:composer/baks-dev/search-redis@v7.4.0
+- pkg:composer/baks-dev/search-redis@v7.4.1
