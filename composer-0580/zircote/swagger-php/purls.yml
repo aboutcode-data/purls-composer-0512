@@ -183,6 +183,7 @@
 - pkg:composer/zircote/swagger-php@5.8.0
 - pkg:composer/zircote/swagger-php@5.8.1
 - pkg:composer/zircote/swagger-php@5.8.2
+- pkg:composer/zircote/swagger-php@5.8.3
 - pkg:composer/zircote/swagger-php@6.0.0
 - pkg:composer/zircote/swagger-php@6.0.0-RC1
 - pkg:composer/zircote/swagger-php@6.0.0-RC2
@@ -193,3 +194,4 @@
 - pkg:composer/zircote/swagger-php@6.0.3
 - pkg:composer/zircote/swagger-php@6.0.4
 - pkg:composer/zircote/swagger-php@6.0.5
+- pkg:composer/zircote/swagger-php@6.0.6

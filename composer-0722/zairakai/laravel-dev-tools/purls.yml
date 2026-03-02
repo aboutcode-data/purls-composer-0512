@@ -76,3 +76,5 @@
 - pkg:composer/zairakai/laravel-dev-tools@v3.5.0
 - pkg:composer/zairakai/laravel-dev-tools@v3.6.0
 - pkg:composer/zairakai/laravel-dev-tools@v3.6.1
+- pkg:composer/zairakai/laravel-dev-tools@v3.6.2
+- pkg:composer/zairakai/laravel-dev-tools@v3.7.0
