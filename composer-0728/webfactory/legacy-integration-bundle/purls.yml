@@ -47,3 +47,4 @@
 - pkg:composer/webfactory/legacy-integration-bundle@2.1.1
 - pkg:composer/webfactory/legacy-integration-bundle@2.2.0
 - pkg:composer/webfactory/legacy-integration-bundle@2.3.0
+- pkg:composer/webfactory/legacy-integration-bundle@2.3.1
