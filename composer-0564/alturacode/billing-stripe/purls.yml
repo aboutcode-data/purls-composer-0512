@@ -10,3 +10,6 @@
 - pkg:composer/alturacode/billing-stripe@v0.5.2
 - pkg:composer/alturacode/billing-stripe@v0.5.3
 - pkg:composer/alturacode/billing-stripe@v0.5.4
+- pkg:composer/alturacode/billing-stripe@v0.5.5
+- pkg:composer/alturacode/billing-stripe@v0.6.0
+- pkg:composer/alturacode/billing-stripe@v0.7.0
