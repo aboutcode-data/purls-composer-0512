@@ -256,3 +256,6 @@
 - pkg:composer/wpify/custom-fields@4.5.0
 - pkg:composer/wpify/custom-fields@4.5.1
 - pkg:composer/wpify/custom-fields@4.6.0
+- pkg:composer/wpify/custom-fields@4.6.1
+- pkg:composer/wpify/custom-fields@4.6.2
+- pkg:composer/wpify/custom-fields@4.6.3
