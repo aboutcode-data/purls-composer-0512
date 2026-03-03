@@ -8,6 +8,7 @@
 - pkg:composer/ringierimu/state-workflow@2.3.0
 - pkg:composer/ringierimu/state-workflow@3.0.0
 - pkg:composer/ringierimu/state-workflow@4.0.0
+- pkg:composer/ringierimu/state-workflow@5.0.0
 - pkg:composer/ringierimu/state-workflow@v1.1.0-beta
 - pkg:composer/ringierimu/state-workflow@v1.1.1-beta
 - pkg:composer/ringierimu/state-workflow@v1.1.2-beta
