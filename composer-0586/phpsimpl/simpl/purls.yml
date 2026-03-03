@@ -21,3 +21,4 @@
 - pkg:composer/phpsimpl/simpl@1.0.7
 - pkg:composer/phpsimpl/simpl@1.0.8
 - pkg:composer/phpsimpl/simpl@1.0.9
+- pkg:composer/phpsimpl/simpl@2.0.0
