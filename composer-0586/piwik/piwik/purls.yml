@@ -826,3 +826,4 @@
 - pkg:composer/piwik/piwik@5.8.0-rc1
 - pkg:composer/piwik/piwik@5.9.0-alpha.20260301013552
 - pkg:composer/piwik/piwik@5.9.0-alpha.20260302013702
+- pkg:composer/piwik/piwik@5.9.0-alpha.20260303013811
