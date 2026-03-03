@@ -24,6 +24,8 @@
 - pkg:composer/nikservik/simple-support@2.03.1
 - pkg:composer/nikservik/simple-support@2.03.2
 - pkg:composer/nikservik/simple-support@2.04
+- pkg:composer/nikservik/simple-support@2.05
+- pkg:composer/nikservik/simple-support@2.06
 - pkg:composer/nikservik/simple-support@v1.0.0
 - pkg:composer/nikservik/simple-support@v1.0.1
 - pkg:composer/nikservik/simple-support@v1.0.2
