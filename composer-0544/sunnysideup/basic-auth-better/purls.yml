@@ -13,3 +13,5 @@
 - pkg:composer/sunnysideup/basic-auth-better@5.0.0
 - pkg:composer/sunnysideup/basic-auth-better@5.1.0
 - pkg:composer/sunnysideup/basic-auth-better@5.2.0
+- pkg:composer/sunnysideup/basic-auth-better@5.3.0
+- pkg:composer/sunnysideup/basic-auth-better@5.3.1

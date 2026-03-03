@@ -1,3 +1,4 @@
+- pkg:composer/sunnysideup/ecommerce_tax@10.0.0
 - pkg:composer/sunnysideup/ecommerce_tax@3.0-rc2
 - pkg:composer/sunnysideup/ecommerce_tax@4.0.0
 - pkg:composer/sunnysideup/ecommerce_tax@5.0.0
