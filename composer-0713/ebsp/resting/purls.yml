@@ -40,6 +40,8 @@
 - pkg:composer/ebsp/resting@v5.14.0
 - pkg:composer/ebsp/resting@v5.15.0
 - pkg:composer/ebsp/resting@v5.16.0
+- pkg:composer/ebsp/resting@v5.17
+- pkg:composer/ebsp/resting@v5.18.0
 - pkg:composer/ebsp/resting@v5.2.0
 - pkg:composer/ebsp/resting@v5.2.1
 - pkg:composer/ebsp/resting@v5.2.2
