@@ -1,3 +1,6 @@
 - pkg:composer/smartgeomatics/laravel-deferred-batch@1.01
 - pkg:composer/smartgeomatics/laravel-deferred-batch@1.02
 - pkg:composer/smartgeomatics/laravel-deferred-batch@v1.0.0
+- pkg:composer/smartgeomatics/laravel-deferred-batch@v1.0.3
+- pkg:composer/smartgeomatics/laravel-deferred-batch@v1.03
+- pkg:composer/smartgeomatics/laravel-deferred-batch@v1.04
