@@ -7,3 +7,5 @@
 - pkg:composer/flyo/nitro-php-bridge@1.3.2
 - pkg:composer/flyo/nitro-php-bridge@1.4.0
 - pkg:composer/flyo/nitro-php-bridge@1.5.0
+- pkg:composer/flyo/nitro-php-bridge@1.6
+- pkg:composer/flyo/nitro-php-bridge@1.6.1
