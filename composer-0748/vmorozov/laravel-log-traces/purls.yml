@@ -1,1 +1,2 @@
 - pkg:composer/vmorozov/laravel-log-traces@v1.0.0
+- pkg:composer/vmorozov/laravel-log-traces@v1.0.1

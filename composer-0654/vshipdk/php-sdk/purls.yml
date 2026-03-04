@@ -8,3 +8,4 @@
 - pkg:composer/vshipdk/php-sdk@2.0.0
 - pkg:composer/vshipdk/php-sdk@2.1.0
 - pkg:composer/vshipdk/php-sdk@2.1.1
+- pkg:composer/vshipdk/php-sdk@2.2.0
