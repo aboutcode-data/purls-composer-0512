@@ -93,6 +93,8 @@
 - pkg:composer/audentio/laravel-graphql@1.4.5
 - pkg:composer/audentio/laravel-graphql@1.4.6
 - pkg:composer/audentio/laravel-graphql@1.4.7
+- pkg:composer/audentio/laravel-graphql@1.4.8
+- pkg:composer/audentio/laravel-graphql@1.4.9
 - pkg:composer/audentio/laravel-graphql@1.5.0
 - pkg:composer/audentio/laravel-graphql@1.5.1
 - pkg:composer/audentio/laravel-graphql@1.5.2

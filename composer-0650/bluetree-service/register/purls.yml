@@ -1,5 +1,6 @@
 - pkg:composer/bluetree-service/register@0.3.1.1
 - pkg:composer/bluetree-service/register@0.4.0.0
+- pkg:composer/bluetree-service/register@0.5.0.0
 - pkg:composer/bluetree-service/register@v0.1.0.0
 - pkg:composer/bluetree-service/register@v0.1.0.1
 - pkg:composer/bluetree-service/register@v0.1.0.2
