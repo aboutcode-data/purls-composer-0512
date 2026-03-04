@@ -8,3 +8,5 @@
 - pkg:composer/cboxdk/system-metrics@v1.6.0
 - pkg:composer/cboxdk/system-metrics@v2.0.0
 - pkg:composer/cboxdk/system-metrics@v2.0.1
+- pkg:composer/cboxdk/system-metrics@v2.1.0
+- pkg:composer/cboxdk/system-metrics@v2.2.0

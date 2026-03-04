@@ -19,3 +19,5 @@
 - pkg:composer/cline/php-cs-fixer@1.5.7
 - pkg:composer/cline/php-cs-fixer@1.5.8
 - pkg:composer/cline/php-cs-fixer@1.7.0
+- pkg:composer/cline/php-cs-fixer@2.0.0
+- pkg:composer/cline/php-cs-fixer@2.0.1

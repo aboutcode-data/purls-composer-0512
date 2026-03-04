@@ -35,3 +35,6 @@
 - pkg:composer/cline/toggl@2.3.6
 - pkg:composer/cline/toggl@2.3.7
 - pkg:composer/cline/toggl@2.3.8
+- pkg:composer/cline/toggl@3.0.0
+- pkg:composer/cline/toggl@3.0.1
+- pkg:composer/cline/toggl@3.0.2
