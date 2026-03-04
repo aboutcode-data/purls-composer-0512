@@ -49,5 +49,6 @@
 - pkg:composer/aoe/varnish@12.0.1
 - pkg:composer/aoe/varnish@12.0.2
 - pkg:composer/aoe/varnish@12.0.3
+- pkg:composer/aoe/varnish@12.1.0
 - pkg:composer/aoe/varnish@7.2.0.0
 - pkg:composer/aoe/varnish@7.2.0.1
