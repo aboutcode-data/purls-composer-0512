@@ -49,3 +49,4 @@
 - pkg:composer/shopper/core@v2.4.3
 - pkg:composer/shopper/core@v2.5.0
 - pkg:composer/shopper/core@v2.5.1
+- pkg:composer/shopper/core@v2.6.0
