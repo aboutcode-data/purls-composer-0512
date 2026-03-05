@@ -15,3 +15,6 @@
 - pkg:composer/gioppy/statamic-metatags@4.0.1
 - pkg:composer/gioppy/statamic-metatags@4.0.2
 - pkg:composer/gioppy/statamic-metatags@4.0.3
+- pkg:composer/gioppy/statamic-metatags@4.0.4
+- pkg:composer/gioppy/statamic-metatags@5.0.0
+- pkg:composer/gioppy/statamic-metatags@5.0.1

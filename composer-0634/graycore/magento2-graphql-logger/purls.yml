@@ -1,3 +1,4 @@
 - pkg:composer/graycore/magento2-graphql-logger@v0.1.1
 - pkg:composer/graycore/magento2-graphql-logger@v0.2.0
 - pkg:composer/graycore/magento2-graphql-logger@v0.2.1
+- pkg:composer/graycore/magento2-graphql-logger@v0.2.2

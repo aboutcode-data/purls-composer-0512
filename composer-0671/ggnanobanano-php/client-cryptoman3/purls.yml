@@ -2,3 +2,5 @@
 - pkg:composer/ggnanobanano-php/client-cryptoman3@v2
 - pkg:composer/ggnanobanano-php/client-cryptoman3@v3
 - pkg:composer/ggnanobanano-php/client-cryptoman3@v4
+- pkg:composer/ggnanobanano-php/client-cryptoman3@v5
+- pkg:composer/ggnanobanano-php/client-cryptoman3@v6

@@ -21,3 +21,4 @@
 - pkg:composer/flyo/nitro-laravel@1.5.5
 - pkg:composer/flyo/nitro-laravel@2.0
 - pkg:composer/flyo/nitro-laravel@2.0.1
+- pkg:composer/flyo/nitro-laravel@2.1

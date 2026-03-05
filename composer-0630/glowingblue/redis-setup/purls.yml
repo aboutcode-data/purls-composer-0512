@@ -8,3 +8,4 @@
 - pkg:composer/glowingblue/redis-setup@1.2.2
 - pkg:composer/glowingblue/redis-setup@1.3.0
 - pkg:composer/glowingblue/redis-setup@1.3.1
+- pkg:composer/glowingblue/redis-setup@1.3.2

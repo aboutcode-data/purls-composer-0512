@@ -1,1 +1,2 @@
 - pkg:composer/globalpayments/omnipay-globalpayments@1.0.0
+- pkg:composer/globalpayments/omnipay-globalpayments@v2.0.0-beta

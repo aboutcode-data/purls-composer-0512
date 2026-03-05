@@ -52,3 +52,5 @@
 - pkg:composer/fusio/sdk@v6.4.0
 - pkg:composer/fusio/sdk@v6.4.1
 - pkg:composer/fusio/sdk@v7.0.0
+- pkg:composer/fusio/sdk@v7.0.1
+- pkg:composer/fusio/sdk@v7.0.2
