@@ -16,6 +16,8 @@
 - pkg:composer/caremillc/framework@v1.7.0
 - pkg:composer/caremillc/framework@v1.8.0
 - pkg:composer/caremillc/framework@v1.9.0
+- pkg:composer/caremillc/framework@v10.0.0
+- pkg:composer/caremillc/framework@v10.0.1
 - pkg:composer/caremillc/framework@v2.0.0
 - pkg:composer/caremillc/framework@v2.1.0
 - pkg:composer/caremillc/framework@v2.10.0
@@ -61,3 +63,8 @@
 - pkg:composer/caremillc/framework@v4.0.0
 - pkg:composer/caremillc/framework@v5.0.0
 - pkg:composer/caremillc/framework@v6.0.0
+- pkg:composer/caremillc/framework@v6.1.0
+- pkg:composer/caremillc/framework@v7.0.0
+- pkg:composer/caremillc/framework@v8.0.0
+- pkg:composer/caremillc/framework@v9.0.0
+- pkg:composer/caremillc/framework@v9.10.0
