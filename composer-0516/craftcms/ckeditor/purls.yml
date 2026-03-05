@@ -65,6 +65,7 @@
 - pkg:composer/craftcms/ckeditor@4.11.0
 - pkg:composer/craftcms/ckeditor@4.11.1
 - pkg:composer/craftcms/ckeditor@4.11.2
+- pkg:composer/craftcms/ckeditor@4.11.3
 - pkg:composer/craftcms/ckeditor@4.2.0
 - pkg:composer/craftcms/ckeditor@4.3.0
 - pkg:composer/craftcms/ckeditor@4.3.1
@@ -76,3 +77,4 @@
 - pkg:composer/craftcms/ckeditor@4.9.0
 - pkg:composer/craftcms/ckeditor@5.0.0
 - pkg:composer/craftcms/ckeditor@5.0.1
+- pkg:composer/craftcms/ckeditor@5.1.0
