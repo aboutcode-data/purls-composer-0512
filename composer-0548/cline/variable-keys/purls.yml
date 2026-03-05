@@ -8,3 +8,4 @@
 - pkg:composer/cline/variable-keys@1.4.3
 - pkg:composer/cline/variable-keys@2.0.0
 - pkg:composer/cline/variable-keys@2.0.1
+- pkg:composer/cline/variable-keys@2.0.2

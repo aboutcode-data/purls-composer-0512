@@ -8,3 +8,4 @@
 - pkg:composer/cline/postal-code@1.5.4
 - pkg:composer/cline/postal-code@2.0.0
 - pkg:composer/cline/postal-code@2.0.1
+- pkg:composer/cline/postal-code@2.0.2
