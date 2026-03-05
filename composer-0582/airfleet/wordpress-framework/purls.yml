@@ -24,6 +24,7 @@
 - pkg:composer/airfleet/wordpress-framework@1.18.3
 - pkg:composer/airfleet/wordpress-framework@1.19.0
 - pkg:composer/airfleet/wordpress-framework@1.19.1
+- pkg:composer/airfleet/wordpress-framework@1.19.2
 - pkg:composer/airfleet/wordpress-framework@1.2.0
 - pkg:composer/airfleet/wordpress-framework@1.2.1
 - pkg:composer/airfleet/wordpress-framework@1.2.2
