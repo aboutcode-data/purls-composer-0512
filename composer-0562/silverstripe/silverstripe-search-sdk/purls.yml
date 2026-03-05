@@ -15,3 +15,4 @@
 - pkg:composer/silverstripe/silverstripe-search-sdk@2.5.1
 - pkg:composer/silverstripe/silverstripe-search-sdk@3.0.0
 - pkg:composer/silverstripe/silverstripe-search-sdk@3.1.0
+- pkg:composer/silverstripe/silverstripe-search-sdk@3.1.1
