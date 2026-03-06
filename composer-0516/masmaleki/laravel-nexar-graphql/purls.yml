@@ -11,3 +11,5 @@
 - pkg:composer/masmaleki/laravel-nexar-graphql@v1.0.2
 - pkg:composer/masmaleki/laravel-nexar-graphql@v1.0.3
 - pkg:composer/masmaleki/laravel-nexar-graphql@v1.1.0
+- pkg:composer/masmaleki/laravel-nexar-graphql@v1.1.1
+- pkg:composer/masmaleki/laravel-nexar-graphql@v1.1.2

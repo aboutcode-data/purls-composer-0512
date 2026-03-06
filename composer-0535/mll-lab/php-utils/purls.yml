@@ -56,3 +56,6 @@
 - pkg:composer/mll-lab/php-utils@v5.8.0
 - pkg:composer/mll-lab/php-utils@v5.9.0
 - pkg:composer/mll-lab/php-utils@v6.0.0
+- pkg:composer/mll-lab/php-utils@v6.1.0
+- pkg:composer/mll-lab/php-utils@v6.2.0
+- pkg:composer/mll-lab/php-utils@v6.3.0
