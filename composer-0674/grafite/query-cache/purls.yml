@@ -4,3 +4,4 @@
 - pkg:composer/grafite/query-cache@v1.0.3
 - pkg:composer/grafite/query-cache@v1.1.0
 - pkg:composer/grafite/query-cache@v1.2.0
+- pkg:composer/grafite/query-cache@v1.3.0
