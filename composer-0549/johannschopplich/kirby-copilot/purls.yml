@@ -50,3 +50,5 @@
 - pkg:composer/johannschopplich/kirby-copilot@3.1.2
 - pkg:composer/johannschopplich/kirby-copilot@3.2.0
 - pkg:composer/johannschopplich/kirby-copilot@3.3.0
+- pkg:composer/johannschopplich/kirby-copilot@3.3.1
+- pkg:composer/johannschopplich/kirby-copilot@3.4.0

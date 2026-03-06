@@ -40,6 +40,7 @@
 - pkg:composer/internetx/php-domainrobot-sdk@0.9.24
 - pkg:composer/internetx/php-domainrobot-sdk@0.9.25
 - pkg:composer/internetx/php-domainrobot-sdk@0.9.26
+- pkg:composer/internetx/php-domainrobot-sdk@0.9.27
 - pkg:composer/internetx/php-domainrobot-sdk@0.9.3
 - pkg:composer/internetx/php-domainrobot-sdk@0.9.5
 - pkg:composer/internetx/php-domainrobot-sdk@0.9.6
