@@ -8,3 +8,4 @@
 - pkg:composer/hydrat/filament-table-layout-toggle@v2.0.1
 - pkg:composer/hydrat/filament-table-layout-toggle@v2.1.0
 - pkg:composer/hydrat/filament-table-layout-toggle@v3.0.0
+- pkg:composer/hydrat/filament-table-layout-toggle@v4.0.0

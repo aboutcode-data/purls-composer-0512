@@ -5,6 +5,7 @@
 - pkg:composer/guikingone/scheduler-bundle@0.10.3
 - pkg:composer/guikingone/scheduler-bundle@0.10.4
 - pkg:composer/guikingone/scheduler-bundle@0.10.5
+- pkg:composer/guikingone/scheduler-bundle@0.11.0
 - pkg:composer/guikingone/scheduler-bundle@0.2.0
 - pkg:composer/guikingone/scheduler-bundle@0.3.0
 - pkg:composer/guikingone/scheduler-bundle@0.3.1

@@ -16,3 +16,4 @@
 - pkg:composer/hyperf/odin@v0.1.5
 - pkg:composer/hyperf/odin@v0.1.6
 - pkg:composer/hyperf/odin@v0.2.0
+- pkg:composer/hyperf/odin@v0.2.1

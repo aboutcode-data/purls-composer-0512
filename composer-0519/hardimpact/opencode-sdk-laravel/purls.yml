@@ -1,2 +1,4 @@
 - pkg:composer/hardimpact/opencode-sdk-laravel@0.0.1
 - pkg:composer/hardimpact/opencode-sdk-laravel@0.0.2
+- pkg:composer/hardimpact/opencode-sdk-laravel@0.0.3
+- pkg:composer/hardimpact/opencode-sdk-laravel@0.0.4

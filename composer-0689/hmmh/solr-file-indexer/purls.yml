@@ -44,3 +44,4 @@
 - pkg:composer/hmmh/solr-file-indexer@4.0.3
 - pkg:composer/hmmh/solr-file-indexer@4.0.4
 - pkg:composer/hmmh/solr-file-indexer@4.0.5
+- pkg:composer/hmmh/solr-file-indexer@4.0.6
