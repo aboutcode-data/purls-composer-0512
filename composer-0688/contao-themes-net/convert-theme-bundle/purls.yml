@@ -24,3 +24,4 @@
 - pkg:composer/contao-themes-net/convert-theme-bundle@2.0.5
 - pkg:composer/contao-themes-net/convert-theme-bundle@2.0.6
 - pkg:composer/contao-themes-net/convert-theme-bundle@2.0.7
+- pkg:composer/contao-themes-net/convert-theme-bundle@2.0.8
