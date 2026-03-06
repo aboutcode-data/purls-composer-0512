@@ -71,6 +71,9 @@
 - pkg:composer/lfphp/plite@2.0.19
 - pkg:composer/lfphp/plite@2.0.2
 - pkg:composer/lfphp/plite@2.0.20
+- pkg:composer/lfphp/plite@2.0.22
+- pkg:composer/lfphp/plite@2.0.23
+- pkg:composer/lfphp/plite@2.0.24
 - pkg:composer/lfphp/plite@2.0.3
 - pkg:composer/lfphp/plite@2.0.4
 - pkg:composer/lfphp/plite@2.0.5

@@ -36,6 +36,7 @@
 - pkg:composer/lcsng/tools@v0.0.41
 - pkg:composer/lcsng/tools@v0.0.42
 - pkg:composer/lcsng/tools@v0.0.43
+- pkg:composer/lcsng/tools@v0.0.44
 - pkg:composer/lcsng/tools@v0.0.5
 - pkg:composer/lcsng/tools@v0.0.6
 - pkg:composer/lcsng/tools@v0.0.7
