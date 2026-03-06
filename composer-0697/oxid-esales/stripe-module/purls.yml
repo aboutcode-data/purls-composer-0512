@@ -17,6 +17,7 @@
 - pkg:composer/oxid-esales/stripe-module@v1.0.7-rc.1
 - pkg:composer/oxid-esales/stripe-module@v1.0.7-rc.3
 - pkg:composer/oxid-esales/stripe-module@v1.0.7-rc2
+- pkg:composer/oxid-esales/stripe-module@v1.0.8-rc.1
 - pkg:composer/oxid-esales/stripe-module@v2.0.0
 - pkg:composer/oxid-esales/stripe-module@v2.0.1
 - pkg:composer/oxid-esales/stripe-module@v2.0.1-rc1
@@ -25,3 +26,4 @@
 - pkg:composer/oxid-esales/stripe-module@v2.0.2-rc2
 - pkg:composer/oxid-esales/stripe-module@v2.0.3
 - pkg:composer/oxid-esales/stripe-module@v2.0.3-rc.1
+- pkg:composer/oxid-esales/stripe-module@v2.0.4-rc.1

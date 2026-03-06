@@ -6,3 +6,5 @@
 - pkg:composer/offbeatwp/acf@2.0.0-beta
 - pkg:composer/offbeatwp/acf@2.1
 - pkg:composer/offbeatwp/acf@2.2
+- pkg:composer/offbeatwp/acf@2.3
+- pkg:composer/offbeatwp/acf@2.4
