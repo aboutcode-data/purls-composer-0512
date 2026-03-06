@@ -332,6 +332,7 @@
 - pkg:composer/api-platform/core@v4.2.18
 - pkg:composer/api-platform/core@v4.2.19
 - pkg:composer/api-platform/core@v4.2.2
+- pkg:composer/api-platform/core@v4.2.20
 - pkg:composer/api-platform/core@v4.2.3
 - pkg:composer/api-platform/core@v4.2.4
 - pkg:composer/api-platform/core@v4.2.5
@@ -342,3 +343,4 @@
 - pkg:composer/api-platform/core@v4.3.0-alpha.1
 - pkg:composer/api-platform/core@v4.3.0-alpha.2
 - pkg:composer/api-platform/core@v4.3.0-beta.1
+- pkg:composer/api-platform/core@v4.3.0-beta.2
