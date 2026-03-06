@@ -10,3 +10,4 @@
 - pkg:composer/kitlabs/kit-form-bundle@v0.2.1
 - pkg:composer/kitlabs/kit-form-bundle@v0.2.2
 - pkg:composer/kitlabs/kit-form-bundle@v1.0.0
+- pkg:composer/kitlabs/kit-form-bundle@v2.0.0

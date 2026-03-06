@@ -19,3 +19,4 @@
 - pkg:composer/keboola/permission-checker@2.8.0
 - pkg:composer/keboola/permission-checker@2.9.0
 - pkg:composer/keboola/permission-checker@2.9.1
+- pkg:composer/keboola/permission-checker@3.0.0

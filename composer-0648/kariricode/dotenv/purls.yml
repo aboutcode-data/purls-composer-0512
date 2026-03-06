@@ -2,3 +2,4 @@
 - pkg:composer/kariricode/dotenv@v1.1.0
 - pkg:composer/kariricode/dotenv@v1.1.1
 - pkg:composer/kariricode/dotenv@v1.1.2
+- pkg:composer/kariricode/dotenv@v2.0.0

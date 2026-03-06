@@ -13,3 +13,4 @@
 - pkg:composer/kda/filament-sluggable@3.0.0
 - pkg:composer/kda/filament-sluggable@3.0.1
 - pkg:composer/kda/filament-sluggable@3.0.2
+- pkg:composer/kda/filament-sluggable@5.0.0
