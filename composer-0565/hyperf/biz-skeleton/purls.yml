@@ -71,3 +71,4 @@
 - pkg:composer/hyperf/biz-skeleton@v3.1.7
 - pkg:composer/hyperf/biz-skeleton@v3.1.8
 - pkg:composer/hyperf/biz-skeleton@v3.2.0-alpha
+- pkg:composer/hyperf/biz-skeleton@v3.2.0-beta.1
