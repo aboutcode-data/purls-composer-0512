@@ -5,6 +5,7 @@
 - pkg:composer/nashgao/mqtt@v0.1
 - pkg:composer/nashgao/mqtt@v0.1.1
 - pkg:composer/nashgao/mqtt@v0.2.0-alpha
+- pkg:composer/nashgao/mqtt@v0.2.1
 - pkg:composer/nashgao/mqtt@v0.2.1-alpha.1
 - pkg:composer/nashgao/mqtt@v0.2.1-alpha.10
 - pkg:composer/nashgao/mqtt@v0.2.1-alpha.11
