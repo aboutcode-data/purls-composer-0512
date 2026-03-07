@@ -75,3 +75,4 @@
 - pkg:composer/simplesamlphp/assert@v1.9.1
 - pkg:composer/simplesamlphp/assert@v2.0.0
 - pkg:composer/simplesamlphp/assert@v2.0.1
+- pkg:composer/simplesamlphp/assert@v2.0.2

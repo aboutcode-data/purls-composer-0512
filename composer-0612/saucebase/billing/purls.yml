@@ -10,3 +10,4 @@
 - pkg:composer/saucebase/billing@v0.0.7
 - pkg:composer/saucebase/billing@v0.0.8
 - pkg:composer/saucebase/billing@v0.0.9
+- pkg:composer/saucebase/billing@v1.0.0
