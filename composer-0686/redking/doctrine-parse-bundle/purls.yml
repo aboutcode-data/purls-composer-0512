@@ -1,3 +1,4 @@
+- pkg:composer/redking/doctrine-parse-bundle@2.25.0
 - pkg:composer/redking/doctrine-parse-bundle@2.4.0
 - pkg:composer/redking/doctrine-parse-bundle@2.9.0
 - pkg:composer/redking/doctrine-parse-bundle@v1.0.0

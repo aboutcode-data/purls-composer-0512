@@ -21,3 +21,5 @@
 - pkg:composer/rabbitevents/foundation@v8.2.2
 - pkg:composer/rabbitevents/foundation@v8.2.3
 - pkg:composer/rabbitevents/foundation@v9.0.0
+- pkg:composer/rabbitevents/foundation@v9.0.0-alpha1
+- pkg:composer/rabbitevents/foundation@v9.0.0-alpha2
