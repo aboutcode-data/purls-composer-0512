@@ -1,1 +1,3 @@
 - pkg:composer/ascetic-soft/rowcast-schema@v0.1.0
+- pkg:composer/ascetic-soft/rowcast-schema@v0.2.0
+- pkg:composer/ascetic-soft/rowcast-schema@v1.0.0
