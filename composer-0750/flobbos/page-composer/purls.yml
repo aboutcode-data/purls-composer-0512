@@ -1,4 +1,5 @@
 - pkg:composer/flobbos/page-composer@0.0.18
+- pkg:composer/flobbos/page-composer@0.0.19
 - pkg:composer/flobbos/page-composer@v0.0.1
 - pkg:composer/flobbos/page-composer@v0.0.1-alpha
 - pkg:composer/flobbos/page-composer@v0.0.1-beta
