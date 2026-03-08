@@ -295,6 +295,7 @@
 - pkg:composer/ecotone/pdo-event-sourcing@1.303.0
 - pkg:composer/ecotone/pdo-event-sourcing@1.304.0
 - pkg:composer/ecotone/pdo-event-sourcing@1.305.0
+- pkg:composer/ecotone/pdo-event-sourcing@1.306.0
 - pkg:composer/ecotone/pdo-event-sourcing@1.31.0
 - pkg:composer/ecotone/pdo-event-sourcing@1.31.1
 - pkg:composer/ecotone/pdo-event-sourcing@1.32.0

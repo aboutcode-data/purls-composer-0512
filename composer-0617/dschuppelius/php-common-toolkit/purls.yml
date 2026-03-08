@@ -103,3 +103,5 @@
 - pkg:composer/dschuppelius/php-common-toolkit@v1.3.9
 - pkg:composer/dschuppelius/php-common-toolkit@v1.4
 - pkg:composer/dschuppelius/php-common-toolkit@v1.5
+- pkg:composer/dschuppelius/php-common-toolkit@v1.5.1
+- pkg:composer/dschuppelius/php-common-toolkit@v1.5.2
