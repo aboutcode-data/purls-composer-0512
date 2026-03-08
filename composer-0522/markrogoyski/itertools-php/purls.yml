@@ -11,3 +11,4 @@
 - pkg:composer/markrogoyski/itertools-php@v1.7.0
 - pkg:composer/markrogoyski/itertools-php@v1.8.0
 - pkg:composer/markrogoyski/itertools-php@v1.9.0
+- pkg:composer/markrogoyski/itertools-php@v2.0.0
