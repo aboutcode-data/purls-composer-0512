@@ -24,6 +24,7 @@
 - pkg:composer/horde/turba@5.0.0alpha2
 - pkg:composer/horde/turba@v5.0.0alpha10
 - pkg:composer/horde/turba@v5.0.0alpha11
+- pkg:composer/horde/turba@v5.0.0alpha12
 - pkg:composer/horde/turba@v5.0.0alpha3
 - pkg:composer/horde/turba@v5.0.0alpha4
 - pkg:composer/horde/turba@v5.0.0alpha5

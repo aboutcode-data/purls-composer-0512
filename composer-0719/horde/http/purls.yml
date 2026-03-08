@@ -14,3 +14,4 @@
 - pkg:composer/horde/http@v3.0.0alpha7
 - pkg:composer/horde/http@v3.0.0alpha8
 - pkg:composer/horde/http@v3.0.0beta1
+- pkg:composer/horde/http@v3.0.0beta2

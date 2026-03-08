@@ -69,3 +69,4 @@
 - pkg:composer/horde/imap_client@v3.0.0alpha3
 - pkg:composer/horde/imap_client@v3.0.0alpha4
 - pkg:composer/horde/imap_client@v3.0.0alpha5
+- pkg:composer/horde/imap_client@v3.0.0alpha7
