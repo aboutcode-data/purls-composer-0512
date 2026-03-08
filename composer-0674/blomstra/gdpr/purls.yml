@@ -22,6 +22,7 @@
 - pkg:composer/blomstra/gdpr@1.0.0-beta.2
 - pkg:composer/blomstra/gdpr@1.0.0-beta.3
 - pkg:composer/blomstra/gdpr@v1.8.1
+- pkg:composer/blomstra/gdpr@v1.8.2
 - pkg:composer/blomstra/gdpr@v2.0.0-beta.1
 - pkg:composer/blomstra/gdpr@v2.0.0-beta.2
 - pkg:composer/blomstra/gdpr@v2.0.0-beta.3
