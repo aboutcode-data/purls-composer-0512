@@ -31,3 +31,4 @@
 - pkg:composer/diskerror/typed@0.8.6.1
 - pkg:composer/diskerror/typed@0.8.6.2
 - pkg:composer/diskerror/typed@0.9.0
+- pkg:composer/diskerror/typed@0.9.8
