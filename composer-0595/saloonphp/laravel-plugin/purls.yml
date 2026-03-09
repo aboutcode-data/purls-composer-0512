@@ -56,3 +56,4 @@
 - pkg:composer/saloonphp/laravel-plugin@v3.7.0
 - pkg:composer/saloonphp/laravel-plugin@v3.8.0
 - pkg:composer/saloonphp/laravel-plugin@v3.9.0
+- pkg:composer/saloonphp/laravel-plugin@v3.9.1
