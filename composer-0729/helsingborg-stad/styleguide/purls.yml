@@ -92,6 +92,12 @@
 - pkg:composer/helsingborg-stad/styleguide@2.176.2
 - pkg:composer/helsingborg-stad/styleguide@2.176.5
 - pkg:composer/helsingborg-stad/styleguide@2.177.2
+- pkg:composer/helsingborg-stad/styleguide@2.178.0
+- pkg:composer/helsingborg-stad/styleguide@2.179.0
+- pkg:composer/helsingborg-stad/styleguide@2.179.2
+- pkg:composer/helsingborg-stad/styleguide@2.179.5
+- pkg:composer/helsingborg-stad/styleguide@2.179.7
+- pkg:composer/helsingborg-stad/styleguide@2.179.9
 - pkg:composer/helsingborg-stad/styleguide@v0.11.0
 - pkg:composer/helsingborg-stad/styleguide@v0.11.1
 - pkg:composer/helsingborg-stad/styleguide@v0.11.10
@@ -534,6 +540,7 @@
 - pkg:composer/helsingborg-stad/styleguide@v0.11.1393
 - pkg:composer/helsingborg-stad/styleguide@v0.11.1394
 - pkg:composer/helsingborg-stad/styleguide@v0.11.1395
+- pkg:composer/helsingborg-stad/styleguide@v0.11.1396
 - pkg:composer/helsingborg-stad/styleguide@v0.11.14
 - pkg:composer/helsingborg-stad/styleguide@v0.11.140
 - pkg:composer/helsingborg-stad/styleguide@v0.11.141

@@ -11,3 +11,4 @@
 - pkg:composer/heymoon/doctrine-psql-enum@3.1.2
 - pkg:composer/heymoon/doctrine-psql-enum@3.2.0
 - pkg:composer/heymoon/doctrine-psql-enum@3.2.1
+- pkg:composer/heymoon/doctrine-psql-enum@3.3.0
