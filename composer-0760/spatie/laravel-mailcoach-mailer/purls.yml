@@ -11,3 +11,4 @@
 - pkg:composer/spatie/laravel-mailcoach-mailer@1.5.1
 - pkg:composer/spatie/laravel-mailcoach-mailer@1.5.2
 - pkg:composer/spatie/laravel-mailcoach-mailer@1.5.3
+- pkg:composer/spatie/laravel-mailcoach-mailer@1.6.0

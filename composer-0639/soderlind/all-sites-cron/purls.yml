@@ -20,3 +20,4 @@
 - pkg:composer/soderlind/all-sites-cron@1.5.1
 - pkg:composer/soderlind/all-sites-cron@1.5.2
 - pkg:composer/soderlind/all-sites-cron@2.0.0
+- pkg:composer/soderlind/all-sites-cron@2.1.0
