@@ -7,3 +7,4 @@
 - pkg:composer/pixelopen/cloudflare-turnstile-bundle@0.3.0
 - pkg:composer/pixelopen/cloudflare-turnstile-bundle@0.4.0
 - pkg:composer/pixelopen/cloudflare-turnstile-bundle@0.4.1
+- pkg:composer/pixelopen/cloudflare-turnstile-bundle@0.5.0

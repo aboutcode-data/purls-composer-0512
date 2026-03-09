@@ -1,2 +1,3 @@
 - pkg:composer/proai/laravel-data-integrity@1.0.0
 - pkg:composer/proai/laravel-data-integrity@1.0.1
+- pkg:composer/proai/laravel-data-integrity@1.0.2
