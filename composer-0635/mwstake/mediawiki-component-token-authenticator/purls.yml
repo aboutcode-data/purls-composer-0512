@@ -8,3 +8,4 @@
 - pkg:composer/mwstake/mediawiki-component-token-authenticator@1.0.7
 - pkg:composer/mwstake/mediawiki-component-token-authenticator@1.1.0
 - pkg:composer/mwstake/mediawiki-component-token-authenticator@1.2.0
+- pkg:composer/mwstake/mediawiki-component-token-authenticator@1.2.1
