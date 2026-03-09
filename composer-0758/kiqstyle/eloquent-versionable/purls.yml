@@ -13,3 +13,4 @@
 - pkg:composer/kiqstyle/eloquent-versionable@v1.3.3
 - pkg:composer/kiqstyle/eloquent-versionable@v1.4.0
 - pkg:composer/kiqstyle/eloquent-versionable@v1.5.0
+- pkg:composer/kiqstyle/eloquent-versionable@v1.6.0
