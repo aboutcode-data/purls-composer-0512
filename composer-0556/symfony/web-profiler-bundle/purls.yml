@@ -617,6 +617,7 @@
 - pkg:composer/symfony/web-profiler-bundle@v6.4.3
 - pkg:composer/symfony/web-profiler-bundle@v6.4.32
 - pkg:composer/symfony/web-profiler-bundle@v6.4.34
+- pkg:composer/symfony/web-profiler-bundle@v6.4.35
 - pkg:composer/symfony/web-profiler-bundle@v6.4.4
 - pkg:composer/symfony/web-profiler-bundle@v6.4.7
 - pkg:composer/symfony/web-profiler-bundle@v6.4.8
@@ -669,6 +670,7 @@
 - pkg:composer/symfony/web-profiler-bundle@v7.4.3
 - pkg:composer/symfony/web-profiler-bundle@v7.4.4
 - pkg:composer/symfony/web-profiler-bundle@v7.4.6
+- pkg:composer/symfony/web-profiler-bundle@v7.4.7
 - pkg:composer/symfony/web-profiler-bundle@v8.0.0
 - pkg:composer/symfony/web-profiler-bundle@v8.0.0-BETA1
 - pkg:composer/symfony/web-profiler-bundle@v8.0.0-RC1
@@ -676,3 +678,4 @@
 - pkg:composer/symfony/web-profiler-bundle@v8.0.3
 - pkg:composer/symfony/web-profiler-bundle@v8.0.4
 - pkg:composer/symfony/web-profiler-bundle@v8.0.6
+- pkg:composer/symfony/web-profiler-bundle@v8.0.7

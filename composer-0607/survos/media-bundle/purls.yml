@@ -12,6 +12,12 @@
 - pkg:composer/survos/media-bundle@2.0.115
 - pkg:composer/survos/media-bundle@2.0.116
 - pkg:composer/survos/media-bundle@2.0.117
+- pkg:composer/survos/media-bundle@2.0.119
+- pkg:composer/survos/media-bundle@2.0.120
+- pkg:composer/survos/media-bundle@2.0.121
+- pkg:composer/survos/media-bundle@2.0.122
+- pkg:composer/survos/media-bundle@2.0.123
+- pkg:composer/survos/media-bundle@2.0.124
 - pkg:composer/survos/media-bundle@2.0.26
 - pkg:composer/survos/media-bundle@2.0.27
 - pkg:composer/survos/media-bundle@2.0.28

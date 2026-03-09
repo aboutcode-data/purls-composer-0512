@@ -57,6 +57,7 @@
 - pkg:composer/syamsoul/laravel-datatable-ssp@3.1.0
 - pkg:composer/syamsoul/laravel-datatable-ssp@3.1.1
 - pkg:composer/syamsoul/laravel-datatable-ssp@3.10.0
+- pkg:composer/syamsoul/laravel-datatable-ssp@3.11.0
 - pkg:composer/syamsoul/laravel-datatable-ssp@3.2.0
 - pkg:composer/syamsoul/laravel-datatable-ssp@3.2.1
 - pkg:composer/syamsoul/laravel-datatable-ssp@3.2.2
