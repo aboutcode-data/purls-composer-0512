@@ -4,3 +4,4 @@
 - pkg:composer/drupal/drupal_cms_media@2.0.0-rc1
 - pkg:composer/drupal/drupal_cms_media@2.0.1
 - pkg:composer/drupal/drupal_cms_media@2.0.2
+- pkg:composer/drupal/drupal_cms_media@2.0.3
