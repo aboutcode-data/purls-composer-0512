@@ -7,4 +7,5 @@
 - pkg:composer/laravel-validation-rules/phone@1.8.0
 - pkg:composer/laravel-validation-rules/phone@1.9.0
 - pkg:composer/laravel-validation-rules/phone@2.0.0
+- pkg:composer/laravel-validation-rules/phone@2.1.0
 - pkg:composer/laravel-validation-rules/phone@v1.3.0
