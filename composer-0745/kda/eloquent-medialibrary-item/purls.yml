@@ -37,3 +37,4 @@
 - pkg:composer/kda/eloquent-medialibrary-item@6.0.0
 - pkg:composer/kda/eloquent-medialibrary-item@7.0.0
 - pkg:composer/kda/eloquent-medialibrary-item@7.0.1
+- pkg:composer/kda/eloquent-medialibrary-item@7.1.0
