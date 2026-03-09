@@ -35,6 +35,7 @@
 - pkg:composer/oxid-esales/amazon-pay-module@v1.6.1
 - pkg:composer/oxid-esales/amazon-pay-module@v1.6.1-rc.1
 - pkg:composer/oxid-esales/amazon-pay-module@v1.6.2-rc.2
+- pkg:composer/oxid-esales/amazon-pay-module@v1.6.2-rc.3
 - pkg:composer/oxid-esales/amazon-pay-module@v2.0.0
 - pkg:composer/oxid-esales/amazon-pay-module@v2.0.2
 - pkg:composer/oxid-esales/amazon-pay-module@v2.1.0
@@ -93,3 +94,4 @@
 - pkg:composer/oxid-esales/amazon-pay-module@v3.1.7-rc.3
 - pkg:composer/oxid-esales/amazon-pay-module@v3.1.8-rc.1
 - pkg:composer/oxid-esales/amazon-pay-module@v3.1.8-rc.2
+- pkg:composer/oxid-esales/amazon-pay-module@v3.2.0-rc.1
