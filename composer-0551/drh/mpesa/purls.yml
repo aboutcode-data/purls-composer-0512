@@ -42,3 +42,4 @@
 - pkg:composer/drh/mpesa@v4.0.2
 - pkg:composer/drh/mpesa@v4.0.3
 - pkg:composer/drh/mpesa@v4.1.0
+- pkg:composer/drh/mpesa@v4.1.1
