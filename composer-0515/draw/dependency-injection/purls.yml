@@ -38,3 +38,4 @@
 - pkg:composer/draw/dependency-injection@0.38.0
 - pkg:composer/draw/dependency-injection@0.39.0
 - pkg:composer/draw/dependency-injection@0.39.1
+- pkg:composer/draw/dependency-injection@0.39.2
