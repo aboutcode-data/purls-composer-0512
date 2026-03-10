@@ -142,5 +142,6 @@
 - pkg:composer/laravel-enso/logs@4.1.1
 - pkg:composer/laravel-enso/logs@4.2.0
 - pkg:composer/laravel-enso/logs@4.3.0
+- pkg:composer/laravel-enso/logs@4.3.1
 - pkg:composer/laravel-enso/logs@4.4.0
-- pkg:composer/laravel-enso/logs@4.5.0
+- pkg:composer/laravel-enso/logs@4.4.1

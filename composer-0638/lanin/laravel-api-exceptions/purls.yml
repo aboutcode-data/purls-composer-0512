@@ -20,3 +20,4 @@
 - pkg:composer/lanin/laravel-api-exceptions@3.4.0
 - pkg:composer/lanin/laravel-api-exceptions@4.0.0
 - pkg:composer/lanin/laravel-api-exceptions@5.0.0
+- pkg:composer/lanin/laravel-api-exceptions@6.0.0

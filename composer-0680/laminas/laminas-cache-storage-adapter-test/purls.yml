@@ -18,3 +18,4 @@
 - pkg:composer/laminas/laminas-cache-storage-adapter-test@4.0.1
 - pkg:composer/laminas/laminas-cache-storage-adapter-test@4.1.0
 - pkg:composer/laminas/laminas-cache-storage-adapter-test@4.2.0
+- pkg:composer/laminas/laminas-cache-storage-adapter-test@4.3.0

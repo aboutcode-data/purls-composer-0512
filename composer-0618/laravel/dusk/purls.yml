@@ -178,3 +178,4 @@
 - pkg:composer/laravel/dusk@v8.3.4
 - pkg:composer/laravel/dusk@v8.3.5
 - pkg:composer/laravel/dusk@v8.3.6
+- pkg:composer/laravel/dusk@v8.4.0
