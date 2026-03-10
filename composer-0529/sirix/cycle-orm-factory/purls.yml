@@ -33,3 +33,4 @@
 - pkg:composer/sirix/cycle-orm-factory@2.7.0
 - pkg:composer/sirix/cycle-orm-factory@2.8.0
 - pkg:composer/sirix/cycle-orm-factory@2.8.1
+- pkg:composer/sirix/cycle-orm-factory@3.0.0
