@@ -22,6 +22,7 @@
 - pkg:composer/miraheze/ts-portal@v29
 - pkg:composer/miraheze/ts-portal@v3
 - pkg:composer/miraheze/ts-portal@v30
+- pkg:composer/miraheze/ts-portal@v31
 - pkg:composer/miraheze/ts-portal@v4
 - pkg:composer/miraheze/ts-portal@v5
 - pkg:composer/miraheze/ts-portal@v6
