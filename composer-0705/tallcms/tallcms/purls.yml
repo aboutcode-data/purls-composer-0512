@@ -65,3 +65,4 @@
 - pkg:composer/tallcms/tallcms@v3.2.8
 - pkg:composer/tallcms/tallcms@v3.3.0
 - pkg:composer/tallcms/tallcms@v3.3.1
+- pkg:composer/tallcms/tallcms@v3.4.0
