@@ -1,1 +1,2 @@
 - pkg:composer/repinspl/php-cs-fixer-html-indent@v0.1.0
+- pkg:composer/repinspl/php-cs-fixer-html-indent@v0.1.1
