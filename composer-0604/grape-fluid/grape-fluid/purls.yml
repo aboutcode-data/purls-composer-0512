@@ -11,3 +11,4 @@
 - pkg:composer/grape-fluid/grape-fluid@v0.6.6
 - pkg:composer/grape-fluid/grape-fluid@v0.6.7
 - pkg:composer/grape-fluid/grape-fluid@v0.7.0
+- pkg:composer/grape-fluid/grape-fluid@v0.7.1
