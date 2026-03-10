@@ -21,3 +21,4 @@
 - pkg:composer/whitecube/laravel-cookie-consent@v1.3.5
 - pkg:composer/whitecube/laravel-cookie-consent@v1.3.6
 - pkg:composer/whitecube/laravel-cookie-consent@v1.3.7
+- pkg:composer/whitecube/laravel-cookie-consent@v1.3.8

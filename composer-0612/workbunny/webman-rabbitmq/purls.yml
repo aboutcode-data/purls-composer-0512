@@ -36,6 +36,7 @@
 - pkg:composer/workbunny/webman-rabbitmq@2.4.0
 - pkg:composer/workbunny/webman-rabbitmq@2.4.1
 - pkg:composer/workbunny/webman-rabbitmq@3.0.0-RC.1
+- pkg:composer/workbunny/webman-rabbitmq@3.0.0-RC.2
 - pkg:composer/workbunny/webman-rabbitmq@3.0.0-alpha.1
 - pkg:composer/workbunny/webman-rabbitmq@3.0.0-alpha.2
 - pkg:composer/workbunny/webman-rabbitmq@3.0.0-alpha.3

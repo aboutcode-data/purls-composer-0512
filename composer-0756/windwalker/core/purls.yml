@@ -268,6 +268,7 @@
 - pkg:composer/windwalker/core@4.2.1
 - pkg:composer/windwalker/core@4.2.10
 - pkg:composer/windwalker/core@4.2.11
+- pkg:composer/windwalker/core@4.2.12
 - pkg:composer/windwalker/core@4.2.2
 - pkg:composer/windwalker/core@4.2.3
 - pkg:composer/windwalker/core@4.2.4
