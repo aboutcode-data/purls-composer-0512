@@ -62,8 +62,10 @@
 - pkg:composer/unzerdev/shopware6@6.5.0
 - pkg:composer/unzerdev/shopware6@6.5.1
 - pkg:composer/unzerdev/shopware6@6.5.2
+- pkg:composer/unzerdev/shopware6@6.5.3
 - pkg:composer/unzerdev/shopware6@7.0.0
 - pkg:composer/unzerdev/shopware6@7.1.0
 - pkg:composer/unzerdev/shopware6@7.1.1
 - pkg:composer/unzerdev/shopware6@7.1.2
 - pkg:composer/unzerdev/shopware6@7.1.3
+- pkg:composer/unzerdev/shopware6@7.1.4

@@ -16,3 +16,6 @@
 - pkg:composer/vima/core@v0.1.9
 - pkg:composer/vima/core@v0.2.0
 - pkg:composer/vima/core@v0.2.1
+- pkg:composer/vima/core@v0.2.2
+- pkg:composer/vima/core@v0.2.3
+- pkg:composer/vima/core@v0.2.4
