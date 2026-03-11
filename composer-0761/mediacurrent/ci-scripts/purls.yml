@@ -94,6 +94,7 @@
 - pkg:composer/mediacurrent/ci-scripts@2.12.1
 - pkg:composer/mediacurrent/ci-scripts@2.12.2
 - pkg:composer/mediacurrent/ci-scripts@2.12.3
+- pkg:composer/mediacurrent/ci-scripts@2.13.0
 - pkg:composer/mediacurrent/ci-scripts@2.2.0
 - pkg:composer/mediacurrent/ci-scripts@2.2.1
 - pkg:composer/mediacurrent/ci-scripts@2.2.3
