@@ -83,11 +83,16 @@
 - pkg:composer/2lenet/crudit-bundle@1.16.7
 - pkg:composer/2lenet/crudit-bundle@1.17.0
 - pkg:composer/2lenet/crudit-bundle@1.17.1
+- pkg:composer/2lenet/crudit-bundle@1.17.10
+- pkg:composer/2lenet/crudit-bundle@1.17.11
 - pkg:composer/2lenet/crudit-bundle@1.17.2
 - pkg:composer/2lenet/crudit-bundle@1.17.3
 - pkg:composer/2lenet/crudit-bundle@1.17.4
 - pkg:composer/2lenet/crudit-bundle@1.17.5
 - pkg:composer/2lenet/crudit-bundle@1.17.6
+- pkg:composer/2lenet/crudit-bundle@1.17.7
+- pkg:composer/2lenet/crudit-bundle@1.17.8
+- pkg:composer/2lenet/crudit-bundle@1.17.9
 - pkg:composer/2lenet/crudit-bundle@1.2.22
 - pkg:composer/2lenet/crudit-bundle@1.2.23
 - pkg:composer/2lenet/crudit-bundle@1.2.24
