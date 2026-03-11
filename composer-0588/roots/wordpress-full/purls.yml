@@ -274,6 +274,7 @@
 - pkg:composer/roots/wordpress-full@6.4.5
 - pkg:composer/roots/wordpress-full@6.4.6
 - pkg:composer/roots/wordpress-full@6.4.7
+- pkg:composer/roots/wordpress-full@6.4.8
 - pkg:composer/roots/wordpress-full@6.5
 - pkg:composer/roots/wordpress-full@6.5-RC1
 - pkg:composer/roots/wordpress-full@6.5-RC2
@@ -290,6 +291,7 @@
 - pkg:composer/roots/wordpress-full@6.5.5
 - pkg:composer/roots/wordpress-full@6.5.6
 - pkg:composer/roots/wordpress-full@6.5.7
+- pkg:composer/roots/wordpress-full@6.5.8
 - pkg:composer/roots/wordpress-full@6.6
 - pkg:composer/roots/wordpress-full@6.6-RC1
 - pkg:composer/roots/wordpress-full@6.6-RC2
@@ -305,6 +307,7 @@
 - pkg:composer/roots/wordpress-full@6.6.2-RC1
 - pkg:composer/roots/wordpress-full@6.6.3
 - pkg:composer/roots/wordpress-full@6.6.4
+- pkg:composer/roots/wordpress-full@6.6.5
 - pkg:composer/roots/wordpress-full@6.7
 - pkg:composer/roots/wordpress-full@6.7-RC1
 - pkg:composer/roots/wordpress-full@6.7-RC2
@@ -321,6 +324,7 @@
 - pkg:composer/roots/wordpress-full@6.7.2-RC2
 - pkg:composer/roots/wordpress-full@6.7.3
 - pkg:composer/roots/wordpress-full@6.7.4
+- pkg:composer/roots/wordpress-full@6.7.5
 - pkg:composer/roots/wordpress-full@6.8
 - pkg:composer/roots/wordpress-full@6.8-RC1
 - pkg:composer/roots/wordpress-full@6.8-RC2
@@ -334,6 +338,7 @@
 - pkg:composer/roots/wordpress-full@6.8.2
 - pkg:composer/roots/wordpress-full@6.8.2-RC1
 - pkg:composer/roots/wordpress-full@6.8.3
+- pkg:composer/roots/wordpress-full@6.8.5
 - pkg:composer/roots/wordpress-full@6.9-RC1
 - pkg:composer/roots/wordpress-full@6.9-RC2
 - pkg:composer/roots/wordpress-full@6.9-RC3
@@ -345,6 +350,9 @@
 - pkg:composer/roots/wordpress-full@6.9.0
 - pkg:composer/roots/wordpress-full@6.9.1
 - pkg:composer/roots/wordpress-full@6.9.1-RC1
+- pkg:composer/roots/wordpress-full@6.9.2
+- pkg:composer/roots/wordpress-full@6.9.3
 - pkg:composer/roots/wordpress-full@7.0-beta1
 - pkg:composer/roots/wordpress-full@7.0-beta2
 - pkg:composer/roots/wordpress-full@7.0-beta3
+- pkg:composer/roots/wordpress-full@7.0-beta4

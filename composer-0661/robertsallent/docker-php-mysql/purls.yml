@@ -1,3 +1,4 @@
 - pkg:composer/robertsallent/docker-php-mysql@v0.9.0
 - pkg:composer/robertsallent/docker-php-mysql@v1.0.0
 - pkg:composer/robertsallent/docker-php-mysql@v1.0.2
+- pkg:composer/robertsallent/docker-php-mysql@v1.0.4
