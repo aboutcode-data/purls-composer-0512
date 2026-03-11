@@ -50,6 +50,9 @@
 - pkg:composer/smorken/model@v10.5.4
 - pkg:composer/smorken/model@v10.6.0
 - pkg:composer/smorken/model@v10.7.0
+- pkg:composer/smorken/model@v10.7.1
+- pkg:composer/smorken/model@v10.7.2
+- pkg:composer/smorken/model@v10.7.3
 - pkg:composer/smorken/model@v5.5.0-beta1
 - pkg:composer/smorken/model@v5.5.0-beta2
 - pkg:composer/smorken/model@v5.5.0-beta3
