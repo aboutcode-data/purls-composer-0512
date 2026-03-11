@@ -833,3 +833,4 @@
 - pkg:composer/matomo/matomo@5.9.0-b1
 - pkg:composer/matomo/matomo@5.9.0-b1.20260307015350
 - pkg:composer/matomo/matomo@5.9.0-b1.20260310013636
+- pkg:composer/matomo/matomo@5.9.0-b1.20260311013630
