@@ -729,6 +729,7 @@
 - pkg:composer/itzbund/gsb-sitepackage@v7.24.71
 - pkg:composer/itzbund/gsb-sitepackage@v7.24.72
 - pkg:composer/itzbund/gsb-sitepackage@v7.24.73
+- pkg:composer/itzbund/gsb-sitepackage@v7.24.74
 - pkg:composer/itzbund/gsb-sitepackage@v7.24.8
 - pkg:composer/itzbund/gsb-sitepackage@v7.24.9
 - pkg:composer/itzbund/gsb-sitepackage@v7.3.0
@@ -1036,3 +1037,8 @@
 - pkg:composer/itzbund/gsb-sitepackage@v8.8.1-rc.1
 - pkg:composer/itzbund/gsb-sitepackage@v8.8.1-rc.2
 - pkg:composer/itzbund/gsb-sitepackage@v8.8.1-rc.3
+- pkg:composer/itzbund/gsb-sitepackage@v8.9.0
+- pkg:composer/itzbund/gsb-sitepackage@v8.9.0-rc.1
+- pkg:composer/itzbund/gsb-sitepackage@v8.9.0-rc.2
+- pkg:composer/itzbund/gsb-sitepackage@v8.9.0-rc.3
+- pkg:composer/itzbund/gsb-sitepackage@v8.9.0-rc.4
