@@ -22,3 +22,5 @@
 - pkg:composer/laravel/mcp@v0.5.8
 - pkg:composer/laravel/mcp@v0.5.9
 - pkg:composer/laravel/mcp@v0.6.0
+- pkg:composer/laravel/mcp@v0.6.1
+- pkg:composer/laravel/mcp@v0.6.2

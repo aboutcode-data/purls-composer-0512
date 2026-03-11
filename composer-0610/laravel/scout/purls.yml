@@ -56,6 +56,7 @@
 - pkg:composer/laravel/scout@v10.23.0
 - pkg:composer/laravel/scout@v10.23.1
 - pkg:composer/laravel/scout@v10.24.0
+- pkg:composer/laravel/scout@v10.25.0
 - pkg:composer/laravel/scout@v10.3.0
 - pkg:composer/laravel/scout@v10.4.0
 - pkg:composer/laravel/scout@v10.5.0
@@ -71,6 +72,7 @@
 - pkg:composer/laravel/scout@v10.8.5
 - pkg:composer/laravel/scout@v10.8.6
 - pkg:composer/laravel/scout@v10.9.0
+- pkg:composer/laravel/scout@v11.0.0
 - pkg:composer/laravel/scout@v2.0.0
 - pkg:composer/laravel/scout@v2.0.1
 - pkg:composer/laravel/scout@v2.0.2

@@ -126,3 +126,4 @@
 - pkg:composer/laravel/breeze@v2.3.7
 - pkg:composer/laravel/breeze@v2.3.8
 - pkg:composer/laravel/breeze@v2.4.0
+- pkg:composer/laravel/breeze@v2.4.1
