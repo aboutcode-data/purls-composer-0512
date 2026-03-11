@@ -176,6 +176,7 @@
 - pkg:composer/automattic/jetpack-assets@v4.3.24
 - pkg:composer/automattic/jetpack-assets@v4.3.25
 - pkg:composer/automattic/jetpack-assets@v4.3.26
+- pkg:composer/automattic/jetpack-assets@v4.3.27
 - pkg:composer/automattic/jetpack-assets@v4.3.3
 - pkg:composer/automattic/jetpack-assets@v4.3.4
 - pkg:composer/automattic/jetpack-assets@v4.3.5

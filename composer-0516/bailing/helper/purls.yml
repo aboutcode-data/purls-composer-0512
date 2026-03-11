@@ -367,3 +367,5 @@
 - pkg:composer/bailing/helper@v3.2.32
 - pkg:composer/bailing/helper@v3.2.33
 - pkg:composer/bailing/helper@v3.2.34
+- pkg:composer/bailing/helper@v3.84.1
+- pkg:composer/bailing/helper@v3.84.2

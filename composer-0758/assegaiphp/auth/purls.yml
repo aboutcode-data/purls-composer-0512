@@ -5,3 +5,5 @@
 - pkg:composer/assegaiphp/auth@0.6.0
 - pkg:composer/assegaiphp/auth@0.6.1
 - pkg:composer/assegaiphp/auth@0.6.2
+- pkg:composer/assegaiphp/auth@0.6.3
+- pkg:composer/assegaiphp/auth@0.6.4
