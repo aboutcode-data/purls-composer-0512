@@ -1,1 +1,3 @@
 - pkg:composer/venndev/vosaka-libsql@1.0.0
+- pkg:composer/venndev/vosaka-libsql@1.0.1
+- pkg:composer/venndev/vosaka-libsql@1.0.2

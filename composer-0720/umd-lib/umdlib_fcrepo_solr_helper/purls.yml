@@ -2,3 +2,5 @@
 - pkg:composer/umd-lib/umdlib_fcrepo_solr_helper@1.0.1
 - pkg:composer/umd-lib/umdlib_fcrepo_solr_helper@1.0.2
 - pkg:composer/umd-lib/umdlib_fcrepo_solr_helper@1.0.3
+- pkg:composer/umd-lib/umdlib_fcrepo_solr_helper@1.0.4
+- pkg:composer/umd-lib/umdlib_fcrepo_solr_helper@1.0.5
