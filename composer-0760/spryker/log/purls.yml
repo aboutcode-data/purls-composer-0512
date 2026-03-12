@@ -21,6 +21,7 @@
 - pkg:composer/spryker/log@3.17.0
 - pkg:composer/spryker/log@3.18.0
 - pkg:composer/spryker/log@3.18.1
+- pkg:composer/spryker/log@3.19.0
 - pkg:composer/spryker/log@3.2.0
 - pkg:composer/spryker/log@3.3.0
 - pkg:composer/spryker/log@3.4.0

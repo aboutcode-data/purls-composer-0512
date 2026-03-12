@@ -25,6 +25,8 @@
 - pkg:composer/spryker/router@1.25.0
 - pkg:composer/spryker/router@1.25.1
 - pkg:composer/spryker/router@1.25.2
+- pkg:composer/spryker/router@1.26.0
+- pkg:composer/spryker/router@1.26.1
 - pkg:composer/spryker/router@1.3.0
 - pkg:composer/spryker/router@1.4.0
 - pkg:composer/spryker/router@1.5.0
