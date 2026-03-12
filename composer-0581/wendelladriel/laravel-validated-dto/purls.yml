@@ -54,3 +54,4 @@
 - pkg:composer/wendelladriel/laravel-validated-dto@v4.4.0
 - pkg:composer/wendelladriel/laravel-validated-dto@v4.4.1
 - pkg:composer/wendelladriel/laravel-validated-dto@v4.5.0
+- pkg:composer/wendelladriel/laravel-validated-dto@v4.6.0

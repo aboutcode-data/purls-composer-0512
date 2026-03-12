@@ -14,3 +14,5 @@
 - pkg:composer/weslinkde/laravel-postgres-tools@v1.0.2
 - pkg:composer/weslinkde/laravel-postgres-tools@v1.1.0
 - pkg:composer/weslinkde/laravel-postgres-tools@v1.2.0
+- pkg:composer/weslinkde/laravel-postgres-tools@v1.3.0
+- pkg:composer/weslinkde/laravel-postgres-tools@v1.3.1
