@@ -52,3 +52,4 @@
 - pkg:composer/roots/sage@v11.0.0
 - pkg:composer/roots/sage@v11.0.1
 - pkg:composer/roots/sage@v11.0.2
+- pkg:composer/roots/sage@v11.0.3
