@@ -26,6 +26,7 @@
 - pkg:composer/ray/aura-sql-module@1.15.3
 - pkg:composer/ray/aura-sql-module@1.16.0
 - pkg:composer/ray/aura-sql-module@1.17.0
+- pkg:composer/ray/aura-sql-module@1.17.1
 - pkg:composer/ray/aura-sql-module@1.2.0
 - pkg:composer/ray/aura-sql-module@1.2.1
 - pkg:composer/ray/aura-sql-module@1.2.2
