@@ -203,3 +203,4 @@
 - pkg:composer/ottimis/phplibs@4.9.1
 - pkg:composer/ottimis/phplibs@4.9.2
 - pkg:composer/ottimis/phplibs@5.0.0
+- pkg:composer/ottimis/phplibs@5.0.1
