@@ -1,1 +1,2 @@
 - pkg:composer/zevpay/zevpay-php@0.1.0
+- pkg:composer/zevpay/zevpay-php@v0.1.1
