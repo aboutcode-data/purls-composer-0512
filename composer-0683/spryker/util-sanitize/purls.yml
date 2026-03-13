@@ -5,3 +5,4 @@
 - pkg:composer/spryker/util-sanitize@2.1.2
 - pkg:composer/spryker/util-sanitize@2.2.0
 - pkg:composer/spryker/util-sanitize@2.3.0
+- pkg:composer/spryker/util-sanitize@2.3.1
