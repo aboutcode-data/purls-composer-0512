@@ -405,6 +405,7 @@
 - pkg:composer/tencentcloud/thpc@3.0.1526
 - pkg:composer/tencentcloud/thpc@3.0.1527
 - pkg:composer/tencentcloud/thpc@3.0.1538
+- pkg:composer/tencentcloud/thpc@3.0.1545
 - pkg:composer/tencentcloud/thpc@3.0.530
 - pkg:composer/tencentcloud/thpc@3.0.531
 - pkg:composer/tencentcloud/thpc@3.0.532

@@ -9,3 +9,4 @@
 - pkg:composer/t2pcorp/libcrypto7@v1.3.6
 - pkg:composer/t2pcorp/libcrypto7@v1.4.7
 - pkg:composer/t2pcorp/libcrypto7@v1.5.7
+- pkg:composer/t2pcorp/libcrypto7@v1.7.7
