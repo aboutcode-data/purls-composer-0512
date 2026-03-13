@@ -124,6 +124,7 @@
 - pkg:composer/acquia/orca@v4.16.0
 - pkg:composer/acquia/orca@v4.16.1
 - pkg:composer/acquia/orca@v4.16.2
+- pkg:composer/acquia/orca@v4.16.3
 - pkg:composer/acquia/orca@v4.2.0
 - pkg:composer/acquia/orca@v4.3.0
 - pkg:composer/acquia/orca@v4.4.0

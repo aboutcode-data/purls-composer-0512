@@ -30,3 +30,6 @@
 - pkg:composer/amondar-libs/repository-pattern@2.4.2
 - pkg:composer/amondar-libs/repository-pattern@2.4.3
 - pkg:composer/amondar-libs/repository-pattern@2.4.4
+- pkg:composer/amondar-libs/repository-pattern@2.4.5
+- pkg:composer/amondar-libs/repository-pattern@2.4.6
+- pkg:composer/amondar-libs/repository-pattern@2.4.7

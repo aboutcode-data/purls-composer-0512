@@ -39,6 +39,7 @@
 - pkg:composer/altis/local-server@12.0.3
 - pkg:composer/altis/local-server@12.0.4
 - pkg:composer/altis/local-server@12.0.5
+- pkg:composer/altis/local-server@12.0.6
 - pkg:composer/altis/local-server@13.0.0
 - pkg:composer/altis/local-server@13.0.0-beta.1
 - pkg:composer/altis/local-server@13.0.1
