@@ -10,3 +10,4 @@
 - pkg:composer/andreinocenti/laravel-file-s3-like@v1.4.1
 - pkg:composer/andreinocenti/laravel-file-s3-like@v1.5
 - pkg:composer/andreinocenti/laravel-file-s3-like@v1.5.1
+- pkg:composer/andreinocenti/laravel-file-s3-like@v1.6
