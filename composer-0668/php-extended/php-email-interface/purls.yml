@@ -91,3 +91,4 @@
 - pkg:composer/php-extended/php-email-interface@8.0.9
 - pkg:composer/php-extended/php-email-interface@9.0.0
 - pkg:composer/php-extended/php-email-interface@9.0.1
+- pkg:composer/php-extended/php-email-interface@9.0.2

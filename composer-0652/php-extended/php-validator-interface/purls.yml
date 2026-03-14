@@ -91,3 +91,4 @@
 - pkg:composer/php-extended/php-validator-interface@8.0.9
 - pkg:composer/php-extended/php-validator-interface@9.0.0
 - pkg:composer/php-extended/php-validator-interface@9.0.1
+- pkg:composer/php-extended/php-validator-interface@9.0.2

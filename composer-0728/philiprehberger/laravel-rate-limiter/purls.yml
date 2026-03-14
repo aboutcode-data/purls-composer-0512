@@ -1,1 +1,2 @@
 - pkg:composer/philiprehberger/laravel-rate-limiter@v1.0.0
+- pkg:composer/philiprehberger/laravel-rate-limiter@v1.1.0

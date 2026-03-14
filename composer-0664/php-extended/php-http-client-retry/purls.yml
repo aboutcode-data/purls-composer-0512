@@ -80,3 +80,4 @@
 - pkg:composer/php-extended/php-http-client-retry@8.0.9
 - pkg:composer/php-extended/php-http-client-retry@9.0.0
 - pkg:composer/php-extended/php-http-client-retry@9.0.1
+- pkg:composer/php-extended/php-http-client-retry@9.0.2
