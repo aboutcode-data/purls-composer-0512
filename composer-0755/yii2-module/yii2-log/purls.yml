@@ -60,3 +60,4 @@
 - pkg:composer/yii2-module/yii2-log@8.0.8
 - pkg:composer/yii2-module/yii2-log@9.0.0
 - pkg:composer/yii2-module/yii2-log@9.0.1
+- pkg:composer/yii2-module/yii2-log@9.0.2
