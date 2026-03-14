@@ -49,3 +49,4 @@
 - pkg:composer/beecubu/php-foundation-core@v3.6.2.1
 - pkg:composer/beecubu/php-foundation-core@v3.6.2.2
 - pkg:composer/beecubu/php-foundation-core@v3.6.2.3
+- pkg:composer/beecubu/php-foundation-core@v3.7.0

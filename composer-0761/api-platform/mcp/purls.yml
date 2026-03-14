@@ -1,4 +1,5 @@
 - pkg:composer/api-platform/mcp@4.3.0-alpha.1
 - pkg:composer/api-platform/mcp@4.3.0-alpha.2
+- pkg:composer/api-platform/mcp@v4.3.0
 - pkg:composer/api-platform/mcp@v4.3.0-beta.1
 - pkg:composer/api-platform/mcp@v4.3.0-beta.2
