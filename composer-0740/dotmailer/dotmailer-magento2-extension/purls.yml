@@ -166,6 +166,8 @@
 - pkg:composer/dotmailer/dotmailer-magento2-extension@4.33.1
 - pkg:composer/dotmailer/dotmailer-magento2-extension@4.33.2
 - pkg:composer/dotmailer/dotmailer-magento2-extension@4.34.0
+- pkg:composer/dotmailer/dotmailer-magento2-extension@4.34.1
+- pkg:composer/dotmailer/dotmailer-magento2-extension@4.34.2
 - pkg:composer/dotmailer/dotmailer-magento2-extension@4.4.0
 - pkg:composer/dotmailer/dotmailer-magento2-extension@4.5.0
 - pkg:composer/dotmailer/dotmailer-magento2-extension@4.5.1

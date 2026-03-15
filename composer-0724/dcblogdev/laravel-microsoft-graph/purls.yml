@@ -50,3 +50,4 @@
 - pkg:composer/dcblogdev/laravel-microsoft-graph@v4.0.6
 - pkg:composer/dcblogdev/laravel-microsoft-graph@v4.0.7
 - pkg:composer/dcblogdev/laravel-microsoft-graph@v4.0.8
+- pkg:composer/dcblogdev/laravel-microsoft-graph@v4.0.9

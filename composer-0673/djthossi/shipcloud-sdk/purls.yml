@@ -5,3 +5,4 @@
 - pkg:composer/djthossi/shipcloud-sdk@2.0.0
 - pkg:composer/djthossi/shipcloud-sdk@3.0.0
 - pkg:composer/djthossi/shipcloud-sdk@4.0.0
+- pkg:composer/djthossi/shipcloud-sdk@5.0.0

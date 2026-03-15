@@ -24,3 +24,6 @@
 - pkg:composer/digipolisgent/robo-digipolis-package@1.1.7
 - pkg:composer/digipolisgent/robo-digipolis-package@2.0.0
 - pkg:composer/digipolisgent/robo-digipolis-package@2.0.0-alpha1
+- pkg:composer/digipolisgent/robo-digipolis-package@2.0.1
+- pkg:composer/digipolisgent/robo-digipolis-package@2.0.2
+- pkg:composer/digipolisgent/robo-digipolis-package@2.0.3

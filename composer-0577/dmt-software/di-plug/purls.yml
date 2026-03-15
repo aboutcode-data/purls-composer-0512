@@ -1,3 +1,5 @@
+- pkg:composer/dmt-software/di-plug@0.3.1
+- pkg:composer/dmt-software/di-plug@0.3.2
 - pkg:composer/dmt-software/di-plug@v0.1.0
 - pkg:composer/dmt-software/di-plug@v0.2.0
 - pkg:composer/dmt-software/di-plug@v0.3.0
