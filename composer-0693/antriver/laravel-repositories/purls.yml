@@ -38,6 +38,7 @@
 - pkg:composer/antriver/laravel-repositories@10.0.1
 - pkg:composer/antriver/laravel-repositories@10.0.2
 - pkg:composer/antriver/laravel-repositories@10.0.3
+- pkg:composer/antriver/laravel-repositories@10.0.4
 - pkg:composer/antriver/laravel-repositories@2.0.0
 - pkg:composer/antriver/laravel-repositories@2.0.1
 - pkg:composer/antriver/laravel-repositories@2.0.2
