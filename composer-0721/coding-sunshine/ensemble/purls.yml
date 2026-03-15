@@ -7,6 +7,7 @@
 - pkg:composer/coding-sunshine/ensemble@1.0.0
 - pkg:composer/coding-sunshine/ensemble@1.0.1
 - pkg:composer/coding-sunshine/ensemble@1.1.0
+- pkg:composer/coding-sunshine/ensemble@3.2.0
 - pkg:composer/coding-sunshine/ensemble@v0.1.0
 - pkg:composer/coding-sunshine/ensemble@v1.1.1
 - pkg:composer/coding-sunshine/ensemble@v1.10.0
@@ -74,3 +75,10 @@
 - pkg:composer/coding-sunshine/ensemble@v2.8.0
 - pkg:composer/coding-sunshine/ensemble@v2.8.1
 - pkg:composer/coding-sunshine/ensemble@v2.9.0
+- pkg:composer/coding-sunshine/ensemble@v3.0.0
+- pkg:composer/coding-sunshine/ensemble@v3.0.1
+- pkg:composer/coding-sunshine/ensemble@v3.0.2
+- pkg:composer/coding-sunshine/ensemble@v3.0.3
+- pkg:composer/coding-sunshine/ensemble@v3.0.4
+- pkg:composer/coding-sunshine/ensemble@v3.0.5
+- pkg:composer/coding-sunshine/ensemble@v3.1.0

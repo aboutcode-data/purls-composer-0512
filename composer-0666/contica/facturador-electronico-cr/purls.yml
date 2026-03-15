@@ -77,3 +77,5 @@
 - pkg:composer/contica/facturador-electronico-cr@v3.7.1
 - pkg:composer/contica/facturador-electronico-cr@v3.7.2
 - pkg:composer/contica/facturador-electronico-cr@v3.7.3
+- pkg:composer/contica/facturador-electronico-cr@v4.0.0
+- pkg:composer/contica/facturador-electronico-cr@v4.0.1

@@ -78,3 +78,4 @@
 - pkg:composer/craftcms/ckeditor@5.0.0
 - pkg:composer/craftcms/ckeditor@5.0.1
 - pkg:composer/craftcms/ckeditor@5.1.0
+- pkg:composer/craftcms/ckeditor@5.2.0
