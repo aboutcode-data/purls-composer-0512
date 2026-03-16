@@ -160,6 +160,9 @@
 - pkg:composer/gr4vy/gr4vy-php@v1.5.38
 - pkg:composer/gr4vy/gr4vy-php@v1.5.39
 - pkg:composer/gr4vy/gr4vy-php@v1.5.4
+- pkg:composer/gr4vy/gr4vy-php@v1.5.40
+- pkg:composer/gr4vy/gr4vy-php@v1.5.41
+- pkg:composer/gr4vy/gr4vy-php@v1.5.42
 - pkg:composer/gr4vy/gr4vy-php@v1.5.5
 - pkg:composer/gr4vy/gr4vy-php@v1.5.6
 - pkg:composer/gr4vy/gr4vy-php@v1.5.7
