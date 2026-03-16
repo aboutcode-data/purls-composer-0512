@@ -32,3 +32,4 @@
 - pkg:composer/dreamfactory/df-oauth@0.8.0
 - pkg:composer/dreamfactory/df-oauth@0.9.0
 - pkg:composer/dreamfactory/df-oauth@1.0.0
+- pkg:composer/dreamfactory/df-oauth@1.0.1

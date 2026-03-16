@@ -12,6 +12,7 @@
 - pkg:composer/elibyy/tcpdf-laravel@11.4.0
 - pkg:composer/elibyy/tcpdf-laravel@11.5.0
 - pkg:composer/elibyy/tcpdf-laravel@13.0.0
+- pkg:composer/elibyy/tcpdf-laravel@13.0.1
 - pkg:composer/elibyy/tcpdf-laravel@5.0.0
 - pkg:composer/elibyy/tcpdf-laravel@5.0.1
 - pkg:composer/elibyy/tcpdf-laravel@5.0.2

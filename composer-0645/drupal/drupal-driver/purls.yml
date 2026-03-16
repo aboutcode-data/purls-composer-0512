@@ -48,3 +48,5 @@
 - pkg:composer/drupal/drupal-driver@v2.2.2
 - pkg:composer/drupal/drupal-driver@v2.3.0
 - pkg:composer/drupal/drupal-driver@v2.4.0
+- pkg:composer/drupal/drupal-driver@v2.4.1
+- pkg:composer/drupal/drupal-driver@v2.4.2

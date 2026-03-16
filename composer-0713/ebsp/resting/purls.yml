@@ -49,6 +49,7 @@
 - pkg:composer/ebsp/resting@v5.2.3
 - pkg:composer/ebsp/resting@v5.2.4
 - pkg:composer/ebsp/resting@v5.2.5
+- pkg:composer/ebsp/resting@v5.20.0
 - pkg:composer/ebsp/resting@v5.3.0
 - pkg:composer/ebsp/resting@v5.4.0
 - pkg:composer/ebsp/resting@v5.5.0
@@ -57,3 +58,4 @@
 - pkg:composer/ebsp/resting@v5.8.0
 - pkg:composer/ebsp/resting@v5.8.1
 - pkg:composer/ebsp/resting@v5.9.0
+- pkg:composer/ebsp/resting@v6.0.0
