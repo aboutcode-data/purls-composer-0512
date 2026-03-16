@@ -6,3 +6,5 @@
 - pkg:composer/bromimo/tiny-router@v1.2.2
 - pkg:composer/bromimo/tiny-router@v1.2.3
 - pkg:composer/bromimo/tiny-router@v1.2.4
+- pkg:composer/bromimo/tiny-router@v1.3.0
+- pkg:composer/bromimo/tiny-router@v1.4.0
