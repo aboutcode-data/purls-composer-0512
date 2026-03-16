@@ -27,3 +27,4 @@
 - pkg:composer/torchlight/torchlight-laravel@v0.5.9
 - pkg:composer/torchlight/torchlight-laravel@v0.6.0
 - pkg:composer/torchlight/torchlight-laravel@v0.6.1
+- pkg:composer/torchlight/torchlight-laravel@v0.6.2
