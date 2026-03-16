@@ -36,6 +36,7 @@
 - pkg:composer/friendlydev/meshtastic-protobufs@v2.7.17
 - pkg:composer/friendlydev/meshtastic-protobufs@v2.7.18
 - pkg:composer/friendlydev/meshtastic-protobufs@v2.7.19
+- pkg:composer/friendlydev/meshtastic-protobufs@v2.7.20
 - pkg:composer/friendlydev/meshtastic-protobufs@v2.7.3
 - pkg:composer/friendlydev/meshtastic-protobufs@v2.7.4
 - pkg:composer/friendlydev/meshtastic-protobufs@v2.7.5

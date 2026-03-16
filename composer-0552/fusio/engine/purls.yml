@@ -156,3 +156,7 @@
 - pkg:composer/fusio/engine@v6.8.0
 - pkg:composer/fusio/engine@v6.8.1
 - pkg:composer/fusio/engine@v6.8.2
+- pkg:composer/fusio/engine@v6.8.3
+- pkg:composer/fusio/engine@v6.8.4
+- pkg:composer/fusio/engine@v6.8.5
+- pkg:composer/fusio/engine@v6.8.6
