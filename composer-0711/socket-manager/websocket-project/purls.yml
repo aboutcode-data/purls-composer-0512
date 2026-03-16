@@ -23,3 +23,4 @@
 - pkg:composer/socket-manager/websocket-project@v1.2.3
 - pkg:composer/socket-manager/websocket-project@v1.2.4
 - pkg:composer/socket-manager/websocket-project@v1.2.5
+- pkg:composer/socket-manager/websocket-project@v1.2.6
