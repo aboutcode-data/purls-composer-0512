@@ -14,3 +14,4 @@
 - pkg:composer/worldline-global-collect/connect-sdk-php@8.2.1
 - pkg:composer/worldline-global-collect/connect-sdk-php@8.3.0
 - pkg:composer/worldline-global-collect/connect-sdk-php@8.4.0
+- pkg:composer/worldline-global-collect/connect-sdk-php@8.5.0
