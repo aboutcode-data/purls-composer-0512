@@ -70,6 +70,7 @@
 - pkg:composer/automattic/jetpack-masterbar@v0.27.13
 - pkg:composer/automattic/jetpack-masterbar@v0.27.14
 - pkg:composer/automattic/jetpack-masterbar@v0.27.15
+- pkg:composer/automattic/jetpack-masterbar@v0.27.16
 - pkg:composer/automattic/jetpack-masterbar@v0.27.2
 - pkg:composer/automattic/jetpack-masterbar@v0.27.3
 - pkg:composer/automattic/jetpack-masterbar@v0.27.4

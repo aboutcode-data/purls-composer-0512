@@ -10,3 +10,4 @@
 - pkg:composer/atlas-php/atlas@v2.2.1
 - pkg:composer/atlas-php/atlas@v2.3.0
 - pkg:composer/atlas-php/atlas@v2.4.0
+- pkg:composer/atlas-php/atlas@v2.5.0
