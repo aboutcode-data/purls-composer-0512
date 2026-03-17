@@ -19,6 +19,7 @@
 - pkg:composer/webhubworks/craft-ohdear@4.5.4
 - pkg:composer/webhubworks/craft-ohdear@4.6.0
 - pkg:composer/webhubworks/craft-ohdear@4.6.1
+- pkg:composer/webhubworks/craft-ohdear@4.7.0
 - pkg:composer/webhubworks/craft-ohdear@5.0.0
 - pkg:composer/webhubworks/craft-ohdear@5.1.0
 - pkg:composer/webhubworks/craft-ohdear@5.2.0
@@ -27,6 +28,7 @@
 - pkg:composer/webhubworks/craft-ohdear@5.2.3
 - pkg:composer/webhubworks/craft-ohdear@5.3.0
 - pkg:composer/webhubworks/craft-ohdear@5.3.1
+- pkg:composer/webhubworks/craft-ohdear@5.4.0
 - pkg:composer/webhubworks/craft-ohdear@v1.0.0
 - pkg:composer/webhubworks/craft-ohdear@v1.0.0-rc.3
 - pkg:composer/webhubworks/craft-ohdear@v1.0.0-rc.4
