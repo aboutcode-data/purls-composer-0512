@@ -2,3 +2,4 @@
 - pkg:composer/cloudlayerio/cloudlayerio-php@1.01
 - pkg:composer/cloudlayerio/cloudlayerio-php@1.02
 - pkg:composer/cloudlayerio/cloudlayerio-php@1.03
+- pkg:composer/cloudlayerio/cloudlayerio-php@v2.0.0
