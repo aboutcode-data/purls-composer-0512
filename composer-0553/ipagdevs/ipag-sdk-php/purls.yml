@@ -1,3 +1,4 @@
+- pkg:composer/ipagdevs/ipag-sdk-php@1.4.0
 - pkg:composer/ipagdevs/ipag-sdk-php@v0.1.0
 - pkg:composer/ipagdevs/ipag-sdk-php@v1.0.0
 - pkg:composer/ipagdevs/ipag-sdk-php@v1.1.0

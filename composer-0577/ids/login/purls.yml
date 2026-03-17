@@ -77,3 +77,8 @@
 - pkg:composer/ids/login@v3.4.7
 - pkg:composer/ids/login@v3.4.8
 - pkg:composer/ids/login@v3.4.9
+- pkg:composer/ids/login@v4.0.0
+- pkg:composer/ids/login@v4.0.1
+- pkg:composer/ids/login@v4.0.2
+- pkg:composer/ids/login@v4.0.3
+- pkg:composer/ids/login@v4.0.4

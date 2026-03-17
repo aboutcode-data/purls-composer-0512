@@ -1,1 +1,5 @@
+- pkg:composer/j835111/symfony-swagger-bundle@v1.0.0
+- pkg:composer/j835111/symfony-swagger-bundle@v1.0.1
 - pkg:composer/j835111/symfony-swagger-bundle@v1.0.2
+- pkg:composer/j835111/symfony-swagger-bundle@v1.1.0
+- pkg:composer/j835111/symfony-swagger-bundle@v1.2.0
