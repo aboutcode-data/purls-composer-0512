@@ -20,3 +20,6 @@
 - pkg:composer/devdojo/tails@v1.2.0
 - pkg:composer/devdojo/tails@v1.2.1
 - pkg:composer/devdojo/tails@v1.3
+- pkg:composer/devdojo/tails@v1.4
+- pkg:composer/devdojo/tails@v1.5
+- pkg:composer/devdojo/tails@v1.6
