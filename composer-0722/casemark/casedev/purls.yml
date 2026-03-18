@@ -8,6 +8,8 @@
 - pkg:composer/casemark/casedev@v0.14.0
 - pkg:composer/casemark/casedev@v0.15.0
 - pkg:composer/casemark/casedev@v0.16.0
+- pkg:composer/casemark/casedev@v0.16.1
+- pkg:composer/casemark/casedev@v0.17.0
 - pkg:composer/casemark/casedev@v0.2.0
 - pkg:composer/casemark/casedev@v0.2.1
 - pkg:composer/casemark/casedev@v0.3.0
