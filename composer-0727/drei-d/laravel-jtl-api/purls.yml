@@ -24,3 +24,5 @@
 - pkg:composer/drei-d/laravel-jtl-api@1.5.2
 - pkg:composer/drei-d/laravel-jtl-api@1.5.3
 - pkg:composer/drei-d/laravel-jtl-api@1.5.4
+- pkg:composer/drei-d/laravel-jtl-api@1.5.5
+- pkg:composer/drei-d/laravel-jtl-api@1.6.0
