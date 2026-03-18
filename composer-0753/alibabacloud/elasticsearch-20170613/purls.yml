@@ -42,3 +42,4 @@
 - pkg:composer/alibabacloud/elasticsearch-20170613@4.0.0
 - pkg:composer/alibabacloud/elasticsearch-20170613@4.0.1
 - pkg:composer/alibabacloud/elasticsearch-20170613@4.1.0
+- pkg:composer/alibabacloud/elasticsearch-20170613@4.1.1
