@@ -1,5 +1,6 @@
 - pkg:composer/darkaonline/l5-swagger@10.0.0
 - pkg:composer/darkaonline/l5-swagger@10.1.0
+- pkg:composer/darkaonline/l5-swagger@11.0.0
 - pkg:composer/darkaonline/l5-swagger@2.1
 - pkg:composer/darkaonline/l5-swagger@2.1.1
 - pkg:composer/darkaonline/l5-swagger@2.1.2
