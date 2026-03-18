@@ -27,3 +27,4 @@
 - pkg:composer/google/cloud-api-keys@v1.0.5
 - pkg:composer/google/cloud-api-keys@v1.1.0
 - pkg:composer/google/cloud-api-keys@v1.1.1
+- pkg:composer/google/cloud-api-keys@v1.1.2

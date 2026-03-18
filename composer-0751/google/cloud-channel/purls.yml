@@ -46,3 +46,4 @@
 - pkg:composer/google/cloud-channel@v2.3.0
 - pkg:composer/google/cloud-channel@v2.3.1
 - pkg:composer/google/cloud-channel@v2.4.0
+- pkg:composer/google/cloud-channel@v2.4.1

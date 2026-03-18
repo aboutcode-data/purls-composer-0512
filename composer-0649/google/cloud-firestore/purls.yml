@@ -147,5 +147,6 @@
 - pkg:composer/google/cloud-firestore@v1.7.1
 - pkg:composer/google/cloud-firestore@v1.8.0
 - pkg:composer/google/cloud-firestore@v1.9.0
+- pkg:composer/google/cloud-firestore@v2.0.0-RC2
 - pkg:composer/google/cloud-firestore@v2.0.2-RC1
 - pkg:composer/google/cloud-firestore@v2.1.0-RC1

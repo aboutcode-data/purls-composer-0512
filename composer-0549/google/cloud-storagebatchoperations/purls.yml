@@ -7,3 +7,4 @@
 - pkg:composer/google/cloud-storagebatchoperations@v0.3.1
 - pkg:composer/google/cloud-storagebatchoperations@v0.4.0
 - pkg:composer/google/cloud-storagebatchoperations@v0.5.0
+- pkg:composer/google/cloud-storagebatchoperations@v0.6.0

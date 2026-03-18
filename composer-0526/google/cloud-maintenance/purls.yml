@@ -3,3 +3,4 @@
 - pkg:composer/google/cloud-maintenance@v0.2.1
 - pkg:composer/google/cloud-maintenance@v0.3.0
 - pkg:composer/google/cloud-maintenance@v0.3.2
+- pkg:composer/google/cloud-maintenance@v0.4.0
