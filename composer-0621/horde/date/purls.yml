@@ -16,3 +16,4 @@
 - pkg:composer/horde/date@v3.0.0alpha3
 - pkg:composer/horde/date@v3.0.0alpha4
 - pkg:composer/horde/date@v3.0.0alpha6
+- pkg:composer/horde/date@v3.0.0beta1

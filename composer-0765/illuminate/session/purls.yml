@@ -207,7 +207,9 @@
 - pkg:composer/illuminate/session@v11.46.1
 - pkg:composer/illuminate/session@v11.46.2
 - pkg:composer/illuminate/session@v11.47.0
+- pkg:composer/illuminate/session@v11.49.0
 - pkg:composer/illuminate/session@v11.5.0
+- pkg:composer/illuminate/session@v11.50.0
 - pkg:composer/illuminate/session@v11.6.0
 - pkg:composer/illuminate/session@v11.7.0
 - pkg:composer/illuminate/session@v11.8.0
@@ -300,6 +302,7 @@
 - pkg:composer/illuminate/session@v12.53.0
 - pkg:composer/illuminate/session@v12.54.0
 - pkg:composer/illuminate/session@v12.54.1
+- pkg:composer/illuminate/session@v12.55.0
 - pkg:composer/illuminate/session@v12.6.0
 - pkg:composer/illuminate/session@v12.7.0
 - pkg:composer/illuminate/session@v12.7.1
@@ -309,6 +312,7 @@
 - pkg:composer/illuminate/session@v12.9.0
 - pkg:composer/illuminate/session@v12.9.1
 - pkg:composer/illuminate/session@v12.9.2
+- pkg:composer/illuminate/session@v13.0.0
 - pkg:composer/illuminate/session@v4.0.0
 - pkg:composer/illuminate/session@v4.0.0-BETA2
 - pkg:composer/illuminate/session@v4.0.0-BETA3
