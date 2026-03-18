@@ -1,3 +1,4 @@
 - pkg:composer/cline/strongly-typed-id@1.5.0
 - pkg:composer/cline/strongly-typed-id@2.0.0
 - pkg:composer/cline/strongly-typed-id@2.0.1
+- pkg:composer/cline/strongly-typed-id@2.0.2
