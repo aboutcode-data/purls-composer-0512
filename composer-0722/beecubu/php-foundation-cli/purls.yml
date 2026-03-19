@@ -8,3 +8,6 @@
 - pkg:composer/beecubu/php-foundation-cli@v1.5.0
 - pkg:composer/beecubu/php-foundation-cli@v1.6.0
 - pkg:composer/beecubu/php-foundation-cli@v1.6.1
+- pkg:composer/beecubu/php-foundation-cli@v1.6.2
+- pkg:composer/beecubu/php-foundation-cli@v1.6.2.1
+- pkg:composer/beecubu/php-foundation-cli@v1.6.3
