@@ -294,3 +294,4 @@
 - pkg:composer/netflex/customers@v6.2.3
 - pkg:composer/netflex/customers@v6.3.0
 - pkg:composer/netflex/customers@v6.3.1
+- pkg:composer/netflex/customers@v6.4.0

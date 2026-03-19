@@ -46,6 +46,8 @@
 - pkg:composer/notfoundnl/siteboss-framework@v0.23.4
 - pkg:composer/notfoundnl/siteboss-framework@v0.23.5
 - pkg:composer/notfoundnl/siteboss-framework@v0.23.6
+- pkg:composer/notfoundnl/siteboss-framework@v0.23.7
+- pkg:composer/notfoundnl/siteboss-framework@v0.23.8
 - pkg:composer/notfoundnl/siteboss-framework@v0.3.0
 - pkg:composer/notfoundnl/siteboss-framework@v0.3.1
 - pkg:composer/notfoundnl/siteboss-framework@v0.4.0
