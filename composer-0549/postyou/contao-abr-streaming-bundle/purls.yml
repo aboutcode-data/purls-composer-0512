@@ -12,3 +12,5 @@
 - pkg:composer/postyou/contao-abr-streaming-bundle@v1.1.0-RC1
 - pkg:composer/postyou/contao-abr-streaming-bundle@v1.2.0
 - pkg:composer/postyou/contao-abr-streaming-bundle@v1.2.1
+- pkg:composer/postyou/contao-abr-streaming-bundle@v2.4.1
+- pkg:composer/postyou/contao-abr-streaming-bundle@v2.4.2
