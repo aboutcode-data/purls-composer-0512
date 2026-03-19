@@ -2,3 +2,4 @@
 - pkg:composer/ksefapi/client@1.2.4
 - pkg:composer/ksefapi/client@2.0.1
 - pkg:composer/ksefapi/client@2.0.2
+- pkg:composer/ksefapi/client@2.0.3

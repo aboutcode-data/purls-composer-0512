@@ -1,1 +1,2 @@
 - pkg:composer/koel/dotenv-editor@v2.2.0
+- pkg:composer/koel/dotenv-editor@v3.0.0

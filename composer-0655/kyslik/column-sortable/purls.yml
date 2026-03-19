@@ -89,3 +89,4 @@
 - pkg:composer/kyslik/column-sortable@6.5.0
 - pkg:composer/kyslik/column-sortable@6.6.0
 - pkg:composer/kyslik/column-sortable@7.0.0
+- pkg:composer/kyslik/column-sortable@8.0.0

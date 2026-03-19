@@ -19,6 +19,7 @@
 - pkg:composer/laravel-lang/status-generator@2.13.6
 - pkg:composer/laravel-lang/status-generator@2.13.7
 - pkg:composer/laravel-lang/status-generator@2.13.8
+- pkg:composer/laravel-lang/status-generator@2.14.0
 - pkg:composer/laravel-lang/status-generator@2.2.0
 - pkg:composer/laravel-lang/status-generator@2.2.1
 - pkg:composer/laravel-lang/status-generator@2.3.0

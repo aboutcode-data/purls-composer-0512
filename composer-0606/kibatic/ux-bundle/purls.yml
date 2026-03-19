@@ -8,6 +8,9 @@
 - pkg:composer/kibatic/ux-bundle@v0.12.1
 - pkg:composer/kibatic/ux-bundle@v0.13.0
 - pkg:composer/kibatic/ux-bundle@v0.13.1
+- pkg:composer/kibatic/ux-bundle@v0.13.2
+- pkg:composer/kibatic/ux-bundle@v0.13.3
+- pkg:composer/kibatic/ux-bundle@v0.13.4
 - pkg:composer/kibatic/ux-bundle@v0.6.4
 - pkg:composer/kibatic/ux-bundle@v0.6.5
 - pkg:composer/kibatic/ux-bundle@v0.6.6
