@@ -13,6 +13,7 @@
 - pkg:composer/effectiveactivism/sparql-client@11.0.1
 - pkg:composer/effectiveactivism/sparql-client@12.0.0
 - pkg:composer/effectiveactivism/sparql-client@13.0.0
+- pkg:composer/effectiveactivism/sparql-client@14.0.0
 - pkg:composer/effectiveactivism/sparql-client@2.0.0
 - pkg:composer/effectiveactivism/sparql-client@2.1.0
 - pkg:composer/effectiveactivism/sparql-client@3.0.0
