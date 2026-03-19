@@ -6,3 +6,4 @@
 - pkg:composer/sledgehammer/mvc@16.05.0
 - pkg:composer/sledgehammer/mvc@18.04.0
 - pkg:composer/sledgehammer/mvc@18.08.0
+- pkg:composer/sledgehammer/mvc@26.03.0

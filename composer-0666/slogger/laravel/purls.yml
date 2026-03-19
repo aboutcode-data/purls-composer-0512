@@ -14,3 +14,8 @@
 - pkg:composer/slogger/laravel@v0.1.0
 - pkg:composer/slogger/laravel@v0.1.1
 - pkg:composer/slogger/laravel@v1.0.0
+- pkg:composer/slogger/laravel@v1.0.1
+- pkg:composer/slogger/laravel@v1.0.2
+- pkg:composer/slogger/laravel@v1.0.3
+- pkg:composer/slogger/laravel@v1.0.4
+- pkg:composer/slogger/laravel@v1.0.5

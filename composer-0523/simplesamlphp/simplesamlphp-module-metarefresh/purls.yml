@@ -27,3 +27,4 @@
 - pkg:composer/simplesamlphp/simplesamlphp-module-metarefresh@v1.2.5
 - pkg:composer/simplesamlphp/simplesamlphp-module-metarefresh@v1.2.6
 - pkg:composer/simplesamlphp/simplesamlphp-module-metarefresh@v1.3.0
+- pkg:composer/simplesamlphp/simplesamlphp-module-metarefresh@v1.3.1

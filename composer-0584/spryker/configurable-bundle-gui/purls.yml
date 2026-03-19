@@ -13,3 +13,4 @@
 - pkg:composer/spryker/configurable-bundle-gui@2.0.1
 - pkg:composer/spryker/configurable-bundle-gui@2.0.2
 - pkg:composer/spryker/configurable-bundle-gui@2.0.3
+- pkg:composer/spryker/configurable-bundle-gui@2.1.0

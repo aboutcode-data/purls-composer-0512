@@ -2,6 +2,7 @@
 - pkg:composer/spryker/merchant-relationship-sales-order-threshold-gui@1.0.1
 - pkg:composer/spryker/merchant-relationship-sales-order-threshold-gui@1.1.0
 - pkg:composer/spryker/merchant-relationship-sales-order-threshold-gui@1.10.0
+- pkg:composer/spryker/merchant-relationship-sales-order-threshold-gui@1.11.0
 - pkg:composer/spryker/merchant-relationship-sales-order-threshold-gui@1.2.0
 - pkg:composer/spryker/merchant-relationship-sales-order-threshold-gui@1.2.1
 - pkg:composer/spryker/merchant-relationship-sales-order-threshold-gui@1.2.2

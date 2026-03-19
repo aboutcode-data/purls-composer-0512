@@ -72,3 +72,4 @@
 - pkg:composer/siza/database@2.0.9
 - pkg:composer/siza/database@3.0.0
 - pkg:composer/siza/database@3.0.1
+- pkg:composer/siza/database@3.0.2

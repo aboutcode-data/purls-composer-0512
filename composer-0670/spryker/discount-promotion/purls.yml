@@ -33,6 +33,7 @@
 - pkg:composer/spryker/discount-promotion@4.14.0
 - pkg:composer/spryker/discount-promotion@4.15.0
 - pkg:composer/spryker/discount-promotion@4.15.1
+- pkg:composer/spryker/discount-promotion@4.16.0
 - pkg:composer/spryker/discount-promotion@4.2.0
 - pkg:composer/spryker/discount-promotion@4.2.1
 - pkg:composer/spryker/discount-promotion@4.2.2

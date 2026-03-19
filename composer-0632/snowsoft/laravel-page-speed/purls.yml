@@ -27,6 +27,8 @@
 - pkg:composer/snowsoft/laravel-page-speed@1.8.8
 - pkg:composer/snowsoft/laravel-page-speed@1.8.9
 - pkg:composer/snowsoft/laravel-page-speed@1.9.0
+- pkg:composer/snowsoft/laravel-page-speed@2.0.0
 - pkg:composer/snowsoft/laravel-page-speed@2.0.1
 - pkg:composer/snowsoft/laravel-page-speed@v2.00
 - pkg:composer/snowsoft/laravel-page-speed@v3.00
+- pkg:composer/snowsoft/laravel-page-speed@v4.00
