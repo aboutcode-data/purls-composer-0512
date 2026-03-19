@@ -3,6 +3,8 @@
 - pkg:composer/orchestra/testbench-core@v10.0.2
 - pkg:composer/orchestra/testbench-core@v10.0.3
 - pkg:composer/orchestra/testbench-core@v10.1.0
+- pkg:composer/orchestra/testbench-core@v10.10.0
+- pkg:composer/orchestra/testbench-core@v10.11.0
 - pkg:composer/orchestra/testbench-core@v10.2.0
 - pkg:composer/orchestra/testbench-core@v10.2.1
 - pkg:composer/orchestra/testbench-core@v10.2.2
@@ -21,6 +23,8 @@
 - pkg:composer/orchestra/testbench-core@v10.8.1
 - pkg:composer/orchestra/testbench-core@v10.8.2
 - pkg:composer/orchestra/testbench-core@v10.9.0
+- pkg:composer/orchestra/testbench-core@v11.0.0
+- pkg:composer/orchestra/testbench-core@v11.0.1
 - pkg:composer/orchestra/testbench-core@v3.4.0
 - pkg:composer/orchestra/testbench-core@v3.4.1
 - pkg:composer/orchestra/testbench-core@v3.4.2
@@ -362,6 +366,8 @@
 - pkg:composer/orchestra/testbench-core@v7.59.0
 - pkg:composer/orchestra/testbench-core@v7.6.0
 - pkg:composer/orchestra/testbench-core@v7.6.1
+- pkg:composer/orchestra/testbench-core@v7.60.0
+- pkg:composer/orchestra/testbench-core@v7.60.1
 - pkg:composer/orchestra/testbench-core@v7.7.0
 - pkg:composer/orchestra/testbench-core@v7.7.1
 - pkg:composer/orchestra/testbench-core@v7.8.0
@@ -456,6 +462,8 @@
 - pkg:composer/orchestra/testbench-core@v8.4.1
 - pkg:composer/orchestra/testbench-core@v8.4.2
 - pkg:composer/orchestra/testbench-core@v8.40.0
+- pkg:composer/orchestra/testbench-core@v8.41.0
+- pkg:composer/orchestra/testbench-core@v8.41.1
 - pkg:composer/orchestra/testbench-core@v8.5.0
 - pkg:composer/orchestra/testbench-core@v8.5.1
 - pkg:composer/orchestra/testbench-core@v8.5.2
@@ -524,10 +532,12 @@
 - pkg:composer/orchestra/testbench-core@v9.17.0
 - pkg:composer/orchestra/testbench-core@v9.18.0
 - pkg:composer/orchestra/testbench-core@v9.18.1
+- pkg:composer/orchestra/testbench-core@v9.19.0
 - pkg:composer/orchestra/testbench-core@v9.2.0
 - pkg:composer/orchestra/testbench-core@v9.2.1
 - pkg:composer/orchestra/testbench-core@v9.2.2
 - pkg:composer/orchestra/testbench-core@v9.2.3
+- pkg:composer/orchestra/testbench-core@v9.20.0
 - pkg:composer/orchestra/testbench-core@v9.3.0
 - pkg:composer/orchestra/testbench-core@v9.4.0
 - pkg:composer/orchestra/testbench-core@v9.4.1

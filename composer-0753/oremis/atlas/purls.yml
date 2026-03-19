@@ -1,3 +1,4 @@
 - pkg:composer/oremis/atlas@1.2
 - pkg:composer/oremis/atlas@1.3
 - pkg:composer/oremis/atlas@v1.0.0
+- pkg:composer/oremis/atlas@v1.4.0
