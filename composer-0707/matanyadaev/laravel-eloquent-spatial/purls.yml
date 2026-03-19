@@ -39,3 +39,4 @@
 - pkg:composer/matanyadaev/laravel-eloquent-spatial@4.5.0
 - pkg:composer/matanyadaev/laravel-eloquent-spatial@4.6.0
 - pkg:composer/matanyadaev/laravel-eloquent-spatial@4.6.1
+- pkg:composer/matanyadaev/laravel-eloquent-spatial@4.7.0
