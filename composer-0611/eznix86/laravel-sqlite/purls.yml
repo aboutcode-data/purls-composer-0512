@@ -1,2 +1,3 @@
 - pkg:composer/eznix86/laravel-sqlite@v0.1.0
 - pkg:composer/eznix86/laravel-sqlite@v1.0.0
+- pkg:composer/eznix86/laravel-sqlite@v2.0.0

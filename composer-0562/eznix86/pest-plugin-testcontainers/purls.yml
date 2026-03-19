@@ -7,3 +7,4 @@
 - pkg:composer/eznix86/pest-plugin-testcontainers@v1.3.0
 - pkg:composer/eznix86/pest-plugin-testcontainers@v1.4.0
 - pkg:composer/eznix86/pest-plugin-testcontainers@v1.5.0
+- pkg:composer/eznix86/pest-plugin-testcontainers@v2.0.0
