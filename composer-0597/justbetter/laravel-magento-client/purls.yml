@@ -23,3 +23,4 @@
 - pkg:composer/justbetter/laravel-magento-client@2.6.0
 - pkg:composer/justbetter/laravel-magento-client@2.6.1
 - pkg:composer/justbetter/laravel-magento-client@2.7.0
+- pkg:composer/justbetter/laravel-magento-client@2.8.0
