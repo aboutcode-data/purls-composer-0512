@@ -14,3 +14,4 @@
 - pkg:composer/esign/laravel-conversions-api@2.5.0
 - pkg:composer/esign/laravel-conversions-api@2.6.0
 - pkg:composer/esign/laravel-conversions-api@2.7.0
+- pkg:composer/esign/laravel-conversions-api@2.8.0

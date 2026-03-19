@@ -6,3 +6,7 @@
 - pkg:composer/foundation/proton@v0.5.0
 - pkg:composer/foundation/proton@v0.6.0
 - pkg:composer/foundation/proton@v0.6.1
+- pkg:composer/foundation/proton@v0.7.0
+- pkg:composer/foundation/proton@v0.7.1
+- pkg:composer/foundation/proton@v0.7.2
+- pkg:composer/foundation/proton@v0.7.3

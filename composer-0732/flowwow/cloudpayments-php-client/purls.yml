@@ -27,6 +27,7 @@
 - pkg:composer/flowwow/cloudpayments-php-client@3.0.13
 - pkg:composer/flowwow/cloudpayments-php-client@3.0.14
 - pkg:composer/flowwow/cloudpayments-php-client@3.0.15
+- pkg:composer/flowwow/cloudpayments-php-client@3.0.16
 - pkg:composer/flowwow/cloudpayments-php-client@3.0.2
 - pkg:composer/flowwow/cloudpayments-php-client@3.0.3
 - pkg:composer/flowwow/cloudpayments-php-client@3.0.4
