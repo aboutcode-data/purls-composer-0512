@@ -21,6 +21,7 @@
 - pkg:composer/highsolutions/laravel-translation-manager@1.1.0
 - pkg:composer/highsolutions/laravel-translation-manager@1.2.1
 - pkg:composer/highsolutions/laravel-translation-manager@1.4.0
+- pkg:composer/highsolutions/laravel-translation-manager@1.5.0
 - pkg:composer/highsolutions/laravel-translation-manager@v0.1.0
 - pkg:composer/highsolutions/laravel-translation-manager@v0.1.1
 - pkg:composer/highsolutions/laravel-translation-manager@v0.1.2

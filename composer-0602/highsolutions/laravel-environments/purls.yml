@@ -12,3 +12,4 @@
 - pkg:composer/highsolutions/laravel-environments@3.4.0
 - pkg:composer/highsolutions/laravel-environments@3.5.1
 - pkg:composer/highsolutions/laravel-environments@3.6.0
+- pkg:composer/highsolutions/laravel-environments@3.7.0
