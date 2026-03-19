@@ -8,6 +8,7 @@
 - pkg:composer/moonshine/support@3.13.1
 - pkg:composer/moonshine/support@3.16.1
 - pkg:composer/moonshine/support@3.16.4
+- pkg:composer/moonshine/support@3.18.0
 - pkg:composer/moonshine/support@3.2.0
 - pkg:composer/moonshine/support@3.3.0
 - pkg:composer/moonshine/support@3.4.0
@@ -22,3 +23,4 @@
 - pkg:composer/moonshine/support@4.3.0
 - pkg:composer/moonshine/support@4.4.0
 - pkg:composer/moonshine/support@4.8.0
+- pkg:composer/moonshine/support@4.9.0
