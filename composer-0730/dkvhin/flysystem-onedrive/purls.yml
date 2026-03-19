@@ -17,6 +17,7 @@
 - pkg:composer/dkvhin/flysystem-onedrive@v11.2.1
 - pkg:composer/dkvhin/flysystem-onedrive@v11.2.3
 - pkg:composer/dkvhin/flysystem-onedrive@v12.0.0
+- pkg:composer/dkvhin/flysystem-onedrive@v13.0.0
 - pkg:composer/dkvhin/flysystem-onedrive@v5.8.0
 - pkg:composer/dkvhin/flysystem-onedrive@v5.8.1
 - pkg:composer/dkvhin/flysystem-onedrive@v5.8.10
