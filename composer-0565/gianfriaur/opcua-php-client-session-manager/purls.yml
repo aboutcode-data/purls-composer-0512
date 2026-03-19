@@ -1,1 +1,2 @@
 - pkg:composer/gianfriaur/opcua-php-client-session-manager@v1.0.1
+- pkg:composer/gianfriaur/opcua-php-client-session-manager@v1.1.0

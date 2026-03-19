@@ -21,3 +21,5 @@
 - pkg:composer/goedemiddag/webauthn-fork@v4.3.2
 - pkg:composer/goedemiddag/webauthn-fork@v4.3.3
 - pkg:composer/goedemiddag/webauthn-fork@v4.3.4
+- pkg:composer/goedemiddag/webauthn-fork@v5.0.0
+- pkg:composer/goedemiddag/webauthn-fork@v5.1.0
