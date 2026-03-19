@@ -1,4 +1,7 @@
 - pkg:composer/juzaweb/laravel-translation-loader@2.0.3
+- pkg:composer/juzaweb/laravel-translation-loader@2.0.4
+- pkg:composer/juzaweb/laravel-translation-loader@2.0.5
+- pkg:composer/juzaweb/laravel-translation-loader@2.0.6
 - pkg:composer/juzaweb/laravel-translation-loader@v1.0
 - pkg:composer/juzaweb/laravel-translation-loader@v1.0.1
 - pkg:composer/juzaweb/laravel-translation-loader@v2.0

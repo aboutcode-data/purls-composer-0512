@@ -1,4 +1,5 @@
 - pkg:composer/jurager/tracker@3.0.0
+- pkg:composer/jurager/tracker@3.0.1
 - pkg:composer/jurager/tracker@v1.0
 - pkg:composer/jurager/tracker@v1.1
 - pkg:composer/jurager/tracker@v1.2
