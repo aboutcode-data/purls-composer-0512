@@ -1,3 +1,4 @@
+- pkg:composer/rstacode/otpiq@2.1.1
 - pkg:composer/rstacode/otpiq@v1.0.0
 - pkg:composer/rstacode/otpiq@v1.0.1
 - pkg:composer/rstacode/otpiq@v1.0.2
