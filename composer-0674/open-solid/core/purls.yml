@@ -1,3 +1,6 @@
 - pkg:composer/open-solid/core@v0.1.0
 - pkg:composer/open-solid/core@v0.2.0
 - pkg:composer/open-solid/core@v0.2.1
+- pkg:composer/open-solid/core@v0.2.2
+- pkg:composer/open-solid/core@v0.2.3
+- pkg:composer/open-solid/core@v0.2.4

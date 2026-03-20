@@ -34,6 +34,7 @@
 - pkg:composer/pantheon-systems/terminus-repository-plugin@0.2.32
 - pkg:composer/pantheon-systems/terminus-repository-plugin@0.2.33
 - pkg:composer/pantheon-systems/terminus-repository-plugin@0.2.34
+- pkg:composer/pantheon-systems/terminus-repository-plugin@0.2.35
 - pkg:composer/pantheon-systems/terminus-repository-plugin@0.2.4
 - pkg:composer/pantheon-systems/terminus-repository-plugin@0.2.5
 - pkg:composer/pantheon-systems/terminus-repository-plugin@0.2.6
