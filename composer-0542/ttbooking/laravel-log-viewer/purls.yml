@@ -2,3 +2,4 @@
 - pkg:composer/ttbooking/laravel-log-viewer@v2.5.0
 - pkg:composer/ttbooking/laravel-log-viewer@v2.5.1
 - pkg:composer/ttbooking/laravel-log-viewer@v2.5.2
+- pkg:composer/ttbooking/laravel-log-viewer@v2.6.0

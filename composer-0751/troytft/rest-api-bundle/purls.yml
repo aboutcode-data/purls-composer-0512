@@ -95,6 +95,7 @@
 - pkg:composer/troytft/rest-api-bundle@v0.37.0
 - pkg:composer/troytft/rest-api-bundle@v0.37.1
 - pkg:composer/troytft/rest-api-bundle@v0.37.2
+- pkg:composer/troytft/rest-api-bundle@v0.37.3
 - pkg:composer/troytft/rest-api-bundle@v0.6.0
 - pkg:composer/troytft/rest-api-bundle@v0.6.1
 - pkg:composer/troytft/rest-api-bundle@v0.6.2

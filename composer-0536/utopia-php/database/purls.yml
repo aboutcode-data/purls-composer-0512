@@ -357,6 +357,8 @@
 - pkg:composer/utopia-php/database@5.3.13
 - pkg:composer/utopia-php/database@5.3.14
 - pkg:composer/utopia-php/database@5.3.15
+- pkg:composer/utopia-php/database@5.3.16
+- pkg:composer/utopia-php/database@5.3.17
 - pkg:composer/utopia-php/database@5.3.2
 - pkg:composer/utopia-php/database@5.3.3
 - pkg:composer/utopia-php/database@5.3.4
