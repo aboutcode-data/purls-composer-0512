@@ -5,3 +5,4 @@
 - pkg:composer/marcorieser/tailwind-merge-statamic@v1.0.0
 - pkg:composer/marcorieser/tailwind-merge-statamic@v1.1.0
 - pkg:composer/marcorieser/tailwind-merge-statamic@v1.2.0
+- pkg:composer/marcorieser/tailwind-merge-statamic@v2.0.0
