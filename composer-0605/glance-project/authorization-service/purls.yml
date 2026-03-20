@@ -45,3 +45,4 @@
 - pkg:composer/glance-project/authorization-service@v2.7.0
 - pkg:composer/glance-project/authorization-service@v2.8.0
 - pkg:composer/glance-project/authorization-service@v2.9.0
+- pkg:composer/glance-project/authorization-service@v2.9.1
