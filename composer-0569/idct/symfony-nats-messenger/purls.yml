@@ -6,3 +6,4 @@
 - pkg:composer/idct/symfony-nats-messenger@v3.0.0
 - pkg:composer/idct/symfony-nats-messenger@v3.1.0
 - pkg:composer/idct/symfony-nats-messenger@v3.2.0
+- pkg:composer/idct/symfony-nats-messenger@v4.0.0

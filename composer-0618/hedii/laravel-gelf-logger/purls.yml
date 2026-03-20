@@ -9,6 +9,7 @@
 - pkg:composer/hedii/laravel-gelf-logger@1.1.1
 - pkg:composer/hedii/laravel-gelf-logger@10.0.0
 - pkg:composer/hedii/laravel-gelf-logger@10.1.0
+- pkg:composer/hedii/laravel-gelf-logger@13.0.0
 - pkg:composer/hedii/laravel-gelf-logger@2.0.0
 - pkg:composer/hedii/laravel-gelf-logger@2.0.1
 - pkg:composer/hedii/laravel-gelf-logger@2.1.0
