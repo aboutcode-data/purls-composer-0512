@@ -62,3 +62,4 @@
 - pkg:composer/nova-kit/nova-packages-tool@v2.0.1
 - pkg:composer/nova-kit/nova-packages-tool@v2.0.2
 - pkg:composer/nova-kit/nova-packages-tool@v2.0.3
+- pkg:composer/nova-kit/nova-packages-tool@v2.0.4
