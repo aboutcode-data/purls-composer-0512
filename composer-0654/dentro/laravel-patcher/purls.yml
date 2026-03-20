@@ -9,3 +9,4 @@
 - pkg:composer/dentro/laravel-patcher@v1.4.1
 - pkg:composer/dentro/laravel-patcher@v1.4.2
 - pkg:composer/dentro/laravel-patcher@v1.4.3
+- pkg:composer/dentro/laravel-patcher@v1.5.0
