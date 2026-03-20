@@ -1,5 +1,8 @@
 - pkg:composer/flynn314/matrix-client@0.1.0
 - pkg:composer/flynn314/matrix-client@0.1.1
+- pkg:composer/flynn314/matrix-client@0.10.0
+- pkg:composer/flynn314/matrix-client@0.10.1
+- pkg:composer/flynn314/matrix-client@0.10.2
 - pkg:composer/flynn314/matrix-client@0.2.0
 - pkg:composer/flynn314/matrix-client@0.2.1
 - pkg:composer/flynn314/matrix-client@0.3.0
