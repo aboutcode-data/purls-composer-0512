@@ -55,6 +55,7 @@
 - pkg:composer/stancl/tenancy@v3.1.5
 - pkg:composer/stancl/tenancy@v3.1.6
 - pkg:composer/stancl/tenancy@v3.1.7
+- pkg:composer/stancl/tenancy@v3.10.0
 - pkg:composer/stancl/tenancy@v3.2.0
 - pkg:composer/stancl/tenancy@v3.2.1
 - pkg:composer/stancl/tenancy@v3.3.0

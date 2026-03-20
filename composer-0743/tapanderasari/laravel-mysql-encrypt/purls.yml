@@ -8,3 +8,4 @@
 - pkg:composer/tapanderasari/laravel-mysql-encrypt@v1.0.7
 - pkg:composer/tapanderasari/laravel-mysql-encrypt@v1.0.8
 - pkg:composer/tapanderasari/laravel-mysql-encrypt@v1.0.9
+- pkg:composer/tapanderasari/laravel-mysql-encrypt@v3.0.0
