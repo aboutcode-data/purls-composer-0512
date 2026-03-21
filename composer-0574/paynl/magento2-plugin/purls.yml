@@ -100,6 +100,7 @@
 - pkg:composer/paynl/magento2-plugin@3.17.4
 - pkg:composer/paynl/magento2-plugin@3.17.5
 - pkg:composer/paynl/magento2-plugin@3.17.6
+- pkg:composer/paynl/magento2-plugin@3.17.7
 - pkg:composer/paynl/magento2-plugin@3.2.0
 - pkg:composer/paynl/magento2-plugin@3.3.0
 - pkg:composer/paynl/magento2-plugin@3.3.1
