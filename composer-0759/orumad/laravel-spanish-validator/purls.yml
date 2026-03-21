@@ -9,3 +9,4 @@
 - pkg:composer/orumad/laravel-spanish-validator@1.3.0
 - pkg:composer/orumad/laravel-spanish-validator@1.4.0
 - pkg:composer/orumad/laravel-spanish-validator@1.4.5
+- pkg:composer/orumad/laravel-spanish-validator@2.0.0
