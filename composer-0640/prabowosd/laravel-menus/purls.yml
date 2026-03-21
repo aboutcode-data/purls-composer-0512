@@ -1,1 +1,8 @@
 - pkg:composer/prabowosd/laravel-menus@v1.1.0
+- pkg:composer/prabowosd/laravel-menus@v10.0.0
+- pkg:composer/prabowosd/laravel-menus@v11.0.0
+- pkg:composer/prabowosd/laravel-menus@v12.0.0
+- pkg:composer/prabowosd/laravel-menus@v13.0.0
+- pkg:composer/prabowosd/laravel-menus@v2.0.0
+- pkg:composer/prabowosd/laravel-menus@v8.0.0
+- pkg:composer/prabowosd/laravel-menus@v9.0.0

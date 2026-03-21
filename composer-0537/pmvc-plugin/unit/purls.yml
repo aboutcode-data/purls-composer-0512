@@ -4,3 +4,4 @@
 - pkg:composer/pmvc-plugin/unit@0.3.0
 - pkg:composer/pmvc-plugin/unit@0.4.5
 - pkg:composer/pmvc-plugin/unit@0.4.6
+- pkg:composer/pmvc-plugin/unit@0.5.0
