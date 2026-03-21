@@ -15,7 +15,13 @@
 - pkg:composer/savionicodemos/laravel-auto-swagger@v1.1.9
 - pkg:composer/savionicodemos/laravel-auto-swagger@v2.0.0
 - pkg:composer/savionicodemos/laravel-auto-swagger@v2.0.1
+- pkg:composer/savionicodemos/laravel-auto-swagger@v2.0.10
+- pkg:composer/savionicodemos/laravel-auto-swagger@v2.0.11
 - pkg:composer/savionicodemos/laravel-auto-swagger@v2.0.2
 - pkg:composer/savionicodemos/laravel-auto-swagger@v2.0.3
 - pkg:composer/savionicodemos/laravel-auto-swagger@v2.0.4
 - pkg:composer/savionicodemos/laravel-auto-swagger@v2.0.5
+- pkg:composer/savionicodemos/laravel-auto-swagger@v2.0.6
+- pkg:composer/savionicodemos/laravel-auto-swagger@v2.0.7
+- pkg:composer/savionicodemos/laravel-auto-swagger@v2.0.8
+- pkg:composer/savionicodemos/laravel-auto-swagger@v2.0.9

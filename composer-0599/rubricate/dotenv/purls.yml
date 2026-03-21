@@ -1,3 +1,4 @@
 - pkg:composer/rubricate/dotenv@v1.0.0
 - pkg:composer/rubricate/dotenv@v2.2.0
 - pkg:composer/rubricate/dotenv@v3.0.0
+- pkg:composer/rubricate/dotenv@v3.0.1
