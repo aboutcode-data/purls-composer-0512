@@ -2,3 +2,4 @@
 - pkg:composer/micro/plugin-http-boot@v1.0
 - pkg:composer/micro/plugin-http-boot@v1.6.0
 - pkg:composer/micro/plugin-http-boot@v1.6.1
+- pkg:composer/micro/plugin-http-boot@v2.0.0-alpha1
