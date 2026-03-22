@@ -11,3 +11,4 @@
 - pkg:composer/lwplugins/lw-firewall@v1.1.9
 - pkg:composer/lwplugins/lw-firewall@v1.2.0
 - pkg:composer/lwplugins/lw-firewall@v1.2.1
+- pkg:composer/lwplugins/lw-firewall@v1.2.2
