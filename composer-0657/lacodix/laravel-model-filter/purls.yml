@@ -80,3 +80,4 @@
 - pkg:composer/lacodix/laravel-model-filter@v4.0.0
 - pkg:composer/lacodix/laravel-model-filter@v4.0.1
 - pkg:composer/lacodix/laravel-model-filter@v4.0.2
+- pkg:composer/lacodix/laravel-model-filter@v4.1.0
