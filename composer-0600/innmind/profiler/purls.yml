@@ -12,3 +12,4 @@
 - pkg:composer/innmind/profiler@3.1.0
 - pkg:composer/innmind/profiler@4.0.0
 - pkg:composer/innmind/profiler@4.1.0
+- pkg:composer/innmind/profiler@5.0.0
