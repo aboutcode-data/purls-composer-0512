@@ -15,3 +15,4 @@
 - pkg:composer/vdhicts/laravel-validation-rules@v7.0.0
 - pkg:composer/vdhicts/laravel-validation-rules@v8.0.0
 - pkg:composer/vdhicts/laravel-validation-rules@v8.1.0
+- pkg:composer/vdhicts/laravel-validation-rules@v9.0.0

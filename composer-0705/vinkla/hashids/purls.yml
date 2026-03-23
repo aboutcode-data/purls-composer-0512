@@ -5,6 +5,7 @@
 - pkg:composer/vinkla/hashids@11.0.0
 - pkg:composer/vinkla/hashids@12.0.0
 - pkg:composer/vinkla/hashids@13.0.0
+- pkg:composer/vinkla/hashids@14.0.0
 - pkg:composer/vinkla/hashids@2.0.0
 - pkg:composer/vinkla/hashids@2.0.1
 - pkg:composer/vinkla/hashids@2.1.0

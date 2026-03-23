@@ -1,3 +1,4 @@
 - pkg:composer/wamesk/laravel-nova@4.0.0
 - pkg:composer/wamesk/laravel-nova@5.0.0
 - pkg:composer/wamesk/laravel-nova@5.0.1
+- pkg:composer/wamesk/laravel-nova@5.1.0
