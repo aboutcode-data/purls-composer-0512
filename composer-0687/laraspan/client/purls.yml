@@ -27,3 +27,4 @@
 - pkg:composer/laraspan/client@v2.1.3
 - pkg:composer/laraspan/client@v2.2.0
 - pkg:composer/laraspan/client@v2.3.0
+- pkg:composer/laraspan/client@v3.0.0
