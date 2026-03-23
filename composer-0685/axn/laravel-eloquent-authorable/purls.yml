@@ -21,3 +21,4 @@
 - pkg:composer/axn/laravel-eloquent-authorable@6.2.0
 - pkg:composer/axn/laravel-eloquent-authorable@6.3.0
 - pkg:composer/axn/laravel-eloquent-authorable@7.0.0
+- pkg:composer/axn/laravel-eloquent-authorable@7.1.0
