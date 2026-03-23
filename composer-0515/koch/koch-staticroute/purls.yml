@@ -1,0 +1,4 @@
+- pkg:composer/koch/koch-staticroute@12.4.0
+- pkg:composer/koch/koch-staticroute@12.4.1
+- pkg:composer/koch/koch-staticroute@13.4.0
+- pkg:composer/koch/koch-staticroute@13.4.1

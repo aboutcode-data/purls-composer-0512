@@ -20,6 +20,8 @@
 - pkg:composer/koramit/laravel-line-bot@v0.5.25
 - pkg:composer/koramit/laravel-line-bot@v0.5.26
 - pkg:composer/koramit/laravel-line-bot@v0.5.27
+- pkg:composer/koramit/laravel-line-bot@v0.5.28
+- pkg:composer/koramit/laravel-line-bot@v0.5.29
 - pkg:composer/koramit/laravel-line-bot@v0.5.3
 - pkg:composer/koramit/laravel-line-bot@v0.5.4
 - pkg:composer/koramit/laravel-line-bot@v0.5.5
