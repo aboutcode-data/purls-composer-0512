@@ -29,6 +29,10 @@
 - pkg:composer/codebar-ag/laravel-docuware@v12.0
 - pkg:composer/codebar-ag/laravel-docuware@v12.0.1
 - pkg:composer/codebar-ag/laravel-docuware@v12.1.0
+- pkg:composer/codebar-ag/laravel-docuware@v12.10.0
+- pkg:composer/codebar-ag/laravel-docuware@v12.11.0
+- pkg:composer/codebar-ag/laravel-docuware@v12.12.0
+- pkg:composer/codebar-ag/laravel-docuware@v12.13.0
 - pkg:composer/codebar-ag/laravel-docuware@v12.2.0
 - pkg:composer/codebar-ag/laravel-docuware@v12.3.0
 - pkg:composer/codebar-ag/laravel-docuware@v12.4.0
