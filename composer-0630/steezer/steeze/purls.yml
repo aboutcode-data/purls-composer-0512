@@ -12,3 +12,5 @@
 - pkg:composer/steezer/steeze@v1.3.6.5
 - pkg:composer/steezer/steeze@v1.3.6.6
 - pkg:composer/steezer/steeze@v1.3.7
+- pkg:composer/steezer/steeze@v1.3.7.1
+- pkg:composer/steezer/steeze@v1.3.8
