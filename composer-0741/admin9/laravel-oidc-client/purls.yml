@@ -1,4 +1,7 @@
+- pkg:composer/admin9/laravel-oidc-client@v1.0.0
+- pkg:composer/admin9/laravel-oidc-client@v1.0.1
 - pkg:composer/admin9/laravel-oidc-client@v1.0.3
 - pkg:composer/admin9/laravel-oidc-client@v1.1.0
 - pkg:composer/admin9/laravel-oidc-client@v2.0.0
 - pkg:composer/admin9/laravel-oidc-client@v2.1.0
+- pkg:composer/admin9/laravel-oidc-client@v2.1.1

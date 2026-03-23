@@ -151,3 +151,4 @@
 - pkg:composer/aimeos/ai-controller-frontend@2025.07.1
 - pkg:composer/aimeos/ai-controller-frontend@2025.10.1
 - pkg:composer/aimeos/ai-controller-frontend@2025.10.2
+- pkg:composer/aimeos/ai-controller-frontend@2025.10.3
