@@ -1,4 +1,5 @@
 - pkg:composer/sbine/nova-route-viewer@0.0.1
+- pkg:composer/sbine/nova-route-viewer@0.0.10
 - pkg:composer/sbine/nova-route-viewer@0.0.2
 - pkg:composer/sbine/nova-route-viewer@0.0.3
 - pkg:composer/sbine/nova-route-viewer@0.0.4
