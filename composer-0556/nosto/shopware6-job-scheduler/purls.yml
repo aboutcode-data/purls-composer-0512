@@ -1,5 +1,7 @@
 - pkg:composer/nosto/shopware6-job-scheduler@2.0.1
 - pkg:composer/nosto/shopware6-job-scheduler@2.0.10
+- pkg:composer/nosto/shopware6-job-scheduler@2.0.11
+- pkg:composer/nosto/shopware6-job-scheduler@2.0.12
 - pkg:composer/nosto/shopware6-job-scheduler@2.0.3
 - pkg:composer/nosto/shopware6-job-scheduler@2.0.4
 - pkg:composer/nosto/shopware6-job-scheduler@2.0.7
