@@ -16,3 +16,4 @@
 - pkg:composer/beyondcode/laravel-er-diagram-generator@3.0.0
 - pkg:composer/beyondcode/laravel-er-diagram-generator@4.0.0
 - pkg:composer/beyondcode/laravel-er-diagram-generator@5.0.0
+- pkg:composer/beyondcode/laravel-er-diagram-generator@6.0.0

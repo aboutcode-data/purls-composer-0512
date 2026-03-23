@@ -13,6 +13,7 @@
 - pkg:composer/binary-cats/sanitizer@1.0.8
 - pkg:composer/binary-cats/sanitizer@1.0.9
 - pkg:composer/binary-cats/sanitizer@12.0.0
+- pkg:composer/binary-cats/sanitizer@13.0.0
 - pkg:composer/binary-cats/sanitizer@8.0.0
 - pkg:composer/binary-cats/sanitizer@9.0.0
 - pkg:composer/binary-cats/sanitizer@9.1

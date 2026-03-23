@@ -4,3 +4,4 @@
 - pkg:composer/beyondcode/laravel-masked-db-dump@2.1.0
 - pkg:composer/beyondcode/laravel-masked-db-dump@3.0.0
 - pkg:composer/beyondcode/laravel-masked-db-dump@4.0.0
+- pkg:composer/beyondcode/laravel-masked-db-dump@5.0.0
