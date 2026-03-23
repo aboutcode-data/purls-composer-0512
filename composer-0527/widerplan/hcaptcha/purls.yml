@@ -2,3 +2,5 @@
 - pkg:composer/widerplan/hcaptcha@v1.0.0-beta1
 - pkg:composer/widerplan/hcaptcha@v1.0.0-beta2
 - pkg:composer/widerplan/hcaptcha@v1.0.0-beta3
+- pkg:composer/widerplan/hcaptcha@v1.1.0
+- pkg:composer/widerplan/hcaptcha@v1.2.0

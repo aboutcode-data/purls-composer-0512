@@ -25,3 +25,4 @@
 - pkg:composer/wp-cli/export-command@v2.1.13
 - pkg:composer/wp-cli/export-command@v2.1.14
 - pkg:composer/wp-cli/export-command@v2.1.15
+- pkg:composer/wp-cli/export-command@v2.1.16
