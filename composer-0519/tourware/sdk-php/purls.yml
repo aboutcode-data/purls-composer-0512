@@ -17,3 +17,5 @@
 - pkg:composer/tourware/sdk-php@v0.5.7
 - pkg:composer/tourware/sdk-php@v0.5.8
 - pkg:composer/tourware/sdk-php@v0.5.9
+- pkg:composer/tourware/sdk-php@v0.6.0
+- pkg:composer/tourware/sdk-php@v0.7.0
