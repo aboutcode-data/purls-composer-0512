@@ -30,3 +30,4 @@
 - pkg:composer/rollerworks/search-elasticsearch@v2.0.0-BETA7
 - pkg:composer/rollerworks/search-elasticsearch@v2.0.0-BETA8
 - pkg:composer/rollerworks/search-elasticsearch@v2.0.0-BETA9
+- pkg:composer/rollerworks/search-elasticsearch@v2.0.0-RC1

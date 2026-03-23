@@ -2,3 +2,4 @@
 - pkg:composer/rjorel/laravel-spaceless-blade@v1.0.1
 - pkg:composer/rjorel/laravel-spaceless-blade@v1.2.0
 - pkg:composer/rjorel/laravel-spaceless-blade@v1.3.0
+- pkg:composer/rjorel/laravel-spaceless-blade@v1.4.0
