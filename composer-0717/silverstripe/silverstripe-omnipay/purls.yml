@@ -30,3 +30,5 @@
 - pkg:composer/silverstripe/silverstripe-omnipay@3.2.2
 - pkg:composer/silverstripe/silverstripe-omnipay@4.0.0
 - pkg:composer/silverstripe/silverstripe-omnipay@4.1.0
+- pkg:composer/silverstripe/silverstripe-omnipay@5.0.0
+- pkg:composer/silverstripe/silverstripe-omnipay@6.0.0

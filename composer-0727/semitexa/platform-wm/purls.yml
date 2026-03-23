@@ -1,4 +1,6 @@
 - pkg:composer/semitexa/platform-wm@0.0.1
+- pkg:composer/semitexa/platform-wm@0.0.11
+- pkg:composer/semitexa/platform-wm@0.0.12
 - pkg:composer/semitexa/platform-wm@0.0.2
 - pkg:composer/semitexa/platform-wm@0.0.3
 - pkg:composer/semitexa/platform-wm@0.0.4

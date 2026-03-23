@@ -60,3 +60,4 @@
 - pkg:composer/silverstripe/linkfield@5.1.4
 - pkg:composer/silverstripe/linkfield@5.1.5
 - pkg:composer/silverstripe/linkfield@5.2.0-beta1
+- pkg:composer/silverstripe/linkfield@5.2.0-rc1

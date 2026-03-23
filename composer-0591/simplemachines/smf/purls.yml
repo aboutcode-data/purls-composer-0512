@@ -6,6 +6,7 @@
 - pkg:composer/simplemachines/smf@v2.1.4
 - pkg:composer/simplemachines/smf@v2.1.5
 - pkg:composer/simplemachines/smf@v2.1.6
+- pkg:composer/simplemachines/smf@v2.1.7
 - pkg:composer/simplemachines/smf@v3.0-alpha.1
 - pkg:composer/simplemachines/smf@v3.0-alpha.2
 - pkg:composer/simplemachines/smf@v3.0-alpha.3
