@@ -56,3 +56,4 @@
 - pkg:composer/tempest/intl@v3.4.1
 - pkg:composer/tempest/intl@v3.5.0
 - pkg:composer/tempest/intl@v3.6.0
+- pkg:composer/tempest/intl@v3.6.1

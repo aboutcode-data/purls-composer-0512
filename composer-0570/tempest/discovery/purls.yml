@@ -60,3 +60,4 @@
 - pkg:composer/tempest/discovery@v3.4.1
 - pkg:composer/tempest/discovery@v3.5.0
 - pkg:composer/tempest/discovery@v3.6.0
+- pkg:composer/tempest/discovery@v3.6.1

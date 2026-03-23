@@ -398,6 +398,7 @@
 - pkg:composer/tencentcloud/ses@3.0.1419
 - pkg:composer/tencentcloud/ses@3.0.1533
 - pkg:composer/tencentcloud/ses@3.0.1539
+- pkg:composer/tencentcloud/ses@3.0.1552
 - pkg:composer/tencentcloud/ses@3.0.334
 - pkg:composer/tencentcloud/ses@3.0.335
 - pkg:composer/tencentcloud/ses@3.0.336
