@@ -5,3 +5,4 @@
 - pkg:composer/philiprehberger/laravel-healthcheck@v1.1.3
 - pkg:composer/philiprehberger/laravel-healthcheck@v1.1.4
 - pkg:composer/philiprehberger/laravel-healthcheck@v1.1.5
+- pkg:composer/philiprehberger/laravel-healthcheck@v1.2.0

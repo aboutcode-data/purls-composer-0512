@@ -1,3 +1,9 @@
+- pkg:composer/pimcore/search-query-parser@0.2.0
+- pkg:composer/pimcore/search-query-parser@0.2.1
+- pkg:composer/pimcore/search-query-parser@0.3.0
+- pkg:composer/pimcore/search-query-parser@0.4.0
+- pkg:composer/pimcore/search-query-parser@0.4.1
+- pkg:composer/pimcore/search-query-parser@0.4.2
 - pkg:composer/pimcore/search-query-parser@1.2.4
 - pkg:composer/pimcore/search-query-parser@v1.0.0
 - pkg:composer/pimcore/search-query-parser@v1.1.0
