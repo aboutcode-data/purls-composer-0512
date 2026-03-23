@@ -106,6 +106,7 @@
 - pkg:composer/pop-cms-schema/comments@16.1.0
 - pkg:composer/pop-cms-schema/comments@17.0.0
 - pkg:composer/pop-cms-schema/comments@17.0.1
+- pkg:composer/pop-cms-schema/comments@17.1.0
 - pkg:composer/pop-cms-schema/comments@2.0.1
 - pkg:composer/pop-cms-schema/comments@2.1.0
 - pkg:composer/pop-cms-schema/comments@2.1.1

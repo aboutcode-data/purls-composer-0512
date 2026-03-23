@@ -1,6 +1,7 @@
 - pkg:composer/pkshetlie/pagination-bundle@1.2.9
 - pkg:composer/pkshetlie/pagination-bundle@3.0.0
 - pkg:composer/pkshetlie/pagination-bundle@3.0.1
+- pkg:composer/pkshetlie/pagination-bundle@3.0.2
 - pkg:composer/pkshetlie/pagination-bundle@v1.0.01
 - pkg:composer/pkshetlie/pagination-bundle@v1.0.02
 - pkg:composer/pkshetlie/pagination-bundle@v1.0.03
