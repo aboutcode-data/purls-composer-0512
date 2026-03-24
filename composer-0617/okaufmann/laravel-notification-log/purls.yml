@@ -28,3 +28,4 @@
 - pkg:composer/okaufmann/laravel-notification-log@v1.3.2
 - pkg:composer/okaufmann/laravel-notification-log@v1.3.3
 - pkg:composer/okaufmann/laravel-notification-log@v2.0.0
+- pkg:composer/okaufmann/laravel-notification-log@v6.0.0

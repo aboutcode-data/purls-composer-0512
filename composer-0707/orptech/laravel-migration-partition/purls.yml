@@ -8,6 +8,7 @@
 - pkg:composer/orptech/laravel-migration-partition@v11.0.0
 - pkg:composer/orptech/laravel-migration-partition@v12.0.0
 - pkg:composer/orptech/laravel-migration-partition@v12.0.1
+- pkg:composer/orptech/laravel-migration-partition@v13.0.0-beta
 - pkg:composer/orptech/laravel-migration-partition@v2.0.0
 - pkg:composer/orptech/laravel-migration-partition@v2.0.0-alpha
 - pkg:composer/orptech/laravel-migration-partition@v2.0.0-beta.1
