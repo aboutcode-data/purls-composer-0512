@@ -31,3 +31,4 @@
 - pkg:composer/shopware/app-php-sdk@4.1.5
 - pkg:composer/shopware/app-php-sdk@5.0.0
 - pkg:composer/shopware/app-php-sdk@5.0.1
+- pkg:composer/shopware/app-php-sdk@5.0.2
