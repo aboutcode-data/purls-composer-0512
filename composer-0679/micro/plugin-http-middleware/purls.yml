@@ -1,3 +1,2 @@
 - pkg:composer/micro/plugin-http-middleware@2.0.0-alpha
 - pkg:composer/micro/plugin-http-middleware@v1.6.0
-- pkg:composer/micro/plugin-http-middleware@v2.0.0-alpha1

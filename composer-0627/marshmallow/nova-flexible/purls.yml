@@ -120,3 +120,4 @@
 - pkg:composer/marshmallow/nova-flexible@v5.4.2
 - pkg:composer/marshmallow/nova-flexible@v5.4.3
 - pkg:composer/marshmallow/nova-flexible@v5.5.0
+- pkg:composer/marshmallow/nova-flexible@v5.5.1
