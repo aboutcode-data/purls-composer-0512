@@ -96,6 +96,9 @@
 - pkg:composer/rsvp-system/rsvp-system-theme@1.0.68
 - pkg:composer/rsvp-system/rsvp-system-theme@1.0.69
 - pkg:composer/rsvp-system/rsvp-system-theme@1.0.7
+- pkg:composer/rsvp-system/rsvp-system-theme@1.0.70
+- pkg:composer/rsvp-system/rsvp-system-theme@1.0.71
+- pkg:composer/rsvp-system/rsvp-system-theme@1.0.72
 - pkg:composer/rsvp-system/rsvp-system-theme@1.0.8
 - pkg:composer/rsvp-system/rsvp-system-theme@1.0.9
 - pkg:composer/rsvp-system/rsvp-system-theme@v1.0.33
