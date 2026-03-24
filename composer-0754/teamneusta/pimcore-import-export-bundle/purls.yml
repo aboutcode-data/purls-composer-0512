@@ -6,3 +6,4 @@
 - pkg:composer/teamneusta/pimcore-import-export-bundle@2.1.0
 - pkg:composer/teamneusta/pimcore-import-export-bundle@3.0.0
 - pkg:composer/teamneusta/pimcore-import-export-bundle@3.0.1
+- pkg:composer/teamneusta/pimcore-import-export-bundle@4.0.0
