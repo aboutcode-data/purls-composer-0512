@@ -4,3 +4,4 @@
 - pkg:composer/protich/auto-join-eloquent@0.6.0
 - pkg:composer/protich/auto-join-eloquent@0.7.0
 - pkg:composer/protich/auto-join-eloquent@0.9.1
+- pkg:composer/protich/auto-join-eloquent@0.9.5
