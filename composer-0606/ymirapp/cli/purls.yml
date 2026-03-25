@@ -121,3 +121,4 @@
 - pkg:composer/ymirapp/cli@v2.0.7
 - pkg:composer/ymirapp/cli@v2.0.8
 - pkg:composer/ymirapp/cli@v2.1.0
+- pkg:composer/ymirapp/cli@v2.1.1
