@@ -30,3 +30,4 @@
 - pkg:composer/sunspikes/clamav-validator@v3.0.0
 - pkg:composer/sunspikes/clamav-validator@v3.0.1
 - pkg:composer/sunspikes/clamav-validator@v3.0.2
+- pkg:composer/sunspikes/clamav-validator@v3.1.0
