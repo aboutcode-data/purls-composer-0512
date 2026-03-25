@@ -28,3 +28,4 @@
 - pkg:composer/mradang/laravel-dingtalk@v4.1.0
 - pkg:composer/mradang/laravel-dingtalk@v4.2.1
 - pkg:composer/mradang/laravel-dingtalk@v4.3.0
+- pkg:composer/mradang/laravel-dingtalk@v4.4.0
