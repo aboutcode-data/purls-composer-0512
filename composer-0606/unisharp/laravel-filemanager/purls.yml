@@ -58,6 +58,7 @@
 - pkg:composer/unisharp/laravel-filemanager@v2.11.0
 - pkg:composer/unisharp/laravel-filemanager@v2.12.0
 - pkg:composer/unisharp/laravel-filemanager@v2.12.1
+- pkg:composer/unisharp/laravel-filemanager@v2.13.0
 - pkg:composer/unisharp/laravel-filemanager@v2.2.0
 - pkg:composer/unisharp/laravel-filemanager@v2.3.0
 - pkg:composer/unisharp/laravel-filemanager@v2.4.0
