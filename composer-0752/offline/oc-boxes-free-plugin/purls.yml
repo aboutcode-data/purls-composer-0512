@@ -226,4 +226,6 @@
 - pkg:composer/offline/oc-boxes-free-plugin@v3.8.1
 - pkg:composer/offline/oc-boxes-free-plugin@v3.8.2
 - pkg:composer/offline/oc-boxes-free-plugin@v3.8.3
+- pkg:composer/offline/oc-boxes-free-plugin@v3.8.4
 - pkg:composer/offline/oc-boxes-free-plugin@v4.0.0
+- pkg:composer/offline/oc-boxes-free-plugin@v4.0.1

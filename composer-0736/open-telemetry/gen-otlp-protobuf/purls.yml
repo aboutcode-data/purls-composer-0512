@@ -24,3 +24,4 @@
 - pkg:composer/open-telemetry/gen-otlp-protobuf@1.2.1
 - pkg:composer/open-telemetry/gen-otlp-protobuf@1.5.0
 - pkg:composer/open-telemetry/gen-otlp-protobuf@1.8.0
+- pkg:composer/open-telemetry/gen-otlp-protobuf@1.9.0
