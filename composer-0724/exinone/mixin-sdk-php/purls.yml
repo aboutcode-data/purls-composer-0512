@@ -99,5 +99,7 @@
 - pkg:composer/exinone/mixin-sdk-php@1.6.7
 - pkg:composer/exinone/mixin-sdk-php@1.6.8
 - pkg:composer/exinone/mixin-sdk-php@1.6.9
+- pkg:composer/exinone/mixin-sdk-php@1.7.0
+- pkg:composer/exinone/mixin-sdk-php@1.7.1
 - pkg:composer/exinone/mixin-sdk-php@v1.2.20
 - pkg:composer/exinone/mixin-sdk-php@v1.3.7

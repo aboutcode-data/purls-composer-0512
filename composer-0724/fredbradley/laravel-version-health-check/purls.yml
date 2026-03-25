@@ -1,7 +1,9 @@
 - pkg:composer/fredbradley/laravel-version-health-check@0.0.3
 - pkg:composer/fredbradley/laravel-version-health-check@0.0.4
-- pkg:composer/fredbradley/laravel-version-health-check@1.0.0
 - pkg:composer/fredbradley/laravel-version-health-check@1.0.1
 - pkg:composer/fredbradley/laravel-version-health-check@1.0.2
+- pkg:composer/fredbradley/laravel-version-health-check@1.0.3
+- pkg:composer/fredbradley/laravel-version-health-check@1.0.4
+- pkg:composer/fredbradley/laravel-version-health-check@1.0.5
 - pkg:composer/fredbradley/laravel-version-health-check@v0.0.1
 - pkg:composer/fredbradley/laravel-version-health-check@v0.0.2
