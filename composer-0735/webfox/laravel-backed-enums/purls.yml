@@ -16,3 +16,4 @@
 - pkg:composer/webfox/laravel-backed-enums@v2.6.0
 - pkg:composer/webfox/laravel-backed-enums@v2.6.1
 - pkg:composer/webfox/laravel-backed-enums@v3.0.0
+- pkg:composer/webfox/laravel-backed-enums@v3.1.0
