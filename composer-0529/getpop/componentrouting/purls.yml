@@ -106,6 +106,8 @@
 - pkg:composer/getpop/componentrouting@16.1.0
 - pkg:composer/getpop/componentrouting@17.0.0
 - pkg:composer/getpop/componentrouting@17.0.1
+- pkg:composer/getpop/componentrouting@17.1.0
+- pkg:composer/getpop/componentrouting@17.1.1
 - pkg:composer/getpop/componentrouting@2.0.1
 - pkg:composer/getpop/componentrouting@2.1.0
 - pkg:composer/getpop/componentrouting@2.1.1

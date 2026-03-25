@@ -23,6 +23,7 @@
 - pkg:composer/haakco/laravel-postgres-helper@v3.0.8
 - pkg:composer/haakco/laravel-postgres-helper@v3.0.9
 - pkg:composer/haakco/laravel-postgres-helper@v4.0.1
+- pkg:composer/haakco/laravel-postgres-helper@v4.0.10
 - pkg:composer/haakco/laravel-postgres-helper@v4.0.2
 - pkg:composer/haakco/laravel-postgres-helper@v4.0.3
 - pkg:composer/haakco/laravel-postgres-helper@v4.0.4
@@ -30,3 +31,4 @@
 - pkg:composer/haakco/laravel-postgres-helper@v4.0.6
 - pkg:composer/haakco/laravel-postgres-helper@v4.0.7
 - pkg:composer/haakco/laravel-postgres-helper@v4.0.8
+- pkg:composer/haakco/laravel-postgres-helper@v4.0.9
