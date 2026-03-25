@@ -85,3 +85,4 @@
 - pkg:composer/psalm/plugin-laravel@v4.0.1
 - pkg:composer/psalm/plugin-laravel@v4.1.0
 - pkg:composer/psalm/plugin-laravel@v4.2.0
+- pkg:composer/psalm/plugin-laravel@v4.3.0
