@@ -13,3 +13,4 @@
 - pkg:composer/dskripchenko/laravel-translatable@1.0.4
 - pkg:composer/dskripchenko/laravel-translatable@1.0.5
 - pkg:composer/dskripchenko/laravel-translatable@1.0.6
+- pkg:composer/dskripchenko/laravel-translatable@2.0.0

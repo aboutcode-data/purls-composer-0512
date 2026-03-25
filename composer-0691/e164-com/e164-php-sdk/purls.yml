@@ -1,1 +1,3 @@
 - pkg:composer/e164-com/e164-php-sdk@1.0
+- pkg:composer/e164-com/e164-php-sdk@2.0
+- pkg:composer/e164-com/e164-php-sdk@2.1
