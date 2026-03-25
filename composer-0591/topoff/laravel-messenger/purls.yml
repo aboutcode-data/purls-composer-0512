@@ -65,6 +65,8 @@
 - pkg:composer/topoff/laravel-messenger@v6.0.2
 - pkg:composer/topoff/laravel-messenger@v6.1.0
 - pkg:composer/topoff/laravel-messenger@v6.1.1
+- pkg:composer/topoff/laravel-messenger@v6.10.0
+- pkg:composer/topoff/laravel-messenger@v6.10.1
 - pkg:composer/topoff/laravel-messenger@v6.2.0
 - pkg:composer/topoff/laravel-messenger@v6.3.0
 - pkg:composer/topoff/laravel-messenger@v6.4.0
@@ -76,3 +78,5 @@
 - pkg:composer/topoff/laravel-messenger@v6.8.1
 - pkg:composer/topoff/laravel-messenger@v6.8.2
 - pkg:composer/topoff/laravel-messenger@v6.9.0
+- pkg:composer/topoff/laravel-messenger@v6.9.1
+- pkg:composer/topoff/laravel-messenger@v6.9.2
