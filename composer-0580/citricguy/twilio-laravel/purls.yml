@@ -1,1 +1,3 @@
 - pkg:composer/citricguy/twilio-laravel@v2.0.0
+- pkg:composer/citricguy/twilio-laravel@v2.1.0
+- pkg:composer/citricguy/twilio-laravel@v2.1.1

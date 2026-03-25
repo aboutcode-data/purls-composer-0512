@@ -73,3 +73,4 @@
 - pkg:composer/codeigniter4/appstarter@v4.6.5
 - pkg:composer/codeigniter4/appstarter@v4.7.0
 - pkg:composer/codeigniter4/appstarter@v4.7.1
+- pkg:composer/codeigniter4/appstarter@v4.7.2
