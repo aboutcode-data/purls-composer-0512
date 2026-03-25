@@ -1,3 +1,5 @@
 - pkg:composer/coxlr/laravel-natural-language@1.0.0
 - pkg:composer/coxlr/laravel-natural-language@1.1.0
 - pkg:composer/coxlr/laravel-natural-language@1.1.1
+- pkg:composer/coxlr/laravel-natural-language@1.1.2
+- pkg:composer/coxlr/laravel-natural-language@1.1.3
