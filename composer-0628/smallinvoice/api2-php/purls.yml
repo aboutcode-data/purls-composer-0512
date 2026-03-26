@@ -5,3 +5,4 @@
 - pkg:composer/smallinvoice/api2-php@2.3
 - pkg:composer/smallinvoice/api2-php@2.4
 - pkg:composer/smallinvoice/api2-php@2.5
+- pkg:composer/smallinvoice/api2-php@2.6
