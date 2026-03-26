@@ -10,3 +10,5 @@
 - pkg:composer/probe/support@v1.1.5
 - pkg:composer/probe/support@v1.1.6
 - pkg:composer/probe/support@v1.2
+- pkg:composer/probe/support@v1.2.1
+- pkg:composer/probe/support@v1.2.2
