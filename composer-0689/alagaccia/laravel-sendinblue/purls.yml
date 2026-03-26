@@ -32,6 +32,7 @@
 - pkg:composer/alagaccia/laravel-sendinblue@0.40
 - pkg:composer/alagaccia/laravel-sendinblue@0.41
 - pkg:composer/alagaccia/laravel-sendinblue@0.42
+- pkg:composer/alagaccia/laravel-sendinblue@0.43
 - pkg:composer/alagaccia/laravel-sendinblue@0.5
 - pkg:composer/alagaccia/laravel-sendinblue@0.6
 - pkg:composer/alagaccia/laravel-sendinblue@0.7
