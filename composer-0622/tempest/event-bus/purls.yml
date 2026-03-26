@@ -68,3 +68,4 @@
 - pkg:composer/tempest/event-bus@v3.6.2
 - pkg:composer/tempest/event-bus@v3.6.3
 - pkg:composer/tempest/event-bus@v3.7.0
+- pkg:composer/tempest/event-bus@v3.7.1
