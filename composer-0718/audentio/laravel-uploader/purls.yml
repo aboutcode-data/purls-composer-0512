@@ -26,3 +26,4 @@
 - pkg:composer/audentio/laravel-uploader@1.2.6
 - pkg:composer/audentio/laravel-uploader@1.2.7
 - pkg:composer/audentio/laravel-uploader@1.2.8
+- pkg:composer/audentio/laravel-uploader@1.2.9
