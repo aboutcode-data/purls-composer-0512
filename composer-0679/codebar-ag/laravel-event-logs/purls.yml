@@ -6,3 +6,4 @@
 - pkg:composer/codebar-ag/laravel-event-logs@v12.4
 - pkg:composer/codebar-ag/laravel-event-logs@v12.4.1
 - pkg:composer/codebar-ag/laravel-event-logs@v12.5.0
+- pkg:composer/codebar-ag/laravel-event-logs@v12.6.0
