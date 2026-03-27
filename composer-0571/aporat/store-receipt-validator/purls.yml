@@ -54,3 +54,4 @@
 - pkg:composer/aporat/store-receipt-validator@6.1.4
 - pkg:composer/aporat/store-receipt-validator@7.0.0
 - pkg:composer/aporat/store-receipt-validator@7.1.0
+- pkg:composer/aporat/store-receipt-validator@8.0.0
