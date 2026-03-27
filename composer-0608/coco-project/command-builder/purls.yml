@@ -7,6 +7,8 @@
 - pkg:composer/coco-project/command-builder@v1.0.14
 - pkg:composer/coco-project/command-builder@v1.0.15
 - pkg:composer/coco-project/command-builder@v1.0.16
+- pkg:composer/coco-project/command-builder@v1.0.17
+- pkg:composer/coco-project/command-builder@v1.0.18
 - pkg:composer/coco-project/command-builder@v1.0.2
 - pkg:composer/coco-project/command-builder@v1.0.3
 - pkg:composer/coco-project/command-builder@v1.0.4
