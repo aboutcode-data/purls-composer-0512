@@ -24,3 +24,4 @@
 - pkg:composer/slevomat/csob-gateway@6.1.0
 - pkg:composer/slevomat/csob-gateway@6.2.0
 - pkg:composer/slevomat/csob-gateway@6.2.1
+- pkg:composer/slevomat/csob-gateway@6.2.2

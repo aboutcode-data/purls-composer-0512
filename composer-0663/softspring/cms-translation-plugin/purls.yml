@@ -90,3 +90,5 @@
 - pkg:composer/softspring/cms-translation-plugin@v5.5.2
 - pkg:composer/softspring/cms-translation-plugin@v5.5.3
 - pkg:composer/softspring/cms-translation-plugin@v5.5.4
+- pkg:composer/softspring/cms-translation-plugin@v5.5.5
+- pkg:composer/softspring/cms-translation-plugin@v5.5.6
