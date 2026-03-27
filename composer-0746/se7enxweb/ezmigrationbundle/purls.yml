@@ -98,3 +98,4 @@
 - pkg:composer/se7enxweb/ezmigrationbundle@v5.9.4
 - pkg:composer/se7enxweb/ezmigrationbundle@v6.0.0
 - pkg:composer/se7enxweb/ezmigrationbundle@v6.0.1
+- pkg:composer/se7enxweb/ezmigrationbundle@v6.0.2

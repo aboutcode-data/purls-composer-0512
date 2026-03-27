@@ -13,3 +13,5 @@
 - pkg:composer/shaferllc/fleet-idp-client@0.6.2
 - pkg:composer/shaferllc/fleet-idp-client@0.6.3
 - pkg:composer/shaferllc/fleet-idp-client@0.6.4
+- pkg:composer/shaferllc/fleet-idp-client@0.9.24
+- pkg:composer/shaferllc/fleet-idp-client@0.9.26
