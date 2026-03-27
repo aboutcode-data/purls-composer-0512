@@ -127,6 +127,7 @@
 - pkg:composer/bytic/admin-base@2.0.10
 - pkg:composer/bytic/admin-base@2.0.11
 - pkg:composer/bytic/admin-base@2.0.12
+- pkg:composer/bytic/admin-base@2.0.13
 - pkg:composer/bytic/admin-base@2.0.2
 - pkg:composer/bytic/admin-base@2.0.3
 - pkg:composer/bytic/admin-base@2.0.4
