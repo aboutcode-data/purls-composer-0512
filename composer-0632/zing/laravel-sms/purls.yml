@@ -74,3 +74,4 @@
 - pkg:composer/zing/laravel-sms@6.4.0
 - pkg:composer/zing/laravel-sms@6.5.0
 - pkg:composer/zing/laravel-sms@6.6.0
+- pkg:composer/zing/laravel-sms@6.7.0
