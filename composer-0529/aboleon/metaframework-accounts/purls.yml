@@ -20,5 +20,9 @@
 - pkg:composer/aboleon/metaframework-accounts@0.6.0
 - pkg:composer/aboleon/metaframework-accounts@0.7.0
 - pkg:composer/aboleon/metaframework-accounts@0.7.1
-- pkg:composer/aboleon/metaframework-accounts@4.4.4
-- pkg:composer/aboleon/metaframework-accounts@4.5.0
+- pkg:composer/aboleon/metaframework-accounts@0.8.0
+- pkg:composer/aboleon/metaframework-accounts@0.8.1
+- pkg:composer/aboleon/metaframework-accounts@0.8.2
+- pkg:composer/aboleon/metaframework-accounts@0.9.0
+- pkg:composer/aboleon/metaframework-accounts@0.9.1
+- pkg:composer/aboleon/metaframework-accounts@0.9.2
