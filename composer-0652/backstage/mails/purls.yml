@@ -150,3 +150,5 @@
 - pkg:composer/backstage/mails@v3.0.7
 - pkg:composer/backstage/mails@v3.0.8
 - pkg:composer/backstage/mails@v3.0.9
+- pkg:composer/backstage/mails@v4.0.0
+- pkg:composer/backstage/mails@v4.0.1

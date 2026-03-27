@@ -1,3 +1,4 @@
+- pkg:composer/backstage/laravel-ai@2.0.0-beta3
 - pkg:composer/backstage/laravel-ai@v1.0
 - pkg:composer/backstage/laravel-ai@v1.1.20
 - pkg:composer/backstage/laravel-ai@v1.1.21
@@ -74,7 +75,6 @@
 - pkg:composer/backstage/laravel-ai@v2.0.0-beta27
 - pkg:composer/backstage/laravel-ai@v2.0.0-beta28
 - pkg:composer/backstage/laravel-ai@v2.0.0-beta29
-- pkg:composer/backstage/laravel-ai@v2.0.0-beta3
 - pkg:composer/backstage/laravel-ai@v2.0.0-beta30
 - pkg:composer/backstage/laravel-ai@v2.0.0-beta31
 - pkg:composer/backstage/laravel-ai@v2.0.0-beta32
@@ -167,3 +167,5 @@
 - pkg:composer/backstage/laravel-ai@v2.0.8
 - pkg:composer/backstage/laravel-ai@v2.0.9
 - pkg:composer/backstage/laravel-ai@v2.1.0
+- pkg:composer/backstage/laravel-ai@v4.0.0
+- pkg:composer/backstage/laravel-ai@v4.0.1
