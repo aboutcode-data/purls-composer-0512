@@ -68,3 +68,4 @@
 - pkg:composer/tempest/command-bus@v3.6.3
 - pkg:composer/tempest/command-bus@v3.7.0
 - pkg:composer/tempest/command-bus@v3.7.1
+- pkg:composer/tempest/command-bus@v3.8.0
