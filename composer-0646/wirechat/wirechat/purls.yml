@@ -30,3 +30,5 @@
 - pkg:composer/wirechat/wirechat@v0.4.1
 - pkg:composer/wirechat/wirechat@v0.5.0
 - pkg:composer/wirechat/wirechat@v0.5.1
+- pkg:composer/wirechat/wirechat@v0.5.2
+- pkg:composer/wirechat/wirechat@v0.5.3

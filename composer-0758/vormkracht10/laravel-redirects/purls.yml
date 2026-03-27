@@ -1,3 +1,4 @@
+- pkg:composer/vormkracht10/laravel-redirects@2.0.0-beta3
 - pkg:composer/vormkracht10/laravel-redirects@v1.0
 - pkg:composer/vormkracht10/laravel-redirects@v1.0.1
 - pkg:composer/vormkracht10/laravel-redirects@v1.1.0
@@ -95,7 +96,6 @@
 - pkg:composer/vormkracht10/laravel-redirects@v2.0.0-beta27
 - pkg:composer/vormkracht10/laravel-redirects@v2.0.0-beta28
 - pkg:composer/vormkracht10/laravel-redirects@v2.0.0-beta29
-- pkg:composer/vormkracht10/laravel-redirects@v2.0.0-beta3
 - pkg:composer/vormkracht10/laravel-redirects@v2.0.0-beta30
 - pkg:composer/vormkracht10/laravel-redirects@v2.0.0-beta31
 - pkg:composer/vormkracht10/laravel-redirects@v2.0.0-beta32
@@ -187,3 +187,5 @@
 - pkg:composer/vormkracht10/laravel-redirects@v2.0.7
 - pkg:composer/vormkracht10/laravel-redirects@v2.0.8
 - pkg:composer/vormkracht10/laravel-redirects@v2.0.9
+- pkg:composer/vormkracht10/laravel-redirects@v4.0.0
+- pkg:composer/vormkracht10/laravel-redirects@v4.0.1
