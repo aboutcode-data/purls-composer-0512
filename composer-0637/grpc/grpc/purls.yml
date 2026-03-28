@@ -26,4 +26,5 @@
 - pkg:composer/grpc/grpc@1.57.0
 - pkg:composer/grpc/grpc@1.6.0
 - pkg:composer/grpc/grpc@1.74.0
+- pkg:composer/grpc/grpc@1.78.0
 - pkg:composer/grpc/grpc@1.9.0

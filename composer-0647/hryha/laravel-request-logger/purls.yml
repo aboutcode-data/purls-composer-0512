@@ -12,3 +12,7 @@
 - pkg:composer/hryha/laravel-request-logger@3.2.2
 - pkg:composer/hryha/laravel-request-logger@3.2.3
 - pkg:composer/hryha/laravel-request-logger@3.3.0
+- pkg:composer/hryha/laravel-request-logger@3.3.1
+- pkg:composer/hryha/laravel-request-logger@3.3.2
+- pkg:composer/hryha/laravel-request-logger@3.3.3
+- pkg:composer/hryha/laravel-request-logger@3.3.4

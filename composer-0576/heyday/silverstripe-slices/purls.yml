@@ -10,3 +10,6 @@
 - pkg:composer/heyday/silverstripe-slices@2.0.1-alpha
 - pkg:composer/heyday/silverstripe-slices@2.1.0
 - pkg:composer/heyday/silverstripe-slices@2.2.0
+- pkg:composer/heyday/silverstripe-slices@3.0.0
+- pkg:composer/heyday/silverstripe-slices@3.0.1
+- pkg:composer/heyday/silverstripe-slices@3.1.0
