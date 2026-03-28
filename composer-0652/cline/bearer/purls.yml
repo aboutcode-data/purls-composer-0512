@@ -7,3 +7,5 @@
 - pkg:composer/cline/bearer@4.0.3
 - pkg:composer/cline/bearer@5.0.0
 - pkg:composer/cline/bearer@5.0.1
+- pkg:composer/cline/bearer@5.1.0
+- pkg:composer/cline/bearer@5.2.0
