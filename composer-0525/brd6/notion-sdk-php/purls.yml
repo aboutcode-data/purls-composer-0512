@@ -26,3 +26,4 @@
 - pkg:composer/brd6/notion-sdk-php@1.7.3
 - pkg:composer/brd6/notion-sdk-php@1.8.0
 - pkg:composer/brd6/notion-sdk-php@1.8.1
+- pkg:composer/brd6/notion-sdk-php@1.8.2
