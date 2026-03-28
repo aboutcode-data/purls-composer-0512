@@ -27,3 +27,4 @@
 - pkg:composer/gollumsf/rest-bundle@v2.8.3
 - pkg:composer/gollumsf/rest-bundle@v2.9.0
 - pkg:composer/gollumsf/rest-bundle@v2.9.1
+- pkg:composer/gollumsf/rest-bundle@v3.0.0
