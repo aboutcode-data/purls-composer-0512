@@ -35,6 +35,8 @@
 - pkg:composer/yajra/laravel-datatables-buttons@v13.0.0
 - pkg:composer/yajra/laravel-datatables-buttons@v13.0.1
 - pkg:composer/yajra/laravel-datatables-buttons@v13.0.2
+- pkg:composer/yajra/laravel-datatables-buttons@v13.1.0
+- pkg:composer/yajra/laravel-datatables-buttons@v13.2.0
 - pkg:composer/yajra/laravel-datatables-buttons@v2.0.0
 - pkg:composer/yajra/laravel-datatables-buttons@v2.0.1
 - pkg:composer/yajra/laravel-datatables-buttons@v2.0.2
