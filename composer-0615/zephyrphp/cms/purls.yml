@@ -172,6 +172,7 @@
 - pkg:composer/zephyrphp/cms@v0.9.35
 - pkg:composer/zephyrphp/cms@v0.9.36
 - pkg:composer/zephyrphp/cms@v0.9.37
+- pkg:composer/zephyrphp/cms@v0.9.38
 - pkg:composer/zephyrphp/cms@v0.9.4
 - pkg:composer/zephyrphp/cms@v0.9.5
 - pkg:composer/zephyrphp/cms@v0.9.6
