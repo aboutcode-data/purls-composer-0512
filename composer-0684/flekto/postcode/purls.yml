@@ -33,3 +33,4 @@
 - pkg:composer/flekto/postcode@3.6.3
 - pkg:composer/flekto/postcode@3.7.0
 - pkg:composer/flekto/postcode@3.7.1
+- pkg:composer/flekto/postcode@4.0.0
