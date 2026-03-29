@@ -14,3 +14,4 @@
 - pkg:composer/namoshek/laravel-redis-sentinel@v1.0.0
 - pkg:composer/namoshek/laravel-redis-sentinel@v1.1.0
 - pkg:composer/namoshek/laravel-redis-sentinel@v1.2.0
+- pkg:composer/namoshek/laravel-redis-sentinel@v1.3.0
