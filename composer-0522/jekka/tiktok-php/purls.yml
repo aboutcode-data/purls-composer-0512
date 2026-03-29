@@ -1,1 +1,4 @@
 - pkg:composer/jekka/tiktok-php@V1.0.0
+- pkg:composer/jekka/tiktok-php@v1.0.1
+- pkg:composer/jekka/tiktok-php@v1.0.2
+- pkg:composer/jekka/tiktok-php@v1.0.3

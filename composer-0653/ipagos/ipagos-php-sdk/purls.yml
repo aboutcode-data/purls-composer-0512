@@ -8,3 +8,4 @@
 - pkg:composer/ipagos/ipagos-php-sdk@v1.5.2
 - pkg:composer/ipagos/ipagos-php-sdk@v1.5.3
 - pkg:composer/ipagos/ipagos-php-sdk@v1.5.4
+- pkg:composer/ipagos/ipagos-php-sdk@v1.6.0

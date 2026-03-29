@@ -99,3 +99,4 @@
 - pkg:composer/intentui/laravel@v1.8.6
 - pkg:composer/intentui/laravel@v1.8.7
 - pkg:composer/intentui/laravel@v1.9.0
+- pkg:composer/intentui/laravel@v2.0.0
