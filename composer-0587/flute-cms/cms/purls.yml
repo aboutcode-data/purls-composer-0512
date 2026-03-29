@@ -44,3 +44,4 @@
 - pkg:composer/flute-cms/cms@v0.2.4.2-alpha
 - pkg:composer/flute-cms/cms@v1.0.0
 - pkg:composer/flute-cms/cms@v1.0.1
+- pkg:composer/flute-cms/cms@v1.0.2
