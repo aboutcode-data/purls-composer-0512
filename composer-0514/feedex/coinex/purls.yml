@@ -2,6 +2,7 @@
 - pkg:composer/feedex/coinex@v0.1.1
 - pkg:composer/feedex/coinex@v0.2.0
 - pkg:composer/feedex/coinex@v0.2.1
+- pkg:composer/feedex/coinex@v0.2.10
 - pkg:composer/feedex/coinex@v0.2.2
 - pkg:composer/feedex/coinex@v0.2.3
 - pkg:composer/feedex/coinex@v0.2.4
@@ -10,3 +11,4 @@
 - pkg:composer/feedex/coinex@v0.2.7
 - pkg:composer/feedex/coinex@v0.2.8
 - pkg:composer/feedex/coinex@v0.2.9
+- pkg:composer/feedex/coinex@v1.0.0
