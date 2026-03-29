@@ -46,3 +46,5 @@
 - pkg:composer/o2ti/social-login@101.1.9
 - pkg:composer/o2ti/social-login@102.0.0
 - pkg:composer/o2ti/social-login@102.0.1
+- pkg:composer/o2ti/social-login@102.0.2
+- pkg:composer/o2ti/social-login@102.0.3

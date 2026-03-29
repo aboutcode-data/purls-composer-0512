@@ -17,3 +17,4 @@
 - pkg:composer/open-telemetry/opentelemetry-auto-psr15@1.0.6
 - pkg:composer/open-telemetry/opentelemetry-auto-psr15@1.1.0
 - pkg:composer/open-telemetry/opentelemetry-auto-psr15@1.1.1
+- pkg:composer/open-telemetry/opentelemetry-auto-psr15@1.2.0

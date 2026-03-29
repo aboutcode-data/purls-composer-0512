@@ -64,3 +64,4 @@
 - pkg:composer/packbackbooks/lti-1p3-tool@v6.4.0
 - pkg:composer/packbackbooks/lti-1p3-tool@v6.4.1
 - pkg:composer/packbackbooks/lti-1p3-tool@v6.4.2
+- pkg:composer/packbackbooks/lti-1p3-tool@v6.4.3

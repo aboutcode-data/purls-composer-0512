@@ -66,4 +66,6 @@
 - pkg:composer/openculturas/openculturas-distribution@2.5.2
 - pkg:composer/openculturas/openculturas-distribution@2.5.3
 - pkg:composer/openculturas/openculturas-distribution@2.5.4
+- pkg:composer/openculturas/openculturas-distribution@2.5.5
 - pkg:composer/openculturas/openculturas-distribution@2.6.0-rc1
+- pkg:composer/openculturas/openculturas-distribution@2.6.0-rc2
