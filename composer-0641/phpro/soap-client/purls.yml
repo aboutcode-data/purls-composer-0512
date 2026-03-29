@@ -45,6 +45,7 @@
 - pkg:composer/phpro/soap-client@5.0.0
 - pkg:composer/phpro/soap-client@5.0.0-beta1
 - pkg:composer/phpro/soap-client@5.0.0-beta2
+- pkg:composer/phpro/soap-client@6.0.0
 - pkg:composer/phpro/soap-client@v0.1.0
 - pkg:composer/phpro/soap-client@v0.1.1
 - pkg:composer/phpro/soap-client@v0.1.2

@@ -12,3 +12,4 @@
 - pkg:composer/php-mqtt/laravel-client@v1.6.0
 - pkg:composer/php-mqtt/laravel-client@v1.6.1
 - pkg:composer/php-mqtt/laravel-client@v1.7.0
+- pkg:composer/php-mqtt/laravel-client@v1.8.0
