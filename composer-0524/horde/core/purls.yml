@@ -83,3 +83,7 @@
 - pkg:composer/horde/core@v3.0.0beta3
 - pkg:composer/horde/core@v3.0.0beta4
 - pkg:composer/horde/core@v3.0.0beta5
+- pkg:composer/horde/core@v3.0.0beta6
+- pkg:composer/horde/core@v3.0.0beta7
+- pkg:composer/horde/core@v3.0.0beta8
+- pkg:composer/horde/core@v3.0.0beta9
