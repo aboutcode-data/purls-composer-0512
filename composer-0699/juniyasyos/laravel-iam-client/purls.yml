@@ -17,3 +17,5 @@
 - pkg:composer/juniyasyos/laravel-iam-client@v1.5.2
 - pkg:composer/juniyasyos/laravel-iam-client@v1.5.3
 - pkg:composer/juniyasyos/laravel-iam-client@v1.5.4
+- pkg:composer/juniyasyos/laravel-iam-client@v1.5.5
+- pkg:composer/juniyasyos/laravel-iam-client@v1.5.6
