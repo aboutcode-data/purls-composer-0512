@@ -3,3 +3,4 @@
 - pkg:composer/joby/smol-request@v1.0.2
 - pkg:composer/joby/smol-request@v1.0.3
 - pkg:composer/joby/smol-request@v1.0.4
+- pkg:composer/joby/smol-request@v1.1.0

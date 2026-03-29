@@ -18,3 +18,5 @@
 - pkg:composer/kakhura/laravel-workflow@2.0.0
 - pkg:composer/kakhura/laravel-workflow@3.0.0
 - pkg:composer/kakhura/laravel-workflow@3.1.0
+- pkg:composer/kakhura/laravel-workflow@3.2.0
+- pkg:composer/kakhura/laravel-workflow@3.3.0
