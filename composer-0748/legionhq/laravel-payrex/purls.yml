@@ -1,3 +1,5 @@
+- pkg:composer/legionhq/laravel-payrex@v0.1.0
 - pkg:composer/legionhq/laravel-payrex@v1.0.0
 - pkg:composer/legionhq/laravel-payrex@v1.0.0-beta1
 - pkg:composer/legionhq/laravel-payrex@v1.0.1
+- pkg:composer/legionhq/laravel-payrex@v1.1.0

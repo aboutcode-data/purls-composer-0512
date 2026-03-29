@@ -14,3 +14,4 @@
 - pkg:composer/laravel-json-api/encoder-neomerx@v4.0.0
 - pkg:composer/laravel-json-api/encoder-neomerx@v4.1.0
 - pkg:composer/laravel-json-api/encoder-neomerx@v4.2.0
+- pkg:composer/laravel-json-api/encoder-neomerx@v4.3.0

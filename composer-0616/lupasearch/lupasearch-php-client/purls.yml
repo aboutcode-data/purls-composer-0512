@@ -6,3 +6,4 @@
 - pkg:composer/lupasearch/lupasearch-php-client@0.5.1
 - pkg:composer/lupasearch/lupasearch-php-client@0.5.2
 - pkg:composer/lupasearch/lupasearch-php-client@0.5.3
+- pkg:composer/lupasearch/lupasearch-php-client@0.6.0
