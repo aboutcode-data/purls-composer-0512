@@ -84,3 +84,4 @@
 - pkg:composer/mapado/rest-client-sdk@v2.1.1
 - pkg:composer/mapado/rest-client-sdk@v2.2.0
 - pkg:composer/mapado/rest-client-sdk@v2.2.1
+- pkg:composer/mapado/rest-client-sdk@v3.0.0

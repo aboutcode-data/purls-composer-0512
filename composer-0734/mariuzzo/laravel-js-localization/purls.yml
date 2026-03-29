@@ -31,3 +31,4 @@
 - pkg:composer/mariuzzo/laravel-js-localization@v1.9.0
 - pkg:composer/mariuzzo/laravel-js-localization@v2.0.0
 - pkg:composer/mariuzzo/laravel-js-localization@v2.0.0-beta
+- pkg:composer/mariuzzo/laravel-js-localization@v2.1.0
