@@ -127,6 +127,7 @@
 - pkg:composer/antchain/riskplus@1.31.1
 - pkg:composer/antchain/riskplus@1.31.2
 - pkg:composer/antchain/riskplus@1.31.4
+- pkg:composer/antchain/riskplus@1.31.6
 - pkg:composer/antchain/riskplus@1.6.5
 - pkg:composer/antchain/riskplus@1.8.8
 - pkg:composer/antchain/riskplus@1.8.9
