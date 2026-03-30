@@ -3,3 +3,4 @@
 - pkg:composer/gianfriaur/opcua-php-client-session-manager@v2.0.0
 - pkg:composer/gianfriaur/opcua-php-client-session-manager@v3.0.0
 - pkg:composer/gianfriaur/opcua-php-client-session-manager@v4.0.0
+- pkg:composer/gianfriaur/opcua-php-client-session-manager@v4.0.1
