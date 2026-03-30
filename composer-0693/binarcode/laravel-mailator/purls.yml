@@ -51,3 +51,4 @@
 - pkg:composer/binarcode/laravel-mailator@6.0.3
 - pkg:composer/binarcode/laravel-mailator@6.1.0
 - pkg:composer/binarcode/laravel-mailator@6.2.0
+- pkg:composer/binarcode/laravel-mailator@7.0.0
