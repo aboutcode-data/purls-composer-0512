@@ -1,3 +1,5 @@
 - pkg:composer/nonaje/quill@0.1.0
 - pkg:composer/nonaje/quill@v0.1.0-alpha.1
 - pkg:composer/nonaje/quill@v0.1.0-alpha.2
+- pkg:composer/nonaje/quill@v0.2.0-alpha
+- pkg:composer/nonaje/quill@v0.3.0-alpha

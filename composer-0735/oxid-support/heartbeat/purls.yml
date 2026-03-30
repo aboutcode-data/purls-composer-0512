@@ -6,3 +6,4 @@
 - pkg:composer/oxid-support/heartbeat@1.0.0-beta
 - pkg:composer/oxid-support/heartbeat@1.0.0-beta.2
 - pkg:composer/oxid-support/heartbeat@1.0.0-beta.3
+- pkg:composer/oxid-support/heartbeat@2.0.0
