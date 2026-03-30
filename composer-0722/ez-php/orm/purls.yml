@@ -27,3 +27,4 @@
 - pkg:composer/ez-php/orm@1.1.0
 - pkg:composer/ez-php/orm@1.1.1
 - pkg:composer/ez-php/orm@1.2.0
+- pkg:composer/ez-php/orm@1.3.0
