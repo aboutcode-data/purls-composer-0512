@@ -1,6 +1,7 @@
 - pkg:composer/kirschbaum-development/sst-laravel@0.2.0
 - pkg:composer/kirschbaum-development/sst-laravel@0.2.1
 - pkg:composer/kirschbaum-development/sst-laravel@0.2.11
+- pkg:composer/kirschbaum-development/sst-laravel@0.2.12
 - pkg:composer/kirschbaum-development/sst-laravel@0.2.2
 - pkg:composer/kirschbaum-development/sst-laravel@0.2.3
 - pkg:composer/kirschbaum-development/sst-laravel@0.2.4
