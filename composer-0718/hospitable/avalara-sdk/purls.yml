@@ -12,3 +12,4 @@
 - pkg:composer/hospitable/avalara-sdk@0.8.0
 - pkg:composer/hospitable/avalara-sdk@0.8.1
 - pkg:composer/hospitable/avalara-sdk@0.9.0
+- pkg:composer/hospitable/avalara-sdk@1.0.0
