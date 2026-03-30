@@ -1,3 +1,4 @@
 - pkg:composer/mygento/module-smtp@2.4.0
 - pkg:composer/mygento/module-smtp@2.4.1
 - pkg:composer/mygento/module-smtp@2.4.2
+- pkg:composer/mygento/module-smtp@2.4.3
