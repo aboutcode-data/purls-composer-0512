@@ -29,6 +29,7 @@
 - pkg:composer/bensampo/laravel-enum@1.9
 - pkg:composer/bensampo/laravel-enum@1.9.1
 - pkg:composer/bensampo/laravel-enum@6.12.0
+- pkg:composer/bensampo/laravel-enum@6.13.0
 - pkg:composer/bensampo/laravel-enum@v1.19.1
 - pkg:composer/bensampo/laravel-enum@v1.20
 - pkg:composer/bensampo/laravel-enum@v1.21
@@ -81,6 +82,7 @@
 - pkg:composer/bensampo/laravel-enum@v6.11.1
 - pkg:composer/bensampo/laravel-enum@v6.12.1
 - pkg:composer/bensampo/laravel-enum@v6.12.2
+- pkg:composer/bensampo/laravel-enum@v6.14.0
 - pkg:composer/bensampo/laravel-enum@v6.2.0
 - pkg:composer/bensampo/laravel-enum@v6.2.1
 - pkg:composer/bensampo/laravel-enum@v6.2.2
