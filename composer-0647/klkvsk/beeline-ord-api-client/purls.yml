@@ -8,3 +8,5 @@
 - pkg:composer/klkvsk/beeline-ord-api-client@1.43.2
 - pkg:composer/klkvsk/beeline-ord-api-client@1.43.3
 - pkg:composer/klkvsk/beeline-ord-api-client@1.50.0
+- pkg:composer/klkvsk/beeline-ord-api-client@1.72.0
+- pkg:composer/klkvsk/beeline-ord-api-client@1.72.1
