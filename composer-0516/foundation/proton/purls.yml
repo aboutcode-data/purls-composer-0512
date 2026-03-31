@@ -1,5 +1,8 @@
 - pkg:composer/foundation/proton@v0.1.0
 - pkg:composer/foundation/proton@v0.10.0
+- pkg:composer/foundation/proton@v0.10.1
+- pkg:composer/foundation/proton@v0.10.2
+- pkg:composer/foundation/proton@v0.10.3
 - pkg:composer/foundation/proton@v0.2.0
 - pkg:composer/foundation/proton@v0.3.0
 - pkg:composer/foundation/proton@v0.3.1

@@ -94,3 +94,4 @@
 - pkg:composer/genealabs/laravel-mixpanel@11.0.0
 - pkg:composer/genealabs/laravel-mixpanel@11.0.1
 - pkg:composer/genealabs/laravel-mixpanel@12.0.0
+- pkg:composer/genealabs/laravel-mixpanel@13.0.0
