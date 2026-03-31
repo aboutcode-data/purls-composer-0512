@@ -9,6 +9,10 @@
 - pkg:composer/irongate/chief@v0.102.0
 - pkg:composer/irongate/chief@v0.103.0
 - pkg:composer/irongate/chief@v0.104.0
+- pkg:composer/irongate/chief@v0.104.1
+- pkg:composer/irongate/chief@v0.105.0
+- pkg:composer/irongate/chief@v0.105.1
+- pkg:composer/irongate/chief@v0.105.2
 - pkg:composer/irongate/chief@v0.11.0
 - pkg:composer/irongate/chief@v0.12.0
 - pkg:composer/irongate/chief@v0.12.1
