@@ -42,3 +42,4 @@
 - pkg:composer/chillerlan/php-qrcode@5.0.4
 - pkg:composer/chillerlan/php-qrcode@5.0.5
 - pkg:composer/chillerlan/php-qrcode@6.0.0
+- pkg:composer/chillerlan/php-qrcode@6.0.1
