@@ -404,6 +404,8 @@
 - pkg:composer/phpstan/phpstan@2.1.42
 - pkg:composer/phpstan/phpstan@2.1.43
 - pkg:composer/phpstan/phpstan@2.1.44
+- pkg:composer/phpstan/phpstan@2.1.45
+- pkg:composer/phpstan/phpstan@2.1.46
 - pkg:composer/phpstan/phpstan@2.1.5
 - pkg:composer/phpstan/phpstan@2.1.6
 - pkg:composer/phpstan/phpstan@2.1.7

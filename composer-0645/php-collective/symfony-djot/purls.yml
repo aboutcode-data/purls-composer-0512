@@ -1,1 +1,3 @@
 - pkg:composer/php-collective/symfony-djot@0.1.0
+- pkg:composer/php-collective/symfony-djot@0.1.1
+- pkg:composer/php-collective/symfony-djot@0.2.0

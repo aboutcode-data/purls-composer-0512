@@ -21,3 +21,4 @@
 - pkg:composer/piwik/referrer-spam-blacklist@4.0.1
 - pkg:composer/piwik/referrer-spam-blacklist@4.0.2
 - pkg:composer/piwik/referrer-spam-blacklist@4.0.3
+- pkg:composer/piwik/referrer-spam-blacklist@4.0.4
