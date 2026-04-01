@@ -22,3 +22,5 @@
 - pkg:composer/nettt/nettt-tools@1.28.1
 - pkg:composer/nettt/nettt-tools@1.28.2
 - pkg:composer/nettt/nettt-tools@1.28.3
+- pkg:composer/nettt/nettt-tools@1.29.0
+- pkg:composer/nettt/nettt-tools@1.30.0

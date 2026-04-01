@@ -2,6 +2,7 @@
 - pkg:composer/olivier127/rbac-bundle@1.1.0
 - pkg:composer/olivier127/rbac-bundle@1.1.1
 - pkg:composer/olivier127/rbac-bundle@1.1.2
+- pkg:composer/olivier127/rbac-bundle@1.1.3
 - pkg:composer/olivier127/rbac-bundle@v0.0.1
 - pkg:composer/olivier127/rbac-bundle@v0.0.2
 - pkg:composer/olivier127/rbac-bundle@v0.1.0
