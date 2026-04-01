@@ -3,6 +3,7 @@
 - pkg:composer/pugx/autocompleter-bundle@v1.10.0
 - pkg:composer/pugx/autocompleter-bundle@v1.11.0
 - pkg:composer/pugx/autocompleter-bundle@v1.12.0
+- pkg:composer/pugx/autocompleter-bundle@v1.12.1
 - pkg:composer/pugx/autocompleter-bundle@v1.2.0
 - pkg:composer/pugx/autocompleter-bundle@v1.2.1
 - pkg:composer/pugx/autocompleter-bundle@v1.2.2

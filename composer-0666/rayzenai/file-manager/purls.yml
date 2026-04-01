@@ -99,3 +99,4 @@
 - pkg:composer/rayzenai/file-manager@v4.8.6
 - pkg:composer/rayzenai/file-manager@v4.8.7
 - pkg:composer/rayzenai/file-manager@v4.9.0
+- pkg:composer/rayzenai/file-manager@v5.0.0

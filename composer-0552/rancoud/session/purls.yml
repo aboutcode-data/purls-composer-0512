@@ -23,3 +23,6 @@
 - pkg:composer/rancoud/session@5.2.0
 - pkg:composer/rancoud/session@5.2.1
 - pkg:composer/rancoud/session@6.0.0
+- pkg:composer/rancoud/session@6.1.0
+- pkg:composer/rancoud/session@6.1.1
+- pkg:composer/rancoud/session@6.2.0

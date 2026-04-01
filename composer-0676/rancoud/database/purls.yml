@@ -25,3 +25,4 @@
 - pkg:composer/rancoud/database@6.1.0
 - pkg:composer/rancoud/database@6.1.1
 - pkg:composer/rancoud/database@7.0.0
+- pkg:composer/rancoud/database@7.0.1
