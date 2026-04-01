@@ -42,3 +42,4 @@
 - pkg:composer/horde/mime@v3.0.0alpha6
 - pkg:composer/horde/mime@v3.0.0alpha7
 - pkg:composer/horde/mime@v3.0.0beta1
+- pkg:composer/horde/mime@v3.0.0beta2
