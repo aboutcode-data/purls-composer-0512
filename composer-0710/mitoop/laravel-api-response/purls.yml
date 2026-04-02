@@ -25,3 +25,4 @@
 - pkg:composer/mitoop/laravel-api-response@v7.4.0
 - pkg:composer/mitoop/laravel-api-response@v7.5.0
 - pkg:composer/mitoop/laravel-api-response@v7.5.1
+- pkg:composer/mitoop/laravel-api-response@v7.6.0

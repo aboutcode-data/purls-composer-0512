@@ -8,3 +8,4 @@
 - pkg:composer/mitoop/laravel-query-logger@v1.4.0
 - pkg:composer/mitoop/laravel-query-logger@v2.0.0
 - pkg:composer/mitoop/laravel-query-logger@v3.0.0
+- pkg:composer/mitoop/laravel-query-logger@v3.1.0
