@@ -10,3 +10,4 @@
 - pkg:composer/rickgoemans/laravel-api-response-helpers@v7.0.0
 - pkg:composer/rickgoemans/laravel-api-response-helpers@v8.0.0
 - pkg:composer/rickgoemans/laravel-api-response-helpers@v8.0.1
+- pkg:composer/rickgoemans/laravel-api-response-helpers@v9.0.0

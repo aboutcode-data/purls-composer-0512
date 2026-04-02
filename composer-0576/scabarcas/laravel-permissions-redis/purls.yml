@@ -2,3 +2,5 @@
 - pkg:composer/scabarcas/laravel-permissions-redis@v1.0.1
 - pkg:composer/scabarcas/laravel-permissions-redis@v1.1.0
 - pkg:composer/scabarcas/laravel-permissions-redis@v1.1.1
+- pkg:composer/scabarcas/laravel-permissions-redis@v2.0.0
+- pkg:composer/scabarcas/laravel-permissions-redis@v3.0.0

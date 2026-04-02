@@ -1,4 +1,5 @@
 - pkg:composer/rollerworks/search-elasticsearch@v0.1.0
+- pkg:composer/rollerworks/search-elasticsearch@v2.0.0
 - pkg:composer/rollerworks/search-elasticsearch@v2.0.0-ALPHA10
 - pkg:composer/rollerworks/search-elasticsearch@v2.0.0-ALPHA11
 - pkg:composer/rollerworks/search-elasticsearch@v2.0.0-ALPHA12

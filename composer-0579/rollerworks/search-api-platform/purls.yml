@@ -3,6 +3,7 @@
 - pkg:composer/rollerworks/search-api-platform@v0.3.0
 - pkg:composer/rollerworks/search-api-platform@v0.3.1
 - pkg:composer/rollerworks/search-api-platform@v0.3.2
+- pkg:composer/rollerworks/search-api-platform@v2.0.0
 - pkg:composer/rollerworks/search-api-platform@v2.0.0-ALPHA10
 - pkg:composer/rollerworks/search-api-platform@v2.0.0-ALPHA11
 - pkg:composer/rollerworks/search-api-platform@v2.0.0-ALPHA12
@@ -34,3 +35,4 @@
 - pkg:composer/rollerworks/search-api-platform@v2.0.0-BETA7
 - pkg:composer/rollerworks/search-api-platform@v2.0.0-BETA8
 - pkg:composer/rollerworks/search-api-platform@v2.0.0-BETA9
+- pkg:composer/rollerworks/search-api-platform@v2.0.0-RC1

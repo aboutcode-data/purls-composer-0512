@@ -6,3 +6,4 @@
 - pkg:composer/sabre/cache@2.0.0
 - pkg:composer/sabre/cache@2.0.1
 - pkg:composer/sabre/cache@2.0.2
+- pkg:composer/sabre/cache@2.0.3

@@ -9,6 +9,7 @@
 - pkg:composer/rollerworks/search-bundle@v1.1.0
 - pkg:composer/rollerworks/search-bundle@v1.1.1
 - pkg:composer/rollerworks/search-bundle@v1.2.0
+- pkg:composer/rollerworks/search-bundle@v2.0.0
 - pkg:composer/rollerworks/search-bundle@v2.0.0-ALPHA1
 - pkg:composer/rollerworks/search-bundle@v2.0.0-ALPHA10
 - pkg:composer/rollerworks/search-bundle@v2.0.0-ALPHA11

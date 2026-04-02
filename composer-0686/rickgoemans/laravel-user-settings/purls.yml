@@ -15,3 +15,4 @@
 - pkg:composer/rickgoemans/laravel-user-settings@v2.0.1
 - pkg:composer/rickgoemans/laravel-user-settings@v2.0.2
 - pkg:composer/rickgoemans/laravel-user-settings@v3.0.0
+- pkg:composer/rickgoemans/laravel-user-settings@v4.0.0
