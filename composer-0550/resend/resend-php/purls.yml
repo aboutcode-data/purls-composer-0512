@@ -38,3 +38,4 @@
 - pkg:composer/resend/resend-php@v1.0.1
 - pkg:composer/resend/resend-php@v1.1.0
 - pkg:composer/resend/resend-php@v1.1.1
+- pkg:composer/resend/resend-php@v1.2.0
