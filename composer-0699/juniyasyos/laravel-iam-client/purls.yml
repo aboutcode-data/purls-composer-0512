@@ -24,3 +24,4 @@
 - pkg:composer/juniyasyos/laravel-iam-client@v1.5.9
 - pkg:composer/juniyasyos/laravel-iam-client@v1.6.0
 - pkg:composer/juniyasyos/laravel-iam-client@v1.6.1
+- pkg:composer/juniyasyos/laravel-iam-client@v1.6.2
