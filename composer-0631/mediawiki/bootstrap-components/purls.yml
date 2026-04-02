@@ -15,3 +15,4 @@
 - pkg:composer/mediawiki/bootstrap-components@5.1.2
 - pkg:composer/mediawiki/bootstrap-components@5.2.0
 - pkg:composer/mediawiki/bootstrap-components@5.2.1
+- pkg:composer/mediawiki/bootstrap-components@5.2.2
