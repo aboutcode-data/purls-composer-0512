@@ -69,3 +69,5 @@
 - pkg:composer/stackkit/laravel-google-cloud-tasks-queue@v5.1.0-beta.1
 - pkg:composer/stackkit/laravel-google-cloud-tasks-queue@v5.2.0
 - pkg:composer/stackkit/laravel-google-cloud-tasks-queue@v5.2.0-beta.1
+- pkg:composer/stackkit/laravel-google-cloud-tasks-queue@v5.3.0
+- pkg:composer/stackkit/laravel-google-cloud-tasks-queue@v6.0.0

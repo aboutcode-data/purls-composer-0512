@@ -13,6 +13,8 @@
 - pkg:composer/snoeren-development/laravel-discord-webhook-channel@v1.12.0
 - pkg:composer/snoeren-development/laravel-discord-webhook-channel@v1.12.1
 - pkg:composer/snoeren-development/laravel-discord-webhook-channel@v1.12.2
+- pkg:composer/snoeren-development/laravel-discord-webhook-channel@v1.13.0
+- pkg:composer/snoeren-development/laravel-discord-webhook-channel@v1.13.1
 - pkg:composer/snoeren-development/laravel-discord-webhook-channel@v1.2.0
 - pkg:composer/snoeren-development/laravel-discord-webhook-channel@v1.2.1
 - pkg:composer/snoeren-development/laravel-discord-webhook-channel@v1.3.0

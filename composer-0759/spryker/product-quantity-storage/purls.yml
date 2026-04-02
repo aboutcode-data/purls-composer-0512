@@ -21,3 +21,4 @@
 - pkg:composer/spryker/product-quantity-storage@3.4.0
 - pkg:composer/spryker/product-quantity-storage@3.5.0
 - pkg:composer/spryker/product-quantity-storage@3.6.0
+- pkg:composer/spryker/product-quantity-storage@3.7.0

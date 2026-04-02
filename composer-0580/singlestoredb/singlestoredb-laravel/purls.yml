@@ -23,3 +23,4 @@
 - pkg:composer/singlestoredb/singlestoredb-laravel@v1.5.7
 - pkg:composer/singlestoredb/singlestoredb-laravel@v2.0.0
 - pkg:composer/singlestoredb/singlestoredb-laravel@v2.0.1
+- pkg:composer/singlestoredb/singlestoredb-laravel@v2.0.2

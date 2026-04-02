@@ -58,3 +58,4 @@
 - pkg:composer/spurjobs/spectator@v1.9.1
 - pkg:composer/spurjobs/spectator@v2.0
 - pkg:composer/spurjobs/spectator@v2.1.2
+- pkg:composer/spurjobs/spectator@v2.2.0

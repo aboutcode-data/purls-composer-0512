@@ -127,3 +127,4 @@
 - pkg:composer/spatie/laravel-query-builder@6.4.4
 - pkg:composer/spatie/laravel-query-builder@7.0.0
 - pkg:composer/spatie/laravel-query-builder@7.0.1
+- pkg:composer/spatie/laravel-query-builder@7.1.0
