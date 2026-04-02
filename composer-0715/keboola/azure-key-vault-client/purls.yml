@@ -12,3 +12,4 @@
 - pkg:composer/keboola/azure-key-vault-client@4.1.0
 - pkg:composer/keboola/azure-key-vault-client@4.2.0
 - pkg:composer/keboola/azure-key-vault-client@4.2.1
+- pkg:composer/keboola/azure-key-vault-client@4.3.0

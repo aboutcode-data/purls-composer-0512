@@ -39,6 +39,8 @@
 - pkg:composer/jorenrothman/acf-builder@3.0.23
 - pkg:composer/jorenrothman/acf-builder@3.0.24
 - pkg:composer/jorenrothman/acf-builder@3.0.25
+- pkg:composer/jorenrothman/acf-builder@3.0.26
+- pkg:composer/jorenrothman/acf-builder@3.0.27
 - pkg:composer/jorenrothman/acf-builder@3.0.3
 - pkg:composer/jorenrothman/acf-builder@3.0.3.9998
 - pkg:composer/jorenrothman/acf-builder@3.0.3.9999
