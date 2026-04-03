@@ -110,3 +110,5 @@
 - pkg:composer/teknoo/east-common@4.2.1
 - pkg:composer/teknoo/east-common@4.2.2
 - pkg:composer/teknoo/east-common@4.2.3
+- pkg:composer/teknoo/east-common@4.3.0
+- pkg:composer/teknoo/east-common@4.4.0

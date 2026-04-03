@@ -14,9 +14,11 @@
 - pkg:composer/symfony/json-path@v7.4.1
 - pkg:composer/symfony/json-path@v7.4.3
 - pkg:composer/symfony/json-path@v7.4.4
+- pkg:composer/symfony/json-path@v7.4.8
 - pkg:composer/symfony/json-path@v8.0.0
 - pkg:composer/symfony/json-path@v8.0.0-BETA1
 - pkg:composer/symfony/json-path@v8.0.0-RC1
 - pkg:composer/symfony/json-path@v8.0.1
 - pkg:composer/symfony/json-path@v8.0.3
 - pkg:composer/symfony/json-path@v8.0.4
+- pkg:composer/symfony/json-path@v8.0.8

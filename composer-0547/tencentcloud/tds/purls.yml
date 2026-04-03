@@ -393,6 +393,9 @@
 - pkg:composer/tencentcloud/tds@3.0.1393
 - pkg:composer/tencentcloud/tds@3.0.1394
 - pkg:composer/tencentcloud/tds@3.0.1414
+- pkg:composer/tencentcloud/tds@3.0.1558
+- pkg:composer/tencentcloud/tds@3.0.1559
+- pkg:composer/tencentcloud/tds@3.0.1560
 - pkg:composer/tencentcloud/tds@3.0.734
 - pkg:composer/tencentcloud/tds@3.0.735
 - pkg:composer/tencentcloud/tds@3.0.736

@@ -22,3 +22,4 @@
 - pkg:composer/tfd/statamic-cloudinary@v1.4.3
 - pkg:composer/tfd/statamic-cloudinary@v1.4.4
 - pkg:composer/tfd/statamic-cloudinary@v1.4.5
+- pkg:composer/tfd/statamic-cloudinary@v1.5.0

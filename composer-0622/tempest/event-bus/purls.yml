@@ -70,3 +70,4 @@
 - pkg:composer/tempest/event-bus@v3.7.0
 - pkg:composer/tempest/event-bus@v3.7.1
 - pkg:composer/tempest/event-bus@v3.8.0
+- pkg:composer/tempest/event-bus@v3.9.0

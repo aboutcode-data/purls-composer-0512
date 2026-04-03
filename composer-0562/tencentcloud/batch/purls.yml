@@ -403,6 +403,8 @@
 - pkg:composer/tencentcloud/batch@3.0.1460
 - pkg:composer/tencentcloud/batch@3.0.1490
 - pkg:composer/tencentcloud/batch@3.0.1538
+- pkg:composer/tencentcloud/batch@3.0.1558
+- pkg:composer/tencentcloud/batch@3.0.1559
 - pkg:composer/tencentcloud/batch@3.0.248
 - pkg:composer/tencentcloud/batch@3.0.249
 - pkg:composer/tencentcloud/batch@3.0.250
