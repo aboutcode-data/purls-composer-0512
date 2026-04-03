@@ -10,3 +10,4 @@
 - pkg:composer/horde/text_filter@v3.0.0alpha5
 - pkg:composer/horde/text_filter@v3.0.0alpha6
 - pkg:composer/horde/text_filter@v3.0.0beta1
+- pkg:composer/horde/text_filter@v3.0.0beta2
