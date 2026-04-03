@@ -18,3 +18,4 @@
 - pkg:composer/twidpay/utils@2.0.6
 - pkg:composer/twidpay/utils@2.0.8
 - pkg:composer/twidpay/utils@3.0.0
+- pkg:composer/twidpay/utils@4.0.0

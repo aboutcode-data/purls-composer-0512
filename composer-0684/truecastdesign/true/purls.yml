@@ -213,6 +213,8 @@
 - pkg:composer/truecastdesign/true@v3.11.3
 - pkg:composer/truecastdesign/true@v3.11.4
 - pkg:composer/truecastdesign/true@v3.12
+- pkg:composer/truecastdesign/true@v3.13
+- pkg:composer/truecastdesign/true@v3.14
 - pkg:composer/truecastdesign/true@v3.2.0
 - pkg:composer/truecastdesign/true@v3.4.0
 - pkg:composer/truecastdesign/true@v3.4.1

@@ -9,3 +9,4 @@
 - pkg:composer/utopia-php/fetch@0.5.0
 - pkg:composer/utopia-php/fetch@0.5.1
 - pkg:composer/utopia-php/fetch@1.0.0
+- pkg:composer/utopia-php/fetch@1.1.0

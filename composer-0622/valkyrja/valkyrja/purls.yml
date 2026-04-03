@@ -96,4 +96,5 @@
 - pkg:composer/valkyrja/valkyrja@v25.8.0
 - pkg:composer/valkyrja/valkyrja@v25.9.0
 - pkg:composer/valkyrja/valkyrja@v25.9.1
+- pkg:composer/valkyrja/valkyrja@v26.0.0
 - pkg:composer/valkyrja/valkyrja@v3.0.0
