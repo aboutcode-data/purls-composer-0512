@@ -1,1 +1,2 @@
 - pkg:composer/lartisan/laravel-mailgun-client@1.0.0
+- pkg:composer/lartisan/laravel-mailgun-client@1.1.0
