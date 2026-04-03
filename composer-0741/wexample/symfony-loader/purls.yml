@@ -5,6 +5,9 @@
 - pkg:composer/wexample/symfony-loader@0.0.14
 - pkg:composer/wexample/symfony-loader@0.0.15
 - pkg:composer/wexample/symfony-loader@0.0.16
+- pkg:composer/wexample/symfony-loader@0.0.18
+- pkg:composer/wexample/symfony-loader@0.0.19
+- pkg:composer/wexample/symfony-loader@0.0.20
 - pkg:composer/wexample/symfony-loader@0.0.3
 - pkg:composer/wexample/symfony-loader@0.0.4
 - pkg:composer/wexample/symfony-loader@0.0.5

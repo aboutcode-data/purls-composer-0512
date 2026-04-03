@@ -93,5 +93,8 @@
 - pkg:composer/wexample/symfony-forms@1.0.73
 - pkg:composer/wexample/symfony-forms@1.0.74
 - pkg:composer/wexample/symfony-forms@1.0.75
+- pkg:composer/wexample/symfony-forms@1.0.77
+- pkg:composer/wexample/symfony-forms@1.0.78
+- pkg:composer/wexample/symfony-forms@1.0.79
 - pkg:composer/wexample/symfony-forms@1.0.8
 - pkg:composer/wexample/symfony-forms@1.0.9
