@@ -23,4 +23,6 @@
 - pkg:composer/maksimovic/zend-exception@1.15.4
 - pkg:composer/maksimovic/zend-exception@1.15.5
 - pkg:composer/maksimovic/zend-exception@2.0.1
+- pkg:composer/maksimovic/zend-exception@2.0.2
+- pkg:composer/maksimovic/zend-exception@2.0.3
 - pkg:composer/maksimovic/zend-exception@v2.0.0
