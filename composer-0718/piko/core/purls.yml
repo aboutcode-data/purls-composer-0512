@@ -8,3 +8,5 @@
 - pkg:composer/piko/core@v2.4
 - pkg:composer/piko/core@v2.5
 - pkg:composer/piko/core@v2.6
+- pkg:composer/piko/core@v2.7
+- pkg:composer/piko/core@v2.7.1
