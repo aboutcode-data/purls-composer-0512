@@ -1,4 +1,6 @@
 - pkg:composer/semitexa/blockchain@1.0.3
 - pkg:composer/semitexa/blockchain@1.0.6
+- pkg:composer/semitexa/blockchain@2026.04.03.1240
+- pkg:composer/semitexa/blockchain@2026.04.03.1349
 - pkg:composer/semitexa/blockchain@v1.0.1
 - pkg:composer/semitexa/blockchain@v1.0.5
