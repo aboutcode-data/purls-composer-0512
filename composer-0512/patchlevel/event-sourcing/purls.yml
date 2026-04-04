@@ -70,6 +70,7 @@
 - pkg:composer/patchlevel/event-sourcing@3.16.0
 - pkg:composer/patchlevel/event-sourcing@3.17.0
 - pkg:composer/patchlevel/event-sourcing@3.18.0
+- pkg:composer/patchlevel/event-sourcing@3.19.0
 - pkg:composer/patchlevel/event-sourcing@3.2.0
 - pkg:composer/patchlevel/event-sourcing@3.3.0
 - pkg:composer/patchlevel/event-sourcing@3.4.0
