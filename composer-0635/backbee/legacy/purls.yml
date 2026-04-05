@@ -1,6 +1,7 @@
 - pkg:composer/backbee/legacy@v4.1.1
 - pkg:composer/backbee/legacy@v4.2.0
 - pkg:composer/backbee/legacy@v4.2.1
+- pkg:composer/backbee/legacy@v4.2.10
 - pkg:composer/backbee/legacy@v4.2.2
 - pkg:composer/backbee/legacy@v4.2.2.1
 - pkg:composer/backbee/legacy@v4.2.3
