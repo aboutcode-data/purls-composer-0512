@@ -6,3 +6,4 @@
 - pkg:composer/thibaud-dauce/laravel-notifications-mattermost@1.5.0
 - pkg:composer/thibaud-dauce/laravel-notifications-mattermost@1.6.0
 - pkg:composer/thibaud-dauce/laravel-notifications-mattermost@1.7.0
+- pkg:composer/thibaud-dauce/laravel-notifications-mattermost@1.8.0
