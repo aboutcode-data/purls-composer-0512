@@ -1,3 +1,4 @@
 - pkg:composer/monovm/laravel-postal@v5.0.0
 - pkg:composer/monovm/laravel-postal@v5.0.1
 - pkg:composer/monovm/laravel-postal@v5.0.2
+- pkg:composer/monovm/laravel-postal@v5.0.3
