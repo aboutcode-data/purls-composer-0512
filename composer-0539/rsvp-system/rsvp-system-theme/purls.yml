@@ -58,7 +58,11 @@
 - pkg:composer/rsvp-system/rsvp-system-theme@1.0.115
 - pkg:composer/rsvp-system/rsvp-system-theme@1.0.116
 - pkg:composer/rsvp-system/rsvp-system-theme@1.0.117
+- pkg:composer/rsvp-system/rsvp-system-theme@1.0.118
+- pkg:composer/rsvp-system/rsvp-system-theme@1.0.119
 - pkg:composer/rsvp-system/rsvp-system-theme@1.0.12
+- pkg:composer/rsvp-system/rsvp-system-theme@1.0.120
+- pkg:composer/rsvp-system/rsvp-system-theme@1.0.121
 - pkg:composer/rsvp-system/rsvp-system-theme@1.0.13
 - pkg:composer/rsvp-system/rsvp-system-theme@1.0.14
 - pkg:composer/rsvp-system/rsvp-system-theme@1.0.15
@@ -111,7 +115,6 @@
 - pkg:composer/rsvp-system/rsvp-system-theme@1.0.63
 - pkg:composer/rsvp-system/rsvp-system-theme@1.0.64
 - pkg:composer/rsvp-system/rsvp-system-theme@1.0.7
-- pkg:composer/rsvp-system/rsvp-system-theme@1.0.71
 - pkg:composer/rsvp-system/rsvp-system-theme@1.0.72
 - pkg:composer/rsvp-system/rsvp-system-theme@1.0.73
 - pkg:composer/rsvp-system/rsvp-system-theme@1.0.74
@@ -154,3 +157,4 @@
 - pkg:composer/rsvp-system/rsvp-system-theme@v1.0.68
 - pkg:composer/rsvp-system/rsvp-system-theme@v1.0.69
 - pkg:composer/rsvp-system/rsvp-system-theme@v1.0.70
+- pkg:composer/rsvp-system/rsvp-system-theme@v1.0.71
