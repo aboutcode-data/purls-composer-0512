@@ -15,3 +15,4 @@
 - pkg:composer/doefom/statamic-export@v0.6.3
 - pkg:composer/doefom/statamic-export@v0.6.4
 - pkg:composer/doefom/statamic-export@v0.6.5
+- pkg:composer/doefom/statamic-export@v0.7.0

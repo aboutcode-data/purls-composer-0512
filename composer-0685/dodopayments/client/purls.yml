@@ -55,3 +55,4 @@
 - pkg:composer/dodopayments/client@v6.0.0
 - pkg:composer/dodopayments/client@v6.1.0
 - pkg:composer/dodopayments/client@v6.1.1
+- pkg:composer/dodopayments/client@v6.2.0
