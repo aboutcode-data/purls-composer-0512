@@ -50,3 +50,4 @@
 - pkg:composer/carbon/alpine@0.3.5
 - pkg:composer/carbon/alpine@0.3.6
 - pkg:composer/carbon/alpine@0.3.7
+- pkg:composer/carbon/alpine@0.3.8
