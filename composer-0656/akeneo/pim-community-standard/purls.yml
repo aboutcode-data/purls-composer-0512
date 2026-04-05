@@ -394,6 +394,7 @@
 - pkg:composer/akeneo/pim-community-standard@v2.3.78
 - pkg:composer/akeneo/pim-community-standard@v2.3.8
 - pkg:composer/akeneo/pim-community-standard@v2.3.9
+- pkg:composer/akeneo/pim-community-standard@v2026.3
 - pkg:composer/akeneo/pim-community-standard@v3.0.0
 - pkg:composer/akeneo/pim-community-standard@v3.0.1
 - pkg:composer/akeneo/pim-community-standard@v3.0.10

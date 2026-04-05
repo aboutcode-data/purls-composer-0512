@@ -541,6 +541,7 @@
 - pkg:composer/akeneo/pim-community-dev@v20230724130300
 - pkg:composer/akeneo/pim-community-dev@v20230725092017
 - pkg:composer/akeneo/pim-community-dev@v20230728071241
+- pkg:composer/akeneo/pim-community-dev@v2026.3
 - pkg:composer/akeneo/pim-community-dev@v3.0.0
 - pkg:composer/akeneo/pim-community-dev@v3.0.1
 - pkg:composer/akeneo/pim-community-dev@v3.0.10
