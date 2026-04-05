@@ -14,6 +14,8 @@
 - pkg:composer/codebar-ag/laravel-flysystem-cloudinary-nova@v12.6.0
 - pkg:composer/codebar-ag/laravel-flysystem-cloudinary-nova@v12.7.0
 - pkg:composer/codebar-ag/laravel-flysystem-cloudinary-nova@v12.8.0
+- pkg:composer/codebar-ag/laravel-flysystem-cloudinary-nova@v12.9.0
+- pkg:composer/codebar-ag/laravel-flysystem-cloudinary-nova@v13.0.0
 - pkg:composer/codebar-ag/laravel-flysystem-cloudinary-nova@v2.0
 - pkg:composer/codebar-ag/laravel-flysystem-cloudinary-nova@v2.1
 - pkg:composer/codebar-ag/laravel-flysystem-cloudinary-nova@v2.2

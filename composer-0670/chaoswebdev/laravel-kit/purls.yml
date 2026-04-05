@@ -1,6 +1,7 @@
 - pkg:composer/chaoswebdev/laravel-kit@1.15.1
 - pkg:composer/chaoswebdev/laravel-kit@1.16.0
 - pkg:composer/chaoswebdev/laravel-kit@1.16.1
+- pkg:composer/chaoswebdev/laravel-kit@2.1.0
 - pkg:composer/chaoswebdev/laravel-kit@v0.1.0
 - pkg:composer/chaoswebdev/laravel-kit@v1.0.0
 - pkg:composer/chaoswebdev/laravel-kit@v1.1.0

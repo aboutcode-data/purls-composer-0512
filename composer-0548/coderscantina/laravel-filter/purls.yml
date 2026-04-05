@@ -4,3 +4,4 @@
 - pkg:composer/coderscantina/laravel-filter@v1.1.1
 - pkg:composer/coderscantina/laravel-filter@v1.2.0
 - pkg:composer/coderscantina/laravel-filter@v1.3.0
+- pkg:composer/coderscantina/laravel-filter@v2.0.0
