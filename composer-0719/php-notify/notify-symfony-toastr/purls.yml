@@ -130,3 +130,4 @@
 - pkg:composer/php-notify/notify-symfony-toastr@v2.4.0
 - pkg:composer/php-notify/notify-symfony-toastr@v2.5.0
 - pkg:composer/php-notify/notify-symfony-toastr@v2.5.1
+- pkg:composer/php-notify/notify-symfony-toastr@v2.5.2
