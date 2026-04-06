@@ -23,3 +23,5 @@
 - pkg:composer/actra/yuf@v0.7.4
 - pkg:composer/actra/yuf@v0.7.5
 - pkg:composer/actra/yuf@v0.7.6
+- pkg:composer/actra/yuf@v0.8.0
+- pkg:composer/actra/yuf@v0.8.1
