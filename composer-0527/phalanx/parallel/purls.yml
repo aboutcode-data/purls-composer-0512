@@ -2,3 +2,4 @@
 - pkg:composer/phalanx/parallel@v0.2.0
 - pkg:composer/phalanx/parallel@v0.3.0
 - pkg:composer/phalanx/parallel@v0.4.0
+- pkg:composer/phalanx/parallel@v0.5.0
