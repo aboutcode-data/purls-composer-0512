@@ -72,7 +72,6 @@
 - pkg:composer/xp-framework/core@v12.6.2
 - pkg:composer/xp-framework/core@v12.7.0
 - pkg:composer/xp-framework/core@v12.8.0
-- pkg:composer/xp-framework/core@v12.9.0
 - pkg:composer/xp-framework/core@v6.0.0
 - pkg:composer/xp-framework/core@v6.0.0alpha3
 - pkg:composer/xp-framework/core@v6.0.0alpha4
