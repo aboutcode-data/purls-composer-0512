@@ -12,3 +12,4 @@
 - pkg:composer/verifiedit/laravel-notification-channel-clicksend@2.2.1
 - pkg:composer/verifiedit/laravel-notification-channel-clicksend@2.3.0
 - pkg:composer/verifiedit/laravel-notification-channel-clicksend@2.4.0
+- pkg:composer/verifiedit/laravel-notification-channel-clicksend@3.0.0
