@@ -1,2 +1,3 @@
 - pkg:composer/opencoreemr/oce-module-sinch-conversations@0.9.0
 - pkg:composer/opencoreemr/oce-module-sinch-conversations@1.0.0
+- pkg:composer/opencoreemr/oce-module-sinch-conversations@1.0.1
