@@ -32,3 +32,4 @@
 - pkg:composer/spryker/product-attribute-gui@1.8.0
 - pkg:composer/spryker/product-attribute-gui@2.0.0
 - pkg:composer/spryker/product-attribute-gui@2.1.0
+- pkg:composer/spryker/product-attribute-gui@2.2.0

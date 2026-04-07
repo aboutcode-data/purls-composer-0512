@@ -12,3 +12,4 @@
 - pkg:composer/statikbe/laravel-chained-translator@2.4.0
 - pkg:composer/statikbe/laravel-chained-translator@2.4.1
 - pkg:composer/statikbe/laravel-chained-translator@2.5.0
+- pkg:composer/statikbe/laravel-chained-translator@2.6.0
