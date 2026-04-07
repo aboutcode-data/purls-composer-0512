@@ -29,3 +29,4 @@
 - pkg:composer/barryvdh/elfinder-bundle@v0.5.3
 - pkg:composer/barryvdh/elfinder-bundle@v0.5.4
 - pkg:composer/barryvdh/elfinder-bundle@v0.5.5
+- pkg:composer/barryvdh/elfinder-bundle@v0.6.0
