@@ -1,6 +1,5 @@
 - pkg:composer/yangweijie/think-orm-sqlite-remote@v1.0.0
 - pkg:composer/yangweijie/think-orm-sqlite-remote@v1.0.1
-- pkg:composer/yangweijie/think-orm-sqlite-remote@v1.1.0
 - pkg:composer/yangweijie/think-orm-sqlite-remote@v1.1.1
 - pkg:composer/yangweijie/think-orm-sqlite-remote@v1.1.2
 - pkg:composer/yangweijie/think-orm-sqlite-remote@v1.1.3
