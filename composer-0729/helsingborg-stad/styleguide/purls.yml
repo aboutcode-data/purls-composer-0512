@@ -208,6 +208,8 @@
 - pkg:composer/helsingborg-stad/styleguide@2.202.4
 - pkg:composer/helsingborg-stad/styleguide@2.202.6
 - pkg:composer/helsingborg-stad/styleguide@2.202.8
+- pkg:composer/helsingborg-stad/styleguide@2.203.0
+- pkg:composer/helsingborg-stad/styleguide@2.204.3
 - pkg:composer/helsingborg-stad/styleguide@v0.11.0
 - pkg:composer/helsingborg-stad/styleguide@v0.11.1
 - pkg:composer/helsingborg-stad/styleguide@v0.11.10

@@ -27,3 +27,5 @@
 - pkg:composer/hackzilla/password-generator-bundle@5.0.0
 - pkg:composer/hackzilla/password-generator-bundle@5.0.1
 - pkg:composer/hackzilla/password-generator-bundle@6.0.0
+- pkg:composer/hackzilla/password-generator-bundle@6.0.1
+- pkg:composer/hackzilla/password-generator-bundle@7.0.0
