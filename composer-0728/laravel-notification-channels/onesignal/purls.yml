@@ -4,6 +4,7 @@
 - pkg:composer/laravel-notification-channels/onesignal@1.1.0
 - pkg:composer/laravel-notification-channels/onesignal@1.1.1
 - pkg:composer/laravel-notification-channels/onesignal@1.2.0
+- pkg:composer/laravel-notification-channels/onesignal@2.8.1
 - pkg:composer/laravel-notification-channels/onesignal@v1.2.0-rc.1
 - pkg:composer/laravel-notification-channels/onesignal@v2.0.0
 - pkg:composer/laravel-notification-channels/onesignal@v2.0.0-rc1
