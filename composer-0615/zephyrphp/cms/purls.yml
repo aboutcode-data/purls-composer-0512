@@ -193,7 +193,15 @@
 - pkg:composer/zephyrphp/cms@v0.9.54
 - pkg:composer/zephyrphp/cms@v0.9.55
 - pkg:composer/zephyrphp/cms@v0.9.56
+- pkg:composer/zephyrphp/cms@v0.9.57
+- pkg:composer/zephyrphp/cms@v0.9.58
+- pkg:composer/zephyrphp/cms@v0.9.59
 - pkg:composer/zephyrphp/cms@v0.9.6
+- pkg:composer/zephyrphp/cms@v0.9.60
+- pkg:composer/zephyrphp/cms@v0.9.61
+- pkg:composer/zephyrphp/cms@v0.9.62
+- pkg:composer/zephyrphp/cms@v0.9.63
+- pkg:composer/zephyrphp/cms@v0.9.64
 - pkg:composer/zephyrphp/cms@v0.9.7
 - pkg:composer/zephyrphp/cms@v0.9.8
 - pkg:composer/zephyrphp/cms@v0.9.9
