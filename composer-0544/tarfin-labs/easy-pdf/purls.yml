@@ -2,6 +2,7 @@
 - pkg:composer/tarfin-labs/easy-pdf@1.1.0
 - pkg:composer/tarfin-labs/easy-pdf@1.2.1
 - pkg:composer/tarfin-labs/easy-pdf@2.1.0
+- pkg:composer/tarfin-labs/easy-pdf@3.0.0
 - pkg:composer/tarfin-labs/easy-pdf@v1.2.0
 - pkg:composer/tarfin-labs/easy-pdf@v2.0.0
 - pkg:composer/tarfin-labs/easy-pdf@v2.10.0

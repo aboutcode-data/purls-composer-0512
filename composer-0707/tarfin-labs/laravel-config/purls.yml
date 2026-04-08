@@ -10,6 +10,7 @@
 - pkg:composer/tarfin-labs/laravel-config@4.6.0
 - pkg:composer/tarfin-labs/laravel-config@5.1.1
 - pkg:composer/tarfin-labs/laravel-config@5.2.1
+- pkg:composer/tarfin-labs/laravel-config@6.1.0
 - pkg:composer/tarfin-labs/laravel-config@v3.0.0
 - pkg:composer/tarfin-labs/laravel-config@v4.7.0
 - pkg:composer/tarfin-labs/laravel-config@v5.0.0
