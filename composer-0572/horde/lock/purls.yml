@@ -6,3 +6,4 @@
 - pkg:composer/horde/lock@3.0.0alpha2
 - pkg:composer/horde/lock@v3.0.0alpha3
 - pkg:composer/horde/lock@v3.0.0alpha4
+- pkg:composer/horde/lock@v3.0.0beta1

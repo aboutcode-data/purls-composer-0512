@@ -44,3 +44,4 @@
 - pkg:composer/hyperf/consul@v3.2.0-alpha.1
 - pkg:composer/hyperf/consul@v3.2.0-alpha.3
 - pkg:composer/hyperf/consul@v3.2.0-beta.1
+- pkg:composer/hyperf/consul@v3.2.0-rc.2
