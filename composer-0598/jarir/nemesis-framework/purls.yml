@@ -2,3 +2,8 @@
 - pkg:composer/jarir/nemesis-framework@1.1.0.1
 - pkg:composer/jarir/nemesis-framework@2.0.0.0
 - pkg:composer/jarir/nemesis-framework@3.0.0
+- pkg:composer/jarir/nemesis-framework@4.0.0
+- pkg:composer/jarir/nemesis-framework@5.1.0
+- pkg:composer/jarir/nemesis-framework@6.0.0
+- pkg:composer/jarir/nemesis-framework@6.1.0
+- pkg:composer/jarir/nemesis-framework@v5.1.1

@@ -3,3 +3,4 @@
 - pkg:composer/jorbascrumps/laravel-queue-it@1.2.0
 - pkg:composer/jorbascrumps/laravel-queue-it@1.3.0
 - pkg:composer/jorbascrumps/laravel-queue-it@2.0.0
+- pkg:composer/jorbascrumps/laravel-queue-it@2.1.0

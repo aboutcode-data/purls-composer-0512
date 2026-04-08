@@ -223,6 +223,8 @@
 - pkg:composer/itzbund/gsb-minimal@v2.1.0-rc.1
 - pkg:composer/itzbund/gsb-minimal@v2.1.1-rc.1
 - pkg:composer/itzbund/gsb-minimal@v2.10.0-rc.1
+- pkg:composer/itzbund/gsb-minimal@v2.10.0-rc.2
+- pkg:composer/itzbund/gsb-minimal@v2.10.0-rc.3
 - pkg:composer/itzbund/gsb-minimal@v2.2.0
 - pkg:composer/itzbund/gsb-minimal@v2.2.0-rc.1
 - pkg:composer/itzbund/gsb-minimal@v2.3.0
