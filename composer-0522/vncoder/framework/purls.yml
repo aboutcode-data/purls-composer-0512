@@ -52,9 +52,13 @@
 - pkg:composer/vncoder/framework@v1.2.8
 - pkg:composer/vncoder/framework@v1.2.9
 - pkg:composer/vncoder/framework@v1.3.1
+- pkg:composer/vncoder/framework@v1.3.10
+- pkg:composer/vncoder/framework@v1.3.11
 - pkg:composer/vncoder/framework@v1.3.2
 - pkg:composer/vncoder/framework@v1.3.3
 - pkg:composer/vncoder/framework@v1.3.4
 - pkg:composer/vncoder/framework@v1.3.5
 - pkg:composer/vncoder/framework@v1.3.6
 - pkg:composer/vncoder/framework@v1.3.7
+- pkg:composer/vncoder/framework@v1.3.8
+- pkg:composer/vncoder/framework@v1.3.9
