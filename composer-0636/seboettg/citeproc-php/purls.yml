@@ -1,4 +1,4 @@
-- pkg:composer/seboettg/citeproc-php@1.7.0
+- pkg:composer/seboettg/citeproc-php@v1.7.0
 - pkg:composer/seboettg/citeproc-php@v2.0.0
 - pkg:composer/seboettg/citeproc-php@v2.0.0-alpha
 - pkg:composer/seboettg/citeproc-php@v2.0.0-alpha2

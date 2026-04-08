@@ -5,6 +5,8 @@
 - pkg:composer/scell/sdk@1.6.1
 - pkg:composer/scell/sdk@v1.1.0
 - pkg:composer/scell/sdk@v1.10.0
+- pkg:composer/scell/sdk@v1.11.0
+- pkg:composer/scell/sdk@v1.11.1
 - pkg:composer/scell/sdk@v1.5.0
 - pkg:composer/scell/sdk@v1.7.0
 - pkg:composer/scell/sdk@v1.8.0
