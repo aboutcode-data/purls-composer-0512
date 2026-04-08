@@ -1,3 +1,4 @@
 - pkg:composer/eclipxe/php-soft-daemon@v1.0.0
 - pkg:composer/eclipxe/php-soft-daemon@v2.0.0
 - pkg:composer/eclipxe/php-soft-daemon@v2.0.1
+- pkg:composer/eclipxe/php-soft-daemon@v3.0.0
