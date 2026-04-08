@@ -10,3 +10,4 @@
 - pkg:composer/ergebnis/json-pointer@3.6.0
 - pkg:composer/ergebnis/json-pointer@3.7.0
 - pkg:composer/ergebnis/json-pointer@3.7.1
+- pkg:composer/ergebnis/json-pointer@3.8.0

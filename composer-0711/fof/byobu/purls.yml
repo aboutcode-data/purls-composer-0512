@@ -93,7 +93,9 @@
 - pkg:composer/fof/byobu@1.4.2
 - pkg:composer/fof/byobu@1.4.3
 - pkg:composer/fof/byobu@1.4.4
+- pkg:composer/fof/byobu@1.4.5
 - pkg:composer/fof/byobu@2.0.0-beta.1
+- pkg:composer/fof/byobu@2.0.0-beta.10
 - pkg:composer/fof/byobu@2.0.0-beta.2
 - pkg:composer/fof/byobu@2.0.0-beta.3
 - pkg:composer/fof/byobu@2.0.0-beta.4
@@ -101,3 +103,4 @@
 - pkg:composer/fof/byobu@2.0.0-beta.6
 - pkg:composer/fof/byobu@2.0.0-beta.7
 - pkg:composer/fof/byobu@2.0.0-beta.8
+- pkg:composer/fof/byobu@2.0.0-beta.9

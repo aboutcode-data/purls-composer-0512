@@ -7,3 +7,4 @@
 - pkg:composer/flow-php/postgresql@0.34.1
 - pkg:composer/flow-php/postgresql@0.34.2
 - pkg:composer/flow-php/postgresql@0.34.3
+- pkg:composer/flow-php/postgresql@0.35.0

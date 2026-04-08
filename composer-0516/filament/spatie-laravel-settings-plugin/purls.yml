@@ -918,6 +918,7 @@
 - pkg:composer/filament/spatie-laravel-settings-plugin@v3.3.48
 - pkg:composer/filament/spatie-laravel-settings-plugin@v3.3.49
 - pkg:composer/filament/spatie-laravel-settings-plugin@v3.3.5
+- pkg:composer/filament/spatie-laravel-settings-plugin@v3.3.50
 - pkg:composer/filament/spatie-laravel-settings-plugin@v3.3.6
 - pkg:composer/filament/spatie-laravel-settings-plugin@v3.3.7
 - pkg:composer/filament/spatie-laravel-settings-plugin@v3.3.8
@@ -1018,6 +1019,8 @@
 - pkg:composer/filament/spatie-laravel-settings-plugin@v4.9.1
 - pkg:composer/filament/spatie-laravel-settings-plugin@v4.9.2
 - pkg:composer/filament/spatie-laravel-settings-plugin@v4.9.3
+- pkg:composer/filament/spatie-laravel-settings-plugin@v4.9.4
+- pkg:composer/filament/spatie-laravel-settings-plugin@v4.9.5
 - pkg:composer/filament/spatie-laravel-settings-plugin@v5.0.0
 - pkg:composer/filament/spatie-laravel-settings-plugin@v5.0.0-beta1
 - pkg:composer/filament/spatie-laravel-settings-plugin@v5.0.0-beta2
@@ -1047,3 +1050,5 @@
 - pkg:composer/filament/spatie-laravel-settings-plugin@v5.4.1
 - pkg:composer/filament/spatie-laravel-settings-plugin@v5.4.2
 - pkg:composer/filament/spatie-laravel-settings-plugin@v5.4.3
+- pkg:composer/filament/spatie-laravel-settings-plugin@v5.4.4
+- pkg:composer/filament/spatie-laravel-settings-plugin@v5.4.5
