@@ -4,6 +4,7 @@
 - pkg:composer/cmsexperts/simpleevents@4.0.2
 - pkg:composer/cmsexperts/simpleevents@5.0.0
 - pkg:composer/cmsexperts/simpleevents@6.0.0
+- pkg:composer/cmsexperts/simpleevents@6.0.1
 - pkg:composer/cmsexperts/simpleevents@v1.0.1
 - pkg:composer/cmsexperts/simpleevents@v1.0.2
 - pkg:composer/cmsexperts/simpleevents@v2.0.0
