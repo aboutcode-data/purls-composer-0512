@@ -12,3 +12,5 @@
 - pkg:composer/wp-php-toolkit/streaming-importer@v0.1.30
 - pkg:composer/wp-php-toolkit/streaming-importer@v0.1.31
 - pkg:composer/wp-php-toolkit/streaming-importer@v0.1.32
+- pkg:composer/wp-php-toolkit/streaming-importer@v0.1.33
+- pkg:composer/wp-php-toolkit/streaming-importer@v0.1.34
