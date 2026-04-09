@@ -50,3 +50,4 @@
 - pkg:composer/craftcms/shopify@7.0.0
 - pkg:composer/craftcms/shopify@7.0.1
 - pkg:composer/craftcms/shopify@7.0.2
+- pkg:composer/craftcms/shopify@7.1.0
