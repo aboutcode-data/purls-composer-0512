@@ -2,3 +2,4 @@
 - pkg:composer/horde/text_wiki@2.0.0-alpha.2
 - pkg:composer/horde/text_wiki@2.0.0-alpha.3
 - pkg:composer/horde/text_wiki@v2.0.0-alpha.1
+- pkg:composer/horde/text_wiki@v3.0.0beta1

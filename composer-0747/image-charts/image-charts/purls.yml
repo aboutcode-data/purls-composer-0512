@@ -199,6 +199,10 @@
 - pkg:composer/image-charts/image-charts@6.1.269
 - pkg:composer/image-charts/image-charts@6.1.27
 - pkg:composer/image-charts/image-charts@6.1.270
+- pkg:composer/image-charts/image-charts@6.1.271
+- pkg:composer/image-charts/image-charts@6.1.272
+- pkg:composer/image-charts/image-charts@6.1.273
+- pkg:composer/image-charts/image-charts@6.1.274
 - pkg:composer/image-charts/image-charts@6.1.28
 - pkg:composer/image-charts/image-charts@6.1.29
 - pkg:composer/image-charts/image-charts@6.1.30
