@@ -97,6 +97,7 @@
 - pkg:composer/drupal/core-vendor-hardening@10.6.3
 - pkg:composer/drupal/core-vendor-hardening@10.6.4
 - pkg:composer/drupal/core-vendor-hardening@10.6.5
+- pkg:composer/drupal/core-vendor-hardening@10.6.6
 - pkg:composer/drupal/core-vendor-hardening@11.0.0
 - pkg:composer/drupal/core-vendor-hardening@11.0.0-alpha1
 - pkg:composer/drupal/core-vendor-hardening@11.0.0-beta1
@@ -151,6 +152,7 @@
 - pkg:composer/drupal/core-vendor-hardening@11.3.3
 - pkg:composer/drupal/core-vendor-hardening@11.3.4
 - pkg:composer/drupal/core-vendor-hardening@11.3.5
+- pkg:composer/drupal/core-vendor-hardening@11.3.6
 - pkg:composer/drupal/core-vendor-hardening@8.7.11
 - pkg:composer/drupal/core-vendor-hardening@8.8.0
 - pkg:composer/drupal/core-vendor-hardening@8.8.0-alpha1

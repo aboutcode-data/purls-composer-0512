@@ -98,6 +98,7 @@
 - pkg:composer/drupal/core-dev-pinned@10.6.3
 - pkg:composer/drupal/core-dev-pinned@10.6.4
 - pkg:composer/drupal/core-dev-pinned@10.6.5
+- pkg:composer/drupal/core-dev-pinned@10.6.6
 - pkg:composer/drupal/core-dev-pinned@11.0.0
 - pkg:composer/drupal/core-dev-pinned@11.0.0-alpha1
 - pkg:composer/drupal/core-dev-pinned@11.0.0-beta1
