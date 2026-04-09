@@ -1,3 +1,4 @@
 - pkg:composer/beholdr/commonmark-shortcode@v0.0.1
 - pkg:composer/beholdr/commonmark-shortcode@v0.0.2
 - pkg:composer/beholdr/commonmark-shortcode@v0.0.3
+- pkg:composer/beholdr/commonmark-shortcode@v0.0.4
