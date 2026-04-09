@@ -17,5 +17,6 @@
 - pkg:composer/fsi/admin-security-bundle@4.0.2
 - pkg:composer/fsi/admin-security-bundle@4.1.0
 - pkg:composer/fsi/admin-security-bundle@4.1.1
+- pkg:composer/fsi/admin-security-bundle@4.1.2
 - pkg:composer/fsi/admin-security-bundle@v1.0.0
 - pkg:composer/fsi/admin-security-bundle@v1.0.1
