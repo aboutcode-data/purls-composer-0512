@@ -1,2 +1,3 @@
 - pkg:composer/bentools/doctrine-safe-events@1.0
 - pkg:composer/bentools/doctrine-safe-events@1.0.1
+- pkg:composer/bentools/doctrine-safe-events@1.1.0
