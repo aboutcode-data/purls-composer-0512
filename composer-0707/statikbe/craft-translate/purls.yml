@@ -25,3 +25,4 @@
 - pkg:composer/statikbe/craft-translate@5.0.0
 - pkg:composer/statikbe/craft-translate@5.0.0.beta-01
 - pkg:composer/statikbe/craft-translate@5.0.1
+- pkg:composer/statikbe/craft-translate@5.1.0
