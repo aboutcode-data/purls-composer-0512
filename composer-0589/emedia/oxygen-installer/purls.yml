@@ -4,3 +4,5 @@
 - pkg:composer/emedia/oxygen-installer@v2.0.0
 - pkg:composer/emedia/oxygen-installer@v2.1.0
 - pkg:composer/emedia/oxygen-installer@v2.2.0
+- pkg:composer/emedia/oxygen-installer@v4.0.0
+- pkg:composer/emedia/oxygen-installer@v5.0.0

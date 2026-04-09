@@ -1,1 +1,2 @@
 - pkg:composer/firehub/phpstan-rules@v1.0.0
+- pkg:composer/firehub/phpstan-rules@v1.0.1

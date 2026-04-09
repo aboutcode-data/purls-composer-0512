@@ -36,7 +36,6 @@
 - pkg:composer/flow-php/etl-adapter-chartjs@0.34.1
 - pkg:composer/flow-php/etl-adapter-chartjs@0.34.2
 - pkg:composer/flow-php/etl-adapter-chartjs@0.34.3
-- pkg:composer/flow-php/etl-adapter-chartjs@0.35.0
 - pkg:composer/flow-php/etl-adapter-chartjs@0.4.0
 - pkg:composer/flow-php/etl-adapter-chartjs@0.5.0
 - pkg:composer/flow-php/etl-adapter-chartjs@0.5.1
