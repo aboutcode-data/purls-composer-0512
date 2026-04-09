@@ -46,6 +46,8 @@
 - pkg:composer/codebar-ag/laravel-docuware@v13.0.0
 - pkg:composer/codebar-ag/laravel-docuware@v13.1.0
 - pkg:composer/codebar-ag/laravel-docuware@v13.2.0
+- pkg:composer/codebar-ag/laravel-docuware@v13.3.0
+- pkg:composer/codebar-ag/laravel-docuware@v14.0.0
 - pkg:composer/codebar-ag/laravel-docuware@v2.0
 - pkg:composer/codebar-ag/laravel-docuware@v2.0.1
 - pkg:composer/codebar-ag/laravel-docuware@v2.0.2
