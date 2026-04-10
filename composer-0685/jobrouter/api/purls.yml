@@ -239,6 +239,8 @@
 - pkg:composer/jobrouter/api@2025.1.17-beta.1
 - pkg:composer/jobrouter/api@2025.1.17-stable
 - pkg:composer/jobrouter/api@2025.1.18-beta.1
+- pkg:composer/jobrouter/api@2025.1.18-stable
+- pkg:composer/jobrouter/api@2025.1.19-beta.1
 - pkg:composer/jobrouter/api@2025.1.2-beta.1
 - pkg:composer/jobrouter/api@2025.1.2-stable
 - pkg:composer/jobrouter/api@2025.1.3-beta.1
@@ -274,6 +276,7 @@
 - pkg:composer/jobrouter/api@2025.2.7-beta.1
 - pkg:composer/jobrouter/api@2025.2.7-stable
 - pkg:composer/jobrouter/api@2025.2.8-beta.1
+- pkg:composer/jobrouter/api@2025.2.8-stable
 - pkg:composer/jobrouter/api@2026.1.0-beta.1
 - pkg:composer/jobrouter/api@2026.1.0-beta.2
 - pkg:composer/jobrouter/api@2026.1.0-stable

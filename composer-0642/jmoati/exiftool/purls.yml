@@ -34,3 +34,4 @@
 - pkg:composer/jmoati/exiftool@3.0.0
 - pkg:composer/jmoati/exiftool@4.0.0
 - pkg:composer/jmoati/exiftool@5.0.0
+- pkg:composer/jmoati/exiftool@5.0.1

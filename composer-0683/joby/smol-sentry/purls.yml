@@ -1,2 +1,4 @@
 - pkg:composer/joby/smol-sentry@v1.0.0
 - pkg:composer/joby/smol-sentry@v1.1.0
+- pkg:composer/joby/smol-sentry@v1.2.0
+- pkg:composer/joby/smol-sentry@v1.2.1

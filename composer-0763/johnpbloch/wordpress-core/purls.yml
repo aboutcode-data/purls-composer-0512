@@ -749,6 +749,7 @@
 - pkg:composer/johnpbloch/wordpress-core@6.0.1
 - pkg:composer/johnpbloch/wordpress-core@6.0.10
 - pkg:composer/johnpbloch/wordpress-core@6.0.11
+- pkg:composer/johnpbloch/wordpress-core@6.0.12
 - pkg:composer/johnpbloch/wordpress-core@6.0.2
 - pkg:composer/johnpbloch/wordpress-core@6.0.3
 - pkg:composer/johnpbloch/wordpress-core@6.0.4
