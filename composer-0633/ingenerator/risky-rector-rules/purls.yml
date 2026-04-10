@@ -1,1 +1,3 @@
 - pkg:composer/ingenerator/risky-rector-rules@v1.0.0
+- pkg:composer/ingenerator/risky-rector-rules@v1.1.0
+- pkg:composer/ingenerator/risky-rector-rules@v1.1.1
