@@ -1,8 +1,10 @@
 - pkg:composer/greenworld/magento2-module-general@2.4.2310270
 - pkg:composer/greenworld/magento2-module-general@2.4.2410290
+- pkg:composer/greenworld/magento2-module-general@2.4.2411050
 - pkg:composer/greenworld/magento2-module-general@2.4.2505130
 - pkg:composer/greenworld/magento2-module-general@2.4.2508041
 - pkg:composer/greenworld/magento2-module-general@2.4.2509100
 - pkg:composer/greenworld/magento2-module-general@2.4.2512110
 - pkg:composer/greenworld/magento2-module-general@2.4.2601160
 - pkg:composer/greenworld/magento2-module-general@2.4.2601220
+- pkg:composer/greenworld/magento2-module-general@2.4.2602240
