@@ -2,3 +2,4 @@
 - pkg:composer/phpnomad/core@2.0.0
 - pkg:composer/phpnomad/core@3.0.0
 - pkg:composer/phpnomad/core@3.0.1
+- pkg:composer/phpnomad/core@3.0.2

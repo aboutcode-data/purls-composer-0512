@@ -20,6 +20,7 @@
 - pkg:composer/php-code-archeology/php-code-archeology@v1.8.0
 - pkg:composer/php-code-archeology/php-code-archeology@v2.0.0
 - pkg:composer/php-code-archeology/php-code-archeology@v2.1.0
+- pkg:composer/php-code-archeology/php-code-archeology@v2.10.0
 - pkg:composer/php-code-archeology/php-code-archeology@v2.2.0
 - pkg:composer/php-code-archeology/php-code-archeology@v2.2.1
 - pkg:composer/php-code-archeology/php-code-archeology@v2.2.2
@@ -33,3 +34,5 @@
 - pkg:composer/php-code-archeology/php-code-archeology@v2.7.2
 - pkg:composer/php-code-archeology/php-code-archeology@v2.7.3
 - pkg:composer/php-code-archeology/php-code-archeology@v2.8.0
+- pkg:composer/php-code-archeology/php-code-archeology@v2.9.0
+- pkg:composer/php-code-archeology/php-code-archeology@v2.9.1
