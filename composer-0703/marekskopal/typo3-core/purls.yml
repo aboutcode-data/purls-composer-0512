@@ -26,3 +26,5 @@
 - pkg:composer/marekskopal/typo3-core@v14.0.1
 - pkg:composer/marekskopal/typo3-core@v14.0.2
 - pkg:composer/marekskopal/typo3-core@v14.0.3
+- pkg:composer/marekskopal/typo3-core@v14.1.0
+- pkg:composer/marekskopal/typo3-core@v14.1.1
