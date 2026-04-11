@@ -24,3 +24,7 @@
 - pkg:composer/rabbitevents/listener@v9.0.0
 - pkg:composer/rabbitevents/listener@v9.0.0-alpha1
 - pkg:composer/rabbitevents/listener@v9.0.0-alpha2
+- pkg:composer/rabbitevents/listener@v9.0.2
+- pkg:composer/rabbitevents/listener@v9.0.3
+- pkg:composer/rabbitevents/listener@v9.0.4
+- pkg:composer/rabbitevents/listener@v9.0.5
