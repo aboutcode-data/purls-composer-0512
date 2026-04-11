@@ -298,6 +298,7 @@
 - pkg:composer/ecotone/pdo-event-sourcing@1.306.0
 - pkg:composer/ecotone/pdo-event-sourcing@1.306.1
 - pkg:composer/ecotone/pdo-event-sourcing@1.307.0
+- pkg:composer/ecotone/pdo-event-sourcing@1.308.0
 - pkg:composer/ecotone/pdo-event-sourcing@1.31.0
 - pkg:composer/ecotone/pdo-event-sourcing@1.31.1
 - pkg:composer/ecotone/pdo-event-sourcing@1.32.0
