@@ -38,3 +38,4 @@
 - pkg:composer/laravel-enso/users@2.4.5
 - pkg:composer/laravel-enso/users@2.5.0
 - pkg:composer/laravel-enso/users@2.6.0
+- pkg:composer/laravel-enso/users@2.7.0

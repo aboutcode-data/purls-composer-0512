@@ -39,9 +39,12 @@
 - pkg:composer/liquidlight/typo3-form-to-database@4.3.0
 - pkg:composer/liquidlight/typo3-form-to-database@4.3.1
 - pkg:composer/liquidlight/typo3-form-to-database@4.4.0
+- pkg:composer/liquidlight/typo3-form-to-database@4.4.1
+- pkg:composer/liquidlight/typo3-form-to-database@4.4.2
 - pkg:composer/liquidlight/typo3-form-to-database@5.0.0
 - pkg:composer/liquidlight/typo3-form-to-database@5.0.1
 - pkg:composer/liquidlight/typo3-form-to-database@5.0.2
 - pkg:composer/liquidlight/typo3-form-to-database@5.1.0
 - pkg:composer/liquidlight/typo3-form-to-database@5.2.0
 - pkg:composer/liquidlight/typo3-form-to-database@5.2.1
+- pkg:composer/liquidlight/typo3-form-to-database@5.3.0

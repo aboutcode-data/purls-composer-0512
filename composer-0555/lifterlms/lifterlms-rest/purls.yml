@@ -29,3 +29,5 @@
 - pkg:composer/lifterlms/lifterlms-rest@1.0.1
 - pkg:composer/lifterlms/lifterlms-rest@1.0.2
 - pkg:composer/lifterlms/lifterlms-rest@1.0.3
+- pkg:composer/lifterlms/lifterlms-rest@1.0.4
+- pkg:composer/lifterlms/lifterlms-rest@1.0.5

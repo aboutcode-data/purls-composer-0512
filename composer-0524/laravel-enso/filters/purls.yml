@@ -28,3 +28,4 @@
 - pkg:composer/laravel-enso/filters@2.3.2
 - pkg:composer/laravel-enso/filters@2.3.3
 - pkg:composer/laravel-enso/filters@2.4.0
+- pkg:composer/laravel-enso/filters@3.0.0

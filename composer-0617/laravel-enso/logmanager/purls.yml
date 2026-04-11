@@ -145,3 +145,4 @@
 - pkg:composer/laravel-enso/logmanager@4.3.1
 - pkg:composer/laravel-enso/logmanager@4.4.0
 - pkg:composer/laravel-enso/logmanager@4.4.1
+- pkg:composer/laravel-enso/logmanager@4.5.0

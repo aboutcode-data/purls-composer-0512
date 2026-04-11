@@ -109,3 +109,4 @@
 - pkg:composer/laravel-enso/dataexport@3.5.0
 - pkg:composer/laravel-enso/dataexport@3.5.1
 - pkg:composer/laravel-enso/dataexport@3.6.0
+- pkg:composer/laravel-enso/dataexport@3.7.0

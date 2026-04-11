@@ -14,3 +14,5 @@
 - pkg:composer/litespeed/lscache-laravel@v1.3.6
 - pkg:composer/litespeed/lscache-laravel@v1.3.7
 - pkg:composer/litespeed/lscache-laravel@v1.3.8
+- pkg:composer/litespeed/lscache-laravel@v1.3.9
+- pkg:composer/litespeed/lscache-laravel@v2.0.0

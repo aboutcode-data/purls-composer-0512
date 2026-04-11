@@ -196,3 +196,4 @@
 - pkg:composer/laravel-enso/filemanager@5.6.0
 - pkg:composer/laravel-enso/filemanager@5.6.1
 - pkg:composer/laravel-enso/filemanager@5.6.2
+- pkg:composer/laravel-enso/filemanager@5.7.0

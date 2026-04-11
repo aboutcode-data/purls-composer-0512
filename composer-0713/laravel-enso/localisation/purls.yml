@@ -362,3 +362,4 @@
 - pkg:composer/laravel-enso/localisation@5.2.2
 - pkg:composer/laravel-enso/localisation@5.3.0
 - pkg:composer/laravel-enso/localisation@5.3.1
+- pkg:composer/laravel-enso/localisation@5.4.0
