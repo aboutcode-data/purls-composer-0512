@@ -37,3 +37,5 @@
 - pkg:composer/multicaret/laravel-acquaintances@v3.7.1
 - pkg:composer/multicaret/laravel-acquaintances@v3.7.2
 - pkg:composer/multicaret/laravel-acquaintances@v3.7.3
+- pkg:composer/multicaret/laravel-acquaintances@v4.0.0-beta.1
+- pkg:composer/multicaret/laravel-acquaintances@v4.0.0-beta.2
