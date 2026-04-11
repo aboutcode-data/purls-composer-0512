@@ -1,1 +1,2 @@
 - pkg:composer/ket-php/filesystem@1.0.0
+- pkg:composer/ket-php/filesystem@1.1.0

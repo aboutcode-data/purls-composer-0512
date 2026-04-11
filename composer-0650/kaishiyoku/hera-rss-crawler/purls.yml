@@ -55,3 +55,4 @@
 - pkg:composer/kaishiyoku/hera-rss-crawler@6.2.1
 - pkg:composer/kaishiyoku/hera-rss-crawler@6.3.0
 - pkg:composer/kaishiyoku/hera-rss-crawler@7.0.0
+- pkg:composer/kaishiyoku/hera-rss-crawler@8.0.0
