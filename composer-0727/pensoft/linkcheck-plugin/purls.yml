@@ -1,2 +1,3 @@
 - pkg:composer/pensoft/linkcheck-plugin@1.0.5
 - pkg:composer/pensoft/linkcheck-plugin@1.0.6
+- pkg:composer/pensoft/linkcheck-plugin@4.0.1

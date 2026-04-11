@@ -1,3 +1,7 @@
+- pkg:composer/ownerpro/nfsen-php-sdk@2.1.0
 - pkg:composer/ownerpro/nfsen-php-sdk@v1.0.0
 - pkg:composer/ownerpro/nfsen-php-sdk@v1.0.1
 - pkg:composer/ownerpro/nfsen-php-sdk@v2.0.0
+- pkg:composer/ownerpro/nfsen-php-sdk@v2.1.1
+- pkg:composer/ownerpro/nfsen-php-sdk@v2.2.0
+- pkg:composer/ownerpro/nfsen-php-sdk@v2.2.1

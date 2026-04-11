@@ -9,3 +9,4 @@
 - pkg:composer/oybek-daniyarov/laravel-trpc@v0.1.7-beta
 - pkg:composer/oybek-daniyarov/laravel-trpc@v0.1.8-beta
 - pkg:composer/oybek-daniyarov/laravel-trpc@v0.1.9-beta
+- pkg:composer/oybek-daniyarov/laravel-trpc@v0.2.0-beta

@@ -4,3 +4,4 @@
 - pkg:composer/paragonie/hpke@v0.4.0
 - pkg:composer/paragonie/hpke@v0.5.0
 - pkg:composer/paragonie/hpke@v0.6.0
+- pkg:composer/paragonie/hpke@v0.7.0

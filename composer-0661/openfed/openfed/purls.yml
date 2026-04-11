@@ -63,7 +63,9 @@
 - pkg:composer/openfed/openfed@12.6.0
 - pkg:composer/openfed/openfed@12.6.1
 - pkg:composer/openfed/openfed@12.6.2
+- pkg:composer/openfed/openfed@12.6.3
 - pkg:composer/openfed/openfed@13.6.0
 - pkg:composer/openfed/openfed@13.6.1
 - pkg:composer/openfed/openfed@13.6.2
 - pkg:composer/openfed/openfed@13.6.3
+- pkg:composer/openfed/openfed@13.6.4

@@ -26,5 +26,6 @@
 - pkg:composer/oxid-esales/oxideshop-doctrine-migration-wrapper@v5.2.0
 - pkg:composer/oxid-esales/oxideshop-doctrine-migration-wrapper@v5.3.0
 - pkg:composer/oxid-esales/oxideshop-doctrine-migration-wrapper@v5.4.0
+- pkg:composer/oxid-esales/oxideshop-doctrine-migration-wrapper@v5.5.0
 - pkg:composer/oxid-esales/oxideshop-doctrine-migration-wrapper@v6.0.0-alpha.1
 - pkg:composer/oxid-esales/oxideshop-doctrine-migration-wrapper@v8.0.0-alpha.2

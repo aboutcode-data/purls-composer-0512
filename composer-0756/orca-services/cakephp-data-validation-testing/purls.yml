@@ -1,3 +1,4 @@
 - pkg:composer/orca-services/cakephp-data-validation-testing@0.1.0
 - pkg:composer/orca-services/cakephp-data-validation-testing@0.1.1
-- pkg:composer/orca-services/cakephp-data-validation-testing@1.0.0-rc.1
+- pkg:composer/orca-services/cakephp-data-validation-testing@1.0.0
+- pkg:composer/orca-services/cakephp-data-validation-testing@v0.2.0
