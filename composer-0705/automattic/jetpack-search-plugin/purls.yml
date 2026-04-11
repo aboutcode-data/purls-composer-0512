@@ -16,4 +16,5 @@
 - pkg:composer/automattic/jetpack-search-plugin@5.1.0
 - pkg:composer/automattic/jetpack-search-plugin@5.2.0
 - pkg:composer/automattic/jetpack-search-plugin@5.2.2
+- pkg:composer/automattic/jetpack-search-plugin@6.0.0
 - pkg:composer/automattic/jetpack-search-plugin@v1.0.0
