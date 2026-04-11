@@ -5,6 +5,9 @@
 - pkg:composer/kyleclarkenz/manhattan@1.12.0
 - pkg:composer/kyleclarkenz/manhattan@1.13.0
 - pkg:composer/kyleclarkenz/manhattan@1.14.0
+- pkg:composer/kyleclarkenz/manhattan@1.15.0
+- pkg:composer/kyleclarkenz/manhattan@1.15.1
+- pkg:composer/kyleclarkenz/manhattan@1.15.2
 - pkg:composer/kyleclarkenz/manhattan@1.2.0
 - pkg:composer/kyleclarkenz/manhattan@1.3.1
 - pkg:composer/kyleclarkenz/manhattan@1.3.10
