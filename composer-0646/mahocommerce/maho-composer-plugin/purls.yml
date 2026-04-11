@@ -8,3 +8,4 @@
 - pkg:composer/mahocommerce/maho-composer-plugin@v3.2.0
 - pkg:composer/mahocommerce/maho-composer-plugin@v3.2.1
 - pkg:composer/mahocommerce/maho-composer-plugin@v3.2.2
+- pkg:composer/mahocommerce/maho-composer-plugin@v4.0.0
