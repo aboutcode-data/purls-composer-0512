@@ -1,1 +1,5 @@
+- pkg:composer/aryanjaya/data-transfer-object@v3.10.0
 - pkg:composer/aryanjaya/data-transfer-object@v3.9.2
+- pkg:composer/aryanjaya/data-transfer-object@v3.9.3
+- pkg:composer/aryanjaya/data-transfer-object@v4.0.0
+- pkg:composer/aryanjaya/data-transfer-object@v4.1.0
