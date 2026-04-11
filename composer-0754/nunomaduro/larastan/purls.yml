@@ -180,3 +180,4 @@
 - pkg:composer/nunomaduro/larastan@v3.9.1
 - pkg:composer/nunomaduro/larastan@v3.9.2
 - pkg:composer/nunomaduro/larastan@v3.9.3
+- pkg:composer/nunomaduro/larastan@v3.9.4
