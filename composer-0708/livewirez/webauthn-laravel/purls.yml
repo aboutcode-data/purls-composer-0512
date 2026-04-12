@@ -18,3 +18,4 @@
 - pkg:composer/livewirez/webauthn-laravel@v0.1.53
 - pkg:composer/livewirez/webauthn-laravel@v0.1.54
 - pkg:composer/livewirez/webauthn-laravel@v0.1.55
+- pkg:composer/livewirez/webauthn-laravel@v0.1.56
