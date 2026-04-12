@@ -33,3 +33,4 @@
 - pkg:composer/horde/horde-installer-plugin@v3.3.1
 - pkg:composer/horde/horde-installer-plugin@v3.4.0
 - pkg:composer/horde/horde-installer-plugin@v3.4.1
+- pkg:composer/horde/horde-installer-plugin@v3.5.0
