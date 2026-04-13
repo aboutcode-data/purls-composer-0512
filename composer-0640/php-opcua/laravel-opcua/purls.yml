@@ -4,3 +4,4 @@
 - pkg:composer/php-opcua/laravel-opcua@v3.0.0
 - pkg:composer/php-opcua/laravel-opcua@v4.0.0
 - pkg:composer/php-opcua/laravel-opcua@v4.0.1
+- pkg:composer/php-opcua/laravel-opcua@v4.1.0
