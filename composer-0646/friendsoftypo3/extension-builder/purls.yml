@@ -30,6 +30,7 @@
 - pkg:composer/friendsoftypo3/extension-builder@v11.0.9
 - pkg:composer/friendsoftypo3/extension-builder@v12.0.0
 - pkg:composer/friendsoftypo3/extension-builder@v13-beta
+- pkg:composer/friendsoftypo3/extension-builder@v13.1.0
 - pkg:composer/friendsoftypo3/extension-builder@v7.10.1
 - pkg:composer/friendsoftypo3/extension-builder@v8.10.2
 - pkg:composer/friendsoftypo3/extension-builder@v8.10.3
