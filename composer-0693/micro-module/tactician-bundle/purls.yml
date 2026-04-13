@@ -2,3 +2,4 @@
 - pkg:composer/micro-module/tactician-bundle@v1.6.1
 - pkg:composer/micro-module/tactician-bundle@v1.6.2
 - pkg:composer/micro-module/tactician-bundle@v1.7.0
+- pkg:composer/micro-module/tactician-bundle@v1.8.0

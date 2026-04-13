@@ -15,3 +15,5 @@
 - pkg:composer/micro-module/event-queue@v0.7.2
 - pkg:composer/micro-module/event-queue@v0.7.3
 - pkg:composer/micro-module/event-queue@v0.7.4
+- pkg:composer/micro-module/event-queue@v0.8.0
+- pkg:composer/micro-module/event-queue@v0.8.1

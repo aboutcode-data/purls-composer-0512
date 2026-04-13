@@ -1,4 +1,5 @@
 - pkg:composer/magepulse/magento2-module-core@1.0.1
 - pkg:composer/magepulse/magento2-module-core@1.1.0
 - pkg:composer/magepulse/magento2-module-core@1.1.1
+- pkg:composer/magepulse/magento2-module-core@1.2.0
 - pkg:composer/magepulse/magento2-module-core@v1.0.0
