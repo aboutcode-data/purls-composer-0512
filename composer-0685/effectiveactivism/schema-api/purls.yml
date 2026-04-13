@@ -9,6 +9,14 @@
 - pkg:composer/effectiveactivism/schema-api@10.0.1
 - pkg:composer/effectiveactivism/schema-api@10.0.2
 - pkg:composer/effectiveactivism/schema-api@10.1.0
+- pkg:composer/effectiveactivism/schema-api@11.0.0
+- pkg:composer/effectiveactivism/schema-api@11.0.1
+- pkg:composer/effectiveactivism/schema-api@12.0.0
+- pkg:composer/effectiveactivism/schema-api@13.0.0
+- pkg:composer/effectiveactivism/schema-api@14.0.0
+- pkg:composer/effectiveactivism/schema-api@14.1.0
+- pkg:composer/effectiveactivism/schema-api@14.2.0
+- pkg:composer/effectiveactivism/schema-api@14.2.1
 - pkg:composer/effectiveactivism/schema-api@2.0.0
 - pkg:composer/effectiveactivism/schema-api@2.1.0
 - pkg:composer/effectiveactivism/schema-api@3.0.0
