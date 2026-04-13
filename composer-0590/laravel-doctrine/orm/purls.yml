@@ -134,5 +134,6 @@
 - pkg:composer/laravel-doctrine/orm@3.3.0
 - pkg:composer/laravel-doctrine/orm@3.3.1
 - pkg:composer/laravel-doctrine/orm@3.3.2
+- pkg:composer/laravel-doctrine/orm@3.3.3
 - pkg:composer/laravel-doctrine/orm@v1.4.10
 - pkg:composer/laravel-doctrine/orm@v1.5.8
