@@ -19,3 +19,7 @@
 - pkg:composer/mmucklo/email-parse@2.7.0
 - pkg:composer/mmucklo/email-parse@2.7.1
 - pkg:composer/mmucklo/email-parse@2.8.0
+- pkg:composer/mmucklo/email-parse@3.0.0
+- pkg:composer/mmucklo/email-parse@3.1.0
+- pkg:composer/mmucklo/email-parse@3.2.0
+- pkg:composer/mmucklo/email-parse@3.3.0

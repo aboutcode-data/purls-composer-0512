@@ -24,4 +24,5 @@
 - pkg:composer/monkeyscloud/monkeyslegion-query@1.0.7
 - pkg:composer/monkeyscloud/monkeyslegion-query@1.0.8
 - pkg:composer/monkeyscloud/monkeyslegion-query@1.0.9
+- pkg:composer/monkeyscloud/monkeyslegion-query@2.0.0
 - pkg:composer/monkeyscloud/monkeyslegion-query@v1.0.22
