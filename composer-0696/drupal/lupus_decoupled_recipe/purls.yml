@@ -9,3 +9,4 @@
 - pkg:composer/drupal/lupus_decoupled_recipe@2.0.0-alpha3
 - pkg:composer/drupal/lupus_decoupled_recipe@2.0.0-alpha4
 - pkg:composer/drupal/lupus_decoupled_recipe@2.0.0-alpha5
+- pkg:composer/drupal/lupus_decoupled_recipe@2.0.1
