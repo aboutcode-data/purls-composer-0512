@@ -13,6 +13,7 @@
 - pkg:composer/sevaske/php-zatca-xml@v3.4.3
 - pkg:composer/sevaske/php-zatca-xml@v3.4.4
 - pkg:composer/sevaske/php-zatca-xml@v3.4.5
+- pkg:composer/sevaske/php-zatca-xml@v3.5.0
 - pkg:composer/sevaske/php-zatca-xml@v4.0.0-beta
 - pkg:composer/sevaske/php-zatca-xml@v4.0.0-beta.1
 - pkg:composer/sevaske/php-zatca-xml@v4.0.0-beta.2

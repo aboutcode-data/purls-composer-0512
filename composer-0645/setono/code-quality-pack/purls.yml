@@ -32,3 +32,7 @@
 - pkg:composer/setono/code-quality-pack@v2.8.2
 - pkg:composer/setono/code-quality-pack@v2.8.3
 - pkg:composer/setono/code-quality-pack@v2.9.0
+- pkg:composer/setono/code-quality-pack@v3.0.0
+- pkg:composer/setono/code-quality-pack@v3.1.0
+- pkg:composer/setono/code-quality-pack@v3.2.0
+- pkg:composer/setono/code-quality-pack@v3.3.0
