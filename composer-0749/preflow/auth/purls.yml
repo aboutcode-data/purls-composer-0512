@@ -1,6 +1,8 @@
 - pkg:composer/preflow/auth@v0.10.0
 - pkg:composer/preflow/auth@v0.10.1
 - pkg:composer/preflow/auth@v0.10.2
+- pkg:composer/preflow/auth@v0.10.3
+- pkg:composer/preflow/auth@v0.10.4
 - pkg:composer/preflow/auth@v0.8.0
 - pkg:composer/preflow/auth@v0.9.0
 - pkg:composer/preflow/auth@v0.9.1
