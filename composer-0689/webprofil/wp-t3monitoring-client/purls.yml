@@ -55,3 +55,4 @@
 - pkg:composer/webprofil/wp-t3monitoring-client@13.0.7
 - pkg:composer/webprofil/wp-t3monitoring-client@13.0.8
 - pkg:composer/webprofil/wp-t3monitoring-client@13.0.9
+- pkg:composer/webprofil/wp-t3monitoring-client@14.0.0

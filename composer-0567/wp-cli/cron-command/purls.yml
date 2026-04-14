@@ -28,3 +28,4 @@
 - pkg:composer/wp-cli/cron-command@v2.3.5
 - pkg:composer/wp-cli/cron-command@v2.3.6
 - pkg:composer/wp-cli/cron-command@v2.3.7
+- pkg:composer/wp-cli/cron-command@v2.3.8
