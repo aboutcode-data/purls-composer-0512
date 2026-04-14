@@ -331,6 +331,8 @@
 - pkg:composer/guibranco/pancake@v1.5.4
 - pkg:composer/guibranco/pancake@v1.6.0
 - pkg:composer/guibranco/pancake@v1.6.1
+- pkg:composer/guibranco/pancake@v1.6.10
+- pkg:composer/guibranco/pancake@v1.6.11
 - pkg:composer/guibranco/pancake@v1.6.2
 - pkg:composer/guibranco/pancake@v1.6.3
 - pkg:composer/guibranco/pancake@v1.6.4
