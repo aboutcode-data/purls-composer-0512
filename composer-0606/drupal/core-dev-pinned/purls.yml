@@ -153,6 +153,7 @@
 - pkg:composer/drupal/core-dev-pinned@11.3.3
 - pkg:composer/drupal/core-dev-pinned@11.3.4
 - pkg:composer/drupal/core-dev-pinned@11.3.5
+- pkg:composer/drupal/core-dev-pinned@11.3.6
 - pkg:composer/drupal/core-dev-pinned@8.0.0
 - pkg:composer/drupal/core-dev-pinned@8.0.0-alpha14
 - pkg:composer/drupal/core-dev-pinned@8.0.0-alpha15
