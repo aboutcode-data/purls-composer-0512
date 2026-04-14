@@ -90,3 +90,4 @@
 - pkg:composer/laravel-enso/impersonate@3.4.0
 - pkg:composer/laravel-enso/impersonate@3.5.0
 - pkg:composer/laravel-enso/impersonate@3.6.0
+- pkg:composer/laravel-enso/impersonate@3.6.1

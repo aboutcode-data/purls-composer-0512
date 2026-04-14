@@ -35,3 +35,4 @@
 - pkg:composer/laravel/tinker@v2.8.2
 - pkg:composer/laravel/tinker@v2.9.0
 - pkg:composer/laravel/tinker@v3.0.0
+- pkg:composer/laravel/tinker@v3.0.1
