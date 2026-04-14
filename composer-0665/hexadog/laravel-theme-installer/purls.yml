@@ -10,3 +10,4 @@
 - pkg:composer/hexadog/laravel-theme-installer@v1.0.8
 - pkg:composer/hexadog/laravel-theme-installer@v1.0.9
 - pkg:composer/hexadog/laravel-theme-installer@v1.10.11
+- pkg:composer/hexadog/laravel-theme-installer@v1.10.12
