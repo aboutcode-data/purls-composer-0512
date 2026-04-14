@@ -1,2 +1,4 @@
 - pkg:composer/mawuva/laravel-serial-sequence@1.0.0
 - pkg:composer/mawuva/laravel-serial-sequence@v1.0.2
+- pkg:composer/mawuva/laravel-serial-sequence@v1.0.3
+- pkg:composer/mawuva/laravel-serial-sequence@v1.0.4
