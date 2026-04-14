@@ -1,3 +1,4 @@
 - pkg:composer/jakobo/hotp-php@v1.0.0
 - pkg:composer/jakobo/hotp-php@v1.0.1
 - pkg:composer/jakobo/hotp-php@v2.0.0
+- pkg:composer/jakobo/hotp-php@v2.1.0

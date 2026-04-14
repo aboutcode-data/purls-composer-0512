@@ -103,6 +103,12 @@
 - pkg:composer/ids/login@v4.0.3
 - pkg:composer/ids/login@v4.0.30
 - pkg:composer/ids/login@v4.0.31
+- pkg:composer/ids/login@v4.0.32
+- pkg:composer/ids/login@v4.0.33
+- pkg:composer/ids/login@v4.0.34
+- pkg:composer/ids/login@v4.0.35
+- pkg:composer/ids/login@v4.0.36
+- pkg:composer/ids/login@v4.0.37
 - pkg:composer/ids/login@v4.0.4
 - pkg:composer/ids/login@v4.0.5
 - pkg:composer/ids/login@v4.0.6
