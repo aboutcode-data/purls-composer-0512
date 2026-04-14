@@ -11,3 +11,4 @@
 - pkg:composer/spatie/laravel-stats@2.2.0
 - pkg:composer/spatie/laravel-stats@2.3.0
 - pkg:composer/spatie/laravel-stats@2.3.1
+- pkg:composer/spatie/laravel-stats@2.4.0

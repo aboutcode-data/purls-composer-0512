@@ -24,3 +24,4 @@
 - pkg:composer/stackkit/laravel-database-emails@7.0.0
 - pkg:composer/stackkit/laravel-database-emails@7.0.0-beta.1
 - pkg:composer/stackkit/laravel-database-emails@8.0.0
+- pkg:composer/stackkit/laravel-database-emails@9.0.0
