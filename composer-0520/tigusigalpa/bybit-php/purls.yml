@@ -1,3 +1,4 @@
 - pkg:composer/tigusigalpa/bybit-php@v0.1.0
 - pkg:composer/tigusigalpa/bybit-php@v1.1.16
 - pkg:composer/tigusigalpa/bybit-php@v1.1.4
+- pkg:composer/tigusigalpa/bybit-php@v1.2.1

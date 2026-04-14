@@ -5,3 +5,6 @@
 - pkg:composer/sunaoka/aws-sdk-php-structures@3.376.4
 - pkg:composer/sunaoka/aws-sdk-php-structures@3.377.0
 - pkg:composer/sunaoka/aws-sdk-php-structures@3.378.0
+- pkg:composer/sunaoka/aws-sdk-php-structures@3.378.1
+- pkg:composer/sunaoka/aws-sdk-php-structures@3.378.2
+- pkg:composer/sunaoka/aws-sdk-php-structures@3.379.0
