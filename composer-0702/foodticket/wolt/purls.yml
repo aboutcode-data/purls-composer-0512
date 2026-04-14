@@ -1,4 +1,5 @@
 - pkg:composer/foodticket/wolt@v0.0.1
+- pkg:composer/foodticket/wolt@v0.0.10
 - pkg:composer/foodticket/wolt@v0.0.2
 - pkg:composer/foodticket/wolt@v0.0.3
 - pkg:composer/foodticket/wolt@v0.0.4
@@ -6,3 +7,4 @@
 - pkg:composer/foodticket/wolt@v0.0.6
 - pkg:composer/foodticket/wolt@v0.0.7
 - pkg:composer/foodticket/wolt@v0.0.8
+- pkg:composer/foodticket/wolt@v0.0.9
