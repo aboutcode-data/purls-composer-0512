@@ -19,6 +19,7 @@
 - pkg:composer/psfs/core@2.2.6
 - pkg:composer/psfs/core@2.2.7
 - pkg:composer/psfs/core@2.3.0
+- pkg:composer/psfs/core@2.3.1
 - pkg:composer/psfs/core@v0.6
 - pkg:composer/psfs/core@v0.6.1
 - pkg:composer/psfs/core@v0.7
