@@ -24,6 +24,7 @@
 - pkg:composer/mollie/laravel-cashier-mollie@v2.17.0
 - pkg:composer/mollie/laravel-cashier-mollie@v2.18.0
 - pkg:composer/mollie/laravel-cashier-mollie@v2.18.1
+- pkg:composer/mollie/laravel-cashier-mollie@v2.19.0
 - pkg:composer/mollie/laravel-cashier-mollie@v2.2.0
 - pkg:composer/mollie/laravel-cashier-mollie@v2.3.0
 - pkg:composer/mollie/laravel-cashier-mollie@v2.3.1
