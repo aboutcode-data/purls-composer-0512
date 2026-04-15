@@ -356,6 +356,7 @@
 - pkg:composer/roots/wordpress-full@6.8.2-RC1
 - pkg:composer/roots/wordpress-full@6.8.3
 - pkg:composer/roots/wordpress-full@6.8.5
+- pkg:composer/roots/wordpress-full@6.9
 - pkg:composer/roots/wordpress-full@6.9-RC1
 - pkg:composer/roots/wordpress-full@6.9-RC2
 - pkg:composer/roots/wordpress-full@6.9-RC3
@@ -364,7 +365,6 @@
 - pkg:composer/roots/wordpress-full@6.9-beta2
 - pkg:composer/roots/wordpress-full@6.9-beta3
 - pkg:composer/roots/wordpress-full@6.9-beta4
-- pkg:composer/roots/wordpress-full@6.9.0
 - pkg:composer/roots/wordpress-full@6.9.1
 - pkg:composer/roots/wordpress-full@6.9.1-RC1
 - pkg:composer/roots/wordpress-full@6.9.2

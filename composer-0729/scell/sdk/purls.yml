@@ -8,6 +8,7 @@
 - pkg:composer/scell/sdk@v1.11.0
 - pkg:composer/scell/sdk@v1.11.1
 - pkg:composer/scell/sdk@v1.11.2
+- pkg:composer/scell/sdk@v1.12.0
 - pkg:composer/scell/sdk@v1.5.0
 - pkg:composer/scell/sdk@v1.7.0
 - pkg:composer/scell/sdk@v1.8.0
