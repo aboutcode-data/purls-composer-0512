@@ -138,3 +138,6 @@
 - pkg:composer/laravel-enso/avatars@4.3.0
 - pkg:composer/laravel-enso/avatars@4.4.0
 - pkg:composer/laravel-enso/avatars@4.5.0
+- pkg:composer/laravel-enso/avatars@4.5.1
+- pkg:composer/laravel-enso/avatars@4.5.2
+- pkg:composer/laravel-enso/avatars@4.5.3

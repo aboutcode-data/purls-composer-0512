@@ -42,3 +42,4 @@
 - pkg:composer/laravel-enso/users@2.8.0
 - pkg:composer/laravel-enso/users@2.8.1
 - pkg:composer/laravel-enso/users@2.8.2
+- pkg:composer/laravel-enso/users@2.8.3

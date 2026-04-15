@@ -231,3 +231,4 @@
 - pkg:composer/laravel-enso/commentsmanager@4.6.0
 - pkg:composer/laravel-enso/commentsmanager@4.6.1
 - pkg:composer/laravel-enso/commentsmanager@4.6.2
+- pkg:composer/laravel-enso/commentsmanager@4.6.3

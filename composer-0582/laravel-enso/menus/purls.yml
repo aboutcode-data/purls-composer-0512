@@ -176,3 +176,4 @@
 - pkg:composer/laravel-enso/menus@5.3.0
 - pkg:composer/laravel-enso/menus@5.4.0
 - pkg:composer/laravel-enso/menus@5.4.1
+- pkg:composer/laravel-enso/menus@5.4.2
