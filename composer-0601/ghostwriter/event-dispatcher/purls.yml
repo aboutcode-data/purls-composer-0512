@@ -18,3 +18,4 @@
 - pkg:composer/ghostwriter/event-dispatcher@6.0.0
 - pkg:composer/ghostwriter/event-dispatcher@6.0.1
 - pkg:composer/ghostwriter/event-dispatcher@6.0.2
+- pkg:composer/ghostwriter/event-dispatcher@6.1.0
