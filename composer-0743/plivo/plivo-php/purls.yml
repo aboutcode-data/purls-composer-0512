@@ -1,6 +1,7 @@
 - pkg:composer/plivo/plivo-php@4.57.1
 - pkg:composer/plivo/plivo-php@4.58.0
 - pkg:composer/plivo/plivo-php@4.68.0
+- pkg:composer/plivo/plivo-php@4.69.0
 - pkg:composer/plivo/plivo-php@v1.0.0
 - pkg:composer/plivo/plivo-php@v1.0.0-rc
 - pkg:composer/plivo/plivo-php@v1.0.1

@@ -75,12 +75,14 @@
 - pkg:composer/phpunit/php-code-coverage@12.5.3
 - pkg:composer/phpunit/php-code-coverage@12.5.4
 - pkg:composer/phpunit/php-code-coverage@12.5.5
+- pkg:composer/phpunit/php-code-coverage@12.5.6
 - pkg:composer/phpunit/php-code-coverage@13.0.0
 - pkg:composer/phpunit/php-code-coverage@13.0.1
 - pkg:composer/phpunit/php-code-coverage@13.0.2
 - pkg:composer/phpunit/php-code-coverage@14.0.0
 - pkg:composer/phpunit/php-code-coverage@14.1.0
 - pkg:composer/phpunit/php-code-coverage@14.1.1
+- pkg:composer/phpunit/php-code-coverage@14.1.2
 - pkg:composer/phpunit/php-code-coverage@2.0.0
 - pkg:composer/phpunit/php-code-coverage@2.0.1
 - pkg:composer/phpunit/php-code-coverage@2.0.10
