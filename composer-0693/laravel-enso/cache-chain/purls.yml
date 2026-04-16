@@ -9,3 +9,4 @@
 - pkg:composer/laravel-enso/cache-chain@1.4.0
 - pkg:composer/laravel-enso/cache-chain@1.5.0
 - pkg:composer/laravel-enso/cache-chain@2.0.0
+- pkg:composer/laravel-enso/cache-chain@2.0.1
