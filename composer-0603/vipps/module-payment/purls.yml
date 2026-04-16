@@ -108,3 +108,4 @@
 - pkg:composer/vipps/module-payment@2.4.9
 - pkg:composer/vipps/module-payment@2.5.0
 - pkg:composer/vipps/module-payment@2.5.1
+- pkg:composer/vipps/module-payment@3.0.0
