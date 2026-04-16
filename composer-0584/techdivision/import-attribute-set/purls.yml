@@ -17,6 +17,7 @@
 - pkg:composer/techdivision/import-attribute-set@18.0.0
 - pkg:composer/techdivision/import-attribute-set@18.1.0
 - pkg:composer/techdivision/import-attribute-set@18.1.0-alpha
+- pkg:composer/techdivision/import-attribute-set@18.2.0-alpha
 - pkg:composer/techdivision/import-attribute-set@2.0.0
 - pkg:composer/techdivision/import-attribute-set@3.0.0
 - pkg:composer/techdivision/import-attribute-set@4.0.0

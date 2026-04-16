@@ -222,6 +222,7 @@
 - pkg:composer/techdivision/import@18.0.1
 - pkg:composer/techdivision/import@18.1.0
 - pkg:composer/techdivision/import@18.1.0-alpha
+- pkg:composer/techdivision/import@18.2.0-alpha
 - pkg:composer/techdivision/import@2.0.0
 - pkg:composer/techdivision/import@2.0.1
 - pkg:composer/techdivision/import@3.0.0

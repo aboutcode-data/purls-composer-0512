@@ -19,6 +19,7 @@
 - pkg:composer/techdivision/import-product-grouped@20.0.1
 - pkg:composer/techdivision/import-product-grouped@20.1.0
 - pkg:composer/techdivision/import-product-grouped@20.1.0-alpha
+- pkg:composer/techdivision/import-product-grouped@20.2.0-alpha
 - pkg:composer/techdivision/import-product-grouped@3.0.0
 - pkg:composer/techdivision/import-product-grouped@4.0.0
 - pkg:composer/techdivision/import-product-grouped@5.0.0

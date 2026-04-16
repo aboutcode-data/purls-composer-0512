@@ -22,6 +22,7 @@
 - pkg:composer/techdivision/import-customer@18.0.0
 - pkg:composer/techdivision/import-customer@18.1.0
 - pkg:composer/techdivision/import-customer@18.1.0-alpha
+- pkg:composer/techdivision/import-customer@18.2.0-alpha
 - pkg:composer/techdivision/import-customer@2.0.0
 - pkg:composer/techdivision/import-customer@3.0.0
 - pkg:composer/techdivision/import-customer@4.0.0

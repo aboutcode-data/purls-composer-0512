@@ -90,6 +90,7 @@
 - pkg:composer/techdivision/import-category@22.0.0
 - pkg:composer/techdivision/import-category@22.1.0
 - pkg:composer/techdivision/import-category@22.1.0-alpha
+- pkg:composer/techdivision/import-category@22.2.0-alpha
 - pkg:composer/techdivision/import-category@3.0.0
 - pkg:composer/techdivision/import-category@4.0.0
 - pkg:composer/techdivision/import-category@5.0.0

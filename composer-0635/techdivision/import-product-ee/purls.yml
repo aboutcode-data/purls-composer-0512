@@ -93,6 +93,7 @@
 - pkg:composer/techdivision/import-product-ee@27.1.0
 - pkg:composer/techdivision/import-product-ee@27.2.0
 - pkg:composer/techdivision/import-product-ee@27.2.0-alpha
+- pkg:composer/techdivision/import-product-ee@27.3.0-alpha
 - pkg:composer/techdivision/import-product-ee@3.0.0
 - pkg:composer/techdivision/import-product-ee@4.0.0
 - pkg:composer/techdivision/import-product-ee@5.0.0
