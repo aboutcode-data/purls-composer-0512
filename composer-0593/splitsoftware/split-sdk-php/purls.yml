@@ -52,6 +52,7 @@
 - pkg:composer/splitsoftware/split-sdk-php@7.2.0
 - pkg:composer/splitsoftware/split-sdk-php@7.2.1
 - pkg:composer/splitsoftware/split-sdk-php@7.3.0
+- pkg:composer/splitsoftware/split-sdk-php@7.4.0
 - pkg:composer/splitsoftware/split-sdk-php@v0.1
 - pkg:composer/splitsoftware/split-sdk-php@v0.2
 - pkg:composer/splitsoftware/split-sdk-php@v0.3
