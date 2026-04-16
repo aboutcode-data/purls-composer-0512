@@ -161,3 +161,4 @@
 - pkg:composer/ronasit/laravel-helpers@3.5.7
 - pkg:composer/ronasit/laravel-helpers@3.5.8
 - pkg:composer/ronasit/laravel-helpers@3.6
+- pkg:composer/ronasit/laravel-helpers@3.6.1
