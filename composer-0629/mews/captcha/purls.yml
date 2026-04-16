@@ -45,6 +45,7 @@
 - pkg:composer/mews/captcha@3.4.5
 - pkg:composer/mews/captcha@3.4.6
 - pkg:composer/mews/captcha@3.4.7
+- pkg:composer/mews/captcha@3.4.8
 - pkg:composer/mews/captcha@v2.1.1
 - pkg:composer/mews/captcha@v2.1.2
 - pkg:composer/mews/captcha@v2.1.3
