@@ -48,6 +48,7 @@
 - pkg:composer/sumocoders/framework-core-bundle@v17.1.1
 - pkg:composer/sumocoders/framework-core-bundle@v17.1.2
 - pkg:composer/sumocoders/framework-core-bundle@v17.1.3
+- pkg:composer/sumocoders/framework-core-bundle@v17.1.4
 - pkg:composer/sumocoders/framework-core-bundle@v2.0.1
 - pkg:composer/sumocoders/framework-core-bundle@v2.0.2
 - pkg:composer/sumocoders/framework-core-bundle@v3.0.0

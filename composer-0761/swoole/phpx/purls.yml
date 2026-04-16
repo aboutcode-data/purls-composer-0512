@@ -3,3 +3,4 @@
 - pkg:composer/swoole/phpx@v2.0.2
 - pkg:composer/swoole/phpx@v2.0.3
 - pkg:composer/swoole/phpx@v2.1.0
+- pkg:composer/swoole/phpx@v2.1.1
