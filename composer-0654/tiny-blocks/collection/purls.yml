@@ -22,3 +22,5 @@
 - pkg:composer/tiny-blocks/collection@1.9.1
 - pkg:composer/tiny-blocks/collection@1.9.2
 - pkg:composer/tiny-blocks/collection@2.0.0
+- pkg:composer/tiny-blocks/collection@2.1.0
+- pkg:composer/tiny-blocks/collection@2.2.0
