@@ -182,3 +182,4 @@
 - pkg:composer/nunomaduro/laravel-code-analyse@v3.9.3
 - pkg:composer/nunomaduro/laravel-code-analyse@v3.9.4
 - pkg:composer/nunomaduro/laravel-code-analyse@v3.9.5
+- pkg:composer/nunomaduro/laravel-code-analyse@v3.9.6
