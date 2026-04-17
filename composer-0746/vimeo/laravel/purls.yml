@@ -17,6 +17,7 @@
 - pkg:composer/vimeo/laravel@5.0.0
 - pkg:composer/vimeo/laravel@5.1.0
 - pkg:composer/vimeo/laravel@5.10.0
+- pkg:composer/vimeo/laravel@5.11.0
 - pkg:composer/vimeo/laravel@5.2.0
 - pkg:composer/vimeo/laravel@5.2.1
 - pkg:composer/vimeo/laravel@5.3.0
