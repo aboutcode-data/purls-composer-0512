@@ -102,5 +102,6 @@
 - pkg:composer/tractorcow/silverstripe-fluent@8.1.0-beta1
 - pkg:composer/tractorcow/silverstripe-fluent@8.1.0-rc1
 - pkg:composer/tractorcow/silverstripe-fluent@8.1.1
+- pkg:composer/tractorcow/silverstripe-fluent@8.2.0
 - pkg:composer/tractorcow/silverstripe-fluent@8.2.0-beta1
 - pkg:composer/tractorcow/silverstripe-fluent@8.2.0-rc1
