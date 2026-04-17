@@ -8,3 +8,4 @@
 - pkg:composer/tranquil-tools/laravel-vue-table-builder@0.8
 - pkg:composer/tranquil-tools/laravel-vue-table-builder@0.9
 - pkg:composer/tranquil-tools/laravel-vue-table-builder@1.0.0
+- pkg:composer/tranquil-tools/laravel-vue-table-builder@1.0.1
