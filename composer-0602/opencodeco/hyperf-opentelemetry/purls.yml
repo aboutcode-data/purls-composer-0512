@@ -10,3 +10,4 @@
 - pkg:composer/opencodeco/hyperf-opentelemetry@v0.3.4
 - pkg:composer/opencodeco/hyperf-opentelemetry@v0.3.5
 - pkg:composer/opencodeco/hyperf-opentelemetry@v0.3.6
+- pkg:composer/opencodeco/hyperf-opentelemetry@v0.3.7
