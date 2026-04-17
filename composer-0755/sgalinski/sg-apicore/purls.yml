@@ -27,6 +27,7 @@
 - pkg:composer/sgalinski/sg-apicore@1.18.1
 - pkg:composer/sgalinski/sg-apicore@1.18.2
 - pkg:composer/sgalinski/sg-apicore@1.18.3
+- pkg:composer/sgalinski/sg-apicore@1.19.0
 - pkg:composer/sgalinski/sg-apicore@1.2.0
 - pkg:composer/sgalinski/sg-apicore@1.2.1
 - pkg:composer/sgalinski/sg-apicore@1.2.2
