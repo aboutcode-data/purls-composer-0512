@@ -1,5 +1,6 @@
 - pkg:composer/aedart/athenaeum-database@10.0.0
 - pkg:composer/aedart/athenaeum-database@10.1.0
+- pkg:composer/aedart/athenaeum-database@10.2.0
 - pkg:composer/aedart/athenaeum-database@5.10.0
 - pkg:composer/aedart/athenaeum-database@5.10.1
 - pkg:composer/aedart/athenaeum-database@5.11.0

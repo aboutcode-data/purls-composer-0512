@@ -9,6 +9,8 @@
 - pkg:composer/aerni/livewire-forms@v10.0.0
 - pkg:composer/aerni/livewire-forms@v10.1.0
 - pkg:composer/aerni/livewire-forms@v10.2.0
+- pkg:composer/aerni/livewire-forms@v10.3.0
+- pkg:composer/aerni/livewire-forms@v10.3.1
 - pkg:composer/aerni/livewire-forms@v2.0.0
 - pkg:composer/aerni/livewire-forms@v3.0.0
 - pkg:composer/aerni/livewire-forms@v3.1.0

@@ -1,6 +1,7 @@
 - pkg:composer/alturacode/billing-stripe@v0.1.0
 - pkg:composer/alturacode/billing-stripe@v0.1.1
 - pkg:composer/alturacode/billing-stripe@v0.1.2
+- pkg:composer/alturacode/billing-stripe@v0.10.0
 - pkg:composer/alturacode/billing-stripe@v0.2.0
 - pkg:composer/alturacode/billing-stripe@v0.3.0
 - pkg:composer/alturacode/billing-stripe@v0.3.1
@@ -18,3 +19,5 @@
 - pkg:composer/alturacode/billing-stripe@v0.8.2
 - pkg:composer/alturacode/billing-stripe@v0.8.3
 - pkg:composer/alturacode/billing-stripe@v0.8.4
+- pkg:composer/alturacode/billing-stripe@v0.9.0
+- pkg:composer/alturacode/billing-stripe@v0.9.1

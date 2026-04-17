@@ -21,6 +21,7 @@
 - pkg:composer/activecollab/databaseobject@5.0.3
 - pkg:composer/activecollab/databaseobject@5.0.4
 - pkg:composer/activecollab/databaseobject@5.0.5
+- pkg:composer/activecollab/databaseobject@5.0.6
 - pkg:composer/activecollab/databaseobject@6.0.0
 - pkg:composer/activecollab/databaseobject@6.1.0
 - pkg:composer/activecollab/databaseobject@6.1.1

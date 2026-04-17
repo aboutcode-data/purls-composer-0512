@@ -52,6 +52,7 @@
 - pkg:composer/alibabacloud/pai-dlc-20201203@1.6.11
 - pkg:composer/alibabacloud/pai-dlc-20201203@1.6.12
 - pkg:composer/alibabacloud/pai-dlc-20201203@1.6.13
+- pkg:composer/alibabacloud/pai-dlc-20201203@1.6.14
 - pkg:composer/alibabacloud/pai-dlc-20201203@1.6.2
 - pkg:composer/alibabacloud/pai-dlc-20201203@1.6.3
 - pkg:composer/alibabacloud/pai-dlc-20201203@1.6.4
