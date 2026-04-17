@@ -169,6 +169,9 @@
 - pkg:composer/redking/doctrine-parse-bundle@v2.25.4
 - pkg:composer/redking/doctrine-parse-bundle@v2.25.5
 - pkg:composer/redking/doctrine-parse-bundle@v2.25.6
+- pkg:composer/redking/doctrine-parse-bundle@v2.25.7
+- pkg:composer/redking/doctrine-parse-bundle@v2.25.8
+- pkg:composer/redking/doctrine-parse-bundle@v2.25.9
 - pkg:composer/redking/doctrine-parse-bundle@v2.3.0
 - pkg:composer/redking/doctrine-parse-bundle@v2.3.1
 - pkg:composer/redking/doctrine-parse-bundle@v2.3.2
