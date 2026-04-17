@@ -11,6 +11,9 @@
 - pkg:composer/mirzaev/minimal@3.0.0
 - pkg:composer/mirzaev/minimal@3.1.0
 - pkg:composer/mirzaev/minimal@3.10.0
+- pkg:composer/mirzaev/minimal@3.10.1
+- pkg:composer/mirzaev/minimal@3.10.2
+- pkg:composer/mirzaev/minimal@3.10.3
 - pkg:composer/mirzaev/minimal@3.2.0
 - pkg:composer/mirzaev/minimal@3.3.0
 - pkg:composer/mirzaev/minimal@3.4.0
