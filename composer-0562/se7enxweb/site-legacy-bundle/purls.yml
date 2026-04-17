@@ -23,6 +23,7 @@
 - pkg:composer/se7enxweb/site-legacy-bundle@v2.0.7
 - pkg:composer/se7enxweb/site-legacy-bundle@v2.0.8
 - pkg:composer/se7enxweb/site-legacy-bundle@v2.0.9
+- pkg:composer/se7enxweb/site-legacy-bundle@v2.1.0
 - pkg:composer/se7enxweb/site-legacy-bundle@v5.0.0
 - pkg:composer/se7enxweb/site-legacy-bundle@v5.0.1
 - pkg:composer/se7enxweb/site-legacy-bundle@v5.0.2
