@@ -56,6 +56,8 @@
 - pkg:composer/mobilestock/laravel-http-client-auto-throw-error@v0.0.149
 - pkg:composer/mobilestock/laravel-http-client-auto-throw-error@v0.0.15
 - pkg:composer/mobilestock/laravel-http-client-auto-throw-error@v0.0.150
+- pkg:composer/mobilestock/laravel-http-client-auto-throw-error@v0.0.151
+- pkg:composer/mobilestock/laravel-http-client-auto-throw-error@v0.0.152
 - pkg:composer/mobilestock/laravel-http-client-auto-throw-error@v0.0.16
 - pkg:composer/mobilestock/laravel-http-client-auto-throw-error@v0.0.17
 - pkg:composer/mobilestock/laravel-http-client-auto-throw-error@v0.0.18
