@@ -265,3 +265,5 @@
 - pkg:composer/vinou/translations@3.7.7
 - pkg:composer/vinou/translations@3.7.8
 - pkg:composer/vinou/translations@3.7.9
+- pkg:composer/vinou/translations@4.0.0
+- pkg:composer/vinou/translations@4.1.0
