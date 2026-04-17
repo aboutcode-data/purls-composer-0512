@@ -103,3 +103,4 @@
 - pkg:composer/php-extended/php-api-org-openstreetmap-nominatim-interface@9.0.0
 - pkg:composer/php-extended/php-api-org-openstreetmap-nominatim-interface@9.0.1
 - pkg:composer/php-extended/php-api-org-openstreetmap-nominatim-interface@9.0.2
+- pkg:composer/php-extended/php-api-org-openstreetmap-nominatim-interface@9.0.3
