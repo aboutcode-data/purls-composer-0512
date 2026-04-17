@@ -44,6 +44,7 @@
 - pkg:composer/zephyrphp/auth@v0.4.49
 - pkg:composer/zephyrphp/auth@v0.4.5
 - pkg:composer/zephyrphp/auth@v0.4.50
+- pkg:composer/zephyrphp/auth@v0.4.51
 - pkg:composer/zephyrphp/auth@v0.4.6
 - pkg:composer/zephyrphp/auth@v0.4.7
 - pkg:composer/zephyrphp/auth@v0.4.8

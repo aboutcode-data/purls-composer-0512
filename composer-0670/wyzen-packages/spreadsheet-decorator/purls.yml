@@ -12,3 +12,4 @@
 - pkg:composer/wyzen-packages/spreadsheet-decorator@v4.0.0
 - pkg:composer/wyzen-packages/spreadsheet-decorator@v4.0.1
 - pkg:composer/wyzen-packages/spreadsheet-decorator@v5.0.0
+- pkg:composer/wyzen-packages/spreadsheet-decorator@v6.0.0
