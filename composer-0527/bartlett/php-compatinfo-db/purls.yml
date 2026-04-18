@@ -161,6 +161,7 @@
 - pkg:composer/bartlett/php-compatinfo-db@6.29.0
 - pkg:composer/bartlett/php-compatinfo-db@6.3.0
 - pkg:composer/bartlett/php-compatinfo-db@6.30.0
+- pkg:composer/bartlett/php-compatinfo-db@6.31.0
 - pkg:composer/bartlett/php-compatinfo-db@6.4.0
 - pkg:composer/bartlett/php-compatinfo-db@6.4.1
 - pkg:composer/bartlett/php-compatinfo-db@6.4.2
