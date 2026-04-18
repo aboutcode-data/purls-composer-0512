@@ -2,3 +2,4 @@
 - pkg:composer/ocolin/calix-axos-client@1.1
 - pkg:composer/ocolin/calix-axos-client@1.2
 - pkg:composer/ocolin/calix-axos-client@1.3
+- pkg:composer/ocolin/calix-axos-client@v2.0.0
