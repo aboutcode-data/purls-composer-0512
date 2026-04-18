@@ -51,3 +51,4 @@
 - pkg:composer/payplug/sylius-payplug-plugin@1.9.3-rc.0
 - pkg:composer/payplug/sylius-payplug-plugin@2.0.0-rc.0
 - pkg:composer/payplug/sylius-payplug-plugin@2.0.0-rc.1
+- pkg:composer/payplug/sylius-payplug-plugin@2.0.0-rc.2
