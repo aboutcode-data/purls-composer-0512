@@ -4,3 +4,5 @@
 - pkg:composer/spartera/api-sdk@1.0.69
 - pkg:composer/spartera/api-sdk@1.0.74
 - pkg:composer/spartera/api-sdk@1.0.77
+- pkg:composer/spartera/api-sdk@v1.0.78
+- pkg:composer/spartera/api-sdk@v1.0.80

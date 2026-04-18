@@ -1,3 +1,4 @@
 - pkg:composer/shopper/upgrade@v2.7.0
 - pkg:composer/shopper/upgrade@v2.7.1
 - pkg:composer/shopper/upgrade@v2.7.2
+- pkg:composer/shopper/upgrade@v2.7.3
