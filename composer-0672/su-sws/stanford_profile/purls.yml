@@ -58,6 +58,7 @@
 - pkg:composer/su-sws/stanford_profile@12.1.2
 - pkg:composer/su-sws/stanford_profile@12.2.0
 - pkg:composer/su-sws/stanford_profile@12.2.1
+- pkg:composer/su-sws/stanford_profile@12.2.2
 - pkg:composer/su-sws/stanford_profile@8.1.0
 - pkg:composer/su-sws/stanford_profile@8.1.0-alpha.1
 - pkg:composer/su-sws/stanford_profile@8.1.0-alpha.2

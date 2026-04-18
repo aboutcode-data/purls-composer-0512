@@ -10,6 +10,7 @@
 - pkg:composer/su-sws/stanford_profile_helper@10.1.5
 - pkg:composer/su-sws/stanford_profile_helper@10.2.0
 - pkg:composer/su-sws/stanford_profile_helper@10.2.1
+- pkg:composer/su-sws/stanford_profile_helper@10.2.2
 - pkg:composer/su-sws/stanford_profile_helper@8.1.0-rc.1
 - pkg:composer/su-sws/stanford_profile_helper@8.1.1
 - pkg:composer/su-sws/stanford_profile_helper@8.1.10
