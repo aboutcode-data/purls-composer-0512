@@ -3,3 +3,4 @@
 - pkg:composer/blesta/coinpayments@1.4.0
 - pkg:composer/blesta/coinpayments@1.5.0
 - pkg:composer/blesta/coinpayments@1.6.0
+- pkg:composer/blesta/coinpayments@2.0.0

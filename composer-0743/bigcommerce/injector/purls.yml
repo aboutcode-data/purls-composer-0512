@@ -23,5 +23,6 @@
 - pkg:composer/bigcommerce/injector@5.0.2
 - pkg:composer/bigcommerce/injector@5.0.3
 - pkg:composer/bigcommerce/injector@5.0.4
+- pkg:composer/bigcommerce/injector@5.0.5
 - pkg:composer/bigcommerce/injector@v2.0.10
 - pkg:composer/bigcommerce/injector@v2.1.0

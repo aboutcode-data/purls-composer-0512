@@ -19,3 +19,4 @@
 - pkg:composer/blesta/pterodactyl@1.8.0
 - pkg:composer/blesta/pterodactyl@1.8.1
 - pkg:composer/blesta/pterodactyl@1.8.2
+- pkg:composer/blesta/pterodactyl@2.0.0
