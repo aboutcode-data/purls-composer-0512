@@ -12,3 +12,4 @@
 - pkg:composer/blindpay/php@v1.7.0
 - pkg:composer/blindpay/php@v2.0.0
 - pkg:composer/blindpay/php@v2.1.0
+- pkg:composer/blindpay/php@v2.2.0
