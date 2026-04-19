@@ -37,3 +37,5 @@
 - pkg:composer/chrisreedio/laravel-athena-sdk@v1.0.0-alpha.9
 - pkg:composer/chrisreedio/laravel-athena-sdk@v1.1.0-beta.1
 - pkg:composer/chrisreedio/laravel-athena-sdk@v1.2.0
+- pkg:composer/chrisreedio/laravel-athena-sdk@v1.3.0
+- pkg:composer/chrisreedio/laravel-athena-sdk@v1.3.1

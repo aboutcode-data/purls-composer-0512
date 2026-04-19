@@ -84,6 +84,9 @@
 - pkg:composer/chameleon-system/chameleon-shop@8.0.2
 - pkg:composer/chameleon-system/chameleon-shop@8.0.20
 - pkg:composer/chameleon-system/chameleon-shop@8.0.21
+- pkg:composer/chameleon-system/chameleon-shop@8.0.22
+- pkg:composer/chameleon-system/chameleon-shop@8.0.23
+- pkg:composer/chameleon-system/chameleon-shop@8.0.24
 - pkg:composer/chameleon-system/chameleon-shop@8.0.3
 - pkg:composer/chameleon-system/chameleon-shop@8.0.4
 - pkg:composer/chameleon-system/chameleon-shop@8.0.5

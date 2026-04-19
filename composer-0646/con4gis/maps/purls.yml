@@ -28,10 +28,12 @@
 - pkg:composer/con4gis/maps@v10.2.0
 - pkg:composer/con4gis/maps@v10.2.1
 - pkg:composer/con4gis/maps@v10.2.2
+- pkg:composer/con4gis/maps@v10.2.3
 - pkg:composer/con4gis/maps@v10.3.0
 - pkg:composer/con4gis/maps@v10.3.1
 - pkg:composer/con4gis/maps@v10.3.2
 - pkg:composer/con4gis/maps@v10.3.3
+- pkg:composer/con4gis/maps@v10.3.4
 - pkg:composer/con4gis/maps@v4.0.0
 - pkg:composer/con4gis/maps@v4.0.1
 - pkg:composer/con4gis/maps@v4.0.10

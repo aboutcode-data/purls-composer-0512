@@ -19,3 +19,5 @@
 - pkg:composer/codeinc/url@1.5.2
 - pkg:composer/codeinc/url@1.5.3
 - pkg:composer/codeinc/url@1.5.4
+- pkg:composer/codeinc/url@2.0.0
+- pkg:composer/codeinc/url@2.0.1
