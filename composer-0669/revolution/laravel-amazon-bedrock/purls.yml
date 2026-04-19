@@ -30,3 +30,4 @@
 - pkg:composer/revolution/laravel-amazon-bedrock@0.3.7
 - pkg:composer/revolution/laravel-amazon-bedrock@0.3.8
 - pkg:composer/revolution/laravel-amazon-bedrock@0.6.0
+- pkg:composer/revolution/laravel-amazon-bedrock@0.6.1
