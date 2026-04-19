@@ -19,5 +19,3 @@
 - pkg:composer/console-helpers/parser-reflection@3.0.0-RC1
 - pkg:composer/console-helpers/parser-reflection@3.0.1
 - pkg:composer/console-helpers/parser-reflection@3.1.0
-- pkg:composer/console-helpers/parser-reflection@4.0.0-RC1
-- pkg:composer/console-helpers/parser-reflection@4.0.0-RC2

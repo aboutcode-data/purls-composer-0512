@@ -1,1 +1,3 @@
 - pkg:composer/core45/tubapay-php@0.0.1
+- pkg:composer/core45/tubapay-php@0.1.1
+- pkg:composer/core45/tubapay-php@0.1.2
