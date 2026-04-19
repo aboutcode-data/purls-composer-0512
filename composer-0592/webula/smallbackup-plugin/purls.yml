@@ -12,3 +12,4 @@
 - pkg:composer/webula/smallbackup-plugin@v1.5.1
 - pkg:composer/webula/smallbackup-plugin@v1.5.2
 - pkg:composer/webula/smallbackup-plugin@v2.0.0
+- pkg:composer/webula/smallbackup-plugin@v2.0.1
