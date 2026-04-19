@@ -12,3 +12,4 @@
 - pkg:composer/deligoez/laravel-model-hashid@v3.0.0
 - pkg:composer/deligoez/laravel-model-hashid@v4.0.0
 - pkg:composer/deligoez/laravel-model-hashid@v4.0.1
+- pkg:composer/deligoez/laravel-model-hashid@v4.1.0
