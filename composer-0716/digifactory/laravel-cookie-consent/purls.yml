@@ -8,3 +8,4 @@
 - pkg:composer/digifactory/laravel-cookie-consent@v4.0.0
 - pkg:composer/digifactory/laravel-cookie-consent@v4.1.0
 - pkg:composer/digifactory/laravel-cookie-consent@v5.0.0
+- pkg:composer/digifactory/laravel-cookie-consent@v5.0.1
