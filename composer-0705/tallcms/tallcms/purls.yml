@@ -91,3 +91,4 @@
 - pkg:composer/tallcms/tallcms@v3.9.0
 - pkg:composer/tallcms/tallcms@v3.9.1
 - pkg:composer/tallcms/tallcms@v3.9.2
+- pkg:composer/tallcms/tallcms@v4.0.0
