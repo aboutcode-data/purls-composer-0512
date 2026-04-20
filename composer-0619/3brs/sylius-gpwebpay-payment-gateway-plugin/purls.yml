@@ -5,3 +5,4 @@
 - pkg:composer/3brs/sylius-gpwebpay-payment-gateway-plugin@v2.2.0
 - pkg:composer/3brs/sylius-gpwebpay-payment-gateway-plugin@v2.3.0
 - pkg:composer/3brs/sylius-gpwebpay-payment-gateway-plugin@v2.4.0
+- pkg:composer/3brs/sylius-gpwebpay-payment-gateway-plugin@v2.5.0
