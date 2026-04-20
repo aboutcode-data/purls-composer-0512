@@ -59,3 +59,4 @@
 - pkg:composer/wanphp/plugins-weixin@v1.2.7
 - pkg:composer/wanphp/plugins-weixin@v1.2.8
 - pkg:composer/wanphp/plugins-weixin@v1.2.9
+- pkg:composer/wanphp/plugins-weixin@v2.0.0-alpha
