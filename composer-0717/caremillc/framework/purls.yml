@@ -3,6 +3,11 @@
 - pkg:composer/caremillc/framework@v10.0.0
 - pkg:composer/caremillc/framework@v11.0.0
 - pkg:composer/caremillc/framework@v12.0.0
+- pkg:composer/caremillc/framework@v14.0.0
+- pkg:composer/caremillc/framework@v15.0.0
+- pkg:composer/caremillc/framework@v16.0.0
+- pkg:composer/caremillc/framework@v17.0.0
+- pkg:composer/caremillc/framework@v18.0.0
 - pkg:composer/caremillc/framework@v2.0.0
 - pkg:composer/caremillc/framework@v3.0.0
 - pkg:composer/caremillc/framework@v4.0.0
