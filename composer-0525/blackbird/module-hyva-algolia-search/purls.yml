@@ -5,3 +5,4 @@
 - pkg:composer/blackbird/module-hyva-algolia-search@101.0.2
 - pkg:composer/blackbird/module-hyva-algolia-search@101.0.3
 - pkg:composer/blackbird/module-hyva-algolia-search@102.0.0
+- pkg:composer/blackbird/module-hyva-algolia-search@102.0.1

@@ -48,6 +48,7 @@
 - pkg:composer/baywa-re-lusy/behat-contexts@2.15.4
 - pkg:composer/baywa-re-lusy/behat-contexts@2.15.5
 - pkg:composer/baywa-re-lusy/behat-contexts@2.15.6
+- pkg:composer/baywa-re-lusy/behat-contexts@2.15.7
 - pkg:composer/baywa-re-lusy/behat-contexts@2.2.0
 - pkg:composer/baywa-re-lusy/behat-contexts@2.3.0
 - pkg:composer/baywa-re-lusy/behat-contexts@2.3.1
