@@ -296,3 +296,5 @@
 - pkg:composer/bravedave/dvc@v26.3.9
 - pkg:composer/bravedave/dvc@v26.4.0
 - pkg:composer/bravedave/dvc@v26.4.1
+- pkg:composer/bravedave/dvc@v26.4.2
+- pkg:composer/bravedave/dvc@v26.4.3
