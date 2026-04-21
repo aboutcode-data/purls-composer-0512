@@ -21,6 +21,7 @@
 - pkg:composer/fiisoft/jackdaw-stream@12.2.1
 - pkg:composer/fiisoft/jackdaw-stream@12.3.0
 - pkg:composer/fiisoft/jackdaw-stream@14.0.0
+- pkg:composer/fiisoft/jackdaw-stream@14.1.0
 - pkg:composer/fiisoft/jackdaw-stream@2.0.0
 - pkg:composer/fiisoft/jackdaw-stream@2.1.0
 - pkg:composer/fiisoft/jackdaw-stream@2.10.0
