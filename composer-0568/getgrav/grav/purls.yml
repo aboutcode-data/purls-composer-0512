@@ -306,9 +306,11 @@
 - pkg:composer/getgrav/grav@1.8.0-beta.28
 - pkg:composer/getgrav/grav@1.8.0-beta.29
 - pkg:composer/getgrav/grav@1.8.0-beta.3
+- pkg:composer/getgrav/grav@1.8.0-beta.30
 - pkg:composer/getgrav/grav@1.8.0-beta.4
 - pkg:composer/getgrav/grav@1.8.0-beta.5
 - pkg:composer/getgrav/grav@1.8.0-beta.6
 - pkg:composer/getgrav/grav@1.8.0-beta.7
 - pkg:composer/getgrav/grav@1.8.0-beta.8
 - pkg:composer/getgrav/grav@1.8.0-beta.9
+- pkg:composer/getgrav/grav@2.0.0-beta.1

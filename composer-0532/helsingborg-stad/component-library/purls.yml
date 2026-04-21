@@ -444,6 +444,11 @@
 - pkg:composer/helsingborg-stad/component-library@4.8.1
 - pkg:composer/helsingborg-stad/component-library@4.9.0
 - pkg:composer/helsingborg-stad/component-library@5.1.0
+- pkg:composer/helsingborg-stad/component-library@5.10.0
+- pkg:composer/helsingborg-stad/component-library@5.11.0
+- pkg:composer/helsingborg-stad/component-library@5.11.1
+- pkg:composer/helsingborg-stad/component-library@5.11.2
+- pkg:composer/helsingborg-stad/component-library@5.12.0
 - pkg:composer/helsingborg-stad/component-library@5.2.0
 - pkg:composer/helsingborg-stad/component-library@5.2.1
 - pkg:composer/helsingborg-stad/component-library@5.2.2
@@ -467,3 +472,4 @@
 - pkg:composer/helsingborg-stad/component-library@5.7.8
 - pkg:composer/helsingborg-stad/component-library@5.8.0
 - pkg:composer/helsingborg-stad/component-library@5.8.1
+- pkg:composer/helsingborg-stad/component-library@5.9.0

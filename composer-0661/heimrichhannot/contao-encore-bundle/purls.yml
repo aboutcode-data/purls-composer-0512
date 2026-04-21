@@ -79,3 +79,4 @@
 - pkg:composer/heimrichhannot/contao-encore-bundle@2.0.0-beta3
 - pkg:composer/heimrichhannot/contao-encore-bundle@2.1.0
 - pkg:composer/heimrichhannot/contao-encore-bundle@2.1.1
+- pkg:composer/heimrichhannot/contao-encore-bundle@2.2.0
