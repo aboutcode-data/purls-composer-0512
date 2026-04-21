@@ -8,3 +8,4 @@
 - pkg:composer/artisansdk/cqrs@1.1.1
 - pkg:composer/artisansdk/cqrs@1.1.2
 - pkg:composer/artisansdk/cqrs@1.2.0
+- pkg:composer/artisansdk/cqrs@1.3.0
