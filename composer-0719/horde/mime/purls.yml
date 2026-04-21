@@ -36,6 +36,12 @@
 - pkg:composer/horde/mime@2.9.5
 - pkg:composer/horde/mime@3.0.0alpha1
 - pkg:composer/horde/mime@3.0.0alpha2
+- pkg:composer/horde/mime@v2.12.0
+- pkg:composer/horde/mime@v2.13.0
+- pkg:composer/horde/mime@v2.13.1
+- pkg:composer/horde/mime@v2.13.2
+- pkg:composer/horde/mime@v2.14.0
+- pkg:composer/horde/mime@v2.14.1
 - pkg:composer/horde/mime@v3.0.0alpha3
 - pkg:composer/horde/mime@v3.0.0alpha4
 - pkg:composer/horde/mime@v3.0.0alpha5
@@ -43,3 +49,4 @@
 - pkg:composer/horde/mime@v3.0.0alpha7
 - pkg:composer/horde/mime@v3.0.0beta1
 - pkg:composer/horde/mime@v3.0.0beta2
+- pkg:composer/horde/mime@v3.0.0beta3

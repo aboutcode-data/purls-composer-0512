@@ -85,6 +85,8 @@
 - pkg:composer/imagewize/nynaeve@v2.1.2
 - pkg:composer/imagewize/nynaeve@v2.1.3
 - pkg:composer/imagewize/nynaeve@v2.1.4
+- pkg:composer/imagewize/nynaeve@v2.10.0
+- pkg:composer/imagewize/nynaeve@v2.11.0
 - pkg:composer/imagewize/nynaeve@v2.2.0
 - pkg:composer/imagewize/nynaeve@v2.2.1
 - pkg:composer/imagewize/nynaeve@v2.2.2

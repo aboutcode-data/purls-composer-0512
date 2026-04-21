@@ -37,5 +37,7 @@
 - pkg:composer/hyperf/filesystem@v3.1.42
 - pkg:composer/hyperf/filesystem@v3.1.57
 - pkg:composer/hyperf/filesystem@v3.1.63
+- pkg:composer/hyperf/filesystem@v3.1.68
 - pkg:composer/hyperf/filesystem@v3.2.0-alpha.1
 - pkg:composer/hyperf/filesystem@v3.2.0-alpha.3
+- pkg:composer/hyperf/filesystem@v3.2.0-rc.3

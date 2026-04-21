@@ -535,6 +535,12 @@
 - pkg:composer/hillelcoren/invoice-ninja@v5.13.10
 - pkg:composer/hillelcoren/invoice-ninja@v5.13.11
 - pkg:composer/hillelcoren/invoice-ninja@v5.13.12
+- pkg:composer/hillelcoren/invoice-ninja@v5.13.13
+- pkg:composer/hillelcoren/invoice-ninja@v5.13.14
+- pkg:composer/hillelcoren/invoice-ninja@v5.13.15
+- pkg:composer/hillelcoren/invoice-ninja@v5.13.16
+- pkg:composer/hillelcoren/invoice-ninja@v5.13.17
+- pkg:composer/hillelcoren/invoice-ninja@v5.13.18
 - pkg:composer/hillelcoren/invoice-ninja@v5.13.2
 - pkg:composer/hillelcoren/invoice-ninja@v5.13.3
 - pkg:composer/hillelcoren/invoice-ninja@v5.13.4

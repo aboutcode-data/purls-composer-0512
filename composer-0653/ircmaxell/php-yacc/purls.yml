@@ -5,3 +5,4 @@
 - pkg:composer/ircmaxell/php-yacc@v0.0.5
 - pkg:composer/ircmaxell/php-yacc@v0.0.6
 - pkg:composer/ircmaxell/php-yacc@v0.0.7
+- pkg:composer/ircmaxell/php-yacc@v0.0.8
