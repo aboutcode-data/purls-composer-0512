@@ -17,6 +17,9 @@
 - pkg:composer/digitalastronaut/craft-author-toolbar@v1.1.9-beta
 - pkg:composer/digitalastronaut/craft-author-toolbar@v1.2.1-beta
 - pkg:composer/digitalastronaut/craft-author-toolbar@v1.2.10-beta
+- pkg:composer/digitalastronaut/craft-author-toolbar@v1.2.11-beta
+- pkg:composer/digitalastronaut/craft-author-toolbar@v1.2.12-beta
+- pkg:composer/digitalastronaut/craft-author-toolbar@v1.2.13-beta
 - pkg:composer/digitalastronaut/craft-author-toolbar@v1.2.2-beta
 - pkg:composer/digitalastronaut/craft-author-toolbar@v1.2.3-beta
 - pkg:composer/digitalastronaut/craft-author-toolbar@v1.2.4-beta
