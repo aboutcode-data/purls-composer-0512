@@ -46,3 +46,4 @@
 - pkg:composer/easybill/zugferd-php@v4.2.0
 - pkg:composer/easybill/zugferd-php@v4.3.0
 - pkg:composer/easybill/zugferd-php@v5.0.0
+- pkg:composer/easybill/zugferd-php@v6.0.0

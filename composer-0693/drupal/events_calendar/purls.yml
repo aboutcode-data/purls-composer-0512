@@ -4,3 +4,4 @@
 - pkg:composer/drupal/events_calendar@1.0.0-beta1
 - pkg:composer/drupal/events_calendar@1.0.0-beta2
 - pkg:composer/drupal/events_calendar@1.0.0-rc1
+- pkg:composer/drupal/events_calendar@1.0.1

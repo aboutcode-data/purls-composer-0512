@@ -120,3 +120,6 @@
 - pkg:composer/dschuppelius/php-common-toolkit@v1.6.3
 - pkg:composer/dschuppelius/php-common-toolkit@v1.7
 - pkg:composer/dschuppelius/php-common-toolkit@v1.7.1
+- pkg:composer/dschuppelius/php-common-toolkit@v1.7.2
+- pkg:composer/dschuppelius/php-common-toolkit@v1.7.3
+- pkg:composer/dschuppelius/php-common-toolkit@v1.7.4
