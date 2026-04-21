@@ -18,3 +18,4 @@
 - pkg:composer/yard/query-block@v1.3.0
 - pkg:composer/yard/query-block@v1.4.0
 - pkg:composer/yard/query-block@v1.4.1
+- pkg:composer/yard/query-block@v1.5.0
