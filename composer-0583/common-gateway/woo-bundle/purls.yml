@@ -69,6 +69,8 @@
 - pkg:composer/common-gateway/woo-bundle@0.0.160
 - pkg:composer/common-gateway/woo-bundle@0.0.161
 - pkg:composer/common-gateway/woo-bundle@0.0.162
+- pkg:composer/common-gateway/woo-bundle@0.0.163
+- pkg:composer/common-gateway/woo-bundle@0.0.164
 - pkg:composer/common-gateway/woo-bundle@0.0.17
 - pkg:composer/common-gateway/woo-bundle@0.0.18
 - pkg:composer/common-gateway/woo-bundle@0.0.19
