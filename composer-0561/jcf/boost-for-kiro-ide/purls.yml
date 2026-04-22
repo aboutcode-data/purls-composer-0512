@@ -1,3 +1,4 @@
+- pkg:composer/jcf/boost-for-kiro-ide@2.1.0
 - pkg:composer/jcf/boost-for-kiro-ide@v1.0.0
 - pkg:composer/jcf/boost-for-kiro-ide@v1.0.1
 - pkg:composer/jcf/boost-for-kiro-ide@v1.0.2
@@ -10,3 +11,5 @@
 - pkg:composer/jcf/boost-for-kiro-ide@v2.0.2
 - pkg:composer/jcf/boost-for-kiro-ide@v2.0.3
 - pkg:composer/jcf/boost-for-kiro-ide@v2.0.4
+- pkg:composer/jcf/boost-for-kiro-ide@v2.2.0
+- pkg:composer/jcf/boost-for-kiro-ide@v2.3.0

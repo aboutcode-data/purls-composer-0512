@@ -294,6 +294,7 @@
 - pkg:composer/jspress/jspress@1.0.2.98
 - pkg:composer/jspress/jspress@1.0.2.99
 - pkg:composer/jspress/jspress@1.0.3.1
+- pkg:composer/jspress/jspress@1.0.3.13
 - pkg:composer/jspress/jspress@1.0.3.2
 - pkg:composer/jspress/jspress@1.0.3.3
 - pkg:composer/jspress/jspress@1.0.3.4
@@ -301,4 +302,9 @@
 - pkg:composer/jspress/jspress@1.0.3.6
 - pkg:composer/jspress/jspress@1.0.3.7
 - pkg:composer/jspress/jspress@1.0.3.8
+- pkg:composer/jspress/jspress@1.3.0.10
+- pkg:composer/jspress/jspress@1.3.0.11
+- pkg:composer/jspress/jspress@1.3.0.12
+- pkg:composer/jspress/jspress@1.3.0.13
+- pkg:composer/jspress/jspress@1.3.0.14
 - pkg:composer/jspress/jspress@1.3.0.9

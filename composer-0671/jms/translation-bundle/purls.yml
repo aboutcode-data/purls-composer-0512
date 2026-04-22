@@ -34,3 +34,5 @@
 - pkg:composer/jms/translation-bundle@2.4.0
 - pkg:composer/jms/translation-bundle@2.5.0
 - pkg:composer/jms/translation-bundle@2.6.0
+- pkg:composer/jms/translation-bundle@2.7.0
+- pkg:composer/jms/translation-bundle@3.0.0-beta1

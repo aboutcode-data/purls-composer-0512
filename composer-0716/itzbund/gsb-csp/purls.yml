@@ -64,6 +64,7 @@
 - pkg:composer/itzbund/gsb-csp@v1.5.12
 - pkg:composer/itzbund/gsb-csp@v1.5.13
 - pkg:composer/itzbund/gsb-csp@v1.5.14
+- pkg:composer/itzbund/gsb-csp@v1.5.15
 - pkg:composer/itzbund/gsb-csp@v1.5.2
 - pkg:composer/itzbund/gsb-csp@v1.5.2-rc.1
 - pkg:composer/itzbund/gsb-csp@v1.5.3
@@ -155,3 +156,5 @@
 - pkg:composer/itzbund/gsb-csp@v2.0.7-rc.2
 - pkg:composer/itzbund/gsb-csp@v2.0.8
 - pkg:composer/itzbund/gsb-csp@v2.0.9
+- pkg:composer/itzbund/gsb-csp@v2.1.0
+- pkg:composer/itzbund/gsb-csp@v2.1.0-rc.1
