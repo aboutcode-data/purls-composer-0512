@@ -25,3 +25,4 @@
 - pkg:composer/justbetter/statamic-image-optimize@4.0.0
 - pkg:composer/justbetter/statamic-image-optimize@5.0.0
 - pkg:composer/justbetter/statamic-image-optimize@5.1.0
+- pkg:composer/justbetter/statamic-image-optimize@5.2.0

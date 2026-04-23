@@ -34,3 +34,5 @@
 - pkg:composer/laravel-enso/measurement-units@3.4.0
 - pkg:composer/laravel-enso/measurement-units@3.5.0
 - pkg:composer/laravel-enso/measurement-units@3.6.0
+- pkg:composer/laravel-enso/measurement-units@3.7.0
+- pkg:composer/laravel-enso/measurement-units@3.7.1

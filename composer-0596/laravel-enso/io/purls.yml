@@ -46,3 +46,5 @@
 - pkg:composer/laravel-enso/io@2.8.0
 - pkg:composer/laravel-enso/io@2.8.1
 - pkg:composer/laravel-enso/io@2.8.2
+- pkg:composer/laravel-enso/io@2.8.3
+- pkg:composer/laravel-enso/io@2.8.4

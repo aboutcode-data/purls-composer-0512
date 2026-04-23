@@ -267,3 +267,7 @@
 - pkg:composer/laravel-enso/addressesmanager@5.8.1
 - pkg:composer/laravel-enso/addressesmanager@5.8.2
 - pkg:composer/laravel-enso/addressesmanager@5.8.3
+- pkg:composer/laravel-enso/addressesmanager@5.8.4
+- pkg:composer/laravel-enso/addressesmanager@5.8.5
+- pkg:composer/laravel-enso/addressesmanager@5.8.6
+- pkg:composer/laravel-enso/addressesmanager@5.8.7

@@ -29,3 +29,4 @@
 - pkg:composer/laravel/mcp@v0.6.5
 - pkg:composer/laravel/mcp@v0.6.6
 - pkg:composer/laravel/mcp@v0.6.7
+- pkg:composer/laravel/mcp@v0.7.0
