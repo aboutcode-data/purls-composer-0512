@@ -6,3 +6,4 @@
 - pkg:composer/maggsweb/maggsweb-pdo@2.0.1
 - pkg:composer/maggsweb/maggsweb-pdo@2.0.2
 - pkg:composer/maggsweb/maggsweb-pdo@2.0.3
+- pkg:composer/maggsweb/maggsweb-pdo@3.0.0
