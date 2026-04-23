@@ -4,3 +4,4 @@
 - pkg:composer/horde/oauth@v3.0.0alpha1
 - pkg:composer/horde/oauth@v4.0.0beta1
 - pkg:composer/horde/oauth@v4.0.0beta2
+- pkg:composer/horde/oauth@v4.0.0beta3
