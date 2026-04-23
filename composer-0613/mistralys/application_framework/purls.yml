@@ -225,3 +225,4 @@
 - pkg:composer/mistralys/application_framework@7.0.8
 - pkg:composer/mistralys/application_framework@7.0.9
 - pkg:composer/mistralys/application_framework@7.1.0
+- pkg:composer/mistralys/application_framework@7.2.0

@@ -689,6 +689,10 @@
 - pkg:composer/matomo/matomo@5.1.2-rc1
 - pkg:composer/matomo/matomo@5.10.0-alpha.20260415013741
 - pkg:composer/matomo/matomo@5.10.0-alpha.20260416013727
+- pkg:composer/matomo/matomo@5.10.0-alpha.20260420013808
+- pkg:composer/matomo/matomo@5.10.0-alpha.20260421013728
+- pkg:composer/matomo/matomo@5.10.0-alpha.20260422013730
+- pkg:composer/matomo/matomo@5.10.0-alpha.20260423013715
 - pkg:composer/matomo/matomo@5.2.0
 - pkg:composer/matomo/matomo@5.2.0-alpha.20240529033030
 - pkg:composer/matomo/matomo@5.2.0-alpha.20240628132246
@@ -827,6 +831,7 @@
 - pkg:composer/matomo/matomo@5.8.0-b2
 - pkg:composer/matomo/matomo@5.8.0-b2.20260226013628
 - pkg:composer/matomo/matomo@5.8.0-rc1
+- pkg:composer/matomo/matomo@5.9.0
 - pkg:composer/matomo/matomo@5.9.0-alpha.20260301013552
 - pkg:composer/matomo/matomo@5.9.0-alpha.20260302013702
 - pkg:composer/matomo/matomo@5.9.0-alpha.20260303013811
