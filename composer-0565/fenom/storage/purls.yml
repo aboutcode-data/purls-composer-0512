@@ -3,3 +3,4 @@
 - pkg:composer/fenom/storage@1.1.1
 - pkg:composer/fenom/storage@1.1.2
 - pkg:composer/fenom/storage@1.2.0
+- pkg:composer/fenom/storage@3.1.0
