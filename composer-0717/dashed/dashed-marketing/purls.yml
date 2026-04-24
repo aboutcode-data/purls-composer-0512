@@ -19,6 +19,11 @@
 - pkg:composer/dashed/dashed-marketing@v4.14.1
 - pkg:composer/dashed/dashed-marketing@v4.15.0
 - pkg:composer/dashed/dashed-marketing@v4.15.1
+- pkg:composer/dashed/dashed-marketing@v4.15.3
+- pkg:composer/dashed/dashed-marketing@v4.15.4
+- pkg:composer/dashed/dashed-marketing@v4.15.5
+- pkg:composer/dashed/dashed-marketing@v4.15.6
+- pkg:composer/dashed/dashed-marketing@v4.15.7
 - pkg:composer/dashed/dashed-marketing@v4.2.0
 - pkg:composer/dashed/dashed-marketing@v4.2.1
 - pkg:composer/dashed/dashed-marketing@v4.2.2
