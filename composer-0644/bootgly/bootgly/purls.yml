@@ -23,6 +23,10 @@
 - pkg:composer/bootgly/bootgly@0.13.7-beta
 - pkg:composer/bootgly/bootgly@0.13.8-beta
 - pkg:composer/bootgly/bootgly@0.13.9-beta
+- pkg:composer/bootgly/bootgly@0.14.0-beta
+- pkg:composer/bootgly/bootgly@0.14.1-beta
+- pkg:composer/bootgly/bootgly@0.14.2-beta
+- pkg:composer/bootgly/bootgly@0.14.3-beta
 - pkg:composer/bootgly/bootgly@0.8.0-beta
 - pkg:composer/bootgly/bootgly@0.9.0-beta
 - pkg:composer/bootgly/bootgly@0.9.1-beta

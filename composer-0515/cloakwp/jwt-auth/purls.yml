@@ -1,2 +1,3 @@
 - pkg:composer/cloakwp/jwt-auth@0.0.1
 - pkg:composer/cloakwp/jwt-auth@0.0.2
+- pkg:composer/cloakwp/jwt-auth@0.0.3
