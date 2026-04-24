@@ -10,3 +10,5 @@
 - pkg:composer/fogeto/laravel-server-orchestrator@v1.0.9
 - pkg:composer/fogeto/laravel-server-orchestrator@v1.1.0
 - pkg:composer/fogeto/laravel-server-orchestrator@v1.1.1
+- pkg:composer/fogeto/laravel-server-orchestrator@v1.1.2
+- pkg:composer/fogeto/laravel-server-orchestrator@v1.1.3
