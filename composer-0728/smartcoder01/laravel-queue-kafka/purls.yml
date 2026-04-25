@@ -1,1 +1,2 @@
 - pkg:composer/smartcoder01/laravel-queue-kafka@1.0
+- pkg:composer/smartcoder01/laravel-queue-kafka@1.1

@@ -1,1 +1,2 @@
 - pkg:composer/str-kang/hyperf-redis-lock@2.2
+- pkg:composer/str-kang/hyperf-redis-lock@2.3

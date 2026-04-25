@@ -19,6 +19,7 @@
 - pkg:composer/studio/laravel-totem@v11.3.0
 - pkg:composer/studio/laravel-totem@v12.0.0
 - pkg:composer/studio/laravel-totem@v12.0.1
+- pkg:composer/studio/laravel-totem@v12.0.2
 - pkg:composer/studio/laravel-totem@v2.0.0
 - pkg:composer/studio/laravel-totem@v2.0.1
 - pkg:composer/studio/laravel-totem@v2.0.2
