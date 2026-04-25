@@ -369,3 +369,5 @@
 - pkg:composer/wikimedia/smash-pig@v1.2.3.9
 - pkg:composer/wikimedia/smash-pig@v1.2.4
 - pkg:composer/wikimedia/smash-pig@v1.2.4.1
+- pkg:composer/wikimedia/smash-pig@v1.2.4.2
+- pkg:composer/wikimedia/smash-pig@v1.2.4.3

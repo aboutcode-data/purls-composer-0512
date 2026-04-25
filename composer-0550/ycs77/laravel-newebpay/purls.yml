@@ -9,3 +9,4 @@
 - pkg:composer/ycs77/laravel-newebpay@v1.0.0
 - pkg:composer/ycs77/laravel-newebpay@v2.0.0-alpha.1
 - pkg:composer/ycs77/laravel-newebpay@v2.0.0-alpha.2
+- pkg:composer/ycs77/laravel-newebpay@v2.0.0-beta.1

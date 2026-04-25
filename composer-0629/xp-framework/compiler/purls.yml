@@ -113,6 +113,7 @@
 - pkg:composer/xp-framework/compiler@v9.0.0
 - pkg:composer/xp-framework/compiler@v9.1.0
 - pkg:composer/xp-framework/compiler@v9.1.1
+- pkg:composer/xp-framework/compiler@v9.10.0
 - pkg:composer/xp-framework/compiler@v9.2.0
 - pkg:composer/xp-framework/compiler@v9.3.0
 - pkg:composer/xp-framework/compiler@v9.3.1
