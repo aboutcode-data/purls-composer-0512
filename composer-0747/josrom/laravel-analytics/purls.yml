@@ -26,6 +26,7 @@
 - pkg:composer/josrom/laravel-analytics@10.0.0
 - pkg:composer/josrom/laravel-analytics@11.0.0
 - pkg:composer/josrom/laravel-analytics@12.0.0
+- pkg:composer/josrom/laravel-analytics@13.0.0
 - pkg:composer/josrom/laravel-analytics@2.0.0
 - pkg:composer/josrom/laravel-analytics@3.0.0
 - pkg:composer/josrom/laravel-analytics@4.0.0

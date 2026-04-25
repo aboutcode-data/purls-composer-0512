@@ -8,3 +8,4 @@
 - pkg:composer/keboola/service-client@1.3.2
 - pkg:composer/keboola/service-client@1.4.0
 - pkg:composer/keboola/service-client@1.5.0
+- pkg:composer/keboola/service-client@1.5.1
