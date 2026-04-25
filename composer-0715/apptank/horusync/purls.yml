@@ -65,6 +65,8 @@
 - pkg:composer/apptank/horusync@v0.17.2
 - pkg:composer/apptank/horusync@v0.17.3
 - pkg:composer/apptank/horusync@v0.17.4
+- pkg:composer/apptank/horusync@v0.18.0
+- pkg:composer/apptank/horusync@v0.18.1
 - pkg:composer/apptank/horusync@v0.2.0-rc1
 - pkg:composer/apptank/horusync@v0.2.1
 - pkg:composer/apptank/horusync@v0.3.0-rc1

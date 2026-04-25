@@ -34,8 +34,14 @@
 - pkg:composer/appdezign/lara-pro-base-theme@10.3.6
 - pkg:composer/appdezign/lara-pro-base-theme@10.5.0
 - pkg:composer/appdezign/lara-pro-base-theme@10.5.1
+- pkg:composer/appdezign/lara-pro-base-theme@10.5.10
+- pkg:composer/appdezign/lara-pro-base-theme@10.5.11
 - pkg:composer/appdezign/lara-pro-base-theme@10.5.2
 - pkg:composer/appdezign/lara-pro-base-theme@10.5.3
 - pkg:composer/appdezign/lara-pro-base-theme@10.5.4
 - pkg:composer/appdezign/lara-pro-base-theme@10.5.5
 - pkg:composer/appdezign/lara-pro-base-theme@10.5.6
+- pkg:composer/appdezign/lara-pro-base-theme@10.5.7
+- pkg:composer/appdezign/lara-pro-base-theme@10.5.8
+- pkg:composer/appdezign/lara-pro-base-theme@10.5.9
+- pkg:composer/appdezign/lara-pro-base-theme@10.6.0
