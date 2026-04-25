@@ -1,4 +1,5 @@
 - pkg:composer/padam87/form-filter-bundle@v0.1
+- pkg:composer/padam87/form-filter-bundle@v0.10.0
 - pkg:composer/padam87/form-filter-bundle@v0.2
 - pkg:composer/padam87/form-filter-bundle@v0.2.1
 - pkg:composer/padam87/form-filter-bundle@v0.3.0

@@ -21,3 +21,4 @@
 - pkg:composer/oasis/logging@v1.5.1
 - pkg:composer/oasis/logging@v2.0.0
 - pkg:composer/oasis/logging@v2.0.1
+- pkg:composer/oasis/logging@v3.0.0
