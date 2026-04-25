@@ -32,3 +32,4 @@
 - pkg:composer/scalapay/scalapay-magento-2@4.2.0
 - pkg:composer/scalapay/scalapay-magento-2@4.2.1
 - pkg:composer/scalapay/scalapay-magento-2@4.2.2
+- pkg:composer/scalapay/scalapay-magento-2@4.3.0

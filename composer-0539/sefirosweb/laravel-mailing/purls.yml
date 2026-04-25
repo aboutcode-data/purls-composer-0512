@@ -2,3 +2,7 @@
 - pkg:composer/sefirosweb/laravel-mailing@1.0.1
 - pkg:composer/sefirosweb/laravel-mailing@1.1.0
 - pkg:composer/sefirosweb/laravel-mailing@1.2.0
+- pkg:composer/sefirosweb/laravel-mailing@v12.0.0
+- pkg:composer/sefirosweb/laravel-mailing@v12.0.1
+- pkg:composer/sefirosweb/laravel-mailing@v12.0.2
+- pkg:composer/sefirosweb/laravel-mailing@v12.0.3

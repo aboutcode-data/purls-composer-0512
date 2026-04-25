@@ -9,3 +9,4 @@
 - pkg:composer/shippii-tech/php-sdk@2.1.0
 - pkg:composer/shippii-tech/php-sdk@2.1.1
 - pkg:composer/shippii-tech/php-sdk@2.2.0
+- pkg:composer/shippii-tech/php-sdk@3.0.0

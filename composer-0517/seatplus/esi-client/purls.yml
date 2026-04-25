@@ -9,3 +9,5 @@
 - pkg:composer/seatplus/esi-client@1.0.1
 - pkg:composer/seatplus/esi-client@2.0.0
 - pkg:composer/seatplus/esi-client@3.0.0
+- pkg:composer/seatplus/esi-client@3.0.1
+- pkg:composer/seatplus/esi-client@3.1.0
