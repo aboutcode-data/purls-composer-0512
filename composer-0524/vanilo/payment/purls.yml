@@ -16,3 +16,4 @@
 - pkg:composer/vanilo/payment@4.2.0
 - pkg:composer/vanilo/payment@5.0.0
 - pkg:composer/vanilo/payment@5.1.0
+- pkg:composer/vanilo/payment@5.2.0

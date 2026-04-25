@@ -47,6 +47,7 @@
 - pkg:composer/typo3/cms-base-distribution@v13.4.0
 - pkg:composer/typo3/cms-base-distribution@v13.4.1
 - pkg:composer/typo3/cms-base-distribution@v14.0.0
+- pkg:composer/typo3/cms-base-distribution@v14.3.0
 - pkg:composer/typo3/cms-base-distribution@v8.7.1
 - pkg:composer/typo3/cms-base-distribution@v8.7.2
 - pkg:composer/typo3/cms-base-distribution@v9.1.0
