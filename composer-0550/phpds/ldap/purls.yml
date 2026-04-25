@@ -7,3 +7,4 @@
 - pkg:composer/phpds/ldap@0.6.1
 - pkg:composer/phpds/ldap@0.7.0
 - pkg:composer/phpds/ldap@0.8.0
+- pkg:composer/phpds/ldap@0.8.1
