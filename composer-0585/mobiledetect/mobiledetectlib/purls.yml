@@ -78,6 +78,7 @@
 - pkg:composer/mobiledetect/mobiledetectlib@3.74.2
 - pkg:composer/mobiledetect/mobiledetectlib@3.74.3
 - pkg:composer/mobiledetect/mobiledetectlib@3.74.4
+- pkg:composer/mobiledetect/mobiledetectlib@4.10.0
 - pkg:composer/mobiledetect/mobiledetectlib@4.8.01
 - pkg:composer/mobiledetect/mobiledetectlib@4.8.02
 - pkg:composer/mobiledetect/mobiledetectlib@4.8.03
@@ -88,3 +89,4 @@
 - pkg:composer/mobiledetect/mobiledetectlib@4.8.08
 - pkg:composer/mobiledetect/mobiledetectlib@4.8.09
 - pkg:composer/mobiledetect/mobiledetectlib@4.8.10
+- pkg:composer/mobiledetect/mobiledetectlib@4.9.0

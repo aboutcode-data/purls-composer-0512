@@ -1,4 +1,5 @@
 - pkg:composer/neclimdul/marketo-rest@3.0.0-beta1
+- pkg:composer/neclimdul/marketo-rest@4.0.0-beta1
 - pkg:composer/neclimdul/marketo-rest@v0.1.0
 - pkg:composer/neclimdul/marketo-rest@v0.1.1
 - pkg:composer/neclimdul/marketo-rest@v0.1.10
