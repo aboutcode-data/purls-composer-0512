@@ -15,6 +15,8 @@
 - pkg:composer/talis/tripod-php@0.29.0
 - pkg:composer/talis/tripod-php@0.30.0
 - pkg:composer/talis/tripod-php@0.30.1
+- pkg:composer/talis/tripod-php@0.31.0
+- pkg:composer/talis/tripod-php@0.31.1
 - pkg:composer/talis/tripod-php@0.4.1
 - pkg:composer/talis/tripod-php@0.5.0
 - pkg:composer/talis/tripod-php@0.5.2

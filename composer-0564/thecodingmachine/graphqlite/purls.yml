@@ -29,3 +29,4 @@
 - pkg:composer/thecodingmachine/graphqlite@v8.1.1
 - pkg:composer/thecodingmachine/graphqlite@v8.1.2
 - pkg:composer/thecodingmachine/graphqlite@v8.1.3
+- pkg:composer/thecodingmachine/graphqlite@v8.2.0

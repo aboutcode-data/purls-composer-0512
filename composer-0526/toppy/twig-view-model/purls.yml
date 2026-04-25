@@ -8,3 +8,4 @@
 - pkg:composer/toppy/twig-view-model@v0.5.1
 - pkg:composer/toppy/twig-view-model@v0.6.0
 - pkg:composer/toppy/twig-view-model@v0.6.1
+- pkg:composer/toppy/twig-view-model@v0.7.0

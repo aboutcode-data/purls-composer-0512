@@ -411,6 +411,7 @@
 - pkg:composer/tencentcloud/billing@3.0.1554
 - pkg:composer/tencentcloud/billing@3.0.1564
 - pkg:composer/tencentcloud/billing@3.0.1565
+- pkg:composer/tencentcloud/billing@3.0.1574
 - pkg:composer/tencentcloud/billing@3.0.248
 - pkg:composer/tencentcloud/billing@3.0.249
 - pkg:composer/tencentcloud/billing@3.0.250

@@ -19,3 +19,5 @@
 - pkg:composer/toybox/theme@v2.9.2
 - pkg:composer/toybox/theme@v2.9.3
 - pkg:composer/toybox/theme@v2.9.4
+- pkg:composer/toybox/theme@v3.0.0
+- pkg:composer/toybox/theme@v3.0.1
