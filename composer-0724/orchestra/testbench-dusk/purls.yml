@@ -16,6 +16,7 @@
 - pkg:composer/orchestra/testbench-dusk@v10.9.0
 - pkg:composer/orchestra/testbench-dusk@v11.0.0
 - pkg:composer/orchestra/testbench-dusk@v11.1.0
+- pkg:composer/orchestra/testbench-dusk@v11.2.0
 - pkg:composer/orchestra/testbench-dusk@v3.4.0
 - pkg:composer/orchestra/testbench-dusk@v3.4.1
 - pkg:composer/orchestra/testbench-dusk@v3.4.2

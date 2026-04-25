@@ -50,3 +50,4 @@
 - pkg:composer/openeuropa/oe_corporate_blocks@5.0.0-beta4
 - pkg:composer/openeuropa/oe_corporate_blocks@5.0.0-beta5
 - pkg:composer/openeuropa/oe_corporate_blocks@5.0.1
+- pkg:composer/openeuropa/oe_corporate_blocks@5.1.0
