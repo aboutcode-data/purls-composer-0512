@@ -1,4 +1,5 @@
 - pkg:composer/rayzenai/laravel-sms@3.0.1
+- pkg:composer/rayzenai/laravel-sms@5.0.1
 - pkg:composer/rayzenai/laravel-sms@v1.0.0
 - pkg:composer/rayzenai/laravel-sms@v1.1.0
 - pkg:composer/rayzenai/laravel-sms@v1.2.0

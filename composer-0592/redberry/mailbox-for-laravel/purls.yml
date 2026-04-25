@@ -21,3 +21,7 @@
 - pkg:composer/redberry/mailbox-for-laravel@v2.0.0
 - pkg:composer/redberry/mailbox-for-laravel@v2.0.0-rc1
 - pkg:composer/redberry/mailbox-for-laravel@v2.0.0-rc2
+- pkg:composer/redberry/mailbox-for-laravel@v2.1.0
+- pkg:composer/redberry/mailbox-for-laravel@v2.1.1
+- pkg:composer/redberry/mailbox-for-laravel@v2.1.2
+- pkg:composer/redberry/mailbox-for-laravel@v2.1.3
