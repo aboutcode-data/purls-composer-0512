@@ -15,6 +15,7 @@
 - pkg:composer/php-mime-mail-parser/php-mime-mail-parser@1.7.2
 - pkg:composer/php-mime-mail-parser/php-mime-mail-parser@1.7.3
 - pkg:composer/php-mime-mail-parser/php-mime-mail-parser@1.7.4
+- pkg:composer/php-mime-mail-parser/php-mime-mail-parser@10.0.0
 - pkg:composer/php-mime-mail-parser/php-mime-mail-parser@2.0.0
 - pkg:composer/php-mime-mail-parser/php-mime-mail-parser@2.1.0
 - pkg:composer/php-mime-mail-parser/php-mime-mail-parser@2.1.1

@@ -1,3 +1,4 @@
 - pkg:composer/phpbb/topicprefixes@1.0.0
 - pkg:composer/phpbb/topicprefixes@1.0.0-a1
 - pkg:composer/phpbb/topicprefixes@1.0.1
+- pkg:composer/phpbb/topicprefixes@1.0.2

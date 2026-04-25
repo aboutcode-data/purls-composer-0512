@@ -11,3 +11,4 @@
 - pkg:composer/propaysystems/laravel-base-repositories@v0.0.8
 - pkg:composer/propaysystems/laravel-base-repositories@v0.0.9
 - pkg:composer/propaysystems/laravel-base-repositories@v1.0.0
+- pkg:composer/propaysystems/laravel-base-repositories@v1.0.2

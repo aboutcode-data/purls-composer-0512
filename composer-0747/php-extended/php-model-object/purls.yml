@@ -78,6 +78,9 @@
 - pkg:composer/php-extended/php-model-object@11.7.0
 - pkg:composer/php-extended/php-model-object@11.7.1
 - pkg:composer/php-extended/php-model-object@11.7.2
+- pkg:composer/php-extended/php-model-object@11.7.3
+- pkg:composer/php-extended/php-model-object@11.7.4
+- pkg:composer/php-extended/php-model-object@11.7.5
 - pkg:composer/php-extended/php-model-object@2.0.0
 - pkg:composer/php-extended/php-model-object@2.1.0
 - pkg:composer/php-extended/php-model-object@3.0.0

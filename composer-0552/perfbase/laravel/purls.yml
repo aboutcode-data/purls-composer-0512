@@ -19,3 +19,4 @@
 - pkg:composer/perfbase/laravel@v1.1.1
 - pkg:composer/perfbase/laravel@v1.2.0
 - pkg:composer/perfbase/laravel@v1.3.0
+- pkg:composer/perfbase/laravel@v1.4.0

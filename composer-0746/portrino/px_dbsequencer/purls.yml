@@ -16,3 +16,4 @@
 - pkg:composer/portrino/px_dbsequencer@13.1.1
 - pkg:composer/portrino/px_dbsequencer@13.1.2
 - pkg:composer/portrino/px_dbsequencer@13.1.3
+- pkg:composer/portrino/px_dbsequencer@14.0.0
