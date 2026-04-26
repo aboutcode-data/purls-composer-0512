@@ -35,3 +35,4 @@
 - pkg:composer/kreuzberg/tree-sitter-language-pack@1.6.2
 - pkg:composer/kreuzberg/tree-sitter-language-pack@1.7.0
 - pkg:composer/kreuzberg/tree-sitter-language-pack@1.8.0-rc.1
+- pkg:composer/kreuzberg/tree-sitter-language-pack@1.8.0-rc.2
