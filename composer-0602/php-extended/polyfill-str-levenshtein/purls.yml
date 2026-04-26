@@ -52,6 +52,7 @@
 - pkg:composer/php-extended/polyfill-str-levenshtein@1.4.25
 - pkg:composer/php-extended/polyfill-str-levenshtein@1.4.26
 - pkg:composer/php-extended/polyfill-str-levenshtein@1.4.27
+- pkg:composer/php-extended/polyfill-str-levenshtein@1.4.28
 - pkg:composer/php-extended/polyfill-str-levenshtein@1.4.3
 - pkg:composer/php-extended/polyfill-str-levenshtein@1.4.4
 - pkg:composer/php-extended/polyfill-str-levenshtein@1.4.5

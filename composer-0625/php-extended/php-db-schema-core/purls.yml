@@ -112,6 +112,7 @@
 - pkg:composer/php-extended/php-db-schema-core@9.7.15
 - pkg:composer/php-extended/php-db-schema-core@9.7.16
 - pkg:composer/php-extended/php-db-schema-core@9.7.17
+- pkg:composer/php-extended/php-db-schema-core@9.7.18
 - pkg:composer/php-extended/php-db-schema-core@9.7.2
 - pkg:composer/php-extended/php-db-schema-core@9.7.3
 - pkg:composer/php-extended/php-db-schema-core@9.7.4
