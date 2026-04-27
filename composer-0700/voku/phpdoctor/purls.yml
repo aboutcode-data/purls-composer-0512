@@ -14,3 +14,4 @@
 - pkg:composer/voku/phpdoctor@0.6.5
 - pkg:composer/voku/phpdoctor@0.6.6
 - pkg:composer/voku/phpdoctor@0.7.0
+- pkg:composer/voku/phpdoctor@0.8.0

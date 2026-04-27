@@ -1,3 +1,4 @@
 - pkg:composer/valtzu/guzzle-websocket-middleware@0.1.0
 - pkg:composer/valtzu/guzzle-websocket-middleware@0.2.0
 - pkg:composer/valtzu/guzzle-websocket-middleware@0.3.0
+- pkg:composer/valtzu/guzzle-websocket-middleware@1.0.0
