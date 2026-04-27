@@ -8,3 +8,4 @@
 - pkg:composer/roots/wp-stage-switcher@2.2.0
 - pkg:composer/roots/wp-stage-switcher@2.3.0
 - pkg:composer/roots/wp-stage-switcher@2.4.0
+- pkg:composer/roots/wp-stage-switcher@2.4.1
