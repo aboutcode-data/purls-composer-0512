@@ -12,3 +12,4 @@
 - pkg:composer/newman/laravel-tms-api-client@2.0.1
 - pkg:composer/newman/laravel-tms-api-client@2.0.2
 - pkg:composer/newman/laravel-tms-api-client@2.1.0
+- pkg:composer/newman/laravel-tms-api-client@2.2.0
