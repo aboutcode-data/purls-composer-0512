@@ -34,6 +34,7 @@
 - pkg:composer/symfony/polyfill-apcu@v1.34.0
 - pkg:composer/symfony/polyfill-apcu@v1.35.0
 - pkg:composer/symfony/polyfill-apcu@v1.36.0
+- pkg:composer/symfony/polyfill-apcu@v1.37.0
 - pkg:composer/symfony/polyfill-apcu@v1.4.0
 - pkg:composer/symfony/polyfill-apcu@v1.5.0
 - pkg:composer/symfony/polyfill-apcu@v1.6.0
