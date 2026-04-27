@@ -12,3 +12,4 @@
 - pkg:composer/laravel-at/laravel-image-sanitize@v2.1.0
 - pkg:composer/laravel-at/laravel-image-sanitize@v2.2.0
 - pkg:composer/laravel-at/laravel-image-sanitize@v3.0.0
+- pkg:composer/laravel-at/laravel-image-sanitize@v4.0.0
