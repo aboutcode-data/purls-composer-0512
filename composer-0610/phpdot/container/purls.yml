@@ -4,3 +4,5 @@
 - pkg:composer/phpdot/container@v1.1.0
 - pkg:composer/phpdot/container@v1.2.0
 - pkg:composer/phpdot/container@v1.3.0
+- pkg:composer/phpdot/container@v1.4.0
+- pkg:composer/phpdot/container@v1.5.0

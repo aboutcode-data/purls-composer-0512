@@ -7,3 +7,4 @@
 - pkg:composer/phpseclib/phpseclib2_compat@1.0.6
 - pkg:composer/phpseclib/phpseclib2_compat@1.0.7
 - pkg:composer/phpseclib/phpseclib2_compat@1.0.8
+- pkg:composer/phpseclib/phpseclib2_compat@1.0.9
