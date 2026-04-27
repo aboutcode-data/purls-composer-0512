@@ -10,3 +10,4 @@
 - pkg:composer/mreycode/laravel-db-migrator@v2.3.0
 - pkg:composer/mreycode/laravel-db-migrator@v2.4.0
 - pkg:composer/mreycode/laravel-db-migrator@v2.4.1
+- pkg:composer/mreycode/laravel-db-migrator@v2.5.0
