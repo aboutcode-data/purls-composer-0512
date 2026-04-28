@@ -1,1 +1,2 @@
 - pkg:composer/roberts/laravel-singledb-tenancy@v1.0.0
+- pkg:composer/roberts/laravel-singledb-tenancy@v2.0.0
