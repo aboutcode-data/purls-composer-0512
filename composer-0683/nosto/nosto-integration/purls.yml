@@ -116,6 +116,7 @@
 - pkg:composer/nosto/nosto-integration@6.1.1
 - pkg:composer/nosto/nosto-integration@6.1.10
 - pkg:composer/nosto/nosto-integration@6.1.11
+- pkg:composer/nosto/nosto-integration@6.1.12
 - pkg:composer/nosto/nosto-integration@6.1.2
 - pkg:composer/nosto/nosto-integration@6.1.3
 - pkg:composer/nosto/nosto-integration@6.1.4
