@@ -17,3 +17,5 @@
 - pkg:composer/mage-os/module-page-builder-template-import-export@1.6.2
 - pkg:composer/mage-os/module-page-builder-template-import-export@1.6.3
 - pkg:composer/mage-os/module-page-builder-template-import-export@1.7.0
+- pkg:composer/mage-os/module-page-builder-template-import-export@1.7.1
+- pkg:composer/mage-os/module-page-builder-template-import-export@1.8.0
