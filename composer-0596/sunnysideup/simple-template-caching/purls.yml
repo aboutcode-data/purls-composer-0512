@@ -47,6 +47,7 @@
 - pkg:composer/sunnysideup/simple-template-caching@17.0.0
 - pkg:composer/sunnysideup/simple-template-caching@17.0.1
 - pkg:composer/sunnysideup/simple-template-caching@17.0.2
+- pkg:composer/sunnysideup/simple-template-caching@18.0.0
 - pkg:composer/sunnysideup/simple-template-caching@2.0.0
 - pkg:composer/sunnysideup/simple-template-caching@3.0.0
 - pkg:composer/sunnysideup/simple-template-caching@4.0.0

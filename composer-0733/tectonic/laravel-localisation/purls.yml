@@ -24,3 +24,4 @@
 - pkg:composer/tectonic/laravel-localisation@2.2.0
 - pkg:composer/tectonic/laravel-localisation@2.3.0
 - pkg:composer/tectonic/laravel-localisation@2.3.1
+- pkg:composer/tectonic/laravel-localisation@2.4.0

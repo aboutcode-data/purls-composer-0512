@@ -14,3 +14,5 @@
 - pkg:composer/su-sws/stanford_samlauth@1.2.1
 - pkg:composer/su-sws/stanford_samlauth@2.0.0
 - pkg:composer/su-sws/stanford_samlauth@2.1.0
+- pkg:composer/su-sws/stanford_samlauth@2.1.1
+- pkg:composer/su-sws/stanford_samlauth@2.1.2
