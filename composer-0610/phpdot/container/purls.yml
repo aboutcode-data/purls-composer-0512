@@ -6,3 +6,4 @@
 - pkg:composer/phpdot/container@v1.3.0
 - pkg:composer/phpdot/container@v1.4.0
 - pkg:composer/phpdot/container@v1.5.0
+- pkg:composer/phpdot/container@v1.6.0
