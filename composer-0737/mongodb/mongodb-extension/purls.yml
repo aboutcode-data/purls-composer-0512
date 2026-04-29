@@ -65,3 +65,4 @@
 - pkg:composer/mongodb/mongodb-extension@2.1.8
 - pkg:composer/mongodb/mongodb-extension@2.2.0
 - pkg:composer/mongodb/mongodb-extension@2.2.1
+- pkg:composer/mongodb/mongodb-extension@2.3.0

@@ -1124,7 +1124,13 @@
 - pkg:composer/mobilestock/laravel-model-affected-rows-verification@v1.0.836
 - pkg:composer/mobilestock/laravel-model-affected-rows-verification@v1.0.837
 - pkg:composer/mobilestock/laravel-model-affected-rows-verification@v1.0.838
+- pkg:composer/mobilestock/laravel-model-affected-rows-verification@v1.0.839
 - pkg:composer/mobilestock/laravel-model-affected-rows-verification@v1.0.84
+- pkg:composer/mobilestock/laravel-model-affected-rows-verification@v1.0.840
+- pkg:composer/mobilestock/laravel-model-affected-rows-verification@v1.0.841
+- pkg:composer/mobilestock/laravel-model-affected-rows-verification@v1.0.842
+- pkg:composer/mobilestock/laravel-model-affected-rows-verification@v1.0.843
+- pkg:composer/mobilestock/laravel-model-affected-rows-verification@v1.0.844
 - pkg:composer/mobilestock/laravel-model-affected-rows-verification@v1.0.85
 - pkg:composer/mobilestock/laravel-model-affected-rows-verification@v1.0.86
 - pkg:composer/mobilestock/laravel-model-affected-rows-verification@v1.0.87
