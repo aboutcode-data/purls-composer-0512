@@ -55,3 +55,4 @@
 - pkg:composer/spatie/laravel-sluggable@3.8.0
 - pkg:composer/spatie/laravel-sluggable@3.8.1
 - pkg:composer/spatie/laravel-sluggable@4.0.0
+- pkg:composer/spatie/laravel-sluggable@4.0.1

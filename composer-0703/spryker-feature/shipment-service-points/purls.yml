@@ -4,3 +4,4 @@
 - pkg:composer/spryker-feature/shipment-service-points@202507.0
 - pkg:composer/spryker-feature/shipment-service-points@202512.0
 - pkg:composer/spryker-feature/shipment-service-points@202602.0
+- pkg:composer/spryker-feature/shipment-service-points@202604.0
