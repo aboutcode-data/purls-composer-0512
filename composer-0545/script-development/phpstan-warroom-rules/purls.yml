@@ -1,0 +1,2 @@
+- pkg:composer/script-development/phpstan-warroom-rules@v0.1.0
+- pkg:composer/script-development/phpstan-warroom-rules@v0.1.1

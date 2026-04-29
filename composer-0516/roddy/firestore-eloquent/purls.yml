@@ -23,6 +23,7 @@
 - pkg:composer/roddy/firestore-eloquent@v3.0.13
 - pkg:composer/roddy/firestore-eloquent@v3.0.14
 - pkg:composer/roddy/firestore-eloquent@v3.0.15
+- pkg:composer/roddy/firestore-eloquent@v3.0.16
 - pkg:composer/roddy/firestore-eloquent@v3.0.2
 - pkg:composer/roddy/firestore-eloquent@v3.0.3
 - pkg:composer/roddy/firestore-eloquent@v3.0.4
