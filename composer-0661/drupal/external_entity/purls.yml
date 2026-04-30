@@ -1,1 +1,2 @@
 - pkg:composer/drupal/external_entity@1.0.0-rc1
+- pkg:composer/drupal/external_entity@2.0.0-alpha1
