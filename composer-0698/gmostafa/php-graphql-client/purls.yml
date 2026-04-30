@@ -21,6 +21,7 @@
 - pkg:composer/gmostafa/php-graphql-client@v1.11
 - pkg:composer/gmostafa/php-graphql-client@v1.12
 - pkg:composer/gmostafa/php-graphql-client@v1.13
+- pkg:composer/gmostafa/php-graphql-client@v1.14
 - pkg:composer/gmostafa/php-graphql-client@v1.2
 - pkg:composer/gmostafa/php-graphql-client@v1.3
 - pkg:composer/gmostafa/php-graphql-client@v1.3.1

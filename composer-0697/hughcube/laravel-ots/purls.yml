@@ -26,3 +26,4 @@
 - pkg:composer/hughcube/laravel-ots@v1.2.1
 - pkg:composer/hughcube/laravel-ots@v1.2.2
 - pkg:composer/hughcube/laravel-ots@v1.2.3
+- pkg:composer/hughcube/laravel-ots@v1.3.0
