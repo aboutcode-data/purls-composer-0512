@@ -74,3 +74,5 @@
 - pkg:composer/stolt/lean-package-validator@v5.5.0
 - pkg:composer/stolt/lean-package-validator@v5.6.0
 - pkg:composer/stolt/lean-package-validator@v5.6.1
+- pkg:composer/stolt/lean-package-validator@v5.7.0
+- pkg:composer/stolt/lean-package-validator@v5.7.1
