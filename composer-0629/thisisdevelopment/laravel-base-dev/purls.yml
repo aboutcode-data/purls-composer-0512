@@ -22,3 +22,5 @@
 - pkg:composer/thisisdevelopment/laravel-base-dev@0.6.8
 - pkg:composer/thisisdevelopment/laravel-base-dev@0.6.9
 - pkg:composer/thisisdevelopment/laravel-base-dev@0.7.0
+- pkg:composer/thisisdevelopment/laravel-base-dev@0.8.0
+- pkg:composer/thisisdevelopment/laravel-base-dev@0.8.1

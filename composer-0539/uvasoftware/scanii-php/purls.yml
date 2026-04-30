@@ -14,3 +14,5 @@
 - pkg:composer/uvasoftware/scanii-php@v5.1.2
 - pkg:composer/uvasoftware/scanii-php@v5.1.4
 - pkg:composer/uvasoftware/scanii-php@v5.2.0
+- pkg:composer/uvasoftware/scanii-php@v6.0.0
+- pkg:composer/uvasoftware/scanii-php@v6.1.0

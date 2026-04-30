@@ -242,6 +242,7 @@
 - pkg:composer/thingston/coverage-check@v1.1.310
 - pkg:composer/thingston/coverage-check@v1.1.311
 - pkg:composer/thingston/coverage-check@v1.1.312
+- pkg:composer/thingston/coverage-check@v1.1.313
 - pkg:composer/thingston/coverage-check@v1.1.32
 - pkg:composer/thingston/coverage-check@v1.1.33
 - pkg:composer/thingston/coverage-check@v1.1.34

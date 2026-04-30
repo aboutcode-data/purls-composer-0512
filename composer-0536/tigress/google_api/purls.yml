@@ -10,3 +10,5 @@
 - pkg:composer/tigress/google_api@2025.12.11.1
 - pkg:composer/tigress/google_api@2026.01.20.0
 - pkg:composer/tigress/google_api@2026.01.20.1
+- pkg:composer/tigress/google_api@2026.04.28.0
+- pkg:composer/tigress/google_api@2026.04.28.1
