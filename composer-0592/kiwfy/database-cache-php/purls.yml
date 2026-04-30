@@ -5,3 +5,4 @@
 - pkg:composer/kiwfy/database-cache-php@5.0.0
 - pkg:composer/kiwfy/database-cache-php@6.0.0
 - pkg:composer/kiwfy/database-cache-php@7.0.0
+- pkg:composer/kiwfy/database-cache-php@8.0.0
