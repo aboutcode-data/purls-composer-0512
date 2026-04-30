@@ -22,3 +22,6 @@
 - pkg:composer/alibabacloud/rdsai-20250507@2.4.2
 - pkg:composer/alibabacloud/rdsai-20250507@2.5.0
 - pkg:composer/alibabacloud/rdsai-20250507@3.0.0
+- pkg:composer/alibabacloud/rdsai-20250507@3.0.1
+- pkg:composer/alibabacloud/rdsai-20250507@3.1.0
+- pkg:composer/alibabacloud/rdsai-20250507@3.2.0

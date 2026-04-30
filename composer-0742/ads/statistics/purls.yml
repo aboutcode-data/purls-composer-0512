@@ -33,7 +33,9 @@
 - pkg:composer/ads/statistics@3.0.16
 - pkg:composer/ads/statistics@3.0.17
 - pkg:composer/ads/statistics@3.0.18
+- pkg:composer/ads/statistics@3.0.19
 - pkg:composer/ads/statistics@3.0.2
+- pkg:composer/ads/statistics@3.0.20
 - pkg:composer/ads/statistics@3.0.3
 - pkg:composer/ads/statistics@3.0.4
 - pkg:composer/ads/statistics@3.0.5

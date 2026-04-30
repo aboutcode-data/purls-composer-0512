@@ -2,6 +2,7 @@
 - pkg:composer/aedart/athenaeum-http-api@10.1.0
 - pkg:composer/aedart/athenaeum-http-api@10.2.0
 - pkg:composer/aedart/athenaeum-http-api@10.3.0
+- pkg:composer/aedart/athenaeum-http-api@10.4.0
 - pkg:composer/aedart/athenaeum-http-api@6.5.0
 - pkg:composer/aedart/athenaeum-http-api@6.5.1
 - pkg:composer/aedart/athenaeum-http-api@6.5.2

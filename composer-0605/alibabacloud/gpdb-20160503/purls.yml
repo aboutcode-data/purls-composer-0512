@@ -95,3 +95,4 @@
 - pkg:composer/alibabacloud/gpdb-20160503@3.3.0
 - pkg:composer/alibabacloud/gpdb-20160503@3.3.1
 - pkg:composer/alibabacloud/gpdb-20160503@3.4.0
+- pkg:composer/alibabacloud/gpdb-20160503@3.5.0

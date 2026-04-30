@@ -6,3 +6,4 @@
 - pkg:composer/airlst/sdk-php@0.0.6
 - pkg:composer/airlst/sdk-php@1.0.0
 - pkg:composer/airlst/sdk-php@1.0.1
+- pkg:composer/airlst/sdk-php@v1.1.0

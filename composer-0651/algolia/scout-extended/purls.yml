@@ -56,3 +56,4 @@
 - pkg:composer/algolia/scout-extended@v3.2.1
 - pkg:composer/algolia/scout-extended@v3.2.2
 - pkg:composer/algolia/scout-extended@v4.0.0
+- pkg:composer/algolia/scout-extended@v5.0.0
