@@ -40,6 +40,7 @@
 - pkg:composer/n3xt0r/dashclip-delivery@3.13.0
 - pkg:composer/n3xt0r/dashclip-delivery@3.13.1
 - pkg:composer/n3xt0r/dashclip-delivery@3.14.0
+- pkg:composer/n3xt0r/dashclip-delivery@3.15.0
 - pkg:composer/n3xt0r/dashclip-delivery@3.2.0
 - pkg:composer/n3xt0r/dashclip-delivery@3.3.0
 - pkg:composer/n3xt0r/dashclip-delivery@3.4.0
@@ -51,3 +52,4 @@
 - pkg:composer/n3xt0r/dashclip-delivery@4.0.0-alpha.1
 - pkg:composer/n3xt0r/dashclip-delivery@4.0.0-alpha.2
 - pkg:composer/n3xt0r/dashclip-delivery@4.0.0-alpha.3
+- pkg:composer/n3xt0r/dashclip-delivery@4.0.0-alpha.4
