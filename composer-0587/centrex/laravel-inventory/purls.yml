@@ -1,2 +1,4 @@
 - pkg:composer/centrex/laravel-inventory@v0.1.0
 - pkg:composer/centrex/laravel-inventory@v0.1.1
+- pkg:composer/centrex/laravel-inventory@v1.0.0
+- pkg:composer/centrex/laravel-inventory@v1.1.0

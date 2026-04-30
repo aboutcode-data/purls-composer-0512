@@ -1,1 +1,2 @@
 - pkg:composer/centrex/laravel-security@v0.1.0
+- pkg:composer/centrex/laravel-security@v1.0.0

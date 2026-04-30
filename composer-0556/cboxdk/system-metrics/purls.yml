@@ -12,3 +12,4 @@
 - pkg:composer/cboxdk/system-metrics@v2.2.0
 - pkg:composer/cboxdk/system-metrics@v2.3.0
 - pkg:composer/cboxdk/system-metrics@v2.3.1
+- pkg:composer/cboxdk/system-metrics@v3.0.0
