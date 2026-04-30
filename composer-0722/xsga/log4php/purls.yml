@@ -1,2 +1,3 @@
 - pkg:composer/xsga/log4php@v0.1.0
 - pkg:composer/xsga/log4php@v0.2.0
+- pkg:composer/xsga/log4php@v1.0.0

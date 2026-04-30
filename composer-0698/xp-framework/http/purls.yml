@@ -5,6 +5,7 @@
 - pkg:composer/xp-framework/http@v10.1.0
 - pkg:composer/xp-framework/http@v10.2.0
 - pkg:composer/xp-framework/http@v10.3.0
+- pkg:composer/xp-framework/http@v11.0.0
 - pkg:composer/xp-framework/http@v6.0.0
 - pkg:composer/xp-framework/http@v6.0.1
 - pkg:composer/xp-framework/http@v6.1.0

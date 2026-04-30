@@ -23,3 +23,4 @@
 - pkg:composer/yiisoft/yii2-redis@2.0.8
 - pkg:composer/yiisoft/yii2-redis@2.0.9
 - pkg:composer/yiisoft/yii2-redis@2.1.0
+- pkg:composer/yiisoft/yii2-redis@2.1.1

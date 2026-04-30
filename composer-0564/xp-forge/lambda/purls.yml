@@ -35,3 +35,4 @@
 - pkg:composer/xp-forge/lambda@v6.2.0
 - pkg:composer/xp-forge/lambda@v7.0.0
 - pkg:composer/xp-forge/lambda@v7.0.1
+- pkg:composer/xp-forge/lambda@v7.1.0

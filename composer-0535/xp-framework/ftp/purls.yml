@@ -8,6 +8,7 @@
 - pkg:composer/xp-framework/ftp@v11.0.3
 - pkg:composer/xp-framework/ftp@v11.1.0
 - pkg:composer/xp-framework/ftp@v12.0.0
+- pkg:composer/xp-framework/ftp@v12.1.0
 - pkg:composer/xp-framework/ftp@v6.0.0
 - pkg:composer/xp-framework/ftp@v6.0.1
 - pkg:composer/xp-framework/ftp@v6.1.0

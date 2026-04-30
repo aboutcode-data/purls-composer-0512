@@ -32,6 +32,7 @@
 - pkg:composer/ytake/laravel-aspect@1.7.0
 - pkg:composer/ytake/laravel-aspect@10.0.0
 - pkg:composer/ytake/laravel-aspect@11.0.0
+- pkg:composer/ytake/laravel-aspect@11.0.1
 - pkg:composer/ytake/laravel-aspect@2.0.0
 - pkg:composer/ytake/laravel-aspect@2.0.1
 - pkg:composer/ytake/laravel-aspect@2.0.2
