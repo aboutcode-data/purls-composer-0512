@@ -12,3 +12,5 @@
 - pkg:composer/jayesh/laravel-gemini-translator@4.0.1
 - pkg:composer/jayesh/laravel-gemini-translator@4.0.2
 - pkg:composer/jayesh/laravel-gemini-translator@4.0.3
+- pkg:composer/jayesh/laravel-gemini-translator@5.0.0
+- pkg:composer/jayesh/laravel-gemini-translator@5.0.1

@@ -325,6 +325,7 @@
 - pkg:composer/illuminate/routing@v13.4.0
 - pkg:composer/illuminate/routing@v13.5.0
 - pkg:composer/illuminate/routing@v13.6.0
+- pkg:composer/illuminate/routing@v13.7.0
 - pkg:composer/illuminate/routing@v4.0.0
 - pkg:composer/illuminate/routing@v4.0.0-BETA2
 - pkg:composer/illuminate/routing@v4.0.0-BETA3

@@ -19,6 +19,15 @@
 - pkg:composer/irongate/chief@v0.107.2
 - pkg:composer/irongate/chief@v0.107.3
 - pkg:composer/irongate/chief@v0.108.0
+- pkg:composer/irongate/chief@v0.109.0
+- pkg:composer/irongate/chief@v0.109.1
+- pkg:composer/irongate/chief@v0.109.2
+- pkg:composer/irongate/chief@v0.109.3
+- pkg:composer/irongate/chief@v0.109.4
+- pkg:composer/irongate/chief@v0.109.5
+- pkg:composer/irongate/chief@v0.109.6
+- pkg:composer/irongate/chief@v0.109.7
+- pkg:composer/irongate/chief@v0.109.8
 - pkg:composer/irongate/chief@v0.11.0
 - pkg:composer/irongate/chief@v0.12.0
 - pkg:composer/irongate/chief@v0.12.1
