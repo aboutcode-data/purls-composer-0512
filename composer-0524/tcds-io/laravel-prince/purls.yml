@@ -8,6 +8,7 @@
 - pkg:composer/tcds-io/laravel-prince@1.12.1
 - pkg:composer/tcds-io/laravel-prince@1.12.2
 - pkg:composer/tcds-io/laravel-prince@1.12.3
+- pkg:composer/tcds-io/laravel-prince@1.13.0
 - pkg:composer/tcds-io/laravel-prince@1.2.0
 - pkg:composer/tcds-io/laravel-prince@1.3.0
 - pkg:composer/tcds-io/laravel-prince@1.4.0
