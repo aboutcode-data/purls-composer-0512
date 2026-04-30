@@ -12,3 +12,4 @@
 - pkg:composer/ranetrace/laravel-cloudflare@v1.0.8
 - pkg:composer/ranetrace/laravel-cloudflare@v1.0.9
 - pkg:composer/ranetrace/laravel-cloudflare@v2.0
+- pkg:composer/ranetrace/laravel-cloudflare@v2.0.1
