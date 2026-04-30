@@ -10,6 +10,8 @@
 - pkg:composer/wotz/filament-admin-bar@v1.3.0
 - pkg:composer/wotz/filament-admin-bar@v1.4.0
 - pkg:composer/wotz/filament-admin-bar@v1.4.1
+- pkg:composer/wotz/filament-admin-bar@v1.4.2
 - pkg:composer/wotz/filament-admin-bar@v2.0.0
 - pkg:composer/wotz/filament-admin-bar@v2.0.1
 - pkg:composer/wotz/filament-admin-bar@v2.1.0
+- pkg:composer/wotz/filament-admin-bar@v2.1.1

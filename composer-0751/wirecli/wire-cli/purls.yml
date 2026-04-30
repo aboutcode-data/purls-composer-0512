@@ -2,6 +2,8 @@
 - pkg:composer/wirecli/wire-cli@1.4.11
 - pkg:composer/wirecli/wire-cli@1.4.12
 - pkg:composer/wirecli/wire-cli@1.4.13
+- pkg:composer/wirecli/wire-cli@1.4.14
+- pkg:composer/wirecli/wire-cli@1.4.15
 - pkg:composer/wirecli/wire-cli@1.4.7
 - pkg:composer/wirecli/wire-cli@1.4.8
 - pkg:composer/wirecli/wire-cli@1.4.9
