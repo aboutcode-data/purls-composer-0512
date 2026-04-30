@@ -13,3 +13,6 @@
 - pkg:composer/cline/bearer@5.3.0
 - pkg:composer/cline/bearer@5.3.1
 - pkg:composer/cline/bearer@5.3.2
+- pkg:composer/cline/bearer@6.0.0
+- pkg:composer/cline/bearer@6.0.1
+- pkg:composer/cline/bearer@6.0.2
