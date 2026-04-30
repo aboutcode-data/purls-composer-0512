@@ -27,3 +27,7 @@
 - pkg:composer/psys/order-invoice-bundle@v1.4.4
 - pkg:composer/psys/order-invoice-bundle@v1.4.5
 - pkg:composer/psys/order-invoice-bundle@v1.4.6
+- pkg:composer/psys/order-invoice-bundle@v1.5.0
+- pkg:composer/psys/order-invoice-bundle@v1.5.1
+- pkg:composer/psys/order-invoice-bundle@v1.5.2
+- pkg:composer/psys/order-invoice-bundle@v1.5.3
