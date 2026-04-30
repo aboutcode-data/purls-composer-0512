@@ -46,3 +46,5 @@
 - pkg:composer/digbang/utils@v3.0.0
 - pkg:composer/digbang/utils@v4.0.0
 - pkg:composer/digbang/utils@v4.1.0
+- pkg:composer/digbang/utils@v4.2.0
+- pkg:composer/digbang/utils@v4.3.0

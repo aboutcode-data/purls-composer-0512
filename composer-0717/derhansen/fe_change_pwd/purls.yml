@@ -43,3 +43,5 @@
 - pkg:composer/derhansen/fe_change_pwd@5.3.1
 - pkg:composer/derhansen/fe_change_pwd@5.3.2
 - pkg:composer/derhansen/fe_change_pwd@6.0.0
+- pkg:composer/derhansen/fe_change_pwd@6.0.1
+- pkg:composer/derhansen/fe_change_pwd@6.0.2

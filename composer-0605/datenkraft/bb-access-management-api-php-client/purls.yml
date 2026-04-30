@@ -15,6 +15,7 @@
 - pkg:composer/datenkraft/bb-access-management-api-php-client@v1.3.5
 - pkg:composer/datenkraft/bb-access-management-api-php-client@v1.3.6
 - pkg:composer/datenkraft/bb-access-management-api-php-client@v1.3.7
+- pkg:composer/datenkraft/bb-access-management-api-php-client@v1.4.0
 - pkg:composer/datenkraft/bb-access-management-api-php-client@v2.3.0
 - pkg:composer/datenkraft/bb-access-management-api-php-client@v2.3.1
 - pkg:composer/datenkraft/bb-access-management-api-php-client@v2.3.10
@@ -27,3 +28,4 @@
 - pkg:composer/datenkraft/bb-access-management-api-php-client@v2.3.7
 - pkg:composer/datenkraft/bb-access-management-api-php-client@v2.3.8
 - pkg:composer/datenkraft/bb-access-management-api-php-client@v2.3.9
+- pkg:composer/datenkraft/bb-access-management-api-php-client@v2.4.0
