@@ -172,3 +172,4 @@
 - pkg:composer/oro/marketing@6.1.7
 - pkg:composer/oro/marketing@7.0.0
 - pkg:composer/oro/marketing@7.0.0-rc
+- pkg:composer/oro/marketing@7.0.1

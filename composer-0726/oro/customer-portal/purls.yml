@@ -168,3 +168,4 @@
 - pkg:composer/oro/customer-portal@6.1.9
 - pkg:composer/oro/customer-portal@7.0.0
 - pkg:composer/oro/customer-portal@7.0.0-rc
+- pkg:composer/oro/customer-portal@7.0.1
