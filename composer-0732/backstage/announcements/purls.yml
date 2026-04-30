@@ -85,6 +85,7 @@
 - pkg:composer/backstage/announcements@v2.0.9
 - pkg:composer/backstage/announcements@v4.0.0
 - pkg:composer/backstage/announcements@v4.0.1
+- pkg:composer/backstage/announcements@v4.0.10
 - pkg:composer/backstage/announcements@v4.0.2
 - pkg:composer/backstage/announcements@v4.0.3
 - pkg:composer/backstage/announcements@v4.0.4
@@ -92,3 +93,4 @@
 - pkg:composer/backstage/announcements@v4.0.6
 - pkg:composer/backstage/announcements@v4.0.7
 - pkg:composer/backstage/announcements@v4.0.8
+- pkg:composer/backstage/announcements@v4.0.9
