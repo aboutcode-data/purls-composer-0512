@@ -1,5 +1,8 @@
-- pkg:composer/rossel/rossel-kafka@0.2.0
 - pkg:composer/rossel/rossel-kafka@0.3.0-beta
 - pkg:composer/rossel/rossel-kafka@0.4.0-alpha
 - pkg:composer/rossel/rossel-kafka@0.4.0-alpha-1
+- pkg:composer/rossel/rossel-kafka@0.4.0-alpha-2
+- pkg:composer/rossel/rossel-kafka@0.4.0-alpha-3
+- pkg:composer/rossel/rossel-kafka@0.4.0-alpha-4
+- pkg:composer/rossel/rossel-kafka@0.4.0-alpha-5
 - pkg:composer/rossel/rossel-kafka@v0.0.1
