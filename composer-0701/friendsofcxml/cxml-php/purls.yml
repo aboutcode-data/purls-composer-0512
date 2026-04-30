@@ -41,3 +41,4 @@
 - pkg:composer/friendsofcxml/cxml-php@2.1.4
 - pkg:composer/friendsofcxml/cxml-php@2.2.0
 - pkg:composer/friendsofcxml/cxml-php@2.2.1
+- pkg:composer/friendsofcxml/cxml-php@2.2.2

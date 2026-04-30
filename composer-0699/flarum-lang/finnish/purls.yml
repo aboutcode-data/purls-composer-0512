@@ -20,6 +20,7 @@
 - pkg:composer/flarum-lang/finnish@v1.16.0
 - pkg:composer/flarum-lang/finnish@v1.17.0
 - pkg:composer/flarum-lang/finnish@v1.17.1
+- pkg:composer/flarum-lang/finnish@v1.17.2
 - pkg:composer/flarum-lang/finnish@v1.2.0
 - pkg:composer/flarum-lang/finnish@v1.2.1
 - pkg:composer/flarum-lang/finnish@v1.3.0
@@ -35,3 +36,4 @@
 - pkg:composer/flarum-lang/finnish@v1.8.0
 - pkg:composer/flarum-lang/finnish@v1.8.1
 - pkg:composer/flarum-lang/finnish@v1.9.0
+- pkg:composer/flarum-lang/finnish@v2.0.0
