@@ -63,3 +63,4 @@
 - pkg:composer/spurwork/spectator@v2.3.0
 - pkg:composer/spurwork/spectator@v3.0.0
 - pkg:composer/spurwork/spectator@v3.0.1
+- pkg:composer/spurwork/spectator@v3.0.2
