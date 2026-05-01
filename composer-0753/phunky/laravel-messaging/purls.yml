@@ -1,3 +1,4 @@
 - pkg:composer/phunky/laravel-messaging@0.0.1
 - pkg:composer/phunky/laravel-messaging@0.0.2
 - pkg:composer/phunky/laravel-messaging@0.0.3
+- pkg:composer/phunky/laravel-messaging@0.1.0
