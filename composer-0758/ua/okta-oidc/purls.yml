@@ -1,3 +1,5 @@
 - pkg:composer/ua/okta-oidc@v0.1.0
 - pkg:composer/ua/okta-oidc@v0.2.0
+- pkg:composer/ua/okta-oidc@v0.3.0
 - pkg:composer/ua/okta-oidc@v0.3.0-RC1
+- pkg:composer/ua/okta-oidc@v0.3.0-RC2
