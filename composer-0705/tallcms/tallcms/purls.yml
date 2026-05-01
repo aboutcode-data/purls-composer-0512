@@ -133,3 +133,5 @@
 - pkg:composer/tallcms/tallcms@v4.4.6
 - pkg:composer/tallcms/tallcms@v4.4.7
 - pkg:composer/tallcms/tallcms@v4.4.8
+- pkg:composer/tallcms/tallcms@v4.4.9
+- pkg:composer/tallcms/tallcms@v4.5.0
