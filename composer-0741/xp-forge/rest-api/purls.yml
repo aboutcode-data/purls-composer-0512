@@ -33,3 +33,4 @@
 - pkg:composer/xp-forge/rest-api@v4.4.0
 - pkg:composer/xp-forge/rest-api@v5.0.0
 - pkg:composer/xp-forge/rest-api@v5.1.0
+- pkg:composer/xp-forge/rest-api@v5.1.1
