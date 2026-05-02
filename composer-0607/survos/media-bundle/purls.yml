@@ -101,6 +101,7 @@
 - pkg:composer/survos/media-bundle@2.0.213
 - pkg:composer/survos/media-bundle@2.0.214
 - pkg:composer/survos/media-bundle@2.0.215
+- pkg:composer/survos/media-bundle@2.0.216
 - pkg:composer/survos/media-bundle@2.0.26
 - pkg:composer/survos/media-bundle@2.0.27
 - pkg:composer/survos/media-bundle@2.0.28
