@@ -56,3 +56,4 @@
 - pkg:composer/carbon/alpine@0.3.9
 - pkg:composer/carbon/alpine@0.4.0
 - pkg:composer/carbon/alpine@0.4.1
+- pkg:composer/carbon/alpine@0.4.2

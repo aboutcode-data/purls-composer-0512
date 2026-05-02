@@ -24,3 +24,7 @@
 - pkg:composer/codeit/active-record@1.1.9
 - pkg:composer/codeit/active-record@2.0.0
 - pkg:composer/codeit/active-record@2.0.1
+- pkg:composer/codeit/active-record@3.0.0
+- pkg:composer/codeit/active-record@3.0.1
+- pkg:composer/codeit/active-record@3.0.2
+- pkg:composer/codeit/active-record@3.0.3
