@@ -22,3 +22,6 @@
 - pkg:composer/codego/php-ksip-telnet@v1.8.0
 - pkg:composer/codego/php-ksip-telnet@v1.9.0
 - pkg:composer/codego/php-ksip-telnet@v2.0.0
+- pkg:composer/codego/php-ksip-telnet@v2.1.0
+- pkg:composer/codego/php-ksip-telnet@v2.2.0
+- pkg:composer/codego/php-ksip-telnet@v2.3.0
