@@ -11,6 +11,8 @@
 - pkg:composer/event4u/agent-config@1.14.0
 - pkg:composer/event4u/agent-config@1.15.0
 - pkg:composer/event4u/agent-config@1.16.0
+- pkg:composer/event4u/agent-config@1.17.0
+- pkg:composer/event4u/agent-config@1.18.0
 - pkg:composer/event4u/agent-config@1.2.0
 - pkg:composer/event4u/agent-config@1.2.1
 - pkg:composer/event4u/agent-config@1.2.2
