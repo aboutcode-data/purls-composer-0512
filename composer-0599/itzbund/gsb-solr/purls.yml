@@ -801,3 +801,5 @@
 - pkg:composer/itzbund/gsb-solr@v2.6.7-rc.2
 - pkg:composer/itzbund/gsb-solr@v2.6.7-rc.3
 - pkg:composer/itzbund/gsb-solr@v2.6.8-rc.1
+- pkg:composer/itzbund/gsb-solr@v2.6.8-rc.2
+- pkg:composer/itzbund/gsb-solr@v2.6.8-rc.3

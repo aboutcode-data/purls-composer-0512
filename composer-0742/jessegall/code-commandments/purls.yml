@@ -63,6 +63,11 @@
 - pkg:composer/jessegall/code-commandments@v0.1.8
 - pkg:composer/jessegall/code-commandments@v0.1.9
 - pkg:composer/jessegall/code-commandments@v1.1.0
+- pkg:composer/jessegall/code-commandments@v1.10.0
+- pkg:composer/jessegall/code-commandments@v1.10.1
+- pkg:composer/jessegall/code-commandments@v1.10.2
+- pkg:composer/jessegall/code-commandments@v1.11.0
+- pkg:composer/jessegall/code-commandments@v1.11.1
 - pkg:composer/jessegall/code-commandments@v1.2.0
 - pkg:composer/jessegall/code-commandments@v1.2.1
 - pkg:composer/jessegall/code-commandments@v1.2.2
@@ -92,3 +97,5 @@
 - pkg:composer/jessegall/code-commandments@v1.7.1
 - pkg:composer/jessegall/code-commandments@v1.7.2
 - pkg:composer/jessegall/code-commandments@v1.8.0
+- pkg:composer/jessegall/code-commandments@v1.9.0
+- pkg:composer/jessegall/code-commandments@v1.9.1
