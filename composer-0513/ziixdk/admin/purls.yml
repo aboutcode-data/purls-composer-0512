@@ -15,6 +15,10 @@
 - pkg:composer/ziixdk/admin@v3.0.18
 - pkg:composer/ziixdk/admin@v3.0.19
 - pkg:composer/ziixdk/admin@v3.0.20
+- pkg:composer/ziixdk/admin@v3.0.21
+- pkg:composer/ziixdk/admin@v3.0.22
+- pkg:composer/ziixdk/admin@v3.0.23
+- pkg:composer/ziixdk/admin@v3.0.24
 - pkg:composer/ziixdk/admin@v3.0.5
 - pkg:composer/ziixdk/admin@v3.0.6
 - pkg:composer/ziixdk/admin@v3.0.7
