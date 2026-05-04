@@ -52,6 +52,8 @@
 - pkg:composer/kubawerlos/php-cs-fixer-config@v5.0.0
 - pkg:composer/kubawerlos/php-cs-fixer-config@v5.1.0
 - pkg:composer/kubawerlos/php-cs-fixer-config@v5.2.0
+- pkg:composer/kubawerlos/php-cs-fixer-config@v5.3.0
 - pkg:composer/kubawerlos/php-cs-fixer-config@v5.4.0
 - pkg:composer/kubawerlos/php-cs-fixer-config@v5.5.0
 - pkg:composer/kubawerlos/php-cs-fixer-config@v5.6.0
+- pkg:composer/kubawerlos/php-cs-fixer-config@v5.7.0
