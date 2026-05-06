@@ -45,3 +45,4 @@
 - pkg:composer/moneyphp/money@v4.7.0
 - pkg:composer/moneyphp/money@v4.7.1
 - pkg:composer/moneyphp/money@v4.8.0
+- pkg:composer/moneyphp/money@v4.9.0

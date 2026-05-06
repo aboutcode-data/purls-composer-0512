@@ -10,3 +10,4 @@
 - pkg:composer/mxl/laravel-queue-rate-limit@v3.4.0
 - pkg:composer/mxl/laravel-queue-rate-limit@v3.5.0
 - pkg:composer/mxl/laravel-queue-rate-limit@v3.6.0
+- pkg:composer/mxl/laravel-queue-rate-limit@v3.6.1
