@@ -10,6 +10,10 @@
 - pkg:composer/josrom/phpunit-unicode-printer@0.4.0
 - pkg:composer/josrom/phpunit-unicode-printer@0.5.0
 - pkg:composer/josrom/phpunit-unicode-printer@0.5.1
+- pkg:composer/josrom/phpunit-unicode-printer@10.0.0
+- pkg:composer/josrom/phpunit-unicode-printer@11.0.0
+- pkg:composer/josrom/phpunit-unicode-printer@12.0.0
+- pkg:composer/josrom/phpunit-unicode-printer@13.0.0
 - pkg:composer/josrom/phpunit-unicode-printer@5.0.0
 - pkg:composer/josrom/phpunit-unicode-printer@6.0.0
 - pkg:composer/josrom/phpunit-unicode-printer@7.0.0
