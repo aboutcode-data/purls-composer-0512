@@ -1,1 +1,2 @@
 - pkg:composer/chrisjenkinson/symfony-service-sorter@v1.0.0
+- pkg:composer/chrisjenkinson/symfony-service-sorter@v1.1.0
