@@ -9,3 +9,4 @@
 - pkg:composer/codemetry/laravel@v1.2.6
 - pkg:composer/codemetry/laravel@v1.3.0
 - pkg:composer/codemetry/laravel@v1.4.0
+- pkg:composer/codemetry/laravel@v1.4.1

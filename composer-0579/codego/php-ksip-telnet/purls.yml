@@ -36,3 +36,4 @@
 - pkg:composer/codego/php-ksip-telnet@v3.2.0
 - pkg:composer/codego/php-ksip-telnet@v3.3.0
 - pkg:composer/codego/php-ksip-telnet@v3.4.0
+- pkg:composer/codego/php-ksip-telnet@v3.5.0
