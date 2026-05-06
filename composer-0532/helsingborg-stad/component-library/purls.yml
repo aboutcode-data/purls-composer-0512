@@ -458,6 +458,9 @@
 - pkg:composer/helsingborg-stad/component-library@5.17.0
 - pkg:composer/helsingborg-stad/component-library@5.18.0
 - pkg:composer/helsingborg-stad/component-library@5.18.1
+- pkg:composer/helsingborg-stad/component-library@5.18.2
+- pkg:composer/helsingborg-stad/component-library@5.18.3
+- pkg:composer/helsingborg-stad/component-library@5.19.0
 - pkg:composer/helsingborg-stad/component-library@5.2.0
 - pkg:composer/helsingborg-stad/component-library@5.2.1
 - pkg:composer/helsingborg-stad/component-library@5.2.2
