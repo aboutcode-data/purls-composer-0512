@@ -19,6 +19,7 @@
 - pkg:composer/libriciel/cakephp-beanstalk@2.5.3
 - pkg:composer/libriciel/cakephp-beanstalk@3.0.0
 - pkg:composer/libriciel/cakephp-beanstalk@3.0.1
+- pkg:composer/libriciel/cakephp-beanstalk@3.0.10
 - pkg:composer/libriciel/cakephp-beanstalk@3.0.2
 - pkg:composer/libriciel/cakephp-beanstalk@3.1.0
 - pkg:composer/libriciel/cakephp-beanstalk@3.1.1

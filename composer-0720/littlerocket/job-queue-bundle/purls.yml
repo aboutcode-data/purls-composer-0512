@@ -39,6 +39,8 @@
 - pkg:composer/littlerocket/job-queue-bundle@5.0.21
 - pkg:composer/littlerocket/job-queue-bundle@5.0.22-RC
 - pkg:composer/littlerocket/job-queue-bundle@5.0.23-RC
+- pkg:composer/littlerocket/job-queue-bundle@5.0.24-RC
+- pkg:composer/littlerocket/job-queue-bundle@5.0.25-RC
 - pkg:composer/littlerocket/job-queue-bundle@5.0.3
 - pkg:composer/littlerocket/job-queue-bundle@5.0.4
 - pkg:composer/littlerocket/job-queue-bundle@5.0.5

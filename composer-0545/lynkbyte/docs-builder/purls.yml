@@ -9,3 +9,5 @@
 - pkg:composer/lynkbyte/docs-builder@v1.5.2
 - pkg:composer/lynkbyte/docs-builder@v1.6.0
 - pkg:composer/lynkbyte/docs-builder@v1.7.0
+- pkg:composer/lynkbyte/docs-builder@v1.7.1
+- pkg:composer/lynkbyte/docs-builder@v1.8.0

@@ -16,3 +16,4 @@
 - pkg:composer/libriciel/cakephp-filesystem@2.2.0
 - pkg:composer/libriciel/cakephp-filesystem@2.2.1
 - pkg:composer/libriciel/cakephp-filesystem@2.2.2
+- pkg:composer/libriciel/cakephp-filesystem@3.0.10
