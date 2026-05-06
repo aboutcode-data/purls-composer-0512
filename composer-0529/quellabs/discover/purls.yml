@@ -18,6 +18,9 @@
 - pkg:composer/quellabs/discover@1.0.33
 - pkg:composer/quellabs/discover@1.0.35
 - pkg:composer/quellabs/discover@1.0.36
+- pkg:composer/quellabs/discover@1.0.37
+- pkg:composer/quellabs/discover@1.0.38
+- pkg:composer/quellabs/discover@1.0.39
 - pkg:composer/quellabs/discover@1.0.4
 - pkg:composer/quellabs/discover@1.0.5
 - pkg:composer/quellabs/discover@1.0.6
