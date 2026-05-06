@@ -68,6 +68,7 @@
 - pkg:composer/ekvio-dev/integration-php-sdk@3.20.0
 - pkg:composer/ekvio-dev/integration-php-sdk@3.20.1
 - pkg:composer/ekvio-dev/integration-php-sdk@3.20.2
+- pkg:composer/ekvio-dev/integration-php-sdk@3.21.0
 - pkg:composer/ekvio-dev/integration-php-sdk@3.3.0
 - pkg:composer/ekvio-dev/integration-php-sdk@3.4.0
 - pkg:composer/ekvio-dev/integration-php-sdk@3.5.0
