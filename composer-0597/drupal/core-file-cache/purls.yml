@@ -159,6 +159,7 @@
 - pkg:composer/drupal/core-file-cache@11.3.6
 - pkg:composer/drupal/core-file-cache@11.3.7
 - pkg:composer/drupal/core-file-cache@11.3.8
+- pkg:composer/drupal/core-file-cache@11.3.9
 - pkg:composer/drupal/core-file-cache@8.0.0-beta6
 - pkg:composer/drupal/core-file-cache@8.0.0-beta7
 - pkg:composer/drupal/core-file-cache@8.0.0-beta8

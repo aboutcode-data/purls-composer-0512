@@ -159,6 +159,7 @@
 - pkg:composer/drupal/core-project-message@11.3.6
 - pkg:composer/drupal/core-project-message@11.3.7
 - pkg:composer/drupal/core-project-message@11.3.8
+- pkg:composer/drupal/core-project-message@11.3.9
 - pkg:composer/drupal/core-project-message@8.8.0
 - pkg:composer/drupal/core-project-message@8.8.0-beta1
 - pkg:composer/drupal/core-project-message@8.8.0-rc1
