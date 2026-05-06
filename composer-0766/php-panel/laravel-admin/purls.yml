@@ -8,3 +8,4 @@
 - pkg:composer/php-panel/laravel-admin@v3.0.5
 - pkg:composer/php-panel/laravel-admin@v3.0.6
 - pkg:composer/php-panel/laravel-admin@v3.0.7
+- pkg:composer/php-panel/laravel-admin@v3.1.0

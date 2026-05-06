@@ -93,5 +93,7 @@
 - pkg:composer/pimcore/data-hub@v2.3.0
 - pkg:composer/pimcore/data-hub@v2.4.0
 - pkg:composer/pimcore/data-hub@v2.4.1
+- pkg:composer/pimcore/data-hub@v2.4.2
 - pkg:composer/pimcore/data-hub@v2026.1.0
 - pkg:composer/pimcore/data-hub@v2026.1.1
+- pkg:composer/pimcore/data-hub@v2026.1.2

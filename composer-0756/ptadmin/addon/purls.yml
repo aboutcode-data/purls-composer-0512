@@ -1,6 +1,8 @@
 - pkg:composer/ptadmin/addon@1.0.0
+- pkg:composer/ptadmin/addon@1.0.10
 - pkg:composer/ptadmin/addon@1.0.3
 - pkg:composer/ptadmin/addon@1.0.6
 - pkg:composer/ptadmin/addon@1.0.7
 - pkg:composer/ptadmin/addon@1.0.8
+- pkg:composer/ptadmin/addon@1.0.9
 - pkg:composer/ptadmin/addon@v1.0.5
