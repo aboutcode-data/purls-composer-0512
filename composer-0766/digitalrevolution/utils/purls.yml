@@ -26,6 +26,7 @@
 - pkg:composer/digitalrevolution/utils@v1.3.0
 - pkg:composer/digitalrevolution/utils@v1.30.0
 - pkg:composer/digitalrevolution/utils@v1.31.0
+- pkg:composer/digitalrevolution/utils@v1.31.1
 - pkg:composer/digitalrevolution/utils@v1.4.0
 - pkg:composer/digitalrevolution/utils@v1.5.0
 - pkg:composer/digitalrevolution/utils@v1.5.1
