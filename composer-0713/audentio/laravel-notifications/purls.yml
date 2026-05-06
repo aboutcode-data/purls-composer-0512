@@ -43,6 +43,7 @@
 - pkg:composer/audentio/laravel-notifications@0.3.18
 - pkg:composer/audentio/laravel-notifications@0.3.19
 - pkg:composer/audentio/laravel-notifications@0.3.2
+- pkg:composer/audentio/laravel-notifications@0.3.20
 - pkg:composer/audentio/laravel-notifications@0.3.3
 - pkg:composer/audentio/laravel-notifications@0.3.4
 - pkg:composer/audentio/laravel-notifications@0.3.5
