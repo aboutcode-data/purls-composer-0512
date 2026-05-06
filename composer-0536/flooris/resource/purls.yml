@@ -34,3 +34,5 @@
 - pkg:composer/flooris/resource@0.4.9
 - pkg:composer/flooris/resource@1.0.0
 - pkg:composer/flooris/resource@1.0.1
+- pkg:composer/flooris/resource@1.1.0
+- pkg:composer/flooris/resource@1.1.1
