@@ -36,6 +36,7 @@
 - pkg:composer/orchestra/testbench-core@v11.2.1
 - pkg:composer/orchestra/testbench-core@v11.3.0
 - pkg:composer/orchestra/testbench-core@v11.3.1
+- pkg:composer/orchestra/testbench-core@v11.3.2
 - pkg:composer/orchestra/testbench-core@v3.4.0
 - pkg:composer/orchestra/testbench-core@v3.4.1
 - pkg:composer/orchestra/testbench-core@v3.4.2
