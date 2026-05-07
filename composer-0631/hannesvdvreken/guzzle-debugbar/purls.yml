@@ -6,3 +6,5 @@
 - pkg:composer/hannesvdvreken/guzzle-debugbar@3.0.1
 - pkg:composer/hannesvdvreken/guzzle-debugbar@4.0.0
 - pkg:composer/hannesvdvreken/guzzle-debugbar@4.0.1
+- pkg:composer/hannesvdvreken/guzzle-debugbar@4.1.0
+- pkg:composer/hannesvdvreken/guzzle-debugbar@5.0.0
