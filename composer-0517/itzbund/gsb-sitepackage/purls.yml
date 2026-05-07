@@ -1170,3 +1170,4 @@
 - pkg:composer/itzbund/gsb-sitepackage@v9.4.2
 - pkg:composer/itzbund/gsb-sitepackage@v9.4.2-rc.1
 - pkg:composer/itzbund/gsb-sitepackage@v9.4.3-rc.1
+- pkg:composer/itzbund/gsb-sitepackage@v9.5.0-rc.1
