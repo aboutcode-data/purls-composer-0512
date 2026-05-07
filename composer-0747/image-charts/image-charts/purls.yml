@@ -300,6 +300,8 @@
 - pkg:composer/image-charts/image-charts@6.1.360
 - pkg:composer/image-charts/image-charts@6.1.361
 - pkg:composer/image-charts/image-charts@6.1.362
+- pkg:composer/image-charts/image-charts@6.1.363
+- pkg:composer/image-charts/image-charts@6.1.364
 - pkg:composer/image-charts/image-charts@6.1.37
 - pkg:composer/image-charts/image-charts@6.1.38
 - pkg:composer/image-charts/image-charts@6.1.39
