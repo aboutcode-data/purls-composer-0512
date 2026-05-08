@@ -319,3 +319,4 @@
 - pkg:composer/getgrav/grav@2.0.0-beta.3
 - pkg:composer/getgrav/grav@2.0.0-beta.4
 - pkg:composer/getgrav/grav@2.0.0-rc.1
+- pkg:composer/getgrav/grav@2.0.0-rc.2
