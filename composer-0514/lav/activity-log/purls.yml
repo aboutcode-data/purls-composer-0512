@@ -1,1 +1,4 @@
 - pkg:composer/lav/activity-log@v1.0.0
+- pkg:composer/lav/activity-log@v1.1.0
+- pkg:composer/lav/activity-log@v2.0.0
+- pkg:composer/lav/activity-log@v2.0.1
