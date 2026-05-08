@@ -244,6 +244,7 @@
 - pkg:composer/openeuropa/oe_theme@0.5.202602201330
 - pkg:composer/openeuropa/oe_theme@0.5.202604071130
 - pkg:composer/openeuropa/oe_theme@0.5.202604160915
+- pkg:composer/openeuropa/oe_theme@0.5.202605071215
 - pkg:composer/openeuropa/oe_theme@0.5096.202501241320
 - pkg:composer/openeuropa/oe_theme@0.5096.202501271215
 - pkg:composer/openeuropa/oe_theme@0.5104.202501081505
@@ -349,6 +350,7 @@
 - pkg:composer/openeuropa/oe_theme@0.6790.202604241225
 - pkg:composer/openeuropa/oe_theme@0.6790.202604281130
 - pkg:composer/openeuropa/oe_theme@0.6790.202605011200
+- pkg:composer/openeuropa/oe_theme@0.6829.202605071350
 - pkg:composer/openeuropa/oe_theme@0.7.0
 - pkg:composer/openeuropa/oe_theme@0.8.0
 - pkg:composer/openeuropa/oe_theme@0.9.0
