@@ -14,3 +14,4 @@
 - pkg:composer/laravel/ranger@v0.2.0
 - pkg:composer/laravel/ranger@v0.2.1
 - pkg:composer/laravel/ranger@v0.2.2
+- pkg:composer/laravel/ranger@v0.2.3
