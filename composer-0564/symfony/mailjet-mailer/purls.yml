@@ -96,3 +96,4 @@
 - pkg:composer/symfony/mailjet-mailer@v8.0.0-RC1
 - pkg:composer/symfony/mailjet-mailer@v8.0.6
 - pkg:composer/symfony/mailjet-mailer@v8.0.7
+- pkg:composer/symfony/mailjet-mailer@v8.1.0-BETA1

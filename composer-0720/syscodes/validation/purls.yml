@@ -2,3 +2,4 @@
 - pkg:composer/syscodes/validation@v0.8.14
 - pkg:composer/syscodes/validation@v0.8.15
 - pkg:composer/syscodes/validation@v0.8.16
+- pkg:composer/syscodes/validation@v0.9.0

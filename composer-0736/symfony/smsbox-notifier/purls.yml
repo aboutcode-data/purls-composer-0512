@@ -23,3 +23,4 @@
 - pkg:composer/symfony/smsbox-notifier@v8.0.0-RC1
 - pkg:composer/symfony/smsbox-notifier@v8.0.1
 - pkg:composer/symfony/smsbox-notifier@v8.0.4
+- pkg:composer/symfony/smsbox-notifier@v8.1.0-BETA1

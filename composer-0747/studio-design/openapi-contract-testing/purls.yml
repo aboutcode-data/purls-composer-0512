@@ -20,3 +20,6 @@
 - pkg:composer/studio-design/openapi-contract-testing@v0.8.0
 - pkg:composer/studio-design/openapi-contract-testing@v0.9.0
 - pkg:composer/studio-design/openapi-contract-testing@v1.0.0
+- pkg:composer/studio-design/openapi-contract-testing@v1.1.0
+- pkg:composer/studio-design/openapi-contract-testing@v1.2.0
+- pkg:composer/studio-design/openapi-contract-testing@v1.3.0

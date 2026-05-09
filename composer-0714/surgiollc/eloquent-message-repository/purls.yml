@@ -8,3 +8,4 @@
 - pkg:composer/surgiollc/eloquent-message-repository@v1.0.3
 - pkg:composer/surgiollc/eloquent-message-repository@v2.0
 - pkg:composer/surgiollc/eloquent-message-repository@v3.0
+- pkg:composer/surgiollc/eloquent-message-repository@v4.0

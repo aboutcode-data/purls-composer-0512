@@ -97,3 +97,4 @@
 - pkg:composer/symfony/firebase-notifier@v8.0.0
 - pkg:composer/symfony/firebase-notifier@v8.0.0-BETA1
 - pkg:composer/symfony/firebase-notifier@v8.0.0-RC1
+- pkg:composer/symfony/firebase-notifier@v8.1.0-BETA1

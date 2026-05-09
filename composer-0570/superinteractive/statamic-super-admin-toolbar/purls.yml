@@ -10,3 +10,4 @@
 - pkg:composer/superinteractive/statamic-super-admin-toolbar@1.1.2
 - pkg:composer/superinteractive/statamic-super-admin-toolbar@1.2.0
 - pkg:composer/superinteractive/statamic-super-admin-toolbar@2.0.0
+- pkg:composer/superinteractive/statamic-super-admin-toolbar@v2.1.1

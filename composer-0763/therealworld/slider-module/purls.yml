@@ -43,9 +43,11 @@
 - pkg:composer/therealworld/slider-module@v1.9.9
 - pkg:composer/therealworld/slider-module@v2.0.0
 - pkg:composer/therealworld/slider-module@v2.0.1
+- pkg:composer/therealworld/slider-module@v2.0.10
 - pkg:composer/therealworld/slider-module@v2.0.2
 - pkg:composer/therealworld/slider-module@v2.0.3
 - pkg:composer/therealworld/slider-module@v2.0.5
 - pkg:composer/therealworld/slider-module@v2.0.6
 - pkg:composer/therealworld/slider-module@v2.0.7
 - pkg:composer/therealworld/slider-module@v2.0.8
+- pkg:composer/therealworld/slider-module@v2.0.9

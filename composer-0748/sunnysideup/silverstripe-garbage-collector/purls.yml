@@ -3,3 +3,4 @@
 - pkg:composer/sunnysideup/silverstripe-garbage-collector@1.2.0
 - pkg:composer/sunnysideup/silverstripe-garbage-collector@1.2.1
 - pkg:composer/sunnysideup/silverstripe-garbage-collector@2.0.0
+- pkg:composer/sunnysideup/silverstripe-garbage-collector@2.0.1
