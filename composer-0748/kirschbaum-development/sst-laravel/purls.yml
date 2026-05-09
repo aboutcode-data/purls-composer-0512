@@ -15,4 +15,5 @@
 - pkg:composer/kirschbaum-development/sst-laravel@0.2.9
 - pkg:composer/kirschbaum-development/sst-laravel@0.3.0
 - pkg:composer/kirschbaum-development/sst-laravel@0.3.1
+- pkg:composer/kirschbaum-development/sst-laravel@0.3.2
 - pkg:composer/kirschbaum-development/sst-laravel@v0.2.10
