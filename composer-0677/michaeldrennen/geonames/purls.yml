@@ -18,6 +18,10 @@
 - pkg:composer/michaeldrennen/geonames@v1.0.7
 - pkg:composer/michaeldrennen/geonames@v1.0.8
 - pkg:composer/michaeldrennen/geonames@v12.0.0
+- pkg:composer/michaeldrennen/geonames@v13.0.0
+- pkg:composer/michaeldrennen/geonames@v13.1.0
+- pkg:composer/michaeldrennen/geonames@v13.2.0
+- pkg:composer/michaeldrennen/geonames@v13.3.0
 - pkg:composer/michaeldrennen/geonames@v2.0.0
 - pkg:composer/michaeldrennen/geonames@v2.0.1
 - pkg:composer/michaeldrennen/geonames@v2.0.2
