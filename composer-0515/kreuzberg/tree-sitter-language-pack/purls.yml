@@ -34,6 +34,7 @@
 - pkg:composer/kreuzberg/tree-sitter-language-pack@1.6.1
 - pkg:composer/kreuzberg/tree-sitter-language-pack@1.6.2
 - pkg:composer/kreuzberg/tree-sitter-language-pack@1.7.0
+- pkg:composer/kreuzberg/tree-sitter-language-pack@1.8.0
 - pkg:composer/kreuzberg/tree-sitter-language-pack@1.8.0-rc.1
 - pkg:composer/kreuzberg/tree-sitter-language-pack@1.8.0-rc.10
 - pkg:composer/kreuzberg/tree-sitter-language-pack@1.8.0-rc.11
@@ -71,6 +72,7 @@
 - pkg:composer/kreuzberg/tree-sitter-language-pack@1.8.0-rc.41
 - pkg:composer/kreuzberg/tree-sitter-language-pack@1.8.0-rc.42
 - pkg:composer/kreuzberg/tree-sitter-language-pack@1.8.0-rc.43
+- pkg:composer/kreuzberg/tree-sitter-language-pack@1.8.0-rc.44
 - pkg:composer/kreuzberg/tree-sitter-language-pack@1.8.0-rc.5
 - pkg:composer/kreuzberg/tree-sitter-language-pack@1.8.0-rc.6
 - pkg:composer/kreuzberg/tree-sitter-language-pack@1.8.0-rc.7
