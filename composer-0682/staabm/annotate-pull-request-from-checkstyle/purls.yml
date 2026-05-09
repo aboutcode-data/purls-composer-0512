@@ -21,3 +21,4 @@
 - pkg:composer/staabm/annotate-pull-request-from-checkstyle@1.8.4
 - pkg:composer/staabm/annotate-pull-request-from-checkstyle@1.8.5
 - pkg:composer/staabm/annotate-pull-request-from-checkstyle@1.8.6
+- pkg:composer/staabm/annotate-pull-request-from-checkstyle@1.8.7

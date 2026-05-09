@@ -42,3 +42,4 @@
 - pkg:composer/splash/prestashop@2.8.8
 - pkg:composer/splash/prestashop@2.8.9
 - pkg:composer/splash/prestashop@2.9.0
+- pkg:composer/splash/prestashop@2.9.2

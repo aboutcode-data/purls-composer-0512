@@ -27,7 +27,6 @@
 - pkg:composer/spiral/roadrunner-laravel@v5.11.0
 - pkg:composer/spiral/roadrunner-laravel@v5.11.1
 - pkg:composer/spiral/roadrunner-laravel@v5.12.0
-- pkg:composer/spiral/roadrunner-laravel@v5.12.1
 - pkg:composer/spiral/roadrunner-laravel@v5.2.0
 - pkg:composer/spiral/roadrunner-laravel@v5.2.1
 - pkg:composer/spiral/roadrunner-laravel@v5.2.2

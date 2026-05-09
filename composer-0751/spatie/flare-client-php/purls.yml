@@ -65,3 +65,5 @@
 - pkg:composer/spatie/flare-client-php@2.7.0
 - pkg:composer/spatie/flare-client-php@2.8.0
 - pkg:composer/spatie/flare-client-php@2.9.0
+- pkg:composer/spatie/flare-client-php@3.0.0-rc.1
+- pkg:composer/spatie/flare-client-php@3.0.0-rc.2

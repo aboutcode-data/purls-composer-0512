@@ -12,6 +12,7 @@
 - pkg:composer/smorken/ip-auth@v10.3.2
 - pkg:composer/smorken/ip-auth@v10.4.0
 - pkg:composer/smorken/ip-auth@v10.5.0
+- pkg:composer/smorken/ip-auth@v10.6.0
 - pkg:composer/smorken/ip-auth@v5.5.0
 - pkg:composer/smorken/ip-auth@v6.0
 - pkg:composer/smorken/ip-auth@v6.1
