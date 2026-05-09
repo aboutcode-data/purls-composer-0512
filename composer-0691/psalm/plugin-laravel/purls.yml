@@ -88,6 +88,7 @@
 - pkg:composer/psalm/plugin-laravel@v3.9.0
 - pkg:composer/psalm/plugin-laravel@v3.9.1
 - pkg:composer/psalm/plugin-laravel@v3.9.2
+- pkg:composer/psalm/plugin-laravel@v3.9.3
 - pkg:composer/psalm/plugin-laravel@v4.0.0
 - pkg:composer/psalm/plugin-laravel@v4.0.0-beta.1
 - pkg:composer/psalm/plugin-laravel@v4.0.0-beta.2
@@ -113,3 +114,4 @@
 - pkg:composer/psalm/plugin-laravel@v4.9.0
 - pkg:composer/psalm/plugin-laravel@v4.9.1
 - pkg:composer/psalm/plugin-laravel@v4.9.2
+- pkg:composer/psalm/plugin-laravel@v4.9.3

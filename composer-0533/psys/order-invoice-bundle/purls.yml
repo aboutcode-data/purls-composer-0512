@@ -33,3 +33,7 @@
 - pkg:composer/psys/order-invoice-bundle@v1.5.3
 - pkg:composer/psys/order-invoice-bundle@v1.5.4
 - pkg:composer/psys/order-invoice-bundle@v1.5.5
+- pkg:composer/psys/order-invoice-bundle@v1.5.6
+- pkg:composer/psys/order-invoice-bundle@v1.6.0
+- pkg:composer/psys/order-invoice-bundle@v1.6.1
+- pkg:composer/psys/order-invoice-bundle@v1.6.2

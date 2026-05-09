@@ -7,3 +7,4 @@
 - pkg:composer/pragmarx/google2fa-qrcode@v2.1.1
 - pkg:composer/pragmarx/google2fa-qrcode@v3.0.0
 - pkg:composer/pragmarx/google2fa-qrcode@v3.0.1
+- pkg:composer/pragmarx/google2fa-qrcode@v4.0.0
