@@ -25,3 +25,5 @@
 - pkg:composer/sefirosweb/laravel-access-list@v12.0.1
 - pkg:composer/sefirosweb/laravel-access-list@v12.0.2
 - pkg:composer/sefirosweb/laravel-access-list@v12.0.3
+- pkg:composer/sefirosweb/laravel-access-list@v13.0.0
+- pkg:composer/sefirosweb/laravel-access-list@v13.0.1
