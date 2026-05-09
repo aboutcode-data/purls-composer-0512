@@ -4,3 +4,5 @@
 - pkg:composer/particle-academy/laravel-catalog@v0.4
 - pkg:composer/particle-academy/laravel-catalog@v0.5
 - pkg:composer/particle-academy/laravel-catalog@v0.6
+- pkg:composer/particle-academy/laravel-catalog@v0.7.0
+- pkg:composer/particle-academy/laravel-catalog@v0.7.1
