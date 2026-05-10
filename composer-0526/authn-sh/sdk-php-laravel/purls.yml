@@ -1,1 +1,3 @@
 - pkg:composer/authn-sh/sdk-php-laravel@v0.1.0
+- pkg:composer/authn-sh/sdk-php-laravel@v0.2.0
+- pkg:composer/authn-sh/sdk-php-laravel@v0.3.0
