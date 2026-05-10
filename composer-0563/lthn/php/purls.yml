@@ -2,3 +2,6 @@
 - pkg:composer/lthn/php@v0.0.2
 - pkg:composer/lthn/php@v0.0.3
 - pkg:composer/lthn/php@v0.0.4
+- pkg:composer/lthn/php@v0.2.0
+- pkg:composer/lthn/php@v0.3.0
+- pkg:composer/lthn/php@v0.4.0
