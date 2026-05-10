@@ -2,6 +2,7 @@
 - pkg:composer/sandermuller/laravel-queue-insights@0.10.0
 - pkg:composer/sandermuller/laravel-queue-insights@0.11.0
 - pkg:composer/sandermuller/laravel-queue-insights@0.12.0
+- pkg:composer/sandermuller/laravel-queue-insights@0.13.0
 - pkg:composer/sandermuller/laravel-queue-insights@0.2.0
 - pkg:composer/sandermuller/laravel-queue-insights@0.2.1
 - pkg:composer/sandermuller/laravel-queue-insights@0.3.0
