@@ -24,3 +24,4 @@
 - pkg:composer/alchemy/phpexiftool@4.0.1
 - pkg:composer/alchemy/phpexiftool@4.1.0
 - pkg:composer/alchemy/phpexiftool@4.1.1
+- pkg:composer/alchemy/phpexiftool@4.1.2
