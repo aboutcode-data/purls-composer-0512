@@ -27,3 +27,4 @@
 - pkg:composer/mustache/mustache@v3.0.0
 - pkg:composer/mustache/mustache@v3.0.0-alpha1
 - pkg:composer/mustache/mustache@v3.1.0
+- pkg:composer/mustache/mustache@v3.2.0
