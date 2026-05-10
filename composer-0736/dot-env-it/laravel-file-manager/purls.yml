@@ -1,1 +1,4 @@
 - pkg:composer/dot-env-it/laravel-file-manager@v1.0.0
+- pkg:composer/dot-env-it/laravel-file-manager@v1.0.1
+- pkg:composer/dot-env-it/laravel-file-manager@v1.0.2
+- pkg:composer/dot-env-it/laravel-file-manager@v1.0.3
