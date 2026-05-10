@@ -9,3 +9,5 @@
 - pkg:composer/xima/xima-typo3-recordlist@13.1.0
 - pkg:composer/xima/xima-typo3-recordlist@13.1.1
 - pkg:composer/xima/xima-typo3-recordlist@14.0.0
+- pkg:composer/xima/xima-typo3-recordlist@14.1.0
+- pkg:composer/xima/xima-typo3-recordlist@14.2.0

@@ -30,3 +30,4 @@
 - pkg:composer/yabx/telegram@8.1.0
 - pkg:composer/yabx/telegram@8.1.1
 - pkg:composer/yabx/telegram@8.1.2
+- pkg:composer/yabx/telegram@9.6.0

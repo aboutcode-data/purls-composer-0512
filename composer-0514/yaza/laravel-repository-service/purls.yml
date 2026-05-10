@@ -35,3 +35,4 @@
 - pkg:composer/yaza/laravel-repository-service@V5.1.0
 - pkg:composer/yaza/laravel-repository-service@V6.0.0
 - pkg:composer/yaza/laravel-repository-service@V6.0.1
+- pkg:composer/yaza/laravel-repository-service@V7.0.0
