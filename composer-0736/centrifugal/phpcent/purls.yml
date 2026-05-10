@@ -16,3 +16,5 @@
 - pkg:composer/centrifugal/phpcent@5.1.0
 - pkg:composer/centrifugal/phpcent@6.0.0
 - pkg:composer/centrifugal/phpcent@6.0.1
+- pkg:composer/centrifugal/phpcent@6.0.2
+- pkg:composer/centrifugal/phpcent@6.0.3
