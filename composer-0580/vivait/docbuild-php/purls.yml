@@ -20,3 +20,4 @@
 - pkg:composer/vivait/docbuild-php@5.1.0
 - pkg:composer/vivait/docbuild-php@5.2.0
 - pkg:composer/vivait/docbuild-php@5.2.1
+- pkg:composer/vivait/docbuild-php@6.0.0

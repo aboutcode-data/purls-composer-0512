@@ -43,3 +43,5 @@
 - pkg:composer/wsr/myttaddressmap@2.3.4
 - pkg:composer/wsr/myttaddressmap@2.3.5
 - pkg:composer/wsr/myttaddressmap@2.6.9
+- pkg:composer/wsr/myttaddressmap@2.7.0
+- pkg:composer/wsr/myttaddressmap@2.7.1

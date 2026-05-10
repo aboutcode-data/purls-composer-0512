@@ -8,6 +8,7 @@
 - pkg:composer/workos/workos-php@5.1.0
 - pkg:composer/workos/workos-php@5.2.0
 - pkg:composer/workos/workos-php@5.2.1
+- pkg:composer/workos/workos-php@6.0.0
 - pkg:composer/workos/workos-php@V0.9.4
 - pkg:composer/workos/workos-php@v0.0.1
 - pkg:composer/workos/workos-php@v0.3.0
@@ -85,3 +86,4 @@
 - pkg:composer/workos/workos-php@v4.8.0
 - pkg:composer/workos/workos-php@v4.8.1
 - pkg:composer/workos/workos-php@v4.9.0
+- pkg:composer/workos/workos-php@v6.0.1
