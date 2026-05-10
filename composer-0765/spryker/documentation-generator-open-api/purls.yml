@@ -18,3 +18,4 @@
 - pkg:composer/spryker/documentation-generator-open-api@1.4.3
 - pkg:composer/spryker/documentation-generator-open-api@1.5.0
 - pkg:composer/spryker/documentation-generator-open-api@1.6.0
+- pkg:composer/spryker/documentation-generator-open-api@1.6.1
