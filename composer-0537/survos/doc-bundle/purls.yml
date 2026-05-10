@@ -922,5 +922,7 @@
 - pkg:composer/survos/doc-bundle@2.0.97
 - pkg:composer/survos/doc-bundle@2.0.98
 - pkg:composer/survos/doc-bundle@2.0.99
+- pkg:composer/survos/doc-bundle@2.1.1
+- pkg:composer/survos/doc-bundle@2.1.2
 - pkg:composer/survos/doc-bundle@v1.2.4
 - pkg:composer/survos/doc-bundle@v1.2.5
