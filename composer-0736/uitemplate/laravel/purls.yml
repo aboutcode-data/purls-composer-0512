@@ -8,3 +8,5 @@
 - pkg:composer/uitemplate/laravel@v2.1.0
 - pkg:composer/uitemplate/laravel@v2.2.0
 - pkg:composer/uitemplate/laravel@v2.2.1
+- pkg:composer/uitemplate/laravel@v3.0.0
+- pkg:composer/uitemplate/laravel@v3.0.1

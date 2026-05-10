@@ -1,3 +1,4 @@
 - pkg:composer/verdient/hyperf3-enum@2.0.0
 - pkg:composer/verdient/hyperf3-enum@2.0.1
 - pkg:composer/verdient/hyperf3-enum@2.0.2
+- pkg:composer/verdient/hyperf3-enum@2.0.3
