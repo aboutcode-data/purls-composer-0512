@@ -11,6 +11,7 @@
 - pkg:composer/vufind/vufind@v11.0.0
 - pkg:composer/vufind/vufind@v11.0.1
 - pkg:composer/vufind/vufind@v11.0.2
+- pkg:composer/vufind/vufind@v11.0.3
 - pkg:composer/vufind/vufind@v2.0
 - pkg:composer/vufind/vufind@v2.0.1
 - pkg:composer/vufind/vufind@v2.0RC1
