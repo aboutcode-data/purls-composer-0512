@@ -58,3 +58,4 @@
 - pkg:composer/mindtwo/laravel-document-generator@2.4.2
 - pkg:composer/mindtwo/laravel-document-generator@2.5.0
 - pkg:composer/mindtwo/laravel-document-generator@2.5.1
+- pkg:composer/mindtwo/laravel-document-generator@2.6.0
