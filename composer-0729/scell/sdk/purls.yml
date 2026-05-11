@@ -27,3 +27,7 @@
 - pkg:composer/scell/sdk@v2.2.0
 - pkg:composer/scell/sdk@v2.3.0
 - pkg:composer/scell/sdk@v2.4.0
+- pkg:composer/scell/sdk@v2.5.0
+- pkg:composer/scell/sdk@v2.6.0
+- pkg:composer/scell/sdk@v2.7.0
+- pkg:composer/scell/sdk@v2.7.1

@@ -1,3 +1,5 @@
+- pkg:composer/scanandpay/php@0.3.1
 - pkg:composer/scanandpay/php@v0.2.0
 - pkg:composer/scanandpay/php@v0.2.1
 - pkg:composer/scanandpay/php@v0.2.2
+- pkg:composer/scanandpay/php@v0.4.0
