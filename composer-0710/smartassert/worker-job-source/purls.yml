@@ -7,3 +7,4 @@
 - pkg:composer/smartassert/worker-job-source@5.0
 - pkg:composer/smartassert/worker-job-source@6.0
 - pkg:composer/smartassert/worker-job-source@7.0
+- pkg:composer/smartassert/worker-job-source@8.0
