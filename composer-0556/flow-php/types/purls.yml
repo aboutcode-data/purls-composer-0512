@@ -24,3 +24,4 @@
 - pkg:composer/flow-php/types@0.35.0
 - pkg:composer/flow-php/types@0.35.1
 - pkg:composer/flow-php/types@0.36.0
+- pkg:composer/flow-php/types@0.37.0

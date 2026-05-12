@@ -1,4 +1,6 @@
 - pkg:composer/ez-php/ai@1.10.0
+- pkg:composer/ez-php/ai@1.11.0
+- pkg:composer/ez-php/ai@1.11.1
 - pkg:composer/ez-php/ai@1.6.0
 - pkg:composer/ez-php/ai@1.6.1
 - pkg:composer/ez-php/ai@1.7.0

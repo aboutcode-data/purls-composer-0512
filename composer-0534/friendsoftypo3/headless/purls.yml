@@ -59,3 +59,4 @@
 - pkg:composer/friendsoftypo3/headless@v4.7.2
 - pkg:composer/friendsoftypo3/headless@v4.7.3
 - pkg:composer/friendsoftypo3/headless@v4.8.0
+- pkg:composer/friendsoftypo3/headless@v5.0.0-rc1
