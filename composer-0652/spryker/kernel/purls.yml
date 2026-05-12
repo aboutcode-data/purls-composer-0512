@@ -164,4 +164,5 @@
 - pkg:composer/spryker/kernel@3.83.0
 - pkg:composer/spryker/kernel@3.84.0
 - pkg:composer/spryker/kernel@3.84.1
+- pkg:composer/spryker/kernel@3.84.2
 - pkg:composer/spryker/kernel@3.9.0
