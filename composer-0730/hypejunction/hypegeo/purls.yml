@@ -1,4 +1,6 @@
 - pkg:composer/hypejunction/hypegeo@1.0.2
 - pkg:composer/hypejunction/hypegeo@1.0.4.0
+- pkg:composer/hypejunction/hypegeo@3.0.0
 - pkg:composer/hypejunction/hypegeo@4.0.0
 - pkg:composer/hypejunction/hypegeo@5.0.0
+- pkg:composer/hypejunction/hypegeo@6.0.0
