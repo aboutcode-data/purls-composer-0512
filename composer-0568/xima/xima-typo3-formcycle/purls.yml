@@ -1,6 +1,7 @@
 - pkg:composer/xima/xima-typo3-formcycle@10.0.0
 - pkg:composer/xima/xima-typo3-formcycle@10.0.1
 - pkg:composer/xima/xima-typo3-formcycle@10.0.2
+- pkg:composer/xima/xima-typo3-formcycle@10.0.3
 - pkg:composer/xima/xima-typo3-formcycle@9.0.0
 - pkg:composer/xima/xima-typo3-formcycle@9.0.1
 - pkg:composer/xima/xima-typo3-formcycle@9.0.2
