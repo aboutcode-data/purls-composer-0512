@@ -59,6 +59,8 @@
 - pkg:composer/transferzero/transferzero-php-sdk@1.36.8
 - pkg:composer/transferzero/transferzero-php-sdk@1.37.0
 - pkg:composer/transferzero/transferzero-php-sdk@1.37.1
+- pkg:composer/transferzero/transferzero-php-sdk@1.37.5
+- pkg:composer/transferzero/transferzero-php-sdk@1.37.6
 - pkg:composer/transferzero/transferzero-php-sdk@1.4.0
 - pkg:composer/transferzero/transferzero-php-sdk@1.5.0
 - pkg:composer/transferzero/transferzero-php-sdk@1.5.1
