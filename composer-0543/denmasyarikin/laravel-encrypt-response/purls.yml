@@ -17,3 +17,4 @@
 - pkg:composer/denmasyarikin/laravel-encrypt-response@3.0.0
 - pkg:composer/denmasyarikin/laravel-encrypt-response@3.0.1
 - pkg:composer/denmasyarikin/laravel-encrypt-response@4.0.0
+- pkg:composer/denmasyarikin/laravel-encrypt-response@5.0.0
