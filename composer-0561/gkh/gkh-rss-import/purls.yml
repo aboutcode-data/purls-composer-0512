@@ -2,6 +2,7 @@
 - pkg:composer/gkh/gkh-rss-import@v10.0.0
 - pkg:composer/gkh/gkh-rss-import@v10.0.1
 - pkg:composer/gkh/gkh-rss-import@v11.0.0
+- pkg:composer/gkh/gkh-rss-import@v11.0.1
 - pkg:composer/gkh/gkh-rss-import@v6.0.1
 - pkg:composer/gkh/gkh-rss-import@v6.0.2
 - pkg:composer/gkh/gkh-rss-import@v6.0.3
