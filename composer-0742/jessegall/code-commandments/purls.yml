@@ -68,6 +68,11 @@
 - pkg:composer/jessegall/code-commandments@v1.10.2
 - pkg:composer/jessegall/code-commandments@v1.11.0
 - pkg:composer/jessegall/code-commandments@v1.11.1
+- pkg:composer/jessegall/code-commandments@v1.12.0
+- pkg:composer/jessegall/code-commandments@v1.12.1
+- pkg:composer/jessegall/code-commandments@v1.12.2
+- pkg:composer/jessegall/code-commandments@v1.13.0
+- pkg:composer/jessegall/code-commandments@v1.13.1
 - pkg:composer/jessegall/code-commandments@v1.2.0
 - pkg:composer/jessegall/code-commandments@v1.2.1
 - pkg:composer/jessegall/code-commandments@v1.2.2

@@ -36,3 +36,4 @@
 - pkg:composer/kbv-vcos/laravel-webhook-client@v3.1.0.9
 - pkg:composer/kbv-vcos/laravel-webhook-client@v3.1.1.0
 - pkg:composer/kbv-vcos/laravel-webhook-client@v3.1.1.1
+- pkg:composer/kbv-vcos/laravel-webhook-client@v3.1.1.2
