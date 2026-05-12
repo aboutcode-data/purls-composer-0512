@@ -171,3 +171,6 @@
 - pkg:composer/survos/bad-bot-bundle@2.0.83
 - pkg:composer/survos/bad-bot-bundle@2.1.1
 - pkg:composer/survos/bad-bot-bundle@2.1.2
+- pkg:composer/survos/bad-bot-bundle@2.2.0
+- pkg:composer/survos/bad-bot-bundle@2.2.1
+- pkg:composer/survos/bad-bot-bundle@2.2.2
