@@ -11,6 +11,7 @@
 - pkg:composer/php-http/cache-plugin@2.0.0
 - pkg:composer/php-http/cache-plugin@2.0.1
 - pkg:composer/php-http/cache-plugin@2.0.2
+- pkg:composer/php-http/cache-plugin@2.1.0
 - pkg:composer/php-http/cache-plugin@v1.0.0
 - pkg:composer/php-http/cache-plugin@v1.1.0
 - pkg:composer/php-http/cache-plugin@v1.2.0
