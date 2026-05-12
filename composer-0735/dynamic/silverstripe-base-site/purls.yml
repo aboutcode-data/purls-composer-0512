@@ -37,3 +37,5 @@
 - pkg:composer/dynamic/silverstripe-base-site@7.1.1
 - pkg:composer/dynamic/silverstripe-base-site@7.1.2
 - pkg:composer/dynamic/silverstripe-base-site@8.0.0
+- pkg:composer/dynamic/silverstripe-base-site@8.0.1
+- pkg:composer/dynamic/silverstripe-base-site@8.0.2
