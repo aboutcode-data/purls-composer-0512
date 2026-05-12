@@ -87,3 +87,5 @@
 - pkg:composer/oranfry/jars@3.8.0
 - pkg:composer/oranfry/jars@3.8.1
 - pkg:composer/oranfry/jars@3.9.1
+- pkg:composer/oranfry/jars@4.0.0
+- pkg:composer/oranfry/jars@4.0.1
