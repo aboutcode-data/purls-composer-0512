@@ -1,4 +1,5 @@
 - pkg:composer/alexandr-penkin/psalm-fixer@0.0.1
+- pkg:composer/alexandr-penkin/psalm-fixer@0.0.10
 - pkg:composer/alexandr-penkin/psalm-fixer@0.0.2
 - pkg:composer/alexandr-penkin/psalm-fixer@0.0.3
 - pkg:composer/alexandr-penkin/psalm-fixer@0.0.4
