@@ -10,6 +10,7 @@
 - pkg:composer/bycerfrance/llm-api-lib@v1.16.0
 - pkg:composer/bycerfrance/llm-api-lib@v1.17.0
 - pkg:composer/bycerfrance/llm-api-lib@v1.17.1
+- pkg:composer/bycerfrance/llm-api-lib@v1.18.0
 - pkg:composer/bycerfrance/llm-api-lib@v1.2.0
 - pkg:composer/bycerfrance/llm-api-lib@v1.3.0
 - pkg:composer/bycerfrance/llm-api-lib@v1.4.0
