@@ -37,3 +37,5 @@
 - pkg:composer/chaoswebdev/laravel-kit@v1.9.3
 - pkg:composer/chaoswebdev/laravel-kit@v1.9.4
 - pkg:composer/chaoswebdev/laravel-kit@v2.0.0
+- pkg:composer/chaoswebdev/laravel-kit@v2.2.0
+- pkg:composer/chaoswebdev/laravel-kit@v2.2.1
