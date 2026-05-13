@@ -160,6 +160,8 @@
 - pkg:composer/develia/commons@0.8.4
 - pkg:composer/develia/commons@0.8.40
 - pkg:composer/develia/commons@0.8.41
+- pkg:composer/develia/commons@0.8.42
+- pkg:composer/develia/commons@0.8.43
 - pkg:composer/develia/commons@0.8.5
 - pkg:composer/develia/commons@0.8.6
 - pkg:composer/develia/commons@0.8.7
