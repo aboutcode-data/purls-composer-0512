@@ -9,6 +9,7 @@
 - pkg:composer/xima/xima-typo3-manual@2.0.3
 - pkg:composer/xima/xima-typo3-manual@2.0.4
 - pkg:composer/xima/xima-typo3-manual@2.0.5
+- pkg:composer/xima/xima-typo3-manual@2.1.0
 - pkg:composer/xima/xima-typo3-manual@v1.0.0
 - pkg:composer/xima/xima-typo3-manual@v1.0.1
 - pkg:composer/xima/xima-typo3-manual@v1.1.0
