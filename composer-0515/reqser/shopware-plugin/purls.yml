@@ -22,6 +22,7 @@
 - pkg:composer/reqser/shopware-plugin@1.7.17
 - pkg:composer/reqser/shopware-plugin@1.7.21
 - pkg:composer/reqser/shopware-plugin@1.7.24
+- pkg:composer/reqser/shopware-plugin@1.7.27
 - pkg:composer/reqser/shopware-plugin@1.7.3
 - pkg:composer/reqser/shopware-plugin@1.7.4
 - pkg:composer/reqser/shopware-plugin@1.7.5
