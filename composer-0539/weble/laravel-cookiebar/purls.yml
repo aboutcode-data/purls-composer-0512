@@ -6,3 +6,5 @@
 - pkg:composer/weble/laravel-cookiebar@3.0.0
 - pkg:composer/weble/laravel-cookiebar@3.1.0
 - pkg:composer/weble/laravel-cookiebar@3.2.0
+- pkg:composer/weble/laravel-cookiebar@4.0.0
+- pkg:composer/weble/laravel-cookiebar@4.0.1

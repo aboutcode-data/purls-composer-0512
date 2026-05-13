@@ -14,3 +14,4 @@
 - pkg:composer/utopia-php/emails@0.6.7
 - pkg:composer/utopia-php/emails@0.6.8
 - pkg:composer/utopia-php/emails@0.6.9
+- pkg:composer/utopia-php/emails@0.7.0
