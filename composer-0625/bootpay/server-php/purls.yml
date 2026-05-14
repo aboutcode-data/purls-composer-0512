@@ -2,3 +2,5 @@
 - pkg:composer/bootpay/server-php@2.0.2
 - pkg:composer/bootpay/server-php@2.0.3
 - pkg:composer/bootpay/server-php@2.0.4
+- pkg:composer/bootpay/server-php@2.4.0
+- pkg:composer/bootpay/server-php@2.4.1
