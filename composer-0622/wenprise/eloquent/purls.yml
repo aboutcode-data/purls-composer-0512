@@ -1,6 +1,7 @@
 - pkg:composer/wenprise/eloquent@0.1
 - pkg:composer/wenprise/eloquent@0.1.1
 - pkg:composer/wenprise/eloquent@0.1.2
+- pkg:composer/wenprise/eloquent@13.0.0
 - pkg:composer/wenprise/eloquent@5.5.0
 - pkg:composer/wenprise/eloquent@8.0.0
 - pkg:composer/wenprise/eloquent@8.8.1
