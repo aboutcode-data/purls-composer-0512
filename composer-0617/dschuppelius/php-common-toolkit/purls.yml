@@ -124,3 +124,5 @@
 - pkg:composer/dschuppelius/php-common-toolkit@v1.7.3
 - pkg:composer/dschuppelius/php-common-toolkit@v1.7.4
 - pkg:composer/dschuppelius/php-common-toolkit@v1.7.5
+- pkg:composer/dschuppelius/php-common-toolkit@v1.8
+- pkg:composer/dschuppelius/php-common-toolkit@v1.8.1
