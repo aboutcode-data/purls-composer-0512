@@ -8,3 +8,4 @@
 - pkg:composer/spryker/order-amendments-rest-api@0.7.0
 - pkg:composer/spryker/order-amendments-rest-api@1.0.0
 - pkg:composer/spryker/order-amendments-rest-api@1.1.0
+- pkg:composer/spryker/order-amendments-rest-api@1.2.0
