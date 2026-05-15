@@ -197,3 +197,6 @@
 - pkg:composer/gibson-os/core@v5.7.1
 - pkg:composer/gibson-os/core@v5.8.0
 - pkg:composer/gibson-os/core@v5.8.1
+- pkg:composer/gibson-os/core@v5.8.2
+- pkg:composer/gibson-os/core@v5.9.0
+- pkg:composer/gibson-os/core@v5.9.1

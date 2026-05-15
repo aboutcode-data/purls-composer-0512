@@ -1,3 +1,4 @@
 - pkg:composer/gctc-ntgc/laravel-scout-postgres-tsvector@v1.0.0
 - pkg:composer/gctc-ntgc/laravel-scout-postgres-tsvector@v2.0.0
 - pkg:composer/gctc-ntgc/laravel-scout-postgres-tsvector@v3.0.0
+- pkg:composer/gctc-ntgc/laravel-scout-postgres-tsvector@v3.0.1
