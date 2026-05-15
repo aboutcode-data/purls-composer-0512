@@ -1,5 +1,6 @@
 - pkg:composer/bigcommerce/mock-injector@1.0
 - pkg:composer/bigcommerce/mock-injector@10.0.0
+- pkg:composer/bigcommerce/mock-injector@10.0.1
 - pkg:composer/bigcommerce/mock-injector@2.0
 - pkg:composer/bigcommerce/mock-injector@2.0.1
 - pkg:composer/bigcommerce/mock-injector@2.0.2

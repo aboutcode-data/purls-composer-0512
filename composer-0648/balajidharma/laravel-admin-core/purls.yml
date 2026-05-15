@@ -56,3 +56,4 @@
 - pkg:composer/balajidharma/laravel-admin-core@v3.0.7
 - pkg:composer/balajidharma/laravel-admin-core@v3.0.8
 - pkg:composer/balajidharma/laravel-admin-core@v3.0.9
+- pkg:composer/balajidharma/laravel-admin-core@v4.0.1
