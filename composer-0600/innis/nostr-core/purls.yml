@@ -18,3 +18,5 @@
 - pkg:composer/innis/nostr-core@v0.3.0
 - pkg:composer/innis/nostr-core@v0.3.1
 - pkg:composer/innis/nostr-core@v0.3.2
+- pkg:composer/innis/nostr-core@v0.3.3
+- pkg:composer/innis/nostr-core@v0.3.4

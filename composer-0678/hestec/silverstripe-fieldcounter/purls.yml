@@ -1,3 +1,4 @@
 - pkg:composer/hestec/silverstripe-fieldcounter@1.0.0
 - pkg:composer/hestec/silverstripe-fieldcounter@2.0.0
 - pkg:composer/hestec/silverstripe-fieldcounter@2.0.1
+- pkg:composer/hestec/silverstripe-fieldcounter@6.0.0
