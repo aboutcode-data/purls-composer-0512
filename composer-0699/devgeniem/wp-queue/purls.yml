@@ -1,3 +1,4 @@
 - pkg:composer/devgeniem/wp-queue@0.0.0
 - pkg:composer/devgeniem/wp-queue@1.0.0
 - pkg:composer/devgeniem/wp-queue@1.0.1
+- pkg:composer/devgeniem/wp-queue@1.0.2

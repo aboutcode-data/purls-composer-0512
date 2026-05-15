@@ -1,0 +1,4 @@
+- pkg:composer/drupal/php_cache_adapter@1.0.0-alpha1
+- pkg:composer/drupal/php_cache_adapter@1.0.0-alpha2
+- pkg:composer/drupal/php_cache_adapter@1.0.0-alpha3
+- pkg:composer/drupal/php_cache_adapter@1.0.0-alpha4
