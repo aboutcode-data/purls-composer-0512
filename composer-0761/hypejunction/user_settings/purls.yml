@@ -6,4 +6,8 @@
 - pkg:composer/hypejunction/user_settings@1.1.1
 - pkg:composer/hypejunction/user_settings@1.1.2
 - pkg:composer/hypejunction/user_settings@2.2.0
+- pkg:composer/hypejunction/user_settings@3.0.0
+- pkg:composer/hypejunction/user_settings@4.0.0
+- pkg:composer/hypejunction/user_settings@5.0.0
+- pkg:composer/hypejunction/user_settings@6.0.0
 - pkg:composer/hypejunction/user_settings@7.0.0

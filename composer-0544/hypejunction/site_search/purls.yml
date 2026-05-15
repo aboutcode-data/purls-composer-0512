@@ -1,5 +1,6 @@
 - pkg:composer/hypejunction/site_search@1.0.0
 - pkg:composer/hypejunction/site_search@1.0.1
+- pkg:composer/hypejunction/site_search@3.0.0
 - pkg:composer/hypejunction/site_search@4.0.0
 - pkg:composer/hypejunction/site_search@5.0.0
 - pkg:composer/hypejunction/site_search@6.0.0

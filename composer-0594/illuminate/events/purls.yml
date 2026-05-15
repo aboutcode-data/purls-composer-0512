@@ -309,6 +309,7 @@
 - pkg:composer/illuminate/events@v12.56.0
 - pkg:composer/illuminate/events@v12.57.0
 - pkg:composer/illuminate/events@v12.58.0
+- pkg:composer/illuminate/events@v12.59.0
 - pkg:composer/illuminate/events@v12.6.0
 - pkg:composer/illuminate/events@v12.7.0
 - pkg:composer/illuminate/events@v12.7.1
@@ -328,6 +329,7 @@
 - pkg:composer/illuminate/events@v13.6.0
 - pkg:composer/illuminate/events@v13.7.0
 - pkg:composer/illuminate/events@v13.8.0
+- pkg:composer/illuminate/events@v13.9.0
 - pkg:composer/illuminate/events@v4.0.0
 - pkg:composer/illuminate/events@v4.0.0-BETA2
 - pkg:composer/illuminate/events@v4.0.0-BETA3
