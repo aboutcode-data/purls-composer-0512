@@ -44,3 +44,4 @@
 - pkg:composer/forgeomni/superagent@v0.9.7
 - pkg:composer/forgeomni/superagent@v0.9.8
 - pkg:composer/forgeomni/superagent@v0.9.9
+- pkg:composer/forgeomni/superagent@v1.0.0
