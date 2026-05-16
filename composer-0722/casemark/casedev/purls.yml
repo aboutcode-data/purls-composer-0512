@@ -59,6 +59,7 @@
 - pkg:composer/casemark/casedev@v0.49.1
 - pkg:composer/casemark/casedev@v0.49.2
 - pkg:composer/casemark/casedev@v0.5.0
+- pkg:composer/casemark/casedev@v0.50.0
 - pkg:composer/casemark/casedev@v0.6.0
 - pkg:composer/casemark/casedev@v0.7.0
 - pkg:composer/casemark/casedev@v0.8.0
