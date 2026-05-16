@@ -5,3 +5,4 @@
 - pkg:composer/klevu/module-registry@1.3.0
 - pkg:composer/klevu/module-registry@1.4.0
 - pkg:composer/klevu/module-registry@1.5.0
+- pkg:composer/klevu/module-registry@1.6.0
