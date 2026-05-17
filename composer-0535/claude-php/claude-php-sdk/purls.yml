@@ -8,3 +8,4 @@
 - pkg:composer/claude-php/claude-php-sdk@0.6.0
 - pkg:composer/claude-php/claude-php-sdk@0.7.0
 - pkg:composer/claude-php/claude-php-sdk@0.7.1
+- pkg:composer/claude-php/claude-php-sdk@0.7.2
