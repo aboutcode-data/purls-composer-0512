@@ -3,3 +3,4 @@
 - pkg:composer/lintkit/php-coding-standards-config@1.1.1
 - pkg:composer/lintkit/php-coding-standards-config@1.2.0
 - pkg:composer/lintkit/php-coding-standards-config@2.0.0
+- pkg:composer/lintkit/php-coding-standards-config@2.1.0

@@ -219,6 +219,7 @@
 - pkg:composer/laravel/framework@v11.5.0
 - pkg:composer/laravel/framework@v11.50.0
 - pkg:composer/laravel/framework@v11.51.0
+- pkg:composer/laravel/framework@v11.52.0
 - pkg:composer/laravel/framework@v11.6.0
 - pkg:composer/laravel/framework@v11.7.0
 - pkg:composer/laravel/framework@v11.8.0
@@ -317,6 +318,7 @@
 - pkg:composer/laravel/framework@v12.56.0
 - pkg:composer/laravel/framework@v12.57.0
 - pkg:composer/laravel/framework@v12.58.0
+- pkg:composer/laravel/framework@v12.59.0
 - pkg:composer/laravel/framework@v12.6.0
 - pkg:composer/laravel/framework@v12.7.0
 - pkg:composer/laravel/framework@v12.7.1
@@ -336,6 +338,7 @@
 - pkg:composer/laravel/framework@v13.6.0
 - pkg:composer/laravel/framework@v13.7.0
 - pkg:composer/laravel/framework@v13.8.0
+- pkg:composer/laravel/framework@v13.9.0
 - pkg:composer/laravel/framework@v4.0.0
 - pkg:composer/laravel/framework@v4.0.0-BETA2
 - pkg:composer/laravel/framework@v4.0.0-BETA3

@@ -2,3 +2,4 @@
 - pkg:composer/lintkit/typo3-rector-config@1.1.0
 - pkg:composer/lintkit/typo3-rector-config@1.1.1
 - pkg:composer/lintkit/typo3-rector-config@1.2.0
+- pkg:composer/lintkit/typo3-rector-config@1.3.0
