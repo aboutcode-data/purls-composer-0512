@@ -1,1 +1,2 @@
 - pkg:composer/erikwang/consul-php@v1.0.1
+- pkg:composer/erikwang/consul-php@v2.0.0
