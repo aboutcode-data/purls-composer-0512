@@ -11,3 +11,5 @@
 - pkg:composer/craftile/laravel@v0.6.0
 - pkg:composer/craftile/laravel@v0.6.1
 - pkg:composer/craftile/laravel@v0.6.2
+- pkg:composer/craftile/laravel@v0.6.3
+- pkg:composer/craftile/laravel@v0.6.4
