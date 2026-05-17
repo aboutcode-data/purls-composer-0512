@@ -11,3 +11,6 @@
 - pkg:composer/makr/feed@1.1.0
 - pkg:composer/makr/feed@1.1.1
 - pkg:composer/makr/feed@2.0.0
+- pkg:composer/makr/feed@3.0.0
+- pkg:composer/makr/feed@3.0.1
+- pkg:composer/makr/feed@3.0.2
