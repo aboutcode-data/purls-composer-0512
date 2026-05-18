@@ -34,7 +34,6 @@
 - pkg:composer/keap/keap-sdk@1.0.8
 - pkg:composer/keap/keap-sdk@1.0.9
 - pkg:composer/keap/keap-sdk@2.0.1
-- pkg:composer/keap/keap-sdk@2.0.10
 - pkg:composer/keap/keap-sdk@2.0.2
 - pkg:composer/keap/keap-sdk@2.0.3
 - pkg:composer/keap/keap-sdk@2.0.4
