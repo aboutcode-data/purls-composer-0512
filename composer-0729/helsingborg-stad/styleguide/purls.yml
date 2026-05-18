@@ -316,6 +316,8 @@
 - pkg:composer/helsingborg-stad/styleguide@2.235.8
 - pkg:composer/helsingborg-stad/styleguide@2.237.0
 - pkg:composer/helsingborg-stad/styleguide@2.238.0
+- pkg:composer/helsingborg-stad/styleguide@2.239.0
+- pkg:composer/helsingborg-stad/styleguide@2.239.2
 - pkg:composer/helsingborg-stad/styleguide@v0.11.0
 - pkg:composer/helsingborg-stad/styleguide@v0.11.1
 - pkg:composer/helsingborg-stad/styleguide@v0.11.10
