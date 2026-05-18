@@ -23,6 +23,7 @@
 - pkg:composer/munkireport/machine@v6.13b4
 - pkg:composer/munkireport/machine@v6.14
 - pkg:composer/munkireport/machine@v6.15
+- pkg:composer/munkireport/machine@v6.16
 - pkg:composer/munkireport/machine@v6.2
 - pkg:composer/munkireport/machine@v6.3
 - pkg:composer/munkireport/machine@v6.4
