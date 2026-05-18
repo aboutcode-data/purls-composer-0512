@@ -1,2 +1,4 @@
 - pkg:composer/phpmlkit/ndarray@1.0.0
 - pkg:composer/phpmlkit/ndarray@1.2.1
+- pkg:composer/phpmlkit/ndarray@2.0.0
+- pkg:composer/phpmlkit/ndarray@2.0.1

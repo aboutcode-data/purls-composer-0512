@@ -10,3 +10,4 @@
 - pkg:composer/portrino/px_dbmigrator@2.0.3
 - pkg:composer/portrino/px_dbmigrator@3.0.0
 - pkg:composer/portrino/px_dbmigrator@3.1.0
+- pkg:composer/portrino/px_dbmigrator@3.1.1
