@@ -1,2 +1,5 @@
 - pkg:composer/nermif/php-redis-stock@v1.0.0
 - pkg:composer/nermif/php-redis-stock@v1.0.1
+- pkg:composer/nermif/php-redis-stock@v1.1.0
+- pkg:composer/nermif/php-redis-stock@v1.2.0
+- pkg:composer/nermif/php-redis-stock@v1.3.0

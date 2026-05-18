@@ -33,3 +33,4 @@
 - pkg:composer/mmi/mmi-cms-standard@1.4.0
 - pkg:composer/mmi/mmi-cms-standard@1.5.0
 - pkg:composer/mmi/mmi-cms-standard@1.5.1
+- pkg:composer/mmi/mmi-cms-standard@2.0.0

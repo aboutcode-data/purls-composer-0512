@@ -654,3 +654,4 @@
 - pkg:composer/mmi/mmi-cms@5.8.9
 - pkg:composer/mmi/mmi-cms@5.8.9.1
 - pkg:composer/mmi/mmi-cms@5.8.9.2
+- pkg:composer/mmi/mmi-cms@6.0.0
