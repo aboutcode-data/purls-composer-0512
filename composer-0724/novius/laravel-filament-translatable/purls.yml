@@ -1,1 +1,2 @@
 - pkg:composer/novius/laravel-filament-translatable@1.0.0
+- pkg:composer/novius/laravel-filament-translatable@1.0.1

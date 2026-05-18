@@ -5,3 +5,4 @@
 - pkg:composer/novius/laravel-scout-elasticsearch-driver@3.0.0
 - pkg:composer/novius/laravel-scout-elasticsearch-driver@4.0.0
 - pkg:composer/novius/laravel-scout-elasticsearch-driver@5.0.0
+- pkg:composer/novius/laravel-scout-elasticsearch-driver@5.0.1
