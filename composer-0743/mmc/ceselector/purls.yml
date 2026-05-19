@@ -6,7 +6,11 @@
 - pkg:composer/mmc/ceselector@3.0.0
 - pkg:composer/mmc/ceselector@3.0.1
 - pkg:composer/mmc/ceselector@3.0.2
+- pkg:composer/mmc/ceselector@3.0.3
 - pkg:composer/mmc/ceselector@4.0.0
 - pkg:composer/mmc/ceselector@4.0.1
+- pkg:composer/mmc/ceselector@4.0.2
 - pkg:composer/mmc/ceselector@5.0.0
+- pkg:composer/mmc/ceselector@5.0.1
 - pkg:composer/mmc/ceselector@6.0.0
+- pkg:composer/mmc/ceselector@6.0.1
