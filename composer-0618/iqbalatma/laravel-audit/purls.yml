@@ -24,3 +24,4 @@
 - pkg:composer/iqbalatma/laravel-audit@1.5.1
 - pkg:composer/iqbalatma/laravel-audit@1.5.2
 - pkg:composer/iqbalatma/laravel-audit@1.6.0
+- pkg:composer/iqbalatma/laravel-audit@1.7.0
