@@ -4,3 +4,5 @@
 - pkg:composer/graystackit/laravel-mollie-billing@v0.2.2
 - pkg:composer/graystackit/laravel-mollie-billing@v0.2.3
 - pkg:composer/graystackit/laravel-mollie-billing@v0.2.4
+- pkg:composer/graystackit/laravel-mollie-billing@v0.2.5
+- pkg:composer/graystackit/laravel-mollie-billing@v0.2.6
