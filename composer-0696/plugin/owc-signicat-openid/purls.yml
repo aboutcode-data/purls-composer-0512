@@ -29,3 +29,4 @@
 - pkg:composer/plugin/owc-signicat-openid@v3.1.4
 - pkg:composer/plugin/owc-signicat-openid@v3.2.0
 - pkg:composer/plugin/owc-signicat-openid@v3.2.1
+- pkg:composer/plugin/owc-signicat-openid@v3.2.2
