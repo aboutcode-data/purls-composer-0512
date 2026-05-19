@@ -20,3 +20,4 @@
 - pkg:composer/publishpress/wordpress-version-notices@2.1.4
 - pkg:composer/publishpress/wordpress-version-notices@2.1.5
 - pkg:composer/publishpress/wordpress-version-notices@2.2.0
+- pkg:composer/publishpress/wordpress-version-notices@2.2.1

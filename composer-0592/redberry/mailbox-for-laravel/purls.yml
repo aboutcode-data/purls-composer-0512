@@ -1,3 +1,4 @@
+- pkg:composer/redberry/mailbox-for-laravel@2.2.1
 - pkg:composer/redberry/mailbox-for-laravel@v0.0.1
 - pkg:composer/redberry/mailbox-for-laravel@v0.0.2
 - pkg:composer/redberry/mailbox-for-laravel@v0.0.3

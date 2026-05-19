@@ -176,6 +176,16 @@
 - pkg:composer/redking/doctrine-parse-bundle@v2.26.1
 - pkg:composer/redking/doctrine-parse-bundle@v2.26.2
 - pkg:composer/redking/doctrine-parse-bundle@v2.26.3
+- pkg:composer/redking/doctrine-parse-bundle@v2.26.4
+- pkg:composer/redking/doctrine-parse-bundle@v2.27.0
+- pkg:composer/redking/doctrine-parse-bundle@v2.27.1
+- pkg:composer/redking/doctrine-parse-bundle@v2.28.0
+- pkg:composer/redking/doctrine-parse-bundle@v2.29.0
+- pkg:composer/redking/doctrine-parse-bundle@v2.29.1
+- pkg:composer/redking/doctrine-parse-bundle@v2.29.2
+- pkg:composer/redking/doctrine-parse-bundle@v2.29.3
+- pkg:composer/redking/doctrine-parse-bundle@v2.29.4
+- pkg:composer/redking/doctrine-parse-bundle@v2.29.5
 - pkg:composer/redking/doctrine-parse-bundle@v2.3.0
 - pkg:composer/redking/doctrine-parse-bundle@v2.3.1
 - pkg:composer/redking/doctrine-parse-bundle@v2.3.2

@@ -1,3 +1,4 @@
+- pkg:composer/redberryproducts/laravel-bog-payment@2.0.0
 - pkg:composer/redberryproducts/laravel-bog-payment@v1.0.0
 - pkg:composer/redberryproducts/laravel-bog-payment@v1.0.1
 - pkg:composer/redberryproducts/laravel-bog-payment@v1.0.2
@@ -8,3 +9,4 @@
 - pkg:composer/redberryproducts/laravel-bog-payment@v1.0.7
 - pkg:composer/redberryproducts/laravel-bog-payment@v1.0.8
 - pkg:composer/redberryproducts/laravel-bog-payment@v1.0.9
+- pkg:composer/redberryproducts/laravel-bog-payment@v2.0.1
