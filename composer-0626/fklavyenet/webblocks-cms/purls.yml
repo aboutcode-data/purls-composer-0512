@@ -127,9 +127,14 @@
 - pkg:composer/fklavyenet/webblocks-cms@v1.31.6
 - pkg:composer/fklavyenet/webblocks-cms@v1.31.60
 - pkg:composer/fklavyenet/webblocks-cms@v1.31.61
+- pkg:composer/fklavyenet/webblocks-cms@v1.31.62
+- pkg:composer/fklavyenet/webblocks-cms@v1.31.63
+- pkg:composer/fklavyenet/webblocks-cms@v1.31.64
+- pkg:composer/fklavyenet/webblocks-cms@v1.31.65
 - pkg:composer/fklavyenet/webblocks-cms@v1.31.7
 - pkg:composer/fklavyenet/webblocks-cms@v1.31.8
 - pkg:composer/fklavyenet/webblocks-cms@v1.31.9
+- pkg:composer/fklavyenet/webblocks-cms@v1.32.0
 - pkg:composer/fklavyenet/webblocks-cms@v1.4.0
 - pkg:composer/fklavyenet/webblocks-cms@v1.4.1
 - pkg:composer/fklavyenet/webblocks-cms@v1.4.2
