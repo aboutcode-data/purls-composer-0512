@@ -23,3 +23,5 @@
 - pkg:composer/ecotone/data-protection@1.312.0
 - pkg:composer/ecotone/data-protection@1.313.0
 - pkg:composer/ecotone/data-protection@1.313.1
+- pkg:composer/ecotone/data-protection@1.313.2
+- pkg:composer/ecotone/data-protection@1.314.0
