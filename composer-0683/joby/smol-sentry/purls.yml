@@ -8,3 +8,7 @@
 - pkg:composer/joby/smol-sentry@v1.3.3
 - pkg:composer/joby/smol-sentry@v1.3.4
 - pkg:composer/joby/smol-sentry@v1.3.5
+- pkg:composer/joby/smol-sentry@v1.4.0
+- pkg:composer/joby/smol-sentry@v1.4.1
+- pkg:composer/joby/smol-sentry@v2.0.0
+- pkg:composer/joby/smol-sentry@v3.0.0
