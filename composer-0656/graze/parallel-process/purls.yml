@@ -11,3 +11,5 @@
 - pkg:composer/graze/parallel-process@0.7.1
 - pkg:composer/graze/parallel-process@0.8.0
 - pkg:composer/graze/parallel-process@0.8.1
+- pkg:composer/graze/parallel-process@v1.0.0
+- pkg:composer/graze/parallel-process@v1.0.1
