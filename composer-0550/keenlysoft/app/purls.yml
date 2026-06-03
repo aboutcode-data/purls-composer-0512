@@ -8,3 +8,5 @@
 - pkg:composer/keenlysoft/app@1.5.2
 - pkg:composer/keenlysoft/app@1.5.3
 - pkg:composer/keenlysoft/app@1.5.4
+- pkg:composer/keenlysoft/app@1.6.0
+- pkg:composer/keenlysoft/app@1.7.0

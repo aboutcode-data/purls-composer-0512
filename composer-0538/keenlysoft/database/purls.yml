@@ -9,3 +9,4 @@
 - pkg:composer/keenlysoft/database@1.25
 - pkg:composer/keenlysoft/database@1.26
 - pkg:composer/keenlysoft/database@1.27
+- pkg:composer/keenlysoft/database@1.28.0
