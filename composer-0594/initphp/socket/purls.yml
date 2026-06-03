@@ -1,2 +1,3 @@
 - pkg:composer/initphp/socket@1.0
 - pkg:composer/initphp/socket@1.1
+- pkg:composer/initphp/socket@2.0.0
