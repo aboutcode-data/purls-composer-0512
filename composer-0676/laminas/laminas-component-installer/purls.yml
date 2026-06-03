@@ -37,3 +37,4 @@
 - pkg:composer/laminas/laminas-component-installer@3.5.0
 - pkg:composer/laminas/laminas-component-installer@3.6.0
 - pkg:composer/laminas/laminas-component-installer@3.7.0
+- pkg:composer/laminas/laminas-component-installer@3.8.0
