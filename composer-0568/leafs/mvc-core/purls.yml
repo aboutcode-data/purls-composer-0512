@@ -39,3 +39,4 @@
 - pkg:composer/leafs/mvc-core@v4.6.1
 - pkg:composer/leafs/mvc-core@v4.7
 - pkg:composer/leafs/mvc-core@v4.7.1
+- pkg:composer/leafs/mvc-core@v4.8
