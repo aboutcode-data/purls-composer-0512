@@ -31,6 +31,7 @@
 - pkg:composer/fooman/printorderpdf-m2@3.3.6
 - pkg:composer/fooman/printorderpdf-m2@3.4.0
 - pkg:composer/fooman/printorderpdf-m2@3.5.0
+- pkg:composer/fooman/printorderpdf-m2@3.6.1
 - pkg:composer/fooman/printorderpdf-m2@v1.0.0
 - pkg:composer/fooman/printorderpdf-m2@v1.0.1
 - pkg:composer/fooman/printorderpdf-m2@v1.0.2
