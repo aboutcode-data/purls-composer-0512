@@ -1,1 +1,4 @@
 - pkg:composer/forumaker/yandex-smartcaptcha@2.0.0
+- pkg:composer/forumaker/yandex-smartcaptcha@2.1.0
+- pkg:composer/forumaker/yandex-smartcaptcha@2.2.0
+- pkg:composer/forumaker/yandex-smartcaptcha@2.2.2
