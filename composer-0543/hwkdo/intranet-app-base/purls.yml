@@ -44,3 +44,5 @@
 - pkg:composer/hwkdo/intranet-app-base@v1.8.4
 - pkg:composer/hwkdo/intranet-app-base@v1.8.5
 - pkg:composer/hwkdo/intranet-app-base@v1.8.6
+- pkg:composer/hwkdo/intranet-app-base@v1.8.7
+- pkg:composer/hwkdo/intranet-app-base@v1.8.8
