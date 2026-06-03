@@ -10,3 +10,5 @@
 - pkg:composer/lite-view/sql@v0.1.6
 - pkg:composer/lite-view/sql@v0.1.7
 - pkg:composer/lite-view/sql@v0.1.8
+- pkg:composer/lite-view/sql@v0.2.0
+- pkg:composer/lite-view/sql@v0.2.1
