@@ -6,3 +6,4 @@
 - pkg:composer/ivantcholakov/codeigniter-phpmailer@v1.4.6
 - pkg:composer/ivantcholakov/codeigniter-phpmailer@v1.4.7
 - pkg:composer/ivantcholakov/codeigniter-phpmailer@v1.5.0
+- pkg:composer/ivantcholakov/codeigniter-phpmailer@v1.6.0
