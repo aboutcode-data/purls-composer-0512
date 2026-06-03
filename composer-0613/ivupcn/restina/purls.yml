@@ -19,3 +19,5 @@
 - pkg:composer/ivupcn/restina@v1.1.8
 - pkg:composer/ivupcn/restina@v1.2.1
 - pkg:composer/ivupcn/restina@v1.2.2
+- pkg:composer/ivupcn/restina@v1.2.4
+- pkg:composer/ivupcn/restina@v1.2.6
