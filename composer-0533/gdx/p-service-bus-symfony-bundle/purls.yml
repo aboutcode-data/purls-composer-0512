@@ -54,3 +54,4 @@
 - pkg:composer/gdx/p-service-bus-symfony-bundle@3.8.0
 - pkg:composer/gdx/p-service-bus-symfony-bundle@3.8.1
 - pkg:composer/gdx/p-service-bus-symfony-bundle@3.8.2
+- pkg:composer/gdx/p-service-bus-symfony-bundle@3.8.3
