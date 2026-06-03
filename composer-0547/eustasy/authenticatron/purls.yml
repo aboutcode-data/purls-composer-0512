@@ -1,3 +1,4 @@
 - pkg:composer/eustasy/authenticatron@v4.0.0
 - pkg:composer/eustasy/authenticatron@v4.0.1
 - pkg:composer/eustasy/authenticatron@v4.1.0
+- pkg:composer/eustasy/authenticatron@v4.1.1
