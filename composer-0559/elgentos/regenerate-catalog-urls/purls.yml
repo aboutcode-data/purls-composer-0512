@@ -34,3 +34,5 @@
 - pkg:composer/elgentos/regenerate-catalog-urls@0.4.5
 - pkg:composer/elgentos/regenerate-catalog-urls@0.4.6
 - pkg:composer/elgentos/regenerate-catalog-urls@0.4.7
+- pkg:composer/elgentos/regenerate-catalog-urls@0.4.8
+- pkg:composer/elgentos/regenerate-catalog-urls@0.4.9
