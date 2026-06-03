@@ -67,3 +67,5 @@
 - pkg:composer/hulkapps/appmanager@3.0.6
 - pkg:composer/hulkapps/appmanager@3.0.7
 - pkg:composer/hulkapps/appmanager@3.0.9
+- pkg:composer/hulkapps/appmanager@3.1.0
+- pkg:composer/hulkapps/appmanager@3.1.1
