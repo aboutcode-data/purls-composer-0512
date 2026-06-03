@@ -46,6 +46,7 @@
 - pkg:composer/laravel-lang/lang@10.9.3
 - pkg:composer/laravel-lang/lang@10.9.4
 - pkg:composer/laravel-lang/lang@10.9.5
+- pkg:composer/laravel-lang/lang@10.9.6
 - pkg:composer/laravel-lang/lang@11.0.0
 - pkg:composer/laravel-lang/lang@11.0.1
 - pkg:composer/laravel-lang/lang@11.0.10
@@ -59,6 +60,7 @@
 - pkg:composer/laravel-lang/lang@11.0.18
 - pkg:composer/laravel-lang/lang@11.0.19
 - pkg:composer/laravel-lang/lang@11.0.2
+- pkg:composer/laravel-lang/lang@11.0.20
 - pkg:composer/laravel-lang/lang@11.0.3
 - pkg:composer/laravel-lang/lang@11.0.4
 - pkg:composer/laravel-lang/lang@11.0.5
@@ -144,6 +146,7 @@
 - pkg:composer/laravel-lang/lang@12.24.0
 - pkg:composer/laravel-lang/lang@12.24.1
 - pkg:composer/laravel-lang/lang@12.24.2
+- pkg:composer/laravel-lang/lang@12.24.3
 - pkg:composer/laravel-lang/lang@12.3.0
 - pkg:composer/laravel-lang/lang@12.3.1
 - pkg:composer/laravel-lang/lang@12.3.2
@@ -166,6 +169,7 @@
 - pkg:composer/laravel-lang/lang@12.8.0
 - pkg:composer/laravel-lang/lang@12.8.1
 - pkg:composer/laravel-lang/lang@12.8.2
+- pkg:composer/laravel-lang/lang@12.8.4
 - pkg:composer/laravel-lang/lang@12.9.0
 - pkg:composer/laravel-lang/lang@12.9.1
 - pkg:composer/laravel-lang/lang@12.9.2
@@ -186,6 +190,7 @@
 - pkg:composer/laravel-lang/lang@13.10.0
 - pkg:composer/laravel-lang/lang@13.11.0
 - pkg:composer/laravel-lang/lang@13.12.0
+- pkg:composer/laravel-lang/lang@13.12.1
 - pkg:composer/laravel-lang/lang@13.2.0
 - pkg:composer/laravel-lang/lang@13.2.1
 - pkg:composer/laravel-lang/lang@13.2.2
@@ -238,6 +243,7 @@
 - pkg:composer/laravel-lang/lang@14.6.0
 - pkg:composer/laravel-lang/lang@14.7.0
 - pkg:composer/laravel-lang/lang@14.8.0
+- pkg:composer/laravel-lang/lang@14.8.1
 - pkg:composer/laravel-lang/lang@15.0.0
 - pkg:composer/laravel-lang/lang@15.1.0
 - pkg:composer/laravel-lang/lang@15.1.1
@@ -314,14 +320,11 @@
 - pkg:composer/laravel-lang/lang@15.28.3
 - pkg:composer/laravel-lang/lang@15.28.4
 - pkg:composer/laravel-lang/lang@15.28.5
-- pkg:composer/laravel-lang/lang@15.29.0
-- pkg:composer/laravel-lang/lang@15.29.1
-- pkg:composer/laravel-lang/lang@15.29.2
-- pkg:composer/laravel-lang/lang@15.29.3
-- pkg:composer/laravel-lang/lang@15.29.4
-- pkg:composer/laravel-lang/lang@15.29.5
 - pkg:composer/laravel-lang/lang@15.3.0
 - pkg:composer/laravel-lang/lang@15.3.1
+- pkg:composer/laravel-lang/lang@15.30.0
+- pkg:composer/laravel-lang/lang@15.31.0
+- pkg:composer/laravel-lang/lang@15.31.1
 - pkg:composer/laravel-lang/lang@15.4.0
 - pkg:composer/laravel-lang/lang@15.4.1
 - pkg:composer/laravel-lang/lang@15.5.0
@@ -500,3 +503,4 @@
 - pkg:composer/laravel-lang/lang@9.1.0
 - pkg:composer/laravel-lang/lang@9.1.1
 - pkg:composer/laravel-lang/lang@9.1.2
+- pkg:composer/laravel-lang/lang@9.1.3
