@@ -25,3 +25,5 @@
 - pkg:composer/in2code/fetchurl@5.0.3
 - pkg:composer/in2code/fetchurl@6.0.0
 - pkg:composer/in2code/fetchurl@6.0.1
+- pkg:composer/in2code/fetchurl@6.1.0
+- pkg:composer/in2code/fetchurl@6.1.1
