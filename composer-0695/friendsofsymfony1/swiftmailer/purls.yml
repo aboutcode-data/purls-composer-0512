@@ -54,3 +54,5 @@
 - pkg:composer/friendsofsymfony1/swiftmailer@v6.3.0
 - pkg:composer/friendsofsymfony1/swiftmailer@v6.4.0
 - pkg:composer/friendsofsymfony1/swiftmailer@v6.4.1
+- pkg:composer/friendsofsymfony1/swiftmailer@v6.4.2
+- pkg:composer/friendsofsymfony1/swiftmailer@v6.4.3
