@@ -11,3 +11,6 @@
 - pkg:composer/graze/console-diff-renderer@0.6.0
 - pkg:composer/graze/console-diff-renderer@0.6.1
 - pkg:composer/graze/console-diff-renderer@0.6.2
+- pkg:composer/graze/console-diff-renderer@v1.0.0
+- pkg:composer/graze/console-diff-renderer@v1.1.0
+- pkg:composer/graze/console-diff-renderer@v1.1.1
