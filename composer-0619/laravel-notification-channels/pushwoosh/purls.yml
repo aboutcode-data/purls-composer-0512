@@ -13,3 +13,4 @@
 - pkg:composer/laravel-notification-channels/pushwoosh@v3.4.0
 - pkg:composer/laravel-notification-channels/pushwoosh@v3.5.0
 - pkg:composer/laravel-notification-channels/pushwoosh@v3.6.0
+- pkg:composer/laravel-notification-channels/pushwoosh@v4.0.0
