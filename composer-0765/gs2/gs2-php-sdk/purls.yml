@@ -236,6 +236,7 @@
 - pkg:composer/gs2/gs2-php-sdk@1.4.319
 - pkg:composer/gs2/gs2-php-sdk@1.4.320
 - pkg:composer/gs2/gs2-php-sdk@1.4.321
+- pkg:composer/gs2/gs2-php-sdk@1.4.322
 - pkg:composer/gs2/gs2-php-sdk@1.4.4
 - pkg:composer/gs2/gs2-php-sdk@1.4.41
 - pkg:composer/gs2/gs2-php-sdk@1.4.42
