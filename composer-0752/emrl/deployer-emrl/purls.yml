@@ -40,3 +40,4 @@
 - pkg:composer/emrl/deployer-emrl@4.0.3
 - pkg:composer/emrl/deployer-emrl@4.0.4
 - pkg:composer/emrl/deployer-emrl@4.0.5
+- pkg:composer/emrl/deployer-emrl@5.0.0
