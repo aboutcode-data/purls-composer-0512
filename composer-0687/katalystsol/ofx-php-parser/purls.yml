@@ -1,3 +1,4 @@
 - pkg:composer/katalystsol/ofx-php-parser@v1.0.0
 - pkg:composer/katalystsol/ofx-php-parser@v1.0.1
 - pkg:composer/katalystsol/ofx-php-parser@v1.0.2
+- pkg:composer/katalystsol/ofx-php-parser@v1.0.3
