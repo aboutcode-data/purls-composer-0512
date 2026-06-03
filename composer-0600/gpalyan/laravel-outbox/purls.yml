@@ -1,1 +1,2 @@
 - pkg:composer/gpalyan/laravel-outbox@v1.0.0
+- pkg:composer/gpalyan/laravel-outbox@v2.0.0
