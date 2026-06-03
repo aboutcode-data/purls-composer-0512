@@ -20,3 +20,5 @@
 - pkg:composer/ghostwriter/event-dispatcher@6.0.2
 - pkg:composer/ghostwriter/event-dispatcher@6.1.0
 - pkg:composer/ghostwriter/event-dispatcher@6.1.1
+- pkg:composer/ghostwriter/event-dispatcher@6.1.2
+- pkg:composer/ghostwriter/event-dispatcher@6.1.3
