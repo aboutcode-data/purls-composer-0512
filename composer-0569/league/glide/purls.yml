@@ -42,5 +42,6 @@
 - pkg:composer/league/glide@3.0.1
 - pkg:composer/league/glide@3.1.0
 - pkg:composer/league/glide@3.2.0
+- pkg:composer/league/glide@4.0.0
 - pkg:composer/league/glide@4.0.0-beta1
 - pkg:composer/league/glide@4.0.0-beta2
