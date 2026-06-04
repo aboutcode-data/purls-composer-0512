@@ -406,6 +406,11 @@
 - pkg:composer/helsingborg-stad/styleguide@2.265.0
 - pkg:composer/helsingborg-stad/styleguide@2.265.2
 - pkg:composer/helsingborg-stad/styleguide@2.265.4
+- pkg:composer/helsingborg-stad/styleguide@2.265.6
+- pkg:composer/helsingborg-stad/styleguide@2.265.8
+- pkg:composer/helsingborg-stad/styleguide@2.266.1
+- pkg:composer/helsingborg-stad/styleguide@2.266.3
+- pkg:composer/helsingborg-stad/styleguide@2.266.5
 - pkg:composer/helsingborg-stad/styleguide@v0.11.0
 - pkg:composer/helsingborg-stad/styleguide@v0.11.1
 - pkg:composer/helsingborg-stad/styleguide@v0.11.10
