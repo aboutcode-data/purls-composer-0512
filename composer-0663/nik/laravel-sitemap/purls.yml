@@ -1,3 +1,4 @@
 - pkg:composer/nik/laravel-sitemap@1.0
 - pkg:composer/nik/laravel-sitemap@9.0.0
 - pkg:composer/nik/laravel-sitemap@9.0.1
+- pkg:composer/nik/laravel-sitemap@v10.0.0
