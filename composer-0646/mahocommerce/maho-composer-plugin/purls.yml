@@ -30,7 +30,10 @@
 - pkg:composer/mahocommerce/maho-composer-plugin@v4.0.26
 - pkg:composer/mahocommerce/maho-composer-plugin@v4.0.27
 - pkg:composer/mahocommerce/maho-composer-plugin@v4.0.28
+- pkg:composer/mahocommerce/maho-composer-plugin@v4.0.29
 - pkg:composer/mahocommerce/maho-composer-plugin@v4.0.3
+- pkg:composer/mahocommerce/maho-composer-plugin@v4.0.30
+- pkg:composer/mahocommerce/maho-composer-plugin@v4.0.31
 - pkg:composer/mahocommerce/maho-composer-plugin@v4.0.4
 - pkg:composer/mahocommerce/maho-composer-plugin@v4.0.5
 - pkg:composer/mahocommerce/maho-composer-plugin@v4.0.6
