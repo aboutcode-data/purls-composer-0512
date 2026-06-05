@@ -9,6 +9,7 @@
 - pkg:composer/onfido/api-php-client@1.6.0
 - pkg:composer/onfido/api-php-client@10.0.0
 - pkg:composer/onfido/api-php-client@10.1.0
+- pkg:composer/onfido/api-php-client@10.2.0
 - pkg:composer/onfido/api-php-client@2.0.0
 - pkg:composer/onfido/api-php-client@2.1.0
 - pkg:composer/onfido/api-php-client@3.0.0
