@@ -1,3 +1,4 @@
+- pkg:composer/mradang/laravel-fly@v10.0.0
 - pkg:composer/mradang/laravel-fly@v2.0.0
 - pkg:composer/mradang/laravel-fly@v2.0.1
 - pkg:composer/mradang/laravel-fly@v2.0.4
