@@ -38,3 +38,6 @@
 - pkg:composer/olcs/olcs-utils@v6.3.0
 - pkg:composer/olcs/olcs-utils@v7.0.0
 - pkg:composer/olcs/olcs-utils@v7.1.0
+- pkg:composer/olcs/olcs-utils@v7.2.0
+- pkg:composer/olcs/olcs-utils@v7.2.1
+- pkg:composer/olcs/olcs-utils@v7.3.0
