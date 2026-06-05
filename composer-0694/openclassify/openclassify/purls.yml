@@ -181,4 +181,4 @@
 - pkg:composer/openclassify/openclassify@2.2.7
 - pkg:composer/openclassify/openclassify@3.0
 - pkg:composer/openclassify/openclassify@3.1
-- pkg:composer/openclassify/openclassify@5.0-BETA
+- pkg:composer/openclassify/openclassify@3.1.1
