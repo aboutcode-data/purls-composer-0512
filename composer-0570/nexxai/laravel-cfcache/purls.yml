@@ -7,3 +7,6 @@
 - pkg:composer/nexxai/laravel-cfcache@v0.7.0
 - pkg:composer/nexxai/laravel-cfcache@v1.0.0
 - pkg:composer/nexxai/laravel-cfcache@v1.1.0
+- pkg:composer/nexxai/laravel-cfcache@v1.2.0
+- pkg:composer/nexxai/laravel-cfcache@v1.3.0
+- pkg:composer/nexxai/laravel-cfcache@v1.4.0
