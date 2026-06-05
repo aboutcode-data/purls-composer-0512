@@ -50,3 +50,4 @@
 - pkg:composer/matchish/laravel-scout-elasticsearch@v7.7.0
 - pkg:composer/matchish/laravel-scout-elasticsearch@v7.8.0
 - pkg:composer/matchish/laravel-scout-elasticsearch@v7.9.0
+- pkg:composer/matchish/laravel-scout-elasticsearch@v8.0.0-alpha.4
