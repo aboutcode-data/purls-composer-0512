@@ -2,6 +2,7 @@
 - pkg:composer/netresearch/agent-typo3-core-contributions@v1.0.1
 - pkg:composer/netresearch/agent-typo3-core-contributions@v1.10.0
 - pkg:composer/netresearch/agent-typo3-core-contributions@v1.10.1
+- pkg:composer/netresearch/agent-typo3-core-contributions@v1.11.0
 - pkg:composer/netresearch/agent-typo3-core-contributions@v1.6.0
 - pkg:composer/netresearch/agent-typo3-core-contributions@v1.6.1
 - pkg:composer/netresearch/agent-typo3-core-contributions@v1.6.2
