@@ -15,3 +15,4 @@
 - pkg:composer/mindtwo/laravel-dynamic-model-mutators@3.3
 - pkg:composer/mindtwo/laravel-dynamic-model-mutators@3.4
 - pkg:composer/mindtwo/laravel-dynamic-model-mutators@4.0
+- pkg:composer/mindtwo/laravel-dynamic-model-mutators@4.1.0

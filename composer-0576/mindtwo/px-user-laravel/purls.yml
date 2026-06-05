@@ -111,3 +111,6 @@
 - pkg:composer/mindtwo/px-user-laravel@3.0.1
 - pkg:composer/mindtwo/px-user-laravel@4.0.0
 - pkg:composer/mindtwo/px-user-laravel@4.0.1
+- pkg:composer/mindtwo/px-user-laravel@4.0.2
+- pkg:composer/mindtwo/px-user-laravel@4.1.0
+- pkg:composer/mindtwo/px-user-laravel@4.1.1
