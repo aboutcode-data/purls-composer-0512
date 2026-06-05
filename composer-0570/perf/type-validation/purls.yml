@@ -1,5 +1,4 @@
 - pkg:composer/perf/type-validation@1.0.0
-- pkg:composer/perf/type-validation@1.0.0-alpha
 - pkg:composer/perf/type-validation@1.0.1
 - pkg:composer/perf/type-validation@2.0.0
 - pkg:composer/perf/type-validation@2.0.1
@@ -7,4 +6,3 @@
 - pkg:composer/perf/type-validation@3.0.0
 - pkg:composer/perf/type-validation@3.1.0
 - pkg:composer/perf/type-validation@4.0.0
-- pkg:composer/perf/type-validation@4.0.0-rc1
