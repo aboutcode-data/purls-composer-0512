@@ -12,3 +12,5 @@
 - pkg:composer/myschoolmanagement/assert-constraint@2.0.2
 - pkg:composer/myschoolmanagement/assert-constraint@2.0.3
 - pkg:composer/myschoolmanagement/assert-constraint@2.02
+- pkg:composer/myschoolmanagement/assert-constraint@3.0.0
+- pkg:composer/myschoolmanagement/assert-constraint@3.0.1

@@ -235,3 +235,6 @@
 - pkg:composer/myparcelnl/pdk@3.4.2
 - pkg:composer/myparcelnl/pdk@3.5.0
 - pkg:composer/myparcelnl/pdk@3.5.1
+- pkg:composer/myparcelnl/pdk@3.5.2
+- pkg:composer/myparcelnl/pdk@3.5.3
+- pkg:composer/myparcelnl/pdk@4.0.0
