@@ -94,6 +94,8 @@
 - pkg:composer/overtrue/socialite@4.12.1
 - pkg:composer/overtrue/socialite@4.13.0
 - pkg:composer/overtrue/socialite@4.14.0
+- pkg:composer/overtrue/socialite@4.14.1
+- pkg:composer/overtrue/socialite@4.14.2
 - pkg:composer/overtrue/socialite@4.2.0
 - pkg:composer/overtrue/socialite@4.2.1
 - pkg:composer/overtrue/socialite@4.3.0

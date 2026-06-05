@@ -20,3 +20,4 @@
 - pkg:composer/overtrue/qcloud-cos-client@2.1.8
 - pkg:composer/overtrue/qcloud-cos-client@2.1.9
 - pkg:composer/overtrue/qcloud-cos-client@2.2.0
+- pkg:composer/overtrue/qcloud-cos-client@2.2.1
