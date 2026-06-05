@@ -101,3 +101,5 @@
 - pkg:composer/myparcelcom/json-api@v3.3.4
 - pkg:composer/myparcelcom/json-api@v4.0.0
 - pkg:composer/myparcelcom/json-api@v4.0.1
+- pkg:composer/myparcelcom/json-api@v4.0.2
+- pkg:composer/myparcelcom/json-api@v4.0.3
