@@ -28,6 +28,7 @@
 - pkg:composer/numero2/contao-opengraph3@v4.2.9
 - pkg:composer/numero2/contao-opengraph3@v4.3.0
 - pkg:composer/numero2/contao-opengraph3@v4.3.1
+- pkg:composer/numero2/contao-opengraph3@v4.3.10
 - pkg:composer/numero2/contao-opengraph3@v4.3.2
 - pkg:composer/numero2/contao-opengraph3@v4.3.3
 - pkg:composer/numero2/contao-opengraph3@v4.3.4
