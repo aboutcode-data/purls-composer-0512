@@ -67,3 +67,5 @@
 - pkg:composer/mongodb/mongodb-extension@2.2.1
 - pkg:composer/mongodb/mongodb-extension@2.3.0
 - pkg:composer/mongodb/mongodb-extension@2.3.1
+- pkg:composer/mongodb/mongodb-extension@2.3.2
+- pkg:composer/mongodb/mongodb-extension@2.3.3
