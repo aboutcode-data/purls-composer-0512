@@ -2,3 +2,4 @@
 - pkg:composer/kjdev/zstd@0.15.0
 - pkg:composer/kjdev/zstd@0.15.1
 - pkg:composer/kjdev/zstd@0.15.2
+- pkg:composer/kjdev/zstd@0.16.0
