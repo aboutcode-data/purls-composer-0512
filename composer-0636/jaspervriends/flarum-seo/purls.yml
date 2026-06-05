@@ -13,6 +13,7 @@
 - pkg:composer/jaspervriends/flarum-seo@1.4
 - pkg:composer/jaspervriends/flarum-seo@1.5.0
 - pkg:composer/jaspervriends/flarum-seo@1.5.1
+- pkg:composer/jaspervriends/flarum-seo@3.0.0
 - pkg:composer/jaspervriends/flarum-seo@v1.6.0
 - pkg:composer/jaspervriends/flarum-seo@v1.6.1
 - pkg:composer/jaspervriends/flarum-seo@v1.6.2
