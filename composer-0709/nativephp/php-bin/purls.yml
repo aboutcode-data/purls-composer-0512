@@ -17,3 +17,4 @@
 - pkg:composer/nativephp/php-bin@1.0.3
 - pkg:composer/nativephp/php-bin@1.1.0
 - pkg:composer/nativephp/php-bin@1.1.1
+- pkg:composer/nativephp/php-bin@1.2.0
