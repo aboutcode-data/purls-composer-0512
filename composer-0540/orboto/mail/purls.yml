@@ -1,2 +1,10 @@
 - pkg:composer/orboto/mail@0.4.0
 - pkg:composer/orboto/mail@0.5.0
+- pkg:composer/orboto/mail@0.5.1
+- pkg:composer/orboto/mail@0.6.0
+- pkg:composer/orboto/mail@0.6.1
+- pkg:composer/orboto/mail@0.7.0
+- pkg:composer/orboto/mail@0.7.1
+- pkg:composer/orboto/mail@0.7.2
+- pkg:composer/orboto/mail@0.7.3
+- pkg:composer/orboto/mail@0.7.4
