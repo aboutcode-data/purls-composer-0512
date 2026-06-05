@@ -27,3 +27,4 @@
 - pkg:composer/octopyid/laravel-impersonate@v4.1.0
 - pkg:composer/octopyid/laravel-impersonate@v4.1.1
 - pkg:composer/octopyid/laravel-impersonate@v4.2.0
+- pkg:composer/octopyid/laravel-impersonate@v4.3.0
