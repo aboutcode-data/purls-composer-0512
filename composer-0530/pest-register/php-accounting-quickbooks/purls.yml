@@ -23,6 +23,7 @@
 - pkg:composer/pest-register/php-accounting-quickbooks@2024.1
 - pkg:composer/pest-register/php-accounting-quickbooks@2024.1.1
 - pkg:composer/pest-register/php-accounting-quickbooks@2025.1
+- pkg:composer/pest-register/php-accounting-quickbooks@2026.0
 - pkg:composer/pest-register/php-accounting-quickbooks@3.0
 - pkg:composer/pest-register/php-accounting-quickbooks@3.1
 - pkg:composer/pest-register/php-accounting-quickbooks@3.2
