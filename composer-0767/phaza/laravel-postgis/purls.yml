@@ -47,4 +47,3 @@
 - pkg:composer/phaza/laravel-postgis@5.4.2
 - pkg:composer/phaza/laravel-postgis@6.0
 - pkg:composer/phaza/laravel-postgis@6.1
-- pkg:composer/phaza/laravel-postgis@7.0
