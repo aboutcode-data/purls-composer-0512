@@ -12,3 +12,5 @@
 - pkg:composer/pixel/packer@v1.1.1
 - pkg:composer/pixel/packer@v1.2.0
 - pkg:composer/pixel/packer@v1.2.1
+- pkg:composer/pixel/packer@v1.3.0
+- pkg:composer/pixel/packer@v1.4.0
