@@ -73,3 +73,4 @@
 - pkg:composer/php-extended/php-datetime-parser-object@9.6.5
 - pkg:composer/php-extended/php-datetime-parser-object@9.6.6
 - pkg:composer/php-extended/php-datetime-parser-object@9.6.7
+- pkg:composer/php-extended/php-datetime-parser-object@9.6.8
