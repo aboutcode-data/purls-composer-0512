@@ -1,3 +1,4 @@
+- pkg:composer/pogo/laravel-queue@0.0.10
 - pkg:composer/pogo/laravel-queue@v0.0.5
 - pkg:composer/pogo/laravel-queue@v0.0.6
 - pkg:composer/pogo/laravel-queue@v0.0.7
