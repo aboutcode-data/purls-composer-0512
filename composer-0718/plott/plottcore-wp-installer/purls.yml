@@ -43,3 +43,4 @@
 - pkg:composer/plott/plottcore-wp-installer@1.7.0
 - pkg:composer/plott/plottcore-wp-installer@1.8.0
 - pkg:composer/plott/plottcore-wp-installer@1.9.0
+- pkg:composer/plott/plottcore-wp-installer@3.0.0
