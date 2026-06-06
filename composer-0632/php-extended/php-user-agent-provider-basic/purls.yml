@@ -113,7 +113,11 @@
 - pkg:composer/php-extended/php-user-agent-provider-basic@9.0.15
 - pkg:composer/php-extended/php-user-agent-provider-basic@9.0.16
 - pkg:composer/php-extended/php-user-agent-provider-basic@9.0.17
+- pkg:composer/php-extended/php-user-agent-provider-basic@9.0.18
+- pkg:composer/php-extended/php-user-agent-provider-basic@9.0.19
 - pkg:composer/php-extended/php-user-agent-provider-basic@9.0.2
+- pkg:composer/php-extended/php-user-agent-provider-basic@9.0.20
+- pkg:composer/php-extended/php-user-agent-provider-basic@9.0.21
 - pkg:composer/php-extended/php-user-agent-provider-basic@9.0.3
 - pkg:composer/php-extended/php-user-agent-provider-basic@9.0.4
 - pkg:composer/php-extended/php-user-agent-provider-basic@9.0.5
