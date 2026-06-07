@@ -24,3 +24,6 @@
 - pkg:composer/saucebase/billing@v1.6.1
 - pkg:composer/saucebase/billing@v1.6.2
 - pkg:composer/saucebase/billing@v1.7.0
+- pkg:composer/saucebase/billing@v2.0.0
+- pkg:composer/saucebase/billing@v2.1.0
+- pkg:composer/saucebase/billing@v2.1.1
