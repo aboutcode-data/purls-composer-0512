@@ -22,3 +22,4 @@
 - pkg:composer/sheavescapital/laravel-ringcentral@v3.0
 - pkg:composer/sheavescapital/laravel-ringcentral@v3.1
 - pkg:composer/sheavescapital/laravel-ringcentral@v3.2
+- pkg:composer/sheavescapital/laravel-ringcentral@v4.0
