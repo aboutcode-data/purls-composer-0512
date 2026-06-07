@@ -21,3 +21,4 @@
 - pkg:composer/shipperhq/library-graphql@20.5.2
 - pkg:composer/shipperhq/library-graphql@20.5.3
 - pkg:composer/shipperhq/library-graphql@20.5.4
+- pkg:composer/shipperhq/library-graphql@20.5.5
