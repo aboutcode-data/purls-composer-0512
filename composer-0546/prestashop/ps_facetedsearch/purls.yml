@@ -43,3 +43,4 @@
 - pkg:composer/prestashop/ps_facetedsearch@v4.0.1
 - pkg:composer/prestashop/ps_facetedsearch@v4.0.2
 - pkg:composer/prestashop/ps_facetedsearch@v4.0.3
+- pkg:composer/prestashop/ps_facetedsearch@v4.0.4
