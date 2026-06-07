@@ -30,6 +30,7 @@
 - pkg:composer/select2/select2@4.0.7-rc.0
 - pkg:composer/select2/select2@4.0.8
 - pkg:composer/select2/select2@4.0.9
+- pkg:composer/select2/select2@4.1.0
 - pkg:composer/select2/select2@4.1.0-beta.0
 - pkg:composer/select2/select2@4.1.0-beta.1
 - pkg:composer/select2/select2@4.1.0-rc.0
