@@ -208,5 +208,6 @@
 - pkg:composer/recurly/recurly-client@4.70.0
 - pkg:composer/recurly/recurly-client@4.71.0
 - pkg:composer/recurly/recurly-client@4.72.0
+- pkg:composer/recurly/recurly-client@4.73.0
 - pkg:composer/recurly/recurly-client@4.8.0
 - pkg:composer/recurly/recurly-client@4.9.0
