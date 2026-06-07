@@ -24,3 +24,5 @@
 - pkg:composer/rancoud/environment@2.2.1
 - pkg:composer/rancoud/environment@3.0.0
 - pkg:composer/rancoud/environment@3.0.1
+- pkg:composer/rancoud/environment@3.0.2
+- pkg:composer/rancoud/environment@3.0.3
