@@ -20,7 +20,6 @@
 - pkg:composer/payplug/sylius-payplug-plugin@1.4.0-rc.2
 - pkg:composer/payplug/sylius-payplug-plugin@1.4.0-rc.3
 - pkg:composer/payplug/sylius-payplug-plugin@1.4.0-rc.4
-- pkg:composer/payplug/sylius-payplug-plugin@1.4.0-rc.5
 - pkg:composer/payplug/sylius-payplug-plugin@1.4.1-rc.0
 - pkg:composer/payplug/sylius-payplug-plugin@1.5.0
 - pkg:composer/payplug/sylius-payplug-plugin@1.5.0-rc.0
