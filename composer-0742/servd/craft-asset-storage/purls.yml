@@ -255,3 +255,5 @@
 - pkg:composer/servd/craft-asset-storage@4.2.4
 - pkg:composer/servd/craft-asset-storage@4.2.4.1
 - pkg:composer/servd/craft-asset-storage@4.2.4.2
+- pkg:composer/servd/craft-asset-storage@4.2.5
+- pkg:composer/servd/craft-asset-storage@4.2.6
