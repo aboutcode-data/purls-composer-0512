@@ -94,6 +94,7 @@
 - pkg:composer/phpunit/php-code-coverage@14.1.9
 - pkg:composer/phpunit/php-code-coverage@14.2.0
 - pkg:composer/phpunit/php-code-coverage@14.2.1
+- pkg:composer/phpunit/php-code-coverage@14.2.2
 - pkg:composer/phpunit/php-code-coverage@2.0.0
 - pkg:composer/phpunit/php-code-coverage@2.0.1
 - pkg:composer/phpunit/php-code-coverage@2.0.10
