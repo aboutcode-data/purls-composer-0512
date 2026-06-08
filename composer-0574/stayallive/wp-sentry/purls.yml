@@ -130,6 +130,8 @@
 - pkg:composer/stayallive/wp-sentry@v8.0.0
 - pkg:composer/stayallive/wp-sentry@v8.1.0
 - pkg:composer/stayallive/wp-sentry@v8.10.0
+- pkg:composer/stayallive/wp-sentry@v8.11.0
+- pkg:composer/stayallive/wp-sentry@v8.11.1
 - pkg:composer/stayallive/wp-sentry@v8.2.0
 - pkg:composer/stayallive/wp-sentry@v8.3.0
 - pkg:composer/stayallive/wp-sentry@v8.3.1
