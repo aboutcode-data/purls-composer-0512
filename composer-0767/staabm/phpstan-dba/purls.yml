@@ -108,3 +108,4 @@
 - pkg:composer/staabm/phpstan-dba@0.4
 - pkg:composer/staabm/phpstan-dba@0.4.1
 - pkg:composer/staabm/phpstan-dba@0.4.2
+- pkg:composer/staabm/phpstan-dba@0.4.3
