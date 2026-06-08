@@ -74,3 +74,6 @@
 - pkg:composer/simplystatic/simply-static@3.6.9.2
 - pkg:composer/simplystatic/simply-static@3.6.9.3
 - pkg:composer/simplystatic/simply-static@3.7.0
+- pkg:composer/simplystatic/simply-static@3.7.1
+- pkg:composer/simplystatic/simply-static@3.7.2
+- pkg:composer/simplystatic/simply-static@3.7.3
