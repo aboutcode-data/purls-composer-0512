@@ -37,3 +37,4 @@
 - pkg:composer/spatie/dns@2.6.0
 - pkg:composer/spatie/dns@2.7.0
 - pkg:composer/spatie/dns@2.7.1
+- pkg:composer/spatie/dns@2.8.0

@@ -169,3 +169,4 @@
 - pkg:composer/spatie/browsershot@5.2.2
 - pkg:composer/spatie/browsershot@5.2.3
 - pkg:composer/spatie/browsershot@5.3.0
+- pkg:composer/spatie/browsershot@5.4.0
