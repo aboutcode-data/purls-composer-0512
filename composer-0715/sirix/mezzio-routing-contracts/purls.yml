@@ -1,1 +1,2 @@
 - pkg:composer/sirix/mezzio-routing-contracts@0.1.0
+- pkg:composer/sirix/mezzio-routing-contracts@1.0.0

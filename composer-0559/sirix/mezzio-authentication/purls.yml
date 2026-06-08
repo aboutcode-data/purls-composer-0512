@@ -1,1 +1,2 @@
 - pkg:composer/sirix/mezzio-authentication@0.1.0
+- pkg:composer/sirix/mezzio-authentication@1.0.0
