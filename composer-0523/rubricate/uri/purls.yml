@@ -18,3 +18,5 @@
 - pkg:composer/rubricate/uri@v2.2.0
 - pkg:composer/rubricate/uri@v2.2.1
 - pkg:composer/rubricate/uri@v3.0.0
+- pkg:composer/rubricate/uri@v4.0.0
+- pkg:composer/rubricate/uri@v4.0.1
