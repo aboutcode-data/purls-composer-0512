@@ -217,3 +217,5 @@
 - pkg:composer/spatie/laravel-permission@7.3.0
 - pkg:composer/spatie/laravel-permission@7.4.0
 - pkg:composer/spatie/laravel-permission@7.4.1
+- pkg:composer/spatie/laravel-permission@7.4.2
+- pkg:composer/spatie/laravel-permission@8.0.0

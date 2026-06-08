@@ -72,3 +72,4 @@
 - pkg:composer/spatie/laravel-package-tools@1.92.6
 - pkg:composer/spatie/laravel-package-tools@1.92.7
 - pkg:composer/spatie/laravel-package-tools@1.93.0
+- pkg:composer/spatie/laravel-package-tools@1.93.1
