@@ -19,3 +19,6 @@
 - pkg:composer/uspdev/forms@0.6.6
 - pkg:composer/uspdev/forms@0.7.0
 - pkg:composer/uspdev/forms@0.8.0
+- pkg:composer/uspdev/forms@0.8.1
+- pkg:composer/uspdev/forms@0.8.2
+- pkg:composer/uspdev/forms@0.8.3
