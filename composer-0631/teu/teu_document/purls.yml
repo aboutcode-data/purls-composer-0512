@@ -45,3 +45,5 @@
 - pkg:composer/teu/teu_document@5.0.0
 - pkg:composer/teu/teu_document@5.0.1
 - pkg:composer/teu/teu_document@5.0.2
+- pkg:composer/teu/teu_document@5.1.0
+- pkg:composer/teu/teu_document@5.1.1
