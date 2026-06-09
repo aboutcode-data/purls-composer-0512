@@ -15,6 +15,7 @@
 - pkg:composer/teknoo/east-website-symfony@11.1.0
 - pkg:composer/teknoo/east-website-symfony@11.1.1
 - pkg:composer/teknoo/east-website-symfony@11.1.2
+- pkg:composer/teknoo/east-website-symfony@11.2.0
 - pkg:composer/teknoo/east-website-symfony@3.1.0
 - pkg:composer/teknoo/east-website-symfony@3.1.1
 - pkg:composer/teknoo/east-website-symfony@3.1.2
