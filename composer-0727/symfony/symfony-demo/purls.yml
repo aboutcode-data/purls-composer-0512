@@ -60,3 +60,4 @@
 - pkg:composer/symfony/symfony-demo@v2.9.0
 - pkg:composer/symfony/symfony-demo@v3.0.0
 - pkg:composer/symfony/symfony-demo@v3.0.1
+- pkg:composer/symfony/symfony-demo@v3.0.2
