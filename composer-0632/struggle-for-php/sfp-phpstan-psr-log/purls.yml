@@ -30,3 +30,4 @@
 - pkg:composer/struggle-for-php/sfp-phpstan-psr-log@0.9.0
 - pkg:composer/struggle-for-php/sfp-phpstan-psr-log@1.0.0
 - pkg:composer/struggle-for-php/sfp-phpstan-psr-log@1.0.1
+- pkg:composer/struggle-for-php/sfp-phpstan-psr-log@1.1.0
