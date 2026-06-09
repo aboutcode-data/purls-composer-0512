@@ -31,6 +31,9 @@
 - pkg:composer/svc/log-bundle@10.2.0
 - pkg:composer/svc/log-bundle@10.3.0
 - pkg:composer/svc/log-bundle@10.4.0
+- pkg:composer/svc/log-bundle@10.5.0
+- pkg:composer/svc/log-bundle@10.6.0
+- pkg:composer/svc/log-bundle@10.6.1
 - pkg:composer/svc/log-bundle@2.0.0
 - pkg:composer/svc/log-bundle@2.0.1
 - pkg:composer/svc/log-bundle@2.1.0
