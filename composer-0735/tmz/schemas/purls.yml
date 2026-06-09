@@ -57,6 +57,7 @@
 - pkg:composer/tmz/schemas@v2.0.2
 - pkg:composer/tmz/schemas@v3.0.0
 - pkg:composer/tmz/schemas@v3.0.1
+- pkg:composer/tmz/schemas@v3.0.10
 - pkg:composer/tmz/schemas@v3.0.2
 - pkg:composer/tmz/schemas@v3.0.3
 - pkg:composer/tmz/schemas@v3.0.4
