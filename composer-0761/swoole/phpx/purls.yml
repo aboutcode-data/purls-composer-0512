@@ -8,3 +8,7 @@
 - pkg:composer/swoole/phpx@v2.1.4
 - pkg:composer/swoole/phpx@v2.1.5
 - pkg:composer/swoole/phpx@v2.1.6
+- pkg:composer/swoole/phpx@v2.2.0
+- pkg:composer/swoole/phpx@v2.3.0
+- pkg:composer/swoole/phpx@v2.3.1
+- pkg:composer/swoole/phpx@v2.3.2
