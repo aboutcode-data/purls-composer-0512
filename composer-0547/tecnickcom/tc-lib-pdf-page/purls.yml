@@ -124,3 +124,6 @@
 - pkg:composer/tecnickcom/tc-lib-pdf-page@4.3.8
 - pkg:composer/tecnickcom/tc-lib-pdf-page@4.3.9
 - pkg:composer/tecnickcom/tc-lib-pdf-page@4.4.0
+- pkg:composer/tecnickcom/tc-lib-pdf-page@4.5.0
+- pkg:composer/tecnickcom/tc-lib-pdf-page@4.6.0
+- pkg:composer/tecnickcom/tc-lib-pdf-page@4.7.0
