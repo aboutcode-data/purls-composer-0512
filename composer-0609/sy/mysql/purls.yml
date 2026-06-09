@@ -23,3 +23,4 @@
 - pkg:composer/sy/mysql@3.7.3
 - pkg:composer/sy/mysql@4.0.0
 - pkg:composer/sy/mysql@4.0.1
+- pkg:composer/sy/mysql@4.0.2
