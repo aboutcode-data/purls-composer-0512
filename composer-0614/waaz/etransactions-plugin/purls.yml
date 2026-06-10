@@ -3,3 +3,6 @@
 - pkg:composer/waaz/etransactions-plugin@0.3
 - pkg:composer/waaz/etransactions-plugin@0.4
 - pkg:composer/waaz/etransactions-plugin@0.5
+- pkg:composer/waaz/etransactions-plugin@0.6
+- pkg:composer/waaz/etransactions-plugin@0.7
+- pkg:composer/waaz/etransactions-plugin@0.8
