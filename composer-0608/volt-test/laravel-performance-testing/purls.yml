@@ -7,3 +7,5 @@
 - pkg:composer/volt-test/laravel-performance-testing@v1.0.0
 - pkg:composer/volt-test/laravel-performance-testing@v1.1.0
 - pkg:composer/volt-test/laravel-performance-testing@v1.2.0
+- pkg:composer/volt-test/laravel-performance-testing@v1.3.0
+- pkg:composer/volt-test/laravel-performance-testing@v1.3.1
