@@ -30,6 +30,7 @@
 - pkg:composer/spameri/elastic-query@v1.0.0-alpha.8
 - pkg:composer/spameri/elastic-query@v1.0.0-alpha.9
 - pkg:composer/spameri/elastic-query@v1.0.1
+- pkg:composer/spameri/elastic-query@v2.0.0
 - pkg:composer/spameri/elastic-query@v2.0.0-alpha
 - pkg:composer/spameri/elastic-query@v2.0.0-alpha.2
 - pkg:composer/spameri/elastic-query@v2.0.0-alpha.3
