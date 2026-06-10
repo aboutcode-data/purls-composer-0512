@@ -8,6 +8,7 @@
 - pkg:composer/veewee/reflecta@0.16.0
 - pkg:composer/veewee/reflecta@0.17.0
 - pkg:composer/veewee/reflecta@0.18.0
+- pkg:composer/veewee/reflecta@0.19.0
 - pkg:composer/veewee/reflecta@0.2.0
 - pkg:composer/veewee/reflecta@0.3.0
 - pkg:composer/veewee/reflecta@0.4.0
@@ -17,3 +18,5 @@
 - pkg:composer/veewee/reflecta@0.8.0
 - pkg:composer/veewee/reflecta@0.8.1
 - pkg:composer/veewee/reflecta@0.9.0
+- pkg:composer/veewee/reflecta@1.0.0
+- pkg:composer/veewee/reflecta@1.0.1
