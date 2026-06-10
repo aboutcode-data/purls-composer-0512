@@ -1,1 +1,3 @@
 - pkg:composer/wikimedia/zest-jq@1.0.0
+- pkg:composer/wikimedia/zest-jq@1.1.0
+- pkg:composer/wikimedia/zest-jq@1.1.1
