@@ -33,3 +33,4 @@
 - pkg:composer/vipps/module-login@2.5.2
 - pkg:composer/vipps/module-login@2.6.0
 - pkg:composer/vipps/module-login@2.6.2
+- pkg:composer/vipps/module-login@2.6.3
