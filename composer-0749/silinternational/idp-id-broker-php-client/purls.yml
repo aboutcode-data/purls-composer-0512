@@ -27,6 +27,7 @@
 - pkg:composer/silinternational/idp-id-broker-php-client@4.1.0
 - pkg:composer/silinternational/idp-id-broker-php-client@4.10.0
 - pkg:composer/silinternational/idp-id-broker-php-client@4.11.0
+- pkg:composer/silinternational/idp-id-broker-php-client@4.12.0
 - pkg:composer/silinternational/idp-id-broker-php-client@4.2.0
 - pkg:composer/silinternational/idp-id-broker-php-client@4.3.0
 - pkg:composer/silinternational/idp-id-broker-php-client@4.3.1
