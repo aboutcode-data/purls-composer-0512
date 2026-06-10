@@ -10,3 +10,4 @@
 - pkg:composer/wotz/filament-translatable-strings@v1.3.1
 - pkg:composer/wotz/filament-translatable-strings@v2.0.0
 - pkg:composer/wotz/filament-translatable-strings@v2.1.0
+- pkg:composer/wotz/filament-translatable-strings@v2.1.1
