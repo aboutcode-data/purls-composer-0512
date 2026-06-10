@@ -1,1 +1,9 @@
-- pkg:composer/wpboilerplate/wpb-access-control@v4.0.0
+- pkg:composer/wpboilerplate/wpb-access-control@v1.0.0
+- pkg:composer/wpboilerplate/wpb-access-control@v1.0.1
+- pkg:composer/wpboilerplate/wpb-access-control@v1.0.2
+- pkg:composer/wpboilerplate/wpb-access-control@v1.1.0
+- pkg:composer/wpboilerplate/wpb-access-control@v1.1.1
+- pkg:composer/wpboilerplate/wpb-access-control@v1.2.0
+- pkg:composer/wpboilerplate/wpb-access-control@v1.2.1
+- pkg:composer/wpboilerplate/wpb-access-control@v1.2.2
+- pkg:composer/wpboilerplate/wpb-access-control@v1.2.3
