@@ -32,6 +32,7 @@
 - pkg:composer/weareplanet/shopware-6@6.2.0
 - pkg:composer/weareplanet/shopware-6@6.2.1
 - pkg:composer/weareplanet/shopware-6@6.2.2
+- pkg:composer/weareplanet/shopware-6@6.2.3
 - pkg:composer/weareplanet/shopware-6@7.0.0
 - pkg:composer/weareplanet/shopware-6@7.0.1
 - pkg:composer/weareplanet/shopware-6@7.1.0
@@ -46,3 +47,4 @@
 - pkg:composer/weareplanet/shopware-6@7.3.1
 - pkg:composer/weareplanet/shopware-6@7.3.2
 - pkg:composer/weareplanet/shopware-6@7.3.3
+- pkg:composer/weareplanet/shopware-6@7.3.4
