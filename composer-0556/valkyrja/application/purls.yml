@@ -18,3 +18,5 @@
 - pkg:composer/valkyrja/application@v25.34.3
 - pkg:composer/valkyrja/application@v25.34.4
 - pkg:composer/valkyrja/application@v26.0.0
+- pkg:composer/valkyrja/application@v26.1.0
+- pkg:composer/valkyrja/application@v26.2.0
