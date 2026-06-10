@@ -5,7 +5,7 @@
 - pkg:composer/vivait/delayed-event-bundle@0.10.3
 - pkg:composer/vivait/delayed-event-bundle@0.10.4
 - pkg:composer/vivait/delayed-event-bundle@0.10.5
-- pkg:composer/vivait/delayed-event-bundle@0.11
+- pkg:composer/vivait/delayed-event-bundle@0.11.0
 - pkg:composer/vivait/delayed-event-bundle@0.11.1
 - pkg:composer/vivait/delayed-event-bundle@0.11.2
 - pkg:composer/vivait/delayed-event-bundle@0.12.0
