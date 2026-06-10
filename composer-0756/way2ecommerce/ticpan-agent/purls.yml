@@ -1,4 +1,6 @@
 - pkg:composer/way2ecommerce/ticpan-agent@1.0.0
+- pkg:composer/way2ecommerce/ticpan-agent@1.0.10
+- pkg:composer/way2ecommerce/ticpan-agent@1.0.11
 - pkg:composer/way2ecommerce/ticpan-agent@1.0.2
 - pkg:composer/way2ecommerce/ticpan-agent@1.0.3
 - pkg:composer/way2ecommerce/ticpan-agent@1.0.4
@@ -7,3 +9,9 @@
 - pkg:composer/way2ecommerce/ticpan-agent@1.0.7
 - pkg:composer/way2ecommerce/ticpan-agent@1.0.8
 - pkg:composer/way2ecommerce/ticpan-agent@1.0.9
+- pkg:composer/way2ecommerce/ticpan-agent@1.2.0
+- pkg:composer/way2ecommerce/ticpan-agent@1.2.1
+- pkg:composer/way2ecommerce/ticpan-agent@1.2.2
+- pkg:composer/way2ecommerce/ticpan-agent@1.2.3
+- pkg:composer/way2ecommerce/ticpan-agent@1.3.0
+- pkg:composer/way2ecommerce/ticpan-agent@1.3.1
