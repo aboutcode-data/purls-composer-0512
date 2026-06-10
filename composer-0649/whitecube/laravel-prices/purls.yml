@@ -13,3 +13,4 @@
 - pkg:composer/whitecube/laravel-prices@v1.4.0
 - pkg:composer/whitecube/laravel-prices@v1.5.0
 - pkg:composer/whitecube/laravel-prices@v1.6.0
+- pkg:composer/whitecube/laravel-prices@v2.0.0
