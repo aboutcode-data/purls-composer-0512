@@ -49,3 +49,4 @@
 - pkg:composer/wp-cli/scaffold-command@v2.5.4
 - pkg:composer/wp-cli/scaffold-command@v2.5.5
 - pkg:composer/wp-cli/scaffold-command@v2.5.6
+- pkg:composer/wp-cli/scaffold-command@v2.5.7
