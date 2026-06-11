@@ -5,3 +5,4 @@
 - pkg:composer/alexusmai/laravel-centrifugo@1.4
 - pkg:composer/alexusmai/laravel-centrifugo@1.5
 - pkg:composer/alexusmai/laravel-centrifugo@1.6
+- pkg:composer/alexusmai/laravel-centrifugo@1.7
