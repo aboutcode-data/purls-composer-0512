@@ -76,3 +76,6 @@
 - pkg:composer/adminui/adminui-installer@v3.7.0
 - pkg:composer/adminui/adminui-installer@v3.7.1
 - pkg:composer/adminui/adminui-installer@v3.8.0
+- pkg:composer/adminui/adminui-installer@v3.8.1
+- pkg:composer/adminui/adminui-installer@v3.9.0
+- pkg:composer/adminui/adminui-installer@v3.9.1
