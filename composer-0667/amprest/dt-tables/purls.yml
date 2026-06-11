@@ -23,3 +23,6 @@
 - pkg:composer/amprest/dt-tables@v1.08.05
 - pkg:composer/amprest/dt-tables@v1.08.06
 - pkg:composer/amprest/dt-tables@v1.09.00
+- pkg:composer/amprest/dt-tables@v2.00
+- pkg:composer/amprest/dt-tables@v2.01
+- pkg:composer/amprest/dt-tables@v2.02
