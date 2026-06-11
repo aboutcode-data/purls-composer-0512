@@ -28,3 +28,6 @@
 - pkg:composer/xiaosongshu/rtmp_server@v2.1.6
 - pkg:composer/xiaosongshu/rtmp_server@v2.1.7
 - pkg:composer/xiaosongshu/rtmp_server@v2.1.8
+- pkg:composer/xiaosongshu/rtmp_server@v2.1.9
+- pkg:composer/xiaosongshu/rtmp_server@v2.2.0
+- pkg:composer/xiaosongshu/rtmp_server@v2.2.1
