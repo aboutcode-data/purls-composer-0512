@@ -58,3 +58,5 @@
 - pkg:composer/ameos/ameos_tarteaucitron@3.7.0
 - pkg:composer/ameos/ameos_tarteaucitron@3.8.0
 - pkg:composer/ameos/ameos_tarteaucitron@3.9.0
+- pkg:composer/ameos/ameos_tarteaucitron@4.0.0
+- pkg:composer/ameos/ameos_tarteaucitron@4.0.1
