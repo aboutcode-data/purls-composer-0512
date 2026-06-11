@@ -6,3 +6,6 @@
 - pkg:composer/appsignal/appsignal-php@v0.3.0
 - pkg:composer/appsignal/appsignal-php@v0.3.1
 - pkg:composer/appsignal/appsignal-php@v0.4.0
+- pkg:composer/appsignal/appsignal-php@v0.5.0
+- pkg:composer/appsignal/appsignal-php@v0.5.1
+- pkg:composer/appsignal/appsignal-php@v0.5.2
