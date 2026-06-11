@@ -32,6 +32,7 @@
 - pkg:composer/alibabacloud/sls-20201230@4.0.0
 - pkg:composer/alibabacloud/sls-20201230@4.0.1
 - pkg:composer/alibabacloud/sls-20201230@4.1.0
+- pkg:composer/alibabacloud/sls-20201230@4.10.0
 - pkg:composer/alibabacloud/sls-20201230@4.2.0
 - pkg:composer/alibabacloud/sls-20201230@4.3.0
 - pkg:composer/alibabacloud/sls-20201230@4.3.1
