@@ -3,3 +3,4 @@
 - pkg:composer/anycable/laravel-broadcaster@v0.1.2
 - pkg:composer/anycable/laravel-broadcaster@v0.2.0
 - pkg:composer/anycable/laravel-broadcaster@v0.3.0
+- pkg:composer/anycable/laravel-broadcaster@v0.4.0
