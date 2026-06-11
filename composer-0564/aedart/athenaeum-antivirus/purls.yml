@@ -4,6 +4,10 @@
 - pkg:composer/aedart/athenaeum-antivirus@10.3.0
 - pkg:composer/aedart/athenaeum-antivirus@10.4.0
 - pkg:composer/aedart/athenaeum-antivirus@10.5.0
+- pkg:composer/aedart/athenaeum-antivirus@10.6.0
+- pkg:composer/aedart/athenaeum-antivirus@10.7.0
+- pkg:composer/aedart/athenaeum-antivirus@10.8.0
+- pkg:composer/aedart/athenaeum-antivirus@10.9.0
 - pkg:composer/aedart/athenaeum-antivirus@7.10.0
 - pkg:composer/aedart/athenaeum-antivirus@7.10.1
 - pkg:composer/aedart/athenaeum-antivirus@7.11.0
