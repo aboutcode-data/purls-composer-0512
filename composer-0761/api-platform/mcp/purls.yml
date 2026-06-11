@@ -4,7 +4,12 @@
 - pkg:composer/api-platform/mcp@v4.3.0-beta.1
 - pkg:composer/api-platform/mcp@v4.3.0-beta.2
 - pkg:composer/api-platform/mcp@v4.3.1
+- pkg:composer/api-platform/mcp@v4.3.10
 - pkg:composer/api-platform/mcp@v4.3.2
 - pkg:composer/api-platform/mcp@v4.3.3
 - pkg:composer/api-platform/mcp@v4.3.4
 - pkg:composer/api-platform/mcp@v4.3.5
+- pkg:composer/api-platform/mcp@v4.3.6
+- pkg:composer/api-platform/mcp@v4.3.7
+- pkg:composer/api-platform/mcp@v4.3.8
+- pkg:composer/api-platform/mcp@v4.3.9
