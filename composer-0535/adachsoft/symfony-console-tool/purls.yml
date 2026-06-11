@@ -2,3 +2,4 @@
 - pkg:composer/adachsoft/symfony-console-tool@0.1.1
 - pkg:composer/adachsoft/symfony-console-tool@0.2.0
 - pkg:composer/adachsoft/symfony-console-tool@v0.3.0
+- pkg:composer/adachsoft/symfony-console-tool@v0.3.1
