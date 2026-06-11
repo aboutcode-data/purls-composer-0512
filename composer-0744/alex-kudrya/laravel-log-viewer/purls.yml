@@ -34,3 +34,6 @@
 - pkg:composer/alex-kudrya/laravel-log-viewer@v1.5.2
 - pkg:composer/alex-kudrya/laravel-log-viewer@v1.5.3
 - pkg:composer/alex-kudrya/laravel-log-viewer@v1.5.4
+- pkg:composer/alex-kudrya/laravel-log-viewer@v1.6.0
+- pkg:composer/alex-kudrya/laravel-log-viewer@v1.7.0
+- pkg:composer/alex-kudrya/laravel-log-viewer@v1.8.0
