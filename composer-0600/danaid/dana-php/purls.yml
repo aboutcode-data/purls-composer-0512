@@ -40,9 +40,12 @@
 - pkg:composer/danaid/dana-php@v2.0.0
 - pkg:composer/danaid/dana-php@v2.1.0
 - pkg:composer/danaid/dana-php@v2.1.1
+- pkg:composer/danaid/dana-php@v2.1.10
 - pkg:composer/danaid/dana-php@v2.1.2
 - pkg:composer/danaid/dana-php@v2.1.3
 - pkg:composer/danaid/dana-php@v2.1.4
 - pkg:composer/danaid/dana-php@v2.1.5
 - pkg:composer/danaid/dana-php@v2.1.6
 - pkg:composer/danaid/dana-php@v2.1.7
+- pkg:composer/danaid/dana-php@v2.1.8
+- pkg:composer/danaid/dana-php@v2.1.9
