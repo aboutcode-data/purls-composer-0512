@@ -21,3 +21,4 @@
 - pkg:composer/automattic/jetpack-wp-js-data-sync@v0.6.6
 - pkg:composer/automattic/jetpack-wp-js-data-sync@v0.6.7
 - pkg:composer/automattic/jetpack-wp-js-data-sync@v0.6.8
+- pkg:composer/automattic/jetpack-wp-js-data-sync@v0.6.9

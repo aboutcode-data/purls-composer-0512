@@ -208,7 +208,15 @@
 - pkg:composer/automattic/jetpack-shared-extension-utils@v1.5.12
 - pkg:composer/automattic/jetpack-shared-extension-utils@v1.5.13
 - pkg:composer/automattic/jetpack-shared-extension-utils@v1.5.14
+- pkg:composer/automattic/jetpack-shared-extension-utils@v1.5.15
+- pkg:composer/automattic/jetpack-shared-extension-utils@v1.5.16
+- pkg:composer/automattic/jetpack-shared-extension-utils@v1.5.17
+- pkg:composer/automattic/jetpack-shared-extension-utils@v1.5.18
+- pkg:composer/automattic/jetpack-shared-extension-utils@v1.5.19
 - pkg:composer/automattic/jetpack-shared-extension-utils@v1.5.2
+- pkg:composer/automattic/jetpack-shared-extension-utils@v1.5.20
+- pkg:composer/automattic/jetpack-shared-extension-utils@v1.5.21
+- pkg:composer/automattic/jetpack-shared-extension-utils@v1.5.22
 - pkg:composer/automattic/jetpack-shared-extension-utils@v1.5.3
 - pkg:composer/automattic/jetpack-shared-extension-utils@v1.5.4
 - pkg:composer/automattic/jetpack-shared-extension-utils@v1.5.5
