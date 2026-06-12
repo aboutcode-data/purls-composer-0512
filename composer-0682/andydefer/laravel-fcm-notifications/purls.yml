@@ -10,3 +10,4 @@
 - pkg:composer/andydefer/laravel-fcm-notifications@v1.0.4
 - pkg:composer/andydefer/laravel-fcm-notifications@v1.0.5
 - pkg:composer/andydefer/laravel-fcm-notifications@v1.1.0
+- pkg:composer/andydefer/laravel-fcm-notifications@v1.1.1
