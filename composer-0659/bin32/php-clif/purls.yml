@@ -1,0 +1,4 @@
+- pkg:composer/bin32/php-clif@v1.2.5
+- pkg:composer/bin32/php-clif@v1.2.6
+- pkg:composer/bin32/php-clif@v1.3.0
+- pkg:composer/bin32/php-clif@v1.3.2
