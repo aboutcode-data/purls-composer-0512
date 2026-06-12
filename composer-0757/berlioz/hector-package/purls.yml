@@ -4,3 +4,5 @@
 - pkg:composer/berlioz/hector-package@v2.0.0-beta3
 - pkg:composer/berlioz/hector-package@v2.1.0
 - pkg:composer/berlioz/hector-package@v3.0.0
+- pkg:composer/berlioz/hector-package@v3.1.0
+- pkg:composer/berlioz/hector-package@v3.1.1

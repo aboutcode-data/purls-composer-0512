@@ -23,3 +23,5 @@
 - pkg:composer/berlioz/http-core@v2.4.0
 - pkg:composer/berlioz/http-core@v2.5.0
 - pkg:composer/berlioz/http-core@v3.0.0
+- pkg:composer/berlioz/http-core@v3.1.0
+- pkg:composer/berlioz/http-core@v3.1.1
