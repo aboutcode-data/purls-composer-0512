@@ -27,3 +27,4 @@
 - pkg:composer/atlas-php/atlas@v3.3.2
 - pkg:composer/atlas-php/atlas@v3.4.0
 - pkg:composer/atlas-php/atlas@v3.5.0
+- pkg:composer/atlas-php/atlas@v3.6.0
