@@ -29,4 +29,5 @@
 - pkg:composer/arquivei/php-kafka-consumer@2.6.1
 - pkg:composer/arquivei/php-kafka-consumer@2.6.2
 - pkg:composer/arquivei/php-kafka-consumer@2.6.3
+- pkg:composer/arquivei/php-kafka-consumer@2.6.4
 - pkg:composer/arquivei/php-kafka-consumer@v1.4.1
