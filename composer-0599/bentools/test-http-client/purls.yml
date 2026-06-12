@@ -1,1 +1,2 @@
 - pkg:composer/bentools/test-http-client@1.0.0
+- pkg:composer/bentools/test-http-client@1.1.0
