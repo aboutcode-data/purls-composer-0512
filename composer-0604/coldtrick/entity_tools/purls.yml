@@ -1,6 +1,7 @@
 - pkg:composer/coldtrick/entity_tools@v10.0
 - pkg:composer/coldtrick/entity_tools@v11.0
 - pkg:composer/coldtrick/entity_tools@v11.0.1
+- pkg:composer/coldtrick/entity_tools@v11.0.2
 - pkg:composer/coldtrick/entity_tools@v2.0
 - pkg:composer/coldtrick/entity_tools@v3.0
 - pkg:composer/coldtrick/entity_tools@v3.0.1
