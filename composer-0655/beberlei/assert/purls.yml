@@ -60,3 +60,4 @@
 - pkg:composer/beberlei/assert@v3.3.1
 - pkg:composer/beberlei/assert@v3.3.2
 - pkg:composer/beberlei/assert@v3.3.3
+- pkg:composer/beberlei/assert@v3.3.4
