@@ -20,3 +20,4 @@
 - pkg:composer/contao-bootstrap/layout@2.1.1
 - pkg:composer/contao-bootstrap/layout@3.0.0
 - pkg:composer/contao-bootstrap/layout@3.0.1
+- pkg:composer/contao-bootstrap/layout@3.0.2
