@@ -1,0 +1,4 @@
+- pkg:composer/babelqueue/symfony@v0.1.0
+- pkg:composer/babelqueue/symfony@v0.2.0
+- pkg:composer/babelqueue/symfony@v0.3.0
+- pkg:composer/babelqueue/symfony@v1.0.0
