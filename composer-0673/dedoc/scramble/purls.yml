@@ -108,6 +108,11 @@
 - pkg:composer/dedoc/scramble@v0.13.20
 - pkg:composer/dedoc/scramble@v0.13.21
 - pkg:composer/dedoc/scramble@v0.13.22
+- pkg:composer/dedoc/scramble@v0.13.23
+- pkg:composer/dedoc/scramble@v0.13.24
+- pkg:composer/dedoc/scramble@v0.13.25
+- pkg:composer/dedoc/scramble@v0.13.26
+- pkg:composer/dedoc/scramble@v0.13.27
 - pkg:composer/dedoc/scramble@v0.13.3
 - pkg:composer/dedoc/scramble@v0.13.4
 - pkg:composer/dedoc/scramble@v0.13.5
