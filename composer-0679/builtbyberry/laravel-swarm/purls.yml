@@ -9,6 +9,8 @@
 - pkg:composer/builtbyberry/laravel-swarm@v0.1.7
 - pkg:composer/builtbyberry/laravel-swarm@v0.1.8
 - pkg:composer/builtbyberry/laravel-swarm@v0.1.9
+- pkg:composer/builtbyberry/laravel-swarm@v0.10.0
+- pkg:composer/builtbyberry/laravel-swarm@v0.11.0
 - pkg:composer/builtbyberry/laravel-swarm@v0.2.0
 - pkg:composer/builtbyberry/laravel-swarm@v0.2.1
 - pkg:composer/builtbyberry/laravel-swarm@v0.3.0
@@ -16,3 +18,14 @@
 - pkg:composer/builtbyberry/laravel-swarm@v0.3.2
 - pkg:composer/builtbyberry/laravel-swarm@v0.3.3
 - pkg:composer/builtbyberry/laravel-swarm@v0.3.4
+- pkg:composer/builtbyberry/laravel-swarm@v0.3.5
+- pkg:composer/builtbyberry/laravel-swarm@v0.4.0
+- pkg:composer/builtbyberry/laravel-swarm@v0.4.1
+- pkg:composer/builtbyberry/laravel-swarm@v0.4.2
+- pkg:composer/builtbyberry/laravel-swarm@v0.4.3
+- pkg:composer/builtbyberry/laravel-swarm@v0.5.0
+- pkg:composer/builtbyberry/laravel-swarm@v0.6.0
+- pkg:composer/builtbyberry/laravel-swarm@v0.7.0
+- pkg:composer/builtbyberry/laravel-swarm@v0.8.0
+- pkg:composer/builtbyberry/laravel-swarm@v0.9.0
+- pkg:composer/builtbyberry/laravel-swarm@v0.9.1
