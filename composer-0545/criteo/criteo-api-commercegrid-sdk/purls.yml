@@ -11,6 +11,10 @@
 - pkg:composer/criteo/criteo-api-commercegrid-sdk@0.0.260415
 - pkg:composer/criteo/criteo-api-commercegrid-sdk@0.0.260420
 - pkg:composer/criteo/criteo-api-commercegrid-sdk@0.0.260427
+- pkg:composer/criteo/criteo-api-commercegrid-sdk@0.0.260518
+- pkg:composer/criteo/criteo-api-commercegrid-sdk@0.0.260525
+- pkg:composer/criteo/criteo-api-commercegrid-sdk@0.0.260601
+- pkg:composer/criteo/criteo-api-commercegrid-sdk@0.0.260608
 - pkg:composer/criteo/criteo-api-commercegrid-sdk@2026.01.0.260217
 - pkg:composer/criteo/criteo-api-commercegrid-sdk@2026.01.0.260223
 - pkg:composer/criteo/criteo-api-commercegrid-sdk@2026.01.0.260302
@@ -23,3 +27,7 @@
 - pkg:composer/criteo/criteo-api-commercegrid-sdk@2026.01.0.260415
 - pkg:composer/criteo/criteo-api-commercegrid-sdk@2026.01.0.260420
 - pkg:composer/criteo/criteo-api-commercegrid-sdk@2026.01.0.260427
+- pkg:composer/criteo/criteo-api-commercegrid-sdk@2026.01.0.260518
+- pkg:composer/criteo/criteo-api-commercegrid-sdk@2026.01.0.260525
+- pkg:composer/criteo/criteo-api-commercegrid-sdk@2026.01.0.260601
+- pkg:composer/criteo/criteo-api-commercegrid-sdk@2026.01.0.260608
