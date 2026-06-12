@@ -83,4 +83,5 @@
 - pkg:composer/defstudio/laravel-tools@v1.5.6
 - pkg:composer/defstudio/laravel-tools@v1.5.7
 - pkg:composer/defstudio/laravel-tools@v1.5.8
+- pkg:composer/defstudio/laravel-tools@v1.5.9
 - pkg:composer/defstudio/laravel-tools@v2.0.0

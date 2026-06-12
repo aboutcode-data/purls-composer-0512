@@ -1,3 +1,4 @@
+- pkg:composer/defstudio/telegraph@1.70.5
 - pkg:composer/defstudio/telegraph@v0.0.1
 - pkg:composer/defstudio/telegraph@v0.0.10
 - pkg:composer/defstudio/telegraph@v0.0.11
@@ -172,5 +173,6 @@
 - pkg:composer/defstudio/telegraph@v1.70.1
 - pkg:composer/defstudio/telegraph@v1.70.2
 - pkg:composer/defstudio/telegraph@v1.70.3
+- pkg:composer/defstudio/telegraph@v1.70.4
 - pkg:composer/defstudio/telegraph@v1.8.0
 - pkg:composer/defstudio/telegraph@v1.9.0

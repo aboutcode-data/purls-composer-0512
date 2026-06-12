@@ -53,3 +53,5 @@
 - pkg:composer/defstudio/wired-tables@v0.2.7
 - pkg:composer/defstudio/wired-tables@v0.2.8
 - pkg:composer/defstudio/wired-tables@v0.2.9
+- pkg:composer/defstudio/wired-tables@v1.0.0
+- pkg:composer/defstudio/wired-tables@v2.0.0
