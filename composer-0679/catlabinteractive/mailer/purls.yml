@@ -10,6 +10,7 @@
 - pkg:composer/catlabinteractive/mailer@3.0.0
 - pkg:composer/catlabinteractive/mailer@3.0.1
 - pkg:composer/catlabinteractive/mailer@3.0.2
+- pkg:composer/catlabinteractive/mailer@3.0.3
 - pkg:composer/catlabinteractive/mailer@v0.1.4
 - pkg:composer/catlabinteractive/mailer@v0.1.5
 - pkg:composer/catlabinteractive/mailer@v0.1.6
