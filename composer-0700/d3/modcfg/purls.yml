@@ -71,6 +71,8 @@
 - pkg:composer/d3/modcfg@6.2.1.073
 - pkg:composer/d3/modcfg@6.2.1.080
 - pkg:composer/d3/modcfg@6.2.1.081
+- pkg:composer/d3/modcfg@6.2.2.073
+- pkg:composer/d3/modcfg@6.2.2.080
 - pkg:composer/d3/modcfg@7.0.0.080
 - pkg:composer/d3/modcfg@7.0.1.080
 - pkg:composer/d3/modcfg@7.1.0.080
