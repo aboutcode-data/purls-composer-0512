@@ -1,3 +1,4 @@
 - pkg:composer/babelqueue/laravel@v0.1.0
 - pkg:composer/babelqueue/laravel@v0.3.0
 - pkg:composer/babelqueue/laravel@v1.0.0
+- pkg:composer/babelqueue/laravel@v1.1.0
