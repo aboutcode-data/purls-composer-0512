@@ -1,3 +1,4 @@
+- pkg:composer/bacula-web/bacula-web@v10.0.0
 - pkg:composer/bacula-web/bacula-web@v8.0.0
 - pkg:composer/bacula-web/bacula-web@v8.0.0-rc.1
 - pkg:composer/bacula-web/bacula-web@v8.0.0-rc.2
