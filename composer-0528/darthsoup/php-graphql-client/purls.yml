@@ -13,3 +13,5 @@
 - pkg:composer/darthsoup/php-graphql-client@v1.4.1
 - pkg:composer/darthsoup/php-graphql-client@v1.8
 - pkg:composer/darthsoup/php-graphql-client@v1.9
+- pkg:composer/darthsoup/php-graphql-client@v2.0.0
+- pkg:composer/darthsoup/php-graphql-client@v2.0.1
