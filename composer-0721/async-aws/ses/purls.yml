@@ -12,6 +12,7 @@
 - pkg:composer/async-aws/ses@1.14.0
 - pkg:composer/async-aws/ses@1.14.1
 - pkg:composer/async-aws/ses@1.14.2
+- pkg:composer/async-aws/ses@1.15.0
 - pkg:composer/async-aws/ses@1.2.0
 - pkg:composer/async-aws/ses@1.3.0
 - pkg:composer/async-aws/ses@1.3.1
