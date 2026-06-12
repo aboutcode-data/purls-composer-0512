@@ -25,6 +25,7 @@
 - pkg:composer/deuxhuithuit/craft-cloudflare-stream@1.6.0
 - pkg:composer/deuxhuithuit/craft-cloudflare-stream@1.6.1
 - pkg:composer/deuxhuithuit/craft-cloudflare-stream@1.6.2
+- pkg:composer/deuxhuithuit/craft-cloudflare-stream@1.6.3
 - pkg:composer/deuxhuithuit/craft-cloudflare-stream@2.0.0
 - pkg:composer/deuxhuithuit/craft-cloudflare-stream@2.1.0
 - pkg:composer/deuxhuithuit/craft-cloudflare-stream@2.2.0
