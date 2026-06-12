@@ -9,6 +9,9 @@
 - pkg:composer/codebar-ag/laravel-instagram@v12.1.0
 - pkg:composer/codebar-ag/laravel-instagram@v12.10.0
 - pkg:composer/codebar-ag/laravel-instagram@v12.11.0
+- pkg:composer/codebar-ag/laravel-instagram@v12.12.0
+- pkg:composer/codebar-ag/laravel-instagram@v12.13.0
+- pkg:composer/codebar-ag/laravel-instagram@v12.14.0
 - pkg:composer/codebar-ag/laravel-instagram@v12.2.0
 - pkg:composer/codebar-ag/laravel-instagram@v12.3.0
 - pkg:composer/codebar-ag/laravel-instagram@v12.4.0
@@ -17,3 +20,5 @@
 - pkg:composer/codebar-ag/laravel-instagram@v12.7.0
 - pkg:composer/codebar-ag/laravel-instagram@v12.8.0
 - pkg:composer/codebar-ag/laravel-instagram@v12.9.0
+- pkg:composer/codebar-ag/laravel-instagram@v13.0
+- pkg:composer/codebar-ag/laravel-instagram@v13.0.1
