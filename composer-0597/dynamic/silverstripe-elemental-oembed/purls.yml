@@ -16,3 +16,4 @@
 - pkg:composer/dynamic/silverstripe-elemental-oembed@5.0.0
 - pkg:composer/dynamic/silverstripe-elemental-oembed@5.1.0
 - pkg:composer/dynamic/silverstripe-elemental-oembed@6.0.0
+- pkg:composer/dynamic/silverstripe-elemental-oembed@6.0.1
