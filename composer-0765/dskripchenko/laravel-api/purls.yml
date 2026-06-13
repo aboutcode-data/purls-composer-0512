@@ -30,3 +30,5 @@
 - pkg:composer/dskripchenko/laravel-api@4.2.0
 - pkg:composer/dskripchenko/laravel-api@4.2.1
 - pkg:composer/dskripchenko/laravel-api@4.3.0
+- pkg:composer/dskripchenko/laravel-api@5.0.0
+- pkg:composer/dskripchenko/laravel-api@5.1.0
