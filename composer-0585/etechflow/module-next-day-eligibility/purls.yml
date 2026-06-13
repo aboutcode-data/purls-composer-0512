@@ -5,3 +5,6 @@
 - pkg:composer/etechflow/module-next-day-eligibility@1.7.0
 - pkg:composer/etechflow/module-next-day-eligibility@1.7.1
 - pkg:composer/etechflow/module-next-day-eligibility@1.8.0
+- pkg:composer/etechflow/module-next-day-eligibility@v1.8.1
+- pkg:composer/etechflow/module-next-day-eligibility@v1.8.2
+- pkg:composer/etechflow/module-next-day-eligibility@v1.8.3
