@@ -32,6 +32,8 @@
 - pkg:composer/andydefer/laravel-directive@v3.19.0
 - pkg:composer/andydefer/laravel-directive@v3.19.1
 - pkg:composer/andydefer/laravel-directive@v3.20.0
+- pkg:composer/andydefer/laravel-directive@v3.21.0
+- pkg:composer/andydefer/laravel-directive@v3.22.0
 - pkg:composer/andydefer/laravel-directive@v3.6.4
 - pkg:composer/andydefer/laravel-directive@v3.7.0
 - pkg:composer/andydefer/laravel-directive@v3.8.0

@@ -5,3 +5,4 @@
 - pkg:composer/andydefer/laravel-mfa@v2.0.3
 - pkg:composer/andydefer/laravel-mfa@v2.0.4
 - pkg:composer/andydefer/laravel-mfa@v2.0.5
+- pkg:composer/andydefer/laravel-mfa@v2.0.7
