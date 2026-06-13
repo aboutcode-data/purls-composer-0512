@@ -497,6 +497,8 @@
 - pkg:composer/filament/infolists@v3.3.50
 - pkg:composer/filament/infolists@v3.3.51
 - pkg:composer/filament/infolists@v3.3.52
+- pkg:composer/filament/infolists@v3.3.53
+- pkg:composer/filament/infolists@v3.3.54
 - pkg:composer/filament/infolists@v3.3.6
 - pkg:composer/filament/infolists@v3.3.7
 - pkg:composer/filament/infolists@v3.3.8
@@ -576,6 +578,7 @@
 - pkg:composer/filament/infolists@v4.11.4
 - pkg:composer/filament/infolists@v4.11.5
 - pkg:composer/filament/infolists@v4.11.6
+- pkg:composer/filament/infolists@v4.11.7
 - pkg:composer/filament/infolists@v4.2.0
 - pkg:composer/filament/infolists@v4.2.1
 - pkg:composer/filament/infolists@v4.2.2
@@ -650,3 +653,4 @@
 - pkg:composer/filament/infolists@v5.6.4
 - pkg:composer/filament/infolists@v5.6.5
 - pkg:composer/filament/infolists@v5.6.6
+- pkg:composer/filament/infolists@v5.6.7
