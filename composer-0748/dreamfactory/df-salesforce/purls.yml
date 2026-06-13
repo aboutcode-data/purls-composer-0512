@@ -21,6 +21,7 @@
 - pkg:composer/dreamfactory/df-salesforce@0.17.0
 - pkg:composer/dreamfactory/df-salesforce@0.17.1
 - pkg:composer/dreamfactory/df-salesforce@0.18.0
+- pkg:composer/dreamfactory/df-salesforce@0.18.1
 - pkg:composer/dreamfactory/df-salesforce@0.2.0
 - pkg:composer/dreamfactory/df-salesforce@0.3.0
 - pkg:composer/dreamfactory/df-salesforce@0.3.1
