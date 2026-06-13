@@ -70,6 +70,7 @@
 - pkg:composer/flarum-lang/german@1.25.16
 - pkg:composer/flarum-lang/german@1.25.17
 - pkg:composer/flarum-lang/german@1.25.18
+- pkg:composer/flarum-lang/german@1.25.19
 - pkg:composer/flarum-lang/german@1.25.2
 - pkg:composer/flarum-lang/german@1.25.3
 - pkg:composer/flarum-lang/german@1.25.4
@@ -105,3 +106,5 @@
 - pkg:composer/flarum-lang/german@2.0.3
 - pkg:composer/flarum-lang/german@2.0.4
 - pkg:composer/flarum-lang/german@2.0.5
+- pkg:composer/flarum-lang/german@2.0.6
+- pkg:composer/flarum-lang/german@2.0.7
