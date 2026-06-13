@@ -23,6 +23,8 @@
 - pkg:composer/boundwize/structarmed@0.12.5
 - pkg:composer/boundwize/structarmed@0.12.6
 - pkg:composer/boundwize/structarmed@0.13.0
+- pkg:composer/boundwize/structarmed@0.13.1
+- pkg:composer/boundwize/structarmed@0.13.2
 - pkg:composer/boundwize/structarmed@0.2.0
 - pkg:composer/boundwize/structarmed@0.2.1
 - pkg:composer/boundwize/structarmed@0.2.2
