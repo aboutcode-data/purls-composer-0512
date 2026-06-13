@@ -11,6 +11,7 @@
 - pkg:composer/effectconnect/php-sdk@3.2
 - pkg:composer/effectconnect/php-sdk@3.2.1
 - pkg:composer/effectconnect/php-sdk@3.2.10
+- pkg:composer/effectconnect/php-sdk@3.2.11
 - pkg:composer/effectconnect/php-sdk@3.2.2
 - pkg:composer/effectconnect/php-sdk@3.2.3
 - pkg:composer/effectconnect/php-sdk@3.2.4
