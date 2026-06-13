@@ -1,3 +1,1 @@
-- pkg:composer/flyokai/laminas-db@1.0.0
-- pkg:composer/flyokai/laminas-db@v2.20.0
-- pkg:composer/flyokai/laminas-db@v2.20.0.1
+- pkg:composer/flyokai/laminas-db@v1.0.0
