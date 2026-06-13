@@ -1,6 +1,7 @@
 - pkg:composer/exotec/cardealer@11.5.0
 - pkg:composer/exotec/cardealer@11.5.1
 - pkg:composer/exotec/cardealer@11.5.2
+- pkg:composer/exotec/cardealer@12.4.0
 - pkg:composer/exotec/cardealer@v10.4.0
 - pkg:composer/exotec/cardealer@v10.4.1
 - pkg:composer/exotec/cardealer@v10.4.10
@@ -14,6 +15,8 @@
 - pkg:composer/exotec/cardealer@v10.4.7
 - pkg:composer/exotec/cardealer@v10.4.8
 - pkg:composer/exotec/cardealer@v10.4.9
+- pkg:composer/exotec/cardealer@v13.4.0
+- pkg:composer/exotec/cardealer@v14.3.0
 - pkg:composer/exotec/cardealer@v8.7.0
 - pkg:composer/exotec/cardealer@v8.7.1
 - pkg:composer/exotec/cardealer@v9.5.0
