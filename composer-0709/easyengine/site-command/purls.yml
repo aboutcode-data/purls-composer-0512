@@ -75,3 +75,6 @@
 - pkg:composer/easyengine/site-command@v3.7.1
 - pkg:composer/easyengine/site-command@v3.7.2
 - pkg:composer/easyengine/site-command@v3.7.3
+- pkg:composer/easyengine/site-command@v3.7.4
+- pkg:composer/easyengine/site-command@v3.7.5
+- pkg:composer/easyengine/site-command@v3.7.6
