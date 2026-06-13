@@ -9,6 +9,8 @@
 - pkg:composer/ceedcv-maya/shared-profile-laravel@v0.14.0
 - pkg:composer/ceedcv-maya/shared-profile-laravel@v0.15.0
 - pkg:composer/ceedcv-maya/shared-profile-laravel@v0.16.0
+- pkg:composer/ceedcv-maya/shared-profile-laravel@v0.17.0
+- pkg:composer/ceedcv-maya/shared-profile-laravel@v0.18.0
 - pkg:composer/ceedcv-maya/shared-profile-laravel@v0.2.0
 - pkg:composer/ceedcv-maya/shared-profile-laravel@v0.3.0
 - pkg:composer/ceedcv-maya/shared-profile-laravel@v0.3.1
