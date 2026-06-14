@@ -23,6 +23,7 @@
 - pkg:composer/friendsofhyperf/elasticsearch@v3.1.50
 - pkg:composer/friendsofhyperf/elasticsearch@v3.1.58
 - pkg:composer/friendsofhyperf/elasticsearch@v3.1.75
+- pkg:composer/friendsofhyperf/elasticsearch@v3.2.0
 - pkg:composer/friendsofhyperf/elasticsearch@v3.2.0-alpha.1
 - pkg:composer/friendsofhyperf/elasticsearch@v3.2.0-alpha.4
 - pkg:composer/friendsofhyperf/elasticsearch@v3.2.0-alpha.6
