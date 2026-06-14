@@ -103,3 +103,6 @@
 - pkg:composer/freefri/cake-rest-api@0.7.7
 - pkg:composer/freefri/cake-rest-api@0.7.8
 - pkg:composer/freefri/cake-rest-api@0.7.9
+- pkg:composer/freefri/cake-rest-api@0.8.0
+- pkg:composer/freefri/cake-rest-api@0.8.1
+- pkg:composer/freefri/cake-rest-api@0.8.2
