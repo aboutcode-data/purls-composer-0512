@@ -11,3 +11,4 @@
 - pkg:composer/groupdocscloud/comparison-sdk-php@24.2
 - pkg:composer/groupdocscloud/comparison-sdk-php@25.11
 - pkg:composer/groupdocscloud/comparison-sdk-php@25.2
+- pkg:composer/groupdocscloud/comparison-sdk-php@26.5
