@@ -1,5 +1,1 @@
-- pkg:composer/ghostcompiler/laravel-querybuilder@v1.0.0
-- pkg:composer/ghostcompiler/laravel-querybuilder@v1.0.1
-- pkg:composer/ghostcompiler/laravel-querybuilder@v1.0.2
-- pkg:composer/ghostcompiler/laravel-querybuilder@v1.0.3
-- pkg:composer/ghostcompiler/laravel-querybuilder@v1.0.4
+- pkg:composer/ghostcompiler/laravel-querybuilder@v1.0.5
