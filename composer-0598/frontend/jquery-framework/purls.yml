@@ -1,1 +1,4 @@
+- pkg:composer/frontend/jquery-framework@0.02
+- pkg:composer/frontend/jquery-framework@0.03
+- pkg:composer/frontend/jquery-framework@0.04
 - pkg:composer/frontend/jquery-framework@v0.01
