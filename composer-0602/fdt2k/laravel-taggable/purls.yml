@@ -31,3 +31,4 @@
 - pkg:composer/fdt2k/laravel-taggable@3.0.6
 - pkg:composer/fdt2k/laravel-taggable@3.1.0
 - pkg:composer/fdt2k/laravel-taggable@3.1.1
+- pkg:composer/fdt2k/laravel-taggable@4.0.0
