@@ -78,3 +78,4 @@
 - pkg:composer/friendsofsymfony/http-cache-bundle@3.2.0
 - pkg:composer/friendsofsymfony/http-cache-bundle@3.3.0
 - pkg:composer/friendsofsymfony/http-cache-bundle@3.4.0
+- pkg:composer/friendsofsymfony/http-cache-bundle@3.4.1
