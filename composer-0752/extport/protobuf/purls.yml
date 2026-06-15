@@ -1,0 +1,5 @@
+- pkg:composer/extport/protobuf@34.0
+- pkg:composer/extport/protobuf@34.1
+- pkg:composer/extport/protobuf@34.2
+- pkg:composer/extport/protobuf@35.0
+- pkg:composer/extport/protobuf@35.1
