@@ -7,3 +7,4 @@
 - pkg:composer/kingsoft/monolog-handler@1.2.0
 - pkg:composer/kingsoft/monolog-handler@1.2.1
 - pkg:composer/kingsoft/monolog-handler@1.2.2
+- pkg:composer/kingsoft/monolog-handler@v1.3.0
