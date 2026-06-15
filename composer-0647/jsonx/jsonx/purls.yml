@@ -3,6 +3,8 @@
 - pkg:composer/jsonx/jsonx@3.3.2
 - pkg:composer/jsonx/jsonx@4.0.0
 - pkg:composer/jsonx/jsonx@4.0.1
+- pkg:composer/jsonx/jsonx@4.0.2
+- pkg:composer/jsonx/jsonx@5.0.0
 - pkg:composer/jsonx/jsonx@v1.4.3
 - pkg:composer/jsonx/jsonx@v1.4.4
 - pkg:composer/jsonx/jsonx@v1.4.5
