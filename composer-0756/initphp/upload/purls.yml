@@ -1,1 +1,2 @@
 - pkg:composer/initphp/upload@1.0
+- pkg:composer/initphp/upload@v2.0.0
