@@ -10,3 +10,4 @@
 - pkg:composer/keboola/messenger-bundle@3.1.1
 - pkg:composer/keboola/messenger-bundle@3.2.0
 - pkg:composer/keboola/messenger-bundle@3.3.0
+- pkg:composer/keboola/messenger-bundle@3.4.0
