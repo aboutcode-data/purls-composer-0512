@@ -26,5 +26,6 @@
 - pkg:composer/hyperf/config-center@v3.1.57
 - pkg:composer/hyperf/config-center@v3.1.60
 - pkg:composer/hyperf/config-center@v3.1.63
+- pkg:composer/hyperf/config-center@v3.2.0
 - pkg:composer/hyperf/config-center@v3.2.0-alpha.1
 - pkg:composer/hyperf/config-center@v3.2.0-alpha.3
