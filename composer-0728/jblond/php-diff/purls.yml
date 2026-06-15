@@ -1,4 +1,5 @@
 - pkg:composer/jblond/php-diff@2.5.0
+- pkg:composer/jblond/php-diff@2.5.1
 - pkg:composer/jblond/php-diff@v1.1
 - pkg:composer/jblond/php-diff@v1.10
 - pkg:composer/jblond/php-diff@v1.11
