@@ -15,3 +15,4 @@
 - pkg:composer/hypejunction/elgg_tokeninput@5.0.0
 - pkg:composer/hypejunction/elgg_tokeninput@6.0.0
 - pkg:composer/hypejunction/elgg_tokeninput@7.0.0
+- pkg:composer/hypejunction/elgg_tokeninput@7.0.1
