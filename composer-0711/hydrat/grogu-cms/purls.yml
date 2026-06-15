@@ -18,4 +18,9 @@
 - pkg:composer/hydrat/grogu-cms@v0.5.3
 - pkg:composer/hydrat/grogu-cms@v0.5.4
 - pkg:composer/hydrat/grogu-cms@v0.5.5
+- pkg:composer/hydrat/grogu-cms@v1.0.0
 - pkg:composer/hydrat/grogu-cms@v1.0.0-beta.1
+- pkg:composer/hydrat/grogu-cms@v1.0.1
+- pkg:composer/hydrat/grogu-cms@v1.0.2
+- pkg:composer/hydrat/grogu-cms@v1.0.3
+- pkg:composer/hydrat/grogu-cms@v1.0.4
