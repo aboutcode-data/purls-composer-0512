@@ -1,4 +1,3 @@
 - pkg:composer/hooksniff/hooksniff-php@0.1.0
 - pkg:composer/hooksniff/hooksniff-php@0.3.0
-- pkg:composer/hooksniff/hooksniff-php@1.2.0
-- pkg:composer/hooksniff/hooksniff-php@1.2.1
+- pkg:composer/hooksniff/hooksniff-php@v1.2.2
