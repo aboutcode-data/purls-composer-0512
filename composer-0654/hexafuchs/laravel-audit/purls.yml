@@ -1,3 +1,4 @@
 - pkg:composer/hexafuchs/laravel-audit@v0.1.0
 - pkg:composer/hexafuchs/laravel-audit@v1.0.0
 - pkg:composer/hexafuchs/laravel-audit@v2.0.0
+- pkg:composer/hexafuchs/laravel-audit@v3.0.0
