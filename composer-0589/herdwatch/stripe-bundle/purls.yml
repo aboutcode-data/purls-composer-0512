@@ -37,3 +37,4 @@
 - pkg:composer/herdwatch/stripe-bundle@v3.0.1
 - pkg:composer/herdwatch/stripe-bundle@v3.1.1
 - pkg:composer/herdwatch/stripe-bundle@v3.1.2
+- pkg:composer/herdwatch/stripe-bundle@v3.1.3
