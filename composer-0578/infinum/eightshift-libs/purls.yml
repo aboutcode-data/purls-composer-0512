@@ -50,6 +50,9 @@
 - pkg:composer/infinum/eightshift-libs@12.3.3
 - pkg:composer/infinum/eightshift-libs@12.3.4
 - pkg:composer/infinum/eightshift-libs@13.0.0
+- pkg:composer/infinum/eightshift-libs@13.1.0
+- pkg:composer/infinum/eightshift-libs@13.1.1
+- pkg:composer/infinum/eightshift-libs@13.2.0
 - pkg:composer/infinum/eightshift-libs@2.0.0
 - pkg:composer/infinum/eightshift-libs@2.0.1
 - pkg:composer/infinum/eightshift-libs@2.0.2
