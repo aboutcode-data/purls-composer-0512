@@ -480,6 +480,9 @@
 - pkg:composer/helsingborg-stad/component-library@5.20.4
 - pkg:composer/helsingborg-stad/component-library@5.21.0
 - pkg:composer/helsingborg-stad/component-library@5.21.10
+- pkg:composer/helsingborg-stad/component-library@5.21.11
+- pkg:composer/helsingborg-stad/component-library@5.21.12
+- pkg:composer/helsingborg-stad/component-library@5.21.13
 - pkg:composer/helsingborg-stad/component-library@5.21.2
 - pkg:composer/helsingborg-stad/component-library@5.21.5
 - pkg:composer/helsingborg-stad/component-library@5.21.7
