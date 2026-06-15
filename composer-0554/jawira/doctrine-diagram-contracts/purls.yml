@@ -1,3 +1,4 @@
 - pkg:composer/jawira/doctrine-diagram-contracts@v0.0.0
 - pkg:composer/jawira/doctrine-diagram-contracts@v0.1.0
 - pkg:composer/jawira/doctrine-diagram-contracts@v1.0.0
+- pkg:composer/jawira/doctrine-diagram-contracts@v2.0.0
