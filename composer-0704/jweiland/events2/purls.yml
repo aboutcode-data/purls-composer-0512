@@ -189,6 +189,7 @@
 - pkg:composer/jweiland/events2@8.5.0
 - pkg:composer/jweiland/events2@8.6.0
 - pkg:composer/jweiland/events2@8.6.1
+- pkg:composer/jweiland/events2@8.6.2
 - pkg:composer/jweiland/events2@9.0.0
 - pkg:composer/jweiland/events2@9.0.1
 - pkg:composer/jweiland/events2@9.0.2
