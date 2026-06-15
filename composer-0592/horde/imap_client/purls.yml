@@ -101,6 +101,7 @@
 - pkg:composer/horde/imap_client@v2.34.0
 - pkg:composer/horde/imap_client@v2.34.1
 - pkg:composer/horde/imap_client@v3.0.0RC1
+- pkg:composer/horde/imap_client@v3.0.0RC2
 - pkg:composer/horde/imap_client@v3.0.0alpha3
 - pkg:composer/horde/imap_client@v3.0.0alpha4
 - pkg:composer/horde/imap_client@v3.0.0alpha5

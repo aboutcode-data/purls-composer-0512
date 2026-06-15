@@ -62,6 +62,8 @@
 - pkg:composer/horde/core@v3.0.0RC5
 - pkg:composer/horde/core@v3.0.0RC6
 - pkg:composer/horde/core@v3.0.0RC7
+- pkg:composer/horde/core@v3.0.0RC8
+- pkg:composer/horde/core@v3.0.0RC9
 - pkg:composer/horde/core@v3.0.0alpha10
 - pkg:composer/horde/core@v3.0.0alpha11
 - pkg:composer/horde/core@v3.0.0alpha12

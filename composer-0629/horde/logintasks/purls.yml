@@ -6,6 +6,7 @@
 - pkg:composer/horde/logintasks@2.0.8
 - pkg:composer/horde/logintasks@3.0.0alpha1
 - pkg:composer/horde/logintasks@3.0.0alpha2
+- pkg:composer/horde/logintasks@v3.0.0RC1
 - pkg:composer/horde/logintasks@v3.0.0alpha3
 - pkg:composer/horde/logintasks@v3.0.0alpha4
 - pkg:composer/horde/logintasks@v3.0.0beta1
