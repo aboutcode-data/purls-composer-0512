@@ -1,1 +1,2 @@
+- pkg:composer/horde/jwt@v1.0.0
 - pkg:composer/horde/jwt@v1.0.0beta2
