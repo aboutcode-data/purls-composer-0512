@@ -9,6 +9,12 @@
 - pkg:composer/ksanyok/text-humanize@0.28.1
 - pkg:composer/ksanyok/text-humanize@0.28.3
 - pkg:composer/ksanyok/text-humanize@0.28.4
+- pkg:composer/ksanyok/text-humanize@0.29.0
+- pkg:composer/ksanyok/text-humanize@0.30.0
+- pkg:composer/ksanyok/text-humanize@0.31.0
+- pkg:composer/ksanyok/text-humanize@0.31.1
+- pkg:composer/ksanyok/text-humanize@0.32.0
+- pkg:composer/ksanyok/text-humanize@0.33.0
 - pkg:composer/ksanyok/text-humanize@v0.10.0
 - pkg:composer/ksanyok/text-humanize@v0.5.0
 - pkg:composer/ksanyok/text-humanize@v0.6.0
