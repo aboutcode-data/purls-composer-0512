@@ -54,6 +54,8 @@
 - pkg:composer/glueful/api-skeleton@v1.40.0
 - pkg:composer/glueful/api-skeleton@v1.41.0
 - pkg:composer/glueful/api-skeleton@v1.42.0
+- pkg:composer/glueful/api-skeleton@v1.42.1
+- pkg:composer/glueful/api-skeleton@v1.42.2
 - pkg:composer/glueful/api-skeleton@v1.5.0
 - pkg:composer/glueful/api-skeleton@v1.5.1
 - pkg:composer/glueful/api-skeleton@v1.5.2
