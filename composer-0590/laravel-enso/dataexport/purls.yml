@@ -120,3 +120,4 @@
 - pkg:composer/laravel-enso/dataexport@3.8.5
 - pkg:composer/laravel-enso/dataexport@3.8.6
 - pkg:composer/laravel-enso/dataexport@3.8.7
+- pkg:composer/laravel-enso/dataexport@3.8.8
