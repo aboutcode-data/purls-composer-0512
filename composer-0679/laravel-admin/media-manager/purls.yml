@@ -38,3 +38,4 @@
 - pkg:composer/laravel-admin/media-manager@v6.1.4
 - pkg:composer/laravel-admin/media-manager@v6.1.5
 - pkg:composer/laravel-admin/media-manager@v6.1.6
+- pkg:composer/laravel-admin/media-manager@v6.1.7
