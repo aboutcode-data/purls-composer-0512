@@ -16,3 +16,4 @@
 - pkg:composer/faridibin/paystack-php@v0.2.5
 - pkg:composer/faridibin/paystack-php@v0.2.6
 - pkg:composer/faridibin/paystack-php@v0.2.7
+- pkg:composer/faridibin/paystack-php@v0.3.0
