@@ -12,6 +12,7 @@
 - pkg:composer/laravel-lang/actions@1.12.4
 - pkg:composer/laravel-lang/actions@1.13.0
 - pkg:composer/laravel-lang/actions@1.13.1
+- pkg:composer/laravel-lang/actions@1.13.2
 - pkg:composer/laravel-lang/actions@1.2.0
 - pkg:composer/laravel-lang/actions@1.2.1
 - pkg:composer/laravel-lang/actions@1.3.0
