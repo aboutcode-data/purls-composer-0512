@@ -1,3 +1,5 @@
 - pkg:composer/kenshodigital/kirby-csp@1.0.0
 - pkg:composer/kenshodigital/kirby-csp@1.1.0
 - pkg:composer/kenshodigital/kirby-csp@1.1.1
+- pkg:composer/kenshodigital/kirby-csp@2.0.0
+- pkg:composer/kenshodigital/kirby-csp@2.0.1
