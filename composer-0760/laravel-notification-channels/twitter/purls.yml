@@ -40,3 +40,4 @@
 - pkg:composer/laravel-notification-channels/twitter@v8.2.0
 - pkg:composer/laravel-notification-channels/twitter@v8.3.0
 - pkg:composer/laravel-notification-channels/twitter@v9.0.0
+- pkg:composer/laravel-notification-channels/twitter@v9.1.0
