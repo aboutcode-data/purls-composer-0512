@@ -1240,3 +1240,6 @@
 - pkg:composer/itzbund/gsb-sitepackage@v9.6.0
 - pkg:composer/itzbund/gsb-sitepackage@v9.6.0-rc.1
 - pkg:composer/itzbund/gsb-sitepackage@v9.6.0-rc.2
+- pkg:composer/itzbund/gsb-sitepackage@v9.7.0
+- pkg:composer/itzbund/gsb-sitepackage@v9.7.0-rc.1
+- pkg:composer/itzbund/gsb-sitepackage@v9.7.0-rc.2
