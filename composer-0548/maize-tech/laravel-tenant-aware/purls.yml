@@ -1,3 +1,4 @@
 - pkg:composer/maize-tech/laravel-tenant-aware@1.0.0
 - pkg:composer/maize-tech/laravel-tenant-aware@2.0.0
 - pkg:composer/maize-tech/laravel-tenant-aware@2.1.0
+- pkg:composer/maize-tech/laravel-tenant-aware@2.2.0
