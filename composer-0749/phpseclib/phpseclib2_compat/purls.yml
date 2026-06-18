@@ -1,5 +1,6 @@
 - pkg:composer/phpseclib/phpseclib2_compat@1.0.0
 - pkg:composer/phpseclib/phpseclib2_compat@1.0.1
+- pkg:composer/phpseclib/phpseclib2_compat@1.0.10
 - pkg:composer/phpseclib/phpseclib2_compat@1.0.2
 - pkg:composer/phpseclib/phpseclib2_compat@1.0.3
 - pkg:composer/phpseclib/phpseclib2_compat@1.0.4
