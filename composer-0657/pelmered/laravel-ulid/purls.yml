@@ -1,1 +1,2 @@
 - pkg:composer/pelmered/laravel-ulid@v0.1.0
+- pkg:composer/pelmered/laravel-ulid@v0.1.1
