@@ -31,4 +31,5 @@
 - pkg:composer/mediawiki/ldap-authentication-2@3.0.6
 - pkg:composer/mediawiki/ldap-authentication-2@3.0.7
 - pkg:composer/mediawiki/ldap-authentication-2@3.0.9
+- pkg:composer/mediawiki/ldap-authentication-2@3.1.0
 - pkg:composer/mediawiki/ldap-authentication-2@3.1.0-alpha.1
