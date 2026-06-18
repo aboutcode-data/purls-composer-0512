@@ -10,3 +10,4 @@
 - pkg:composer/paragonie/ext-pqcrypto@v0.3.0-rc2
 - pkg:composer/paragonie/ext-pqcrypto@v0.3.0-rc3
 - pkg:composer/paragonie/ext-pqcrypto@v0.3.0-rc4
+- pkg:composer/paragonie/ext-pqcrypto@v0.3.1
