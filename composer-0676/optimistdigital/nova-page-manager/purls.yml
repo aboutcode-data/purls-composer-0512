@@ -131,3 +131,6 @@
 - pkg:composer/optimistdigital/nova-page-manager@5.9.2
 - pkg:composer/optimistdigital/nova-page-manager@5.9.3
 - pkg:composer/optimistdigital/nova-page-manager@6.0.0
+- pkg:composer/optimistdigital/nova-page-manager@6.0.1
+- pkg:composer/optimistdigital/nova-page-manager@6.0.2
+- pkg:composer/optimistdigital/nova-page-manager@6.0.3
