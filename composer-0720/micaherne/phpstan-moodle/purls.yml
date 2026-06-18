@@ -2,3 +2,4 @@
 - pkg:composer/micaherne/phpstan-moodle@v1.0.1
 - pkg:composer/micaherne/phpstan-moodle@v1.0.2
 - pkg:composer/micaherne/phpstan-moodle@v1.0.3
+- pkg:composer/micaherne/phpstan-moodle@v1.1.0
