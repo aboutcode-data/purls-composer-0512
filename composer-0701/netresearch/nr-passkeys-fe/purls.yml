@@ -5,3 +5,5 @@
 - pkg:composer/netresearch/nr-passkeys-fe@v0.1.4
 - pkg:composer/netresearch/nr-passkeys-fe@v0.1.5
 - pkg:composer/netresearch/nr-passkeys-fe@v0.2.0
+- pkg:composer/netresearch/nr-passkeys-fe@v0.3.0
+- pkg:composer/netresearch/nr-passkeys-fe@v0.3.1
