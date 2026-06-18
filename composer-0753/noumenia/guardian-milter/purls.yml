@@ -29,3 +29,4 @@
 - pkg:composer/noumenia/guardian-milter@3.8
 - pkg:composer/noumenia/guardian-milter@3.9
 - pkg:composer/noumenia/guardian-milter@4.0
+- pkg:composer/noumenia/guardian-milter@4.1
