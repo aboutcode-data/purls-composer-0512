@@ -101,6 +101,7 @@
 - pkg:composer/milanmadar/coolio-orm@1.4.23
 - pkg:composer/milanmadar/coolio-orm@1.4.24
 - pkg:composer/milanmadar/coolio-orm@1.4.25
+- pkg:composer/milanmadar/coolio-orm@1.4.26
 - pkg:composer/milanmadar/coolio-orm@1.4.3
 - pkg:composer/milanmadar/coolio-orm@1.4.4
 - pkg:composer/milanmadar/coolio-orm@1.4.5
@@ -108,3 +109,6 @@
 - pkg:composer/milanmadar/coolio-orm@1.4.7
 - pkg:composer/milanmadar/coolio-orm@1.4.8
 - pkg:composer/milanmadar/coolio-orm@1.4.9
+- pkg:composer/milanmadar/coolio-orm@1.5.0
+- pkg:composer/milanmadar/coolio-orm@1.5.1
+- pkg:composer/milanmadar/coolio-orm@1.5.2
