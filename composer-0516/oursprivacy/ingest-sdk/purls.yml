@@ -17,6 +17,7 @@
 - pkg:composer/oursprivacy/ingest-sdk@v1.0.1
 - pkg:composer/oursprivacy/ingest-sdk@v1.1.0
 - pkg:composer/oursprivacy/ingest-sdk@v1.1.1
+- pkg:composer/oursprivacy/ingest-sdk@v1.10.0
 - pkg:composer/oursprivacy/ingest-sdk@v1.2.0
 - pkg:composer/oursprivacy/ingest-sdk@v1.2.1
 - pkg:composer/oursprivacy/ingest-sdk@v1.2.2
@@ -27,3 +28,4 @@
 - pkg:composer/oursprivacy/ingest-sdk@v1.6.0
 - pkg:composer/oursprivacy/ingest-sdk@v1.7.0
 - pkg:composer/oursprivacy/ingest-sdk@v1.8.0
+- pkg:composer/oursprivacy/ingest-sdk@v1.9.0
