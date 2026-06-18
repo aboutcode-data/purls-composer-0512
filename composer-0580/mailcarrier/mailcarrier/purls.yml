@@ -49,3 +49,5 @@
 - pkg:composer/mailcarrier/mailcarrier@v2.8.4
 - pkg:composer/mailcarrier/mailcarrier@v2.8.5
 - pkg:composer/mailcarrier/mailcarrier@v2.8.6
+- pkg:composer/mailcarrier/mailcarrier@v2.8.7
+- pkg:composer/mailcarrier/mailcarrier@v3.0.0
