@@ -14,3 +14,4 @@
 - pkg:composer/mage2kishan/module-llms-txt@1.3.7
 - pkg:composer/mage2kishan/module-llms-txt@1.3.8
 - pkg:composer/mage2kishan/module-llms-txt@1.3.9
+- pkg:composer/mage2kishan/module-llms-txt@1.4.0
