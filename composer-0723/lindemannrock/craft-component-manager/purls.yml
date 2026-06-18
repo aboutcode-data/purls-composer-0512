@@ -21,3 +21,4 @@
 - pkg:composer/lindemannrock/craft-component-manager@5.5.2
 - pkg:composer/lindemannrock/craft-component-manager@5.6.0
 - pkg:composer/lindemannrock/craft-component-manager@5.7.0
+- pkg:composer/lindemannrock/craft-component-manager@5.7.1
