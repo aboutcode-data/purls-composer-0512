@@ -22,4 +22,6 @@
 - pkg:composer/makinacorpus/db-tools-bundle@2.0.1
 - pkg:composer/makinacorpus/db-tools-bundle@2.0.2
 - pkg:composer/makinacorpus/db-tools-bundle@2.0.3
+- pkg:composer/makinacorpus/db-tools-bundle@2.2.0
+- pkg:composer/makinacorpus/db-tools-bundle@2.2.1
 - pkg:composer/makinacorpus/db-tools-bundle@v2.1.0
