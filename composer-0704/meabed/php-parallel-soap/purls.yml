@@ -3,3 +3,4 @@
 - pkg:composer/meabed/php-parallel-soap@2.0
 - pkg:composer/meabed/php-parallel-soap@3.0.0
 - pkg:composer/meabed/php-parallel-soap@3.0.1
+- pkg:composer/meabed/php-parallel-soap@4.0.0
