@@ -10,3 +10,4 @@
 - pkg:composer/markshust/magento2-module-ordergrid@1.1.0
 - pkg:composer/markshust/magento2-module-ordergrid@1.1.1
 - pkg:composer/markshust/magento2-module-ordergrid@2.0.0
+- pkg:composer/markshust/magento2-module-ordergrid@3.0.0
