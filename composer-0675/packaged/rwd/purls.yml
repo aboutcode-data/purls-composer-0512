@@ -39,6 +39,7 @@
 - pkg:composer/packaged/rwd@1.13.2
 - pkg:composer/packaged/rwd@1.14.0
 - pkg:composer/packaged/rwd@1.14.1
+- pkg:composer/packaged/rwd@1.14.2
 - pkg:composer/packaged/rwd@1.2.0
 - pkg:composer/packaged/rwd@1.2.1
 - pkg:composer/packaged/rwd@1.2.2
