@@ -288,3 +288,4 @@
 - pkg:composer/oro/platform-application@7.0.0-rc
 - pkg:composer/oro/platform-application@7.0.1
 - pkg:composer/oro/platform-application@7.0.2
+- pkg:composer/oro/platform-application@7.0.3

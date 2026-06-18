@@ -159,6 +159,7 @@
 - pkg:composer/oro/marketing@6.0.4
 - pkg:composer/oro/marketing@6.0.5
 - pkg:composer/oro/marketing@6.0.6
+- pkg:composer/oro/marketing@6.0.7
 - pkg:composer/oro/marketing@6.1.0
 - pkg:composer/oro/marketing@6.1.0-rc
 - pkg:composer/oro/marketing@6.1.0-rc.2
@@ -170,6 +171,8 @@
 - pkg:composer/oro/marketing@6.1.5-rc3
 - pkg:composer/oro/marketing@6.1.6
 - pkg:composer/oro/marketing@6.1.7
+- pkg:composer/oro/marketing@6.1.8
 - pkg:composer/oro/marketing@7.0.0
 - pkg:composer/oro/marketing@7.0.0-rc
 - pkg:composer/oro/marketing@7.0.1
+- pkg:composer/oro/marketing@7.0.2

@@ -49,6 +49,7 @@
 - pkg:composer/oro/commerce-paypal-express@6.0.3
 - pkg:composer/oro/commerce-paypal-express@6.0.4
 - pkg:composer/oro/commerce-paypal-express@6.0.5
+- pkg:composer/oro/commerce-paypal-express@6.0.6
 - pkg:composer/oro/commerce-paypal-express@6.1.0
 - pkg:composer/oro/commerce-paypal-express@6.1.0-rc
 - pkg:composer/oro/commerce-paypal-express@6.1.0-rc.2
@@ -60,6 +61,7 @@
 - pkg:composer/oro/commerce-paypal-express@6.1.6
 - pkg:composer/oro/commerce-paypal-express@6.1.7
 - pkg:composer/oro/commerce-paypal-express@6.1.8
+- pkg:composer/oro/commerce-paypal-express@6.1.9
 - pkg:composer/oro/commerce-paypal-express@7.0.0
 - pkg:composer/oro/commerce-paypal-express@7.0.0-rc
 - pkg:composer/oro/commerce-paypal-express@7.0.1
