@@ -15,6 +15,7 @@
 - pkg:composer/openai-php/laravel@v0.19.1
 - pkg:composer/openai-php/laravel@v0.2.0
 - pkg:composer/openai-php/laravel@v0.2.1
+- pkg:composer/openai-php/laravel@v0.20.0
 - pkg:composer/openai-php/laravel@v0.3.0
 - pkg:composer/openai-php/laravel@v0.3.1
 - pkg:composer/openai-php/laravel@v0.3.2
