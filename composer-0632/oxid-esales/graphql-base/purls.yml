@@ -19,6 +19,7 @@
 - pkg:composer/oxid-esales/graphql-base@v12.0.1
 - pkg:composer/oxid-esales/graphql-base@v12.0.2
 - pkg:composer/oxid-esales/graphql-base@v13.0.0
+- pkg:composer/oxid-esales/graphql-base@v13.1.0
 - pkg:composer/oxid-esales/graphql-base@v2.0.0
 - pkg:composer/oxid-esales/graphql-base@v2.1.0
 - pkg:composer/oxid-esales/graphql-base@v2.2.0
