@@ -86,6 +86,7 @@
 - pkg:composer/mezzio/mezzio@3.27.0
 - pkg:composer/mezzio/mezzio@3.27.1
 - pkg:composer/mezzio/mezzio@3.28.0
+- pkg:composer/mezzio/mezzio@3.28.1
 - pkg:composer/mezzio/mezzio@3.3.0
 - pkg:composer/mezzio/mezzio@3.3.1
 - pkg:composer/mezzio/mezzio@3.4.0
