@@ -14,6 +14,11 @@
 - pkg:composer/proxynth/larawebhook@v1.20.0
 - pkg:composer/proxynth/larawebhook@v1.21.0
 - pkg:composer/proxynth/larawebhook@v1.22.0
+- pkg:composer/proxynth/larawebhook@v1.22.1
+- pkg:composer/proxynth/larawebhook@v1.23.0
+- pkg:composer/proxynth/larawebhook@v1.24.0
+- pkg:composer/proxynth/larawebhook@v1.25.0
+- pkg:composer/proxynth/larawebhook@v1.26.0
 - pkg:composer/proxynth/larawebhook@v1.3.0
 - pkg:composer/proxynth/larawebhook@v1.4.0
 - pkg:composer/proxynth/larawebhook@v1.5.0
