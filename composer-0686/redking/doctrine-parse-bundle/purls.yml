@@ -193,6 +193,8 @@
 - pkg:composer/redking/doctrine-parse-bundle@v2.3.1
 - pkg:composer/redking/doctrine-parse-bundle@v2.3.2
 - pkg:composer/redking/doctrine-parse-bundle@v2.30.0
+- pkg:composer/redking/doctrine-parse-bundle@v2.30.1
+- pkg:composer/redking/doctrine-parse-bundle@v2.30.2
 - pkg:composer/redking/doctrine-parse-bundle@v2.4.1
 - pkg:composer/redking/doctrine-parse-bundle@v2.4.2
 - pkg:composer/redking/doctrine-parse-bundle@v2.4.3
