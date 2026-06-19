@@ -48,3 +48,5 @@
 - pkg:composer/resursbank/magento-core@2.3.4
 - pkg:composer/resursbank/magento-core@2.3.5
 - pkg:composer/resursbank/magento-core@2.3.6
+- pkg:composer/resursbank/magento-core@2.3.7
+- pkg:composer/resursbank/magento-core@2.3.8
