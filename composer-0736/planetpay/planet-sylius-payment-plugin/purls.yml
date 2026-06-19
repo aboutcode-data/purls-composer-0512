@@ -10,3 +10,4 @@
 - pkg:composer/planetpay/planet-sylius-payment-plugin@1.2.1
 - pkg:composer/planetpay/planet-sylius-payment-plugin@1.2.2
 - pkg:composer/planetpay/planet-sylius-payment-plugin@1.2.3
+- pkg:composer/planetpay/planet-sylius-payment-plugin@1.2.5
