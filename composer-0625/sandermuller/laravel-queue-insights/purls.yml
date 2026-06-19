@@ -19,6 +19,7 @@
 - pkg:composer/sandermuller/laravel-queue-insights@0.24.0
 - pkg:composer/sandermuller/laravel-queue-insights@0.25.0
 - pkg:composer/sandermuller/laravel-queue-insights@0.26.0
+- pkg:composer/sandermuller/laravel-queue-insights@0.27.0
 - pkg:composer/sandermuller/laravel-queue-insights@0.3.0
 - pkg:composer/sandermuller/laravel-queue-insights@0.4.0
 - pkg:composer/sandermuller/laravel-queue-insights@0.4.1
