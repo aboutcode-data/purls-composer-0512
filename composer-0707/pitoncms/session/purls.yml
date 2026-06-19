@@ -16,3 +16,4 @@
 - pkg:composer/pitoncms/session@3.0.0
 - pkg:composer/pitoncms/session@3.1.0
 - pkg:composer/pitoncms/session@3.1.1
+- pkg:composer/pitoncms/session@3.1.2
