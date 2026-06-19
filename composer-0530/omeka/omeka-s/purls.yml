@@ -44,3 +44,4 @@
 - pkg:composer/omeka/omeka-s@v4.1.0-rc
 - pkg:composer/omeka/omeka-s@v4.1.1
 - pkg:composer/omeka/omeka-s@v4.2.0
+- pkg:composer/omeka/omeka-s@v4.2.1
