@@ -9,3 +9,5 @@
 - pkg:composer/saucebase/module-installer@v2.3.1
 - pkg:composer/saucebase/module-installer@v2.4.0
 - pkg:composer/saucebase/module-installer@v2.5.0
+- pkg:composer/saucebase/module-installer@v2.6.0
+- pkg:composer/saucebase/module-installer@v2.7.0
