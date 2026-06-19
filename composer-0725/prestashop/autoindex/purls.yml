@@ -1,3 +1,4 @@
 - pkg:composer/prestashop/autoindex@v1.0.0
 - pkg:composer/prestashop/autoindex@v2.0.0
 - pkg:composer/prestashop/autoindex@v2.1.0
+- pkg:composer/prestashop/autoindex@v3.0.0
