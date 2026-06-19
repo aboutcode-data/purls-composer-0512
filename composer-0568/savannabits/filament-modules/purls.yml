@@ -43,3 +43,7 @@
 - pkg:composer/savannabits/filament-modules@v5.0.8
 - pkg:composer/savannabits/filament-modules@v5.0.9
 - pkg:composer/savannabits/filament-modules@v5.1.0
+- pkg:composer/savannabits/filament-modules@v5.2.0
+- pkg:composer/savannabits/filament-modules@v5.3.0
+- pkg:composer/savannabits/filament-modules@v5.3.1
+- pkg:composer/savannabits/filament-modules@v5.3.2
