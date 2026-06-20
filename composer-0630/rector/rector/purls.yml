@@ -351,6 +351,7 @@
 - pkg:composer/rector/rector@2.4.4
 - pkg:composer/rector/rector@2.4.5
 - pkg:composer/rector/rector@2.4.6
+- pkg:composer/rector/rector@2.5.0
 - pkg:composer/rector/rector@v0.1.0
 - pkg:composer/rector/rector@v0.2.0
 - pkg:composer/rector/rector@v0.3.0
