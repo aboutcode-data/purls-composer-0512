@@ -28,3 +28,4 @@
 - pkg:composer/schenke-io/laravel-auth-router@v0.3.6
 - pkg:composer/schenke-io/laravel-auth-router@v0.3.7
 - pkg:composer/schenke-io/laravel-auth-router@v0.3.8
+- pkg:composer/schenke-io/laravel-auth-router@v0.4.0
