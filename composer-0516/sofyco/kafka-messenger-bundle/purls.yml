@@ -2,3 +2,4 @@
 - pkg:composer/sofyco/kafka-messenger-bundle@2.0.0
 - pkg:composer/sofyco/kafka-messenger-bundle@2.0.1
 - pkg:composer/sofyco/kafka-messenger-bundle@3.0.0
+- pkg:composer/sofyco/kafka-messenger-bundle@3.0.1
