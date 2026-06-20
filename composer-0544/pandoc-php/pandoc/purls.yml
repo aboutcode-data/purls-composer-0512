@@ -8,5 +8,6 @@
 - pkg:composer/pandoc-php/pandoc@3.3.0
 - pkg:composer/pandoc-php/pandoc@3.3.1
 - pkg:composer/pandoc-php/pandoc@3.3.2
+- pkg:composer/pandoc-php/pandoc@4.0.0
 - pkg:composer/pandoc-php/pandoc@v1.0.0
 - pkg:composer/pandoc-php/pandoc@v3.0.0
