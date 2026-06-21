@@ -486,6 +486,8 @@
 - pkg:composer/tencentcloud/mps@3.0.1597
 - pkg:composer/tencentcloud/mps@3.0.1600
 - pkg:composer/tencentcloud/mps@3.0.1601
+- pkg:composer/tencentcloud/mps@3.0.1605
+- pkg:composer/tencentcloud/mps@3.0.1609
 - pkg:composer/tencentcloud/mps@3.0.248
 - pkg:composer/tencentcloud/mps@3.0.249
 - pkg:composer/tencentcloud/mps@3.0.250
