@@ -406,6 +406,9 @@
 - pkg:composer/tencentcloud/bi@3.0.1578
 - pkg:composer/tencentcloud/bi@3.0.1598
 - pkg:composer/tencentcloud/bi@3.0.1600
+- pkg:composer/tencentcloud/bi@3.0.1606
+- pkg:composer/tencentcloud/bi@3.0.1607
+- pkg:composer/tencentcloud/bi@3.0.1610
 - pkg:composer/tencentcloud/bi@3.0.628
 - pkg:composer/tencentcloud/bi@3.0.629
 - pkg:composer/tencentcloud/bi@3.0.630
