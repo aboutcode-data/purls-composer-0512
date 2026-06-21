@@ -1,2 +1,5 @@
 - pkg:composer/tryhackx/flarum-topic-rating@1.0.5
-- pkg:composer/tryhackx/flarum-topic-rating@2.4.4
+- pkg:composer/tryhackx/flarum-topic-rating@2.4.10
+- pkg:composer/tryhackx/flarum-topic-rating@2.4.11
+- pkg:composer/tryhackx/flarum-topic-rating@2.4.8
+- pkg:composer/tryhackx/flarum-topic-rating@2.4.9
