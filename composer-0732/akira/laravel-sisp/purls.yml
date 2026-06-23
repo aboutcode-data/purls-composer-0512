@@ -15,3 +15,6 @@
 - pkg:composer/akira/laravel-sisp@v0.7.1
 - pkg:composer/akira/laravel-sisp@v0.7.2
 - pkg:composer/akira/laravel-sisp@v1.0.0
+- pkg:composer/akira/laravel-sisp@v1.0.1
+- pkg:composer/akira/laravel-sisp@v1.0.2
+- pkg:composer/akira/laravel-sisp@v1.0.3
