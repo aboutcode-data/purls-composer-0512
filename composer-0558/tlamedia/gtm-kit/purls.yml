@@ -78,6 +78,9 @@
 - pkg:composer/tlamedia/gtm-kit@2.14.0
 - pkg:composer/tlamedia/gtm-kit@2.14.1
 - pkg:composer/tlamedia/gtm-kit@2.15.0
+- pkg:composer/tlamedia/gtm-kit@2.16.0
+- pkg:composer/tlamedia/gtm-kit@2.16.1
+- pkg:composer/tlamedia/gtm-kit@2.16.3
 - pkg:composer/tlamedia/gtm-kit@2.2.0
 - pkg:composer/tlamedia/gtm-kit@2.2.1
 - pkg:composer/tlamedia/gtm-kit@2.2.2
