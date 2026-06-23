@@ -15,5 +15,6 @@
 - pkg:composer/wyox/laravel-gitlab-reporter@2.0.0
 - pkg:composer/wyox/laravel-gitlab-reporter@2.1.0
 - pkg:composer/wyox/laravel-gitlab-reporter@2.1.1
+- pkg:composer/wyox/laravel-gitlab-reporter@3.0.0
 - pkg:composer/wyox/laravel-gitlab-reporter@v0.0.1
 - pkg:composer/wyox/laravel-gitlab-reporter@v0.0.2
