@@ -128,3 +128,5 @@
 - pkg:composer/topoff/laravel-messenger@v8.7.0
 - pkg:composer/topoff/laravel-messenger@v8.7.1
 - pkg:composer/topoff/laravel-messenger@v8.8.0
+- pkg:composer/topoff/laravel-messenger@v8.8.1
+- pkg:composer/topoff/laravel-messenger@v8.8.2
