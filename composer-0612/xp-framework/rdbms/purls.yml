@@ -17,6 +17,7 @@
 - pkg:composer/xp-framework/rdbms@v13.2.0
 - pkg:composer/xp-framework/rdbms@v13.3.0
 - pkg:composer/xp-framework/rdbms@v13.4.0
+- pkg:composer/xp-framework/rdbms@v13.5.0
 - pkg:composer/xp-framework/rdbms@v6.0.0
 - pkg:composer/xp-framework/rdbms@v6.1.0
 - pkg:composer/xp-framework/rdbms@v6.1.1
