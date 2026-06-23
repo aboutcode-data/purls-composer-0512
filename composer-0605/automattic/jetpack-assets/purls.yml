@@ -195,8 +195,11 @@
 - pkg:composer/automattic/jetpack-assets@v4.3.41
 - pkg:composer/automattic/jetpack-assets@v4.3.42
 - pkg:composer/automattic/jetpack-assets@v4.3.43
+- pkg:composer/automattic/jetpack-assets@v4.3.44
 - pkg:composer/automattic/jetpack-assets@v4.3.5
 - pkg:composer/automattic/jetpack-assets@v4.3.6
 - pkg:composer/automattic/jetpack-assets@v4.3.7
 - pkg:composer/automattic/jetpack-assets@v4.3.8
 - pkg:composer/automattic/jetpack-assets@v4.3.9
+- pkg:composer/automattic/jetpack-assets@v4.4.0
+- pkg:composer/automattic/jetpack-assets@v4.4.1
