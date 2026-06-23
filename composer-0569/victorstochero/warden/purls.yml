@@ -1,2 +1,7 @@
-- pkg:composer/victorstochero/warden@v0.2.0
-- pkg:composer/victorstochero/warden@v0.2.1
+- pkg:composer/victorstochero/warden@v0.2.4
+- pkg:composer/victorstochero/warden@v0.3.0
+- pkg:composer/victorstochero/warden@v0.3.1
+- pkg:composer/victorstochero/warden@v0.3.2
+- pkg:composer/victorstochero/warden@v0.3.3
+- pkg:composer/victorstochero/warden@v0.3.4
+- pkg:composer/victorstochero/warden@v0.3.5
