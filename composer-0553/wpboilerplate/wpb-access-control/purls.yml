@@ -7,3 +7,7 @@
 - pkg:composer/wpboilerplate/wpb-access-control@v1.2.1
 - pkg:composer/wpboilerplate/wpb-access-control@v1.2.2
 - pkg:composer/wpboilerplate/wpb-access-control@v1.2.3
+- pkg:composer/wpboilerplate/wpb-access-control@v1.3.0
+- pkg:composer/wpboilerplate/wpb-access-control@v1.4.0
+- pkg:composer/wpboilerplate/wpb-access-control@v1.5.0
+- pkg:composer/wpboilerplate/wpb-access-control@v1.6.0
