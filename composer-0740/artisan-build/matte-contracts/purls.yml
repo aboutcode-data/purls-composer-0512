@@ -1,0 +1,4 @@
+- pkg:composer/artisan-build/matte-contracts@v0.1.0
+- pkg:composer/artisan-build/matte-contracts@v1.0.0
+- pkg:composer/artisan-build/matte-contracts@v2.0.0
+- pkg:composer/artisan-build/matte-contracts@v2.1.0
