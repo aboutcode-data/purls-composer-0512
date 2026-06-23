@@ -14,6 +14,7 @@
 - pkg:composer/webfiori/app@v2.4.5
 - pkg:composer/webfiori/app@v2.4.6
 - pkg:composer/webfiori/app@v2.4.7
+- pkg:composer/webfiori/app@v3.0.0
 - pkg:composer/webfiori/app@v3.0.0-Beta.1
 - pkg:composer/webfiori/app@v3.0.0-Beta.12
 - pkg:composer/webfiori/app@v3.0.0-Beta.13
