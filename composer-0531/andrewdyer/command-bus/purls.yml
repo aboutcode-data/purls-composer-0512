@@ -1,3 +1,4 @@
 - pkg:composer/andrewdyer/command-bus@0.1.0
 - pkg:composer/andrewdyer/command-bus@1.0.0
 - pkg:composer/andrewdyer/command-bus@1.0.1
+- pkg:composer/andrewdyer/command-bus@1.0.2
