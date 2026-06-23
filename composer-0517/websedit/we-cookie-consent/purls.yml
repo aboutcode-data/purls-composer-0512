@@ -53,3 +53,4 @@
 - pkg:composer/websedit/we-cookie-consent@v5.1.2
 - pkg:composer/websedit/we-cookie-consent@v6.0.0
 - pkg:composer/websedit/we-cookie-consent@v7.0.0
+- pkg:composer/websedit/we-cookie-consent@v7.0.1
