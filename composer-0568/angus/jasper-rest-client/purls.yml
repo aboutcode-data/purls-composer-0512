@@ -1,2 +1,4 @@
+- pkg:composer/angus/jasper-rest-client@1.0.0
+- pkg:composer/angus/jasper-rest-client@2.0.0
 - pkg:composer/angus/jasper-rest-client@v1.0.1
 - pkg:composer/angus/jasper-rest-client@v1.0.2
