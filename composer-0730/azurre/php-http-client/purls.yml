@@ -7,3 +7,6 @@
 - pkg:composer/azurre/php-http-client@1.0.7
 - pkg:composer/azurre/php-http-client@1.0.8
 - pkg:composer/azurre/php-http-client@1.1.0
+- pkg:composer/azurre/php-http-client@1.2.0
+- pkg:composer/azurre/php-http-client@1.3.0
+- pkg:composer/azurre/php-http-client@1.3.1
