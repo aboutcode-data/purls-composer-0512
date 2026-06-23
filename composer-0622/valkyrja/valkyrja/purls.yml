@@ -100,4 +100,6 @@
 - pkg:composer/valkyrja/valkyrja@v26.1.0
 - pkg:composer/valkyrja/valkyrja@v26.2.0
 - pkg:composer/valkyrja/valkyrja@v26.3.0
+- pkg:composer/valkyrja/valkyrja@v26.4.0
+- pkg:composer/valkyrja/valkyrja@v26.4.1
 - pkg:composer/valkyrja/valkyrja@v3.0.0
