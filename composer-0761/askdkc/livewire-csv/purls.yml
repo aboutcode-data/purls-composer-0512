@@ -24,3 +24,4 @@
 - pkg:composer/askdkc/livewire-csv@v1.7.1
 - pkg:composer/askdkc/livewire-csv@v1.8.0
 - pkg:composer/askdkc/livewire-csv@v1.8.1
+- pkg:composer/askdkc/livewire-csv@v2.0.0
