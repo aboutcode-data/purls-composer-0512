@@ -37,3 +37,4 @@
 - pkg:composer/xiaosongshu/rtmp_server@v2.2.7
 - pkg:composer/xiaosongshu/rtmp_server@v2.2.8
 - pkg:composer/xiaosongshu/rtmp_server@v2.3.0
+- pkg:composer/xiaosongshu/rtmp_server@v2.3.1
