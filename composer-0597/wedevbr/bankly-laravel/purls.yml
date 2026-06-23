@@ -115,3 +115,4 @@
 - pkg:composer/wedevbr/bankly-laravel@v1.7.0
 - pkg:composer/wedevbr/bankly-laravel@v1.8.0
 - pkg:composer/wedevbr/bankly-laravel@v1.9.0
+- pkg:composer/wedevbr/bankly-laravel@v2.0.0
