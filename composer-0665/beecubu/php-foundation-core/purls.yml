@@ -51,3 +51,5 @@
 - pkg:composer/beecubu/php-foundation-core@v3.6.2.3
 - pkg:composer/beecubu/php-foundation-core@v3.7.0
 - pkg:composer/beecubu/php-foundation-core@v3.7.0.1
+- pkg:composer/beecubu/php-foundation-core@v3.8.0
+- pkg:composer/beecubu/php-foundation-core@v3.9.0
