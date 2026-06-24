@@ -39,6 +39,8 @@
 - pkg:composer/canyongbs/common@2.19.0
 - pkg:composer/canyongbs/common@2.2.0
 - pkg:composer/canyongbs/common@2.2.1
+- pkg:composer/canyongbs/common@2.20.0
+- pkg:composer/canyongbs/common@2.21.0
 - pkg:composer/canyongbs/common@2.3.0
 - pkg:composer/canyongbs/common@2.3.1
 - pkg:composer/canyongbs/common@2.4.0
