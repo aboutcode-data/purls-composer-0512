@@ -279,6 +279,7 @@
 - pkg:composer/altis/dev-tools@26.0.3
 - pkg:composer/altis/dev-tools@26.0.4
 - pkg:composer/altis/dev-tools@26.0.5
+- pkg:composer/altis/dev-tools@27.0.0
 - pkg:composer/altis/dev-tools@27.0.0-beta.1
 - pkg:composer/altis/dev-tools@3.0.0
 - pkg:composer/altis/dev-tools@3.0.0-beta1
