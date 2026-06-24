@@ -16,6 +16,8 @@
 - pkg:composer/cardanopress/framework@v2.15.1
 - pkg:composer/cardanopress/framework@v2.16.0
 - pkg:composer/cardanopress/framework@v2.17.0
+- pkg:composer/cardanopress/framework@v2.18.0
+- pkg:composer/cardanopress/framework@v2.18.1
 - pkg:composer/cardanopress/framework@v2.2.0
 - pkg:composer/cardanopress/framework@v2.3.0
 - pkg:composer/cardanopress/framework@v2.3.1
