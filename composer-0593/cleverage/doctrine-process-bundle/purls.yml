@@ -9,3 +9,4 @@
 - pkg:composer/cleverage/doctrine-process-bundle@v2.0.0
 - pkg:composer/cleverage/doctrine-process-bundle@v2.0.1
 - pkg:composer/cleverage/doctrine-process-bundle@v2.1
+- pkg:composer/cleverage/doctrine-process-bundle@v3.0
