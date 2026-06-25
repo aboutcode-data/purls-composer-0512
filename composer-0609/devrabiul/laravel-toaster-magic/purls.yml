@@ -1,4 +1,6 @@
 - pkg:composer/devrabiul/laravel-toaster-magic@2.1.0
+- pkg:composer/devrabiul/laravel-toaster-magic@2.2.0
+- pkg:composer/devrabiul/laravel-toaster-magic@2.3.0
 - pkg:composer/devrabiul/laravel-toaster-magic@v1.0.0
 - pkg:composer/devrabiul/laravel-toaster-magic@v1.0.1
 - pkg:composer/devrabiul/laravel-toaster-magic@v1.0.2
