@@ -62,3 +62,4 @@
 - pkg:composer/dcarbone/php-fhir@v4.0.3
 - pkg:composer/dcarbone/php-fhir@v4.0.4
 - pkg:composer/dcarbone/php-fhir@v4.1.0
+- pkg:composer/dcarbone/php-fhir@v4.1.1
