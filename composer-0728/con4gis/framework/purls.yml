@@ -85,3 +85,5 @@
 - pkg:composer/con4gis/framework@v2.0.7
 - pkg:composer/con4gis/framework@v2.0.8
 - pkg:composer/con4gis/framework@v2.0.9
+- pkg:composer/con4gis/framework@v2.1.0
+- pkg:composer/con4gis/framework@v2.1.1
