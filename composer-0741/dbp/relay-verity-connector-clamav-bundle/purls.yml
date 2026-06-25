@@ -4,3 +4,6 @@
 - pkg:composer/dbp/relay-verity-connector-clamav-bundle@v0.2.2
 - pkg:composer/dbp/relay-verity-connector-clamav-bundle@v0.2.3
 - pkg:composer/dbp/relay-verity-connector-clamav-bundle@v0.2.4
+- pkg:composer/dbp/relay-verity-connector-clamav-bundle@v0.2.5
+- pkg:composer/dbp/relay-verity-connector-clamav-bundle@v0.3.0
+- pkg:composer/dbp/relay-verity-connector-clamav-bundle@v0.4.0
