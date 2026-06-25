@@ -1,2 +1,10 @@
+- pkg:composer/cron-eu/begroups-roles@2.0.0
+- pkg:composer/cron-eu/begroups-roles@2.0.1
+- pkg:composer/cron-eu/begroups-roles@2.0.2
+- pkg:composer/cron-eu/begroups-roles@2.0.3
+- pkg:composer/cron-eu/begroups-roles@3.0.0
+- pkg:composer/cron-eu/begroups-roles@3.1.0
+- pkg:composer/cron-eu/begroups-roles@3.1.1
+- pkg:composer/cron-eu/begroups-roles@3.1.2
 - pkg:composer/cron-eu/begroups-roles@4.0.0
 - pkg:composer/cron-eu/begroups-roles@5.0.0
