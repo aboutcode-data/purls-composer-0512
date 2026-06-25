@@ -8,6 +8,7 @@
 - pkg:composer/cmsig/seal-redisearch-adapter@0.12.11
 - pkg:composer/cmsig/seal-redisearch-adapter@0.12.12
 - pkg:composer/cmsig/seal-redisearch-adapter@0.12.14
+- pkg:composer/cmsig/seal-redisearch-adapter@0.12.15
 - pkg:composer/cmsig/seal-redisearch-adapter@0.12.2
 - pkg:composer/cmsig/seal-redisearch-adapter@0.12.4
 - pkg:composer/cmsig/seal-redisearch-adapter@0.12.5
