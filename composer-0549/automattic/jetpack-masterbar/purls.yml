@@ -86,6 +86,7 @@
 - pkg:composer/automattic/jetpack-masterbar@v0.27.28
 - pkg:composer/automattic/jetpack-masterbar@v0.27.29
 - pkg:composer/automattic/jetpack-masterbar@v0.27.3
+- pkg:composer/automattic/jetpack-masterbar@v0.27.30
 - pkg:composer/automattic/jetpack-masterbar@v0.27.4
 - pkg:composer/automattic/jetpack-masterbar@v0.27.5
 - pkg:composer/automattic/jetpack-masterbar@v0.27.6
