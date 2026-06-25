@@ -325,6 +325,7 @@
 - pkg:composer/creativestyle/magesuite-content-constructor-frontend@v5.2.5
 - pkg:composer/creativestyle/magesuite-content-constructor-frontend@v5.20.0
 - pkg:composer/creativestyle/magesuite-content-constructor-frontend@v5.20.1
+- pkg:composer/creativestyle/magesuite-content-constructor-frontend@v5.20.2
 - pkg:composer/creativestyle/magesuite-content-constructor-frontend@v5.3.0
 - pkg:composer/creativestyle/magesuite-content-constructor-frontend@v5.3.1
 - pkg:composer/creativestyle/magesuite-content-constructor-frontend@v5.3.2
@@ -397,3 +398,5 @@
 - pkg:composer/creativestyle/magesuite-content-constructor-frontend@v5.9.3
 - pkg:composer/creativestyle/magesuite-content-constructor-frontend@v5.9.4
 - pkg:composer/creativestyle/magesuite-content-constructor-frontend@v5.9.5
+- pkg:composer/creativestyle/magesuite-content-constructor-frontend@v6.0.0
+- pkg:composer/creativestyle/magesuite-content-constructor-frontend@v6.0.1
