@@ -126,6 +126,7 @@
 - pkg:composer/ensi/laravel-elastic-query@8.2.12
 - pkg:composer/ensi/laravel-elastic-query@8.2.13
 - pkg:composer/ensi/laravel-elastic-query@8.2.14
+- pkg:composer/ensi/laravel-elastic-query@8.2.15
 - pkg:composer/ensi/laravel-elastic-query@8.2.2
 - pkg:composer/ensi/laravel-elastic-query@8.2.3
 - pkg:composer/ensi/laravel-elastic-query@8.2.4
