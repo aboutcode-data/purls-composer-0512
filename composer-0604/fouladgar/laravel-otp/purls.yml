@@ -12,3 +12,4 @@
 - pkg:composer/fouladgar/laravel-otp@v5.3.0
 - pkg:composer/fouladgar/laravel-otp@v5.5.0
 - pkg:composer/fouladgar/laravel-otp@v5.6.0
+- pkg:composer/fouladgar/laravel-otp@v5.7.0
