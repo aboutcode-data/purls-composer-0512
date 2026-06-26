@@ -10,3 +10,5 @@
 - pkg:composer/flagrow/amazon-affiliation@1.0.0
 - pkg:composer/flagrow/amazon-affiliation@1.0.1
 - pkg:composer/flagrow/amazon-affiliation@1.1.0
+- pkg:composer/flagrow/amazon-affiliation@1.1.1
+- pkg:composer/flagrow/amazon-affiliation@2.0.0-beta.1
