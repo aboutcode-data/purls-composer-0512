@@ -68,3 +68,5 @@
 - pkg:composer/ebsp/resting@v7.4.0
 - pkg:composer/ebsp/resting@v8.0.0
 - pkg:composer/ebsp/resting@v8.0.1
+- pkg:composer/ebsp/resting@v8.0.2
+- pkg:composer/ebsp/resting@v8.1.0
