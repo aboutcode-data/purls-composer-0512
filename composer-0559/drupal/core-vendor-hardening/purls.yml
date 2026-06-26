@@ -85,6 +85,7 @@
 - pkg:composer/drupal/core-vendor-hardening@10.5.1
 - pkg:composer/drupal/core-vendor-hardening@10.5.10
 - pkg:composer/drupal/core-vendor-hardening@10.5.11
+- pkg:composer/drupal/core-vendor-hardening@10.5.12
 - pkg:composer/drupal/core-vendor-hardening@10.5.2
 - pkg:composer/drupal/core-vendor-hardening@10.5.3
 - pkg:composer/drupal/core-vendor-hardening@10.5.4
@@ -98,6 +99,8 @@
 - pkg:composer/drupal/core-vendor-hardening@10.6.0-rc1
 - pkg:composer/drupal/core-vendor-hardening@10.6.1
 - pkg:composer/drupal/core-vendor-hardening@10.6.10
+- pkg:composer/drupal/core-vendor-hardening@10.6.11
+- pkg:composer/drupal/core-vendor-hardening@10.6.12
 - pkg:composer/drupal/core-vendor-hardening@10.6.2
 - pkg:composer/drupal/core-vendor-hardening@10.6.3
 - pkg:composer/drupal/core-vendor-hardening@10.6.4
@@ -146,6 +149,7 @@
 - pkg:composer/drupal/core-vendor-hardening@11.2.11
 - pkg:composer/drupal/core-vendor-hardening@11.2.12
 - pkg:composer/drupal/core-vendor-hardening@11.2.13
+- pkg:composer/drupal/core-vendor-hardening@11.2.14
 - pkg:composer/drupal/core-vendor-hardening@11.2.2
 - pkg:composer/drupal/core-vendor-hardening@11.2.3
 - pkg:composer/drupal/core-vendor-hardening@11.2.4
@@ -162,6 +166,8 @@
 - pkg:composer/drupal/core-vendor-hardening@11.3.1
 - pkg:composer/drupal/core-vendor-hardening@11.3.10
 - pkg:composer/drupal/core-vendor-hardening@11.3.11
+- pkg:composer/drupal/core-vendor-hardening@11.3.12
+- pkg:composer/drupal/core-vendor-hardening@11.3.13
 - pkg:composer/drupal/core-vendor-hardening@11.3.2
 - pkg:composer/drupal/core-vendor-hardening@11.3.3
 - pkg:composer/drupal/core-vendor-hardening@11.3.4
@@ -172,6 +178,7 @@
 - pkg:composer/drupal/core-vendor-hardening@11.3.9
 - pkg:composer/drupal/core-vendor-hardening@11.4.0-beta1
 - pkg:composer/drupal/core-vendor-hardening@11.4.0-rc1
+- pkg:composer/drupal/core-vendor-hardening@11.4.0-rc2
 - pkg:composer/drupal/core-vendor-hardening@8.7.11
 - pkg:composer/drupal/core-vendor-hardening@8.8.0
 - pkg:composer/drupal/core-vendor-hardening@8.8.0-alpha1
