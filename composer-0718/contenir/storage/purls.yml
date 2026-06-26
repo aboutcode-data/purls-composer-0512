@@ -12,3 +12,4 @@
 - pkg:composer/contenir/storage@v0.3.6
 - pkg:composer/contenir/storage@v0.4.0
 - pkg:composer/contenir/storage@v0.4.1
+- pkg:composer/contenir/storage@v0.5.0
