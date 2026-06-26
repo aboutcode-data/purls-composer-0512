@@ -54,6 +54,7 @@
 - pkg:composer/farmos/farmos@3.5.1
 - pkg:composer/farmos/farmos@3.5.2
 - pkg:composer/farmos/farmos@3.5.3
+- pkg:composer/farmos/farmos@3.5.4
 - pkg:composer/farmos/farmos@4.0.0
 - pkg:composer/farmos/farmos@4.0.0-beta1
 - pkg:composer/farmos/farmos@4.0.0-beta2
@@ -61,3 +62,4 @@
 - pkg:composer/farmos/farmos@4.0.0-beta4
 - pkg:composer/farmos/farmos@4.0.1
 - pkg:composer/farmos/farmos@4.0.2
+- pkg:composer/farmos/farmos@4.0.3
