@@ -9,3 +9,4 @@
 - pkg:composer/docusign/click-client@v1.4.1
 - pkg:composer/docusign/click-client@v1.4.1-rc1
 - pkg:composer/docusign/click-client@v1.4.2
+- pkg:composer/docusign/click-client@v1.4.3

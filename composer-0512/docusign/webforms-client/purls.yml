@@ -6,3 +6,4 @@
 - pkg:composer/docusign/webforms-client@v2.0.0-rc1
 - pkg:composer/docusign/webforms-client@v2.1.0
 - pkg:composer/docusign/webforms-client@v2.1.1
+- pkg:composer/docusign/webforms-client@v2.1.2
