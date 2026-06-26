@@ -46,3 +46,4 @@
 - pkg:composer/drewlabs/laravel-query@v0.3.6
 - pkg:composer/drewlabs/laravel-query@v0.3.7
 - pkg:composer/drewlabs/laravel-query@v0.3.8
+- pkg:composer/drewlabs/laravel-query@v0.4.0
