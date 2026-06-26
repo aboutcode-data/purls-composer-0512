@@ -12,3 +12,4 @@
 - pkg:composer/event-engine/php-data@v2.0.1
 - pkg:composer/event-engine/php-data@v2.0.2
 - pkg:composer/event-engine/php-data@v2.0.3
+- pkg:composer/event-engine/php-data@v2.1.0
