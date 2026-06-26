@@ -2,3 +2,4 @@
 - pkg:composer/emailsherlock/email-guard-core@v0.1.1
 - pkg:composer/emailsherlock/email-guard-core@v0.1.2
 - pkg:composer/emailsherlock/email-guard-core@v0.2.0
+- pkg:composer/emailsherlock/email-guard-core@v0.3.0
