@@ -22,3 +22,5 @@
 - pkg:composer/finller/laravel-forex@v2.5.1
 - pkg:composer/finller/laravel-forex@v3.0.0
 - pkg:composer/finller/laravel-forex@v4.0.0
+- pkg:composer/finller/laravel-forex@v4.0.1
+- pkg:composer/finller/laravel-forex@v4.0.2
