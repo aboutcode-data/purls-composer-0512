@@ -21,6 +21,8 @@
 - pkg:composer/effectiveactivism/sparql-client@15.0.0
 - pkg:composer/effectiveactivism/sparql-client@15.0.1
 - pkg:composer/effectiveactivism/sparql-client@15.1.0
+- pkg:composer/effectiveactivism/sparql-client@15.2.0
+- pkg:composer/effectiveactivism/sparql-client@15.3.0
 - pkg:composer/effectiveactivism/sparql-client@2.0.0
 - pkg:composer/effectiveactivism/sparql-client@2.1.0
 - pkg:composer/effectiveactivism/sparql-client@3.0.0
