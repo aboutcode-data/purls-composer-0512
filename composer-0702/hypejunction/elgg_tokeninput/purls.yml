@@ -16,3 +16,6 @@
 - pkg:composer/hypejunction/elgg_tokeninput@6.0.0
 - pkg:composer/hypejunction/elgg_tokeninput@7.0.0
 - pkg:composer/hypejunction/elgg_tokeninput@7.0.1
+- pkg:composer/hypejunction/elgg_tokeninput@7.0.2
+- pkg:composer/hypejunction/elgg_tokeninput@7.0.3
+- pkg:composer/hypejunction/elgg_tokeninput@7.0.4
