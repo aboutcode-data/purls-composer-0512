@@ -62,6 +62,8 @@
 - pkg:composer/heimrichhannot/contao-entity-import-bundle@0.24.7
 - pkg:composer/heimrichhannot/contao-entity-import-bundle@0.24.8
 - pkg:composer/heimrichhannot/contao-entity-import-bundle@0.25.0
+- pkg:composer/heimrichhannot/contao-entity-import-bundle@0.25.1
+- pkg:composer/heimrichhannot/contao-entity-import-bundle@0.25.2
 - pkg:composer/heimrichhannot/contao-entity-import-bundle@0.3.0
 - pkg:composer/heimrichhannot/contao-entity-import-bundle@0.3.1
 - pkg:composer/heimrichhannot/contao-entity-import-bundle@0.3.2
