@@ -8,6 +8,7 @@
 - pkg:composer/horde/icalendar@2.1.8
 - pkg:composer/horde/icalendar@3.0.0alpha1
 - pkg:composer/horde/icalendar@3.0.0alpha2
+- pkg:composer/horde/icalendar@v3.0.0
 - pkg:composer/horde/icalendar@v3.0.0RC1
 - pkg:composer/horde/icalendar@v3.0.0RC2
 - pkg:composer/horde/icalendar@v3.0.0alpha3
