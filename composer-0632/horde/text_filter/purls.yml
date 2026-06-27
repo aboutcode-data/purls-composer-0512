@@ -5,6 +5,7 @@
 - pkg:composer/horde/text_filter@2.3.6
 - pkg:composer/horde/text_filter@2.3.7
 - pkg:composer/horde/text_filter@3.0.0alpha1
+- pkg:composer/horde/text_filter@v3.0.0
 - pkg:composer/horde/text_filter@v3.0.0RC1
 - pkg:composer/horde/text_filter@v3.0.0alpha2
 - pkg:composer/horde/text_filter@v3.0.0alpha3
