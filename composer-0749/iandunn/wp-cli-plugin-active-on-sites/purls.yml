@@ -1,3 +1,4 @@
 - pkg:composer/iandunn/wp-cli-plugin-active-on-sites@v0.1.4
 - pkg:composer/iandunn/wp-cli-plugin-active-on-sites@v0.1.5
 - pkg:composer/iandunn/wp-cli-plugin-active-on-sites@v1.0.0
+- pkg:composer/iandunn/wp-cli-plugin-active-on-sites@v1.0.1
