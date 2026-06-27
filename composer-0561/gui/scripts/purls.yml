@@ -45,3 +45,5 @@
 - pkg:composer/gui/scripts@1.0.260520.1
 - pkg:composer/gui/scripts@1.0.260530
 - pkg:composer/gui/scripts@1.0.260611
+- pkg:composer/gui/scripts@1.0.260612
+- pkg:composer/gui/scripts@1.0.260625
