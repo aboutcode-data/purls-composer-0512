@@ -243,3 +243,5 @@
 - pkg:composer/gutesio/operator@v2.2.97
 - pkg:composer/gutesio/operator@v2.2.98
 - pkg:composer/gutesio/operator@v2.2.99
+- pkg:composer/gutesio/operator@v2.3.0
+- pkg:composer/gutesio/operator@v2.3.1
