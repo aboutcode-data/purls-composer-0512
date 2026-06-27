@@ -36,6 +36,7 @@
 - pkg:composer/islandora/islandora@2.18.1
 - pkg:composer/islandora/islandora@2.18.2
 - pkg:composer/islandora/islandora@2.18.3
+- pkg:composer/islandora/islandora@2.18.4
 - pkg:composer/islandora/islandora@2.2.0
 - pkg:composer/islandora/islandora@2.2.1
 - pkg:composer/islandora/islandora@2.3.0
