@@ -7,6 +7,7 @@
 - pkg:composer/horde/perms@2.1.8
 - pkg:composer/horde/perms@3.0.0alpha1
 - pkg:composer/horde/perms@3.0.0alpha2
+- pkg:composer/horde/perms@v3.0.0
 - pkg:composer/horde/perms@v3.0.0RC1
 - pkg:composer/horde/perms@v3.0.0alpha3
 - pkg:composer/horde/perms@v3.0.0alpha4

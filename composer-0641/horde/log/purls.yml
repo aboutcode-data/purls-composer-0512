@@ -5,6 +5,7 @@
 - pkg:composer/horde/log@2.3.0
 - pkg:composer/horde/log@3.0.0alpha1
 - pkg:composer/horde/log@3.0.0alpha2
+- pkg:composer/horde/log@v3.0.0
 - pkg:composer/horde/log@v3.0.0alpha3
 - pkg:composer/horde/log@v3.0.0alpha4
 - pkg:composer/horde/log@v3.0.0alpha5
