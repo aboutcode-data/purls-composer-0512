@@ -8,3 +8,4 @@
 - pkg:composer/initphp/http@2.2.1
 - pkg:composer/initphp/http@2.2.2
 - pkg:composer/initphp/http@3.0.0
+- pkg:composer/initphp/http@3.1.0
