@@ -1243,3 +1243,8 @@
 - pkg:composer/itzbund/gsb-sitepackage@v9.7.0
 - pkg:composer/itzbund/gsb-sitepackage@v9.7.0-rc.1
 - pkg:composer/itzbund/gsb-sitepackage@v9.7.0-rc.2
+- pkg:composer/itzbund/gsb-sitepackage@v9.7.1-rc.1
+- pkg:composer/itzbund/gsb-sitepackage@v9.7.1-rc.2
+- pkg:composer/itzbund/gsb-sitepackage@v9.7.1-rc.3
+- pkg:composer/itzbund/gsb-sitepackage@v9.7.1-rc.4
+- pkg:composer/itzbund/gsb-sitepackage@v9.7.1-rc.5
