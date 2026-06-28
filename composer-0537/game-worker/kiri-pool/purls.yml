@@ -1,2 +1,4 @@
 - pkg:composer/game-worker/kiri-pool@v1.0
 - pkg:composer/game-worker/kiri-pool@v1.1
+- pkg:composer/game-worker/kiri-pool@v1.2
+- pkg:composer/game-worker/kiri-pool@v1.3
