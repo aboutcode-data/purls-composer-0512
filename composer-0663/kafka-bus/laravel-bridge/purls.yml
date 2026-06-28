@@ -2,3 +2,6 @@
 - pkg:composer/kafka-bus/laravel-bridge@v1.1.0
 - pkg:composer/kafka-bus/laravel-bridge@v1.2.0
 - pkg:composer/kafka-bus/laravel-bridge@v1.3.0
+- pkg:composer/kafka-bus/laravel-bridge@v1.4.0
+- pkg:composer/kafka-bus/laravel-bridge@v1.4.1
+- pkg:composer/kafka-bus/laravel-bridge@v1.4.2
