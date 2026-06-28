@@ -16,3 +16,4 @@
 - pkg:composer/jawira/doctrine-diagram-bundle@v1.0.1
 - pkg:composer/jawira/doctrine-diagram-bundle@v1.1.0
 - pkg:composer/jawira/doctrine-diagram-bundle@v1.2.0
+- pkg:composer/jawira/doctrine-diagram-bundle@v2.0.0
