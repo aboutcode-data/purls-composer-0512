@@ -17,3 +17,4 @@
 - pkg:composer/ivoba/silverstripe-simple-pdf-preview@2.4.0
 - pkg:composer/ivoba/silverstripe-simple-pdf-preview@2.5.0
 - pkg:composer/ivoba/silverstripe-simple-pdf-preview@3.0.0
+- pkg:composer/ivoba/silverstripe-simple-pdf-preview@3.0.1
