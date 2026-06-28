@@ -1,4 +1,5 @@
 - pkg:composer/lagdo/ui-builder-bootstrap3@v0.1.0
+- pkg:composer/lagdo/ui-builder-bootstrap3@v0.10.0
 - pkg:composer/lagdo/ui-builder-bootstrap3@v0.2.0
 - pkg:composer/lagdo/ui-builder-bootstrap3@v0.2.1
 - pkg:composer/lagdo/ui-builder-bootstrap3@v0.3.0
