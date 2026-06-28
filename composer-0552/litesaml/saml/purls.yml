@@ -4,3 +4,8 @@
 - pkg:composer/litesaml/saml@0.3.0
 - pkg:composer/litesaml/saml@0.3.1
 - pkg:composer/litesaml/saml@0.3.2
+- pkg:composer/litesaml/saml@0.4.0
+- pkg:composer/litesaml/saml@0.5.0
+- pkg:composer/litesaml/saml@1.0.1
+- pkg:composer/litesaml/saml@2.0.0
+- pkg:composer/litesaml/saml@v1.0.0
