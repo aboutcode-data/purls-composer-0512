@@ -10,3 +10,4 @@
 - pkg:composer/laravel-notification-channels/interfax@v5.0.0
 - pkg:composer/laravel-notification-channels/interfax@v6.0.0
 - pkg:composer/laravel-notification-channels/interfax@v7.0.0
+- pkg:composer/laravel-notification-channels/interfax@v8.0.0
