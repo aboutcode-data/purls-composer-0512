@@ -1,3 +1,6 @@
+- pkg:composer/jeffersongoncalves/filament-cookie-consent@1.4.0
+- pkg:composer/jeffersongoncalves/filament-cookie-consent@2.4.0
+- pkg:composer/jeffersongoncalves/filament-cookie-consent@3.3.0
 - pkg:composer/jeffersongoncalves/filament-cookie-consent@v1.0.0
 - pkg:composer/jeffersongoncalves/filament-cookie-consent@v1.0.1
 - pkg:composer/jeffersongoncalves/filament-cookie-consent@v1.0.2
