@@ -5,3 +5,4 @@
 - pkg:composer/internal/toml@1.1.0
 - pkg:composer/internal/toml@1.1.1
 - pkg:composer/internal/toml@1.1.2
+- pkg:composer/internal/toml@1.1.3
