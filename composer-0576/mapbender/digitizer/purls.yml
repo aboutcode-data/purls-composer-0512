@@ -162,4 +162,6 @@
 - pkg:composer/mapbender/digitizer@2.0.7
 - pkg:composer/mapbender/digitizer@2.0.8
 - pkg:composer/mapbender/digitizer@2.0.9
+- pkg:composer/mapbender/digitizer@3.0.0-RC1
+- pkg:composer/mapbender/digitizer@3.0.0-RC2
 - pkg:composer/mapbender/digitizer@v1.3-beta2
