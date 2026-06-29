@@ -33,3 +33,4 @@
 - pkg:composer/innis/nostr-core@v0.3.7
 - pkg:composer/innis/nostr-core@v0.3.8
 - pkg:composer/innis/nostr-core@v0.3.9
+- pkg:composer/innis/nostr-core@v0.4.0
