@@ -77,3 +77,5 @@
 - pkg:composer/masmaleki/zoho-v3@v1.0.9
 - pkg:composer/masmaleki/zoho-v3@v4.0.0
 - pkg:composer/masmaleki/zoho-v3@v4.0.1
+- pkg:composer/masmaleki/zoho-v3@v4.0.2
+- pkg:composer/masmaleki/zoho-v3@v4.0.3
