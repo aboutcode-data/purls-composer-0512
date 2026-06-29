@@ -40,3 +40,5 @@
 - pkg:composer/joskolenberg/laravel-jory@v3.2.1
 - pkg:composer/joskolenberg/laravel-jory@v3.2.2
 - pkg:composer/joskolenberg/laravel-jory@v3.3.0
+- pkg:composer/joskolenberg/laravel-jory@v3.4.0
+- pkg:composer/joskolenberg/laravel-jory@v3.4.1
