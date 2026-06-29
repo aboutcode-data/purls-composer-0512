@@ -856,6 +856,7 @@
 - pkg:composer/itzbund/gsb-solr@v2.8.2-beta.3
 - pkg:composer/itzbund/gsb-solr@v2.8.2-beta.4
 - pkg:composer/itzbund/gsb-solr@v2.8.2-beta.5
+- pkg:composer/itzbund/gsb-solr@v2.8.2-beta.6
 - pkg:composer/itzbund/gsb-solr@v2.8.2-rc.1
 - pkg:composer/itzbund/gsb-solr@v2.8.2-rc.2
 - pkg:composer/itzbund/gsb-solr@v2.8.2-rc.3
