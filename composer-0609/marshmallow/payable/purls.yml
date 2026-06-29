@@ -44,6 +44,9 @@
 - pkg:composer/marshmallow/payable@v2.10.0
 - pkg:composer/marshmallow/payable@v2.10.1
 - pkg:composer/marshmallow/payable@v2.10.2
+- pkg:composer/marshmallow/payable@v2.11.0
+- pkg:composer/marshmallow/payable@v2.11.1
+- pkg:composer/marshmallow/payable@v2.11.2
 - pkg:composer/marshmallow/payable@v2.2.0
 - pkg:composer/marshmallow/payable@v2.2.1
 - pkg:composer/marshmallow/payable@v2.3.0
