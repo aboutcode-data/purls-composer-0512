@@ -25,6 +25,9 @@
 - pkg:composer/jodit/connector@3.0.115
 - pkg:composer/jodit/connector@3.0.116
 - pkg:composer/jodit/connector@3.0.117
+- pkg:composer/jodit/connector@3.0.118
+- pkg:composer/jodit/connector@3.0.119
+- pkg:composer/jodit/connector@3.0.120
 - pkg:composer/jodit/connector@3.0.14
 - pkg:composer/jodit/connector@3.0.15
 - pkg:composer/jodit/connector@3.0.16
