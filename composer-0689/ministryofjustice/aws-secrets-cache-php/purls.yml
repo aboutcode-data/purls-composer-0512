@@ -17,3 +17,4 @@
 - pkg:composer/ministryofjustice/aws-secrets-cache-php@v2.1.0
 - pkg:composer/ministryofjustice/aws-secrets-cache-php@v2.1.1
 - pkg:composer/ministryofjustice/aws-secrets-cache-php@v2.1.2
+- pkg:composer/ministryofjustice/aws-secrets-cache-php@v2.1.3
