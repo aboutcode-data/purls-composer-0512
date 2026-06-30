@@ -9,5 +9,8 @@
 - pkg:composer/netlogix/nlx-sw-imgproxy@1.7.0
 - pkg:composer/netlogix/nlx-sw-imgproxy@1.7.1
 - pkg:composer/netlogix/nlx-sw-imgproxy@1.8.0
+- pkg:composer/netlogix/nlx-sw-imgproxy@2.0.0
+- pkg:composer/netlogix/nlx-sw-imgproxy@2.1.0
+- pkg:composer/netlogix/nlx-sw-imgproxy@2.2.0
 - pkg:composer/netlogix/nlx-sw-imgproxy@v1.0.0
 - pkg:composer/netlogix/nlx-sw-imgproxy@v1.1.0
