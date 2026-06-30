@@ -1,1 +1,2 @@
 - pkg:composer/mock-server/mockserver-client@7.1.0
+- pkg:composer/mock-server/mockserver-client@7.2.0
