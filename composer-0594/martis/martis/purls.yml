@@ -39,6 +39,8 @@
 - pkg:composer/martis/martis@v1.15.1
 - pkg:composer/martis/martis@v1.16.0
 - pkg:composer/martis/martis@v1.16.1
+- pkg:composer/martis/martis@v1.17.0
+- pkg:composer/martis/martis@v1.17.1
 - pkg:composer/martis/martis@v1.2.0
 - pkg:composer/martis/martis@v1.2.1
 - pkg:composer/martis/martis@v1.3.0
