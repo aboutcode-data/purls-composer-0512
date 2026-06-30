@@ -69,6 +69,7 @@
 - pkg:composer/nette/application@v3.2.0
 - pkg:composer/nette/application@v3.2.1
 - pkg:composer/nette/application@v3.2.10
+- pkg:composer/nette/application@v3.2.12
 - pkg:composer/nette/application@v3.2.3
 - pkg:composer/nette/application@v3.2.4
 - pkg:composer/nette/application@v3.2.5
@@ -76,3 +77,5 @@
 - pkg:composer/nette/application@v3.2.7
 - pkg:composer/nette/application@v3.2.8
 - pkg:composer/nette/application@v3.2.9
+- pkg:composer/nette/application@v3.3.0
+- pkg:composer/nette/application@v3.3.0-RC
