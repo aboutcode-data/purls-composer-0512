@@ -14,6 +14,7 @@
 - pkg:composer/namirasoft/nws-region@1.4.13
 - pkg:composer/namirasoft/nws-region@1.4.14
 - pkg:composer/namirasoft/nws-region@1.4.15
+- pkg:composer/namirasoft/nws-region@1.4.16
 - pkg:composer/namirasoft/nws-region@1.4.2
 - pkg:composer/namirasoft/nws-region@1.4.3
 - pkg:composer/namirasoft/nws-region@1.4.4
@@ -22,3 +23,4 @@
 - pkg:composer/namirasoft/nws-region@1.4.7
 - pkg:composer/namirasoft/nws-region@1.4.8
 - pkg:composer/namirasoft/nws-region@1.4.9
+- pkg:composer/namirasoft/nws-region@1.5.0
