@@ -4,6 +4,7 @@
 - pkg:composer/moonshine/crud@4.0.9
 - pkg:composer/moonshine/crud@4.1.0
 - pkg:composer/moonshine/crud@4.10.0
+- pkg:composer/moonshine/crud@4.16.1
 - pkg:composer/moonshine/crud@4.2.0
 - pkg:composer/moonshine/crud@4.2.2
 - pkg:composer/moonshine/crud@4.3.3
