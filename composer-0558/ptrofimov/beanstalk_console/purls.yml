@@ -38,3 +38,5 @@
 - pkg:composer/ptrofimov/beanstalk_console@1.8.0
 - pkg:composer/ptrofimov/beanstalk_console@1.8.1
 - pkg:composer/ptrofimov/beanstalk_console@1.8.2
+- pkg:composer/ptrofimov/beanstalk_console@1.9.0
+- pkg:composer/ptrofimov/beanstalk_console@1.9.1
