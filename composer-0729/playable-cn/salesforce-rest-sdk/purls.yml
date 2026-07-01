@@ -37,3 +37,5 @@
 - pkg:composer/playable-cn/salesforce-rest-sdk@v2.0.1
 - pkg:composer/playable-cn/salesforce-rest-sdk@v2.0.2
 - pkg:composer/playable-cn/salesforce-rest-sdk@v2.0.3
+- pkg:composer/playable-cn/salesforce-rest-sdk@v2.0.4
+- pkg:composer/playable-cn/salesforce-rest-sdk@v2.0.5
