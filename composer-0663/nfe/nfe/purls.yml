@@ -7,5 +7,6 @@
 - pkg:composer/nfe/nfe@2.3
 - pkg:composer/nfe/nfe@2.4
 - pkg:composer/nfe/nfe@2.5
+- pkg:composer/nfe/nfe@v3.0.0
 - pkg:composer/nfe/nfe@v3.0.0-rc.1
 - pkg:composer/nfe/nfe@v3.0.0-rc.2
