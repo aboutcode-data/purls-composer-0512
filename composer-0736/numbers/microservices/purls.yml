@@ -9,3 +9,4 @@
 - pkg:composer/numbers/microservices@1.0.9
 - pkg:composer/numbers/microservices@3.0.1
 - pkg:composer/numbers/microservices@3.0.2
+- pkg:composer/numbers/microservices@4.0.0
