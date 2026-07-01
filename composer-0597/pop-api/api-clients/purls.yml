@@ -111,6 +111,7 @@
 - pkg:composer/pop-api/api-clients@17.1.2
 - pkg:composer/pop-api/api-clients@18.0.0
 - pkg:composer/pop-api/api-clients@18.0.1
+- pkg:composer/pop-api/api-clients@19.0.0
 - pkg:composer/pop-api/api-clients@2.0.0
 - pkg:composer/pop-api/api-clients@2.0.1
 - pkg:composer/pop-api/api-clients@2.1.0

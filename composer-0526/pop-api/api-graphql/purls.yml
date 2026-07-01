@@ -111,6 +111,7 @@
 - pkg:composer/pop-api/api-graphql@17.1.2
 - pkg:composer/pop-api/api-graphql@18.0.0
 - pkg:composer/pop-api/api-graphql@18.0.1
+- pkg:composer/pop-api/api-graphql@19.0.0
 - pkg:composer/pop-api/api-graphql@2.0.0
 - pkg:composer/pop-api/api-graphql@2.0.1
 - pkg:composer/pop-api/api-graphql@2.1.0
