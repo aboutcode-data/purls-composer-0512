@@ -4,3 +4,5 @@
 - pkg:composer/progalaxyelabs/stonescriptdb-gateway-client@v1.3.0
 - pkg:composer/progalaxyelabs/stonescriptdb-gateway-client@v2.0.0
 - pkg:composer/progalaxyelabs/stonescriptdb-gateway-client@v2.1.0
+- pkg:composer/progalaxyelabs/stonescriptdb-gateway-client@v3.0.0
+- pkg:composer/progalaxyelabs/stonescriptdb-gateway-client@v3.1.0
