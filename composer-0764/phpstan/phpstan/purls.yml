@@ -424,3 +424,4 @@
 - pkg:composer/phpstan/phpstan@2.2.0
 - pkg:composer/phpstan/phpstan@2.2.1
 - pkg:composer/phpstan/phpstan@2.2.2
+- pkg:composer/phpstan/phpstan@2.2.3
