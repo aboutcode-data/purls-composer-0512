@@ -23,6 +23,7 @@
 - pkg:composer/pimcore/object-merger@v2.4.3
 - pkg:composer/pimcore/object-merger@v2.4.5
 - pkg:composer/pimcore/object-merger@v2026.1.0
+- pkg:composer/pimcore/object-merger@v2026.2.0
 - pkg:composer/pimcore/object-merger@v3.0.0
 - pkg:composer/pimcore/object-merger@v3.0.1
 - pkg:composer/pimcore/object-merger@v3.0.10

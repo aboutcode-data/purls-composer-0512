@@ -130,6 +130,8 @@
 - pkg:composer/pimcore/skeleton@v2025.3.0
 - pkg:composer/pimcore/skeleton@v2025.4
 - pkg:composer/pimcore/skeleton@v2025.4.1
+- pkg:composer/pimcore/skeleton@v2025.4.2
 - pkg:composer/pimcore/skeleton@v2026.1.0
 - pkg:composer/pimcore/skeleton@v2026.1.1
 - pkg:composer/pimcore/skeleton@v2026.1.2
+- pkg:composer/pimcore/skeleton@v2026.1.3
