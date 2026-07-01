@@ -111,6 +111,7 @@
 - pkg:composer/pop-schema/custompostmeta@17.1.2
 - pkg:composer/pop-schema/custompostmeta@18.0.0
 - pkg:composer/pop-schema/custompostmeta@18.0.1
+- pkg:composer/pop-schema/custompostmeta@19.0.0
 - pkg:composer/pop-schema/custompostmeta@2.0.1
 - pkg:composer/pop-schema/custompostmeta@2.1.0
 - pkg:composer/pop-schema/custompostmeta@2.1.1
