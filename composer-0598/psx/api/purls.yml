@@ -198,3 +198,6 @@
 - pkg:composer/psx/api@v7.5.2
 - pkg:composer/psx/api@v7.5.3
 - pkg:composer/psx/api@v7.5.4
+- pkg:composer/psx/api@v7.6.0
+- pkg:composer/psx/api@v7.6.1
+- pkg:composer/psx/api@v7.6.2
