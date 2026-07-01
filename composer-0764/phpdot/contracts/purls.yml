@@ -1,5 +1,9 @@
 - pkg:composer/phpdot/contracts@v1.0.0
 - pkg:composer/phpdot/contracts@v1.1.0
+- pkg:composer/phpdot/contracts@v1.10.0
+- pkg:composer/phpdot/contracts@v1.11.0
+- pkg:composer/phpdot/contracts@v1.11.1
+- pkg:composer/phpdot/contracts@v1.11.2
 - pkg:composer/phpdot/contracts@v1.2.0
 - pkg:composer/phpdot/contracts@v1.3.0
 - pkg:composer/phpdot/contracts@v1.4.0
@@ -7,3 +11,4 @@
 - pkg:composer/phpdot/contracts@v1.6.0
 - pkg:composer/phpdot/contracts@v1.7.0
 - pkg:composer/phpdot/contracts@v1.8.0
+- pkg:composer/phpdot/contracts@v1.9.0
