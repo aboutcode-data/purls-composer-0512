@@ -12,3 +12,4 @@
 - pkg:composer/php-stubs/generator@v0.8.4
 - pkg:composer/php-stubs/generator@v0.8.5
 - pkg:composer/php-stubs/generator@v0.8.6
+- pkg:composer/php-stubs/generator@v0.9.0
