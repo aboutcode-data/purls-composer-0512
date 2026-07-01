@@ -2,3 +2,7 @@
 - pkg:composer/pippa/notification-sdk-laravel@v1.0.2
 - pkg:composer/pippa/notification-sdk-laravel@v1.0.3
 - pkg:composer/pippa/notification-sdk-laravel@v1.0.4
+- pkg:composer/pippa/notification-sdk-laravel@v1.0.9
+- pkg:composer/pippa/notification-sdk-laravel@v1.1.0
+- pkg:composer/pippa/notification-sdk-laravel@v1.1.3
+- pkg:composer/pippa/notification-sdk-laravel@v1.1.4
