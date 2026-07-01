@@ -12,6 +12,7 @@
 - pkg:composer/pdsinterop/solid-auth@v0.12.1
 - pkg:composer/pdsinterop/solid-auth@v0.12.2
 - pkg:composer/pdsinterop/solid-auth@v0.13.0
+- pkg:composer/pdsinterop/solid-auth@v0.14.1
 - pkg:composer/pdsinterop/solid-auth@v0.2.0
 - pkg:composer/pdsinterop/solid-auth@v0.2.1
 - pkg:composer/pdsinterop/solid-auth@v0.3.0
