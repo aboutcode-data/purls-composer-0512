@@ -1,4 +1,8 @@
 - pkg:composer/ppl/ppl-deepl-v3-requests@12.4.0
+- pkg:composer/ppl/ppl-deepl-v3-requests@12.4.2
 - pkg:composer/ppl/ppl-deepl-v3-requests@13.4.0
+- pkg:composer/ppl/ppl-deepl-v3-requests@13.4.1
+- pkg:composer/ppl/ppl-deepl-v3-requests@13.4.2
 - pkg:composer/ppl/ppl-deepl-v3-requests@14.3.0
+- pkg:composer/ppl/ppl-deepl-v3-requests@14.3.1
 - pkg:composer/ppl/ppl-deepl-v3-requests@v12.4.1
