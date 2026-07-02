@@ -103,6 +103,7 @@
 - pkg:composer/spryker/glue-application@1.75.2
 - pkg:composer/spryker/glue-application@1.76.0
 - pkg:composer/spryker/glue-application@1.76.1
+- pkg:composer/spryker/glue-application@1.76.2
 - pkg:composer/spryker/glue-application@1.8.0
 - pkg:composer/spryker/glue-application@1.8.1
 - pkg:composer/spryker/glue-application@1.8.2
