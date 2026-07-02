@@ -16,3 +16,4 @@
 - pkg:composer/qbnk/guzzle-oauth2-plugin@v3.0.5
 - pkg:composer/qbnk/guzzle-oauth2-plugin@v4.0.0
 - pkg:composer/qbnk/guzzle-oauth2-plugin@v4.0.1
+- pkg:composer/qbnk/guzzle-oauth2-plugin@v5.0.0
