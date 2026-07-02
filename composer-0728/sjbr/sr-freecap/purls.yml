@@ -22,6 +22,7 @@
 - pkg:composer/sjbr/sr-freecap@v12.4.6
 - pkg:composer/sjbr/sr-freecap@v13.4.0
 - pkg:composer/sjbr/sr-freecap@v13.4.1
+- pkg:composer/sjbr/sr-freecap@v13.4.2
 - pkg:composer/sjbr/sr-freecap@v2.5.4
 - pkg:composer/sjbr/sr-freecap@v2.6.0
 - pkg:composer/sjbr/sr-freecap@v2.6.1
