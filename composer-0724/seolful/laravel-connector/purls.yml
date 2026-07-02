@@ -17,3 +17,6 @@
 - pkg:composer/seolful/laravel-connector@v1.5.7
 - pkg:composer/seolful/laravel-connector@v1.5.8
 - pkg:composer/seolful/laravel-connector@v1.5.9
+- pkg:composer/seolful/laravel-connector@v1.6.0
+- pkg:composer/seolful/laravel-connector@v1.6.1
+- pkg:composer/seolful/laravel-connector@v1.6.2
