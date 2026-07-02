@@ -120,6 +120,7 @@
 - pkg:composer/spryker-shop/checkout-page@3.40.1
 - pkg:composer/spryker-shop/checkout-page@3.41.0
 - pkg:composer/spryker-shop/checkout-page@3.42.0
+- pkg:composer/spryker-shop/checkout-page@3.42.1
 - pkg:composer/spryker-shop/checkout-page@3.5.0
 - pkg:composer/spryker-shop/checkout-page@3.5.1
 - pkg:composer/spryker-shop/checkout-page@3.6.0
