@@ -482,6 +482,7 @@
 - pkg:composer/silverstripe/framework@5.4.28
 - pkg:composer/silverstripe/framework@5.4.29
 - pkg:composer/silverstripe/framework@5.4.3
+- pkg:composer/silverstripe/framework@5.4.30
 - pkg:composer/silverstripe/framework@5.4.4
 - pkg:composer/silverstripe/framework@5.4.5
 - pkg:composer/silverstripe/framework@5.4.6
@@ -530,3 +531,5 @@
 - pkg:composer/silverstripe/framework@6.2.0
 - pkg:composer/silverstripe/framework@6.2.0-beta1
 - pkg:composer/silverstripe/framework@6.2.0-rc1
+- pkg:composer/silverstripe/framework@6.2.1
+- pkg:composer/silverstripe/framework@6.2.2
