@@ -4,6 +4,7 @@
 - pkg:composer/phpdot/contracts@v1.11.0
 - pkg:composer/phpdot/contracts@v1.11.1
 - pkg:composer/phpdot/contracts@v1.11.2
+- pkg:composer/phpdot/contracts@v1.12.0
 - pkg:composer/phpdot/contracts@v1.2.0
 - pkg:composer/phpdot/contracts@v1.3.0
 - pkg:composer/phpdot/contracts@v1.4.0
