@@ -1,3 +1,6 @@
+- pkg:composer/shopper/shipping@v2.10.0
+- pkg:composer/shopper/shipping@v2.10.1
+- pkg:composer/shopper/shipping@v2.10.2
 - pkg:composer/shopper/shipping@v2.2
 - pkg:composer/shopper/shipping@v2.2.1
 - pkg:composer/shopper/shipping@v2.2.2
@@ -30,3 +33,6 @@
 - pkg:composer/shopper/shipping@v2.9.0
 - pkg:composer/shopper/shipping@v2.9.1
 - pkg:composer/shopper/shipping@v2.9.2
+- pkg:composer/shopper/shipping@v3.0.0-beta.1
+- pkg:composer/shopper/shipping@v3.0.0-beta.2
+- pkg:composer/shopper/shipping@v3.0.0-beta.3
