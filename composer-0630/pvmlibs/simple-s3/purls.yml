@@ -1,1 +1,2 @@
 - pkg:composer/pvmlibs/simple-s3@1.0.0
+- pkg:composer/pvmlibs/simple-s3@1.0.1
