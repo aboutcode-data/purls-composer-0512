@@ -87,3 +87,4 @@
 - pkg:composer/pimcore/admin-ui-classic-bundle@v2.3.3
 - pkg:composer/pimcore/admin-ui-classic-bundle@v2.3.4
 - pkg:composer/pimcore/admin-ui-classic-bundle@v2.3.6
+- pkg:composer/pimcore/admin-ui-classic-bundle@v2.3.7

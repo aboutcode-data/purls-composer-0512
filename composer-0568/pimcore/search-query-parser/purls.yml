@@ -22,3 +22,4 @@
 - pkg:composer/pimcore/search-query-parser@v2.0.1
 - pkg:composer/pimcore/search-query-parser@v2.1.1
 - pkg:composer/pimcore/search-query-parser@v2026.1.0
+- pkg:composer/pimcore/search-query-parser@v2026.2.0
