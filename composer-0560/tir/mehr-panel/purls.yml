@@ -1,4 +1,6 @@
 - pkg:composer/tir/mehr-panel@12.7.1
+- pkg:composer/tir/mehr-panel@12.7.9
+- pkg:composer/tir/mehr-panel@12.8
 - pkg:composer/tir/mehr-panel@3.3.3-beta
 - pkg:composer/tir/mehr-panel@3.3.4-beta
 - pkg:composer/tir/mehr-panel@3.3.6-beta
