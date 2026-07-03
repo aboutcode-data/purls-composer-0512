@@ -207,6 +207,9 @@
 - pkg:composer/superius/omnihub@v3.0.49
 - pkg:composer/superius/omnihub@v3.0.5
 - pkg:composer/superius/omnihub@v3.0.50
+- pkg:composer/superius/omnihub@v3.0.51
+- pkg:composer/superius/omnihub@v3.0.52
+- pkg:composer/superius/omnihub@v3.0.53
 - pkg:composer/superius/omnihub@v3.0.6
 - pkg:composer/superius/omnihub@v3.0.7
 - pkg:composer/superius/omnihub@v3.0.8
