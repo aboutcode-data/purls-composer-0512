@@ -441,6 +441,8 @@
 - pkg:composer/tencentcloud/live@3.0.1583
 - pkg:composer/tencentcloud/live@3.0.1585
 - pkg:composer/tencentcloud/live@3.0.1593
+- pkg:composer/tencentcloud/live@3.0.1614
+- pkg:composer/tencentcloud/live@3.0.1617
 - pkg:composer/tencentcloud/live@3.0.248
 - pkg:composer/tencentcloud/live@3.0.249
 - pkg:composer/tencentcloud/live@3.0.250
