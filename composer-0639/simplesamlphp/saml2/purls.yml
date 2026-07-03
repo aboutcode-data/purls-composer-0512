@@ -131,6 +131,7 @@
 - pkg:composer/simplesamlphp/saml2@v4.20.0
 - pkg:composer/simplesamlphp/saml2@v4.20.1
 - pkg:composer/simplesamlphp/saml2@v4.20.2
+- pkg:composer/simplesamlphp/saml2@v4.20.3
 - pkg:composer/simplesamlphp/saml2@v4.3.0
 - pkg:composer/simplesamlphp/saml2@v4.3.1
 - pkg:composer/simplesamlphp/saml2@v4.4.0
