@@ -32,6 +32,7 @@
 - pkg:composer/stape/gtm-server-side-magento-module@1.0.4
 - pkg:composer/stape/gtm-server-side-magento-module@1.0.40
 - pkg:composer/stape/gtm-server-side-magento-module@1.0.41
+- pkg:composer/stape/gtm-server-side-magento-module@1.0.42
 - pkg:composer/stape/gtm-server-side-magento-module@1.0.5
 - pkg:composer/stape/gtm-server-side-magento-module@1.0.6
 - pkg:composer/stape/gtm-server-side-magento-module@1.0.7
