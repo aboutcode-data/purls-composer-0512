@@ -401,6 +401,8 @@
 - pkg:composer/tencentcloud/vm@3.0.1505
 - pkg:composer/tencentcloud/vm@3.0.1510
 - pkg:composer/tencentcloud/vm@3.0.1558
+- pkg:composer/tencentcloud/vm@3.0.1613
+- pkg:composer/tencentcloud/vm@3.0.1616
 - pkg:composer/tencentcloud/vm@3.0.334
 - pkg:composer/tencentcloud/vm@3.0.335
 - pkg:composer/tencentcloud/vm@3.0.336
