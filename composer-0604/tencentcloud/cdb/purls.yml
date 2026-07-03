@@ -448,6 +448,8 @@
 - pkg:composer/tencentcloud/cdb@3.0.1595
 - pkg:composer/tencentcloud/cdb@3.0.1599
 - pkg:composer/tencentcloud/cdb@3.0.1603
+- pkg:composer/tencentcloud/cdb@3.0.1612
+- pkg:composer/tencentcloud/cdb@3.0.1613
 - pkg:composer/tencentcloud/cdb@3.0.248
 - pkg:composer/tencentcloud/cdb@3.0.249
 - pkg:composer/tencentcloud/cdb@3.0.250

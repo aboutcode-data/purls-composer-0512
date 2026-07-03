@@ -422,6 +422,8 @@
 - pkg:composer/tencentcloud/cfs@3.0.1586
 - pkg:composer/tencentcloud/cfs@3.0.1598
 - pkg:composer/tencentcloud/cfs@3.0.1605
+- pkg:composer/tencentcloud/cfs@3.0.1612
+- pkg:composer/tencentcloud/cfs@3.0.1613
 - pkg:composer/tencentcloud/cfs@3.0.248
 - pkg:composer/tencentcloud/cfs@3.0.249
 - pkg:composer/tencentcloud/cfs@3.0.250

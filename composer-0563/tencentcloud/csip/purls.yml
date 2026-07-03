@@ -429,6 +429,11 @@
 - pkg:composer/tencentcloud/csip@3.0.1595
 - pkg:composer/tencentcloud/csip@3.0.1600
 - pkg:composer/tencentcloud/csip@3.0.1603
+- pkg:composer/tencentcloud/csip@3.0.1613
+- pkg:composer/tencentcloud/csip@3.0.1615
+- pkg:composer/tencentcloud/csip@3.0.1616
+- pkg:composer/tencentcloud/csip@3.0.1617
+- pkg:composer/tencentcloud/csip@3.0.1618
 - pkg:composer/tencentcloud/csip@3.0.880
 - pkg:composer/tencentcloud/csip@3.0.881
 - pkg:composer/tencentcloud/csip@3.0.882

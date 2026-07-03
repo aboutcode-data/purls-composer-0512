@@ -416,6 +416,9 @@
 - pkg:composer/tencentcloud/cwp@3.0.1601
 - pkg:composer/tencentcloud/cwp@3.0.1602
 - pkg:composer/tencentcloud/cwp@3.0.1603
+- pkg:composer/tencentcloud/cwp@3.0.1615
+- pkg:composer/tencentcloud/cwp@3.0.1617
+- pkg:composer/tencentcloud/cwp@3.0.1618
 - pkg:composer/tencentcloud/cwp@3.0.260
 - pkg:composer/tencentcloud/cwp@3.0.261
 - pkg:composer/tencentcloud/cwp@3.0.262
