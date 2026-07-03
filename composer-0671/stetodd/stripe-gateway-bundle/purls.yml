@@ -1,1 +1,2 @@
 - pkg:composer/stetodd/stripe-gateway-bundle@v0.1.0
+- pkg:composer/stetodd/stripe-gateway-bundle@v0.2.0
