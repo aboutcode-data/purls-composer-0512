@@ -735,6 +735,7 @@
 - pkg:composer/symfony/http-kernel@v6.4.4
 - pkg:composer/symfony/http-kernel@v6.4.40
 - pkg:composer/symfony/http-kernel@v6.4.41
+- pkg:composer/symfony/http-kernel@v6.4.42
 - pkg:composer/symfony/http-kernel@v6.4.5
 - pkg:composer/symfony/http-kernel@v6.4.6
 - pkg:composer/symfony/http-kernel@v6.4.7
@@ -809,6 +810,7 @@
 - pkg:composer/symfony/http-kernel@v7.4.11
 - pkg:composer/symfony/http-kernel@v7.4.12
 - pkg:composer/symfony/http-kernel@v7.4.13
+- pkg:composer/symfony/http-kernel@v7.4.14
 - pkg:composer/symfony/http-kernel@v7.4.2
 - pkg:composer/symfony/http-kernel@v7.4.3
 - pkg:composer/symfony/http-kernel@v7.4.4
@@ -827,6 +829,7 @@
 - pkg:composer/symfony/http-kernel@v8.0.11
 - pkg:composer/symfony/http-kernel@v8.0.12
 - pkg:composer/symfony/http-kernel@v8.0.13
+- pkg:composer/symfony/http-kernel@v8.0.14
 - pkg:composer/symfony/http-kernel@v8.0.2
 - pkg:composer/symfony/http-kernel@v8.0.3
 - pkg:composer/symfony/http-kernel@v8.0.4
@@ -839,3 +842,4 @@
 - pkg:composer/symfony/http-kernel@v8.1.0-BETA2
 - pkg:composer/symfony/http-kernel@v8.1.0-BETA3
 - pkg:composer/symfony/http-kernel@v8.1.0-RC1
+- pkg:composer/symfony/http-kernel@v8.1.1

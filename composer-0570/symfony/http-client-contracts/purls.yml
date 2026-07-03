@@ -46,3 +46,4 @@
 - pkg:composer/symfony/http-client-contracts@v3.6.0
 - pkg:composer/symfony/http-client-contracts@v3.6.0-BETA1
 - pkg:composer/symfony/http-client-contracts@v3.7.0
+- pkg:composer/symfony/http-client-contracts@v3.7.1
