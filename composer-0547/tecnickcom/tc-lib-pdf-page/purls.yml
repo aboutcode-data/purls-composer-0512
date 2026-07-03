@@ -89,6 +89,8 @@
 - pkg:composer/tecnickcom/tc-lib-pdf-page@4.10.0
 - pkg:composer/tecnickcom/tc-lib-pdf-page@4.11.0
 - pkg:composer/tecnickcom/tc-lib-pdf-page@4.12.0
+- pkg:composer/tecnickcom/tc-lib-pdf-page@4.13.0
+- pkg:composer/tecnickcom/tc-lib-pdf-page@4.13.1
 - pkg:composer/tecnickcom/tc-lib-pdf-page@4.2.0
 - pkg:composer/tecnickcom/tc-lib-pdf-page@4.2.1
 - pkg:composer/tecnickcom/tc-lib-pdf-page@4.2.10

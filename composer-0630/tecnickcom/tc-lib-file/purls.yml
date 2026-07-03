@@ -125,3 +125,5 @@
 - pkg:composer/tecnickcom/tc-lib-file@3.3.0
 - pkg:composer/tecnickcom/tc-lib-file@3.4.0
 - pkg:composer/tecnickcom/tc-lib-file@3.5.0
+- pkg:composer/tecnickcom/tc-lib-file@3.6.0
+- pkg:composer/tecnickcom/tc-lib-file@3.6.1
