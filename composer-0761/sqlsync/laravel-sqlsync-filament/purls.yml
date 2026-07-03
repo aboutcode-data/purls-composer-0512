@@ -17,3 +17,8 @@
 - pkg:composer/sqlsync/laravel-sqlsync-filament@v1.2.1
 - pkg:composer/sqlsync/laravel-sqlsync-filament@v1.2.2
 - pkg:composer/sqlsync/laravel-sqlsync-filament@v1.2.3
+- pkg:composer/sqlsync/laravel-sqlsync-filament@v1.2.4
+- pkg:composer/sqlsync/laravel-sqlsync-filament@v1.2.5
+- pkg:composer/sqlsync/laravel-sqlsync-filament@v1.2.6
+- pkg:composer/sqlsync/laravel-sqlsync-filament@v1.2.7
+- pkg:composer/sqlsync/laravel-sqlsync-filament@v1.2.8
