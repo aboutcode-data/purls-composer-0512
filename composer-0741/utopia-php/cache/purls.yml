@@ -32,5 +32,8 @@
 - pkg:composer/utopia-php/cache@3.0.1
 - pkg:composer/utopia-php/cache@3.0.2
 - pkg:composer/utopia-php/cache@3.1.0
+- pkg:composer/utopia-php/cache@3.2.0
+- pkg:composer/utopia-php/cache@3.3.0
+- pkg:composer/utopia-php/cache@3.4.0
 - pkg:composer/utopia-php/cache@v0.1.0
 - pkg:composer/utopia-php/cache@v0.1.1
