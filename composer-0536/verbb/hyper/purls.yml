@@ -47,6 +47,7 @@
 - pkg:composer/verbb/hyper@1.3.10
 - pkg:composer/verbb/hyper@1.3.11
 - pkg:composer/verbb/hyper@1.3.12
+- pkg:composer/verbb/hyper@1.3.13
 - pkg:composer/verbb/hyper@1.3.2
 - pkg:composer/verbb/hyper@1.3.3
 - pkg:composer/verbb/hyper@1.3.4
@@ -87,6 +88,7 @@
 - pkg:composer/verbb/hyper@2.2.9
 - pkg:composer/verbb/hyper@2.3.0
 - pkg:composer/verbb/hyper@2.3.1
+- pkg:composer/verbb/hyper@2.3.10
 - pkg:composer/verbb/hyper@2.3.2
 - pkg:composer/verbb/hyper@2.3.3
 - pkg:composer/verbb/hyper@2.3.4
