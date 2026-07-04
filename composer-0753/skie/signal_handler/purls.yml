@@ -1,2 +1,4 @@
+- pkg:composer/skie/signal_handler@0.0.1
+- pkg:composer/skie/signal_handler@0.0.2
 - pkg:composer/skie/signal_handler@1.0.0
 - pkg:composer/skie/signal_handler@1.0.1
