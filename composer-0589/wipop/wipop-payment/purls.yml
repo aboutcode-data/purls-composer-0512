@@ -11,6 +11,8 @@
 - pkg:composer/wipop/wipop-payment@0.9.8
 - pkg:composer/wipop/wipop-payment@0.9.9
 - pkg:composer/wipop/wipop-payment@v0.10.0
+- pkg:composer/wipop/wipop-payment@v0.10.1
+- pkg:composer/wipop/wipop-payment@v0.10.2
 - pkg:composer/wipop/wipop-payment@v0.8.0
 - pkg:composer/wipop/wipop-payment@v0.8.1
 - pkg:composer/wipop/wipop-payment@v0.8.2
