@@ -84,3 +84,5 @@
 - pkg:composer/vankosoft/catalog-bundle@v2.6.3
 - pkg:composer/vankosoft/catalog-bundle@v2.6.4
 - pkg:composer/vankosoft/catalog-bundle@v2.6.5
+- pkg:composer/vankosoft/catalog-bundle@v2.6.6
+- pkg:composer/vankosoft/catalog-bundle@v2.7.0
