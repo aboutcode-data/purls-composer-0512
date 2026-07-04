@@ -61,3 +61,6 @@
 - pkg:composer/alibabacloud/apig-20240327@8.0.0
 - pkg:composer/alibabacloud/apig-20240327@9.0.0
 - pkg:composer/alibabacloud/apig-20240327@9.1.0
+- pkg:composer/alibabacloud/apig-20240327@9.1.1
+- pkg:composer/alibabacloud/apig-20240327@9.2.0
+- pkg:composer/alibabacloud/apig-20240327@9.3.0
