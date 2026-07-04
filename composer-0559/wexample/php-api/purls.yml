@@ -1,4 +1,6 @@
 - pkg:composer/wexample/php-api@1.0.102
+- pkg:composer/wexample/php-api@1.0.103
+- pkg:composer/wexample/php-api@1.0.104
 - pkg:composer/wexample/php-api@1.0.74
 - pkg:composer/wexample/php-api@1.0.75
 - pkg:composer/wexample/php-api@1.0.76
