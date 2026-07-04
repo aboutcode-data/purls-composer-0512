@@ -46,3 +46,4 @@
 - pkg:composer/userfrosting/sprinkle-core@6.0.0-rc.3
 - pkg:composer/userfrosting/sprinkle-core@6.0.0-rc.4
 - pkg:composer/userfrosting/sprinkle-core@6.0.0-rc.5
+- pkg:composer/userfrosting/sprinkle-core@6.0.1

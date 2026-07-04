@@ -33,6 +33,7 @@
 - pkg:composer/userfrosting/userfrosting@6.0.0-rc.3
 - pkg:composer/userfrosting/userfrosting@6.0.0-rc.4
 - pkg:composer/userfrosting/userfrosting@6.0.0-rc.5
+- pkg:composer/userfrosting/userfrosting@6.0.1
 - pkg:composer/userfrosting/userfrosting@v4.1.10-alpha
 - pkg:composer/userfrosting/userfrosting@v4.1.11-alpha
 - pkg:composer/userfrosting/userfrosting@v4.1.12-alpha
