@@ -129,3 +129,4 @@
 - pkg:composer/windwalker/cache@4.2.7
 - pkg:composer/windwalker/cache@4.2.8
 - pkg:composer/windwalker/cache@4.2.9-beta1
+- pkg:composer/windwalker/cache@4.2.9-beta3
