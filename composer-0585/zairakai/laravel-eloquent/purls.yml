@@ -11,3 +11,4 @@
 - pkg:composer/zairakai/laravel-eloquent@v2.0.7
 - pkg:composer/zairakai/laravel-eloquent@v2.0.8
 - pkg:composer/zairakai/laravel-eloquent@v3.0.0
+- pkg:composer/zairakai/laravel-eloquent@v3.0.1
