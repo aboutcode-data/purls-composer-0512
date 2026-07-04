@@ -1,3 +1,5 @@
 - pkg:composer/alexandrebulete/ddd-symfony-bundle@1.0.0
 - pkg:composer/alexandrebulete/ddd-symfony-bundle@1.1.0
 - pkg:composer/alexandrebulete/ddd-symfony-bundle@1.1.1
+- pkg:composer/alexandrebulete/ddd-symfony-bundle@1.1.2
+- pkg:composer/alexandrebulete/ddd-symfony-bundle@1.1.3
