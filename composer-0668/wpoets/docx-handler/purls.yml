@@ -1,2 +1,4 @@
 - pkg:composer/wpoets/docx-handler@1.0.0
 - pkg:composer/wpoets/docx-handler@1.1
+- pkg:composer/wpoets/docx-handler@1.1.1
+- pkg:composer/wpoets/docx-handler@1.1.2
