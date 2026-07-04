@@ -69,3 +69,4 @@
 - pkg:composer/wl-online-payments-direct/sdk-php@9.1.0
 - pkg:composer/wl-online-payments-direct/sdk-php@9.2.0
 - pkg:composer/wl-online-payments-direct/sdk-php@9.3.0
+- pkg:composer/wl-online-payments-direct/sdk-php@9.4.0
