@@ -1,2 +1,4 @@
 - pkg:composer/weakbit/fallback-cache@1.0.0
 - pkg:composer/weakbit/fallback-cache@1.1.0
+- pkg:composer/weakbit/fallback-cache@2.0.0
+- pkg:composer/weakbit/fallback-cache@2.0.1
