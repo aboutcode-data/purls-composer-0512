@@ -14,3 +14,5 @@
 - pkg:composer/valentin-morice/filament-json-column@v2.0.2
 - pkg:composer/valentin-morice/filament-json-column@v2.0.3
 - pkg:composer/valentin-morice/filament-json-column@v3.0.0
+- pkg:composer/valentin-morice/filament-json-column@v4.0.0
+- pkg:composer/valentin-morice/filament-json-column@v4.1.0
