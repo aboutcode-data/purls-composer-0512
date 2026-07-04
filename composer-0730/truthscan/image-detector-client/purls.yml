@@ -2,3 +2,4 @@
 - pkg:composer/truthscan/image-detector-client@v20260525.0
 - pkg:composer/truthscan/image-detector-client@v20260525.1
 - pkg:composer/truthscan/image-detector-client@v20260526.0
+- pkg:composer/truthscan/image-detector-client@v20260626.0
