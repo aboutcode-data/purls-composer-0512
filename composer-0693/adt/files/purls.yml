@@ -43,3 +43,4 @@
 - pkg:composer/adt/files@v6.0
 - pkg:composer/adt/files@v6.1
 - pkg:composer/adt/files@v6.2
+- pkg:composer/adt/files@v6.2.1
