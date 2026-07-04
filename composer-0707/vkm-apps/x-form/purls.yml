@@ -1,5 +1,6 @@
 - pkg:composer/vkm-apps/x-form@1.0.2
 - pkg:composer/vkm-apps/x-form@1.1.2
+- pkg:composer/vkm-apps/x-form@2.0.6
 - pkg:composer/vkm-apps/x-form@v0.0.1
 - pkg:composer/vkm-apps/x-form@v0.0.2
 - pkg:composer/vkm-apps/x-form@v0.0.3
@@ -37,3 +38,6 @@
 - pkg:composer/vkm-apps/x-form@v2.0.0
 - pkg:composer/vkm-apps/x-form@v2.0.1
 - pkg:composer/vkm-apps/x-form@v2.0.2
+- pkg:composer/vkm-apps/x-form@v2.0.3
+- pkg:composer/vkm-apps/x-form@v2.0.7
+- pkg:composer/vkm-apps/x-form@v2.0.8
