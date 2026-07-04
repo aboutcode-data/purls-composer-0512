@@ -1,4 +1,5 @@
 - pkg:composer/zephyrisle/flarum-registration-code@1.0.0
+- pkg:composer/zephyrisle/flarum-registration-code@2.1.1
 - pkg:composer/zephyrisle/flarum-registration-code@v2.0.0
 - pkg:composer/zephyrisle/flarum-registration-code@v2.0.1
 - pkg:composer/zephyrisle/flarum-registration-code@v2.0.10
@@ -23,3 +24,4 @@
 - pkg:composer/zephyrisle/flarum-registration-code@v2.0.7
 - pkg:composer/zephyrisle/flarum-registration-code@v2.0.8
 - pkg:composer/zephyrisle/flarum-registration-code@v2.0.9
+- pkg:composer/zephyrisle/flarum-registration-code@v2.1.0
