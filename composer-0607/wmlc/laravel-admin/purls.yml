@@ -1,4 +1,3 @@
-- pkg:composer/wmlc/laravel-admin@0.1.0
 - pkg:composer/wmlc/laravel-admin@0.8.0
 - pkg:composer/wmlc/laravel-admin@0.8.1
 - pkg:composer/wmlc/laravel-admin@0.8.2
@@ -72,3 +71,7 @@
 - pkg:composer/wmlc/laravel-admin@2.2.5
 - pkg:composer/wmlc/laravel-admin@2.2.6
 - pkg:composer/wmlc/laravel-admin@2.2.7
+- pkg:composer/wmlc/laravel-admin@2.2.9
+- pkg:composer/wmlc/laravel-admin@2.3.0
+- pkg:composer/wmlc/laravel-admin@2.3.1
+- pkg:composer/wmlc/laravel-admin@2.3.2
