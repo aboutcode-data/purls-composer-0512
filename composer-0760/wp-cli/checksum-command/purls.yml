@@ -32,3 +32,4 @@
 - pkg:composer/wp-cli/checksum-command@v2.3.4
 - pkg:composer/wp-cli/checksum-command@v2.3.5
 - pkg:composer/wp-cli/checksum-command@v2.3.6
+- pkg:composer/wp-cli/checksum-command@v2.3.7
