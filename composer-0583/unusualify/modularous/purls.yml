@@ -127,6 +127,9 @@
 - pkg:composer/unusualify/modularous@v0.58.4
 - pkg:composer/unusualify/modularous@v0.58.5
 - pkg:composer/unusualify/modularous@v0.58.6
+- pkg:composer/unusualify/modularous@v0.58.7
+- pkg:composer/unusualify/modularous@v0.58.8
+- pkg:composer/unusualify/modularous@v0.58.9
 - pkg:composer/unusualify/modularous@v0.6.0
 - pkg:composer/unusualify/modularous@v0.7.0
 - pkg:composer/unusualify/modularous@v0.7.1
@@ -146,6 +149,8 @@
 - pkg:composer/unusualify/modularous@v11.0.2
 - pkg:composer/unusualify/modularous@v11.1.0
 - pkg:composer/unusualify/modularous@v11.1.1
+- pkg:composer/unusualify/modularous@v11.1.2
+- pkg:composer/unusualify/modularous@v11.1.3
 - pkg:composer/unusualify/modularous@v12.0.0
 - pkg:composer/unusualify/modularous@v12.0.1
 - pkg:composer/unusualify/modularous@v12.1.0
@@ -154,3 +159,7 @@
 - pkg:composer/unusualify/modularous@v12.1.3
 - pkg:composer/unusualify/modularous@v12.1.4
 - pkg:composer/unusualify/modularous@v12.1.5
+- pkg:composer/unusualify/modularous@v12.1.6
+- pkg:composer/unusualify/modularous@v12.1.7
+- pkg:composer/unusualify/modularous@v12.2.0
+- pkg:composer/unusualify/modularous@v12.3.0
