@@ -212,6 +212,7 @@
 - pkg:composer/awcodes/filament-curator@v3.7.5
 - pkg:composer/awcodes/filament-curator@v3.7.6
 - pkg:composer/awcodes/filament-curator@v3.7.7
+- pkg:composer/awcodes/filament-curator@v3.7.8
 - pkg:composer/awcodes/filament-curator@v4.0.0
 - pkg:composer/awcodes/filament-curator@v4.0.0-alpha.1
 - pkg:composer/awcodes/filament-curator@v4.0.0-alpha.2
@@ -228,6 +229,8 @@
 - pkg:composer/awcodes/filament-curator@v4.0.6
 - pkg:composer/awcodes/filament-curator@v4.0.7
 - pkg:composer/awcodes/filament-curator@v4.0.8
+- pkg:composer/awcodes/filament-curator@v4.1.0
+- pkg:composer/awcodes/filament-curator@v4.1.1
 - pkg:composer/awcodes/filament-curator@v5.0.0
 - pkg:composer/awcodes/filament-curator@v5.0.1
 - pkg:composer/awcodes/filament-curator@v5.0.2
@@ -237,3 +240,5 @@
 - pkg:composer/awcodes/filament-curator@v5.0.6
 - pkg:composer/awcodes/filament-curator@v5.0.7
 - pkg:composer/awcodes/filament-curator@v5.0.8
+- pkg:composer/awcodes/filament-curator@v5.1.0
+- pkg:composer/awcodes/filament-curator@v5.1.1
