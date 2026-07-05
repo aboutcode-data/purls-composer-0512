@@ -67,9 +67,6 @@
 - pkg:composer/antchain/demo@1.0.92
 - pkg:composer/antchain/demo@1.0.94
 - pkg:composer/antchain/demo@1.1.0
-- pkg:composer/antchain/demo@1.1.08
-- pkg:composer/antchain/demo@1.1.083
-- pkg:composer/antchain/demo@1.1.084
 - pkg:composer/antchain/demo@1.1.1
 - pkg:composer/antchain/demo@1.1.15
 - pkg:composer/antchain/demo@1.1.2
@@ -110,6 +107,7 @@
 - pkg:composer/antchain/demo@1.1.76
 - pkg:composer/antchain/demo@1.1.77
 - pkg:composer/antchain/demo@1.1.78
+- pkg:composer/antchain/demo@1.1.785
 - pkg:composer/antchain/demo@1.1.79
 - pkg:composer/antchain/demo@1.1.8
 - pkg:composer/antchain/demo@1.1.80
