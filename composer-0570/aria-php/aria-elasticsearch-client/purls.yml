@@ -7,3 +7,4 @@
 - pkg:composer/aria-php/aria-elasticsearch-client@0.0.7
 - pkg:composer/aria-php/aria-elasticsearch-client@1.0.0
 - pkg:composer/aria-php/aria-elasticsearch-client@1.0.1
+- pkg:composer/aria-php/aria-elasticsearch-client@1.0.3
