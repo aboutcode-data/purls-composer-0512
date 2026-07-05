@@ -248,3 +248,5 @@
 - pkg:composer/braga/tools@4.5.1
 - pkg:composer/braga/tools@4.6.0
 - pkg:composer/braga/tools@4.6.1
+- pkg:composer/braga/tools@4.6.2
+- pkg:composer/braga/tools@4.6.3
