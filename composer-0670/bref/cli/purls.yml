@@ -20,6 +20,7 @@
 - pkg:composer/bref/cli@1.0.9
 - pkg:composer/bref/cli@1.1.0
 - pkg:composer/bref/cli@1.1.1
+- pkg:composer/bref/cli@1.1.10
 - pkg:composer/bref/cli@1.1.2
 - pkg:composer/bref/cli@1.1.3
 - pkg:composer/bref/cli@1.1.4
@@ -27,3 +28,4 @@
 - pkg:composer/bref/cli@1.1.6
 - pkg:composer/bref/cli@1.1.7
 - pkg:composer/bref/cli@1.1.8
+- pkg:composer/bref/cli@1.1.9
