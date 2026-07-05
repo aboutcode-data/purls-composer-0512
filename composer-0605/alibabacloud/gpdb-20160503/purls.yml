@@ -91,6 +91,8 @@
 - pkg:composer/alibabacloud/gpdb-20160503@3.0.2
 - pkg:composer/alibabacloud/gpdb-20160503@3.0.3
 - pkg:composer/alibabacloud/gpdb-20160503@3.1.0
+- pkg:composer/alibabacloud/gpdb-20160503@3.10.0
+- pkg:composer/alibabacloud/gpdb-20160503@3.11.0
 - pkg:composer/alibabacloud/gpdb-20160503@3.2.0
 - pkg:composer/alibabacloud/gpdb-20160503@3.3.0
 - pkg:composer/alibabacloud/gpdb-20160503@3.3.1
@@ -100,3 +102,4 @@
 - pkg:composer/alibabacloud/gpdb-20160503@3.6.0
 - pkg:composer/alibabacloud/gpdb-20160503@3.7.0
 - pkg:composer/alibabacloud/gpdb-20160503@3.8.0
+- pkg:composer/alibabacloud/gpdb-20160503@3.9.0
