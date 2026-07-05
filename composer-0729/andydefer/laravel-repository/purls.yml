@@ -20,3 +20,5 @@
 - pkg:composer/andydefer/laravel-repository@v2.8.5
 - pkg:composer/andydefer/laravel-repository@v2.8.6
 - pkg:composer/andydefer/laravel-repository@v2.9.0
+- pkg:composer/andydefer/laravel-repository@v2.9.1
+- pkg:composer/andydefer/laravel-repository@v2.9.2
