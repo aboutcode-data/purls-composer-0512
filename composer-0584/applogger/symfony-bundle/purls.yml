@@ -7,3 +7,4 @@
 - pkg:composer/applogger/symfony-bundle@v0.3.1
 - pkg:composer/applogger/symfony-bundle@v0.3.2
 - pkg:composer/applogger/symfony-bundle@v2.0.0
+- pkg:composer/applogger/symfony-bundle@v2.1.0

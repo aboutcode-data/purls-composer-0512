@@ -3,6 +3,8 @@
 - pkg:composer/application-manager-tools/am-driver@0.0.12
 - pkg:composer/application-manager-tools/am-driver@0.0.13
 - pkg:composer/application-manager-tools/am-driver@0.0.14
+- pkg:composer/application-manager-tools/am-driver@0.0.15
+- pkg:composer/application-manager-tools/am-driver@0.0.16
 - pkg:composer/application-manager-tools/am-driver@0.0.5
 - pkg:composer/application-manager-tools/am-driver@0.0.6
 - pkg:composer/application-manager-tools/am-driver@0.0.7
