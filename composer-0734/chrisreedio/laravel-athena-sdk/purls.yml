@@ -48,3 +48,4 @@
 - pkg:composer/chrisreedio/laravel-athena-sdk@v1.7.0
 - pkg:composer/chrisreedio/laravel-athena-sdk@v1.8.0
 - pkg:composer/chrisreedio/laravel-athena-sdk@v1.9.0
+- pkg:composer/chrisreedio/laravel-athena-sdk@v1.9.1
