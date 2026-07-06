@@ -58,3 +58,6 @@
 - pkg:composer/ci4-cms-erp/ci4ms@0.31.8.0
 - pkg:composer/ci4-cms-erp/ci4ms@0.31.9
 - pkg:composer/ci4-cms-erp/ci4ms@0.32.0.0
+- pkg:composer/ci4-cms-erp/ci4ms@0.33.1.0
+- pkg:composer/ci4-cms-erp/ci4ms@0.33.2.0
+- pkg:composer/ci4-cms-erp/ci4ms@0.34.0.0
