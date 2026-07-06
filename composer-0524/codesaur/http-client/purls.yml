@@ -37,3 +37,4 @@
 - pkg:composer/codesaur/http-client@v2.0.4
 - pkg:composer/codesaur/http-client@v2.1.0
 - pkg:composer/codesaur/http-client@v2.1.1
+- pkg:composer/codesaur/http-client@v2.1.2
