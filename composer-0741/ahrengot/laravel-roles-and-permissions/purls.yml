@@ -1,3 +1,4 @@
 - pkg:composer/ahrengot/laravel-roles-and-permissions@1.0.0
 - pkg:composer/ahrengot/laravel-roles-and-permissions@1.0.1
 - pkg:composer/ahrengot/laravel-roles-and-permissions@2.0.0
+- pkg:composer/ahrengot/laravel-roles-and-permissions@3.0.0
