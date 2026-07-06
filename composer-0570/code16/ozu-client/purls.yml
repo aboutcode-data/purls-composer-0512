@@ -2,6 +2,7 @@
 - pkg:composer/code16/ozu-client@v0.1.1
 - pkg:composer/code16/ozu-client@v0.10.0
 - pkg:composer/code16/ozu-client@v0.11.0
+- pkg:composer/code16/ozu-client@v0.11.1
 - pkg:composer/code16/ozu-client@v0.2.0
 - pkg:composer/code16/ozu-client@v0.3.0
 - pkg:composer/code16/ozu-client@v0.3.1
