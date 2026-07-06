@@ -14,3 +14,4 @@
 - pkg:composer/chillerlan/php-httpinterface@5.0.0
 - pkg:composer/chillerlan/php-httpinterface@5.0.1
 - pkg:composer/chillerlan/php-httpinterface@6.0.0
+- pkg:composer/chillerlan/php-httpinterface@7.0.0
