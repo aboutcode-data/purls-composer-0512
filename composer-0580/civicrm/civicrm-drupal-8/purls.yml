@@ -317,6 +317,8 @@
 - pkg:composer/civicrm/civicrm-drupal-8@6.15.3
 - pkg:composer/civicrm/civicrm-drupal-8@6.15.4
 - pkg:composer/civicrm/civicrm-drupal-8@6.15.5
+- pkg:composer/civicrm/civicrm-drupal-8@6.15.6
+- pkg:composer/civicrm/civicrm-drupal-8@6.16.0
 - pkg:composer/civicrm/civicrm-drupal-8@6.2.0
 - pkg:composer/civicrm/civicrm-drupal-8@6.3.0
 - pkg:composer/civicrm/civicrm-drupal-8@6.3.1
