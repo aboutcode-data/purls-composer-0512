@@ -24,3 +24,4 @@
 - pkg:composer/dereuromark/cakephp-captcha@2.3.1
 - pkg:composer/dereuromark/cakephp-captcha@2.4.0
 - pkg:composer/dereuromark/cakephp-captcha@2.5.0
+- pkg:composer/dereuromark/cakephp-captcha@2.6.0
