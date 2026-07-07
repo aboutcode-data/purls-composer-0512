@@ -1,3 +1,5 @@
 - pkg:composer/aisdk/core@v0.1.0
 - pkg:composer/aisdk/core@v0.1.0-alpha1
 - pkg:composer/aisdk/core@v0.1.0-beta1
+- pkg:composer/aisdk/core@v0.2.0
+- pkg:composer/aisdk/core@v0.2.0-beta
