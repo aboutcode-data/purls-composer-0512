@@ -50,6 +50,7 @@
 - pkg:composer/andydefer/laravel-directive@v3.31.0
 - pkg:composer/andydefer/laravel-directive@v3.31.1
 - pkg:composer/andydefer/laravel-directive@v3.31.2
+- pkg:composer/andydefer/laravel-directive@v3.31.3
 - pkg:composer/andydefer/laravel-directive@v3.6.4
 - pkg:composer/andydefer/laravel-directive@v3.7.0
 - pkg:composer/andydefer/laravel-directive@v3.8.0
