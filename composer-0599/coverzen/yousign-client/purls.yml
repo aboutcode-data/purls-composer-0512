@@ -17,3 +17,9 @@
 - pkg:composer/coverzen/yousign-client@v2.1.0
 - pkg:composer/coverzen/yousign-client@v2.2.0
 - pkg:composer/coverzen/yousign-client@v3.0.0
+- pkg:composer/coverzen/yousign-client@v3.1.0
+- pkg:composer/coverzen/yousign-client@v3.2.0
+- pkg:composer/coverzen/yousign-client@v3.3.0
+- pkg:composer/coverzen/yousign-client@v3.3.1
+- pkg:composer/coverzen/yousign-client@v3.4.0
+- pkg:composer/coverzen/yousign-client@v3.4.1
