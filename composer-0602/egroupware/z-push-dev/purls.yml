@@ -71,6 +71,7 @@
 - pkg:composer/egroupware/z-push-dev@2.5.0
 - pkg:composer/egroupware/z-push-dev@2.5.0.1
 - pkg:composer/egroupware/z-push-dev@2.5.0.2
+- pkg:composer/egroupware/z-push-dev@2.5.0.3
 - pkg:composer/egroupware/z-push-dev@2.5.0.alpha0
 - pkg:composer/egroupware/z-push-dev@2.5.0.beta1
 - pkg:composer/egroupware/z-push-dev@2.5.1
