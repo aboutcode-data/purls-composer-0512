@@ -8,3 +8,4 @@
 - pkg:composer/fastcomments/fastcomments-php@v1.2.0
 - pkg:composer/fastcomments/fastcomments-php@v1.2.1
 - pkg:composer/fastcomments/fastcomments-php@v2.0.0
+- pkg:composer/fastcomments/fastcomments-php@v3.0.0
