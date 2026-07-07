@@ -458,3 +458,4 @@
 - pkg:composer/contao/news-bundle@5.7.5
 - pkg:composer/contao/news-bundle@5.7.6
 - pkg:composer/contao/news-bundle@5.7.7
+- pkg:composer/contao/news-bundle@5.7.8
