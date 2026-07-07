@@ -1,4 +1,5 @@
 - pkg:composer/dmt-software/import-reader@2.2.0
+- pkg:composer/dmt-software/import-reader@2.2.1
 - pkg:composer/dmt-software/import-reader@v1.0.0
 - pkg:composer/dmt-software/import-reader@v1.1.0
 - pkg:composer/dmt-software/import-reader@v1.1.1
