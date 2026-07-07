@@ -1,3 +1,4 @@
+- pkg:composer/crustum/plugin-manifest@0.0.1
 - pkg:composer/crustum/plugin-manifest@1.0.0
 - pkg:composer/crustum/plugin-manifest@1.0.1
 - pkg:composer/crustum/plugin-manifest@1.0.2
