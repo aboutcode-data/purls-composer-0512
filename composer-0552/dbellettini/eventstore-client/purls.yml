@@ -17,6 +17,7 @@
 - pkg:composer/dbellettini/eventstore-client@v0.2.0-rc1
 - pkg:composer/dbellettini/eventstore-client@v0.20.0
 - pkg:composer/dbellettini/eventstore-client@v0.21.0
+- pkg:composer/dbellettini/eventstore-client@v0.22.0
 - pkg:composer/dbellettini/eventstore-client@v0.3.0
 - pkg:composer/dbellettini/eventstore-client@v0.3.1
 - pkg:composer/dbellettini/eventstore-client@v0.4.0
