@@ -58,3 +58,5 @@
 - pkg:composer/cmsrs/cmsrs3@2.7.8
 - pkg:composer/cmsrs/cmsrs3@2.7.9
 - pkg:composer/cmsrs/cmsrs3@2.8.0
+- pkg:composer/cmsrs/cmsrs3@2.8.1
+- pkg:composer/cmsrs/cmsrs3@2.8.2
