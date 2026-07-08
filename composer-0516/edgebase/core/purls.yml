@@ -12,3 +12,4 @@
 - pkg:composer/edgebase/core@v0.2.9
 - pkg:composer/edgebase/core@v0.3.1
 - pkg:composer/edgebase/core@v0.3.2
+- pkg:composer/edgebase/core@v0.3.3
