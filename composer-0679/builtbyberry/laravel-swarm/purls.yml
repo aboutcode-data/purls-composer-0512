@@ -27,6 +27,7 @@
 - pkg:composer/builtbyberry/laravel-swarm@v0.17.2
 - pkg:composer/builtbyberry/laravel-swarm@v0.17.3
 - pkg:composer/builtbyberry/laravel-swarm@v0.17.4
+- pkg:composer/builtbyberry/laravel-swarm@v0.18.0
 - pkg:composer/builtbyberry/laravel-swarm@v0.2.0
 - pkg:composer/builtbyberry/laravel-swarm@v0.2.1
 - pkg:composer/builtbyberry/laravel-swarm@v0.3.0
