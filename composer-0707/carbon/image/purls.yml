@@ -44,3 +44,4 @@
 - pkg:composer/carbon/image@4.4.1
 - pkg:composer/carbon/image@4.5.0
 - pkg:composer/carbon/image@4.6.0
+- pkg:composer/carbon/image@4.7.0
