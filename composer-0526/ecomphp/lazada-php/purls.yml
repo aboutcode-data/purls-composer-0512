@@ -5,3 +5,4 @@
 - pkg:composer/ecomphp/lazada-php@v0.1.4
 - pkg:composer/ecomphp/lazada-php@v0.1.6
 - pkg:composer/ecomphp/lazada-php@v0.2.0
+- pkg:composer/ecomphp/lazada-php@v1.0.0
