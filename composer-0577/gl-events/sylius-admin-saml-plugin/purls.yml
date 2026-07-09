@@ -9,3 +9,5 @@
 - pkg:composer/gl-events/sylius-admin-saml-plugin@1.0.8
 - pkg:composer/gl-events/sylius-admin-saml-plugin@1.0.9
 - pkg:composer/gl-events/sylius-admin-saml-plugin@1.1.0
+- pkg:composer/gl-events/sylius-admin-saml-plugin@1.2.0
+- pkg:composer/gl-events/sylius-admin-saml-plugin@2.0.0
