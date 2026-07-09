@@ -6,3 +6,5 @@
 - pkg:composer/gilsegura/shared-bundle@1.1.2
 - pkg:composer/gilsegura/shared-bundle@1.1.3
 - pkg:composer/gilsegura/shared-bundle@1.1.4
+- pkg:composer/gilsegura/shared-bundle@2.0.0
+- pkg:composer/gilsegura/shared-bundle@2.1.0
