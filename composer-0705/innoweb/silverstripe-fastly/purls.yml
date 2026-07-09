@@ -9,4 +9,6 @@
 - pkg:composer/innoweb/silverstripe-fastly@3.2.0
 - pkg:composer/innoweb/silverstripe-fastly@3.3.0
 - pkg:composer/innoweb/silverstripe-fastly@3.3.1
+- pkg:composer/innoweb/silverstripe-fastly@3.3.2
 - pkg:composer/innoweb/silverstripe-fastly@4.0.0
+- pkg:composer/innoweb/silverstripe-fastly@4.0.1
