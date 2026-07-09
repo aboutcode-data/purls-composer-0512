@@ -2,6 +2,7 @@
 - pkg:composer/github-release-posts/github-release-posts@1.0.1
 - pkg:composer/github-release-posts/github-release-posts@1.0.2
 - pkg:composer/github-release-posts/github-release-posts@1.0.3
+- pkg:composer/github-release-posts/github-release-posts@1.1.0
 - pkg:composer/github-release-posts/github-release-posts@v0.10.0
 - pkg:composer/github-release-posts/github-release-posts@v0.11.0
 - pkg:composer/github-release-posts/github-release-posts@v0.11.1
