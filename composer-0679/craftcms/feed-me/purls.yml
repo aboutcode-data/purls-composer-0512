@@ -131,6 +131,7 @@
 - pkg:composer/craftcms/feed-me@6.12.0
 - pkg:composer/craftcms/feed-me@6.13.0
 - pkg:composer/craftcms/feed-me@6.13.0.1
+- pkg:composer/craftcms/feed-me@6.14.0
 - pkg:composer/craftcms/feed-me@6.2.0
 - pkg:composer/craftcms/feed-me@6.2.1
 - pkg:composer/craftcms/feed-me@6.2.2
