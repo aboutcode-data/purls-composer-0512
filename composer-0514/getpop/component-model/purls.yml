@@ -111,6 +111,8 @@
 - pkg:composer/getpop/component-model@17.1.2
 - pkg:composer/getpop/component-model@18.0.0
 - pkg:composer/getpop/component-model@18.0.1
+- pkg:composer/getpop/component-model@19.0.0
+- pkg:composer/getpop/component-model@19.0.1
 - pkg:composer/getpop/component-model@2.0.1
 - pkg:composer/getpop/component-model@2.1.0
 - pkg:composer/getpop/component-model@2.1.1
