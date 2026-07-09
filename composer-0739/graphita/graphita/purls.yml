@@ -5,3 +5,5 @@
 - pkg:composer/graphita/graphita@v1.3.1
 - pkg:composer/graphita/graphita@v1.3.2
 - pkg:composer/graphita/graphita@v1.4.2
+- pkg:composer/graphita/graphita@v2.0.1
+- pkg:composer/graphita/graphita@v2.0.2
