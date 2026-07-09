@@ -113,3 +113,5 @@
 - pkg:composer/getkirby/plainkit@5.4.2
 - pkg:composer/getkirby/plainkit@5.4.3
 - pkg:composer/getkirby/plainkit@5.4.4
+- pkg:composer/getkirby/plainkit@5.5.0
+- pkg:composer/getkirby/plainkit@5.5.1
