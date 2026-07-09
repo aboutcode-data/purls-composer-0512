@@ -59,3 +59,4 @@
 - pkg:composer/drupal/drupal-driver@v3.0.0-rc2
 - pkg:composer/drupal/drupal-driver@v3.1.0
 - pkg:composer/drupal/drupal-driver@v3.2.0
+- pkg:composer/drupal/drupal-driver@v3.3.0
