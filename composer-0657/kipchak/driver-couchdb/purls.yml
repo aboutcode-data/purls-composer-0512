@@ -16,6 +16,7 @@
 - pkg:composer/kipchak/driver-couchdb@1.22
 - pkg:composer/kipchak/driver-couchdb@1.23
 - pkg:composer/kipchak/driver-couchdb@1.24
+- pkg:composer/kipchak/driver-couchdb@1.25
 - pkg:composer/kipchak/driver-couchdb@1.3
 - pkg:composer/kipchak/driver-couchdb@1.4
 - pkg:composer/kipchak/driver-couchdb@1.5
