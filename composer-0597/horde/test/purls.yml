@@ -16,6 +16,7 @@
 - pkg:composer/horde/test@2.6.3
 - pkg:composer/horde/test@2.6.4
 - pkg:composer/horde/test@3.0.0alpha1
+- pkg:composer/horde/test@v3.0.0
 - pkg:composer/horde/test@v3.0.0alpha2
 - pkg:composer/horde/test@v3.0.0alpha4
 - pkg:composer/horde/test@v3.0.0alpha5

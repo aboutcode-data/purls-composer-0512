@@ -15,6 +15,7 @@
 - pkg:composer/horde/util@v2.7.0
 - pkg:composer/horde/util@v2.8.0
 - pkg:composer/horde/util@v2.8.1
+- pkg:composer/horde/util@v3.0.0
 - pkg:composer/horde/util@v3.0.0alpha3
 - pkg:composer/horde/util@v3.0.0alpha4
 - pkg:composer/horde/util@v3.0.0alpha5
@@ -28,3 +29,4 @@
 - pkg:composer/horde/util@v3.0.0beta4
 - pkg:composer/horde/util@v3.0.0beta5
 - pkg:composer/horde/util@v3.0.0beta6
+- pkg:composer/horde/util@v3.0.1

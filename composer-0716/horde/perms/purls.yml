@@ -13,3 +13,4 @@
 - pkg:composer/horde/perms@v3.0.0alpha4
 - pkg:composer/horde/perms@v3.0.0alpha5
 - pkg:composer/horde/perms@v3.0.0beta1
+- pkg:composer/horde/perms@v3.1.0
