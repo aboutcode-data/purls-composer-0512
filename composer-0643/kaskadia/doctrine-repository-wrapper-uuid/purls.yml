@@ -19,3 +19,4 @@
 - pkg:composer/kaskadia/doctrine-repository-wrapper-uuid@v0.5.1
 - pkg:composer/kaskadia/doctrine-repository-wrapper-uuid@v0.5.2
 - pkg:composer/kaskadia/doctrine-repository-wrapper-uuid@v0.6
+- pkg:composer/kaskadia/doctrine-repository-wrapper-uuid@v0.7
