@@ -1,3 +1,4 @@
 - pkg:composer/jocoonopa/laravel-slack@2.4.0
 - pkg:composer/jocoonopa/laravel-slack@2.4.1
 - pkg:composer/jocoonopa/laravel-slack@2.5.0
+- pkg:composer/jocoonopa/laravel-slack@2.5.1
