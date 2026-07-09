@@ -318,6 +318,7 @@
 - pkg:composer/illuminate/auth@v12.61.0
 - pkg:composer/illuminate/auth@v12.61.1
 - pkg:composer/illuminate/auth@v12.62.0
+- pkg:composer/illuminate/auth@v12.63.0
 - pkg:composer/illuminate/auth@v12.7.0
 - pkg:composer/illuminate/auth@v12.7.1
 - pkg:composer/illuminate/auth@v12.7.2
@@ -340,6 +341,9 @@
 - pkg:composer/illuminate/auth@v13.16.0
 - pkg:composer/illuminate/auth@v13.16.1
 - pkg:composer/illuminate/auth@v13.17.0
+- pkg:composer/illuminate/auth@v13.18.0
+- pkg:composer/illuminate/auth@v13.18.1
+- pkg:composer/illuminate/auth@v13.19.0
 - pkg:composer/illuminate/auth@v13.2.0
 - pkg:composer/illuminate/auth@v13.3.0
 - pkg:composer/illuminate/auth@v13.4.0
