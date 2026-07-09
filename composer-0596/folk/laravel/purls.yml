@@ -17,3 +17,4 @@
 - pkg:composer/folk/laravel@v0.3.9
 - pkg:composer/folk/laravel@v0.4.0
 - pkg:composer/folk/laravel@v0.4.1
+- pkg:composer/folk/laravel@v0.4.2
