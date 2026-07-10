@@ -15,3 +15,6 @@
 - pkg:composer/laragear/transbank@v3.5.0
 - pkg:composer/laragear/transbank@v3.5.1
 - pkg:composer/laragear/transbank@v4.0.0
+- pkg:composer/laragear/transbank@v4.1.0
+- pkg:composer/laragear/transbank@v4.1.1
+- pkg:composer/laragear/transbank@v4.1.2
