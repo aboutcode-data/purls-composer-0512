@@ -839,3 +839,4 @@
 - pkg:composer/johnpbloch/wordpress@6.9.3
 - pkg:composer/johnpbloch/wordpress@6.9.4
 - pkg:composer/johnpbloch/wordpress@7.0.0
+- pkg:composer/johnpbloch/wordpress@7.0.1

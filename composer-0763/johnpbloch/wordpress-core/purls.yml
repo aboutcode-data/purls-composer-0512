@@ -829,3 +829,4 @@
 - pkg:composer/johnpbloch/wordpress-core@6.9.3
 - pkg:composer/johnpbloch/wordpress-core@6.9.4
 - pkg:composer/johnpbloch/wordpress-core@7.0.0
+- pkg:composer/johnpbloch/wordpress-core@7.0.1
