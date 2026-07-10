@@ -13,3 +13,4 @@
 - pkg:composer/lettermint/lettermint-php@1.5.1
 - pkg:composer/lettermint/lettermint-php@2.0.0
 - pkg:composer/lettermint/lettermint-php@2.1.0
+- pkg:composer/lettermint/lettermint-php@2.2.0
