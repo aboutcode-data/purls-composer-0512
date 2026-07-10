@@ -28,3 +28,4 @@
 - pkg:composer/jblond/php-diff@v2.3.2
 - pkg:composer/jblond/php-diff@v2.3.3
 - pkg:composer/jblond/php-diff@v2.4.0
+- pkg:composer/jblond/php-diff@v2.5.2
