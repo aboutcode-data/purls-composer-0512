@@ -265,7 +265,6 @@
 - pkg:composer/mailoptin/core@0.1.0-alpha.1646901645
 - pkg:composer/mailoptin/core@0.1.0-alpha.1646907154
 - pkg:composer/mailoptin/core@0.1.0-alpha.1647346598
-- pkg:composer/mailoptin/core@0.1.0-alpha.1648034700
 - pkg:composer/mailoptin/core@0.1.0-alpha.1649938946
 - pkg:composer/mailoptin/core@0.1.0-alpha.1649942355
 - pkg:composer/mailoptin/core@0.1.0-alpha.1651487118
@@ -363,3 +362,6 @@
 - pkg:composer/mailoptin/core@0.1.0-alpha.1779207660
 - pkg:composer/mailoptin/core@0.1.0-alpha.1779389575
 - pkg:composer/mailoptin/core@0.1.0-alpha.1781873397
+- pkg:composer/mailoptin/core@0.1.0-alpha.1782901140
+- pkg:composer/mailoptin/core@0.1.0-alpha.1782902610
+- pkg:composer/mailoptin/core@0.1.0-alpha.1782903842
