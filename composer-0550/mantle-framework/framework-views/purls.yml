@@ -26,6 +26,7 @@
 - pkg:composer/mantle-framework/framework-views@v1.19.4
 - pkg:composer/mantle-framework/framework-views@v1.20.0
 - pkg:composer/mantle-framework/framework-views@v1.21.0
+- pkg:composer/mantle-framework/framework-views@v1.22.0
 - pkg:composer/mantle-framework/framework-views@v1.8.2
 - pkg:composer/mantle-framework/framework-views@v1.8.3
 - pkg:composer/mantle-framework/framework-views@v1.8.4
