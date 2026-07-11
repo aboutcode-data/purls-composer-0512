@@ -10,3 +10,4 @@
 - pkg:composer/jakyeru/laravel-shell@v2.0.0
 - pkg:composer/jakyeru/laravel-shell@v2.0.1
 - pkg:composer/jakyeru/laravel-shell@v3.0.0
+- pkg:composer/jakyeru/laravel-shell@v4.0.0
