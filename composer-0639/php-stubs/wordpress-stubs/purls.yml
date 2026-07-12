@@ -257,3 +257,4 @@
 - pkg:composer/php-stubs/wordpress-stubs@v6.9.3
 - pkg:composer/php-stubs/wordpress-stubs@v6.9.4
 - pkg:composer/php-stubs/wordpress-stubs@v7.0.0
+- pkg:composer/php-stubs/wordpress-stubs@v7.0.1
