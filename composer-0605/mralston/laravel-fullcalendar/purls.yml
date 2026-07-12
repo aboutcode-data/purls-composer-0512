@@ -16,6 +16,7 @@
 - pkg:composer/mralston/laravel-fullcalendar@v10.0.1
 - pkg:composer/mralston/laravel-fullcalendar@v11.0.0
 - pkg:composer/mralston/laravel-fullcalendar@v12.0.0
+- pkg:composer/mralston/laravel-fullcalendar@v13.0.0
 - pkg:composer/mralston/laravel-fullcalendar@v2.0.0
 - pkg:composer/mralston/laravel-fullcalendar@v2.0.1
 - pkg:composer/mralston/laravel-fullcalendar@v2.0.2
