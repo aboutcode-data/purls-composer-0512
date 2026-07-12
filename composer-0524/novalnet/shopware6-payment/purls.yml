@@ -25,6 +25,7 @@
 - pkg:composer/novalnet/shopware6-payment@v12.8.0
 - pkg:composer/novalnet/shopware6-payment@v12.8.1
 - pkg:composer/novalnet/shopware6-payment@v12.8.1-p1
+- pkg:composer/novalnet/shopware6-payment@v12.8.1-p2
 - pkg:composer/novalnet/shopware6-payment@v12.9.0
 - pkg:composer/novalnet/shopware6-payment@v12.9.1
 - pkg:composer/novalnet/shopware6-payment@v12.9.2
