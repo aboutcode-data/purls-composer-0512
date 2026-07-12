@@ -5,3 +5,4 @@
 - pkg:composer/multitech-osp/laravel-aws-secrets-manager@1.2.0
 - pkg:composer/multitech-osp/laravel-aws-secrets-manager@v1.2.1
 - pkg:composer/multitech-osp/laravel-aws-secrets-manager@v1.2.2
+- pkg:composer/multitech-osp/laravel-aws-secrets-manager@v1.3.0
