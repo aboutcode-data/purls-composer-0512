@@ -100,6 +100,7 @@
 - pkg:composer/nosto/nosto-integration@5.2.20
 - pkg:composer/nosto/nosto-integration@5.2.21
 - pkg:composer/nosto/nosto-integration@5.2.22
+- pkg:composer/nosto/nosto-integration@5.2.23
 - pkg:composer/nosto/nosto-integration@5.2.3
 - pkg:composer/nosto/nosto-integration@5.2.4
 - pkg:composer/nosto/nosto-integration@5.2.5
@@ -139,6 +140,8 @@
 - pkg:composer/nosto/nosto-integration@6.1.21
 - pkg:composer/nosto/nosto-integration@6.1.22
 - pkg:composer/nosto/nosto-integration@6.1.23
+- pkg:composer/nosto/nosto-integration@6.1.24
+- pkg:composer/nosto/nosto-integration@6.1.25
 - pkg:composer/nosto/nosto-integration@6.1.3
 - pkg:composer/nosto/nosto-integration@6.1.4
 - pkg:composer/nosto/nosto-integration@6.1.5
