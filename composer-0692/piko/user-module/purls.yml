@@ -5,3 +5,6 @@
 - pkg:composer/piko/user-module@v0.5
 - pkg:composer/piko/user-module@v0.6
 - pkg:composer/piko/user-module@v0.7
+- pkg:composer/piko/user-module@v0.8
+- pkg:composer/piko/user-module@v0.8.1
+- pkg:composer/piko/user-module@v0.8.2

@@ -11,3 +11,4 @@
 - pkg:composer/piko/core@v2.7
 - pkg:composer/piko/core@v2.7.1
 - pkg:composer/piko/core@v2.7.2
+- pkg:composer/piko/core@v2.8.0
