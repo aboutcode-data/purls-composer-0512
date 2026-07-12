@@ -61,6 +61,7 @@
 - pkg:composer/newerton/google-api-php-client@v2.19.1
 - pkg:composer/newerton/google-api-php-client@v2.19.2
 - pkg:composer/newerton/google-api-php-client@v2.19.3
+- pkg:composer/newerton/google-api-php-client@v2.19.4
 - pkg:composer/newerton/google-api-php-client@v2.2.0
 - pkg:composer/newerton/google-api-php-client@v2.2.1
 - pkg:composer/newerton/google-api-php-client@v2.2.2
