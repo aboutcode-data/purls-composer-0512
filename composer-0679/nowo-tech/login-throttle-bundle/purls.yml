@@ -11,3 +11,6 @@
 - pkg:composer/nowo-tech/login-throttle-bundle@v0.0.7
 - pkg:composer/nowo-tech/login-throttle-bundle@v0.0.8
 - pkg:composer/nowo-tech/login-throttle-bundle@v0.0.9
+- pkg:composer/nowo-tech/login-throttle-bundle@v1.0.0
+- pkg:composer/nowo-tech/login-throttle-bundle@v2.0.0
+- pkg:composer/nowo-tech/login-throttle-bundle@v2.1.0
