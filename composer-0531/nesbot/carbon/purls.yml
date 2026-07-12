@@ -246,6 +246,7 @@
 - pkg:composer/nesbot/carbon@3.12.2
 - pkg:composer/nesbot/carbon@3.12.3
 - pkg:composer/nesbot/carbon@3.13.0
+- pkg:composer/nesbot/carbon@3.13.1
 - pkg:composer/nesbot/carbon@3.2.0
 - pkg:composer/nesbot/carbon@3.2.1
 - pkg:composer/nesbot/carbon@3.2.2
