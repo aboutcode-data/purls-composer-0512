@@ -10,6 +10,7 @@
 - pkg:composer/processwire/processwire@3.0.244
 - pkg:composer/processwire/processwire@3.0.246
 - pkg:composer/processwire/processwire@3.0.255
+- pkg:composer/processwire/processwire@3.0.256
 - pkg:composer/processwire/processwire@3.0.34
 - pkg:composer/processwire/processwire@3.0.35
 - pkg:composer/processwire/processwire@3.0.36
