@@ -352,6 +352,8 @@
 - pkg:composer/roadiz/core-bundle@v2.7.30
 - pkg:composer/roadiz/core-bundle@v2.7.31
 - pkg:composer/roadiz/core-bundle@v2.7.32
+- pkg:composer/roadiz/core-bundle@v2.7.33
+- pkg:composer/roadiz/core-bundle@v2.7.34
 - pkg:composer/roadiz/core-bundle@v2.7.4
 - pkg:composer/roadiz/core-bundle@v2.7.5
 - pkg:composer/roadiz/core-bundle@v2.7.6
