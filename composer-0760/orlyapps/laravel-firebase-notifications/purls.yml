@@ -3,3 +3,4 @@
 - pkg:composer/orlyapps/laravel-firebase-notifications@2.0.1
 - pkg:composer/orlyapps/laravel-firebase-notifications@3.0
 - pkg:composer/orlyapps/laravel-firebase-notifications@v4.0.0
+- pkg:composer/orlyapps/laravel-firebase-notifications@v5.0.0
