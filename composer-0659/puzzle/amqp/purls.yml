@@ -18,3 +18,4 @@
 - pkg:composer/puzzle/amqp@8.3
 - pkg:composer/puzzle/amqp@8.3.1
 - pkg:composer/puzzle/amqp@8.3.2
+- pkg:composer/puzzle/amqp@8.3.3
