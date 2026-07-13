@@ -29,6 +29,7 @@
 - pkg:composer/olmo/olmo@v3.0.0
 - pkg:composer/olmo/olmo@v3.0.1
 - pkg:composer/olmo/olmo@v3.0.10
+- pkg:composer/olmo/olmo@v3.0.11
 - pkg:composer/olmo/olmo@v3.0.2
 - pkg:composer/olmo/olmo@v3.0.3
 - pkg:composer/olmo/olmo@v3.0.4
