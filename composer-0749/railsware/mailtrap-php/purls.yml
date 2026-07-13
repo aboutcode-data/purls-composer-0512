@@ -25,6 +25,7 @@
 - pkg:composer/railsware/mailtrap-php@3.10.0
 - pkg:composer/railsware/mailtrap-php@3.11.0
 - pkg:composer/railsware/mailtrap-php@3.12.0
+- pkg:composer/railsware/mailtrap-php@3.12.1
 - pkg:composer/railsware/mailtrap-php@3.2.0
 - pkg:composer/railsware/mailtrap-php@3.3.0
 - pkg:composer/railsware/mailtrap-php@3.4.0
