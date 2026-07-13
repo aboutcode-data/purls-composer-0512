@@ -16,6 +16,7 @@
 - pkg:composer/rockett/weasyprint@v10.7
 - pkg:composer/rockett/weasyprint@v11.0.0
 - pkg:composer/rockett/weasyprint@v11.0.1
+- pkg:composer/rockett/weasyprint@v11.1.0
 - pkg:composer/rockett/weasyprint@v2.0.0
 - pkg:composer/rockett/weasyprint@v2.0.1
 - pkg:composer/rockett/weasyprint@v3.0.0
