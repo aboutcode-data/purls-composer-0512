@@ -13,4 +13,5 @@
 - pkg:composer/sandstorm/templatemailer@2.3.0
 - pkg:composer/sandstorm/templatemailer@2.4.0
 - pkg:composer/sandstorm/templatemailer@3.0.0
+- pkg:composer/sandstorm/templatemailer@3.0.1
 - pkg:composer/sandstorm/templatemailer@v1.0.0
