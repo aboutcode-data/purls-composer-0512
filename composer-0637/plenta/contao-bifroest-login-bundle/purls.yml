@@ -12,3 +12,6 @@
 - pkg:composer/plenta/contao-bifroest-login-bundle@1.0.7
 - pkg:composer/plenta/contao-bifroest-login-bundle@1.0.8
 - pkg:composer/plenta/contao-bifroest-login-bundle@1.0.9
+- pkg:composer/plenta/contao-bifroest-login-bundle@1.1
+- pkg:composer/plenta/contao-bifroest-login-bundle@1.1.1
+- pkg:composer/plenta/contao-bifroest-login-bundle@1.1.2
