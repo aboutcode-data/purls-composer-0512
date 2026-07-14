@@ -3,4 +3,6 @@
 - pkg:composer/simple-as-fuck/php-performance-log@0.5.2
 - pkg:composer/simple-as-fuck/php-performance-log@0.5.3
 - pkg:composer/simple-as-fuck/php-performance-log@0.5.4
+- pkg:composer/simple-as-fuck/php-performance-log@0.5.5
 - pkg:composer/simple-as-fuck/php-performance-log@0.6.0
+- pkg:composer/simple-as-fuck/php-performance-log@0.6.1
