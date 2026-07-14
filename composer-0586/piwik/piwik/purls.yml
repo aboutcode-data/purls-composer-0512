@@ -720,6 +720,7 @@
 - pkg:composer/piwik/piwik@5.11.0-rc1
 - pkg:composer/piwik/piwik@5.11.1
 - pkg:composer/piwik/piwik@5.11.2
+- pkg:composer/piwik/piwik@5.12.0
 - pkg:composer/piwik/piwik@5.12.0-alpha
 - pkg:composer/piwik/piwik@5.12.0-alpha.20260607014952
 - pkg:composer/piwik/piwik@5.12.0-alpha.20260608015326
@@ -751,6 +752,7 @@
 - pkg:composer/piwik/piwik@5.12.0-rc1
 - pkg:composer/piwik/piwik@5.13.0-alpha.20260710013939
 - pkg:composer/piwik/piwik@5.13.0-alpha.20260711013832
+- pkg:composer/piwik/piwik@5.13.0-alpha.20260714013803
 - pkg:composer/piwik/piwik@5.2.0
 - pkg:composer/piwik/piwik@5.2.0-alpha.20240529033030
 - pkg:composer/piwik/piwik@5.2.0-alpha.20240628132246
