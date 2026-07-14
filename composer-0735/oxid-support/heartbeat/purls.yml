@@ -15,5 +15,8 @@
 - pkg:composer/oxid-support/heartbeat@3.0.0
 - pkg:composer/oxid-support/heartbeat@3.0.1
 - pkg:composer/oxid-support/heartbeat@4.0.0
+- pkg:composer/oxid-support/heartbeat@4.1.0
 - pkg:composer/oxid-support/heartbeat@5.0.0
+- pkg:composer/oxid-support/heartbeat@5.1.0
 - pkg:composer/oxid-support/heartbeat@6.0.0
+- pkg:composer/oxid-support/heartbeat@6.1.0
