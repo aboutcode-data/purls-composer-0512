@@ -257,3 +257,4 @@
 - pkg:composer/shinepress/wordpress-stubs@6.9.3
 - pkg:composer/shinepress/wordpress-stubs@6.9.4
 - pkg:composer/shinepress/wordpress-stubs@7.0.0
+- pkg:composer/shinepress/wordpress-stubs@7.0.1
