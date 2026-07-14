@@ -73,3 +73,4 @@
 - pkg:composer/scheb/2fa-backup-code@v8.4.0
 - pkg:composer/scheb/2fa-backup-code@v8.5.0
 - pkg:composer/scheb/2fa-backup-code@v8.6.0
+- pkg:composer/scheb/2fa-backup-code@v8.6.1
