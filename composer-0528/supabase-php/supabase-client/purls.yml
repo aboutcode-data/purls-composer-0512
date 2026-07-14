@@ -10,3 +10,4 @@
 - pkg:composer/supabase-php/supabase-client@v1.1.4
 - pkg:composer/supabase-php/supabase-client@v1.1.5
 - pkg:composer/supabase-php/supabase-client@v1.2.0
+- pkg:composer/supabase-php/supabase-client@v2.0.0
