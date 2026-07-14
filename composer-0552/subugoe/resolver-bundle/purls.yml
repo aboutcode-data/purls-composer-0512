@@ -12,3 +12,4 @@
 - pkg:composer/subugoe/resolver-bundle@0.5.0
 - pkg:composer/subugoe/resolver-bundle@0.5.1
 - pkg:composer/subugoe/resolver-bundle@0.6.0
+- pkg:composer/subugoe/resolver-bundle@0.7.0
