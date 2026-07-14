@@ -5,3 +5,4 @@
 - pkg:composer/ssch/typo3-pagerfanta@v0.1.0
 - pkg:composer/ssch/typo3-pagerfanta@v1.0.0
 - pkg:composer/ssch/typo3-pagerfanta@v2.0.0
+- pkg:composer/ssch/typo3-pagerfanta@v3.0.0
