@@ -20,6 +20,8 @@
 - pkg:composer/survos/imgproxy-bundle@2.10.7
 - pkg:composer/survos/imgproxy-bundle@2.10.8
 - pkg:composer/survos/imgproxy-bundle@2.10.9
+- pkg:composer/survos/imgproxy-bundle@2.13.0
+- pkg:composer/survos/imgproxy-bundle@2.15.2
 - pkg:composer/survos/imgproxy-bundle@2.2.0
 - pkg:composer/survos/imgproxy-bundle@2.2.1
 - pkg:composer/survos/imgproxy-bundle@2.2.2
