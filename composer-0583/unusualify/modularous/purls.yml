@@ -122,6 +122,7 @@
 - pkg:composer/unusualify/modularous@v0.57.4
 - pkg:composer/unusualify/modularous@v0.58.0
 - pkg:composer/unusualify/modularous@v0.58.1
+- pkg:composer/unusualify/modularous@v0.58.10
 - pkg:composer/unusualify/modularous@v0.58.2
 - pkg:composer/unusualify/modularous@v0.58.3
 - pkg:composer/unusualify/modularous@v0.58.4
@@ -163,3 +164,4 @@
 - pkg:composer/unusualify/modularous@v12.1.7
 - pkg:composer/unusualify/modularous@v12.2.0
 - pkg:composer/unusualify/modularous@v12.3.0
+- pkg:composer/unusualify/modularous@v12.4.0
