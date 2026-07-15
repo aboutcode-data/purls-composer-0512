@@ -26,7 +26,9 @@
 - pkg:composer/swoole-bundle/swoole-bundle@v0.27.0
 - pkg:composer/swoole-bundle/swoole-bundle@v0.27.1
 - pkg:composer/swoole-bundle/swoole-bundle@v0.28.0
+- pkg:composer/swoole-bundle/swoole-bundle@v0.29.0
 - pkg:composer/swoole-bundle/swoole-bundle@v0.3.0
+- pkg:composer/swoole-bundle/swoole-bundle@v0.30.0
 - pkg:composer/swoole-bundle/swoole-bundle@v0.4.0
 - pkg:composer/swoole-bundle/swoole-bundle@v0.4.1
 - pkg:composer/swoole-bundle/swoole-bundle@v0.4.2
