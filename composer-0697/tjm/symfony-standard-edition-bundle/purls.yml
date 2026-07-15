@@ -4,6 +4,7 @@
 - pkg:composer/tjm/symfony-standard-edition-bundle@v0.1.1
 - pkg:composer/tjm/symfony-standard-edition-bundle@v0.10.0
 - pkg:composer/tjm/symfony-standard-edition-bundle@v0.11.0
+- pkg:composer/tjm/symfony-standard-edition-bundle@v0.12.0
 - pkg:composer/tjm/symfony-standard-edition-bundle@v0.2.0
 - pkg:composer/tjm/symfony-standard-edition-bundle@v0.3.0
 - pkg:composer/tjm/symfony-standard-edition-bundle@v0.3.1
