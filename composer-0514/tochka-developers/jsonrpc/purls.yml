@@ -67,6 +67,7 @@
 - pkg:composer/tochka-developers/jsonrpc@v4.1.0
 - pkg:composer/tochka-developers/jsonrpc@v4.10.0
 - pkg:composer/tochka-developers/jsonrpc@v4.11.0
+- pkg:composer/tochka-developers/jsonrpc@v4.12.0
 - pkg:composer/tochka-developers/jsonrpc@v4.2.0
 - pkg:composer/tochka-developers/jsonrpc@v4.2.1
 - pkg:composer/tochka-developers/jsonrpc@v4.2.2
