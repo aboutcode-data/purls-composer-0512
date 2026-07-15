@@ -2,3 +2,4 @@
 - pkg:composer/wikimedia/cldr-plural-rule-parser@v2.0.0
 - pkg:composer/wikimedia/cldr-plural-rule-parser@v3.0.0
 - pkg:composer/wikimedia/cldr-plural-rule-parser@v3.0.1
+- pkg:composer/wikimedia/cldr-plural-rule-parser@v3.0.2
