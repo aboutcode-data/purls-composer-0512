@@ -3,3 +3,5 @@
 - pkg:composer/veekthoven/laravel-cashier-paystack@1.0.2
 - pkg:composer/veekthoven/laravel-cashier-paystack@1.0.3
 - pkg:composer/veekthoven/laravel-cashier-paystack@1.0.4
+- pkg:composer/veekthoven/laravel-cashier-paystack@1.1.0
+- pkg:composer/veekthoven/laravel-cashier-paystack@1.2.0
