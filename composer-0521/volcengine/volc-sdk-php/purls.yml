@@ -75,6 +75,7 @@
 - pkg:composer/volcengine/volc-sdk-php@v1.0.169
 - pkg:composer/volcengine/volc-sdk-php@v1.0.17
 - pkg:composer/volcengine/volc-sdk-php@v1.0.170
+- pkg:composer/volcengine/volc-sdk-php@v1.0.171
 - pkg:composer/volcengine/volc-sdk-php@v1.0.18
 - pkg:composer/volcengine/volc-sdk-php@v1.0.20
 - pkg:composer/volcengine/volc-sdk-php@v1.0.21
