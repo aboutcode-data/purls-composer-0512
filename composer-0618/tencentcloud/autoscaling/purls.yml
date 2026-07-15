@@ -416,6 +416,7 @@
 - pkg:composer/tencentcloud/autoscaling@3.0.1539
 - pkg:composer/tencentcloud/autoscaling@3.0.1543
 - pkg:composer/tencentcloud/autoscaling@3.0.1578
+- pkg:composer/tencentcloud/autoscaling@3.0.1619
 - pkg:composer/tencentcloud/autoscaling@3.0.362
 - pkg:composer/tencentcloud/autoscaling@3.0.363
 - pkg:composer/tencentcloud/autoscaling@3.0.364
