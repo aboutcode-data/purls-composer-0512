@@ -55,3 +55,7 @@
 - pkg:composer/utopia-php/vcs@4.2.2
 - pkg:composer/utopia-php/vcs@4.2.3
 - pkg:composer/utopia-php/vcs@4.2.4
+- pkg:composer/utopia-php/vcs@4.3.0
+- pkg:composer/utopia-php/vcs@4.4.0
+- pkg:composer/utopia-php/vcs@4.4.1
+- pkg:composer/utopia-php/vcs@4.4.2

@@ -390,3 +390,5 @@
 - pkg:composer/utopia-php/database@6.3.0
 - pkg:composer/utopia-php/database@6.4.0
 - pkg:composer/utopia-php/database@6.4.1
+- pkg:composer/utopia-php/database@6.4.2
+- pkg:composer/utopia-php/database@6.4.3
