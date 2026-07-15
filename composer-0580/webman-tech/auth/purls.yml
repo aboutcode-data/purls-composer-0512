@@ -60,3 +60,4 @@
 - pkg:composer/webman-tech/auth@v5.0.8
 - pkg:composer/webman-tech/auth@v5.0.9
 - pkg:composer/webman-tech/auth@v5.1.0
+- pkg:composer/webman-tech/auth@v5.1.1
