@@ -19,6 +19,9 @@
 - pkg:composer/wongyip/html-tags@v1.10.4
 - pkg:composer/wongyip/html-tags@v1.10.5
 - pkg:composer/wongyip/html-tags@v1.10.6
+- pkg:composer/wongyip/html-tags@v1.11.0
+- pkg:composer/wongyip/html-tags@v1.11.1
+- pkg:composer/wongyip/html-tags@v1.11.2
 - pkg:composer/wongyip/html-tags@v1.2.0
 - pkg:composer/wongyip/html-tags@v1.2.1
 - pkg:composer/wongyip/html-tags@v1.2.10
