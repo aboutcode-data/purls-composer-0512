@@ -258,7 +258,9 @@
 - pkg:composer/upscale/ext-swoole@v6.1.6
 - pkg:composer/upscale/ext-swoole@v6.1.7
 - pkg:composer/upscale/ext-swoole@v6.1.8
+- pkg:composer/upscale/ext-swoole@v6.1.9
 - pkg:composer/upscale/ext-swoole@v6.2.0
 - pkg:composer/upscale/ext-swoole@v6.2.0-rc1
 - pkg:composer/upscale/ext-swoole@v6.2.0-rc2
 - pkg:composer/upscale/ext-swoole@v6.2.1
+- pkg:composer/upscale/ext-swoole@v6.2.2
