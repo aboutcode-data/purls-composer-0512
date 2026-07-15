@@ -3,3 +3,4 @@
 - pkg:composer/ua/okta-oidc@v0.3.0
 - pkg:composer/ua/okta-oidc@v0.3.0-RC1
 - pkg:composer/ua/okta-oidc@v0.3.0-RC2
+- pkg:composer/ua/okta-oidc@v0.3.1
