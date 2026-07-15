@@ -6,3 +6,4 @@
 - pkg:composer/type-lang/reader@1.0.2
 - pkg:composer/type-lang/reader@1.1.0
 - pkg:composer/type-lang/reader@1.1.1
+- pkg:composer/type-lang/reader@2.0.0-beta1
