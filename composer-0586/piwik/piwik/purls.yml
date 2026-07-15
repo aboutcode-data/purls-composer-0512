@@ -753,6 +753,7 @@
 - pkg:composer/piwik/piwik@5.13.0-alpha.20260710013939
 - pkg:composer/piwik/piwik@5.13.0-alpha.20260711013832
 - pkg:composer/piwik/piwik@5.13.0-alpha.20260714013803
+- pkg:composer/piwik/piwik@5.13.0-alpha.20260715013809
 - pkg:composer/piwik/piwik@5.2.0
 - pkg:composer/piwik/piwik@5.2.0-alpha.20240529033030
 - pkg:composer/piwik/piwik@5.2.0-alpha.20240628132246
