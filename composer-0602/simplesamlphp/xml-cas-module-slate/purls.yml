@@ -4,3 +4,4 @@
 - pkg:composer/simplesamlphp/xml-cas-module-slate@v1.2.0
 - pkg:composer/simplesamlphp/xml-cas-module-slate@v1.3.0
 - pkg:composer/simplesamlphp/xml-cas-module-slate@v1.4.0
+- pkg:composer/simplesamlphp/xml-cas-module-slate@v2.0.0
