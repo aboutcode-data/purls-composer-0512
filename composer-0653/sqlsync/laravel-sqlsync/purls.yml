@@ -14,6 +14,7 @@
 - pkg:composer/sqlsync/laravel-sqlsync@v1.0.8
 - pkg:composer/sqlsync/laravel-sqlsync@v1.0.9
 - pkg:composer/sqlsync/laravel-sqlsync@v1.1.0
+- pkg:composer/sqlsync/laravel-sqlsync@v1.10.0
 - pkg:composer/sqlsync/laravel-sqlsync@v1.2.0
 - pkg:composer/sqlsync/laravel-sqlsync@v1.2.1
 - pkg:composer/sqlsync/laravel-sqlsync@v1.2.2
