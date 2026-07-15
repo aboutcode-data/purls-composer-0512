@@ -10,6 +10,7 @@
 - pkg:composer/starlit/db@0.15.0
 - pkg:composer/starlit/db@0.16.0
 - pkg:composer/starlit/db@0.17.0
+- pkg:composer/starlit/db@0.17.1
 - pkg:composer/starlit/db@0.2.0
 - pkg:composer/starlit/db@0.3.0
 - pkg:composer/starlit/db@0.4.0
