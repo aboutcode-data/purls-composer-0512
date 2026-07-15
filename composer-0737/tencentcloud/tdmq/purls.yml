@@ -427,6 +427,7 @@
 - pkg:composer/tencentcloud/tdmq@3.0.1603
 - pkg:composer/tencentcloud/tdmq@3.0.1611
 - pkg:composer/tencentcloud/tdmq@3.0.1616
+- pkg:composer/tencentcloud/tdmq@3.0.1622
 - pkg:composer/tencentcloud/tdmq@3.0.248
 - pkg:composer/tencentcloud/tdmq@3.0.249
 - pkg:composer/tencentcloud/tdmq@3.0.250

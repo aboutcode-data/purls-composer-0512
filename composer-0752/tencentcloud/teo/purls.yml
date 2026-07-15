@@ -459,6 +459,9 @@
 - pkg:composer/tencentcloud/teo@3.0.1598
 - pkg:composer/tencentcloud/teo@3.0.1603
 - pkg:composer/tencentcloud/teo@3.0.1611
+- pkg:composer/tencentcloud/teo@3.0.1619
+- pkg:composer/tencentcloud/teo@3.0.1622
+- pkg:composer/tencentcloud/teo@3.0.1625
 - pkg:composer/tencentcloud/teo@3.0.620
 - pkg:composer/tencentcloud/teo@3.0.621
 - pkg:composer/tencentcloud/teo@3.0.622
