@@ -423,6 +423,8 @@
 - pkg:composer/tencentcloud/mongodb@3.0.1593
 - pkg:composer/tencentcloud/mongodb@3.0.1603
 - pkg:composer/tencentcloud/mongodb@3.0.1606
+- pkg:composer/tencentcloud/mongodb@3.0.1619
+- pkg:composer/tencentcloud/mongodb@3.0.1624
 - pkg:composer/tencentcloud/mongodb@3.0.248
 - pkg:composer/tencentcloud/mongodb@3.0.249
 - pkg:composer/tencentcloud/mongodb@3.0.250
