@@ -17,3 +17,4 @@
 - pkg:composer/voku/agent-loop@0.2.8
 - pkg:composer/voku/agent-loop@0.2.9
 - pkg:composer/voku/agent-loop@0.3.0
+- pkg:composer/voku/agent-loop@0.4.0
