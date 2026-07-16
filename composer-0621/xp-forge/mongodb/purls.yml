@@ -46,6 +46,7 @@
 - pkg:composer/xp-forge/mongodb@v2.5.1
 - pkg:composer/xp-forge/mongodb@v3.0.0
 - pkg:composer/xp-forge/mongodb@v3.1.0
+- pkg:composer/xp-forge/mongodb@v3.10.0
 - pkg:composer/xp-forge/mongodb@v3.2.0
 - pkg:composer/xp-forge/mongodb@v3.3.0
 - pkg:composer/xp-forge/mongodb@v3.4.0
