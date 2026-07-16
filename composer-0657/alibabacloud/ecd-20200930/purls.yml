@@ -108,3 +108,4 @@
 - pkg:composer/alibabacloud/ecd-20200930@4.8.9
 - pkg:composer/alibabacloud/ecd-20200930@4.9.0
 - pkg:composer/alibabacloud/ecd-20200930@4.9.1
+- pkg:composer/alibabacloud/ecd-20200930@5.0.0
