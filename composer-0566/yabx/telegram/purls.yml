@@ -18,6 +18,7 @@
 - pkg:composer/yabx/telegram@10.0.1
 - pkg:composer/yabx/telegram@10.1.0
 - pkg:composer/yabx/telegram@10.1.1
+- pkg:composer/yabx/telegram@10.2.0
 - pkg:composer/yabx/telegram@7.10.0
 - pkg:composer/yabx/telegram@7.10.1
 - pkg:composer/yabx/telegram@7.10.2
