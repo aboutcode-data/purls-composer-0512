@@ -63,3 +63,4 @@
 - pkg:composer/wp-media/imagify-plugin@v2.2.7
 - pkg:composer/wp-media/imagify-plugin@v2.2.8
 - pkg:composer/wp-media/imagify-plugin@v2.2.9
+- pkg:composer/wp-media/imagify-plugin@v2.3.0
