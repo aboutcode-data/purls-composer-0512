@@ -43,3 +43,5 @@
 - pkg:composer/yotpo/magento2-module-yotpo-core@4.3.3
 - pkg:composer/yotpo/magento2-module-yotpo-core@4.3.4
 - pkg:composer/yotpo/magento2-module-yotpo-core@4.3.5
+- pkg:composer/yotpo/magento2-module-yotpo-core@4.3.6
+- pkg:composer/yotpo/magento2-module-yotpo-core@4.3.7
