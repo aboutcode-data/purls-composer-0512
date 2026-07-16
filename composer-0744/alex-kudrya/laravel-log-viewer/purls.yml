@@ -20,6 +20,7 @@
 - pkg:composer/alex-kudrya/laravel-log-viewer@v1.11.1
 - pkg:composer/alex-kudrya/laravel-log-viewer@v1.11.2
 - pkg:composer/alex-kudrya/laravel-log-viewer@v1.11.3
+- pkg:composer/alex-kudrya/laravel-log-viewer@v1.12.0
 - pkg:composer/alex-kudrya/laravel-log-viewer@v1.2.0
 - pkg:composer/alex-kudrya/laravel-log-viewer@v1.2.1
 - pkg:composer/alex-kudrya/laravel-log-viewer@v1.2.2
