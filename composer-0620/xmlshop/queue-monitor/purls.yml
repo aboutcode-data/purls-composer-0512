@@ -31,3 +31,4 @@
 - pkg:composer/xmlshop/queue-monitor@3.0.7
 - pkg:composer/xmlshop/queue-monitor@3.0.8
 - pkg:composer/xmlshop/queue-monitor@3.0.9
+- pkg:composer/xmlshop/queue-monitor@4.0.0
