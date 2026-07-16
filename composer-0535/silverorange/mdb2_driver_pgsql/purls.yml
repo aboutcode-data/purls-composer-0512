@@ -10,3 +10,4 @@
 - pkg:composer/silverorange/mdb2_driver_pgsql@2.2.0
 - pkg:composer/silverorange/mdb2_driver_pgsql@2.2.1
 - pkg:composer/silverorange/mdb2_driver_pgsql@2.2.2
+- pkg:composer/silverorange/mdb2_driver_pgsql@2.3.0
