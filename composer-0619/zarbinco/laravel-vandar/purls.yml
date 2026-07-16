@@ -1,3 +1,5 @@
+- pkg:composer/zarbinco/laravel-vandar@0.4.0
 - pkg:composer/zarbinco/laravel-vandar@v0.1.0
 - pkg:composer/zarbinco/laravel-vandar@v0.2.0
 - pkg:composer/zarbinco/laravel-vandar@v0.3.0
+- pkg:composer/zarbinco/laravel-vandar@v1.0.0
