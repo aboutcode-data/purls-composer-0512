@@ -24,3 +24,4 @@
 - pkg:composer/assoconnect/php-quality-config@v2.1.0
 - pkg:composer/assoconnect/php-quality-config@v2.2.0
 - pkg:composer/assoconnect/php-quality-config@v2.3.0
+- pkg:composer/assoconnect/php-quality-config@v2.4.0
