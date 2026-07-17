@@ -50,3 +50,4 @@
 - pkg:composer/wirechat/wirechat@v0.6.0-alpha7
 - pkg:composer/wirechat/wirechat@v0.6.0-alpha8
 - pkg:composer/wirechat/wirechat@v0.6.0-alpha9
+- pkg:composer/wirechat/wirechat@v0.6.0-beta1
