@@ -59,3 +59,4 @@
 - pkg:composer/utopia-php/vcs@4.4.0
 - pkg:composer/utopia-php/vcs@4.4.1
 - pkg:composer/utopia-php/vcs@4.4.2
+- pkg:composer/utopia-php/vcs@4.4.3
