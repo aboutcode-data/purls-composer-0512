@@ -39,3 +39,6 @@
 - pkg:composer/amplify/erp@2.1.8
 - pkg:composer/amplify/erp@2.1.9
 - pkg:composer/amplify/erp@2.2.0
+- pkg:composer/amplify/erp@2.2.1
+- pkg:composer/amplify/erp@2.2.2
+- pkg:composer/amplify/erp@2.2.3
