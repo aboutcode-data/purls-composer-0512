@@ -5,6 +5,13 @@
 - pkg:composer/andydefer/laravel-repository@2.0.0
 - pkg:composer/andydefer/laravel-repository@2.1.0
 - pkg:composer/andydefer/laravel-repository@v2.1.1
+- pkg:composer/andydefer/laravel-repository@v2.10.0
+- pkg:composer/andydefer/laravel-repository@v2.10.1
+- pkg:composer/andydefer/laravel-repository@v2.10.2
+- pkg:composer/andydefer/laravel-repository@v2.10.3
+- pkg:composer/andydefer/laravel-repository@v2.10.4
+- pkg:composer/andydefer/laravel-repository@v2.10.5
+- pkg:composer/andydefer/laravel-repository@v2.10.6
 - pkg:composer/andydefer/laravel-repository@v2.2.0
 - pkg:composer/andydefer/laravel-repository@v2.3.0
 - pkg:composer/andydefer/laravel-repository@v2.3.1
