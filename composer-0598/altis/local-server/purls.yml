@@ -207,6 +207,7 @@
 - pkg:composer/altis/local-server@26.0.13
 - pkg:composer/altis/local-server@26.0.14
 - pkg:composer/altis/local-server@26.0.15
+- pkg:composer/altis/local-server@26.0.16
 - pkg:composer/altis/local-server@26.0.2
 - pkg:composer/altis/local-server@26.0.3
 - pkg:composer/altis/local-server@26.0.4
@@ -218,6 +219,8 @@
 - pkg:composer/altis/local-server@27.0.0
 - pkg:composer/altis/local-server@27.0.0-beta.1
 - pkg:composer/altis/local-server@27.0.1
+- pkg:composer/altis/local-server@27.0.2
+- pkg:composer/altis/local-server@27.0.3
 - pkg:composer/altis/local-server@3.0.0
 - pkg:composer/altis/local-server@3.0.0-beta1
 - pkg:composer/altis/local-server@3.0.0-beta2
