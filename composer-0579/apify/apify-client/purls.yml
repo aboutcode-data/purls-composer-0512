@@ -1,1 +1,2 @@
 - pkg:composer/apify/apify-client@v0.1.0
+- pkg:composer/apify/apify-client@v0.3.3
