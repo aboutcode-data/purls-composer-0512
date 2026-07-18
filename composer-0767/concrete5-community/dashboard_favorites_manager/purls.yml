@@ -14,3 +14,5 @@
 - pkg:composer/concrete5-community/dashboard_favorites_manager@1.2.0-rc7
 - pkg:composer/concrete5-community/dashboard_favorites_manager@1.2.0-rc8
 - pkg:composer/concrete5-community/dashboard_favorites_manager@1.2.1
+- pkg:composer/concrete5-community/dashboard_favorites_manager@1.2.2
+- pkg:composer/concrete5-community/dashboard_favorites_manager@1.2.3
