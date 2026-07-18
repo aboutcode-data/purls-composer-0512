@@ -10,3 +10,5 @@
 - pkg:composer/christian-riesen/base32@1.5.1
 - pkg:composer/christian-riesen/base32@1.5.2
 - pkg:composer/christian-riesen/base32@1.6.0
+- pkg:composer/christian-riesen/base32@1.6.1
+- pkg:composer/christian-riesen/base32@2.0.1
