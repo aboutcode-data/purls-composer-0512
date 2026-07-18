@@ -3,3 +3,7 @@
 - pkg:composer/context-dev/context-dev-php@v1.2.0
 - pkg:composer/context-dev/context-dev-php@v1.3.0
 - pkg:composer/context-dev/context-dev-php@v2.0.0
+- pkg:composer/context-dev/context-dev-php@v2.1.0
+- pkg:composer/context-dev/context-dev-php@v2.2.0
+- pkg:composer/context-dev/context-dev-php@v2.3.0
+- pkg:composer/context-dev/context-dev-php@v2.4.0
