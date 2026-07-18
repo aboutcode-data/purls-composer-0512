@@ -19,3 +19,4 @@
 - pkg:composer/carsdotcom/php-request-class@v1.7.3
 - pkg:composer/carsdotcom/php-request-class@v1.7.4
 - pkg:composer/carsdotcom/php-request-class@v1.8.0
+- pkg:composer/carsdotcom/php-request-class@v1.9.0
