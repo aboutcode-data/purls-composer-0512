@@ -1,4 +1,6 @@
 - pkg:composer/aboleon/metaframework-codex@0.2.4
+- pkg:composer/aboleon/metaframework-codex@0.2.5
+- pkg:composer/aboleon/metaframework-codex@0.2.6
 - pkg:composer/aboleon/metaframework-codex@v0.1.0
 - pkg:composer/aboleon/metaframework-codex@v0.2.0
 - pkg:composer/aboleon/metaframework-codex@v0.2.1
