@@ -40,3 +40,4 @@
 - pkg:composer/ctw/ctw-middleware-httpexception@4.0.3
 - pkg:composer/ctw/ctw-middleware-httpexception@4.0.4
 - pkg:composer/ctw/ctw-middleware-httpexception@4.0.5
+- pkg:composer/ctw/ctw-middleware-httpexception@5.0.0
