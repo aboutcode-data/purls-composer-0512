@@ -5,3 +5,5 @@
 - pkg:composer/cantie/app-store-connect-api@v1.0
 - pkg:composer/cantie/app-store-connect-api@v1.34.0
 - pkg:composer/cantie/app-store-connect-api@v1.35.0
+- pkg:composer/cantie/app-store-connect-api@v1.35.1
+- pkg:composer/cantie/app-store-connect-api@v1.35.2
