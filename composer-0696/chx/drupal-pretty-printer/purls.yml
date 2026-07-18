@@ -7,3 +7,5 @@
 - pkg:composer/chx/drupal-pretty-printer@0.7
 - pkg:composer/chx/drupal-pretty-printer@1.0.0
 - pkg:composer/chx/drupal-pretty-printer@1.0.1
+- pkg:composer/chx/drupal-pretty-printer@1.0.2
+- pkg:composer/chx/drupal-pretty-printer@1.0.3
