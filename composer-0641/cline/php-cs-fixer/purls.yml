@@ -12,3 +12,6 @@
 - pkg:composer/cline/php-cs-fixer@3.4.0
 - pkg:composer/cline/php-cs-fixer@4.0.0
 - pkg:composer/cline/php-cs-fixer@4.0.1
+- pkg:composer/cline/php-cs-fixer@4.1.0
+- pkg:composer/cline/php-cs-fixer@4.1.1
+- pkg:composer/cline/php-cs-fixer@4.1.2
