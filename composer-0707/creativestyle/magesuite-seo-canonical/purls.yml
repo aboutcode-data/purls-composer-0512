@@ -21,6 +21,8 @@
 - pkg:composer/creativestyle/magesuite-seo-canonical@v1.2.4
 - pkg:composer/creativestyle/magesuite-seo-canonical@v1.3.0
 - pkg:composer/creativestyle/magesuite-seo-canonical@v1.3.1
+- pkg:composer/creativestyle/magesuite-seo-canonical@v1.3.10
+- pkg:composer/creativestyle/magesuite-seo-canonical@v1.3.11
 - pkg:composer/creativestyle/magesuite-seo-canonical@v1.3.2
 - pkg:composer/creativestyle/magesuite-seo-canonical@v1.3.3
 - pkg:composer/creativestyle/magesuite-seo-canonical@v1.3.4
@@ -28,3 +30,4 @@
 - pkg:composer/creativestyle/magesuite-seo-canonical@v1.3.6
 - pkg:composer/creativestyle/magesuite-seo-canonical@v1.3.7
 - pkg:composer/creativestyle/magesuite-seo-canonical@v1.3.8
+- pkg:composer/creativestyle/magesuite-seo-canonical@v1.3.9
