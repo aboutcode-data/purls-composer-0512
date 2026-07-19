@@ -1,1 +1,2 @@
 - pkg:composer/cloud-castle/http-request@v0.1.0
+- pkg:composer/cloud-castle/http-request@v0.1.1
