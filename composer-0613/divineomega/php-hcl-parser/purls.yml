@@ -2,3 +2,4 @@
 - pkg:composer/divineomega/php-hcl-parser@v1.1.0
 - pkg:composer/divineomega/php-hcl-parser@v1.2.0
 - pkg:composer/divineomega/php-hcl-parser@v2.0.0
+- pkg:composer/divineomega/php-hcl-parser@v2.0.1
