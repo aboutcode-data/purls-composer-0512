@@ -49,3 +49,5 @@
 - pkg:composer/coderstm/laravel-core@v6.8.5
 - pkg:composer/coderstm/laravel-core@v6.8.6
 - pkg:composer/coderstm/laravel-core@v6.8.7
+- pkg:composer/coderstm/laravel-core@v6.8.8
+- pkg:composer/coderstm/laravel-core@v6.8.9
