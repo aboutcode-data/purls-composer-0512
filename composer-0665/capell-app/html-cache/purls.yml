@@ -1,1 +1,4 @@
 - pkg:composer/capell-app/html-cache@v1.0.0-beta.2
+- pkg:composer/capell-app/html-cache@v1.0.1
+- pkg:composer/capell-app/html-cache@v1.0.2
+- pkg:composer/capell-app/html-cache@v1.0.3
