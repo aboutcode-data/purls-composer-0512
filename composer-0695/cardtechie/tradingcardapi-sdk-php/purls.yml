@@ -42,3 +42,4 @@
 - pkg:composer/cardtechie/tradingcardapi-sdk-php@0.2.7
 - pkg:composer/cardtechie/tradingcardapi-sdk-php@0.2.8
 - pkg:composer/cardtechie/tradingcardapi-sdk-php@0.2.9
+- pkg:composer/cardtechie/tradingcardapi-sdk-php@0.3.0
