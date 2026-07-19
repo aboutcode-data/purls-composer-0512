@@ -55,6 +55,7 @@
 - pkg:composer/alibabacloud/websitebuild-20250429@2.31.3
 - pkg:composer/alibabacloud/websitebuild-20250429@2.32.0
 - pkg:composer/alibabacloud/websitebuild-20250429@2.32.1
+- pkg:composer/alibabacloud/websitebuild-20250429@2.33.0
 - pkg:composer/alibabacloud/websitebuild-20250429@2.4.0
 - pkg:composer/alibabacloud/websitebuild-20250429@2.5.0
 - pkg:composer/alibabacloud/websitebuild-20250429@2.6.0
