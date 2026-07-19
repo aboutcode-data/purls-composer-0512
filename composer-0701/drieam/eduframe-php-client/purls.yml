@@ -7,3 +7,4 @@
 - pkg:composer/drieam/eduframe-php-client@1.4.0
 - pkg:composer/drieam/eduframe-php-client@2.0.0
 - pkg:composer/drieam/eduframe-php-client@2.1.0
+- pkg:composer/drieam/eduframe-php-client@2.1.1
