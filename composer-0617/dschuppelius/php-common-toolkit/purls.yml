@@ -100,6 +100,13 @@
 - pkg:composer/dschuppelius/php-common-toolkit@v1.15.4
 - pkg:composer/dschuppelius/php-common-toolkit@v1.15.5
 - pkg:composer/dschuppelius/php-common-toolkit@v1.15.6
+- pkg:composer/dschuppelius/php-common-toolkit@v1.15.7
+- pkg:composer/dschuppelius/php-common-toolkit@v1.15.8
+- pkg:composer/dschuppelius/php-common-toolkit@v1.16
+- pkg:composer/dschuppelius/php-common-toolkit@v1.16.1
+- pkg:composer/dschuppelius/php-common-toolkit@v1.16.2
+- pkg:composer/dschuppelius/php-common-toolkit@v1.16.3
+- pkg:composer/dschuppelius/php-common-toolkit@v1.16.4
 - pkg:composer/dschuppelius/php-common-toolkit@v1.2
 - pkg:composer/dschuppelius/php-common-toolkit@v1.2.1
 - pkg:composer/dschuppelius/php-common-toolkit@v1.2.10
