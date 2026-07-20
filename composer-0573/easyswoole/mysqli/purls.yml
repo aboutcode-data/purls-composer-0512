@@ -63,4 +63,5 @@
 - pkg:composer/easyswoole/mysqli@4.0.7
 - pkg:composer/easyswoole/mysqli@4.0.8
 - pkg:composer/easyswoole/mysqli@4.0.9
+- pkg:composer/easyswoole/mysqli@4.1.1
 - pkg:composer/easyswoole/mysqli@v1.0.0

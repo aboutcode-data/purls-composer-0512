@@ -8,3 +8,6 @@
 - pkg:composer/easyswoole/command@1.1.5
 - pkg:composer/easyswoole/command@1.1.6
 - pkg:composer/easyswoole/command@1.1.7
+- pkg:composer/easyswoole/command@2.0.1
+- pkg:composer/easyswoole/command@2.0.2
+- pkg:composer/easyswoole/command@2.0.3
