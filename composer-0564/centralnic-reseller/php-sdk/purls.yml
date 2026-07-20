@@ -39,6 +39,10 @@
 - pkg:composer/centralnic-reseller/php-sdk@v16.0.3
 - pkg:composer/centralnic-reseller/php-sdk@v16.0.4
 - pkg:composer/centralnic-reseller/php-sdk@v16.0.5
+- pkg:composer/centralnic-reseller/php-sdk@v17.0.0
+- pkg:composer/centralnic-reseller/php-sdk@v17.0.1
+- pkg:composer/centralnic-reseller/php-sdk@v17.1.0
+- pkg:composer/centralnic-reseller/php-sdk@v17.2.0
 - pkg:composer/centralnic-reseller/php-sdk@v7.0.0
 - pkg:composer/centralnic-reseller/php-sdk@v7.0.1
 - pkg:composer/centralnic-reseller/php-sdk@v7.0.2
