@@ -15,3 +15,4 @@
 - pkg:composer/erag/laravel-disposable-email@v5.0.0
 - pkg:composer/erag/laravel-disposable-email@v5.1.0
 - pkg:composer/erag/laravel-disposable-email@v5.1.1
+- pkg:composer/erag/laravel-disposable-email@v5.1.2
