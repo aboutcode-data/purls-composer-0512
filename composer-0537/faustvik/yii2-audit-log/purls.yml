@@ -2,3 +2,4 @@
 - pkg:composer/faustvik/yii2-audit-log@v1.0.1
 - pkg:composer/faustvik/yii2-audit-log@v1.0.2
 - pkg:composer/faustvik/yii2-audit-log@v1.1.1
+- pkg:composer/faustvik/yii2-audit-log@v2.0.0
