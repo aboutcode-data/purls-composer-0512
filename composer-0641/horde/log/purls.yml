@@ -20,3 +20,4 @@
 - pkg:composer/horde/log@v3.0.0beta5
 - pkg:composer/horde/log@v3.0.0beta6
 - pkg:composer/horde/log@v3.0.0beta7
+- pkg:composer/horde/log@v3.0.1
