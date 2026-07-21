@@ -5,6 +5,10 @@
 - pkg:composer/iamfarhad/laravel-rabbitmq@1.2.0
 - pkg:composer/iamfarhad/laravel-rabbitmq@1.2.1
 - pkg:composer/iamfarhad/laravel-rabbitmq@1.3.0
+- pkg:composer/iamfarhad/laravel-rabbitmq@1.3.1
+- pkg:composer/iamfarhad/laravel-rabbitmq@1.3.2
+- pkg:composer/iamfarhad/laravel-rabbitmq@1.3.3
+- pkg:composer/iamfarhad/laravel-rabbitmq@1.3.4
 - pkg:composer/iamfarhad/laravel-rabbitmq@v0.0.1
 - pkg:composer/iamfarhad/laravel-rabbitmq@v0.0.10
 - pkg:composer/iamfarhad/laravel-rabbitmq@v0.0.11
