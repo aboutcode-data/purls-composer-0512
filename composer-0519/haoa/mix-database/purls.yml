@@ -7,6 +7,8 @@
 - pkg:composer/haoa/mix-database@v1.0.6
 - pkg:composer/haoa/mix-database@v2.0.0
 - pkg:composer/haoa/mix-database@v2.0.1
+- pkg:composer/haoa/mix-database@v2.0.10
+- pkg:composer/haoa/mix-database@v2.0.11
 - pkg:composer/haoa/mix-database@v2.0.2
 - pkg:composer/haoa/mix-database@v2.0.3
 - pkg:composer/haoa/mix-database@v2.0.4
