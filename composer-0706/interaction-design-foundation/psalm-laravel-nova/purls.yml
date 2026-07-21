@@ -1,1 +1,2 @@
 - pkg:composer/interaction-design-foundation/psalm-laravel-nova@v0.1.0
+- pkg:composer/interaction-design-foundation/psalm-laravel-nova@v0.1.1
