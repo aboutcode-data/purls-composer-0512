@@ -35,3 +35,7 @@
 - pkg:composer/elleracompany/craft-cookie-consent@5.0.2
 - pkg:composer/elleracompany/craft-cookie-consent@5.0.3
 - pkg:composer/elleracompany/craft-cookie-consent@5.0.4
+- pkg:composer/elleracompany/craft-cookie-consent@5.1.0
+- pkg:composer/elleracompany/craft-cookie-consent@5.1.0-rc
+- pkg:composer/elleracompany/craft-cookie-consent@5.1.1
+- pkg:composer/elleracompany/craft-cookie-consent@5.2.0
