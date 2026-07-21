@@ -3,6 +3,7 @@
 - pkg:composer/game-worker/kiri-router@v1.10
 - pkg:composer/game-worker/kiri-router@v1.11
 - pkg:composer/game-worker/kiri-router@v1.12
+- pkg:composer/game-worker/kiri-router@v1.13
 - pkg:composer/game-worker/kiri-router@v1.2
 - pkg:composer/game-worker/kiri-router@v1.3
 - pkg:composer/game-worker/kiri-router@v1.4
