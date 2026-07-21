@@ -1,3 +1,5 @@
 - pkg:composer/jord-jd/php-server-info@v1.0.0
 - pkg:composer/jord-jd/php-server-info@v2.0.0
 - pkg:composer/jord-jd/php-server-info@v3.0.0
+- pkg:composer/jord-jd/php-server-info@v4.0.0
+- pkg:composer/jord-jd/php-server-info@v4.1.0

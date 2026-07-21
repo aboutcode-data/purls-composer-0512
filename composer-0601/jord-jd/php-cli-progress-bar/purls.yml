@@ -5,3 +5,4 @@
 - pkg:composer/jord-jd/php-cli-progress-bar@v2.1.0
 - pkg:composer/jord-jd/php-cli-progress-bar@v3.0.0
 - pkg:composer/jord-jd/php-cli-progress-bar@v4.0.0
+- pkg:composer/jord-jd/php-cli-progress-bar@v4.1.0
