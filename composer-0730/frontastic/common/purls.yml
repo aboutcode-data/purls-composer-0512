@@ -152,6 +152,7 @@
 - pkg:composer/frontastic/common@2.5.0
 - pkg:composer/frontastic/common@2.5.1
 - pkg:composer/frontastic/common@2.50.0
+- pkg:composer/frontastic/common@2.50.1
 - pkg:composer/frontastic/common@2.6.0
 - pkg:composer/frontastic/common@2.6.1
 - pkg:composer/frontastic/common@2.7.0
