@@ -1,4 +1,5 @@
 - pkg:composer/halleck45/php-metrics@0.0.1
+- pkg:composer/halleck45/php-metrics@2.10.0
 - pkg:composer/halleck45/php-metrics@v0.0.2
 - pkg:composer/halleck45/php-metrics@v0.0.3
 - pkg:composer/halleck45/php-metrics@v0.0.4
