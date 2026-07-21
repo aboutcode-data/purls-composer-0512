@@ -8,3 +8,4 @@
 - pkg:composer/gwhthompson/laravel-cloudflare-transforms@v3.2.1
 - pkg:composer/gwhthompson/laravel-cloudflare-transforms@v3.2.2
 - pkg:composer/gwhthompson/laravel-cloudflare-transforms@v3.2.3
+- pkg:composer/gwhthompson/laravel-cloudflare-transforms@v4.0.0
