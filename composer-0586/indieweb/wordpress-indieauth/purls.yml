@@ -47,3 +47,4 @@
 - pkg:composer/indieweb/wordpress-indieauth@4.5.5
 - pkg:composer/indieweb/wordpress-indieauth@4.6.0
 - pkg:composer/indieweb/wordpress-indieauth@4.7.0
+- pkg:composer/indieweb/wordpress-indieauth@4.7.1
