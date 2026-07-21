@@ -17,3 +17,4 @@
 - pkg:composer/jbzoo/retry@7.0.0
 - pkg:composer/jbzoo/retry@7.0.1
 - pkg:composer/jbzoo/retry@7.0.2
+- pkg:composer/jbzoo/retry@8.0.0
