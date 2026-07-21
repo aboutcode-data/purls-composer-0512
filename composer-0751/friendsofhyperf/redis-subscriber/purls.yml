@@ -11,3 +11,4 @@
 - pkg:composer/friendsofhyperf/redis-subscriber@v3.2.0
 - pkg:composer/friendsofhyperf/redis-subscriber@v3.2.0-alpha.1
 - pkg:composer/friendsofhyperf/redis-subscriber@v3.2.0-alpha.6
+- pkg:composer/friendsofhyperf/redis-subscriber@v3.2.1
