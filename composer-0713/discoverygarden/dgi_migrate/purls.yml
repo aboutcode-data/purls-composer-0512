@@ -90,6 +90,7 @@
 - pkg:composer/discoverygarden/dgi_migrate@v3.20.1
 - pkg:composer/discoverygarden/dgi_migrate@v3.20.2
 - pkg:composer/discoverygarden/dgi_migrate@v3.20.3
+- pkg:composer/discoverygarden/dgi_migrate@v3.21.0
 - pkg:composer/discoverygarden/dgi_migrate@v3.3.0
 - pkg:composer/discoverygarden/dgi_migrate@v3.3.1
 - pkg:composer/discoverygarden/dgi_migrate@v3.3.2
