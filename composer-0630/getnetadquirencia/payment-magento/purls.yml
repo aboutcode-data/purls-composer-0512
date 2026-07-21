@@ -19,3 +19,5 @@
 - pkg:composer/getnetadquirencia/payment-magento@103.4.8
 - pkg:composer/getnetadquirencia/payment-magento@103.4.9
 - pkg:composer/getnetadquirencia/payment-magento@104.0.0
+- pkg:composer/getnetadquirencia/payment-magento@104.0.1
+- pkg:composer/getnetadquirencia/payment-magento@105.0.0
