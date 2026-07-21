@@ -90,6 +90,8 @@
 - pkg:composer/keboola/job-queue-internal-api-php-client@25.6.0
 - pkg:composer/keboola/job-queue-internal-api-php-client@25.7.0
 - pkg:composer/keboola/job-queue-internal-api-php-client@26.0.0
+- pkg:composer/keboola/job-queue-internal-api-php-client@27.0.0
+- pkg:composer/keboola/job-queue-internal-api-php-client@27.1.0
 - pkg:composer/keboola/job-queue-internal-api-php-client@7.0.0
 - pkg:composer/keboola/job-queue-internal-api-php-client@7.1.0
 - pkg:composer/keboola/job-queue-internal-api-php-client@7.2.0
