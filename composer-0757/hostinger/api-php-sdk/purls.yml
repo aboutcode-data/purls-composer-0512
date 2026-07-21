@@ -27,3 +27,9 @@
 - pkg:composer/hostinger/api-php-sdk@1.4.0
 - pkg:composer/hostinger/api-php-sdk@1.4.1
 - pkg:composer/hostinger/api-php-sdk@1.4.2
+- pkg:composer/hostinger/api-php-sdk@1.4.3
+- pkg:composer/hostinger/api-php-sdk@1.5.0
+- pkg:composer/hostinger/api-php-sdk@1.5.1
+- pkg:composer/hostinger/api-php-sdk@1.6.0
+- pkg:composer/hostinger/api-php-sdk@1.6.1
+- pkg:composer/hostinger/api-php-sdk@1.6.2
