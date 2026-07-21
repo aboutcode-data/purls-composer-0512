@@ -113,6 +113,7 @@
 - pkg:composer/getpop/access-control@18.0.1
 - pkg:composer/getpop/access-control@19.0.0
 - pkg:composer/getpop/access-control@19.0.1
+- pkg:composer/getpop/access-control@19.0.2
 - pkg:composer/getpop/access-control@2.0.0
 - pkg:composer/getpop/access-control@2.0.1
 - pkg:composer/getpop/access-control@2.1.0
