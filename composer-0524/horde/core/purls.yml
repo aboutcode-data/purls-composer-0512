@@ -118,3 +118,4 @@
 - pkg:composer/horde/core@v3.0.1
 - pkg:composer/horde/core@v3.1.0
 - pkg:composer/horde/core@v3.2.0
+- pkg:composer/horde/core@v3.2.1
