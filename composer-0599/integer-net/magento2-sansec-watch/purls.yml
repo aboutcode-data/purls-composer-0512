@@ -13,4 +13,7 @@
 - pkg:composer/integer-net/magento2-sansec-watch@1.0.9
 - pkg:composer/integer-net/magento2-sansec-watch@1.1.0
 - pkg:composer/integer-net/magento2-sansec-watch@1.1.1
+- pkg:composer/integer-net/magento2-sansec-watch@2.0.0
 - pkg:composer/integer-net/magento2-sansec-watch@2.0.0-beta
+- pkg:composer/integer-net/magento2-sansec-watch@2.0.1
+- pkg:composer/integer-net/magento2-sansec-watch@2.1.0-beta
