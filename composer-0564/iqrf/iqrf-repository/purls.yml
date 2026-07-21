@@ -5,3 +5,4 @@
 - pkg:composer/iqrf/iqrf-repository@v0.2.3
 - pkg:composer/iqrf/iqrf-repository@v0.2.4
 - pkg:composer/iqrf/iqrf-repository@v0.2.5
+- pkg:composer/iqrf/iqrf-repository@v0.3.0
