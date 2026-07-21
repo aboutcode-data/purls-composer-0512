@@ -6,3 +6,4 @@
 - pkg:composer/gigerit/laravel-mysql-optimizer@v1.4.0
 - pkg:composer/gigerit/laravel-mysql-optimizer@v1.5.0
 - pkg:composer/gigerit/laravel-mysql-optimizer@v1.5.1
+- pkg:composer/gigerit/laravel-mysql-optimizer@v1.6.0
