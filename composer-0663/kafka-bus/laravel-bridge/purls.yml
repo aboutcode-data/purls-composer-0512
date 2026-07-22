@@ -5,3 +5,4 @@
 - pkg:composer/kafka-bus/laravel-bridge@v1.4.0
 - pkg:composer/kafka-bus/laravel-bridge@v1.4.1
 - pkg:composer/kafka-bus/laravel-bridge@v1.4.2
+- pkg:composer/kafka-bus/laravel-bridge@v1.4.3
