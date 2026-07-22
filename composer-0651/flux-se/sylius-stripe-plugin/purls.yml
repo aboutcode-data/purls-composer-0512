@@ -13,3 +13,4 @@
 - pkg:composer/flux-se/sylius-stripe-plugin@v2.0.0
 - pkg:composer/flux-se/sylius-stripe-plugin@v2.0.0-ALPHA.1
 - pkg:composer/flux-se/sylius-stripe-plugin@v2.0.0-RC.1
+- pkg:composer/flux-se/sylius-stripe-plugin@v2.0.1
