@@ -44,3 +44,4 @@
 - pkg:composer/horde/turba@v5.0.0beta5
 - pkg:composer/horde/turba@v5.0.0beta6
 - pkg:composer/horde/turba@v5.0.1
+- pkg:composer/horde/turba@v5.0.2
