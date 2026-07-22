@@ -1,1 +1,6 @@
 - pkg:composer/laravel-readiness/cli@v0.1.0
+- pkg:composer/laravel-readiness/cli@v0.2.0
+- pkg:composer/laravel-readiness/cli@v0.3.0
+- pkg:composer/laravel-readiness/cli@v0.4.0
+- pkg:composer/laravel-readiness/cli@v0.4.4
+- pkg:composer/laravel-readiness/cli@v0.4.5
