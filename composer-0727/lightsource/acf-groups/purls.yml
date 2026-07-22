@@ -36,6 +36,8 @@
 - pkg:composer/lightsource/acf-groups@14.0.3
 - pkg:composer/lightsource/acf-groups@14.0.4
 - pkg:composer/lightsource/acf-groups@14.0.5
+- pkg:composer/lightsource/acf-groups@14.0.6
+- pkg:composer/lightsource/acf-groups@14.0.7
 - pkg:composer/lightsource/acf-groups@2.0.0
 - pkg:composer/lightsource/acf-groups@2.0.1
 - pkg:composer/lightsource/acf-groups@2.0.2
