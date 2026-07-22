@@ -1,3 +1,4 @@
 - pkg:composer/librepim/librepim-dev@v8.0.0
 - pkg:composer/librepim/librepim-dev@v8.0.1
 - pkg:composer/librepim/librepim-dev@v8.1.0
+- pkg:composer/librepim/librepim-dev@v8.2.0
