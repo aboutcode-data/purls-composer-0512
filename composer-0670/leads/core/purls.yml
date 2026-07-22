@@ -4,6 +4,7 @@
 - pkg:composer/leads/core@0.0.13
 - pkg:composer/leads/core@0.0.14
 - pkg:composer/leads/core@0.0.15
+- pkg:composer/leads/core@0.0.16
 - pkg:composer/leads/core@0.0.5
 - pkg:composer/leads/core@0.0.6
 - pkg:composer/leads/core@0.0.7
