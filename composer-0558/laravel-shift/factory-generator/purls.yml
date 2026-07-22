@@ -2,3 +2,4 @@
 - pkg:composer/laravel-shift/factory-generator@v2.0
 - pkg:composer/laravel-shift/factory-generator@v2.1
 - pkg:composer/laravel-shift/factory-generator@v2.2
+- pkg:composer/laravel-shift/factory-generator@v2.3
