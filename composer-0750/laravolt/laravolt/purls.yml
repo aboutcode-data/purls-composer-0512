@@ -101,6 +101,7 @@
 - pkg:composer/laravolt/laravolt@v6.7.0
 - pkg:composer/laravolt/laravolt@v6.8.0
 - pkg:composer/laravolt/laravolt@v6.9.0
+- pkg:composer/laravolt/laravolt@v7.0.0
 - pkg:composer/laravolt/laravolt@v7.0.0-beta.1
 - pkg:composer/laravolt/laravolt@v7.0.0-beta.2
 - pkg:composer/laravolt/laravolt@v7.0.0-beta.3
