@@ -10,3 +10,4 @@
 - pkg:composer/laravelui5/auth@v0.1.9
 - pkg:composer/laravelui5/auth@v0.2.0
 - pkg:composer/laravelui5/auth@v0.2.1
+- pkg:composer/laravelui5/auth@v0.2.2
