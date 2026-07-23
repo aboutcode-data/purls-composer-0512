@@ -70,3 +70,4 @@
 - pkg:composer/marshmallow/payable@v2.9.1
 - pkg:composer/marshmallow/payable@v2.9.2
 - pkg:composer/marshmallow/payable@v3.0.0
+- pkg:composer/marshmallow/payable@v4.0.0
