@@ -20,3 +20,4 @@
 - pkg:composer/minishlink/web-push-bundle@v6.3.0
 - pkg:composer/minishlink/web-push-bundle@v6.3.1
 - pkg:composer/minishlink/web-push-bundle@v6.3.2
+- pkg:composer/minishlink/web-push-bundle@v7.0.0
