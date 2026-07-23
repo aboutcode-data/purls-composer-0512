@@ -10,3 +10,4 @@
 - pkg:composer/larva/volcengine-tls-sdk-php@1.0.9
 - pkg:composer/larva/volcengine-tls-sdk-php@1.1.0
 - pkg:composer/larva/volcengine-tls-sdk-php@1.1.1
+- pkg:composer/larva/volcengine-tls-sdk-php@1.1.2
