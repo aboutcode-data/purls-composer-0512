@@ -20,3 +20,4 @@
 - pkg:composer/lwplugins/lw-firewall@v1.3.0
 - pkg:composer/lwplugins/lw-firewall@v1.3.1
 - pkg:composer/lwplugins/lw-firewall@v1.3.2
+- pkg:composer/lwplugins/lw-firewall@v1.4.0

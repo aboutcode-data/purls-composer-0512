@@ -143,3 +143,5 @@
 - pkg:composer/lychee-org/lychee@v7.6.2
 - pkg:composer/lychee-org/lychee@v7.6.3
 - pkg:composer/lychee-org/lychee@v7.6.4
+- pkg:composer/lychee-org/lychee@v7.7.0
+- pkg:composer/lychee-org/lychee@v7.7.1
