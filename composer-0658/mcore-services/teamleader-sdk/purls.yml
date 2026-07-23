@@ -13,3 +13,7 @@
 - pkg:composer/mcore-services/teamleader-sdk@v1.2.5
 - pkg:composer/mcore-services/teamleader-sdk@v1.2.6
 - pkg:composer/mcore-services/teamleader-sdk@v1.2.7
+- pkg:composer/mcore-services/teamleader-sdk@v1.2.8
+- pkg:composer/mcore-services/teamleader-sdk@v2.0.0
+- pkg:composer/mcore-services/teamleader-sdk@v2.1.0
+- pkg:composer/mcore-services/teamleader-sdk@v2.1.1
