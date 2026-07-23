@@ -236,3 +236,7 @@
 - pkg:composer/mistralys/application_framework@7.3.2
 - pkg:composer/mistralys/application_framework@7.3.3
 - pkg:composer/mistralys/application_framework@7.3.4
+- pkg:composer/mistralys/application_framework@7.3.5
+- pkg:composer/mistralys/application_framework@7.3.6
+- pkg:composer/mistralys/application_framework@7.3.7
+- pkg:composer/mistralys/application_framework@7.4.0
