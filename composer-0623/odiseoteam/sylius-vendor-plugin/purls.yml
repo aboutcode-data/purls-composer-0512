@@ -71,3 +71,4 @@
 - pkg:composer/odiseoteam/sylius-vendor-plugin@v1.8.9
 - pkg:composer/odiseoteam/sylius-vendor-plugin@v2.0.0
 - pkg:composer/odiseoteam/sylius-vendor-plugin@v2.1.0
+- pkg:composer/odiseoteam/sylius-vendor-plugin@v2.2.0
