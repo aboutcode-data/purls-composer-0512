@@ -123,6 +123,7 @@
 - pkg:composer/mpl/matomo@5.11.0
 - pkg:composer/mpl/matomo@5.11.1
 - pkg:composer/mpl/matomo@5.11.2
+- pkg:composer/mpl/matomo@5.12.0
 - pkg:composer/mpl/matomo@5.2.0
 - pkg:composer/mpl/matomo@5.2.1
 - pkg:composer/mpl/matomo@5.2.2
