@@ -457,3 +457,4 @@
 - pkg:composer/neos/utility-opcodecache@9.1.0
 - pkg:composer/neos/utility-opcodecache@9.1.1
 - pkg:composer/neos/utility-opcodecache@9.2.0-beta1
+- pkg:composer/neos/utility-opcodecache@9.2.0-beta2
