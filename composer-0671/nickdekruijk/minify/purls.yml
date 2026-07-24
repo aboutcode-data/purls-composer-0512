@@ -5,3 +5,5 @@
 - pkg:composer/nickdekruijk/minify@2.3.1
 - pkg:composer/nickdekruijk/minify@3.0.0
 - pkg:composer/nickdekruijk/minify@3.1.0
+- pkg:composer/nickdekruijk/minify@3.1.1
+- pkg:composer/nickdekruijk/minify@4.0.0
