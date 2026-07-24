@@ -80,6 +80,7 @@
 - pkg:composer/mmerlijn/laravel-salt@v1.0.60
 - pkg:composer/mmerlijn/laravel-salt@v1.0.61
 - pkg:composer/mmerlijn/laravel-salt@v1.0.62
+- pkg:composer/mmerlijn/laravel-salt@v1.0.63
 - pkg:composer/mmerlijn/laravel-salt@v1.0.7
 - pkg:composer/mmerlijn/laravel-salt@v1.0.8
 - pkg:composer/mmerlijn/laravel-salt@v1.0.9
