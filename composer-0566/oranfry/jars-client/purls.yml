@@ -16,4 +16,7 @@
 - pkg:composer/oranfry/jars-client@1.7.0
 - pkg:composer/oranfry/jars-client@1.7.1
 - pkg:composer/oranfry/jars-client@1.8.0
+- pkg:composer/oranfry/jars-client@1.8.1
 - pkg:composer/oranfry/jars-client@2.0.0
+- pkg:composer/oranfry/jars-client@3.0.0
+- pkg:composer/oranfry/jars-client@3.0.1
