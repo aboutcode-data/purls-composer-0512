@@ -20,6 +20,7 @@
 - pkg:composer/open-telemetry/gen-otlp-protobuf@1.0.0beta5
 - pkg:composer/open-telemetry/gen-otlp-protobuf@1.0.0beta6
 - pkg:composer/open-telemetry/gen-otlp-protobuf@1.1.0
+- pkg:composer/open-telemetry/gen-otlp-protobuf@1.10.0
 - pkg:composer/open-telemetry/gen-otlp-protobuf@1.2.0
 - pkg:composer/open-telemetry/gen-otlp-protobuf@1.2.1
 - pkg:composer/open-telemetry/gen-otlp-protobuf@1.5.0
