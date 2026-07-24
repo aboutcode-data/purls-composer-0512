@@ -2,3 +2,4 @@
 - pkg:composer/mosaicora/module-opengraph@1.0.1
 - pkg:composer/mosaicora/module-opengraph@1.0.2
 - pkg:composer/mosaicora/module-opengraph@1.0.3
+- pkg:composer/mosaicora/module-opengraph@v1.1.1
