@@ -2,6 +2,13 @@
 - pkg:composer/netresearch/nr-vault@v0.1.1
 - pkg:composer/netresearch/nr-vault@v0.10.0
 - pkg:composer/netresearch/nr-vault@v0.10.1
+- pkg:composer/netresearch/nr-vault@v0.10.2
+- pkg:composer/netresearch/nr-vault@v0.11.0
+- pkg:composer/netresearch/nr-vault@v0.11.1
+- pkg:composer/netresearch/nr-vault@v0.11.2
+- pkg:composer/netresearch/nr-vault@v0.11.3
+- pkg:composer/netresearch/nr-vault@v0.11.4
+- pkg:composer/netresearch/nr-vault@v0.12.0
 - pkg:composer/netresearch/nr-vault@v0.2.0
 - pkg:composer/netresearch/nr-vault@v0.3.0
 - pkg:composer/netresearch/nr-vault@v0.3.1
