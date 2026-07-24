@@ -45,6 +45,8 @@
 - pkg:composer/nightowl/agent@v1.2.10
 - pkg:composer/nightowl/agent@v1.2.11
 - pkg:composer/nightowl/agent@v1.2.12
+- pkg:composer/nightowl/agent@v1.2.13
+- pkg:composer/nightowl/agent@v1.2.14
 - pkg:composer/nightowl/agent@v1.2.2
 - pkg:composer/nightowl/agent@v1.2.3
 - pkg:composer/nightowl/agent@v1.2.4
@@ -53,3 +55,8 @@
 - pkg:composer/nightowl/agent@v1.2.7
 - pkg:composer/nightowl/agent@v1.2.8
 - pkg:composer/nightowl/agent@v1.2.9
+- pkg:composer/nightowl/agent@v1.3.0
+- pkg:composer/nightowl/agent@v1.3.1
+- pkg:composer/nightowl/agent@v1.3.2
+- pkg:composer/nightowl/agent@v1.4.0
+- pkg:composer/nightowl/agent@v1.4.1
