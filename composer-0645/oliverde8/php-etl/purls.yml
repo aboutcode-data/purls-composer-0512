@@ -20,6 +20,7 @@
 - pkg:composer/oliverde8/php-etl@v1.2.0-alpha2
 - pkg:composer/oliverde8/php-etl@v1.2.0-alpha3
 - pkg:composer/oliverde8/php-etl@v1.2.1
+- pkg:composer/oliverde8/php-etl@v2.0.0
 - pkg:composer/oliverde8/php-etl@v2.0.0-alpha1
 - pkg:composer/oliverde8/php-etl@v2.0.0-alpha2
 - pkg:composer/oliverde8/php-etl@v2.0.0-alpha3
