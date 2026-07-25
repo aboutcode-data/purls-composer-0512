@@ -38,6 +38,9 @@
 - pkg:composer/refineddigital/cms-form-builder@v1.13.3
 - pkg:composer/refineddigital/cms-form-builder@v1.13.4
 - pkg:composer/refineddigital/cms-form-builder@v1.13.5
+- pkg:composer/refineddigital/cms-form-builder@v1.13.6
+- pkg:composer/refineddigital/cms-form-builder@v1.13.7
+- pkg:composer/refineddigital/cms-form-builder@v1.13.8
 - pkg:composer/refineddigital/cms-form-builder@v1.2.10
 - pkg:composer/refineddigital/cms-form-builder@v1.2.11
 - pkg:composer/refineddigital/cms-form-builder@v1.2.12
