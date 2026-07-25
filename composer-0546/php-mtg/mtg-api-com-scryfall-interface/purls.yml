@@ -118,3 +118,4 @@
 - pkg:composer/php-mtg/mtg-api-com-scryfall-interface@9.1.0
 - pkg:composer/php-mtg/mtg-api-com-scryfall-interface@9.1.1
 - pkg:composer/php-mtg/mtg-api-com-scryfall-interface@9.1.2
+- pkg:composer/php-mtg/mtg-api-com-scryfall-interface@9.1.3
