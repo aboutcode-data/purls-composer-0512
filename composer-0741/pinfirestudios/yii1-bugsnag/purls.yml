@@ -12,3 +12,5 @@
 - pkg:composer/pinfirestudios/yii1-bugsnag@v1.0.7
 - pkg:composer/pinfirestudios/yii1-bugsnag@v1.0.8
 - pkg:composer/pinfirestudios/yii1-bugsnag@v1.0.9
+- pkg:composer/pinfirestudios/yii1-bugsnag@v2.0.0
+- pkg:composer/pinfirestudios/yii1-bugsnag@v2.0.1
