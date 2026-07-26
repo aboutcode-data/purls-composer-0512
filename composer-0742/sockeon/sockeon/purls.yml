@@ -10,3 +10,4 @@
 - pkg:composer/sockeon/sockeon@v2.4.0
 - pkg:composer/sockeon/sockeon@v2.4.1
 - pkg:composer/sockeon/sockeon@v2.4.2
+- pkg:composer/sockeon/sockeon@v3.0.0
