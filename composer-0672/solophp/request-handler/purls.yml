@@ -8,3 +8,4 @@
 - pkg:composer/solophp/request-handler@v3.0.0
 - pkg:composer/solophp/request-handler@v3.1.0
 - pkg:composer/solophp/request-handler@v3.1.1
+- pkg:composer/solophp/request-handler@v3.2.0
