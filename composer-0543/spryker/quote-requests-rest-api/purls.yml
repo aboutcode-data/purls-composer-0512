@@ -10,3 +10,4 @@
 - pkg:composer/spryker/quote-requests-rest-api@0.2.2
 - pkg:composer/spryker/quote-requests-rest-api@0.2.3
 - pkg:composer/spryker/quote-requests-rest-api@0.2.4
+- pkg:composer/spryker/quote-requests-rest-api@0.2.5
