@@ -1,5 +1,6 @@
 - pkg:composer/socialiteproviders/soundcloud@4.0.0
 - pkg:composer/socialiteproviders/soundcloud@4.1.0
+- pkg:composer/socialiteproviders/soundcloud@5.0.0
 - pkg:composer/socialiteproviders/soundcloud@v1.0.0
 - pkg:composer/socialiteproviders/soundcloud@v1.0.1
 - pkg:composer/socialiteproviders/soundcloud@v1.0.2
