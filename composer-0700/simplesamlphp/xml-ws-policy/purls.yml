@@ -3,3 +3,7 @@
 - pkg:composer/simplesamlphp/xml-ws-policy@v1.1.0
 - pkg:composer/simplesamlphp/xml-ws-policy@v1.2.0
 - pkg:composer/simplesamlphp/xml-ws-policy@v1.3.0
+- pkg:composer/simplesamlphp/xml-ws-policy@v2.0.0
+- pkg:composer/simplesamlphp/xml-ws-policy@v2.0.1
+- pkg:composer/simplesamlphp/xml-ws-policy@v2.0.2
+- pkg:composer/simplesamlphp/xml-ws-policy@v2.0.3
