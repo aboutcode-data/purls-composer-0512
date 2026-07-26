@@ -38,6 +38,7 @@
 - pkg:composer/spryker/company-user@2.20.1
 - pkg:composer/spryker/company-user@2.21.0
 - pkg:composer/spryker/company-user@2.22.0
+- pkg:composer/spryker/company-user@2.23.0
 - pkg:composer/spryker/company-user@2.3.0
 - pkg:composer/spryker/company-user@2.4.0
 - pkg:composer/spryker/company-user@2.5.0
