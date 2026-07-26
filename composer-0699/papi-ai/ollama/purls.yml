@@ -1,3 +1,4 @@
+- pkg:composer/papi-ai/ollama@v0.13.0
 - pkg:composer/papi-ai/ollama@v0.6
 - pkg:composer/papi-ai/ollama@v0.7
 - pkg:composer/papi-ai/ollama@v0.8
