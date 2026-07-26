@@ -57,6 +57,8 @@
 - pkg:composer/seamapi/seam@v2.143.0
 - pkg:composer/seamapi/seam@v2.144.0
 - pkg:composer/seamapi/seam@v2.145.0
+- pkg:composer/seamapi/seam@v2.146.0
+- pkg:composer/seamapi/seam@v2.147.0
 - pkg:composer/seamapi/seam@v2.15.0
 - pkg:composer/seamapi/seam@v2.16.0
 - pkg:composer/seamapi/seam@v2.17.0
@@ -153,3 +155,5 @@
 - pkg:composer/seamapi/seam@v2.97.0
 - pkg:composer/seamapi/seam@v2.98.0
 - pkg:composer/seamapi/seam@v2.99.0
+- pkg:composer/seamapi/seam@v3.0.0
+- pkg:composer/seamapi/seam@v3.1.0
