@@ -14,6 +14,10 @@
 - pkg:composer/respinar/contao-jalalidate@2.5.0
 - pkg:composer/respinar/contao-jalalidate@2.6.0
 - pkg:composer/respinar/contao-jalalidate@2.7.0
+- pkg:composer/respinar/contao-jalalidate@2.8.0
+- pkg:composer/respinar/contao-jalalidate@2.9.0
+- pkg:composer/respinar/contao-jalalidate@2.9.1
+- pkg:composer/respinar/contao-jalalidate@2.9.3
 - pkg:composer/respinar/contao-jalalidate@v0.1.0
 - pkg:composer/respinar/contao-jalalidate@v0.2.0
 - pkg:composer/respinar/contao-jalalidate@v0.2.1

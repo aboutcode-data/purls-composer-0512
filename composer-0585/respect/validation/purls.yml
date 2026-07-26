@@ -146,6 +146,7 @@
 - pkg:composer/respect/validation@2.4.7
 - pkg:composer/respect/validation@2.4.8
 - pkg:composer/respect/validation@2.4.9
+- pkg:composer/respect/validation@2.5.0
 - pkg:composer/respect/validation@3.0.0
 - pkg:composer/respect/validation@3.0.1
 - pkg:composer/respect/validation@3.0.2
