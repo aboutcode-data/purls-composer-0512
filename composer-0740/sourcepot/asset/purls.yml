@@ -32,3 +32,5 @@
 - pkg:composer/sourcepot/asset@v2.3.2
 - pkg:composer/sourcepot/asset@v2.4.0
 - pkg:composer/sourcepot/asset@v2.5.0
+- pkg:composer/sourcepot/asset@v2.6.0
+- pkg:composer/sourcepot/asset@v2.6.1
