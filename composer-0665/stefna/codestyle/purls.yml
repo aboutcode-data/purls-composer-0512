@@ -29,3 +29,5 @@
 - pkg:composer/stefna/codestyle@1.7.0
 - pkg:composer/stefna/codestyle@1.8.0
 - pkg:composer/stefna/codestyle@1.9.0
+- pkg:composer/stefna/codestyle@2.0.0
+- pkg:composer/stefna/codestyle@2.1.0
