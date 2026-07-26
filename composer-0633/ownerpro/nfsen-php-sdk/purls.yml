@@ -12,3 +12,5 @@
 - pkg:composer/ownerpro/nfsen-php-sdk@v2.6.0
 - pkg:composer/ownerpro/nfsen-php-sdk@v2.7.0
 - pkg:composer/ownerpro/nfsen-php-sdk@v3.0.0-rc1
+- pkg:composer/ownerpro/nfsen-php-sdk@v3.0.0-rc2
+- pkg:composer/ownerpro/nfsen-php-sdk@v3.0.0-rc3
