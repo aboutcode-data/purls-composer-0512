@@ -23,6 +23,7 @@
 - pkg:composer/tdwesten/statamic-builder@v1.1.0
 - pkg:composer/tdwesten/statamic-builder@v2.0.0
 - pkg:composer/tdwesten/statamic-builder@v3.0.0
+- pkg:composer/tdwesten/statamic-builder@v3.0.10
 - pkg:composer/tdwesten/statamic-builder@v3.0.6
 - pkg:composer/tdwesten/statamic-builder@v3.0.7
 - pkg:composer/tdwesten/statamic-builder@v3.0.8
