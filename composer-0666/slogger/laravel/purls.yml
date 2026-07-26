@@ -22,3 +22,6 @@
 - pkg:composer/slogger/laravel@v1.0.6
 - pkg:composer/slogger/laravel@v1.0.7
 - pkg:composer/slogger/laravel@v1.1.0
+- pkg:composer/slogger/laravel@v1.2.0
+- pkg:composer/slogger/laravel@v1.2.1
+- pkg:composer/slogger/laravel@v1.2.2

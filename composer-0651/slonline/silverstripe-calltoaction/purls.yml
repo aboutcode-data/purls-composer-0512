@@ -1,3 +1,6 @@
+- pkg:composer/slonline/silverstripe-calltoaction@5.0.0
+- pkg:composer/slonline/silverstripe-calltoaction@6.0.0
+- pkg:composer/slonline/silverstripe-calltoaction@6.0.1
 - pkg:composer/slonline/silverstripe-calltoaction@v0.1.1
 - pkg:composer/slonline/silverstripe-calltoaction@v0.1.2
 - pkg:composer/slonline/silverstripe-calltoaction@v0.1.3
