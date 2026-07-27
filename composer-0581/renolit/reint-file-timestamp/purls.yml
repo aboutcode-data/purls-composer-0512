@@ -7,3 +7,5 @@
 - pkg:composer/renolit/reint-file-timestamp@3.0.0
 - pkg:composer/renolit/reint-file-timestamp@3.0.1
 - pkg:composer/renolit/reint-file-timestamp@4.0.0
+- pkg:composer/renolit/reint-file-timestamp@4.0.1
+- pkg:composer/renolit/reint-file-timestamp@5.0.0
