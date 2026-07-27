@@ -13,3 +13,5 @@
 - pkg:composer/vaened/laravel-authorization@v4.0.0
 - pkg:composer/vaened/laravel-authorization@v4.1.0
 - pkg:composer/vaened/laravel-authorization@v4.1.1
+- pkg:composer/vaened/laravel-authorization@v4.2.0
+- pkg:composer/vaened/laravel-authorization@v4.3.0
