@@ -10,3 +10,4 @@
 - pkg:composer/repull/sdk@v0.2.6
 - pkg:composer/repull/sdk@v0.2.7
 - pkg:composer/repull/sdk@v0.2.8
+- pkg:composer/repull/sdk@v0.2.9
