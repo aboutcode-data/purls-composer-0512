@@ -60,3 +60,4 @@
 - pkg:composer/softcommerce/module-core@2.4.1
 - pkg:composer/softcommerce/module-core@2.5.0
 - pkg:composer/softcommerce/module-core@2.5.1
+- pkg:composer/softcommerce/module-core@2.6.0
