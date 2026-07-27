@@ -3,3 +3,4 @@
 - pkg:composer/valkyrja/phpcodesniffer@v26.1.0
 - pkg:composer/valkyrja/phpcodesniffer@v26.1.1
 - pkg:composer/valkyrja/phpcodesniffer@v26.1.2
+- pkg:composer/valkyrja/phpcodesniffer@v26.1.3
