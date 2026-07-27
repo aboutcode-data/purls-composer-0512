@@ -18,5 +18,6 @@
 - pkg:composer/thewebmen/silverstripe-menustructure@4.0.0
 - pkg:composer/thewebmen/silverstripe-menustructure@4.0.1
 - pkg:composer/thewebmen/silverstripe-menustructure@4.0.2
+- pkg:composer/thewebmen/silverstripe-menustructure@6.0.0-rc.1
 - pkg:composer/thewebmen/silverstripe-menustructure@v2.0.1
 - pkg:composer/thewebmen/silverstripe-menustructure@v2.0.2
