@@ -22,3 +22,4 @@
 - pkg:composer/thomas-0816/pdo-duckdb-php@1.1.9
 - pkg:composer/thomas-0816/pdo-duckdb-php@1.5.4.0
 - pkg:composer/thomas-0816/pdo-duckdb-php@1.5.5.0
+- pkg:composer/thomas-0816/pdo-duckdb-php@1.5.5.1
