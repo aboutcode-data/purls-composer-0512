@@ -35,3 +35,4 @@
 - pkg:composer/webexmachina/contao-portfolio@3.3.6
 - pkg:composer/webexmachina/contao-portfolio@3.3.7
 - pkg:composer/webexmachina/contao-portfolio@3.3.8
+- pkg:composer/webexmachina/contao-portfolio@4.0.0
