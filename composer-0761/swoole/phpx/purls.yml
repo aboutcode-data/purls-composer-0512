@@ -21,3 +21,4 @@
 - pkg:composer/swoole/phpx@v2.3.9
 - pkg:composer/swoole/phpx@v2.4.0
 - pkg:composer/swoole/phpx@v2.4.1
+- pkg:composer/swoole/phpx@v2.4.2
