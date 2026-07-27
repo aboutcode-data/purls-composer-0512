@@ -16,3 +16,6 @@
 - pkg:composer/webimpian/bayarcash-php-sdk@2.1.0
 - pkg:composer/webimpian/bayarcash-php-sdk@2.1.1
 - pkg:composer/webimpian/bayarcash-php-sdk@2.1.2
+- pkg:composer/webimpian/bayarcash-php-sdk@v2.2.0
+- pkg:composer/webimpian/bayarcash-php-sdk@v2.3.0
+- pkg:composer/webimpian/bayarcash-php-sdk@v3.0.0
