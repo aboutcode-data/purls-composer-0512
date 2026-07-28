@@ -24,3 +24,5 @@
 - pkg:composer/x3group-dev/bitrix24-api-laravel@3.1.0
 - pkg:composer/x3group-dev/bitrix24-api-laravel@3.2.0
 - pkg:composer/x3group-dev/bitrix24-api-laravel@3.3.0
+- pkg:composer/x3group-dev/bitrix24-api-laravel@3.3.1
+- pkg:composer/x3group-dev/bitrix24-api-laravel@3.4.0
