@@ -1,3 +1,11 @@
+- pkg:composer/asmit/resized-column@4.0.0-beta.1
+- pkg:composer/asmit/resized-column@4.0.0-beta.2
+- pkg:composer/asmit/resized-column@4.0.0-beta.3
+- pkg:composer/asmit/resized-column@4.0.0-beta.4
+- pkg:composer/asmit/resized-column@4.0.0-beta.5
+- pkg:composer/asmit/resized-column@4.0.0-beta.6
+- pkg:composer/asmit/resized-column@4.0.0-beta.7
+- pkg:composer/asmit/resized-column@4.0.0-beta.8
 - pkg:composer/asmit/resized-column@v1.0.0
 - pkg:composer/asmit/resized-column@v1.0.1
 - pkg:composer/asmit/resized-column@v1.1.0
@@ -5,3 +13,4 @@
 - pkg:composer/asmit/resized-column@v2.1.0
 - pkg:composer/asmit/resized-column@v3.0.0
 - pkg:composer/asmit/resized-column@v3.0.1
+- pkg:composer/asmit/resized-column@v3.0.2
