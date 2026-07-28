@@ -4,5 +4,7 @@
 - pkg:composer/upassist/neos-llms@v0.3.0
 - pkg:composer/upassist/neos-llms@v1.0.0
 - pkg:composer/upassist/neos-llms@v1.1.0
+- pkg:composer/upassist/neos-llms@v1.2.0
 - pkg:composer/upassist/neos-llms@v2.0.0
 - pkg:composer/upassist/neos-llms@v2.1.0
+- pkg:composer/upassist/neos-llms@v2.2.0
