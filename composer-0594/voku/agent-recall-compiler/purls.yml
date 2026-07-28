@@ -18,3 +18,4 @@
 - pkg:composer/voku/agent-recall-compiler@0.6.4
 - pkg:composer/voku/agent-recall-compiler@0.6.5
 - pkg:composer/voku/agent-recall-compiler@0.6.6
+- pkg:composer/voku/agent-recall-compiler@0.6.7
