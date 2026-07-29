@@ -44,6 +44,7 @@
 - pkg:composer/wnx/laravel-stats@v2.18.0
 - pkg:composer/wnx/laravel-stats@v2.19.0
 - pkg:composer/wnx/laravel-stats@v2.2.0
+- pkg:composer/wnx/laravel-stats@v2.20.0
 - pkg:composer/wnx/laravel-stats@v2.3.0
 - pkg:composer/wnx/laravel-stats@v2.4.0
 - pkg:composer/wnx/laravel-stats@v2.4.1
