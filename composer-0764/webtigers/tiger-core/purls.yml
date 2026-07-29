@@ -47,6 +47,7 @@
 - pkg:composer/webtigers/tiger-core@v0.41.0-beta
 - pkg:composer/webtigers/tiger-core@v0.42.0-beta
 - pkg:composer/webtigers/tiger-core@v0.43.0-beta
+- pkg:composer/webtigers/tiger-core@v0.44.0-beta
 - pkg:composer/webtigers/tiger-core@v0.5.0-beta
 - pkg:composer/webtigers/tiger-core@v0.5.1-beta
 - pkg:composer/webtigers/tiger-core@v0.6.0-beta
