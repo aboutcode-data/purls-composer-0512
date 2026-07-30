@@ -1,4 +1,1 @@
-- pkg:composer/blueprint3d/module-allow-utf8mb4@1.0.0
-- pkg:composer/blueprint3d/module-allow-utf8mb4@1.0.1
-- pkg:composer/blueprint3d/module-allow-utf8mb4@1.0.2
-- pkg:composer/blueprint3d/module-allow-utf8mb4@1.0.3
+- pkg:composer/blueprint3d/module-allow-utf8mb4@v1.0.0
