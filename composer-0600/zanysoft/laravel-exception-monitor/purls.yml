@@ -1,3 +1,4 @@
 - pkg:composer/zanysoft/laravel-exception-monitor@1.0.1
 - pkg:composer/zanysoft/laravel-exception-monitor@2.0.1
 - pkg:composer/zanysoft/laravel-exception-monitor@2.0.2
+- pkg:composer/zanysoft/laravel-exception-monitor@2.0.3
