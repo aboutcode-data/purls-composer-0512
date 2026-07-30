@@ -53,6 +53,12 @@
 - pkg:composer/boundwize/structarmed@0.14.8
 - pkg:composer/boundwize/structarmed@0.14.9
 - pkg:composer/boundwize/structarmed@0.15.0
+- pkg:composer/boundwize/structarmed@0.15.1
+- pkg:composer/boundwize/structarmed@0.15.2
+- pkg:composer/boundwize/structarmed@0.15.3
+- pkg:composer/boundwize/structarmed@0.15.4
+- pkg:composer/boundwize/structarmed@0.15.5
+- pkg:composer/boundwize/structarmed@0.15.6
 - pkg:composer/boundwize/structarmed@0.2.0
 - pkg:composer/boundwize/structarmed@0.2.1
 - pkg:composer/boundwize/structarmed@0.2.2
