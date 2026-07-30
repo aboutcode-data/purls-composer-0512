@@ -113,6 +113,7 @@
 - pkg:composer/afragen/git-updater@14.0.1
 - pkg:composer/afragen/git-updater@14.0.2
 - pkg:composer/afragen/git-updater@14.1.0
+- pkg:composer/afragen/git-updater@14.2.0
 - pkg:composer/afragen/git-updater@2.9.0
 - pkg:composer/afragen/git-updater@3.0.0
 - pkg:composer/afragen/git-updater@3.0.1
