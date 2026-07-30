@@ -19,3 +19,4 @@
 - pkg:composer/barefootjs/php@v0.26.3
 - pkg:composer/barefootjs/php@v0.26.4
 - pkg:composer/barefootjs/php@v0.27.0
+- pkg:composer/barefootjs/php@v0.28.0
