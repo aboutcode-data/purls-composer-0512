@@ -359,6 +359,7 @@
 - pkg:composer/altis/cloud@27.0.3
 - pkg:composer/altis/cloud@27.0.4
 - pkg:composer/altis/cloud@27.0.5
+- pkg:composer/altis/cloud@27.0.6
 - pkg:composer/altis/cloud@3.0.0
 - pkg:composer/altis/cloud@3.0.0-beta1
 - pkg:composer/altis/cloud@3.0.0-beta2
