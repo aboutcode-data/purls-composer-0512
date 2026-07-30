@@ -12,3 +12,5 @@
 - pkg:composer/celysium/base@v1.7
 - pkg:composer/celysium/base@v1.8
 - pkg:composer/celysium/base@v1.9
+- pkg:composer/celysium/base@v2.0
+- pkg:composer/celysium/base@v2.1
