@@ -15,6 +15,7 @@
 - pkg:composer/denzyl/phanalist@v1.0.1
 - pkg:composer/denzyl/phanalist@v1.1.0
 - pkg:composer/denzyl/phanalist@v1.1.1
+- pkg:composer/denzyl/phanalist@v1.1.10
 - pkg:composer/denzyl/phanalist@v1.1.2
 - pkg:composer/denzyl/phanalist@v1.1.3
 - pkg:composer/denzyl/phanalist@v1.1.4
@@ -22,3 +23,4 @@
 - pkg:composer/denzyl/phanalist@v1.1.6
 - pkg:composer/denzyl/phanalist@v1.1.7
 - pkg:composer/denzyl/phanalist@v1.1.8
+- pkg:composer/denzyl/phanalist@v1.1.9
