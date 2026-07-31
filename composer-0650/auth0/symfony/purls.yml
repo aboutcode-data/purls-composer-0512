@@ -49,3 +49,4 @@
 - pkg:composer/auth0/symfony@5.7.0
 - pkg:composer/auth0/symfony@5.8.0
 - pkg:composer/auth0/symfony@5.9.0
+- pkg:composer/auth0/symfony@6.0.0-beta.0
