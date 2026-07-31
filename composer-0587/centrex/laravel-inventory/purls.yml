@@ -59,3 +59,4 @@
 - pkg:composer/centrex/laravel-inventory@v2.1.4
 - pkg:composer/centrex/laravel-inventory@v2.1.5
 - pkg:composer/centrex/laravel-inventory@v2.2.0
+- pkg:composer/centrex/laravel-inventory@v2.2.1
