@@ -49,4 +49,5 @@
 - pkg:composer/dcarbone/php-consul-api@v2.0.0
 - pkg:composer/dcarbone/php-consul-api@v2.0.1
 - pkg:composer/dcarbone/php-consul-api@v2.0.2
+- pkg:composer/dcarbone/php-consul-api@v3.0.0
 - pkg:composer/dcarbone/php-consul-api@v3.0.0-rc1
