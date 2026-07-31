@@ -4,3 +4,4 @@
 - pkg:composer/datatables.net/datatables.net-fixedcolumns-bs5@5.0.3
 - pkg:composer/datatables.net/datatables.net-fixedcolumns-bs5@5.0.4
 - pkg:composer/datatables.net/datatables.net-fixedcolumns-bs5@5.0.5
+- pkg:composer/datatables.net/datatables.net-fixedcolumns-bs5@6.0.0
