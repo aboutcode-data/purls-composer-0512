@@ -168,3 +168,5 @@
 - pkg:composer/damms005/laravel-cashier@v7.2.8
 - pkg:composer/damms005/laravel-cashier@v7.2.9
 - pkg:composer/damms005/laravel-cashier@v7.3.0
+- pkg:composer/damms005/laravel-cashier@v7.4.0
+- pkg:composer/damms005/laravel-cashier@v8.0.0
