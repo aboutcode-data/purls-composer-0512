@@ -164,6 +164,7 @@
 - pkg:composer/dbp/relay-core-bundle@v0.1.244
 - pkg:composer/dbp/relay-core-bundle@v0.1.245
 - pkg:composer/dbp/relay-core-bundle@v0.1.246
+- pkg:composer/dbp/relay-core-bundle@v0.1.247
 - pkg:composer/dbp/relay-core-bundle@v0.1.25
 - pkg:composer/dbp/relay-core-bundle@v0.1.26
 - pkg:composer/dbp/relay-core-bundle@v0.1.27
