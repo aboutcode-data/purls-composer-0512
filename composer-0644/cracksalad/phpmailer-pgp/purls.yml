@@ -8,3 +8,4 @@
 - pkg:composer/cracksalad/phpmailer-pgp@2.0-rc1
 - pkg:composer/cracksalad/phpmailer-pgp@2.0.1
 - pkg:composer/cracksalad/phpmailer-pgp@3.0.0
+- pkg:composer/cracksalad/phpmailer-pgp@v3.0.1
