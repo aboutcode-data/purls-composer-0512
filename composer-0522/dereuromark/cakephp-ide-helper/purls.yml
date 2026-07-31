@@ -176,6 +176,8 @@
 - pkg:composer/dereuromark/cakephp-ide-helper@2.21.0
 - pkg:composer/dereuromark/cakephp-ide-helper@2.22.0
 - pkg:composer/dereuromark/cakephp-ide-helper@2.22.1
+- pkg:composer/dereuromark/cakephp-ide-helper@2.22.2
+- pkg:composer/dereuromark/cakephp-ide-helper@2.22.3
 - pkg:composer/dereuromark/cakephp-ide-helper@2.3.0
 - pkg:composer/dereuromark/cakephp-ide-helper@2.4.0
 - pkg:composer/dereuromark/cakephp-ide-helper@2.5.0
