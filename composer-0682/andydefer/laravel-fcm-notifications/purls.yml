@@ -50,6 +50,9 @@
 - pkg:composer/andydefer/laravel-fcm-notifications@v1.1.43
 - pkg:composer/andydefer/laravel-fcm-notifications@v1.1.44
 - pkg:composer/andydefer/laravel-fcm-notifications@v1.1.45
+- pkg:composer/andydefer/laravel-fcm-notifications@v1.1.46
+- pkg:composer/andydefer/laravel-fcm-notifications@v1.1.47
+- pkg:composer/andydefer/laravel-fcm-notifications@v1.1.48
 - pkg:composer/andydefer/laravel-fcm-notifications@v1.1.5
 - pkg:composer/andydefer/laravel-fcm-notifications@v1.1.6
 - pkg:composer/andydefer/laravel-fcm-notifications@v1.1.7

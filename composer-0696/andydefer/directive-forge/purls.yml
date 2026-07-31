@@ -34,6 +34,9 @@
 - pkg:composer/andydefer/directive-forge@v2.16.1
 - pkg:composer/andydefer/directive-forge@v2.16.2
 - pkg:composer/andydefer/directive-forge@v2.16.3
+- pkg:composer/andydefer/directive-forge@v2.16.4
+- pkg:composer/andydefer/directive-forge@v2.16.5
+- pkg:composer/andydefer/directive-forge@v2.16.6
 - pkg:composer/andydefer/directive-forge@v2.2.0
 - pkg:composer/andydefer/directive-forge@v2.3.0
 - pkg:composer/andydefer/directive-forge@v2.4.0
