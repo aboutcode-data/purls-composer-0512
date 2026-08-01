@@ -182,3 +182,4 @@
 - pkg:composer/drenso/symfony-shared@7.1.0
 - pkg:composer/drenso/symfony-shared@7.2.0
 - pkg:composer/drenso/symfony-shared@7.2.1
+- pkg:composer/drenso/symfony-shared@7.3.0
