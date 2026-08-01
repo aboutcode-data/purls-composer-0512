@@ -40,3 +40,4 @@
 - pkg:composer/dynamic/silverstripe-base-site@8.0.1
 - pkg:composer/dynamic/silverstripe-base-site@8.0.2
 - pkg:composer/dynamic/silverstripe-base-site@8.0.3
+- pkg:composer/dynamic/silverstripe-base-site@8.0.4
