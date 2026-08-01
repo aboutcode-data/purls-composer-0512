@@ -49,3 +49,8 @@
 - pkg:composer/dschuppelius/php-error-toolkit@v2.5.3
 - pkg:composer/dschuppelius/php-error-toolkit@v2.5.4
 - pkg:composer/dschuppelius/php-error-toolkit@v2.5.5
+- pkg:composer/dschuppelius/php-error-toolkit@v2.6
+- pkg:composer/dschuppelius/php-error-toolkit@v2.6.1
+- pkg:composer/dschuppelius/php-error-toolkit@v2.7
+- pkg:composer/dschuppelius/php-error-toolkit@v2.7.1
+- pkg:composer/dschuppelius/php-error-toolkit@v2.7.2
