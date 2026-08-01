@@ -179,6 +179,8 @@
 - pkg:composer/elliotjreed/disposable-emails-filter@5.0.180
 - pkg:composer/elliotjreed/disposable-emails-filter@5.0.181
 - pkg:composer/elliotjreed/disposable-emails-filter@5.0.182
+- pkg:composer/elliotjreed/disposable-emails-filter@5.0.183
+- pkg:composer/elliotjreed/disposable-emails-filter@5.0.184
 - pkg:composer/elliotjreed/disposable-emails-filter@5.0.19
 - pkg:composer/elliotjreed/disposable-emails-filter@5.0.2
 - pkg:composer/elliotjreed/disposable-emails-filter@5.0.20
@@ -268,3 +270,12 @@
 - pkg:composer/elliotjreed/disposable-emails-filter@5.0.97
 - pkg:composer/elliotjreed/disposable-emails-filter@5.0.98
 - pkg:composer/elliotjreed/disposable-emails-filter@5.0.99
+- pkg:composer/elliotjreed/disposable-emails-filter@6.0.0
+- pkg:composer/elliotjreed/disposable-emails-filter@7.0.0
+- pkg:composer/elliotjreed/disposable-emails-filter@7.0.1
+- pkg:composer/elliotjreed/disposable-emails-filter@7.0.2
+- pkg:composer/elliotjreed/disposable-emails-filter@7.0.3
+- pkg:composer/elliotjreed/disposable-emails-filter@7.0.4
+- pkg:composer/elliotjreed/disposable-emails-filter@7.0.5
+- pkg:composer/elliotjreed/disposable-emails-filter@7.0.6
+- pkg:composer/elliotjreed/disposable-emails-filter@7.0.7
