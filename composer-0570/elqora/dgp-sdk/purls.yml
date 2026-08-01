@@ -7,3 +7,5 @@
 - pkg:composer/elqora/dgp-sdk@1.0.5-beta
 - pkg:composer/elqora/dgp-sdk@1.0.6-beta
 - pkg:composer/elqora/dgp-sdk@1.0.7-beta
+- pkg:composer/elqora/dgp-sdk@1.0.8-beta
+- pkg:composer/elqora/dgp-sdk@1.0.9-beta
