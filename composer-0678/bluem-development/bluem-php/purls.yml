@@ -54,6 +54,7 @@
 - pkg:composer/bluem-development/bluem-php@2.5
 - pkg:composer/bluem-development/bluem-php@2.6.1
 - pkg:composer/bluem-development/bluem-php@2.7.1
+- pkg:composer/bluem-development/bluem-php@2.7.2
 - pkg:composer/bluem-development/bluem-php@v0.5
 - pkg:composer/bluem-development/bluem-php@v0.9.6
 - pkg:composer/bluem-development/bluem-php@v0.9.7
