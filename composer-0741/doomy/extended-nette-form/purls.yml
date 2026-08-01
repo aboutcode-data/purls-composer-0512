@@ -13,3 +13,4 @@
 - pkg:composer/doomy/extended-nette-form@v2.4
 - pkg:composer/doomy/extended-nette-form@v3.0
 - pkg:composer/doomy/extended-nette-form@v3.0.1
+- pkg:composer/doomy/extended-nette-form@v4.0.0
