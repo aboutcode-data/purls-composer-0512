@@ -4,3 +4,7 @@
 - pkg:composer/ecotone/tempest@1.319.0
 - pkg:composer/ecotone/tempest@1.320.0
 - pkg:composer/ecotone/tempest@1.320.1
+- pkg:composer/ecotone/tempest@1.321.0
+- pkg:composer/ecotone/tempest@1.322.0
+- pkg:composer/ecotone/tempest@1.322.1
+- pkg:composer/ecotone/tempest@1.322.2
