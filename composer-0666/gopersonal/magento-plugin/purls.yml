@@ -4,3 +4,4 @@
 - pkg:composer/gopersonal/magento-plugin@1.0.21
 - pkg:composer/gopersonal/magento-plugin@1.0.22
 - pkg:composer/gopersonal/magento-plugin@1.0.23
+- pkg:composer/gopersonal/magento-plugin@2.0.0

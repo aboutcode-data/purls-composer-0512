@@ -14,3 +14,6 @@
 - pkg:composer/gordalina/mixpanel-bundle@5.0.2
 - pkg:composer/gordalina/mixpanel-bundle@5.0.3
 - pkg:composer/gordalina/mixpanel-bundle@5.1.0
+- pkg:composer/gordalina/mixpanel-bundle@5.1.1
+- pkg:composer/gordalina/mixpanel-bundle@6.0.0
+- pkg:composer/gordalina/mixpanel-bundle@7.0.0
