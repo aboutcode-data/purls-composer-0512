@@ -46,6 +46,7 @@
 - pkg:composer/gioco-plus/prism-plus@v2.4.5
 - pkg:composer/gioco-plus/prism-plus@v2.5.0
 - pkg:composer/gioco-plus/prism-plus@v2.5.1
+- pkg:composer/gioco-plus/prism-plus@v2.5.10
 - pkg:composer/gioco-plus/prism-plus@v2.5.2
 - pkg:composer/gioco-plus/prism-plus@v2.5.3
 - pkg:composer/gioco-plus/prism-plus@v2.5.4
@@ -54,3 +55,4 @@
 - pkg:composer/gioco-plus/prism-plus@v2.5.7
 - pkg:composer/gioco-plus/prism-plus@v2.5.8
 - pkg:composer/gioco-plus/prism-plus@v2.5.9
+- pkg:composer/gioco-plus/prism-plus@v2.6.0
