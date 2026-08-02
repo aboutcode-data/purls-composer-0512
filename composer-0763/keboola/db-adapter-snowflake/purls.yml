@@ -11,3 +11,4 @@
 - pkg:composer/keboola/db-adapter-snowflake@1.5.1
 - pkg:composer/keboola/db-adapter-snowflake@1.6.0
 - pkg:composer/keboola/db-adapter-snowflake@1.6.1
+- pkg:composer/keboola/db-adapter-snowflake@1.6.2
