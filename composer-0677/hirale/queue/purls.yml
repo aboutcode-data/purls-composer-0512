@@ -1,3 +1,5 @@
 - pkg:composer/hirale/queue@v1.0.0
 - pkg:composer/hirale/queue@v3.0.0
 - pkg:composer/hirale/queue@v3.0.1
+- pkg:composer/hirale/queue@v3.0.2
+- pkg:composer/hirale/queue@v3.0.3
