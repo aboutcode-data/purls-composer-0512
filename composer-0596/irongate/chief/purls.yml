@@ -36,6 +36,7 @@
 - pkg:composer/irongate/chief@v0.111.0
 - pkg:composer/irongate/chief@v0.111.1
 - pkg:composer/irongate/chief@v0.112.0
+- pkg:composer/irongate/chief@v0.113.0
 - pkg:composer/irongate/chief@v0.12.0
 - pkg:composer/irongate/chief@v0.12.1
 - pkg:composer/irongate/chief@v0.12.2
