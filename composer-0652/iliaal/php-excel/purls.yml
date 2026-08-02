@@ -3,4 +3,6 @@
 - pkg:composer/iliaal/php-excel@2.2.0
 - pkg:composer/iliaal/php-excel@2.3.0
 - pkg:composer/iliaal/php-excel@2.4.0
+- pkg:composer/iliaal/php-excel@2.5.0
+- pkg:composer/iliaal/php-excel@2.6.0
 - pkg:composer/iliaal/php-excel@v2.0.0
