@@ -121,3 +121,4 @@
 - pkg:composer/horde/core@v3.2.1
 - pkg:composer/horde/core@v3.2.2
 - pkg:composer/horde/core@v3.2.3
+- pkg:composer/horde/core@v3.3.0
