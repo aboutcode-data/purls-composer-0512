@@ -27,3 +27,5 @@
 - pkg:composer/itiden/statamic-backup@v2.0.0-alpha.1
 - pkg:composer/itiden/statamic-backup@v2.0.0-rc.1
 - pkg:composer/itiden/statamic-backup@v2.0.0-rc.2
+- pkg:composer/itiden/statamic-backup@v2.0.0-rc.3
+- pkg:composer/itiden/statamic-backup@v2.0.0-rc.4
