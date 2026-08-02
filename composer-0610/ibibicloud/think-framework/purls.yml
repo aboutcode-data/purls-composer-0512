@@ -5,3 +5,5 @@
 - pkg:composer/ibibicloud/think-framework@5.1.0
 - pkg:composer/ibibicloud/think-framework@8.0.0
 - pkg:composer/ibibicloud/think-framework@8.0.1
+- pkg:composer/ibibicloud/think-framework@8.0.2
+- pkg:composer/ibibicloud/think-framework@8.0.3
