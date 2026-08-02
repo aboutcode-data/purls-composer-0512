@@ -163,6 +163,8 @@
 - pkg:composer/huaweicloud/huaweicloud-sdk-php@3.1.190
 - pkg:composer/huaweicloud/huaweicloud-sdk-php@3.1.191
 - pkg:composer/huaweicloud/huaweicloud-sdk-php@3.1.192
+- pkg:composer/huaweicloud/huaweicloud-sdk-php@3.1.193
+- pkg:composer/huaweicloud/huaweicloud-sdk-php@3.1.194
 - pkg:composer/huaweicloud/huaweicloud-sdk-php@3.1.2
 - pkg:composer/huaweicloud/huaweicloud-sdk-php@3.1.20
 - pkg:composer/huaweicloud/huaweicloud-sdk-php@3.1.21
