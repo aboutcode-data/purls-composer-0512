@@ -78,6 +78,7 @@
 - pkg:composer/exinone/mixin-sdk-php@1.5.1
 - pkg:composer/exinone/mixin-sdk-php@1.5.2
 - pkg:composer/exinone/mixin-sdk-php@1.5.3
+- pkg:composer/exinone/mixin-sdk-php@1.5.4
 - pkg:composer/exinone/mixin-sdk-php@1.6.0
 - pkg:composer/exinone/mixin-sdk-php@1.6.1
 - pkg:composer/exinone/mixin-sdk-php@1.6.10
@@ -102,5 +103,6 @@
 - pkg:composer/exinone/mixin-sdk-php@1.7.0
 - pkg:composer/exinone/mixin-sdk-php@1.7.1
 - pkg:composer/exinone/mixin-sdk-php@1.7.2
+- pkg:composer/exinone/mixin-sdk-php@1.7.3
 - pkg:composer/exinone/mixin-sdk-php@v1.2.20
 - pkg:composer/exinone/mixin-sdk-php@v1.3.7
