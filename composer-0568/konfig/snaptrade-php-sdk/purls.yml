@@ -154,6 +154,8 @@
 - pkg:composer/konfig/snaptrade-php-sdk@v2.0.2
 - pkg:composer/konfig/snaptrade-php-sdk@v2.0.20
 - pkg:composer/konfig/snaptrade-php-sdk@v2.0.21
+- pkg:composer/konfig/snaptrade-php-sdk@v2.0.214
+- pkg:composer/konfig/snaptrade-php-sdk@v2.0.217
 - pkg:composer/konfig/snaptrade-php-sdk@v2.0.22
 - pkg:composer/konfig/snaptrade-php-sdk@v2.0.23
 - pkg:composer/konfig/snaptrade-php-sdk@v2.0.24
