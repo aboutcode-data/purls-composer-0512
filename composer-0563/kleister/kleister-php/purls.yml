@@ -17,3 +17,4 @@
 - pkg:composer/kleister/kleister-php@2.8.0
 - pkg:composer/kleister/kleister-php@2.9.0
 - pkg:composer/kleister/kleister-php@3.0.0
+- pkg:composer/kleister/kleister-php@4.0.0
