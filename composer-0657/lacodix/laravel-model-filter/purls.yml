@@ -88,3 +88,4 @@
 - pkg:composer/lacodix/laravel-model-filter@v4.4.2
 - pkg:composer/lacodix/laravel-model-filter@v4.5.0
 - pkg:composer/lacodix/laravel-model-filter@v4.5.1
+- pkg:composer/lacodix/laravel-model-filter@v4.6.0
