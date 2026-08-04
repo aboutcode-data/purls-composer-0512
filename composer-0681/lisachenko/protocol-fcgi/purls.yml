@@ -4,3 +4,4 @@
 - pkg:composer/lisachenko/protocol-fcgi@2.0.0
 - pkg:composer/lisachenko/protocol-fcgi@2.0.1
 - pkg:composer/lisachenko/protocol-fcgi@3.0.0
+- pkg:composer/lisachenko/protocol-fcgi@4.0.0
