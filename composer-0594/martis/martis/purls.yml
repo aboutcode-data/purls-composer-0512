@@ -71,6 +71,7 @@
 - pkg:composer/martis/martis@v1.32.0
 - pkg:composer/martis/martis@v1.32.1
 - pkg:composer/martis/martis@v1.32.2
+- pkg:composer/martis/martis@v1.32.3
 - pkg:composer/martis/martis@v1.4.0
 - pkg:composer/martis/martis@v1.5.0
 - pkg:composer/martis/martis@v1.5.1
