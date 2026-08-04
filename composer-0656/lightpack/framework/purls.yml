@@ -12,6 +12,7 @@
 - pkg:composer/lightpack/framework@v0.17.0
 - pkg:composer/lightpack/framework@v0.17.1
 - pkg:composer/lightpack/framework@v0.17.2
+- pkg:composer/lightpack/framework@v0.17.3
 - pkg:composer/lightpack/framework@v0.2-alpha
 - pkg:composer/lightpack/framework@v0.2.1-alpha
 - pkg:composer/lightpack/framework@v0.2.10-alpha
