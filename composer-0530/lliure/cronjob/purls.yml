@@ -28,3 +28,4 @@
 - pkg:composer/lliure/cronjob@v2.7.1
 - pkg:composer/lliure/cronjob@v2.8.0
 - pkg:composer/lliure/cronjob@v2.8.1
+- pkg:composer/lliure/cronjob@v2.8.2
