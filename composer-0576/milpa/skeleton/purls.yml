@@ -1,4 +1,12 @@
 - pkg:composer/milpa/skeleton@v0.1.0
+- pkg:composer/milpa/skeleton@v0.10.0
+- pkg:composer/milpa/skeleton@v0.11.0
+- pkg:composer/milpa/skeleton@v0.11.1
+- pkg:composer/milpa/skeleton@v0.12.0
+- pkg:composer/milpa/skeleton@v0.13.0
+- pkg:composer/milpa/skeleton@v0.13.1
+- pkg:composer/milpa/skeleton@v0.13.2
+- pkg:composer/milpa/skeleton@v0.14.0
 - pkg:composer/milpa/skeleton@v0.2.0
 - pkg:composer/milpa/skeleton@v0.3.0
 - pkg:composer/milpa/skeleton@v0.4.0
