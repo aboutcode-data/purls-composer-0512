@@ -93,3 +93,4 @@
 - pkg:composer/kiwa/console@1.6.1
 - pkg:composer/kiwa/console@1.7.0
 - pkg:composer/kiwa/console@1.8.0
+- pkg:composer/kiwa/console@1.9.0
