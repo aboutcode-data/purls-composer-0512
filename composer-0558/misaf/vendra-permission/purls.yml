@@ -12,8 +12,11 @@
 - pkg:composer/misaf/vendra-permission@1.4.0
 - pkg:composer/misaf/vendra-permission@1.5.0
 - pkg:composer/misaf/vendra-permission@v1.0.0
+- pkg:composer/misaf/vendra-permission@v1.10.0
 - pkg:composer/misaf/vendra-permission@v1.2.0
 - pkg:composer/misaf/vendra-permission@v1.2.1
 - pkg:composer/misaf/vendra-permission@v1.6.0
 - pkg:composer/misaf/vendra-permission@v1.7.0
 - pkg:composer/misaf/vendra-permission@v1.7.1
+- pkg:composer/misaf/vendra-permission@v1.8.0
+- pkg:composer/misaf/vendra-permission@v1.9.0
