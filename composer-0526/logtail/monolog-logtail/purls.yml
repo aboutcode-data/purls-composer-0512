@@ -13,3 +13,4 @@
 - pkg:composer/logtail/monolog-logtail@v3.1.0
 - pkg:composer/logtail/monolog-logtail@v3.2.0
 - pkg:composer/logtail/monolog-logtail@v3.3.0
+- pkg:composer/logtail/monolog-logtail@v3.3.1
