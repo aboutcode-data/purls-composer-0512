@@ -22,3 +22,4 @@
 - pkg:composer/iqual/icms_bundle_event@1.5.7
 - pkg:composer/iqual/icms_bundle_event@1.5.8
 - pkg:composer/iqual/icms_bundle_event@1.5.9
+- pkg:composer/iqual/icms_bundle_event@1.6.0-rc.1
