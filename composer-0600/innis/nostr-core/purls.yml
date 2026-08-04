@@ -39,3 +39,4 @@
 - pkg:composer/innis/nostr-core@v0.5.2
 - pkg:composer/innis/nostr-core@v0.5.3
 - pkg:composer/innis/nostr-core@v0.5.4
+- pkg:composer/innis/nostr-core@v0.6.0
