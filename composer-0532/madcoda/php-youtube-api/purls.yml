@@ -8,3 +8,5 @@
 - pkg:composer/madcoda/php-youtube-api@v1.2.4
 - pkg:composer/madcoda/php-youtube-api@v1.2.5
 - pkg:composer/madcoda/php-youtube-api@v1.2.6
+- pkg:composer/madcoda/php-youtube-api@v1.3.0
+- pkg:composer/madcoda/php-youtube-api@v1.4.0
