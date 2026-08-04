@@ -13,3 +13,5 @@
 - pkg:composer/lupasearch/prestashop-lupasearch-plugin@0.5.2
 - pkg:composer/lupasearch/prestashop-lupasearch-plugin@0.5.3
 - pkg:composer/lupasearch/prestashop-lupasearch-plugin@0.6.0
+- pkg:composer/lupasearch/prestashop-lupasearch-plugin@0.7.0
+- pkg:composer/lupasearch/prestashop-lupasearch-plugin@0.8.0
