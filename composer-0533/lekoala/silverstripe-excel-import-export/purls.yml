@@ -30,4 +30,6 @@
 - pkg:composer/lekoala/silverstripe-excel-import-export@3.1.7
 - pkg:composer/lekoala/silverstripe-excel-import-export@3.1.8
 - pkg:composer/lekoala/silverstripe-excel-import-export@3.1.9
+- pkg:composer/lekoala/silverstripe-excel-import-export@3.2.0
 - pkg:composer/lekoala/silverstripe-excel-import-export@4.0.0
+- pkg:composer/lekoala/silverstripe-excel-import-export@4.1.0
