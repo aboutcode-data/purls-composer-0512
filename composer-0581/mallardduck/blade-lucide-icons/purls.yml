@@ -48,6 +48,8 @@
 - pkg:composer/mallardduck/blade-lucide-icons@1.26.29
 - pkg:composer/mallardduck/blade-lucide-icons@1.26.3
 - pkg:composer/mallardduck/blade-lucide-icons@1.26.30
+- pkg:composer/mallardduck/blade-lucide-icons@1.26.31
+- pkg:composer/mallardduck/blade-lucide-icons@1.26.32
 - pkg:composer/mallardduck/blade-lucide-icons@1.26.4
 - pkg:composer/mallardduck/blade-lucide-icons@1.26.5
 - pkg:composer/mallardduck/blade-lucide-icons@1.26.6
@@ -61,3 +63,5 @@
 - pkg:composer/mallardduck/blade-lucide-icons@1.7.0
 - pkg:composer/mallardduck/blade-lucide-icons@1.8.0
 - pkg:composer/mallardduck/blade-lucide-icons@1.9.0
+- pkg:composer/mallardduck/blade-lucide-icons@2.0.1
+- pkg:composer/mallardduck/blade-lucide-icons@v2.0.0
