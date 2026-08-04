@@ -10,3 +10,5 @@
 - pkg:composer/mahocommerce/maho@26.3.0
 - pkg:composer/mahocommerce/maho@26.5.0
 - pkg:composer/mahocommerce/maho@26.7.0
+- pkg:composer/mahocommerce/maho@26.7.1
+- pkg:composer/mahocommerce/maho@26.7.2
