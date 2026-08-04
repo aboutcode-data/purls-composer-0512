@@ -51,3 +51,6 @@
 - pkg:composer/leuchtdiode/mezzio-common@1.2.2
 - pkg:composer/leuchtdiode/mezzio-common@2.0.0
 - pkg:composer/leuchtdiode/mezzio-common@2.0.1
+- pkg:composer/leuchtdiode/mezzio-common@2.0.2
+- pkg:composer/leuchtdiode/mezzio-common@2.0.3
+- pkg:composer/leuchtdiode/mezzio-common@2.0.4
