@@ -47,6 +47,8 @@
 - pkg:composer/mongodb/laravel-mongodb@5.8.0
 - pkg:composer/mongodb/laravel-mongodb@5.8.1
 - pkg:composer/mongodb/laravel-mongodb@5.8.2
+- pkg:composer/mongodb/laravel-mongodb@5.9.0
+- pkg:composer/mongodb/laravel-mongodb@5.9.1
 - pkg:composer/mongodb/laravel-mongodb@v1.0.0
 - pkg:composer/mongodb/laravel-mongodb@v1.0.1
 - pkg:composer/mongodb/laravel-mongodb@v1.0.2
