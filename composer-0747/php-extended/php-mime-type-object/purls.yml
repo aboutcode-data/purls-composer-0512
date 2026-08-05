@@ -250,6 +250,7 @@
 - pkg:composer/php-extended/php-mime-type-object@9.0.14
 - pkg:composer/php-extended/php-mime-type-object@9.0.15
 - pkg:composer/php-extended/php-mime-type-object@9.0.16
+- pkg:composer/php-extended/php-mime-type-object@9.0.17
 - pkg:composer/php-extended/php-mime-type-object@9.0.2
 - pkg:composer/php-extended/php-mime-type-object@9.0.3
 - pkg:composer/php-extended/php-mime-type-object@9.0.4
