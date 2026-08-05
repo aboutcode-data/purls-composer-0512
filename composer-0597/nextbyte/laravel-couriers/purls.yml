@@ -27,3 +27,4 @@
 - pkg:composer/nextbyte/laravel-couriers@v1.5.5
 - pkg:composer/nextbyte/laravel-couriers@v1.6.0
 - pkg:composer/nextbyte/laravel-couriers@v1.6.1
+- pkg:composer/nextbyte/laravel-couriers@v1.6.2
