@@ -485,6 +485,7 @@
 - pkg:composer/neos/site-kickstarter@8.3.32
 - pkg:composer/neos/site-kickstarter@8.3.33
 - pkg:composer/neos/site-kickstarter@8.3.34
+- pkg:composer/neos/site-kickstarter@8.3.35
 - pkg:composer/neos/site-kickstarter@8.3.4
 - pkg:composer/neos/site-kickstarter@8.3.5
 - pkg:composer/neos/site-kickstarter@8.3.6
@@ -498,6 +499,7 @@
 - pkg:composer/neos/site-kickstarter@8.4.4
 - pkg:composer/neos/site-kickstarter@8.4.5
 - pkg:composer/neos/site-kickstarter@8.4.6
+- pkg:composer/neos/site-kickstarter@8.4.7
 - pkg:composer/neos/site-kickstarter@9.0.0
 - pkg:composer/neos/site-kickstarter@9.0.0-beta1
 - pkg:composer/neos/site-kickstarter@9.0.0-beta10
@@ -525,6 +527,7 @@
 - pkg:composer/neos/site-kickstarter@9.0.12
 - pkg:composer/neos/site-kickstarter@9.0.13
 - pkg:composer/neos/site-kickstarter@9.0.14
+- pkg:composer/neos/site-kickstarter@9.0.15
 - pkg:composer/neos/site-kickstarter@9.0.2
 - pkg:composer/neos/site-kickstarter@9.0.3
 - pkg:composer/neos/site-kickstarter@9.0.4
@@ -541,5 +544,6 @@
 - pkg:composer/neos/site-kickstarter@9.1.5
 - pkg:composer/neos/site-kickstarter@9.1.6
 - pkg:composer/neos/site-kickstarter@9.1.7
+- pkg:composer/neos/site-kickstarter@9.1.8
 - pkg:composer/neos/site-kickstarter@9.2.0-beta1
 - pkg:composer/neos/site-kickstarter@9.2.0-beta2
