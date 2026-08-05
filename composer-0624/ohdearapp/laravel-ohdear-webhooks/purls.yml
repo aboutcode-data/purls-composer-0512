@@ -17,3 +17,4 @@
 - pkg:composer/ohdearapp/laravel-ohdear-webhooks@1.4.4
 - pkg:composer/ohdearapp/laravel-ohdear-webhooks@2.0.0
 - pkg:composer/ohdearapp/laravel-ohdear-webhooks@2.0.1
+- pkg:composer/ohdearapp/laravel-ohdear-webhooks@2.1.0
