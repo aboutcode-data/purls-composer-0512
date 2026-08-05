@@ -11,3 +11,4 @@
 - pkg:composer/pixelfederation/circuit-breaker-bundle@5.0.0
 - pkg:composer/pixelfederation/circuit-breaker-bundle@5.0.1
 - pkg:composer/pixelfederation/circuit-breaker-bundle@5.0.2
+- pkg:composer/pixelfederation/circuit-breaker-bundle@5.1.0
