@@ -58,3 +58,6 @@
 - pkg:composer/phplrt/compiler@3.7.3
 - pkg:composer/phplrt/compiler@3.7.4
 - pkg:composer/phplrt/compiler@3.7.5
+- pkg:composer/phplrt/compiler@4.0.0-beta1
+- pkg:composer/phplrt/compiler@4.0.0-beta2
+- pkg:composer/phplrt/compiler@4.0.0-beta3
