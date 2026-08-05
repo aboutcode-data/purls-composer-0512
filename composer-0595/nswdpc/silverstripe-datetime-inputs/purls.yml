@@ -5,5 +5,6 @@
 - pkg:composer/nswdpc/silverstripe-datetime-inputs@v1.0.0
 - pkg:composer/nswdpc/silverstripe-datetime-inputs@v1.0.0-rc1
 - pkg:composer/nswdpc/silverstripe-datetime-inputs@v1.0.1
+- pkg:composer/nswdpc/silverstripe-datetime-inputs@v2.0.0
 - pkg:composer/nswdpc/silverstripe-datetime-inputs@v2.0.0-rc1
 - pkg:composer/nswdpc/silverstripe-datetime-inputs@v2.0.0-rc2
