@@ -32,3 +32,6 @@
 - pkg:composer/pestphp/pest-plugin-type-coverage@v4.0.2
 - pkg:composer/pestphp/pest-plugin-type-coverage@v4.0.3
 - pkg:composer/pestphp/pest-plugin-type-coverage@v4.0.4
+- pkg:composer/pestphp/pest-plugin-type-coverage@v5.0.0
+- pkg:composer/pestphp/pest-plugin-type-coverage@v5.0.1
+- pkg:composer/pestphp/pest-plugin-type-coverage@v5.0.2
