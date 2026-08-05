@@ -2,3 +2,4 @@
 - pkg:composer/mediaviz/mediaviz-php-sdk@1.4.0
 - pkg:composer/mediaviz/mediaviz-php-sdk@1.5.0
 - pkg:composer/mediaviz/mediaviz-php-sdk@1.7.0
+- pkg:composer/mediaviz/mediaviz-php-sdk@1.8.0
