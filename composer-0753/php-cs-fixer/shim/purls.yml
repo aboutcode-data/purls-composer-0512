@@ -174,6 +174,7 @@
 - pkg:composer/php-cs-fixer/shim@v3.95.15
 - pkg:composer/php-cs-fixer/shim@v3.95.16
 - pkg:composer/php-cs-fixer/shim@v3.95.17
+- pkg:composer/php-cs-fixer/shim@v3.95.18
 - pkg:composer/php-cs-fixer/shim@v3.95.2
 - pkg:composer/php-cs-fixer/shim@v3.95.3
 - pkg:composer/php-cs-fixer/shim@v3.95.4
