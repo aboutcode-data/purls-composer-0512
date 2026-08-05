@@ -9,3 +9,4 @@
 - pkg:composer/pestphp/pest-plugin@v2.1.1
 - pkg:composer/pestphp/pest-plugin@v3.0.0
 - pkg:composer/pestphp/pest-plugin@v4.0.0
+- pkg:composer/pestphp/pest-plugin@v5.0.0

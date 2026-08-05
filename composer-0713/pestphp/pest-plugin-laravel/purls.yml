@@ -15,3 +15,5 @@
 - pkg:composer/pestphp/pest-plugin-laravel@v3.2.0
 - pkg:composer/pestphp/pest-plugin-laravel@v4.0.0
 - pkg:composer/pestphp/pest-plugin-laravel@v4.1.0
+- pkg:composer/pestphp/pest-plugin-laravel@v5.0.0
+- pkg:composer/pestphp/pest-plugin-laravel@v5.0.1
