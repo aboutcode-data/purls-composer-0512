@@ -85,3 +85,4 @@
 - pkg:composer/nuimarkets/laravel-shared-utils@0.7.0
 - pkg:composer/nuimarkets/laravel-shared-utils@0.7.1
 - pkg:composer/nuimarkets/laravel-shared-utils@0.7.2
+- pkg:composer/nuimarkets/laravel-shared-utils@0.7.3
