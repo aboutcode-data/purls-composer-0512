@@ -137,6 +137,7 @@
 - pkg:composer/plivo/plivo-php@v4.7.0
 - pkg:composer/plivo/plivo-php@v4.7.1
 - pkg:composer/plivo/plivo-php@v4.70.0
+- pkg:composer/plivo/plivo-php@v4.71.0
 - pkg:composer/plivo/plivo-php@v4.8.0
 - pkg:composer/plivo/plivo-php@v4.8.1
 - pkg:composer/plivo/plivo-php@v4.9.0
