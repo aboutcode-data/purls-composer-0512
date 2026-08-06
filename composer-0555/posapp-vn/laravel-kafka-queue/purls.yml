@@ -1,1 +1,2 @@
 - pkg:composer/posapp-vn/laravel-kafka-queue@v0.1.0
+- pkg:composer/posapp-vn/laravel-kafka-queue@v0.2.0
