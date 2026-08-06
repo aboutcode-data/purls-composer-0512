@@ -6,3 +6,5 @@
 - pkg:composer/promptphp/intercept@v0.1.6
 - pkg:composer/promptphp/intercept@v0.1.7
 - pkg:composer/promptphp/intercept@v0.1.8
+- pkg:composer/promptphp/intercept@v0.1.9
+- pkg:composer/promptphp/intercept@v0.2.0
