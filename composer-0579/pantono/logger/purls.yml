@@ -32,3 +32,4 @@
 - pkg:composer/pantono/logger@0.0.7
 - pkg:composer/pantono/logger@0.0.8
 - pkg:composer/pantono/logger@0.0.9
+- pkg:composer/pantono/logger@1.0.0
