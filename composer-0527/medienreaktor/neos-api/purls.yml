@@ -9,3 +9,9 @@
 - pkg:composer/medienreaktor/neos-api@1.5
 - pkg:composer/medienreaktor/neos-api@1.6
 - pkg:composer/medienreaktor/neos-api@1.7
+- pkg:composer/medienreaktor/neos-api@1.7.3
+- pkg:composer/medienreaktor/neos-api@1.7.4
+- pkg:composer/medienreaktor/neos-api@1.7.5
+- pkg:composer/medienreaktor/neos-api@1.7.6
+- pkg:composer/medienreaktor/neos-api@1.8.0
+- pkg:composer/medienreaktor/neos-api@1.9.0
