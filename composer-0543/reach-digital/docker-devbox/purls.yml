@@ -48,3 +48,4 @@
 - pkg:composer/reach-digital/docker-devbox@v5.0.0
 - pkg:composer/reach-digital/docker-devbox@v5.0.1
 - pkg:composer/reach-digital/docker-devbox@v5.0.2
+- pkg:composer/reach-digital/docker-devbox@v5.1.0
