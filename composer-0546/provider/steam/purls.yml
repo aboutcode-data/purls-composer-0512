@@ -28,6 +28,8 @@
 - pkg:composer/provider/steam@12.3.0
 - pkg:composer/provider/steam@12.3.1
 - pkg:composer/provider/steam@12.4.0
+- pkg:composer/provider/steam@12.4.1
+- pkg:composer/provider/steam@12.4.2
 - pkg:composer/provider/steam@2.0.0
 - pkg:composer/provider/steam@2.0.1
 - pkg:composer/provider/steam@2.1.0
