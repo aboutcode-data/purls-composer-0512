@@ -57,3 +57,4 @@
 - pkg:composer/raxos/rate-limit@2.3.4
 - pkg:composer/raxos/rate-limit@3.0.0
 - pkg:composer/raxos/rate-limit@3.0.1
+- pkg:composer/raxos/rate-limit@3.1.0
