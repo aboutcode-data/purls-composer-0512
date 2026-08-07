@@ -1,2 +1,4 @@
 - pkg:composer/novvor/identity-laravel@v2.0.0
 - pkg:composer/novvor/identity-laravel@v2.0.1
+- pkg:composer/novvor/identity-laravel@v2.5.0
+- pkg:composer/novvor/identity-laravel@v2.5.1
