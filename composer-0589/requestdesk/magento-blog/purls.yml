@@ -2,3 +2,5 @@
 - pkg:composer/requestdesk/magento-blog@1.1.0
 - pkg:composer/requestdesk/magento-blog@1.2.0
 - pkg:composer/requestdesk/magento-blog@1.3.0
+- pkg:composer/requestdesk/magento-blog@1.6.2
+- pkg:composer/requestdesk/magento-blog@1.6.3
