@@ -17,3 +17,4 @@
 - pkg:composer/salmanzafar/laravel-mqtt@v2.0.6
 - pkg:composer/salmanzafar/laravel-mqtt@v2.0.7
 - pkg:composer/salmanzafar/laravel-mqtt@v2.0.8
+- pkg:composer/salmanzafar/laravel-mqtt@v3.0.0
