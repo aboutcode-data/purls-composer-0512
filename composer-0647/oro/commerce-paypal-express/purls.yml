@@ -67,3 +67,4 @@
 - pkg:composer/oro/commerce-paypal-express@7.0.0-rc
 - pkg:composer/oro/commerce-paypal-express@7.0.1
 - pkg:composer/oro/commerce-paypal-express@7.0.2
+- pkg:composer/oro/commerce-paypal-express@7.0.3
