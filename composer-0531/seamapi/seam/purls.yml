@@ -159,3 +159,6 @@
 - pkg:composer/seamapi/seam@v3.1.0
 - pkg:composer/seamapi/seam@v3.2.0
 - pkg:composer/seamapi/seam@v3.3.0
+- pkg:composer/seamapi/seam@v3.4.0
+- pkg:composer/seamapi/seam@v3.5.0
+- pkg:composer/seamapi/seam@v3.5.1
