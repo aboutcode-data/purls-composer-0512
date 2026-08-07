@@ -10,3 +10,5 @@
 - pkg:composer/recranet/craft-forms@v2.5.1
 - pkg:composer/recranet/craft-forms@v2.6.0
 - pkg:composer/recranet/craft-forms@v2.7.0
+- pkg:composer/recranet/craft-forms@v2.8.0
+- pkg:composer/recranet/craft-forms@v2.9.0
