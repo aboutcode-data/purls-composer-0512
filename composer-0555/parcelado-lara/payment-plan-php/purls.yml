@@ -8,3 +8,6 @@
 - pkg:composer/parcelado-lara/payment-plan-php@v3.1.9
 - pkg:composer/parcelado-lara/payment-plan-php@v3.2.0
 - pkg:composer/parcelado-lara/payment-plan-php@v3.2.1
+- pkg:composer/parcelado-lara/payment-plan-php@v3.2.2
+- pkg:composer/parcelado-lara/payment-plan-php@v3.2.3
+- pkg:composer/parcelado-lara/payment-plan-php@v3.2.4
