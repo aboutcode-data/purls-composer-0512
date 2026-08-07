@@ -110,6 +110,7 @@
 - pkg:composer/robinherbots/jquery.inputmask@5.0.1-beta.12
 - pkg:composer/robinherbots/jquery.inputmask@5.0.1-beta.5
 - pkg:composer/robinherbots/jquery.inputmask@5.0.1-beta.7
+- pkg:composer/robinherbots/jquery.inputmask@5.0.10
 - pkg:composer/robinherbots/jquery.inputmask@5.0.10-beta.0
 - pkg:composer/robinherbots/jquery.inputmask@5.0.10-beta.10
 - pkg:composer/robinherbots/jquery.inputmask@5.0.10-beta.11
