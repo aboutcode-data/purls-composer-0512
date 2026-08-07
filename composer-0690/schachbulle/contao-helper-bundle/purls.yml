@@ -39,9 +39,15 @@
 - pkg:composer/schachbulle/contao-helper-bundle@1.7.3
 - pkg:composer/schachbulle/contao-helper-bundle@1.8.0
 - pkg:composer/schachbulle/contao-helper-bundle@1.8.1
+- pkg:composer/schachbulle/contao-helper-bundle@1.8.10
+- pkg:composer/schachbulle/contao-helper-bundle@1.8.11
+- pkg:composer/schachbulle/contao-helper-bundle@1.8.12
 - pkg:composer/schachbulle/contao-helper-bundle@1.8.2
 - pkg:composer/schachbulle/contao-helper-bundle@1.8.3
 - pkg:composer/schachbulle/contao-helper-bundle@1.8.4
 - pkg:composer/schachbulle/contao-helper-bundle@1.8.5
 - pkg:composer/schachbulle/contao-helper-bundle@1.8.6
 - pkg:composer/schachbulle/contao-helper-bundle@1.8.7
+- pkg:composer/schachbulle/contao-helper-bundle@1.8.8
+- pkg:composer/schachbulle/contao-helper-bundle@1.8.9
+- pkg:composer/schachbulle/contao-helper-bundle@2.0.0

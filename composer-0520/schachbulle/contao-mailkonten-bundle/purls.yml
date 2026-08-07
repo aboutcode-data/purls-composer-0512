@@ -17,3 +17,5 @@
 - pkg:composer/schachbulle/contao-mailkonten-bundle@1.5.5
 - pkg:composer/schachbulle/contao-mailkonten-bundle@1.6.0
 - pkg:composer/schachbulle/contao-mailkonten-bundle@1.6.1
+- pkg:composer/schachbulle/contao-mailkonten-bundle@1.6.2
+- pkg:composer/schachbulle/contao-mailkonten-bundle@2.0.0

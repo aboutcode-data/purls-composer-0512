@@ -20,3 +20,6 @@
 - pkg:composer/schachbulle/contao-spielerregister-bundle@2.5.1
 - pkg:composer/schachbulle/contao-spielerregister-bundle@2.6.0
 - pkg:composer/schachbulle/contao-spielerregister-bundle@2.6.1
+- pkg:composer/schachbulle/contao-spielerregister-bundle@3.0.0
+- pkg:composer/schachbulle/contao-spielerregister-bundle@3.0.1
+- pkg:composer/schachbulle/contao-spielerregister-bundle@3.0.2
