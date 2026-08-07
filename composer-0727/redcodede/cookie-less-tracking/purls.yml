@@ -27,3 +27,5 @@
 - pkg:composer/redcodede/cookie-less-tracking@v1.4.3
 - pkg:composer/redcodede/cookie-less-tracking@v1.4.4
 - pkg:composer/redcodede/cookie-less-tracking@v1.4.5
+- pkg:composer/redcodede/cookie-less-tracking@v2.0.0
+- pkg:composer/redcodede/cookie-less-tracking@v2.0.1
