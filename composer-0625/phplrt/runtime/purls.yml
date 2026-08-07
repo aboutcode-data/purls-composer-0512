@@ -46,3 +46,4 @@
 - pkg:composer/phplrt/runtime@4.0.0-beta1
 - pkg:composer/phplrt/runtime@4.0.0-beta2
 - pkg:composer/phplrt/runtime@4.0.0-beta3
+- pkg:composer/phplrt/runtime@4.0.0-beta4
