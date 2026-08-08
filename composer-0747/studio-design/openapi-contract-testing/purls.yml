@@ -36,3 +36,8 @@
 - pkg:composer/studio-design/openapi-contract-testing@v2.0.0-beta.3
 - pkg:composer/studio-design/openapi-contract-testing@v2.0.0-beta.4
 - pkg:composer/studio-design/openapi-contract-testing@v2.0.0-beta.5
+- pkg:composer/studio-design/openapi-contract-testing@v2.1.0
+- pkg:composer/studio-design/openapi-contract-testing@v2.2.0
+- pkg:composer/studio-design/openapi-contract-testing@v2.3.0
+- pkg:composer/studio-design/openapi-contract-testing@v2.4.0
+- pkg:composer/studio-design/openapi-contract-testing@v2.5.0
