@@ -190,6 +190,9 @@
 - pkg:composer/survos/media-bundle@2.12.12
 - pkg:composer/survos/media-bundle@2.17.2
 - pkg:composer/survos/media-bundle@2.17.3
+- pkg:composer/survos/media-bundle@2.18.18
+- pkg:composer/survos/media-bundle@2.18.2
+- pkg:composer/survos/media-bundle@2.18.3
 - pkg:composer/survos/media-bundle@2.2.0
 - pkg:composer/survos/media-bundle@2.2.1
 - pkg:composer/survos/media-bundle@2.2.2
