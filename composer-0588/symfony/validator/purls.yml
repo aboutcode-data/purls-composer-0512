@@ -677,6 +677,7 @@
 - pkg:composer/symfony/validator@v6.4.37
 - pkg:composer/symfony/validator@v6.4.4
 - pkg:composer/symfony/validator@v6.4.42
+- pkg:composer/symfony/validator@v6.4.43
 - pkg:composer/symfony/validator@v6.4.6
 - pkg:composer/symfony/validator@v6.4.7
 - pkg:composer/symfony/validator@v6.4.8
@@ -744,6 +745,8 @@
 - pkg:composer/symfony/validator@v7.4.1
 - pkg:composer/symfony/validator@v7.4.10
 - pkg:composer/symfony/validator@v7.4.14
+- pkg:composer/symfony/validator@v7.4.15
+- pkg:composer/symfony/validator@v7.4.16
 - pkg:composer/symfony/validator@v7.4.2
 - pkg:composer/symfony/validator@v7.4.3
 - pkg:composer/symfony/validator@v7.4.4
@@ -760,6 +763,7 @@
 - pkg:composer/symfony/validator@v8.0.1
 - pkg:composer/symfony/validator@v8.0.10
 - pkg:composer/symfony/validator@v8.0.14
+- pkg:composer/symfony/validator@v8.0.15
 - pkg:composer/symfony/validator@v8.0.2
 - pkg:composer/symfony/validator@v8.0.3
 - pkg:composer/symfony/validator@v8.0.4
@@ -774,3 +778,5 @@
 - pkg:composer/symfony/validator@v8.1.0-BETA3
 - pkg:composer/symfony/validator@v8.1.0-RC1
 - pkg:composer/symfony/validator@v8.1.1
+- pkg:composer/symfony/validator@v8.1.2
+- pkg:composer/symfony/validator@v8.1.4
