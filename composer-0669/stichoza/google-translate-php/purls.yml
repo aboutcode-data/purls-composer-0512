@@ -47,3 +47,5 @@
 - pkg:composer/stichoza/google-translate-php@v5.2.1
 - pkg:composer/stichoza/google-translate-php@v5.3.0
 - pkg:composer/stichoza/google-translate-php@v5.3.1
+- pkg:composer/stichoza/google-translate-php@v5.3.2
+- pkg:composer/stichoza/google-translate-php@v5.3.3
