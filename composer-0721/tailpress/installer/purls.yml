@@ -23,3 +23,4 @@
 - pkg:composer/tailpress/installer@4.0.0
 - pkg:composer/tailpress/installer@5.0.0
 - pkg:composer/tailpress/installer@5.0.1
+- pkg:composer/tailpress/installer@5.0.2
