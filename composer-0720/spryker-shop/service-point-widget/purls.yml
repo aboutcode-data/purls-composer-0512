@@ -17,3 +17,5 @@
 - pkg:composer/spryker-shop/service-point-widget@1.6.0
 - pkg:composer/spryker-shop/service-point-widget@1.6.1
 - pkg:composer/spryker-shop/service-point-widget@1.7.0
+- pkg:composer/spryker-shop/service-point-widget@1.7.1
+- pkg:composer/spryker-shop/service-point-widget@1.8.0
