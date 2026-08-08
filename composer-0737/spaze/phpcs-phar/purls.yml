@@ -21,3 +21,4 @@
 - pkg:composer/spaze/phpcs-phar@3.9.2
 - pkg:composer/spaze/phpcs-phar@4.0.0
 - pkg:composer/spaze/phpcs-phar@4.0.1
+- pkg:composer/spaze/phpcs-phar@4.0.4

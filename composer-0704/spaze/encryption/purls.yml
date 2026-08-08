@@ -10,3 +10,7 @@
 - pkg:composer/spaze/encryption@v2.0.1
 - pkg:composer/spaze/encryption@v2.1.0
 - pkg:composer/spaze/encryption@v2.2.0
+- pkg:composer/spaze/encryption@v2.3.0
+- pkg:composer/spaze/encryption@v2.3.1
+- pkg:composer/spaze/encryption@v2.3.2
+- pkg:composer/spaze/encryption@v3.0.0
