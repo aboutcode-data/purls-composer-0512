@@ -8,3 +8,5 @@
 - pkg:composer/t3monitor/t3monitoring@3.0.1
 - pkg:composer/t3monitor/t3monitoring@3.0.2
 - pkg:composer/t3monitor/t3monitoring@3.1.0
+- pkg:composer/t3monitor/t3monitoring@3.1.1
+- pkg:composer/t3monitor/t3monitoring@4.0.0
