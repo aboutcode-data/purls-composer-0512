@@ -4,4 +4,5 @@
 - pkg:composer/siganushka/doctrine-contracts@0.1.4
 - pkg:composer/siganushka/doctrine-contracts@1.0.0
 - pkg:composer/siganushka/doctrine-contracts@1.1.0
+- pkg:composer/siganushka/doctrine-contracts@1.2.0
 - pkg:composer/siganushka/doctrine-contracts@v0.1.0
