@@ -8,3 +8,8 @@
 - pkg:composer/smolevich/reindexer-client@2.0.2
 - pkg:composer/smolevich/reindexer-client@2.0.3
 - pkg:composer/smolevich/reindexer-client@2.0.4
+- pkg:composer/smolevich/reindexer-client@v3.0.0
+- pkg:composer/smolevich/reindexer-client@v3.0.1
+- pkg:composer/smolevich/reindexer-client@v3.0.2
+- pkg:composer/smolevich/reindexer-client@v3.1.0
+- pkg:composer/smolevich/reindexer-client@v3.1.1
