@@ -20,3 +20,4 @@
 - pkg:composer/silverstripe/silverstripe-search-sdk@3.2.0
 - pkg:composer/silverstripe/silverstripe-search-sdk@3.2.1
 - pkg:composer/silverstripe/silverstripe-search-sdk@4.0.0
+- pkg:composer/silverstripe/silverstripe-search-sdk@4.0.1
