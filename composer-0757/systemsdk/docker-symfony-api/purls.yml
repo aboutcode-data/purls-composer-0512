@@ -47,3 +47,4 @@
 - pkg:composer/systemsdk/docker-symfony-api@v3.8.0
 - pkg:composer/systemsdk/docker-symfony-api@v3.9.0
 - pkg:composer/systemsdk/docker-symfony-api@v4.0.0
+- pkg:composer/systemsdk/docker-symfony-api@v4.1.0
