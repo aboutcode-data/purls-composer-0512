@@ -1,3 +1,5 @@
 - pkg:composer/sidroberts/phalcon-seeder@v1.0.0
 - pkg:composer/sidroberts/phalcon-seeder@v2.0.0
 - pkg:composer/sidroberts/phalcon-seeder@v3.0.0
+- pkg:composer/sidroberts/phalcon-seeder@v4.0.0
+- pkg:composer/sidroberts/phalcon-seeder@v4.0.1
