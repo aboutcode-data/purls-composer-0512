@@ -12,3 +12,4 @@
 - pkg:composer/thelia/payzen-embedded-module@2.5.1
 - pkg:composer/thelia/payzen-embedded-module@2.5.2
 - pkg:composer/thelia/payzen-embedded-module@2.5.3
+- pkg:composer/thelia/payzen-embedded-module@3.0.0

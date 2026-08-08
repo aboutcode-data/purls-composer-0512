@@ -20,3 +20,4 @@
 - pkg:composer/thelia/pay-plug-module@2.1.0
 - pkg:composer/thelia/pay-plug-module@2.1.1
 - pkg:composer/thelia/pay-plug-module@2.1.2
+- pkg:composer/thelia/pay-plug-module@3.0.0

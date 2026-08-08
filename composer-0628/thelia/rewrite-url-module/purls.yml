@@ -46,3 +46,7 @@
 - pkg:composer/thelia/rewrite-url-module@2.2.3
 - pkg:composer/thelia/rewrite-url-module@2.2.4
 - pkg:composer/thelia/rewrite-url-module@2.2.5
+- pkg:composer/thelia/rewrite-url-module@2.2.6
+- pkg:composer/thelia/rewrite-url-module@3.0.0
+- pkg:composer/thelia/rewrite-url-module@3.0.1
+- pkg:composer/thelia/rewrite-url-module@3.0.2

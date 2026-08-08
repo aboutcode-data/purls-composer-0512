@@ -24,3 +24,4 @@
 - pkg:composer/thelia/paypal-module@5.0.2
 - pkg:composer/thelia/paypal-module@5.0.3
 - pkg:composer/thelia/paypal-module@5.0.4
+- pkg:composer/thelia/paypal-module@6.0.2

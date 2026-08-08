@@ -10,3 +10,4 @@
 - pkg:composer/thelia/url-sanitizer-module@2.1.5
 - pkg:composer/thelia/url-sanitizer-module@2.1.6
 - pkg:composer/thelia/url-sanitizer-module@2.1.7
+- pkg:composer/thelia/url-sanitizer-module@3.0.0

@@ -8,3 +8,4 @@
 - pkg:composer/thelia/predict-module@2.1.7
 - pkg:composer/thelia/predict-module@2.1.8
 - pkg:composer/thelia/predict-module@2.1.9
+- pkg:composer/thelia/predict-module@3.0.0
