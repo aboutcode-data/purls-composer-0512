@@ -24,3 +24,4 @@
 - pkg:composer/thelia/google-shopping-xml-module@3.0.6
 - pkg:composer/thelia/google-shopping-xml-module@3.0.7
 - pkg:composer/thelia/google-shopping-xml-module@3.0.8
+- pkg:composer/thelia/google-shopping-xml-module@4.0.0
