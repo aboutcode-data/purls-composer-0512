@@ -4,6 +4,8 @@
 - pkg:composer/utopia-php/usage@0.12.0
 - pkg:composer/utopia-php/usage@0.12.1
 - pkg:composer/utopia-php/usage@0.12.2
+- pkg:composer/utopia-php/usage@0.13.0
+- pkg:composer/utopia-php/usage@0.14.0
 - pkg:composer/utopia-php/usage@0.2.0
 - pkg:composer/utopia-php/usage@0.2.1
 - pkg:composer/utopia-php/usage@0.3.0
