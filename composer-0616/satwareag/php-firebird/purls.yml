@@ -30,6 +30,12 @@
 - pkg:composer/satwareag/php-firebird@v13.0.1-rc.1
 - pkg:composer/satwareag/php-firebird@v13.0.2
 - pkg:composer/satwareag/php-firebird@v13.0.3
+- pkg:composer/satwareag/php-firebird@v13.1.0
+- pkg:composer/satwareag/php-firebird@v13.1.0-RC2
+- pkg:composer/satwareag/php-firebird@v13.1.0-RC3
+- pkg:composer/satwareag/php-firebird@v13.1.0-RC4
+- pkg:composer/satwareag/php-firebird@v13.1.0-RC5
+- pkg:composer/satwareag/php-firebird@v13.1.0-RC6
 - pkg:composer/satwareag/php-firebird@v7.0.0
 - pkg:composer/satwareag/php-firebird@v7.0.0-rc.10
 - pkg:composer/satwareag/php-firebird@v7.0.0-rc.11
