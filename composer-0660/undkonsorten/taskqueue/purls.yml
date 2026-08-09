@@ -50,3 +50,4 @@
 - pkg:composer/undkonsorten/taskqueue@9.5.0
 - pkg:composer/undkonsorten/taskqueue@9.5.1
 - pkg:composer/undkonsorten/taskqueue@9.6.0
+- pkg:composer/undkonsorten/taskqueue@9.6.1
