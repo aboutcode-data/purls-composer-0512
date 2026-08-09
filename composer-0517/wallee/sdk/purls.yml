@@ -65,6 +65,7 @@
 - pkg:composer/wallee/sdk@4.6.0
 - pkg:composer/wallee/sdk@4.8.0
 - pkg:composer/wallee/sdk@4.8.1
+- pkg:composer/wallee/sdk@4.9.0
 - pkg:composer/wallee/sdk@5.0.0
 - pkg:composer/wallee/sdk@5.1.0
 - pkg:composer/wallee/sdk@5.2.0
