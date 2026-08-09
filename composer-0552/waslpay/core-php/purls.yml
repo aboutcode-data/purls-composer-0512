@@ -1,6 +1,12 @@
 - pkg:composer/waslpay/core-php@v2.0.0
 - pkg:composer/waslpay/core-php@v3.0.0
 - pkg:composer/waslpay/core-php@v3.0.1
+- pkg:composer/waslpay/core-php@v3.0.10
+- pkg:composer/waslpay/core-php@v3.0.11
+- pkg:composer/waslpay/core-php@v3.0.13
+- pkg:composer/waslpay/core-php@v3.0.14
+- pkg:composer/waslpay/core-php@v3.0.15
+- pkg:composer/waslpay/core-php@v3.0.16
 - pkg:composer/waslpay/core-php@v3.0.2
 - pkg:composer/waslpay/core-php@v3.0.3
 - pkg:composer/waslpay/core-php@v3.0.4
@@ -8,3 +14,4 @@
 - pkg:composer/waslpay/core-php@v3.0.6
 - pkg:composer/waslpay/core-php@v3.0.7
 - pkg:composer/waslpay/core-php@v3.0.8
+- pkg:composer/waslpay/core-php@v3.0.9
