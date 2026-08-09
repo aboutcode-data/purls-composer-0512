@@ -18,3 +18,5 @@
 - pkg:composer/vianetz/pdf-generator@4.0.1
 - pkg:composer/vianetz/pdf-generator@4.0.2
 - pkg:composer/vianetz/pdf-generator@5.0.0
+- pkg:composer/vianetz/pdf-generator@6.0.0
+- pkg:composer/vianetz/pdf-generator@6.1.0
