@@ -1,7 +1,2 @@
-- pkg:composer/tereta/route@1.0.10
-- pkg:composer/tereta/route@1.0.11
-- pkg:composer/tereta/route@1.0.12
-- pkg:composer/tereta/route@1.0.13
-- pkg:composer/tereta/route@1.0.14
-- pkg:composer/tereta/route@1.0.15
-- pkg:composer/tereta/route@1.0.9
+- pkg:composer/tereta/route@0.0.3
+- pkg:composer/tereta/route@0.0.4
