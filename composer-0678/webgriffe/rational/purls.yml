@@ -12,3 +12,6 @@
 - pkg:composer/webgriffe/rational@2.4.0
 - pkg:composer/webgriffe/rational@2.5.0
 - pkg:composer/webgriffe/rational@2.6.0
+- pkg:composer/webgriffe/rational@2.7.0
+- pkg:composer/webgriffe/rational@3.0.0
+- pkg:composer/webgriffe/rational@3.0.1

@@ -1,1 +1,2 @@
 - pkg:composer/webgriffe/phpcs-dist@4.0.1
+- pkg:composer/webgriffe/phpcs-dist@4.0.4
