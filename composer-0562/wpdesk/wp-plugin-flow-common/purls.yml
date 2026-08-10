@@ -11,3 +11,4 @@
 - pkg:composer/wpdesk/wp-plugin-flow-common@1.2.3
 - pkg:composer/wpdesk/wp-plugin-flow-common@1.3.0
 - pkg:composer/wpdesk/wp-plugin-flow-common@1.4.0
+- pkg:composer/wpdesk/wp-plugin-flow-common@1.4.0-beta.1
