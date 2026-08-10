@@ -1,4 +1,9 @@
 - pkg:composer/adiachenko/starter-kit-laravel@v0.1.0
+- pkg:composer/adiachenko/starter-kit-laravel@v0.10.0
+- pkg:composer/adiachenko/starter-kit-laravel@v0.11.0
+- pkg:composer/adiachenko/starter-kit-laravel@v0.12.0
+- pkg:composer/adiachenko/starter-kit-laravel@v0.13.0
+- pkg:composer/adiachenko/starter-kit-laravel@v0.14.0
 - pkg:composer/adiachenko/starter-kit-laravel@v0.2.0
 - pkg:composer/adiachenko/starter-kit-laravel@v0.3.0
 - pkg:composer/adiachenko/starter-kit-laravel@v0.4.0
