@@ -2,3 +2,4 @@
 - pkg:composer/albertoarena/filament-event-sourcing@v0.2.0
 - pkg:composer/albertoarena/filament-event-sourcing@v0.2.1
 - pkg:composer/albertoarena/filament-event-sourcing@v1.0.0
+- pkg:composer/albertoarena/filament-event-sourcing@v1.1.0
