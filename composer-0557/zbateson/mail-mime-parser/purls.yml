@@ -70,3 +70,4 @@
 - pkg:composer/zbateson/mail-mime-parser@4.0.0
 - pkg:composer/zbateson/mail-mime-parser@4.0.1
 - pkg:composer/zbateson/mail-mime-parser@4.0.2
+- pkg:composer/zbateson/mail-mime-parser@4.0.3
