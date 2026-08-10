@@ -18,6 +18,7 @@
 - pkg:composer/wildtuna/boxberry-sdk@0.7.8
 - pkg:composer/wildtuna/boxberry-sdk@0.8.0
 - pkg:composer/wildtuna/boxberry-sdk@0.8.1
+- pkg:composer/wildtuna/boxberry-sdk@0.8.10
 - pkg:composer/wildtuna/boxberry-sdk@0.8.2
 - pkg:composer/wildtuna/boxberry-sdk@0.8.3
 - pkg:composer/wildtuna/boxberry-sdk@0.8.4
