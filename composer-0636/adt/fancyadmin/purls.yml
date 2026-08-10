@@ -161,6 +161,13 @@
 - pkg:composer/adt/fancyadmin@v1.2.1
 - pkg:composer/adt/fancyadmin@v1.2.10
 - pkg:composer/adt/fancyadmin@v1.2.11
+- pkg:composer/adt/fancyadmin@v1.2.12
+- pkg:composer/adt/fancyadmin@v1.2.13
+- pkg:composer/adt/fancyadmin@v1.2.14
+- pkg:composer/adt/fancyadmin@v1.2.15
+- pkg:composer/adt/fancyadmin@v1.2.16
+- pkg:composer/adt/fancyadmin@v1.2.17
+- pkg:composer/adt/fancyadmin@v1.2.18
 - pkg:composer/adt/fancyadmin@v1.2.2
 - pkg:composer/adt/fancyadmin@v1.2.3
 - pkg:composer/adt/fancyadmin@v1.2.4
