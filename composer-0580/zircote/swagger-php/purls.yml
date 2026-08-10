@@ -205,3 +205,4 @@
 - pkg:composer/zircote/swagger-php@6.4.0
 - pkg:composer/zircote/swagger-php@6.5.0
 - pkg:composer/zircote/swagger-php@6.5.1
+- pkg:composer/zircote/swagger-php@6.5.2
