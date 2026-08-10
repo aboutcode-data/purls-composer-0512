@@ -50,3 +50,5 @@
 - pkg:composer/wp-cli/scaffold-command@v2.5.5
 - pkg:composer/wp-cli/scaffold-command@v2.5.6
 - pkg:composer/wp-cli/scaffold-command@v2.5.7
+- pkg:composer/wp-cli/scaffold-command@v3.0.0
+- pkg:composer/wp-cli/scaffold-command@v3.0.1

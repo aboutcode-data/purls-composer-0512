@@ -1,2 +1,4 @@
 - pkg:composer/wp-cli-test/updateable-package@v1.0.0
 - pkg:composer/wp-cli-test/updateable-package@v2.0.0
+- pkg:composer/wp-cli-test/updateable-package@v3.0.0
+- pkg:composer/wp-cli-test/updateable-package@v3.0.1

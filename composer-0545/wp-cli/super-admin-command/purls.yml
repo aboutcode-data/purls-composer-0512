@@ -24,3 +24,4 @@
 - pkg:composer/wp-cli/super-admin-command@v2.0.7
 - pkg:composer/wp-cli/super-admin-command@v2.0.8
 - pkg:composer/wp-cli/super-admin-command@v2.0.9
+- pkg:composer/wp-cli/super-admin-command@v3.0.0
