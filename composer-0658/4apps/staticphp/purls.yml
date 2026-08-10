@@ -6,3 +6,6 @@
 - pkg:composer/4apps/staticphp@v0.9.5
 - pkg:composer/4apps/staticphp@v1.0.0
 - pkg:composer/4apps/staticphp@v1.1.0
+- pkg:composer/4apps/staticphp@v2.0.328
+- pkg:composer/4apps/staticphp@v2.0.332
+- pkg:composer/4apps/staticphp@v2.0.333
