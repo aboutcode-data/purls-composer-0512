@@ -60,6 +60,7 @@
 - pkg:composer/webtigers/tiger-core@v0.51.1-beta
 - pkg:composer/webtigers/tiger-core@v0.52.0-beta
 - pkg:composer/webtigers/tiger-core@v0.53.0-beta
+- pkg:composer/webtigers/tiger-core@v0.54.0-beta
 - pkg:composer/webtigers/tiger-core@v0.6.0-beta
 - pkg:composer/webtigers/tiger-core@v0.7.0-beta
 - pkg:composer/webtigers/tiger-core@v0.7.1-beta
