@@ -1,1 +1,2 @@
 - pkg:composer/ccarver/queue-watcher-laravel@v1.0.0
+- pkg:composer/ccarver/queue-watcher-laravel@v2.0.0
