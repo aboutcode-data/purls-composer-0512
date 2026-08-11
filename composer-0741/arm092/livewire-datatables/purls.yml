@@ -34,4 +34,5 @@
 - pkg:composer/arm092/livewire-datatables@3.1.0
 - pkg:composer/arm092/livewire-datatables@3.1.1
 - pkg:composer/arm092/livewire-datatables@3.2.0
-- pkg:composer/arm092/livewire-datatables@3.2.1
+- pkg:composer/arm092/livewire-datatables@3.2.2
+- pkg:composer/arm092/livewire-datatables@3.2.3
