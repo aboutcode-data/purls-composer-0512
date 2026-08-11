@@ -1,6 +1,8 @@
 - pkg:composer/boutdecode/etl-core-bundle@v0.1.0
 - pkg:composer/boutdecode/etl-core-bundle@v0.1.1
 - pkg:composer/boutdecode/etl-core-bundle@v0.10.0
+- pkg:composer/boutdecode/etl-core-bundle@v0.11.0
+- pkg:composer/boutdecode/etl-core-bundle@v0.12.0
 - pkg:composer/boutdecode/etl-core-bundle@v0.2.0
 - pkg:composer/boutdecode/etl-core-bundle@v0.3.0
 - pkg:composer/boutdecode/etl-core-bundle@v0.3.1
