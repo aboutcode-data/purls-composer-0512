@@ -104,3 +104,4 @@
 - pkg:composer/clerk/magento2@4.8.6
 - pkg:composer/clerk/magento2@4.8.8
 - pkg:composer/clerk/magento2@4.8.9
+- pkg:composer/clerk/magento2@4.9.0
