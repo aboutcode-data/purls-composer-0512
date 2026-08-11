@@ -5,3 +5,4 @@
 - pkg:composer/blendbyte/filament-resource-lock@v2.0.0
 - pkg:composer/blendbyte/filament-resource-lock@v2.1.0
 - pkg:composer/blendbyte/filament-resource-lock@v2.2.0
+- pkg:composer/blendbyte/filament-resource-lock@v2.2.1
