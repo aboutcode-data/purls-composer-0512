@@ -14,3 +14,4 @@
 - pkg:composer/avto-dev/events-log-laravel@v3.4.1
 - pkg:composer/avto-dev/events-log-laravel@v3.5.0
 - pkg:composer/avto-dev/events-log-laravel@v3.6.0
+- pkg:composer/avto-dev/events-log-laravel@v3.7.0
