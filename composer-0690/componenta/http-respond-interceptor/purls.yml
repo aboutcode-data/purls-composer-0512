@@ -1,1 +1,2 @@
 - pkg:composer/componenta/http-respond-interceptor@v1.0.0
+- pkg:composer/componenta/http-respond-interceptor@v1.0.1
