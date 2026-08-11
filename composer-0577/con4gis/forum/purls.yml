@@ -113,5 +113,7 @@
 - pkg:composer/con4gis/forum@v4.1.8
 - pkg:composer/con4gis/forum@v4.1.9
 - pkg:composer/con4gis/forum@v5.0.0
+- pkg:composer/con4gis/forum@v5.0.1
+- pkg:composer/con4gis/forum@v5.0.2
 - pkg:composer/con4gis/forum@v5.0rc1
 - pkg:composer/con4gis/forum@v5.0rc2
