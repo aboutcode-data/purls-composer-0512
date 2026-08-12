@@ -19,3 +19,6 @@
 - pkg:composer/coroq/html-form@3.0-alpha5
 - pkg:composer/coroq/html-form@3.0-alpha6
 - pkg:composer/coroq/html-form@v3.0.0
+- pkg:composer/coroq/html-form@v3.0.1
+- pkg:composer/coroq/html-form@v3.1.0
+- pkg:composer/coroq/html-form@v4.0.0-alpha1
