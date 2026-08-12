@@ -1,5 +1,10 @@
 - pkg:composer/xquik/x-twitter-scraper@v0.1.0
 - pkg:composer/xquik/x-twitter-scraper@v0.10.0
+- pkg:composer/xquik/x-twitter-scraper@v0.10.1
+- pkg:composer/xquik/x-twitter-scraper@v0.10.2
+- pkg:composer/xquik/x-twitter-scraper@v0.11.0
+- pkg:composer/xquik/x-twitter-scraper@v0.12.0
+- pkg:composer/xquik/x-twitter-scraper@v0.12.1
 - pkg:composer/xquik/x-twitter-scraper@v0.2.0
 - pkg:composer/xquik/x-twitter-scraper@v0.3.0
 - pkg:composer/xquik/x-twitter-scraper@v0.4.0
