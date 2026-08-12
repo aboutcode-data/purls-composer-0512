@@ -131,9 +131,11 @@
 - pkg:composer/auth0/auth0-php@8.9.0
 - pkg:composer/auth0/auth0-php@8.9.1
 - pkg:composer/auth0/auth0-php@8.9.3
+- pkg:composer/auth0/auth0-php@9.0.0
 - pkg:composer/auth0/auth0-php@9.0.0-beta.0
 - pkg:composer/auth0/auth0-php@9.0.0-beta.1
 - pkg:composer/auth0/auth0-php@9.0.0-beta.2
 - pkg:composer/auth0/auth0-php@9.0.0-beta.3
 - pkg:composer/auth0/auth0-php@9.0.0-beta.4
 - pkg:composer/auth0/auth0-php@9.0.0-beta.5
+- pkg:composer/auth0/auth0-php@9.0.0-beta.6
