@@ -46,6 +46,9 @@
 - pkg:composer/detain/phlix-shared@v0.46.0
 - pkg:composer/detain/phlix-shared@v0.47.0
 - pkg:composer/detain/phlix-shared@v0.48.0
+- pkg:composer/detain/phlix-shared@v0.48.1
+- pkg:composer/detain/phlix-shared@v0.49.0
+- pkg:composer/detain/phlix-shared@v0.49.1
 - pkg:composer/detain/phlix-shared@v0.5.0
 - pkg:composer/detain/phlix-shared@v0.7.0
 - pkg:composer/detain/phlix-shared@v0.7.1
