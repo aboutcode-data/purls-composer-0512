@@ -49,6 +49,7 @@
 - pkg:composer/darkorsa/cordo-core@0.60.0
 - pkg:composer/darkorsa/cordo-core@0.60.1
 - pkg:composer/darkorsa/cordo-core@0.60.2
+- pkg:composer/darkorsa/cordo-core@0.60.3
 - pkg:composer/darkorsa/cordo-core@0.7
 - pkg:composer/darkorsa/cordo-core@0.70.0
 - pkg:composer/darkorsa/cordo-core@0.70.1
@@ -62,4 +63,7 @@
 - pkg:composer/darkorsa/cordo-core@0.81.1
 - pkg:composer/darkorsa/cordo-core@0.81.2
 - pkg:composer/darkorsa/cordo-core@0.82.0
+- pkg:composer/darkorsa/cordo-core@0.82.1
+- pkg:composer/darkorsa/cordo-core@0.83.0
+- pkg:composer/darkorsa/cordo-core@0.84.0
 - pkg:composer/darkorsa/cordo-core@0.9
