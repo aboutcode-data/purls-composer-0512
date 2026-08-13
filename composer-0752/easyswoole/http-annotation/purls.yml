@@ -82,3 +82,4 @@
 - pkg:composer/easyswoole/http-annotation@3.2.8
 - pkg:composer/easyswoole/http-annotation@3.2.9
 - pkg:composer/easyswoole/http-annotation@3.3.1
+- pkg:composer/easyswoole/http-annotation@3.3.2

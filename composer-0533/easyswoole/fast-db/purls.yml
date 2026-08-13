@@ -68,3 +68,6 @@
 - pkg:composer/easyswoole/fast-db@2.1.2
 - pkg:composer/easyswoole/fast-db@2.1.3
 - pkg:composer/easyswoole/fast-db@2.1.4
+- pkg:composer/easyswoole/fast-db@2.1.5
+- pkg:composer/easyswoole/fast-db@2.1.6
+- pkg:composer/easyswoole/fast-db@2.1.7
