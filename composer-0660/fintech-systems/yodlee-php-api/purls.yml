@@ -20,3 +20,4 @@
 - pkg:composer/fintech-systems/yodlee-php-api@v0.0.7
 - pkg:composer/fintech-systems/yodlee-php-api@v0.0.8
 - pkg:composer/fintech-systems/yodlee-php-api@v0.0.9
+- pkg:composer/fintech-systems/yodlee-php-api@v1.0.0
