@@ -74,4 +74,5 @@
 - pkg:composer/eappointment/zmsslim@2.30.07-patch1
 - pkg:composer/eappointment/zmsslim@2.30.07-patch2
 - pkg:composer/eappointment/zmsslim@2.30.08
+- pkg:composer/eappointment/zmsslim@2.31.0
 - pkg:composer/eappointment/zmsslim@2.4.10
