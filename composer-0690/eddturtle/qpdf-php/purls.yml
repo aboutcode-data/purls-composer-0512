@@ -1,3 +1,4 @@
 - pkg:composer/eddturtle/qpdf-php@v0.1
 - pkg:composer/eddturtle/qpdf-php@v0.2
 - pkg:composer/eddturtle/qpdf-php@v1.0
+- pkg:composer/eddturtle/qpdf-php@v2.0
