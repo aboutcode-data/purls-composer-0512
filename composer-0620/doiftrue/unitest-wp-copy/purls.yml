@@ -36,6 +36,7 @@
 - pkg:composer/doiftrue/unitest-wp-copy@6.5.2.8
 - pkg:composer/doiftrue/unitest-wp-copy@6.5.2.9
 - pkg:composer/doiftrue/unitest-wp-copy@6.5.3.0
+- pkg:composer/doiftrue/unitest-wp-copy@6.5.3.3
 - pkg:composer/doiftrue/unitest-wp-copy@6.6.0.26
 - pkg:composer/doiftrue/unitest-wp-copy@6.6.0.27
 - pkg:composer/doiftrue/unitest-wp-copy@6.6.1.2
@@ -50,6 +51,7 @@
 - pkg:composer/doiftrue/unitest-wp-copy@6.6.2.8
 - pkg:composer/doiftrue/unitest-wp-copy@6.6.2.9
 - pkg:composer/doiftrue/unitest-wp-copy@6.6.3.1
+- pkg:composer/doiftrue/unitest-wp-copy@6.6.3.3
 - pkg:composer/doiftrue/unitest-wp-copy@6.7.0.26
 - pkg:composer/doiftrue/unitest-wp-copy@6.7.0.27
 - pkg:composer/doiftrue/unitest-wp-copy@6.7.1.2
@@ -64,6 +66,7 @@
 - pkg:composer/doiftrue/unitest-wp-copy@6.7.2.8
 - pkg:composer/doiftrue/unitest-wp-copy@6.7.2.9
 - pkg:composer/doiftrue/unitest-wp-copy@6.7.3.2
+- pkg:composer/doiftrue/unitest-wp-copy@6.7.3.3
 - pkg:composer/doiftrue/unitest-wp-copy@6.8.0.26
 - pkg:composer/doiftrue/unitest-wp-copy@6.8.0.27
 - pkg:composer/doiftrue/unitest-wp-copy@6.8.1.2
@@ -78,6 +81,7 @@
 - pkg:composer/doiftrue/unitest-wp-copy@6.8.2.8
 - pkg:composer/doiftrue/unitest-wp-copy@6.8.2.9
 - pkg:composer/doiftrue/unitest-wp-copy@6.8.3.2
+- pkg:composer/doiftrue/unitest-wp-copy@6.8.3.3
 - pkg:composer/doiftrue/unitest-wp-copy@6.9.0.26
 - pkg:composer/doiftrue/unitest-wp-copy@6.9.0.27
 - pkg:composer/doiftrue/unitest-wp-copy@6.9.1.2
@@ -93,6 +97,7 @@
 - pkg:composer/doiftrue/unitest-wp-copy@6.9.2.8
 - pkg:composer/doiftrue/unitest-wp-copy@6.9.2.9
 - pkg:composer/doiftrue/unitest-wp-copy@6.9.3.2
+- pkg:composer/doiftrue/unitest-wp-copy@6.9.3.3
 - pkg:composer/doiftrue/unitest-wp-copy@7.0.2.0
 - pkg:composer/doiftrue/unitest-wp-copy@7.0.2.1
 - pkg:composer/doiftrue/unitest-wp-copy@7.0.2.10
@@ -105,3 +110,4 @@
 - pkg:composer/doiftrue/unitest-wp-copy@7.0.2.8
 - pkg:composer/doiftrue/unitest-wp-copy@7.0.2.9
 - pkg:composer/doiftrue/unitest-wp-copy@7.0.3.2
+- pkg:composer/doiftrue/unitest-wp-copy@7.0.3.3
