@@ -21,3 +21,5 @@
 - pkg:composer/google/shopping-merchant-accounts@v1.3.1
 - pkg:composer/google/shopping-merchant-accounts@v1.4.0
 - pkg:composer/google/shopping-merchant-accounts@v1.4.1
+- pkg:composer/google/shopping-merchant-accounts@v1.4.2
+- pkg:composer/google/shopping-merchant-accounts@v1.4.3
