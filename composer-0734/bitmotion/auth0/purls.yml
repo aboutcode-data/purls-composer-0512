@@ -5,6 +5,7 @@
 - pkg:composer/bitmotion/auth0@v13.0.0
 - pkg:composer/bitmotion/auth0@v13.0.1
 - pkg:composer/bitmotion/auth0@v13.0.10
+- pkg:composer/bitmotion/auth0@v13.0.11
 - pkg:composer/bitmotion/auth0@v13.0.2
 - pkg:composer/bitmotion/auth0@v13.0.3
 - pkg:composer/bitmotion/auth0@v13.0.4
@@ -58,7 +59,9 @@
 - pkg:composer/bitmotion/auth0@v5.1.4
 - pkg:composer/bitmotion/auth0@v5.1.5
 - pkg:composer/bitmotion/auth0@v5.1.6
+- pkg:composer/bitmotion/auth0@v5.1.7
 - pkg:composer/bitmotion/auth0@v5.2.0
 - pkg:composer/bitmotion/auth0@v5.2.1
 - pkg:composer/bitmotion/auth0@v5.2.2
 - pkg:composer/bitmotion/auth0@v5.2.3
+- pkg:composer/bitmotion/auth0@v5.2.4
