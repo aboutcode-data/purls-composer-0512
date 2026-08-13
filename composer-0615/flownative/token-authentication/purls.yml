@@ -9,3 +9,4 @@
 - pkg:composer/flownative/token-authentication@v2.2.0
 - pkg:composer/flownative/token-authentication@v2.2.1
 - pkg:composer/flownative/token-authentication@v2.4.0
+- pkg:composer/flownative/token-authentication@v2.5.0
