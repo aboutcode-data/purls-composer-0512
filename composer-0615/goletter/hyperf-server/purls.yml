@@ -11,7 +11,9 @@
 - pkg:composer/goletter/hyperf-server@v1.0.9
 - pkg:composer/goletter/hyperf-server@v1.10.0
 - pkg:composer/goletter/hyperf-server@v1.11.0
+- pkg:composer/goletter/hyperf-server@v1.12.0
 - pkg:composer/goletter/hyperf-server@v2.0.0
 - pkg:composer/goletter/hyperf-server@v2.0.1
 - pkg:composer/goletter/hyperf-server@v2.0.2
 - pkg:composer/goletter/hyperf-server@v2.0.3
+- pkg:composer/goletter/hyperf-server@v2.0.4
