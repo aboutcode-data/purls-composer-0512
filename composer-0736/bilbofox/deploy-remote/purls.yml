@@ -1,1 +1,4 @@
 - pkg:composer/bilbofox/deploy-remote@0.1
+- pkg:composer/bilbofox/deploy-remote@0.2
+- pkg:composer/bilbofox/deploy-remote@0.3
+- pkg:composer/bilbofox/deploy-remote@0.4
