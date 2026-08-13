@@ -67,6 +67,12 @@
 - pkg:composer/dashed/dashed-popups@v4.2.0
 - pkg:composer/dashed/dashed-popups@v4.20.0
 - pkg:composer/dashed/dashed-popups@v4.21.0
+- pkg:composer/dashed/dashed-popups@v4.22.0
+- pkg:composer/dashed/dashed-popups@v4.23.0
+- pkg:composer/dashed/dashed-popups@v4.24.0
+- pkg:composer/dashed/dashed-popups@v4.24.1
+- pkg:composer/dashed/dashed-popups@v4.25.0
+- pkg:composer/dashed/dashed-popups@v4.25.1
 - pkg:composer/dashed/dashed-popups@v4.3.0
 - pkg:composer/dashed/dashed-popups@v4.4.0
 - pkg:composer/dashed/dashed-popups@v4.5.0
