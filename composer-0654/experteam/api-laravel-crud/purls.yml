@@ -48,5 +48,6 @@
 - pkg:composer/experteam/api-laravel-crud@3.7.0
 - pkg:composer/experteam/api-laravel-crud@3.7.1
 - pkg:composer/experteam/api-laravel-crud@3.7.2
+- pkg:composer/experteam/api-laravel-crud@3.7.3
 - pkg:composer/experteam/api-laravel-crud@v2.0.0
 - pkg:composer/experteam/api-laravel-crud@v2.1.1
