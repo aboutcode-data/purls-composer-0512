@@ -8,6 +8,7 @@
 - pkg:composer/epay/magento2-payment-module@3.0.20
 - pkg:composer/epay/magento2-payment-module@3.0.21
 - pkg:composer/epay/magento2-payment-module@3.0.22
+- pkg:composer/epay/magento2-payment-module@3.0.23
 - pkg:composer/epay/magento2-payment-module@3.0.5
 - pkg:composer/epay/magento2-payment-module@3.0.6
 - pkg:composer/epay/magento2-payment-module@3.0.7
