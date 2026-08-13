@@ -43,3 +43,5 @@
 - pkg:composer/google/grafeas@v1.5.0
 - pkg:composer/google/grafeas@v1.6.0
 - pkg:composer/google/grafeas@v1.7.0
+- pkg:composer/google/grafeas@v1.8.0
+- pkg:composer/google/grafeas@v1.9.0

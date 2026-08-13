@@ -40,3 +40,4 @@
 - pkg:composer/google/cloud-service-management@v2.1.2
 - pkg:composer/google/cloud-service-management@v2.2.0
 - pkg:composer/google/cloud-service-management@v2.2.1
+- pkg:composer/google/cloud-service-management@v2.2.2
