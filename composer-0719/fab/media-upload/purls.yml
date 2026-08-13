@@ -12,3 +12,5 @@
 - pkg:composer/fab/media-upload@3.0.3
 - pkg:composer/fab/media-upload@3.0.4
 - pkg:composer/fab/media-upload@4.0.0
+- pkg:composer/fab/media-upload@4.1.0
+- pkg:composer/fab/media-upload@4.1.1
