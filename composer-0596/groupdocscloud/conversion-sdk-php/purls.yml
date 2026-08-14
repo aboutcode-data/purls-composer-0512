@@ -37,3 +37,4 @@
 - pkg:composer/groupdocscloud/conversion-sdk-php@25.8
 - pkg:composer/groupdocscloud/conversion-sdk-php@25.9
 - pkg:composer/groupdocscloud/conversion-sdk-php@26.4
+- pkg:composer/groupdocscloud/conversion-sdk-php@26.8
