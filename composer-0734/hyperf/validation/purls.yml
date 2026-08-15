@@ -94,6 +94,7 @@
 - pkg:composer/hyperf/validation@v3.1.66
 - pkg:composer/hyperf/validation@v3.1.67
 - pkg:composer/hyperf/validation@v3.1.70
+- pkg:composer/hyperf/validation@v3.1.71
 - pkg:composer/hyperf/validation@v3.1.9
 - pkg:composer/hyperf/validation@v3.2.0
 - pkg:composer/hyperf/validation@v3.2.0-alpha.1
@@ -104,3 +105,4 @@
 - pkg:composer/hyperf/validation@v3.2.0-rc.2
 - pkg:composer/hyperf/validation@v3.2.1
 - pkg:composer/hyperf/validation@v3.2.2
+- pkg:composer/hyperf/validation@v3.2.4
