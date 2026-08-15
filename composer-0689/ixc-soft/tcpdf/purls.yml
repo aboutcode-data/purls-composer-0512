@@ -121,6 +121,7 @@
 - pkg:composer/ixc-soft/tcpdf@6.4.3
 - pkg:composer/ixc-soft/tcpdf@6.4.4
 - pkg:composer/ixc-soft/tcpdf@6.4.5
+- pkg:composer/ixc-soft/tcpdf@6.7.10-patch1
 - pkg:composer/ixc-soft/tcpdf@6.7.5
 - pkg:composer/ixc-soft/tcpdf@6.7.6
 - pkg:composer/ixc-soft/tcpdf@6.7.7
