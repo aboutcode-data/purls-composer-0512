@@ -26,3 +26,4 @@
 - pkg:composer/intermax/laravel-json-api@2.1.0
 - pkg:composer/intermax/laravel-json-api@2.2.0
 - pkg:composer/intermax/laravel-json-api@2.3.0
+- pkg:composer/intermax/laravel-json-api@2.4.0
