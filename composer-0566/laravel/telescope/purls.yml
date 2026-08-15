@@ -165,6 +165,7 @@
 - pkg:composer/laravel/telescope@v5.20.0
 - pkg:composer/laravel/telescope@v5.21.0
 - pkg:composer/laravel/telescope@v5.22.0
+- pkg:composer/laravel/telescope@v5.22.1
 - pkg:composer/laravel/telescope@v5.3.0
 - pkg:composer/laravel/telescope@v5.4.0
 - pkg:composer/laravel/telescope@v5.5.0
