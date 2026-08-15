@@ -94,6 +94,7 @@
 - pkg:composer/jambagecom/div2007@v2.3.16
 - pkg:composer/jambagecom/div2007@v2.3.17
 - pkg:composer/jambagecom/div2007@v2.3.18
+- pkg:composer/jambagecom/div2007@v2.3.19
 - pkg:composer/jambagecom/div2007@v2.3.2
 - pkg:composer/jambagecom/div2007@v2.3.3
 - pkg:composer/jambagecom/div2007@v2.3.4
@@ -110,3 +111,4 @@
 - pkg:composer/jambagecom/div2007@v2.4.5
 - pkg:composer/jambagecom/div2007@v2.4.6
 - pkg:composer/jambagecom/div2007@v2.4.7
+- pkg:composer/jambagecom/div2007@v2.4.8
