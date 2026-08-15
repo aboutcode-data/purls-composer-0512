@@ -5,3 +5,4 @@
 - pkg:composer/leafs/queue@v4.0.1
 - pkg:composer/leafs/queue@v4.1
 - pkg:composer/leafs/queue@v4.2
+- pkg:composer/leafs/queue@v5.0

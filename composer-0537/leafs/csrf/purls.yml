@@ -9,3 +9,5 @@
 - pkg:composer/leafs/csrf@v0.5.2
 - pkg:composer/leafs/csrf@v0.5.3
 - pkg:composer/leafs/csrf@v0.5.4
+- pkg:composer/leafs/csrf@v5.0
+- pkg:composer/leafs/csrf@v5.0.1
