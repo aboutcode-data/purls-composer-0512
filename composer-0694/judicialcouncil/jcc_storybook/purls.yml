@@ -187,6 +187,8 @@
 - pkg:composer/judicialcouncil/jcc_storybook@0.56.9
 - pkg:composer/judicialcouncil/jcc_storybook@0.57.1
 - pkg:composer/judicialcouncil/jcc_storybook@0.57.10
+- pkg:composer/judicialcouncil/jcc_storybook@0.57.100
+- pkg:composer/judicialcouncil/jcc_storybook@0.57.101
 - pkg:composer/judicialcouncil/jcc_storybook@0.57.11
 - pkg:composer/judicialcouncil/jcc_storybook@0.57.12
 - pkg:composer/judicialcouncil/jcc_storybook@0.57.13
