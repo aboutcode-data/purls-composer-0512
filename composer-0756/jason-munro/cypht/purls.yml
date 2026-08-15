@@ -12,6 +12,7 @@
 - pkg:composer/jason-munro/cypht@v1.4.6
 - pkg:composer/jason-munro/cypht@v1.4.7
 - pkg:composer/jason-munro/cypht@v1.4.8
+- pkg:composer/jason-munro/cypht@v1.4.9
 - pkg:composer/jason-munro/cypht@v2.0.1
 - pkg:composer/jason-munro/cypht@v2.1.0
 - pkg:composer/jason-munro/cypht@v2.10.0
@@ -20,6 +21,7 @@
 - pkg:composer/jason-munro/cypht@v2.11.1
 - pkg:composer/jason-munro/cypht@v2.11.2
 - pkg:composer/jason-munro/cypht@v2.12.0
+- pkg:composer/jason-munro/cypht@v2.12.1
 - pkg:composer/jason-munro/cypht@v2.2.0
 - pkg:composer/jason-munro/cypht@v2.3.0
 - pkg:composer/jason-munro/cypht@v2.4.0
