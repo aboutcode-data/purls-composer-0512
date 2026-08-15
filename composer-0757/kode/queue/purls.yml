@@ -1,3 +1,4 @@
 - pkg:composer/kode/queue@1.4.0
 - pkg:composer/kode/queue@2.0.0
 - pkg:composer/kode/queue@2.1.0
+- pkg:composer/kode/queue@2.2.0
