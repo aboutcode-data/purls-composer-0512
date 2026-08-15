@@ -12,6 +12,7 @@
 - pkg:composer/extend/module-warranty@v2.4.0
 - pkg:composer/extend/module-warranty@v2.5.0
 - pkg:composer/extend/module-warranty@v2.5.1
+- pkg:composer/extend/module-warranty@v2.5.10
 - pkg:composer/extend/module-warranty@v2.5.2
 - pkg:composer/extend/module-warranty@v2.5.3
 - pkg:composer/extend/module-warranty@v2.5.4
