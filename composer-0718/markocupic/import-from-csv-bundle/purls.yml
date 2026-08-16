@@ -65,6 +65,8 @@
 - pkg:composer/markocupic/import-from-csv-bundle@5.3.11
 - pkg:composer/markocupic/import-from-csv-bundle@5.3.12
 - pkg:composer/markocupic/import-from-csv-bundle@5.3.13
+- pkg:composer/markocupic/import-from-csv-bundle@5.3.14
+- pkg:composer/markocupic/import-from-csv-bundle@5.3.15
 - pkg:composer/markocupic/import-from-csv-bundle@5.3.2
 - pkg:composer/markocupic/import-from-csv-bundle@5.3.3
 - pkg:composer/markocupic/import-from-csv-bundle@5.3.4
@@ -73,3 +75,7 @@
 - pkg:composer/markocupic/import-from-csv-bundle@5.3.7
 - pkg:composer/markocupic/import-from-csv-bundle@5.3.8
 - pkg:composer/markocupic/import-from-csv-bundle@5.3.9
+- pkg:composer/markocupic/import-from-csv-bundle@5.4.0
+- pkg:composer/markocupic/import-from-csv-bundle@5.4.1
+- pkg:composer/markocupic/import-from-csv-bundle@5.4.2
+- pkg:composer/markocupic/import-from-csv-bundle@5.4.3
