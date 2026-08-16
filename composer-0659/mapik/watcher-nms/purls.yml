@@ -74,3 +74,4 @@
 - pkg:composer/mapik/watcher-nms@4.0.0
 - pkg:composer/mapik/watcher-nms@4.0.0-RC1
 - pkg:composer/mapik/watcher-nms@4.0.1
+- pkg:composer/mapik/watcher-nms@4.1.0
