@@ -6,3 +6,5 @@
 - pkg:composer/noith/payment-core@v1.0.5
 - pkg:composer/noith/payment-core@v1.0.6
 - pkg:composer/noith/payment-core@v1.0.7
+- pkg:composer/noith/payment-core@v1.0.8
+- pkg:composer/noith/payment-core@v1.1.0
