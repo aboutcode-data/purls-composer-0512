@@ -36,3 +36,6 @@
 - pkg:composer/liturgical-calendar/components@v3.2.1
 - pkg:composer/liturgical-calendar/components@v3.3.0
 - pkg:composer/liturgical-calendar/components@v3.3.1
+- pkg:composer/liturgical-calendar/components@v4.0.0
+- pkg:composer/liturgical-calendar/components@v4.1.0
+- pkg:composer/liturgical-calendar/components@v4.2.0
