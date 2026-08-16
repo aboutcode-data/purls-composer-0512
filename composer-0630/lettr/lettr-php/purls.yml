@@ -1,4 +1,6 @@
 - pkg:composer/lettr/lettr-php@2.0.0
+- pkg:composer/lettr/lettr-php@2.5.0
+- pkg:composer/lettr/lettr-php@2.5.1
 - pkg:composer/lettr/lettr-php@v0.1.0
 - pkg:composer/lettr/lettr-php@v0.1.0-alpha.1
 - pkg:composer/lettr/lettr-php@v0.1.1
