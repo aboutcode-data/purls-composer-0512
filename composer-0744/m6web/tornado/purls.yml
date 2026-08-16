@@ -5,3 +5,4 @@
 - pkg:composer/m6web/tornado@v0.3.0
 - pkg:composer/m6web/tornado@v0.4.0
 - pkg:composer/m6web/tornado@v1.0.0
+- pkg:composer/m6web/tornado@v1.0.1
