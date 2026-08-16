@@ -47,3 +47,8 @@
 - pkg:composer/melisplatform/melis-cms-news@v5.3.7
 - pkg:composer/melisplatform/melis-cms-news@v5.3.8
 - pkg:composer/melisplatform/melis-cms-news@v5.3.9
+- pkg:composer/melisplatform/melis-cms-news@v6.0.0
+- pkg:composer/melisplatform/melis-cms-news@v6.0.1
+- pkg:composer/melisplatform/melis-cms-news@v6.0.2
+- pkg:composer/melisplatform/melis-cms-news@v6.0.3
+- pkg:composer/melisplatform/melis-cms-news@v6.0.4

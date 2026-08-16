@@ -12,3 +12,5 @@
 - pkg:composer/melisplatform/melis-commerce-order-invoice@v5.1.0
 - pkg:composer/melisplatform/melis-commerce-order-invoice@v5.2.0
 - pkg:composer/melisplatform/melis-commerce-order-invoice@v5.3.0
+- pkg:composer/melisplatform/melis-commerce-order-invoice@v6.0.0
+- pkg:composer/melisplatform/melis-commerce-order-invoice@v6.0.1
