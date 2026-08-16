@@ -16,6 +16,8 @@
 - pkg:composer/netresearch/agent-enterprise-readiness@v4.15.2
 - pkg:composer/netresearch/agent-enterprise-readiness@v4.16.0
 - pkg:composer/netresearch/agent-enterprise-readiness@v4.16.1
+- pkg:composer/netresearch/agent-enterprise-readiness@v4.17.0
+- pkg:composer/netresearch/agent-enterprise-readiness@v4.17.1
 - pkg:composer/netresearch/agent-enterprise-readiness@v4.2.0
 - pkg:composer/netresearch/agent-enterprise-readiness@v4.2.1
 - pkg:composer/netresearch/agent-enterprise-readiness@v4.3.0
