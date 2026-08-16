@@ -5,3 +5,4 @@
 - pkg:composer/mbarlow/laravel-response-helpers@2.2.0
 - pkg:composer/mbarlow/laravel-response-helpers@2.3.0
 - pkg:composer/mbarlow/laravel-response-helpers@2.4.0
+- pkg:composer/mbarlow/laravel-response-helpers@2.5.0
