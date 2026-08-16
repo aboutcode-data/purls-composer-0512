@@ -5,3 +5,4 @@
 - pkg:composer/milpa/http@v0.1.4
 - pkg:composer/milpa/http@v0.1.5
 - pkg:composer/milpa/http@v0.1.6
+- pkg:composer/milpa/http@v0.2.0

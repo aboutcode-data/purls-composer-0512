@@ -2,6 +2,8 @@
 - pkg:composer/milpa/auth@v0.2.0
 - pkg:composer/milpa/auth@v0.3.0
 - pkg:composer/milpa/auth@v0.3.1
+- pkg:composer/milpa/auth@v0.3.10
+- pkg:composer/milpa/auth@v0.3.11
 - pkg:composer/milpa/auth@v0.3.2
 - pkg:composer/milpa/auth@v0.3.3
 - pkg:composer/milpa/auth@v0.3.4
@@ -9,3 +11,4 @@
 - pkg:composer/milpa/auth@v0.3.6
 - pkg:composer/milpa/auth@v0.3.7
 - pkg:composer/milpa/auth@v0.3.8
+- pkg:composer/milpa/auth@v0.3.9
