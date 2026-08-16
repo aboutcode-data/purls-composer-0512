@@ -10,6 +10,10 @@
 - pkg:composer/mage-obsidian/theme-default@2.4.0
 - pkg:composer/mage-obsidian/theme-default@3.0.0
 - pkg:composer/mage-obsidian/theme-default@3.1.0
+- pkg:composer/mage-obsidian/theme-default@3.10.0
+- pkg:composer/mage-obsidian/theme-default@3.11.0
+- pkg:composer/mage-obsidian/theme-default@3.12.0
+- pkg:composer/mage-obsidian/theme-default@3.12.1
 - pkg:composer/mage-obsidian/theme-default@3.2.0
 - pkg:composer/mage-obsidian/theme-default@3.2.1
 - pkg:composer/mage-obsidian/theme-default@3.2.2
@@ -27,3 +31,7 @@
 - pkg:composer/mage-obsidian/theme-default@3.6.0
 - pkg:composer/mage-obsidian/theme-default@3.7.0
 - pkg:composer/mage-obsidian/theme-default@3.8.0
+- pkg:composer/mage-obsidian/theme-default@3.8.1
+- pkg:composer/mage-obsidian/theme-default@3.8.2
+- pkg:composer/mage-obsidian/theme-default@3.9.0
+- pkg:composer/mage-obsidian/theme-default@3.9.1
