@@ -69,3 +69,4 @@
 - pkg:composer/new-immo-group/messenger-transport-sqs-iam@v3.3.0
 - pkg:composer/new-immo-group/messenger-transport-sqs-iam@v3.4.0
 - pkg:composer/new-immo-group/messenger-transport-sqs-iam@v3.5.0
+- pkg:composer/new-immo-group/messenger-transport-sqs-iam@v3.6.0
