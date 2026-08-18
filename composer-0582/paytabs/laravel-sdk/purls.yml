@@ -1,3 +1,4 @@
 - pkg:composer/paytabs/laravel-sdk@2.0.0
 - pkg:composer/paytabs/laravel-sdk@2.0.1
 - pkg:composer/paytabs/laravel-sdk@2.0.2
+- pkg:composer/paytabs/laravel-sdk@3.0.0
