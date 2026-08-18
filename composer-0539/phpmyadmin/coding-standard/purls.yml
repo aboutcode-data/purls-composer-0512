@@ -11,3 +11,4 @@
 - pkg:composer/phpmyadmin/coding-standard@4.0.0
 - pkg:composer/phpmyadmin/coding-standard@4.0.1
 - pkg:composer/phpmyadmin/coding-standard@4.1.0
+- pkg:composer/phpmyadmin/coding-standard@5.0.0
