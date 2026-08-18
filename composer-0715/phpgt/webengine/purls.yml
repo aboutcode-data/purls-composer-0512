@@ -21,3 +21,4 @@
 - pkg:composer/phpgt/webengine@v4.1.0
 - pkg:composer/phpgt/webengine@v5.0.0
 - pkg:composer/phpgt/webengine@v5.0.1
+- pkg:composer/phpgt/webengine@v5.0.2
