@@ -234,6 +234,9 @@
 - pkg:composer/mobilestock/laravel-business-days@v0.0.309
 - pkg:composer/mobilestock/laravel-business-days@v0.0.31
 - pkg:composer/mobilestock/laravel-business-days@v0.0.310
+- pkg:composer/mobilestock/laravel-business-days@v0.0.311
+- pkg:composer/mobilestock/laravel-business-days@v0.0.312
+- pkg:composer/mobilestock/laravel-business-days@v0.0.313
 - pkg:composer/mobilestock/laravel-business-days@v0.0.32
 - pkg:composer/mobilestock/laravel-business-days@v0.0.33
 - pkg:composer/mobilestock/laravel-business-days@v0.0.34
