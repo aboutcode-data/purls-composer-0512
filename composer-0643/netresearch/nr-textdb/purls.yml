@@ -35,6 +35,7 @@
 - pkg:composer/netresearch/nr-textdb@3.0.1
 - pkg:composer/netresearch/nr-textdb@v0.0.1
 - pkg:composer/netresearch/nr-textdb@v0.0.2
+- pkg:composer/netresearch/nr-textdb@v2.0.12
 - pkg:composer/netresearch/nr-textdb@v3.0.2
 - pkg:composer/netresearch/nr-textdb@v3.0.3
 - pkg:composer/netresearch/nr-textdb@v3.0.4
