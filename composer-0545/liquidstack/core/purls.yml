@@ -33,7 +33,9 @@
 - pkg:composer/liquidstack/core@v1.20.1
 - pkg:composer/liquidstack/core@v1.21.0
 - pkg:composer/liquidstack/core@v1.21.1
+- pkg:composer/liquidstack/core@v1.22.0
 - pkg:composer/liquidstack/core@v1.22.0-rc.1
+- pkg:composer/liquidstack/core@v1.22.1
 - pkg:composer/liquidstack/core@v1.3.0
 - pkg:composer/liquidstack/core@v1.3.1
 - pkg:composer/liquidstack/core@v1.3.2
