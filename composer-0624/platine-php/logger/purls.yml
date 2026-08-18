@@ -1,2 +1,5 @@
 - pkg:composer/platine-php/logger@v1.0.0
+- pkg:composer/platine-php/logger@v1.0.1
 - pkg:composer/platine-php/logger@v2.0.0
+- pkg:composer/platine-php/logger@v2.0.1
+- pkg:composer/platine-php/logger@v2.0.2
