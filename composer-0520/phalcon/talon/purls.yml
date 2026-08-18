@@ -9,3 +9,4 @@
 - pkg:composer/phalcon/talon@v0.9.0
 - pkg:composer/phalcon/talon@v1.0.0
 - pkg:composer/phalcon/talon@v1.0.1
+- pkg:composer/phalcon/talon@v1.0.2
