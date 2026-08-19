@@ -57,3 +57,5 @@
 - pkg:composer/raorsa/sage-middleware-client@v5.6
 - pkg:composer/raorsa/sage-middleware-client@v5.7
 - pkg:composer/raorsa/sage-middleware-client@v5.7.1
+- pkg:composer/raorsa/sage-middleware-client@v5.8
+- pkg:composer/raorsa/sage-middleware-client@v6
