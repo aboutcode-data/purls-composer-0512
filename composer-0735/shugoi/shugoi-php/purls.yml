@@ -1,3 +1,4 @@
 - pkg:composer/shugoi/shugoi-php@0.3.0
 - pkg:composer/shugoi/shugoi-php@0.4.0
 - pkg:composer/shugoi/shugoi-php@0.4.6
+- pkg:composer/shugoi/shugoi-php@v0.4.7
