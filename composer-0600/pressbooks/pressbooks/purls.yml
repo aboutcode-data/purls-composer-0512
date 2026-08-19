@@ -233,6 +233,8 @@
 - pkg:composer/pressbooks/pressbooks@6.43.0
 - pkg:composer/pressbooks/pressbooks@6.44.0
 - pkg:composer/pressbooks/pressbooks@6.44.1
+- pkg:composer/pressbooks/pressbooks@6.45.0
+- pkg:composer/pressbooks/pressbooks@6.45.1
 - pkg:composer/pressbooks/pressbooks@6.5.0
 - pkg:composer/pressbooks/pressbooks@6.5.1
 - pkg:composer/pressbooks/pressbooks@6.6.0
