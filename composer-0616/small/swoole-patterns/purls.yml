@@ -47,3 +47,5 @@
 - pkg:composer/small/swoole-patterns@23.5.0
 - pkg:composer/small/swoole-patterns@23.5.1
 - pkg:composer/small/swoole-patterns@23.6.0
+- pkg:composer/small/swoole-patterns@23.7.0
+- pkg:composer/small/swoole-patterns@26.0.0
