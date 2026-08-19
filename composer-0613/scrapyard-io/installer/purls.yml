@@ -1,3 +1,5 @@
+- pkg:composer/scrapyard-io/installer@0.7.1
+- pkg:composer/scrapyard-io/installer@0.7.2
 - pkg:composer/scrapyard-io/installer@v0.6.0
 - pkg:composer/scrapyard-io/installer@v0.6.1
 - pkg:composer/scrapyard-io/installer@v0.6.2
