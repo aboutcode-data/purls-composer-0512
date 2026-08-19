@@ -231,3 +231,4 @@
 - pkg:composer/phphleb/framework@v2.1.8
 - pkg:composer/phphleb/framework@v2.1.9
 - pkg:composer/phphleb/framework@v2.2.0
+- pkg:composer/phphleb/framework@v2.2.1
