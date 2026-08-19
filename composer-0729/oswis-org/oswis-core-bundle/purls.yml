@@ -751,6 +751,7 @@
 - pkg:composer/oswis-org/oswis-core-bundle@v0.2.43
 - pkg:composer/oswis-org/oswis-core-bundle@v0.2.44
 - pkg:composer/oswis-org/oswis-core-bundle@v0.2.45
+- pkg:composer/oswis-org/oswis-core-bundle@v0.2.46
 - pkg:composer/oswis-org/oswis-core-bundle@v0.2.5
 - pkg:composer/oswis-org/oswis-core-bundle@v0.2.6
 - pkg:composer/oswis-org/oswis-core-bundle@v0.2.7
