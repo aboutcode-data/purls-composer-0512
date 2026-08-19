@@ -63,3 +63,4 @@
 - pkg:composer/simplesamlphp/openid@v0.4.0
 - pkg:composer/simplesamlphp/openid@v0.4.1
 - pkg:composer/simplesamlphp/openid@v0.5.0
+- pkg:composer/simplesamlphp/openid@v0.6.0

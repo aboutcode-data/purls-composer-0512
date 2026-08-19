@@ -177,4 +177,6 @@
 - pkg:composer/simplesamlphp/saml2@v6.2.1
 - pkg:composer/simplesamlphp/saml2@v6.2.2
 - pkg:composer/simplesamlphp/saml2@v6.2.3
+- pkg:composer/simplesamlphp/saml2@v6.2.4
+- pkg:composer/simplesamlphp/saml2@v6.3.0
 - pkg:composer/simplesamlphp/saml2@v7.0.0-rc1
