@@ -1,4 +1,5 @@
 - pkg:composer/ristocloud-group/php-activerecord@2.0.0
+- pkg:composer/ristocloud-group/php-activerecord@2.1.0
 - pkg:composer/ristocloud-group/php-activerecord@v1.1.1
 - pkg:composer/ristocloud-group/php-activerecord@v1.1.2
 - pkg:composer/ristocloud-group/php-activerecord@v1.2.0
