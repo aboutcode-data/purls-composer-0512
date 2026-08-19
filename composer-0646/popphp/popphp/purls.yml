@@ -76,8 +76,4 @@
 - pkg:composer/popphp/popphp@4.4.2
 - pkg:composer/popphp/popphp@4.4.3
 - pkg:composer/popphp/popphp@4.4.4
-- pkg:composer/popphp/popphp@5.0.0-beta.3
-- pkg:composer/popphp/popphp@5.0.0-beta.4
-- pkg:composer/popphp/popphp@5.0.0-beta.5
-- pkg:composer/popphp/popphp@5.0.0-beta.6
-- pkg:composer/popphp/popphp@5.0.0-beta.8
+- pkg:composer/popphp/popphp@5.0.0
