@@ -76,6 +76,7 @@
 - pkg:composer/spryker/code-sniffer@0.17.32
 - pkg:composer/spryker/code-sniffer@0.17.33
 - pkg:composer/spryker/code-sniffer@0.17.34
+- pkg:composer/spryker/code-sniffer@0.17.35
 - pkg:composer/spryker/code-sniffer@0.17.4
 - pkg:composer/spryker/code-sniffer@0.17.5
 - pkg:composer/spryker/code-sniffer@0.17.6
