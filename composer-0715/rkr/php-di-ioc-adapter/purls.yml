@@ -19,3 +19,7 @@
 - pkg:composer/rkr/php-di-ioc-adapter@0.3.1
 - pkg:composer/rkr/php-di-ioc-adapter@7.0
 - pkg:composer/rkr/php-di-ioc-adapter@7.0.1
+- pkg:composer/rkr/php-di-ioc-adapter@7.1
+- pkg:composer/rkr/php-di-ioc-adapter@7.1.1
+- pkg:composer/rkr/php-di-ioc-adapter@7.1.2
+- pkg:composer/rkr/php-di-ioc-adapter@7.1.3
