@@ -20,3 +20,4 @@
 - pkg:composer/splitbrain/php-archive@1.4.2
 - pkg:composer/splitbrain/php-archive@1.4.3
 - pkg:composer/splitbrain/php-archive@1.5.0
+- pkg:composer/splitbrain/php-archive@1.5.1
