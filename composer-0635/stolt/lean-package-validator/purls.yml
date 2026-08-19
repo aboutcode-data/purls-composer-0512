@@ -88,3 +88,4 @@
 - pkg:composer/stolt/lean-package-validator@v5.9.0
 - pkg:composer/stolt/lean-package-validator@v5.9.1
 - pkg:composer/stolt/lean-package-validator@v6.0.0
+- pkg:composer/stolt/lean-package-validator@v6.0.1
