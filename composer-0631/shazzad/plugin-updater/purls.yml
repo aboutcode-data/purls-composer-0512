@@ -5,6 +5,8 @@
 - pkg:composer/shazzad/plugin-updater@1.3.0
 - pkg:composer/shazzad/plugin-updater@1.4.0
 - pkg:composer/shazzad/plugin-updater@1.5.0
+- pkg:composer/shazzad/plugin-updater@2.0.0
+- pkg:composer/shazzad/plugin-updater@2.0.1
 - pkg:composer/shazzad/plugin-updater@v1.0.0
 - pkg:composer/shazzad/plugin-updater@v1.0.1
 - pkg:composer/shazzad/plugin-updater@v1.0.3
