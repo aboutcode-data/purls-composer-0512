@@ -9,3 +9,4 @@
 - pkg:composer/sidecar/craft-analytics@1.0.7
 - pkg:composer/sidecar/craft-analytics@1.0.8
 - pkg:composer/sidecar/craft-analytics@1.0.9
+- pkg:composer/sidecar/craft-analytics@2.0.1
