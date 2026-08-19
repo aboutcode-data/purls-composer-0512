@@ -12,7 +12,17 @@
 - pkg:composer/rimba/citra@v1.2.15
 - pkg:composer/rimba/citra@v1.2.16
 - pkg:composer/rimba/citra@v1.2.17
+- pkg:composer/rimba/citra@v1.2.18
+- pkg:composer/rimba/citra@v1.2.19
 - pkg:composer/rimba/citra@v1.2.2
+- pkg:composer/rimba/citra@v1.2.20
+- pkg:composer/rimba/citra@v1.2.21
+- pkg:composer/rimba/citra@v1.2.22
+- pkg:composer/rimba/citra@v1.2.23
+- pkg:composer/rimba/citra@v1.2.24
+- pkg:composer/rimba/citra@v1.2.25
+- pkg:composer/rimba/citra@v1.2.26
+- pkg:composer/rimba/citra@v1.2.27
 - pkg:composer/rimba/citra@v1.2.3
 - pkg:composer/rimba/citra@v1.2.4
 - pkg:composer/rimba/citra@v1.2.5
@@ -20,3 +30,6 @@
 - pkg:composer/rimba/citra@v1.2.7
 - pkg:composer/rimba/citra@v1.2.8
 - pkg:composer/rimba/citra@v1.2.9
+- pkg:composer/rimba/citra@v1.3.1
+- pkg:composer/rimba/citra@v1.4.1
+- pkg:composer/rimba/citra@v1.4.2
