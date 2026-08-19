@@ -4,3 +4,5 @@
 - pkg:composer/stechstudio/laravel-docent@v1.1.0
 - pkg:composer/stechstudio/laravel-docent@v1.2.0
 - pkg:composer/stechstudio/laravel-docent@v1.3.0
+- pkg:composer/stechstudio/laravel-docent@v1.3.1
+- pkg:composer/stechstudio/laravel-docent@v1.4.0
