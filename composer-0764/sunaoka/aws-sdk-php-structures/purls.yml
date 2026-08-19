@@ -80,3 +80,10 @@
 - pkg:composer/sunaoka/aws-sdk-php-structures@3.390.4
 - pkg:composer/sunaoka/aws-sdk-php-structures@3.390.5
 - pkg:composer/sunaoka/aws-sdk-php-structures@3.391.1
+- pkg:composer/sunaoka/aws-sdk-php-structures@3.391.2
+- pkg:composer/sunaoka/aws-sdk-php-structures@3.392.0
+- pkg:composer/sunaoka/aws-sdk-php-structures@3.392.1
+- pkg:composer/sunaoka/aws-sdk-php-structures@3.392.2
+- pkg:composer/sunaoka/aws-sdk-php-structures@3.392.3
+- pkg:composer/sunaoka/aws-sdk-php-structures@3.393.0
+- pkg:composer/sunaoka/aws-sdk-php-structures@3.393.1
