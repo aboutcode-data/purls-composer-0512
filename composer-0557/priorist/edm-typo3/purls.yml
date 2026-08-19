@@ -75,3 +75,5 @@
 - pkg:composer/priorist/edm-typo3@v3.2.7
 - pkg:composer/priorist/edm-typo3@v3.2.8
 - pkg:composer/priorist/edm-typo3@v3.3.0
+- pkg:composer/priorist/edm-typo3@v3.4.0
+- pkg:composer/priorist/edm-typo3@v3.4.1
