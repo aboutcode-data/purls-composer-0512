@@ -2,3 +2,5 @@
 - pkg:composer/sirix/mezzio-rbac@0.1.1
 - pkg:composer/sirix/mezzio-rbac@0.1.2
 - pkg:composer/sirix/mezzio-rbac@1.0.0
+- pkg:composer/sirix/mezzio-rbac@1.0.1
+- pkg:composer/sirix/mezzio-rbac@2.0.0
