@@ -7,3 +7,4 @@
 - pkg:composer/script-development/phpstan-warroom-rules@v0.6.0
 - pkg:composer/script-development/phpstan-warroom-rules@v0.6.1
 - pkg:composer/script-development/phpstan-warroom-rules@v0.7.0
+- pkg:composer/script-development/phpstan-warroom-rules@v0.8.0
