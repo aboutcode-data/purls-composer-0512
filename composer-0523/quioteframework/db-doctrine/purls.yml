@@ -14,3 +14,4 @@
 - pkg:composer/quioteframework/db-doctrine@v4.0.0-RC4
 - pkg:composer/quioteframework/db-doctrine@v4.0.0-RC5
 - pkg:composer/quioteframework/db-doctrine@v4.0.0-RC6
+- pkg:composer/quioteframework/db-doctrine@v4.1.0
