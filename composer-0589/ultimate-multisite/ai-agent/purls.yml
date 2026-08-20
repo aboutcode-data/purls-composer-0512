@@ -12,6 +12,10 @@
 - pkg:composer/ultimate-multisite/ai-agent@v1.19.0
 - pkg:composer/ultimate-multisite/ai-agent@v1.20.0
 - pkg:composer/ultimate-multisite/ai-agent@v1.21.0
+- pkg:composer/ultimate-multisite/ai-agent@v1.22.0
+- pkg:composer/ultimate-multisite/ai-agent@v1.22.1
+- pkg:composer/ultimate-multisite/ai-agent@v1.22.2
+- pkg:composer/ultimate-multisite/ai-agent@v1.22.3
 - pkg:composer/ultimate-multisite/ai-agent@v1.3.0
 - pkg:composer/ultimate-multisite/ai-agent@v1.3.1
 - pkg:composer/ultimate-multisite/ai-agent@v1.3.2
