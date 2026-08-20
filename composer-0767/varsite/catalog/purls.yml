@@ -1,4 +1,5 @@
 - pkg:composer/varsite/catalog@v0.10.0
+- pkg:composer/varsite/catalog@v0.11.0
 - pkg:composer/varsite/catalog@v0.4.0
 - pkg:composer/varsite/catalog@v0.5.0
 - pkg:composer/varsite/catalog@v0.6.0
