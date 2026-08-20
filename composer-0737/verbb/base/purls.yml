@@ -11,6 +11,7 @@
 - pkg:composer/verbb/base@2.0.10
 - pkg:composer/verbb/base@2.0.11
 - pkg:composer/verbb/base@2.0.12
+- pkg:composer/verbb/base@2.0.13
 - pkg:composer/verbb/base@2.0.2
 - pkg:composer/verbb/base@2.0.3
 - pkg:composer/verbb/base@2.0.4
@@ -28,6 +29,7 @@
 - pkg:composer/verbb/base@3.0.11
 - pkg:composer/verbb/base@3.0.12
 - pkg:composer/verbb/base@3.0.13
+- pkg:composer/verbb/base@3.0.14
 - pkg:composer/verbb/base@3.0.2
 - pkg:composer/verbb/base@3.0.3
 - pkg:composer/verbb/base@3.0.4
