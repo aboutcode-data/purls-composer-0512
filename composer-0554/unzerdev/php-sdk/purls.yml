@@ -32,3 +32,4 @@
 - pkg:composer/unzerdev/php-sdk@3.9.0
 - pkg:composer/unzerdev/php-sdk@4.0.0
 - pkg:composer/unzerdev/php-sdk@4.0.1
+- pkg:composer/unzerdev/php-sdk@4.0.2
