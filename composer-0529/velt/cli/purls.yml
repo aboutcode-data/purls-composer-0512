@@ -1,1 +1,4 @@
 - pkg:composer/velt/cli@v0.2.0
+- pkg:composer/velt/cli@v0.2.1-beta.1
+- pkg:composer/velt/cli@v0.2.1-beta.2
+- pkg:composer/velt/cli@v0.2.1-beta.3
