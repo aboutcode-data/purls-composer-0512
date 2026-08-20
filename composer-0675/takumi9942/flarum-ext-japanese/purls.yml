@@ -37,6 +37,7 @@
 - pkg:composer/takumi9942/flarum-ext-japanese@v3.9.2
 - pkg:composer/takumi9942/flarum-ext-japanese@v3.9.3
 - pkg:composer/takumi9942/flarum-ext-japanese@v3.9.4
+- pkg:composer/takumi9942/flarum-ext-japanese@v3.9.5
 - pkg:composer/takumi9942/flarum-ext-japanese@v4.0.0
 - pkg:composer/takumi9942/flarum-ext-japanese@v4.0.1
 - pkg:composer/takumi9942/flarum-ext-japanese@v4.0.2
@@ -46,3 +47,4 @@
 - pkg:composer/takumi9942/flarum-ext-japanese@v4.0.6
 - pkg:composer/takumi9942/flarum-ext-japanese@v4.0.7
 - pkg:composer/takumi9942/flarum-ext-japanese@v4.0.8
+- pkg:composer/takumi9942/flarum-ext-japanese@v4.0.9
