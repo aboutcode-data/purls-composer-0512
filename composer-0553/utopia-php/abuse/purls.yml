@@ -83,4 +83,5 @@
 - pkg:composer/utopia-php/abuse@1.4.1
 - pkg:composer/utopia-php/abuse@1.4.2
 - pkg:composer/utopia-php/abuse@2.0.0
+- pkg:composer/utopia-php/abuse@2.0.1
 - pkg:composer/utopia-php/abuse@v0.1.0
