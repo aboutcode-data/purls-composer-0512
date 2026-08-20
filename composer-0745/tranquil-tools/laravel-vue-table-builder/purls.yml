@@ -22,3 +22,4 @@
 - pkg:composer/tranquil-tools/laravel-vue-table-builder@1.0.9
 - pkg:composer/tranquil-tools/laravel-vue-table-builder@1.1.0
 - pkg:composer/tranquil-tools/laravel-vue-table-builder@1.1.1
+- pkg:composer/tranquil-tools/laravel-vue-table-builder@1.2.0
