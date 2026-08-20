@@ -9,6 +9,7 @@
 - pkg:composer/roadrunner-php/roadrunner-api-dto@v1.13.0
 - pkg:composer/roadrunner-php/roadrunner-api-dto@v1.14.0
 - pkg:composer/roadrunner-php/roadrunner-api-dto@v1.14.1
+- pkg:composer/roadrunner-php/roadrunner-api-dto@v1.15.0
 - pkg:composer/roadrunner-php/roadrunner-api-dto@v1.5.0
 - pkg:composer/roadrunner-php/roadrunner-api-dto@v1.6.0
 - pkg:composer/roadrunner-php/roadrunner-api-dto@v1.7.0
