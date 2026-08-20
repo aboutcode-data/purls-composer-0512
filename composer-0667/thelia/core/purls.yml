@@ -53,4 +53,8 @@
 - pkg:composer/thelia/core@2.5.5
 - pkg:composer/thelia/core@2.6.0
 - pkg:composer/thelia/core@2.6.1
+- pkg:composer/thelia/core@2.6.2
 - pkg:composer/thelia/core@3.0.0-beta1
+- pkg:composer/thelia/core@3.0.0-beta2
+- pkg:composer/thelia/core@3.0.0-beta3
+- pkg:composer/thelia/core@3.0.0-beta4
