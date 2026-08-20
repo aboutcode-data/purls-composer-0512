@@ -436,6 +436,7 @@
 - pkg:composer/roots/wordpress-full@7.0.2
 - pkg:composer/roots/wordpress-full@7.0.3
 - pkg:composer/roots/wordpress-full@7.0.4
+- pkg:composer/roots/wordpress-full@7.1
 - pkg:composer/roots/wordpress-full@7.1-RC1
 - pkg:composer/roots/wordpress-full@7.1-RC2
 - pkg:composer/roots/wordpress-full@7.1-RC3
