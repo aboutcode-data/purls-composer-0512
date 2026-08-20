@@ -1,3 +1,5 @@
 - pkg:composer/raziul/laravel-backup-telegram@v1.0
 - pkg:composer/raziul/laravel-backup-telegram@v2.0.0
 - pkg:composer/raziul/laravel-backup-telegram@v3.0.0
+- pkg:composer/raziul/laravel-backup-telegram@v3.0.1
+- pkg:composer/raziul/laravel-backup-telegram@v3.1.0
