@@ -1,3 +1,4 @@
+- pkg:composer/php-extended/php-assignable-interface@1.0.0
 - pkg:composer/php-extended/php-assignable-interface@2.0.0
 - pkg:composer/php-extended/php-assignable-interface@2.1.0
 - pkg:composer/php-extended/php-assignable-interface@2.1.1
@@ -98,3 +99,4 @@
 - pkg:composer/php-extended/php-assignable-interface@9.0.6
 - pkg:composer/php-extended/php-assignable-interface@9.0.7
 - pkg:composer/php-extended/php-assignable-interface@9.0.8
+- pkg:composer/php-extended/php-assignable-interface@9.0.9
