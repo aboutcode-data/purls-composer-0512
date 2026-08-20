@@ -13,3 +13,4 @@
 - pkg:composer/toolx/toolx-php-framework@v1.9.0
 - pkg:composer/toolx/toolx-php-framework@v2.0.0
 - pkg:composer/toolx/toolx-php-framework@v2.1.0
+- pkg:composer/toolx/toolx-php-framework@v2.1.1
