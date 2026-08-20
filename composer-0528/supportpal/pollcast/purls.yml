@@ -11,6 +11,7 @@
 - pkg:composer/supportpal/pollcast@v1.2.2
 - pkg:composer/supportpal/pollcast@v1.2.3
 - pkg:composer/supportpal/pollcast@v1.3.0
+- pkg:composer/supportpal/pollcast@v1.3.1
 - pkg:composer/supportpal/pollcast@v1.4.0
 - pkg:composer/supportpal/pollcast@v2.0.0
 - pkg:composer/supportpal/pollcast@v2.1.0
@@ -19,3 +20,5 @@
 - pkg:composer/supportpal/pollcast@v2.2.0
 - pkg:composer/supportpal/pollcast@v2.2.1
 - pkg:composer/supportpal/pollcast@v2.2.2
+- pkg:composer/supportpal/pollcast@v2.2.3
+- pkg:composer/supportpal/pollcast@v2.2.4
