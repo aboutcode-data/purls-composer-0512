@@ -34,6 +34,7 @@
 - pkg:composer/voku/simple-php-code-parser@0.22.0
 - pkg:composer/voku/simple-php-code-parser@0.22.1
 - pkg:composer/voku/simple-php-code-parser@0.22.2
+- pkg:composer/voku/simple-php-code-parser@0.22.3
 - pkg:composer/voku/simple-php-code-parser@0.3.0
 - pkg:composer/voku/simple-php-code-parser@0.4.0
 - pkg:composer/voku/simple-php-code-parser@0.4.1
