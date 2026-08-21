@@ -326,6 +326,8 @@
 - pkg:composer/refineddigital/cms@v1.37.0
 - pkg:composer/refineddigital/cms@v1.37.1
 - pkg:composer/refineddigital/cms@v1.37.10
+- pkg:composer/refineddigital/cms@v1.37.11
+- pkg:composer/refineddigital/cms@v1.37.12
 - pkg:composer/refineddigital/cms@v1.37.2
 - pkg:composer/refineddigital/cms@v1.37.3
 - pkg:composer/refineddigital/cms@v1.37.4
