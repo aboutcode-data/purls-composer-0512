@@ -52,3 +52,5 @@
 - pkg:composer/xlabs/mmadminbundle@5.0.6
 - pkg:composer/xlabs/mmadminbundle@7.0.0
 - pkg:composer/xlabs/mmadminbundle@7.0.1
+- pkg:composer/xlabs/mmadminbundle@7.0.2
+- pkg:composer/xlabs/mmadminbundle@7.0.3
