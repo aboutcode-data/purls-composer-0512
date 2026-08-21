@@ -1,6 +1,7 @@
 - pkg:composer/yakamara/yrewrite@2.10.0
 - pkg:composer/yakamara/yrewrite@2.11.0
 - pkg:composer/yakamara/yrewrite@2.12.0
+- pkg:composer/yakamara/yrewrite@2.12.1
 - pkg:composer/yakamara/yrewrite@2.8
 - pkg:composer/yakamara/yrewrite@2.8.1
 - pkg:composer/yakamara/yrewrite@2.8.2
