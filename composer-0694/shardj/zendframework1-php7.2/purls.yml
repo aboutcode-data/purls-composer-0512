@@ -78,3 +78,4 @@
 - pkg:composer/shardj/zendframework1-php7.2@1.24.5
 - pkg:composer/shardj/zendframework1-php7.2@1.25.0
 - pkg:composer/shardj/zendframework1-php7.2@1.25.1
+- pkg:composer/shardj/zendframework1-php7.2@1.25.2
