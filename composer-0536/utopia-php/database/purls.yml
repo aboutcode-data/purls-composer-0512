@@ -408,3 +408,4 @@
 - pkg:composer/utopia-php/database@7.2.3
 - pkg:composer/utopia-php/database@7.2.4
 - pkg:composer/utopia-php/database@7.2.5
+- pkg:composer/utopia-php/database@7.2.6
