@@ -69,6 +69,13 @@
 - pkg:composer/webtigers/tiger-core@v0.59.0
 - pkg:composer/webtigers/tiger-core@v0.6.0-beta
 - pkg:composer/webtigers/tiger-core@v0.60.0
+- pkg:composer/webtigers/tiger-core@v0.61.0
+- pkg:composer/webtigers/tiger-core@v0.61.1
+- pkg:composer/webtigers/tiger-core@v0.62.0
+- pkg:composer/webtigers/tiger-core@v0.63.0
+- pkg:composer/webtigers/tiger-core@v0.64.0
+- pkg:composer/webtigers/tiger-core@v0.64.1
+- pkg:composer/webtigers/tiger-core@v0.65.0
 - pkg:composer/webtigers/tiger-core@v0.7.0-beta
 - pkg:composer/webtigers/tiger-core@v0.7.1-beta
 - pkg:composer/webtigers/tiger-core@v0.8.0-beta
