@@ -29,6 +29,11 @@
 - pkg:composer/yikai/yikaicms@v1.17.3
 - pkg:composer/yikai/yikaicms@v1.17.3.1
 - pkg:composer/yikai/yikaicms@v1.17.3.2
+- pkg:composer/yikai/yikaicms@v1.18.0
+- pkg:composer/yikai/yikaicms@v1.18.1
+- pkg:composer/yikai/yikaicms@v1.18.2
+- pkg:composer/yikai/yikaicms@v1.18.3
+- pkg:composer/yikai/yikaicms@v1.18.4
 - pkg:composer/yikai/yikaicms@v1.2.0
 - pkg:composer/yikai/yikaicms@v1.3.0
 - pkg:composer/yikai/yikaicms@v1.4.0
