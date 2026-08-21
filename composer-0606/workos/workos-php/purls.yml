@@ -97,3 +97,4 @@
 - pkg:composer/workos/workos-php@v8.1.0
 - pkg:composer/workos/workos-php@v9.0.0
 - pkg:composer/workos/workos-php@v9.1.0
+- pkg:composer/workos/workos-php@v9.2.0
