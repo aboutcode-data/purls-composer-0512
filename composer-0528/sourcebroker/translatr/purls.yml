@@ -42,3 +42,4 @@
 - pkg:composer/sourcebroker/translatr@5.0.1
 - pkg:composer/sourcebroker/translatr@6.0.0
 - pkg:composer/sourcebroker/translatr@7.0.0
+- pkg:composer/sourcebroker/translatr@7.0.1
