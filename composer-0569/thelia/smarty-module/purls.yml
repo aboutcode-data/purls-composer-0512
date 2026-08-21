@@ -74,3 +74,4 @@
 - pkg:composer/thelia/smarty-module@2.6.1
 - pkg:composer/thelia/smarty-module@2.6.2
 - pkg:composer/thelia/smarty-module@3.0.0
+- pkg:composer/thelia/smarty-module@3.0.1
