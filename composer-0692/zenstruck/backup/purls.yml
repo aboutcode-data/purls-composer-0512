@@ -11,3 +11,4 @@
 - pkg:composer/zenstruck/backup@v2.0.0
 - pkg:composer/zenstruck/backup@v2.0.1
 - pkg:composer/zenstruck/backup@v2.1.0
+- pkg:composer/zenstruck/backup@v3.0.0
