@@ -9,3 +9,5 @@
 - pkg:composer/wpelevator/update-pilot@0.5.1
 - pkg:composer/wpelevator/update-pilot@0.5.2
 - pkg:composer/wpelevator/update-pilot@0.5.3
+- pkg:composer/wpelevator/update-pilot@0.6.0
+- pkg:composer/wpelevator/update-pilot@0.7.0
