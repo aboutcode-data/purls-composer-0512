@@ -9,6 +9,7 @@
 - pkg:composer/zendrop/laravel-jwt@v2.12
 - pkg:composer/zendrop/laravel-jwt@v2.13
 - pkg:composer/zendrop/laravel-jwt@v2.14
+- pkg:composer/zendrop/laravel-jwt@v2.15
 - pkg:composer/zendrop/laravel-jwt@v2.2
 - pkg:composer/zendrop/laravel-jwt@v2.3
 - pkg:composer/zendrop/laravel-jwt@v2.4
@@ -17,3 +18,4 @@
 - pkg:composer/zendrop/laravel-jwt@v2.7
 - pkg:composer/zendrop/laravel-jwt@v2.8
 - pkg:composer/zendrop/laravel-jwt@v2.9
+- pkg:composer/zendrop/laravel-jwt@v3.0
