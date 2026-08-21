@@ -9,3 +9,4 @@
 - pkg:composer/uengage.io/php-logger@v0.9.3
 - pkg:composer/uengage.io/php-logger@v1.0.0
 - pkg:composer/uengage.io/php-logger@v2.0.0
+- pkg:composer/uengage.io/php-logger@v3.0.0
