@@ -182,3 +182,4 @@
 - pkg:composer/seamapi/seam@v4.0.0-beta.7
 - pkg:composer/seamapi/seam@v4.0.0-beta.8
 - pkg:composer/seamapi/seam@v4.0.0-beta.9
+- pkg:composer/seamapi/seam@v4.1.0
