@@ -4,3 +4,6 @@
 - pkg:composer/xident-io/php-sdk@v1.3.0
 - pkg:composer/xident-io/php-sdk@v2.0.0
 - pkg:composer/xident-io/php-sdk@v2.1.0
+- pkg:composer/xident-io/php-sdk@v3.0.0
+- pkg:composer/xident-io/php-sdk@v3.1.0
+- pkg:composer/xident-io/php-sdk@v3.1.1
