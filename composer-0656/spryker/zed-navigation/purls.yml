@@ -18,6 +18,7 @@
 - pkg:composer/spryker/zed-navigation@1.15.0
 - pkg:composer/spryker/zed-navigation@1.16.0
 - pkg:composer/spryker/zed-navigation@1.16.1
+- pkg:composer/spryker/zed-navigation@1.16.2
 - pkg:composer/spryker/zed-navigation@1.2.0
 - pkg:composer/spryker/zed-navigation@1.2.1
 - pkg:composer/spryker/zed-navigation@1.2.2
