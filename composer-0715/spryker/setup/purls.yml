@@ -38,3 +38,4 @@
 - pkg:composer/spryker/setup@4.6.1
 - pkg:composer/spryker/setup@4.7.0
 - pkg:composer/spryker/setup@4.8.0
+- pkg:composer/spryker/setup@4.8.1
