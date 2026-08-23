@@ -19,3 +19,4 @@
 - pkg:composer/bayarcash/php-sdk@v2.2.0
 - pkg:composer/bayarcash/php-sdk@v2.3.0
 - pkg:composer/bayarcash/php-sdk@v3.0.0
+- pkg:composer/bayarcash/php-sdk@v3.1.0
