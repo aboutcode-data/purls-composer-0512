@@ -3,3 +3,5 @@
 - pkg:composer/coinpaprika/dexpaprika-sdk@v1.3.0
 - pkg:composer/coinpaprika/dexpaprika-sdk@v1.4.0
 - pkg:composer/coinpaprika/dexpaprika-sdk@v1.5.0
+- pkg:composer/coinpaprika/dexpaprika-sdk@v1.7.0
+- pkg:composer/coinpaprika/dexpaprika-sdk@v1.8.0
