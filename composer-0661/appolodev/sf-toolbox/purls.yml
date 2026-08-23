@@ -77,6 +77,8 @@
 - pkg:composer/appolodev/sf-toolbox@5.0.1
 - pkg:composer/appolodev/sf-toolbox@5.0.2
 - pkg:composer/appolodev/sf-toolbox@5.1.0
+- pkg:composer/appolodev/sf-toolbox@5.2.0
+- pkg:composer/appolodev/sf-toolbox@5.2.1
 - pkg:composer/appolodev/sf-toolbox@v2.0.0
 - pkg:composer/appolodev/sf-toolbox@v2.0.1
 - pkg:composer/appolodev/sf-toolbox@v2.0.10
