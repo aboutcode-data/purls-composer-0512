@@ -127,6 +127,8 @@
 - pkg:composer/boundwize/jsonrecast@1.0.32
 - pkg:composer/boundwize/jsonrecast@1.0.33
 - pkg:composer/boundwize/jsonrecast@1.0.34
+- pkg:composer/boundwize/jsonrecast@1.0.35
+- pkg:composer/boundwize/jsonrecast@1.0.36
 - pkg:composer/boundwize/jsonrecast@1.0.4
 - pkg:composer/boundwize/jsonrecast@1.0.5
 - pkg:composer/boundwize/jsonrecast@1.0.6
