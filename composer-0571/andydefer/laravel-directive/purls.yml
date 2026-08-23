@@ -136,6 +136,15 @@
 - pkg:composer/andydefer/laravel-directive@v3.63.1
 - pkg:composer/andydefer/laravel-directive@v3.63.2
 - pkg:composer/andydefer/laravel-directive@v3.63.3
+- pkg:composer/andydefer/laravel-directive@v3.63.4
+- pkg:composer/andydefer/laravel-directive@v3.64.0
+- pkg:composer/andydefer/laravel-directive@v3.65.0
+- pkg:composer/andydefer/laravel-directive@v3.65.1
+- pkg:composer/andydefer/laravel-directive@v3.65.2
+- pkg:composer/andydefer/laravel-directive@v3.65.3
+- pkg:composer/andydefer/laravel-directive@v3.65.4
+- pkg:composer/andydefer/laravel-directive@v3.65.5
+- pkg:composer/andydefer/laravel-directive@v3.65.6
 - pkg:composer/andydefer/laravel-directive@v3.7.0
 - pkg:composer/andydefer/laravel-directive@v3.8.0
 - pkg:composer/andydefer/laravel-directive@v3.9.0
