@@ -1,2 +1,3 @@
 - pkg:composer/amerald/laravel-validation-testkit@v0.0.1
 - pkg:composer/amerald/laravel-validation-testkit@v0.0.2
+- pkg:composer/amerald/laravel-validation-testkit@v0.0.3
