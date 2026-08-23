@@ -90,3 +90,6 @@
 - pkg:composer/codewiser/workflow@v4.5.7
 - pkg:composer/codewiser/workflow@v4.5.8
 - pkg:composer/codewiser/workflow@v4.5.9
+- pkg:composer/codewiser/workflow@v5.0.0
+- pkg:composer/codewiser/workflow@v5.0.1
+- pkg:composer/codewiser/workflow@v5.0.2
