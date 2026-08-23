@@ -11,6 +11,12 @@
 - pkg:composer/bambamboole/laravel-oidc@v0.13.4
 - pkg:composer/bambamboole/laravel-oidc@v0.14.0
 - pkg:composer/bambamboole/laravel-oidc@v0.14.1
+- pkg:composer/bambamboole/laravel-oidc@v0.14.2
+- pkg:composer/bambamboole/laravel-oidc@v0.15.0
+- pkg:composer/bambamboole/laravel-oidc@v0.16.0
+- pkg:composer/bambamboole/laravel-oidc@v0.17.0
+- pkg:composer/bambamboole/laravel-oidc@v0.17.1
+- pkg:composer/bambamboole/laravel-oidc@v0.17.2
 - pkg:composer/bambamboole/laravel-oidc@v0.2.0
 - pkg:composer/bambamboole/laravel-oidc@v0.3.0
 - pkg:composer/bambamboole/laravel-oidc@v0.4.0
