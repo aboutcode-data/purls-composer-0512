@@ -10,6 +10,8 @@
 - pkg:composer/aimfornan/nan-http@v0.1.2
 - pkg:composer/aimfornan/nan-http@v0.10.0
 - pkg:composer/aimfornan/nan-http@v0.10.1
+- pkg:composer/aimfornan/nan-http@v0.10.2
+- pkg:composer/aimfornan/nan-http@v0.10.3
 - pkg:composer/aimfornan/nan-http@v0.2.0
 - pkg:composer/aimfornan/nan-http@v0.3.0
 - pkg:composer/aimfornan/nan-http@v0.3.1
