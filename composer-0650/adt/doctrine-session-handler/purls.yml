@@ -11,3 +11,6 @@
 - pkg:composer/adt/doctrine-session-handler@v2.3.1
 - pkg:composer/adt/doctrine-session-handler@v2.4
 - pkg:composer/adt/doctrine-session-handler@v2.5
+- pkg:composer/adt/doctrine-session-handler@v2.6
+- pkg:composer/adt/doctrine-session-handler@v2.6.1
+- pkg:composer/adt/doctrine-session-handler@v2.6.2
