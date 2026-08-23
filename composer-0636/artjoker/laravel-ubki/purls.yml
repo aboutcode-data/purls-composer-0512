@@ -22,4 +22,6 @@
 - pkg:composer/artjoker/laravel-ubki@v4.0.1
 - pkg:composer/artjoker/laravel-ubki@v4.0.2
 - pkg:composer/artjoker/laravel-ubki@v4.0.4
+- pkg:composer/artjoker/laravel-ubki@v4.0.5
 - pkg:composer/artjoker/laravel-ubki@v5.0
+- pkg:composer/artjoker/laravel-ubki@v5.0.1
