@@ -6,3 +6,5 @@
 - pkg:composer/demv/file@v1.2.0
 - pkg:composer/demv/file@v1.3.0
 - pkg:composer/demv/file@v1.4.0
+- pkg:composer/demv/file@v2.0.0
+- pkg:composer/demv/file@v2.0.1
