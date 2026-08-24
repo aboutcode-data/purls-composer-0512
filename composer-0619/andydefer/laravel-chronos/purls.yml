@@ -165,6 +165,7 @@
 - pkg:composer/andydefer/laravel-chronos@v0.5.14
 - pkg:composer/andydefer/laravel-chronos@v0.5.15
 - pkg:composer/andydefer/laravel-chronos@v0.5.16
+- pkg:composer/andydefer/laravel-chronos@v0.5.17
 - pkg:composer/andydefer/laravel-chronos@v0.5.2
 - pkg:composer/andydefer/laravel-chronos@v0.5.3
 - pkg:composer/andydefer/laravel-chronos@v0.5.4
