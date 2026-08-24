@@ -45,6 +45,7 @@
 - pkg:composer/andydefer/laravel-repository@v2.14.7
 - pkg:composer/andydefer/laravel-repository@v2.14.8
 - pkg:composer/andydefer/laravel-repository@v2.14.9
+- pkg:composer/andydefer/laravel-repository@v2.15.0
 - pkg:composer/andydefer/laravel-repository@v2.2.0
 - pkg:composer/andydefer/laravel-repository@v2.3.0
 - pkg:composer/andydefer/laravel-repository@v2.3.1

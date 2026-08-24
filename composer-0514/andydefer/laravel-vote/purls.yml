@@ -38,6 +38,7 @@
 - pkg:composer/andydefer/laravel-vote@v1.0.41
 - pkg:composer/andydefer/laravel-vote@v1.0.43
 - pkg:composer/andydefer/laravel-vote@v1.0.44
+- pkg:composer/andydefer/laravel-vote@v1.0.45
 - pkg:composer/andydefer/laravel-vote@v1.0.5
 - pkg:composer/andydefer/laravel-vote@v1.0.6
 - pkg:composer/andydefer/laravel-vote@v1.0.7
