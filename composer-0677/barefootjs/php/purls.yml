@@ -39,3 +39,4 @@
 - pkg:composer/barefootjs/php@v0.31.8
 - pkg:composer/barefootjs/php@v0.31.9
 - pkg:composer/barefootjs/php@v0.32.0
+- pkg:composer/barefootjs/php@v0.33.0
