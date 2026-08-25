@@ -1,3 +1,4 @@
+- pkg:composer/callismart/dbprism@2.0.0
 - pkg:composer/callismart/dbprism@v0.1.0
 - pkg:composer/callismart/dbprism@v0.1.1
 - pkg:composer/callismart/dbprism@v0.1.2
@@ -21,3 +22,5 @@
 - pkg:composer/callismart/dbprism@v0.2.0
 - pkg:composer/callismart/dbprism@v0.2.1
 - pkg:composer/callismart/dbprism@v1.0.0
+- pkg:composer/callismart/dbprism@v1.0.1
+- pkg:composer/callismart/dbprism@v2.0.1
