@@ -2,3 +2,4 @@
 - pkg:composer/comfino/php-sdk@2.0.0
 - pkg:composer/comfino/php-sdk@2.0.0-beta1
 - pkg:composer/comfino/php-sdk@3.0.0
+- pkg:composer/comfino/php-sdk@3.1.0
