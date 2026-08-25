@@ -2,5 +2,6 @@
 - pkg:composer/droost/workflow@0.3.0
 - pkg:composer/droost/workflow@0.3.1
 - pkg:composer/droost/workflow@0.3.2
+- pkg:composer/droost/workflow@0.4.0
 - pkg:composer/droost/workflow@v0.1.0
 - pkg:composer/droost/workflow@v0.1.1
