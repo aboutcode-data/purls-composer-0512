@@ -98,6 +98,7 @@
 - pkg:composer/derhansen/sf_event_mgt@7.9.0
 - pkg:composer/derhansen/sf_event_mgt@7.9.1
 - pkg:composer/derhansen/sf_event_mgt@7.9.2
+- pkg:composer/derhansen/sf_event_mgt@7.9.3
 - pkg:composer/derhansen/sf_event_mgt@8.0.0
 - pkg:composer/derhansen/sf_event_mgt@8.0.1
 - pkg:composer/derhansen/sf_event_mgt@8.1.0
@@ -112,5 +113,7 @@
 - pkg:composer/derhansen/sf_event_mgt@8.5.4
 - pkg:composer/derhansen/sf_event_mgt@8.6.0
 - pkg:composer/derhansen/sf_event_mgt@8.6.1
+- pkg:composer/derhansen/sf_event_mgt@8.6.2
 - pkg:composer/derhansen/sf_event_mgt@9.0.0
 - pkg:composer/derhansen/sf_event_mgt@9.0.1
+- pkg:composer/derhansen/sf_event_mgt@9.0.3
