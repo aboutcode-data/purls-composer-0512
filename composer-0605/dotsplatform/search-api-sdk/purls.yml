@@ -1,1 +1,4 @@
 - pkg:composer/dotsplatform/search-api-sdk@v1.0.0
+- pkg:composer/dotsplatform/search-api-sdk@v1.0.1
+- pkg:composer/dotsplatform/search-api-sdk@v1.0.2
+- pkg:composer/dotsplatform/search-api-sdk@v1.0.3
