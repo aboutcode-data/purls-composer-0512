@@ -37,7 +37,9 @@
 - pkg:composer/doctrine/doctrine-migrations-bundle@3.5.0
 - pkg:composer/doctrine/doctrine-migrations-bundle@3.6.0
 - pkg:composer/doctrine/doctrine-migrations-bundle@3.7.0
+- pkg:composer/doctrine/doctrine-migrations-bundle@3.7.1
 - pkg:composer/doctrine/doctrine-migrations-bundle@4.0.0
+- pkg:composer/doctrine/doctrine-migrations-bundle@4.0.1
 - pkg:composer/doctrine/doctrine-migrations-bundle@v1.0.0-beta1
 - pkg:composer/doctrine/doctrine-migrations-bundle@v1.1.0
 - pkg:composer/doctrine/doctrine-migrations-bundle@v1.2.0
