@@ -25,6 +25,8 @@
 - pkg:composer/evilstudio/composer-parser@v2.2.2
 - pkg:composer/evilstudio/composer-parser@v2.20.0
 - pkg:composer/evilstudio/composer-parser@v2.20.1
+- pkg:composer/evilstudio/composer-parser@v2.20.2
+- pkg:composer/evilstudio/composer-parser@v2.20.3
 - pkg:composer/evilstudio/composer-parser@v2.3.0
 - pkg:composer/evilstudio/composer-parser@v2.3.1
 - pkg:composer/evilstudio/composer-parser@v2.3.2
