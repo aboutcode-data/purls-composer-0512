@@ -37,6 +37,7 @@
 - pkg:composer/colymba/gridfield-bulk-editing-tools@5.2.0
 - pkg:composer/colymba/gridfield-bulk-editing-tools@5.2.0-beta1
 - pkg:composer/colymba/gridfield-bulk-editing-tools@5.2.0-rc1
+- pkg:composer/colymba/gridfield-bulk-editing-tools@5.2.1
 - pkg:composer/colymba/gridfield-bulk-editing-tools@v0.5.0
 - pkg:composer/colymba/gridfield-bulk-editing-tools@v1.0.0
 - pkg:composer/colymba/gridfield-bulk-editing-tools@v1.5.0
