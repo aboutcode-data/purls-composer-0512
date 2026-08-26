@@ -3,3 +3,5 @@
 - pkg:composer/dwt/behat-html-formatter@v1.0.0
 - pkg:composer/dwt/behat-html-formatter@v2.0.0
 - pkg:composer/dwt/behat-html-formatter@v2.0.1
+- pkg:composer/dwt/behat-html-formatter@v2.0.2
+- pkg:composer/dwt/behat-html-formatter@v2.0.3
