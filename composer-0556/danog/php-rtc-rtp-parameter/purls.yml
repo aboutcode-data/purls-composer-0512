@@ -1,3 +1,4 @@
+- pkg:composer/danog/php-rtc-rtp-parameter@1.1.0
 - pkg:composer/danog/php-rtc-rtp-parameter@v1.0.0
 - pkg:composer/danog/php-rtc-rtp-parameter@v1.0.1000
 - pkg:composer/danog/php-rtc-rtp-parameter@v1.0.1001
