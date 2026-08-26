@@ -5,3 +5,4 @@
 - pkg:composer/geotab/mygeotab-php@2.0.0
 - pkg:composer/geotab/mygeotab-php@2.1.0
 - pkg:composer/geotab/mygeotab-php@2.1.1
+- pkg:composer/geotab/mygeotab-php@3.0.0
