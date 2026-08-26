@@ -24,3 +24,4 @@
 - pkg:composer/cboxdk/laravel-queue-autoscale@v4.0.0
 - pkg:composer/cboxdk/laravel-queue-autoscale@v4.0.1
 - pkg:composer/cboxdk/laravel-queue-autoscale@v4.1.0
+- pkg:composer/cboxdk/laravel-queue-autoscale@v4.2.0
