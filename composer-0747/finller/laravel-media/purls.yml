@@ -159,3 +159,5 @@
 - pkg:composer/finller/laravel-media@v5.4.2
 - pkg:composer/finller/laravel-media@v5.4.3
 - pkg:composer/finller/laravel-media@v5.4.4
+- pkg:composer/finller/laravel-media@v5.4.5
+- pkg:composer/finller/laravel-media@v5.5.0
