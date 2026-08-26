@@ -87,6 +87,7 @@
 - pkg:composer/getpop/dom-crawler@19.0.2
 - pkg:composer/getpop/dom-crawler@19.1.0
 - pkg:composer/getpop/dom-crawler@19.2.0
+- pkg:composer/getpop/dom-crawler@19.2.1
 - pkg:composer/getpop/dom-crawler@2.0.1
 - pkg:composer/getpop/dom-crawler@2.1.0
 - pkg:composer/getpop/dom-crawler@2.1.1
