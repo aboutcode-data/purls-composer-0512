@@ -10,3 +10,5 @@
 - pkg:composer/ecotone/tempest@1.322.2
 - pkg:composer/ecotone/tempest@1.324.0
 - pkg:composer/ecotone/tempest@1.325.0
+- pkg:composer/ecotone/tempest@1.326.0
+- pkg:composer/ecotone/tempest@1.326.1
