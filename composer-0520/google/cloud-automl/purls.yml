@@ -65,3 +65,4 @@
 - pkg:composer/google/cloud-automl@v2.1.2
 - pkg:composer/google/cloud-automl@v2.1.3
 - pkg:composer/google/cloud-automl@v2.2.0
+- pkg:composer/google/cloud-automl@v2.2.1
