@@ -44,3 +44,4 @@
 - pkg:composer/google/cloud-binary-authorization@v1.1.2
 - pkg:composer/google/cloud-binary-authorization@v1.2.0
 - pkg:composer/google/cloud-binary-authorization@v1.3.0
+- pkg:composer/google/cloud-binary-authorization@v1.3.1
