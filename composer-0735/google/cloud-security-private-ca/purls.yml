@@ -43,3 +43,4 @@
 - pkg:composer/google/cloud-security-private-ca@v2.4.0
 - pkg:composer/google/cloud-security-private-ca@v2.4.1
 - pkg:composer/google/cloud-security-private-ca@v2.4.2
+- pkg:composer/google/cloud-security-private-ca@v2.4.3
