@@ -14,3 +14,4 @@
 - pkg:composer/getsupertab/connect-sdk-php@v1.4.0-beta.7
 - pkg:composer/getsupertab/connect-sdk-php@v1.4.0-beta.8
 - pkg:composer/getsupertab/connect-sdk-php@v1.4.0-beta.9
+- pkg:composer/getsupertab/connect-sdk-php@v2.0.1
