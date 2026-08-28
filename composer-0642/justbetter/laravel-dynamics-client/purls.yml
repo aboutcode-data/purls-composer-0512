@@ -22,3 +22,5 @@
 - pkg:composer/justbetter/laravel-dynamics-client@1.8.1
 - pkg:composer/justbetter/laravel-dynamics-client@1.8.2
 - pkg:composer/justbetter/laravel-dynamics-client@1.9.0
+- pkg:composer/justbetter/laravel-dynamics-client@2.0.0
+- pkg:composer/justbetter/laravel-dynamics-client@2.1.0
