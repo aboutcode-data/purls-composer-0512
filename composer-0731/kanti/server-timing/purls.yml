@@ -38,3 +38,4 @@
 - pkg:composer/kanti/server-timing@1.9.1
 - pkg:composer/kanti/server-timing@2.0.0
 - pkg:composer/kanti/server-timing@2.0.1
+- pkg:composer/kanti/server-timing@2.1.0
