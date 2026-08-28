@@ -23,6 +23,7 @@
 - pkg:composer/in2code/powermail@10.9.0
 - pkg:composer/in2code/powermail@10.9.1
 - pkg:composer/in2code/powermail@10.9.2
+- pkg:composer/in2code/powermail@10.9.3
 - pkg:composer/in2code/powermail@11.0.0
 - pkg:composer/in2code/powermail@11.0.1
 - pkg:composer/in2code/powermail@11.1.0
@@ -52,6 +53,7 @@
 - pkg:composer/in2code/powermail@12.5.3
 - pkg:composer/in2code/powermail@12.5.4
 - pkg:composer/in2code/powermail@12.6.0
+- pkg:composer/in2code/powermail@12.6.1
 - pkg:composer/in2code/powermail@13.0.0
 - pkg:composer/in2code/powermail@13.0.1
 - pkg:composer/in2code/powermail@13.0.2
@@ -59,6 +61,7 @@
 - pkg:composer/in2code/powermail@13.0.4
 - pkg:composer/in2code/powermail@13.1.0
 - pkg:composer/in2code/powermail@13.2.0
+- pkg:composer/in2code/powermail@13.2.1
 - pkg:composer/in2code/powermail@3.10.0
 - pkg:composer/in2code/powermail@3.10.1
 - pkg:composer/in2code/powermail@3.11.0
