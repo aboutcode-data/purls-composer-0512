@@ -21,6 +21,12 @@
 - pkg:composer/jiannius/atom@v3.15.5
 - pkg:composer/jiannius/atom@v3.15.6
 - pkg:composer/jiannius/atom@v3.15.7
+- pkg:composer/jiannius/atom@v3.15.8
+- pkg:composer/jiannius/atom@v3.16.0
+- pkg:composer/jiannius/atom@v3.17.0
+- pkg:composer/jiannius/atom@v3.17.1
+- pkg:composer/jiannius/atom@v3.18.0
+- pkg:composer/jiannius/atom@v3.19.0
 - pkg:composer/jiannius/atom@v3.2.0
 - pkg:composer/jiannius/atom@v3.2.1
 - pkg:composer/jiannius/atom@v3.2.2
@@ -28,6 +34,10 @@
 - pkg:composer/jiannius/atom@v3.2.4
 - pkg:composer/jiannius/atom@v3.2.5
 - pkg:composer/jiannius/atom@v3.2.6
+- pkg:composer/jiannius/atom@v3.20.0
+- pkg:composer/jiannius/atom@v3.21.0
+- pkg:composer/jiannius/atom@v3.21.1
+- pkg:composer/jiannius/atom@v3.22.0
 - pkg:composer/jiannius/atom@v3.3.0
 - pkg:composer/jiannius/atom@v3.4.0
 - pkg:composer/jiannius/atom@v3.4.1
