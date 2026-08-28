@@ -30,7 +30,11 @@
 - pkg:composer/jacerider/neo_alchemist@1.0.124
 - pkg:composer/jacerider/neo_alchemist@1.0.125
 - pkg:composer/jacerider/neo_alchemist@1.0.126
+- pkg:composer/jacerider/neo_alchemist@1.0.127
+- pkg:composer/jacerider/neo_alchemist@1.0.128
+- pkg:composer/jacerider/neo_alchemist@1.0.129
 - pkg:composer/jacerider/neo_alchemist@1.0.13
+- pkg:composer/jacerider/neo_alchemist@1.0.130
 - pkg:composer/jacerider/neo_alchemist@1.0.14
 - pkg:composer/jacerider/neo_alchemist@1.0.15
 - pkg:composer/jacerider/neo_alchemist@1.0.16
@@ -125,3 +129,8 @@
 - pkg:composer/jacerider/neo_alchemist@1.0.97
 - pkg:composer/jacerider/neo_alchemist@1.0.98
 - pkg:composer/jacerider/neo_alchemist@1.0.99
+- pkg:composer/jacerider/neo_alchemist@1.1.0
+- pkg:composer/jacerider/neo_alchemist@1.1.1
+- pkg:composer/jacerider/neo_alchemist@1.1.2
+- pkg:composer/jacerider/neo_alchemist@1.1.3
+- pkg:composer/jacerider/neo_alchemist@1.1.4
