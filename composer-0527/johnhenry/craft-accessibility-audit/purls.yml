@@ -1,5 +1,7 @@
 - pkg:composer/johnhenry/craft-accessibility-audit@1.0.0-beta.1
 - pkg:composer/johnhenry/craft-accessibility-audit@1.0.1-beta.1
+- pkg:composer/johnhenry/craft-accessibility-audit@1.0.10-beta.1
+- pkg:composer/johnhenry/craft-accessibility-audit@1.0.11-beta.1
 - pkg:composer/johnhenry/craft-accessibility-audit@1.0.2-beta.1
 - pkg:composer/johnhenry/craft-accessibility-audit@1.0.3-beta.1
 - pkg:composer/johnhenry/craft-accessibility-audit@1.0.4-beta.1
@@ -8,3 +10,4 @@
 - pkg:composer/johnhenry/craft-accessibility-audit@1.0.7-beta.1
 - pkg:composer/johnhenry/craft-accessibility-audit@1.0.8-beta.1
 - pkg:composer/johnhenry/craft-accessibility-audit@1.0.9-beta.1
+- pkg:composer/johnhenry/craft-accessibility-audit@1.1.0
