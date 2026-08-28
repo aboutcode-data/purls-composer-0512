@@ -1,1 +1,2 @@
 - pkg:composer/kislayphp/socket@0.0.1
+- pkg:composer/kislayphp/socket@v1.0.0

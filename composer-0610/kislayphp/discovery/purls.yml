@@ -5,3 +5,5 @@
 - pkg:composer/kislayphp/discovery@0.0.5
 - pkg:composer/kislayphp/discovery@0.0.6
 - pkg:composer/kislayphp/discovery@0.0.7
+- pkg:composer/kislayphp/discovery@v1.0.0
+- pkg:composer/kislayphp/discovery@v1.0.1
