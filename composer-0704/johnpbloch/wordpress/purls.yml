@@ -892,3 +892,4 @@
 - pkg:composer/johnpbloch/wordpress@7.0.2
 - pkg:composer/johnpbloch/wordpress@7.0.3
 - pkg:composer/johnpbloch/wordpress@7.0.4
+- pkg:composer/johnpbloch/wordpress@7.1.0
