@@ -17,3 +17,6 @@
 - pkg:composer/imarc/craft-googlecustomsearch@2.2.0
 - pkg:composer/imarc/craft-googlecustomsearch@2.3.0
 - pkg:composer/imarc/craft-googlecustomsearch@2.4.0
+- pkg:composer/imarc/craft-googlecustomsearch@3.0.0
+- pkg:composer/imarc/craft-googlecustomsearch@3.0.1
+- pkg:composer/imarc/craft-googlecustomsearch@3.0.2
