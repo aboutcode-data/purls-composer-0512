@@ -1,2 +1,8 @@
 - pkg:composer/kamel/laravel-auditable@v0.0.1
 - pkg:composer/kamel/laravel-auditable@v0.1.0
+- pkg:composer/kamel/laravel-auditable@v0.2.0
+- pkg:composer/kamel/laravel-auditable@v0.2.1
+- pkg:composer/kamel/laravel-auditable@v0.2.2
+- pkg:composer/kamel/laravel-auditable@v0.2.3
+- pkg:composer/kamel/laravel-auditable@v0.2.4
+- pkg:composer/kamel/laravel-auditable@v0.2.5
