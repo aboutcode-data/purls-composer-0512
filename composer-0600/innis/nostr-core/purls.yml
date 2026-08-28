@@ -42,3 +42,5 @@
 - pkg:composer/innis/nostr-core@v0.6.0
 - pkg:composer/innis/nostr-core@v0.6.1
 - pkg:composer/innis/nostr-core@v0.6.2
+- pkg:composer/innis/nostr-core@v0.7.0
+- pkg:composer/innis/nostr-core@v0.7.1
