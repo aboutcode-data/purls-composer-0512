@@ -26,6 +26,7 @@
 - pkg:composer/indieweb/wordpress-micropub@2.5.0
 - pkg:composer/indieweb/wordpress-micropub@2.5.1
 - pkg:composer/indieweb/wordpress-micropub@2.5.2
+- pkg:composer/indieweb/wordpress-micropub@2.5.3
 - pkg:composer/indieweb/wordpress-micropub@v1.3
 - pkg:composer/indieweb/wordpress-micropub@v1.4
 - pkg:composer/indieweb/wordpress-micropub@v1.4.1
