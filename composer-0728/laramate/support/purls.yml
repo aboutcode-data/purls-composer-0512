@@ -16,3 +16,4 @@
 - pkg:composer/laramate/support@3.5
 - pkg:composer/laramate/support@3.6
 - pkg:composer/laramate/support@4.0
+- pkg:composer/laramate/support@4.1.1
