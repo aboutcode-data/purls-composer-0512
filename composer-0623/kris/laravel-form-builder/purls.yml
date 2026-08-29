@@ -53,6 +53,7 @@
 - pkg:composer/kris/laravel-form-builder@1.53.0
 - pkg:composer/kris/laravel-form-builder@1.53.1
 - pkg:composer/kris/laravel-form-builder@1.54.0
+- pkg:composer/kris/laravel-form-builder@1.55.0
 - pkg:composer/kris/laravel-form-builder@1.6.0
 - pkg:composer/kris/laravel-form-builder@1.6.10
 - pkg:composer/kris/laravel-form-builder@1.6.11
