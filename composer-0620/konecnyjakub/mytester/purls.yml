@@ -30,6 +30,8 @@
 - pkg:composer/konecnyjakub/mytester@8.2.0
 - pkg:composer/konecnyjakub/mytester@8.2.1
 - pkg:composer/konecnyjakub/mytester@8.3.0
+- pkg:composer/konecnyjakub/mytester@8.4.0
 - pkg:composer/konecnyjakub/mytester@9.0.0
 - pkg:composer/konecnyjakub/mytester@9.0.1
 - pkg:composer/konecnyjakub/mytester@9.0.2
+- pkg:composer/konecnyjakub/mytester@9.1.0
