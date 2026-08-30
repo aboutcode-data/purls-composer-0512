@@ -13,3 +13,4 @@
 - pkg:composer/mpipks/imap_apppasswd@1.2.2-p2
 - pkg:composer/mpipks/imap_apppasswd@1.2.3
 - pkg:composer/mpipks/imap_apppasswd@1.2.3-p1
+- pkg:composer/mpipks/imap_apppasswd@1.3.0
