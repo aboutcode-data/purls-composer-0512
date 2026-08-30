@@ -13,3 +13,4 @@
 - pkg:composer/nanofelis/json-rpc-bundle@3.3.0
 - pkg:composer/nanofelis/json-rpc-bundle@4.0.0
 - pkg:composer/nanofelis/json-rpc-bundle@5.0.0
+- pkg:composer/nanofelis/json-rpc-bundle@6.0.0
