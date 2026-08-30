@@ -5,4 +5,5 @@
 - pkg:composer/payever/plugins-sdk-php@1.2.2
 - pkg:composer/payever/plugins-sdk-php@2.0.0
 - pkg:composer/payever/plugins-sdk-php@2.0.1
+- pkg:composer/payever/plugins-sdk-php@2.0.4
 - pkg:composer/payever/plugins-sdk-php@3.0.0
