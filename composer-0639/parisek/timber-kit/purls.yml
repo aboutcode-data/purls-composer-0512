@@ -43,8 +43,17 @@
 - pkg:composer/parisek/timber-kit@v1.36.0
 - pkg:composer/parisek/timber-kit@v1.37.0
 - pkg:composer/parisek/timber-kit@v1.37.1
+- pkg:composer/parisek/timber-kit@v1.38.0
+- pkg:composer/parisek/timber-kit@v1.39.0
 - pkg:composer/parisek/timber-kit@v1.4.0
 - pkg:composer/parisek/timber-kit@v1.4.1
+- pkg:composer/parisek/timber-kit@v1.40.0
+- pkg:composer/parisek/timber-kit@v1.41.0
+- pkg:composer/parisek/timber-kit@v1.41.1
+- pkg:composer/parisek/timber-kit@v1.42.0
+- pkg:composer/parisek/timber-kit@v1.43.0
+- pkg:composer/parisek/timber-kit@v1.44.0
+- pkg:composer/parisek/timber-kit@v1.45.0
 - pkg:composer/parisek/timber-kit@v1.5.0
 - pkg:composer/parisek/timber-kit@v1.6.0
 - pkg:composer/parisek/timber-kit@v1.7.0
