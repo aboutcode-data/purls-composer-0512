@@ -5,3 +5,4 @@
 - pkg:composer/paragonie/ecc@v2.3.0
 - pkg:composer/paragonie/ecc@v2.4.0
 - pkg:composer/paragonie/ecc@v2.5.0
+- pkg:composer/paragonie/ecc@v2.6.0
