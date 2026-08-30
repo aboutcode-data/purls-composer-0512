@@ -28,3 +28,8 @@
 - pkg:composer/mmucklo/email-parse@3.4.0
 - pkg:composer/mmucklo/email-parse@3.5.0
 - pkg:composer/mmucklo/email-parse@3.6.0
+- pkg:composer/mmucklo/email-parse@3.7.0
+- pkg:composer/mmucklo/email-parse@3.7.0.71
+- pkg:composer/mmucklo/email-parse@3.8.0
+- pkg:composer/mmucklo/email-parse@3.8.0.71
+- pkg:composer/mmucklo/email-parse@3.9.0
