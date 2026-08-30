@@ -128,6 +128,7 @@
 - pkg:composer/paynl/magento2-plugin@4.0.13
 - pkg:composer/paynl/magento2-plugin@4.0.14
 - pkg:composer/paynl/magento2-plugin@4.0.15
+- pkg:composer/paynl/magento2-plugin@4.0.16
 - pkg:composer/paynl/magento2-plugin@4.0.2
 - pkg:composer/paynl/magento2-plugin@4.0.3
 - pkg:composer/paynl/magento2-plugin@4.0.4
