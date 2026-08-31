@@ -7,3 +7,5 @@
 - pkg:composer/metrictower/funnypot-core@v0.5.0
 - pkg:composer/metrictower/funnypot-core@v0.6.0
 - pkg:composer/metrictower/funnypot-core@v0.6.1
+- pkg:composer/metrictower/funnypot-core@v0.6.2
+- pkg:composer/metrictower/funnypot-core@v0.6.3
