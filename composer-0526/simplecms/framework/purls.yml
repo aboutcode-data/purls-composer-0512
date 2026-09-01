@@ -24,3 +24,7 @@
 - pkg:composer/simplecms/framework@1.0.9
 - pkg:composer/simplecms/framework@1.1.0
 - pkg:composer/simplecms/framework@1.1.1
+- pkg:composer/simplecms/framework@v2.0.0
+- pkg:composer/simplecms/framework@v2.0.1
+- pkg:composer/simplecms/framework@v2.0.2
+- pkg:composer/simplecms/framework@v2.0.3
