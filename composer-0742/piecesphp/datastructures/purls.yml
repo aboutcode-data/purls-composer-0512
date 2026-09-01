@@ -3,3 +3,5 @@
 - pkg:composer/piecesphp/datastructures@v1.2
 - pkg:composer/piecesphp/datastructures@v2
 - pkg:composer/piecesphp/datastructures@v3.0.0
+- pkg:composer/piecesphp/datastructures@v3.1.0
+- pkg:composer/piecesphp/datastructures@v4.0.0
