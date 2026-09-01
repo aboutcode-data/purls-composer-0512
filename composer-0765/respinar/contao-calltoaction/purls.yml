@@ -1,4 +1,8 @@
 - pkg:composer/respinar/contao-calltoaction@0.1.0
+- pkg:composer/respinar/contao-calltoaction@0.10.0
+- pkg:composer/respinar/contao-calltoaction@0.10.1
+- pkg:composer/respinar/contao-calltoaction@0.11.0
+- pkg:composer/respinar/contao-calltoaction@0.12.0
 - pkg:composer/respinar/contao-calltoaction@0.2.0
 - pkg:composer/respinar/contao-calltoaction@0.3.0
 - pkg:composer/respinar/contao-calltoaction@0.4.0
