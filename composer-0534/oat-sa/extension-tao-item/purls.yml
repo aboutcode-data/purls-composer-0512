@@ -171,6 +171,7 @@
 - pkg:composer/oat-sa/extension-tao-item@v13.3.0
 - pkg:composer/oat-sa/extension-tao-item@v13.4.0
 - pkg:composer/oat-sa/extension-tao-item@v13.4.1
+- pkg:composer/oat-sa/extension-tao-item@v13.4.2
 - pkg:composer/oat-sa/extension-tao-item@v13.5.0
 - pkg:composer/oat-sa/extension-tao-item@v13.6.0
 - pkg:composer/oat-sa/extension-tao-item@v13.6.1
