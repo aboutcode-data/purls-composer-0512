@@ -29,6 +29,7 @@
 - pkg:composer/ometra/apollo-sdk@6.0.0
 - pkg:composer/ometra/apollo-sdk@6.1.0
 - pkg:composer/ometra/apollo-sdk@6.10.0
+- pkg:composer/ometra/apollo-sdk@6.11.0
 - pkg:composer/ometra/apollo-sdk@6.2.0
 - pkg:composer/ometra/apollo-sdk@6.3.0
 - pkg:composer/ometra/apollo-sdk@6.4.0
