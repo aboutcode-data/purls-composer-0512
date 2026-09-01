@@ -12,3 +12,4 @@
 - pkg:composer/setono/payum-quickpay@v2.0.0-alpha.3
 - pkg:composer/setono/payum-quickpay@v2.0.0-alpha.4
 - pkg:composer/setono/payum-quickpay@v2.0.0-beta.1
+- pkg:composer/setono/payum-quickpay@v2.0.0-rc.1
