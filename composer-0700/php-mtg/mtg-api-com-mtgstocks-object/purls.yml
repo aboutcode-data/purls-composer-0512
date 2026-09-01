@@ -88,3 +88,5 @@
 - pkg:composer/php-mtg/mtg-api-com-mtgstocks-object@9.0.7
 - pkg:composer/php-mtg/mtg-api-com-mtgstocks-object@9.0.8
 - pkg:composer/php-mtg/mtg-api-com-mtgstocks-object@9.1.0
+- pkg:composer/php-mtg/mtg-api-com-mtgstocks-object@9.1.1
+- pkg:composer/php-mtg/mtg-api-com-mtgstocks-object@9.1.2
