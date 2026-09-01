@@ -63,3 +63,4 @@
 - pkg:composer/pfefferle/wordpress-webmention@5.8.0
 - pkg:composer/pfefferle/wordpress-webmention@5.8.1
 - pkg:composer/pfefferle/wordpress-webmention@5.9.0
+- pkg:composer/pfefferle/wordpress-webmention@5.9.1
