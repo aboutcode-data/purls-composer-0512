@@ -38,6 +38,7 @@
 - pkg:composer/sgalinski/sg-account@10.3.9
 - pkg:composer/sgalinski/sg-account@10.4.0
 - pkg:composer/sgalinski/sg-account@10.4.1
+- pkg:composer/sgalinski/sg-account@10.5.0
 - pkg:composer/sgalinski/sg-account@11.0.0
 - pkg:composer/sgalinski/sg-account@11.0.1
 - pkg:composer/sgalinski/sg-account@11.0.10
@@ -94,6 +95,9 @@
 - pkg:composer/sgalinski/sg-account@12.0.6
 - pkg:composer/sgalinski/sg-account@12.0.7
 - pkg:composer/sgalinski/sg-account@12.0.8
+- pkg:composer/sgalinski/sg-account@12.1.0
+- pkg:composer/sgalinski/sg-account@12.2.0
+- pkg:composer/sgalinski/sg-account@12.2.1
 - pkg:composer/sgalinski/sg-account@2.0.0
 - pkg:composer/sgalinski/sg-account@2.0.1
 - pkg:composer/sgalinski/sg-account@2.0.2
