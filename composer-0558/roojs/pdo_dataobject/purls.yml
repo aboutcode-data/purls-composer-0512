@@ -1,3 +1,5 @@
 - pkg:composer/roojs/pdo_dataobject@v0.0.3
 - pkg:composer/roojs/pdo_dataobject@v0.0.4
 - pkg:composer/roojs/pdo_dataobject@v0.0.5
+- pkg:composer/roojs/pdo_dataobject@v0.1.0
+- pkg:composer/roojs/pdo_dataobject@v0.1.1
