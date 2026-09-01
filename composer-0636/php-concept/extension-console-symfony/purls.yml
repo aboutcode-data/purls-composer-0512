@@ -1,1 +1,2 @@
 - pkg:composer/php-concept/extension-console-symfony@1.0.0
+- pkg:composer/php-concept/extension-console-symfony@v1.0.1
