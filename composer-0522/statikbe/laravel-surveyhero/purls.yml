@@ -34,3 +34,4 @@
 - pkg:composer/statikbe/laravel-surveyhero@v2.3.2
 - pkg:composer/statikbe/laravel-surveyhero@v3.0.0
 - pkg:composer/statikbe/laravel-surveyhero@v3.0.1
+- pkg:composer/statikbe/laravel-surveyhero@v4.0.0
