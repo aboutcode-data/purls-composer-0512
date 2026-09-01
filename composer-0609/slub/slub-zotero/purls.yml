@@ -1,3 +1,5 @@
 - pkg:composer/slub/slub-zotero@v1.0.0
 - pkg:composer/slub/slub-zotero@v2.0.0
 - pkg:composer/slub/slub-zotero@v3.0.0
+- pkg:composer/slub/slub-zotero@v3.0.1
+- pkg:composer/slub/slub-zotero@v3.0.2
