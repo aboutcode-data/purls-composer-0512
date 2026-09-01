@@ -7,3 +7,5 @@
 - pkg:composer/superbig/craft3-beam@2.1.5
 - pkg:composer/superbig/craft3-beam@3.0.0
 - pkg:composer/superbig/craft3-beam@5.0.0
+- pkg:composer/superbig/craft3-beam@5.0.1
+- pkg:composer/superbig/craft3-beam@5.1.0
