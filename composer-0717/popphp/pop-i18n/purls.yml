@@ -16,3 +16,4 @@
 - pkg:composer/popphp/pop-i18n@4.0.2
 - pkg:composer/popphp/pop-i18n@4.0.3
 - pkg:composer/popphp/pop-i18n@5.0.0
+- pkg:composer/popphp/pop-i18n@5.0.1
