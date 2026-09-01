@@ -546,3 +546,4 @@
 - pkg:composer/neos/kickstarter@9.1.2
 - pkg:composer/neos/kickstarter@9.2.0-beta1
 - pkg:composer/neos/kickstarter@9.2.0-beta2
+- pkg:composer/neos/kickstarter@9.2.0-beta3
