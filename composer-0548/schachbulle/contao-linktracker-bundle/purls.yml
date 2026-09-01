@@ -9,3 +9,5 @@
 - pkg:composer/schachbulle/contao-linktracker-bundle@1.2.4
 - pkg:composer/schachbulle/contao-linktracker-bundle@1.2.6
 - pkg:composer/schachbulle/contao-linktracker-bundle@1.2.7
+- pkg:composer/schachbulle/contao-linktracker-bundle@2.0.0
+- pkg:composer/schachbulle/contao-linktracker-bundle@2.1.0
