@@ -58,6 +58,8 @@
 - pkg:composer/php-extended/polyfill-str-longest-common-substring@1.4.30
 - pkg:composer/php-extended/polyfill-str-longest-common-substring@1.4.31
 - pkg:composer/php-extended/polyfill-str-longest-common-substring@1.4.32
+- pkg:composer/php-extended/polyfill-str-longest-common-substring@1.4.33
+- pkg:composer/php-extended/polyfill-str-longest-common-substring@1.4.34
 - pkg:composer/php-extended/polyfill-str-longest-common-substring@1.4.4
 - pkg:composer/php-extended/polyfill-str-longest-common-substring@1.4.5
 - pkg:composer/php-extended/polyfill-str-longest-common-substring@1.4.6
