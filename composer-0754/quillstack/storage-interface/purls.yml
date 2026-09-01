@@ -1,4 +1,10 @@
+- pkg:composer/quillstack/storage-interface@0.6.0
 - pkg:composer/quillstack/storage-interface@v0.0.1
 - pkg:composer/quillstack/storage-interface@v0.0.2
 - pkg:composer/quillstack/storage-interface@v0.0.3
 - pkg:composer/quillstack/storage-interface@v0.1.0
+- pkg:composer/quillstack/storage-interface@v0.1.1
+- pkg:composer/quillstack/storage-interface@v0.2.0
+- pkg:composer/quillstack/storage-interface@v0.3.0
+- pkg:composer/quillstack/storage-interface@v0.4.0
+- pkg:composer/quillstack/storage-interface@v0.5.0
