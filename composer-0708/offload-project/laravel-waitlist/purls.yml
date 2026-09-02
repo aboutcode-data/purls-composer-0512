@@ -9,3 +9,5 @@
 - pkg:composer/offload-project/laravel-waitlist@v3.2.0
 - pkg:composer/offload-project/laravel-waitlist@v3.3.0
 - pkg:composer/offload-project/laravel-waitlist@v3.4.0
+- pkg:composer/offload-project/laravel-waitlist@v3.4.1
+- pkg:composer/offload-project/laravel-waitlist@v3.5.0
