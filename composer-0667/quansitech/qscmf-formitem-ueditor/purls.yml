@@ -10,6 +10,7 @@
 - pkg:composer/quansitech/qscmf-formitem-ueditor@v1.2.0
 - pkg:composer/quansitech/qscmf-formitem-ueditor@v1.2.1
 - pkg:composer/quansitech/qscmf-formitem-ueditor@v1.2.2
+- pkg:composer/quansitech/qscmf-formitem-ueditor@v1.3.0
 - pkg:composer/quansitech/qscmf-formitem-ueditor@v2.0.0
 - pkg:composer/quansitech/qscmf-formitem-ueditor@v2.0.1
 - pkg:composer/quansitech/qscmf-formitem-ueditor@v2.0.2
@@ -24,6 +25,7 @@
 - pkg:composer/quansitech/qscmf-formitem-ueditor@v2.2.0
 - pkg:composer/quansitech/qscmf-formitem-ueditor@v2.2.1
 - pkg:composer/quansitech/qscmf-formitem-ueditor@v2.2.2
+- pkg:composer/quansitech/qscmf-formitem-ueditor@v2.3.0
 - pkg:composer/quansitech/qscmf-formitem-ueditor@v3.0.0
 - pkg:composer/quansitech/qscmf-formitem-ueditor@v3.0.1
 - pkg:composer/quansitech/qscmf-formitem-ueditor@v3.0.2
@@ -47,3 +49,4 @@
 - pkg:composer/quansitech/qscmf-formitem-ueditor@v3.4.4
 - pkg:composer/quansitech/qscmf-formitem-ueditor@v3.4.5
 - pkg:composer/quansitech/qscmf-formitem-ueditor@v3.4.6
+- pkg:composer/quansitech/qscmf-formitem-ueditor@v3.5.0
