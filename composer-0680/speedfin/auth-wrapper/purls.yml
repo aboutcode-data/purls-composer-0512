@@ -1,4 +1,5 @@
 - pkg:composer/speedfin/auth-wrapper@1.0.1
+- pkg:composer/speedfin/auth-wrapper@1.0.10
 - pkg:composer/speedfin/auth-wrapper@1.0.2
 - pkg:composer/speedfin/auth-wrapper@1.0.3
 - pkg:composer/speedfin/auth-wrapper@1.0.4
