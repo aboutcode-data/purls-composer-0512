@@ -1,3 +1,5 @@
 - pkg:composer/thelia/reset-password-module@1.0.1
 - pkg:composer/thelia/reset-password-module@1.0.2
+- pkg:composer/thelia/reset-password-module@1.0.3
 - pkg:composer/thelia/reset-password-module@2.0.0
+- pkg:composer/thelia/reset-password-module@2.0.1
