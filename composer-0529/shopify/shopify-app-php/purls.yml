@@ -6,3 +6,4 @@
 - pkg:composer/shopify/shopify-app-php@v0.1.5
 - pkg:composer/shopify/shopify-app-php@v1.0.0
 - pkg:composer/shopify/shopify-app-php@v1.0.1
+- pkg:composer/shopify/shopify-app-php@v1.0.2
