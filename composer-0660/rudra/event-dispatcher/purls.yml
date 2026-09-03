@@ -10,3 +10,4 @@
 - pkg:composer/rudra/event-dispatcher@v26.7.27
 - pkg:composer/rudra/event-dispatcher@v26.7.5
 - pkg:composer/rudra/event-dispatcher@v26.7.6
+- pkg:composer/rudra/event-dispatcher@v26.9.3
