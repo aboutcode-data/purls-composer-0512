@@ -12,3 +12,4 @@
 - pkg:composer/softartisan/laravel-vanguard@v2.4.1
 - pkg:composer/softartisan/laravel-vanguard@v2.5.0
 - pkg:composer/softartisan/laravel-vanguard@v2.6.0
+- pkg:composer/softartisan/laravel-vanguard@v2.6.1
