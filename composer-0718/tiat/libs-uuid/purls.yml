@@ -1,3 +1,4 @@
+- pkg:composer/tiat/libs-uuid@1.0.3
 - pkg:composer/tiat/libs-uuid@v1.0.0
 - pkg:composer/tiat/libs-uuid@v1.0.1
 - pkg:composer/tiat/libs-uuid@v1.0.2
