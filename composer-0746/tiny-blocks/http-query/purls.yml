@@ -4,3 +4,4 @@
 - pkg:composer/tiny-blocks/http-query@2.2.0
 - pkg:composer/tiny-blocks/http-query@2.3.0
 - pkg:composer/tiny-blocks/http-query@2.4.0
+- pkg:composer/tiny-blocks/http-query@2.4.1
