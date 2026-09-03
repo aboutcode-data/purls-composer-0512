@@ -56,3 +56,4 @@
 - pkg:composer/thelia/dealer-module@3.0.2
 - pkg:composer/thelia/dealer-module@3.0.3
 - pkg:composer/thelia/dealer-module@4.0.0
+- pkg:composer/thelia/dealer-module@4.0.7

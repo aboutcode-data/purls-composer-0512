@@ -1,8 +1,14 @@
 - pkg:composer/thelia/flexy@0.1
 - pkg:composer/thelia/flexy@0.2
+- pkg:composer/thelia/flexy@1.0.0
+- pkg:composer/thelia/flexy@1.0.0-beta10
 - pkg:composer/thelia/flexy@1.0.0-beta3
 - pkg:composer/thelia/flexy@1.0.0-beta4
 - pkg:composer/thelia/flexy@1.0.0-beta5
 - pkg:composer/thelia/flexy@1.0.0-beta6
 - pkg:composer/thelia/flexy@1.0.0-beta7
 - pkg:composer/thelia/flexy@1.0.0-beta8
+- pkg:composer/thelia/flexy@1.0.0-beta9
+- pkg:composer/thelia/flexy@1.0.1
+- pkg:composer/thelia/flexy@1.0.2
+- pkg:composer/thelia/flexy@1.0.3
