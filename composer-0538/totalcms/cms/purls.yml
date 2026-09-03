@@ -68,6 +68,7 @@
 - pkg:composer/totalcms/cms@3.3.0-beta.1
 - pkg:composer/totalcms/cms@3.3.0-beta.2
 - pkg:composer/totalcms/cms@3.3.0-beta.3
+- pkg:composer/totalcms/cms@3.5.0
 - pkg:composer/totalcms/cms@3.5.0-beta.1
 - pkg:composer/totalcms/cms@3.5.0-beta.10
 - pkg:composer/totalcms/cms@3.5.0-beta.11
@@ -93,6 +94,8 @@
 - pkg:composer/totalcms/cms@3.5.0-rc.18
 - pkg:composer/totalcms/cms@3.5.0-rc.19
 - pkg:composer/totalcms/cms@3.5.0-rc.2
+- pkg:composer/totalcms/cms@3.5.0-rc.20
+- pkg:composer/totalcms/cms@3.5.0-rc.21
 - pkg:composer/totalcms/cms@3.5.0-rc.3
 - pkg:composer/totalcms/cms@3.5.0-rc.4
 - pkg:composer/totalcms/cms@3.5.0-rc.5
@@ -100,3 +103,4 @@
 - pkg:composer/totalcms/cms@3.5.0-rc.7
 - pkg:composer/totalcms/cms@3.5.0-rc.8
 - pkg:composer/totalcms/cms@3.5.0-rc.9
+- pkg:composer/totalcms/cms@3.5.1
