@@ -535,4 +535,5 @@
 - pkg:composer/silverstripe/framework@6.2.2
 - pkg:composer/silverstripe/framework@6.2.3
 - pkg:composer/silverstripe/framework@6.2.4
+- pkg:composer/silverstripe/framework@6.2.5
 - pkg:composer/silverstripe/framework@6.3.0-beta1
