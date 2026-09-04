@@ -52,3 +52,6 @@
 - pkg:composer/wsr/myttaddressmap@2.9.0
 - pkg:composer/wsr/myttaddressmap@2.9.1
 - pkg:composer/wsr/myttaddressmap@2.9.2
+- pkg:composer/wsr/myttaddressmap@2.9.3
+- pkg:composer/wsr/myttaddressmap@2.9.4
+- pkg:composer/wsr/myttaddressmap@3.0.1
