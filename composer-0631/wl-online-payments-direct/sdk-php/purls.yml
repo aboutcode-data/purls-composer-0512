@@ -1,6 +1,7 @@
 - pkg:composer/wl-online-payments-direct/sdk-php@1.0.0
 - pkg:composer/wl-online-payments-direct/sdk-php@1.1.0
 - pkg:composer/wl-online-payments-direct/sdk-php@1.2.0
+- pkg:composer/wl-online-payments-direct/sdk-php@10.0.0
 - pkg:composer/wl-online-payments-direct/sdk-php@2.0.0
 - pkg:composer/wl-online-payments-direct/sdk-php@2.1.0
 - pkg:composer/wl-online-payments-direct/sdk-php@2.10.0
