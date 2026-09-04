@@ -30,3 +30,5 @@
 - pkg:composer/yeswiki/yeswiki@v4.6.4
 - pkg:composer/yeswiki/yeswiki@v4.6.5
 - pkg:composer/yeswiki/yeswiki@v4.6.6
+- pkg:composer/yeswiki/yeswiki@v4.6.7
+- pkg:composer/yeswiki/yeswiki@v5.0.0-alpha1
