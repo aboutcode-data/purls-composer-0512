@@ -22,3 +22,4 @@
 - pkg:composer/vatnode/eu-vat-rates-data@v2026.8.14
 - pkg:composer/vatnode/eu-vat-rates-data@v2026.8.19
 - pkg:composer/vatnode/eu-vat-rates-data@v2026.8.20
+- pkg:composer/vatnode/eu-vat-rates-data@v2026.8.23
