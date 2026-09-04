@@ -33,3 +33,4 @@
 - pkg:composer/valantic/pimcore-forms@3.0.0-beta.2
 - pkg:composer/valantic/pimcore-forms@3.0.0-beta.3
 - pkg:composer/valantic/pimcore-forms@3.0.1
+- pkg:composer/valantic/pimcore-forms@4.0.0
