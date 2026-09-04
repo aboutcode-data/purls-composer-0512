@@ -1174,7 +1174,11 @@
 - pkg:composer/yoast/wordpress-seo@28.3-RC1
 - pkg:composer/yoast/wordpress-seo@28.3-RC2
 - pkg:composer/yoast/wordpress-seo@28.3-RC3
+- pkg:composer/yoast/wordpress-seo@28.4
 - pkg:composer/yoast/wordpress-seo@28.4-RC1
+- pkg:composer/yoast/wordpress-seo@28.4-RC2
+- pkg:composer/yoast/wordpress-seo@28.5-RC1
+- pkg:composer/yoast/wordpress-seo@28.5-RC2
 - pkg:composer/yoast/wordpress-seo@3.0
 - pkg:composer/yoast/wordpress-seo@3.0.2
 - pkg:composer/yoast/wordpress-seo@3.0.3
