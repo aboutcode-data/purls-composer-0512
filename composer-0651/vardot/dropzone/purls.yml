@@ -1,4 +1,6 @@
 - pkg:composer/vardot/dropzone@4.3.0.1
+- pkg:composer/vardot/dropzone@5.9.3
+- pkg:composer/vardot/dropzone@5.9.3.1
 - pkg:composer/vardot/dropzone@v3.11.0
 - pkg:composer/vardot/dropzone@v3.11.1
 - pkg:composer/vardot/dropzone@v3.11.2

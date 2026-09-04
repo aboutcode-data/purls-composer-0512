@@ -1,1 +1,3 @@
 - pkg:composer/vardot/ace@1.2.8.1
+- pkg:composer/vardot/ace@1.44.0
+- pkg:composer/vardot/ace@1.44.0.1
