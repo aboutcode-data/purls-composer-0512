@@ -15,6 +15,8 @@
 - pkg:composer/utopia-php/image@0.7.0
 - pkg:composer/utopia-php/image@0.8.0
 - pkg:composer/utopia-php/image@0.8.1
+- pkg:composer/utopia-php/image@0.8.10
+- pkg:composer/utopia-php/image@0.8.11
 - pkg:composer/utopia-php/image@0.8.2
 - pkg:composer/utopia-php/image@0.8.3
 - pkg:composer/utopia-php/image@0.8.4
