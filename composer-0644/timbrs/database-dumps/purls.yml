@@ -42,6 +42,7 @@
 - pkg:composer/timbrs/database-dumps@v1.1.44
 - pkg:composer/timbrs/database-dumps@v1.1.45
 - pkg:composer/timbrs/database-dumps@v1.1.46
+- pkg:composer/timbrs/database-dumps@v1.1.47
 - pkg:composer/timbrs/database-dumps@v1.1.5
 - pkg:composer/timbrs/database-dumps@v1.1.6
 - pkg:composer/timbrs/database-dumps@v1.1.7
