@@ -10,3 +10,4 @@
 - pkg:composer/traderinteractive/mongo-queue@v4.0.0
 - pkg:composer/traderinteractive/mongo-queue@v4.0.1
 - pkg:composer/traderinteractive/mongo-queue@v4.1.0
+- pkg:composer/traderinteractive/mongo-queue@v4.2.0
