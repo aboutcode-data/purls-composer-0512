@@ -1,1 +1,4 @@
 - pkg:composer/wexample/symfony-geo@1.0.1
+- pkg:composer/wexample/symfony-geo@2.0.0
+- pkg:composer/wexample/symfony-geo@3.0.0
+- pkg:composer/wexample/symfony-geo@3.0.1
