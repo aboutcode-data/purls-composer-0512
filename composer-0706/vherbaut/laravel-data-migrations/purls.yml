@@ -4,3 +4,5 @@
 - pkg:composer/vherbaut/laravel-data-migrations@1.0.3
 - pkg:composer/vherbaut/laravel-data-migrations@1.1.0
 - pkg:composer/vherbaut/laravel-data-migrations@1.1.1
+- pkg:composer/vherbaut/laravel-data-migrations@1.1.2
+- pkg:composer/vherbaut/laravel-data-migrations@1.2.0
