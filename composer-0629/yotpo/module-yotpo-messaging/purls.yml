@@ -44,3 +44,5 @@
 - pkg:composer/yotpo/module-yotpo-messaging@4.3.4
 - pkg:composer/yotpo/module-yotpo-messaging@4.3.5
 - pkg:composer/yotpo/module-yotpo-messaging@4.3.6
+- pkg:composer/yotpo/module-yotpo-messaging@4.3.7
+- pkg:composer/yotpo/module-yotpo-messaging@4.3.8
