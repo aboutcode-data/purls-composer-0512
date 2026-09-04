@@ -13,3 +13,4 @@
 - pkg:composer/swoole/typephp@v0.6.5
 - pkg:composer/swoole/typephp@v0.6.6
 - pkg:composer/swoole/typephp@v0.6.8
+- pkg:composer/swoole/typephp@v0.7.0
