@@ -22,3 +22,5 @@
 - pkg:composer/wiggum/framework@v2.3.5
 - pkg:composer/wiggum/framework@v3.0.0
 - pkg:composer/wiggum/framework@v3.0.1
+- pkg:composer/wiggum/framework@v4.0.0
+- pkg:composer/wiggum/framework@v4.0.1
