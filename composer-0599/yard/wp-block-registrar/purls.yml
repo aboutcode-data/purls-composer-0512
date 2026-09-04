@@ -1,3 +1,5 @@
 - pkg:composer/yard/wp-block-registrar@v1.0.0
 - pkg:composer/yard/wp-block-registrar@v1.0.1
 - pkg:composer/yard/wp-block-registrar@v1.0.2
+- pkg:composer/yard/wp-block-registrar@v1.1.0
+- pkg:composer/yard/wp-block-registrar@v2.0.0
