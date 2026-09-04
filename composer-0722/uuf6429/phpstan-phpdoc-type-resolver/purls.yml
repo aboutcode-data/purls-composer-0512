@@ -8,3 +8,7 @@
 - pkg:composer/uuf6429/phpstan-phpdoc-type-resolver@2.1.0
 - pkg:composer/uuf6429/phpstan-phpdoc-type-resolver@2.1.1
 - pkg:composer/uuf6429/phpstan-phpdoc-type-resolver@3.0.0
+- pkg:composer/uuf6429/phpstan-phpdoc-type-resolver@3.0.1
+- pkg:composer/uuf6429/phpstan-phpdoc-type-resolver@3.0.2
+- pkg:composer/uuf6429/phpstan-phpdoc-type-resolver@4.0.0
+- pkg:composer/uuf6429/phpstan-phpdoc-type-resolver@4.0.1

@@ -9,3 +9,5 @@
 - pkg:composer/utopia-php/telemetry@0.4.4
 - pkg:composer/utopia-php/telemetry@0.4.5
 - pkg:composer/utopia-php/telemetry@0.4.6
+- pkg:composer/utopia-php/telemetry@0.4.7
+- pkg:composer/utopia-php/telemetry@0.4.8
