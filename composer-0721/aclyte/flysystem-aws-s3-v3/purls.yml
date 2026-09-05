@@ -1,1 +1,2 @@
 - pkg:composer/aclyte/flysystem-aws-s3-v3@1.1.31
+- pkg:composer/aclyte/flysystem-aws-s3-v3@1.1.32
