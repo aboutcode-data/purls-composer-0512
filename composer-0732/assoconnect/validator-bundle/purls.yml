@@ -90,6 +90,9 @@
 - pkg:composer/assoconnect/validator-bundle@v2.44.0
 - pkg:composer/assoconnect/validator-bundle@v2.45.0
 - pkg:composer/assoconnect/validator-bundle@v2.46.0
+- pkg:composer/assoconnect/validator-bundle@v2.47.0
+- pkg:composer/assoconnect/validator-bundle@v2.48.0
+- pkg:composer/assoconnect/validator-bundle@v2.49.0
 - pkg:composer/assoconnect/validator-bundle@v2.5.0
 - pkg:composer/assoconnect/validator-bundle@v2.6.0
 - pkg:composer/assoconnect/validator-bundle@v2.6.1
