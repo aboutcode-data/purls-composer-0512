@@ -6,3 +6,4 @@
 - pkg:composer/zhushide/think-orm-elasticsearch@v0.2.4
 - pkg:composer/zhushide/think-orm-elasticsearch@v0.2.5
 - pkg:composer/zhushide/think-orm-elasticsearch@v0.3.0
+- pkg:composer/zhushide/think-orm-elasticsearch@v0.3.1
