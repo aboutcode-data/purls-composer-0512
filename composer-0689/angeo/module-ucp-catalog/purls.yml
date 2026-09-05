@@ -1,2 +1,4 @@
 - pkg:composer/angeo/module-ucp-catalog@1.0.0
 - pkg:composer/angeo/module-ucp-catalog@1.0.1
+- pkg:composer/angeo/module-ucp-catalog@2.0.0
+- pkg:composer/angeo/module-ucp-catalog@2.1.0
