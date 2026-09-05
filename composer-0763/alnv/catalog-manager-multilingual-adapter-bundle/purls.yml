@@ -18,6 +18,8 @@
 - pkg:composer/alnv/catalog-manager-multilingual-adapter-bundle@3.0.6
 - pkg:composer/alnv/catalog-manager-multilingual-adapter-bundle@3.0.7
 - pkg:composer/alnv/catalog-manager-multilingual-adapter-bundle@3.0.8
+- pkg:composer/alnv/catalog-manager-multilingual-adapter-bundle@3.0.9
 - pkg:composer/alnv/catalog-manager-multilingual-adapter-bundle@4.0.0
 - pkg:composer/alnv/catalog-manager-multilingual-adapter-bundle@4.0.1
 - pkg:composer/alnv/catalog-manager-multilingual-adapter-bundle@4.0.2
+- pkg:composer/alnv/catalog-manager-multilingual-adapter-bundle@4.0.3
