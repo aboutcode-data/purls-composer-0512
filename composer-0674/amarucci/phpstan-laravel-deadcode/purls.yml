@@ -1,0 +1,4 @@
+- pkg:composer/amarucci/phpstan-laravel-deadcode@v0.1.0
+- pkg:composer/amarucci/phpstan-laravel-deadcode@v0.1.1
+- pkg:composer/amarucci/phpstan-laravel-deadcode@v0.2.0
+- pkg:composer/amarucci/phpstan-laravel-deadcode@v0.3.0
