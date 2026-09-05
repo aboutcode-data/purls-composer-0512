@@ -36,3 +36,7 @@
 - pkg:composer/adt/datagrid-components@v1.3.7
 - pkg:composer/adt/datagrid-components@v1.3.8
 - pkg:composer/adt/datagrid-components@v1.3.9
+- pkg:composer/adt/datagrid-components@v1.4
+- pkg:composer/adt/datagrid-components@v1.4.1
+- pkg:composer/adt/datagrid-components@v1.4.2
+- pkg:composer/adt/datagrid-components@v1.4.3
