@@ -1,5 +1,7 @@
 - pkg:composer/automattic/phpunit-select-config@v1.0.0
 - pkg:composer/automattic/phpunit-select-config@v1.0.1
+- pkg:composer/automattic/phpunit-select-config@v1.0.10
+- pkg:composer/automattic/phpunit-select-config@v1.0.11
 - pkg:composer/automattic/phpunit-select-config@v1.0.2
 - pkg:composer/automattic/phpunit-select-config@v1.0.3
 - pkg:composer/automattic/phpunit-select-config@v1.0.4
