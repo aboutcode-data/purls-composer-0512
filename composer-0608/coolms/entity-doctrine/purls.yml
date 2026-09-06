@@ -1,1 +1,2 @@
 - pkg:composer/coolms/entity-doctrine@v1.0.0
+- pkg:composer/coolms/entity-doctrine@v2.0.0-alpha1
