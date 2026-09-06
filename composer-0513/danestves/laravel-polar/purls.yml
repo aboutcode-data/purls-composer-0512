@@ -36,3 +36,5 @@
 - pkg:composer/danestves/laravel-polar@v2.8.0
 - pkg:composer/danestves/laravel-polar@v2.9.0
 - pkg:composer/danestves/laravel-polar@v3.0.0
+- pkg:composer/danestves/laravel-polar@v3.1.0
+- pkg:composer/danestves/laravel-polar@v3.1.1
