@@ -1,3 +1,6 @@
 - pkg:composer/cloudbear/api-oci@v1.0.0
 - pkg:composer/cloudbear/api-oci@v2.0.0
 - pkg:composer/cloudbear/api-oci@v2.1.0
+- pkg:composer/cloudbear/api-oci@v2.1.1
+- pkg:composer/cloudbear/api-oci@v2.1.2
+- pkg:composer/cloudbear/api-oci@v2.2.0
