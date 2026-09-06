@@ -24,6 +24,7 @@
 - pkg:composer/canvural/larastan-strict-rules@3.0.1
 - pkg:composer/canvural/larastan-strict-rules@3.0.2
 - pkg:composer/canvural/larastan-strict-rules@3.0.3
+- pkg:composer/canvural/larastan-strict-rules@3.0.4
 - pkg:composer/canvural/larastan-strict-rules@v2.0.0
 - pkg:composer/canvural/larastan-strict-rules@v2.0.1
 - pkg:composer/canvural/larastan-strict-rules@v2.0.2

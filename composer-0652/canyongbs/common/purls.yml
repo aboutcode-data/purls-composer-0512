@@ -66,6 +66,9 @@
 - pkg:composer/canyongbs/common@2.36.0
 - pkg:composer/canyongbs/common@2.36.1
 - pkg:composer/canyongbs/common@2.37.0
+- pkg:composer/canyongbs/common@2.38.0
+- pkg:composer/canyongbs/common@2.39.0
+- pkg:composer/canyongbs/common@2.39.1
 - pkg:composer/canyongbs/common@2.4.0
 - pkg:composer/canyongbs/common@2.5.0
 - pkg:composer/canyongbs/common@2.5.1
