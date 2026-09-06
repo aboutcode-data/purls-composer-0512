@@ -1,1 +1,2 @@
 - pkg:composer/cboxdk/laravel-dns@v0.1.0
+- pkg:composer/cboxdk/laravel-dns@v1.0.0
