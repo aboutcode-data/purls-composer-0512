@@ -88,3 +88,10 @@
 - pkg:composer/centrex/laravel-inventory@v2.4.7
 - pkg:composer/centrex/laravel-inventory@v2.4.8
 - pkg:composer/centrex/laravel-inventory@v2.4.9
+- pkg:composer/centrex/laravel-inventory@v2.5.0
+- pkg:composer/centrex/laravel-inventory@v2.5.1
+- pkg:composer/centrex/laravel-inventory@v2.5.2
+- pkg:composer/centrex/laravel-inventory@v2.5.3
+- pkg:composer/centrex/laravel-inventory@v2.5.4
+- pkg:composer/centrex/laravel-inventory@v2.5.5
+- pkg:composer/centrex/laravel-inventory@v2.5.6
