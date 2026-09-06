@@ -1,3 +1,5 @@
 - pkg:composer/clickandmortar/openrouter-php-client@v0.1.0
 - pkg:composer/clickandmortar/openrouter-php-client@v0.2.0
 - pkg:composer/clickandmortar/openrouter-php-client@v0.3.0
+- pkg:composer/clickandmortar/openrouter-php-client@v1.0.0
+- pkg:composer/clickandmortar/openrouter-php-client@v1.0.1
