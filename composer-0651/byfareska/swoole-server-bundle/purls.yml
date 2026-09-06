@@ -1,1 +1,2 @@
 - pkg:composer/byfareska/swoole-server-bundle@v0.0.1
+- pkg:composer/byfareska/swoole-server-bundle@v0.1.0
