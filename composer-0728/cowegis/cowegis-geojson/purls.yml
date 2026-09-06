@@ -1,3 +1,5 @@
 - pkg:composer/cowegis/cowegis-geojson@1.0.0
 - pkg:composer/cowegis/cowegis-geojson@1.1.0
 - pkg:composer/cowegis/cowegis-geojson@1.1.1
+- pkg:composer/cowegis/cowegis-geojson@1.1.2
+- pkg:composer/cowegis/cowegis-geojson@1.1.3
