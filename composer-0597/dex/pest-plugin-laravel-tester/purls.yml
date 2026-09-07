@@ -3,3 +3,4 @@
 - pkg:composer/dex/pest-plugin-laravel-tester@3.0.0
 - pkg:composer/dex/pest-plugin-laravel-tester@4.0.0
 - pkg:composer/dex/pest-plugin-laravel-tester@4.1.0
+- pkg:composer/dex/pest-plugin-laravel-tester@5.0.0
