@@ -33,5 +33,7 @@
 - pkg:composer/datenkraft/bb-debt-capturing-api-php-client@v1.4.0
 - pkg:composer/datenkraft/bb-debt-capturing-api-php-client@v2.3.20
 - pkg:composer/datenkraft/bb-debt-capturing-api-php-client@v2.3.21
+- pkg:composer/datenkraft/bb-debt-capturing-api-php-client@v2.3.22
 - pkg:composer/datenkraft/bb-debt-capturing-api-php-client@v2.4.3
 - pkg:composer/datenkraft/bb-debt-capturing-api-php-client@v2.4.4
+- pkg:composer/datenkraft/bb-debt-capturing-api-php-client@v2.4.5
