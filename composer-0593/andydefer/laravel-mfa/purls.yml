@@ -54,6 +54,7 @@
 - pkg:composer/andydefer/laravel-mfa@v2.0.144
 - pkg:composer/andydefer/laravel-mfa@v2.0.145
 - pkg:composer/andydefer/laravel-mfa@v2.0.146
+- pkg:composer/andydefer/laravel-mfa@v2.0.147
 - pkg:composer/andydefer/laravel-mfa@v2.0.15
 - pkg:composer/andydefer/laravel-mfa@v2.0.16
 - pkg:composer/andydefer/laravel-mfa@v2.0.17
