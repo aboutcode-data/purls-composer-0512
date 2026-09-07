@@ -52,3 +52,4 @@
 - pkg:composer/defstudio/pest-plugin-laravel-expectations@v2.5.1
 - pkg:composer/defstudio/pest-plugin-laravel-expectations@v2.6.0
 - pkg:composer/defstudio/pest-plugin-laravel-expectations@v2.6.1
+- pkg:composer/defstudio/pest-plugin-laravel-expectations@v2.6.2
