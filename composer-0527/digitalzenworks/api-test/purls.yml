@@ -17,3 +17,5 @@
 - pkg:composer/digitalzenworks/api-test@v1.7.34
 - pkg:composer/digitalzenworks/api-test@v1.8.38
 - pkg:composer/digitalzenworks/api-test@v1.8.39
+- pkg:composer/digitalzenworks/api-test@v1.9.42
+- pkg:composer/digitalzenworks/api-test@v1.9.43
