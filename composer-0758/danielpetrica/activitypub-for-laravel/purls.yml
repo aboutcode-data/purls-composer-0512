@@ -16,3 +16,5 @@
 - pkg:composer/danielpetrica/activitypub-for-laravel@v0.6.4
 - pkg:composer/danielpetrica/activitypub-for-laravel@v0.7.0
 - pkg:composer/danielpetrica/activitypub-for-laravel@v0.7.1
+- pkg:composer/danielpetrica/activitypub-for-laravel@v0.7.2
+- pkg:composer/danielpetrica/activitypub-for-laravel@v0.8.0
