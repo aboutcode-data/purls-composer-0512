@@ -1,3 +1,8 @@
+- pkg:composer/danielpetrica/activitypub-for-laravel@v0.10.0
+- pkg:composer/danielpetrica/activitypub-for-laravel@v0.10.1
+- pkg:composer/danielpetrica/activitypub-for-laravel@v0.10.2
+- pkg:composer/danielpetrica/activitypub-for-laravel@v0.10.3
+- pkg:composer/danielpetrica/activitypub-for-laravel@v0.10.4
 - pkg:composer/danielpetrica/activitypub-for-laravel@v0.2.0
 - pkg:composer/danielpetrica/activitypub-for-laravel@v0.2.1
 - pkg:composer/danielpetrica/activitypub-for-laravel@v0.3.0
@@ -18,3 +23,8 @@
 - pkg:composer/danielpetrica/activitypub-for-laravel@v0.7.1
 - pkg:composer/danielpetrica/activitypub-for-laravel@v0.7.2
 - pkg:composer/danielpetrica/activitypub-for-laravel@v0.8.0
+- pkg:composer/danielpetrica/activitypub-for-laravel@v0.9.0
+- pkg:composer/danielpetrica/activitypub-for-laravel@v0.9.1
+- pkg:composer/danielpetrica/activitypub-for-laravel@v0.9.2
+- pkg:composer/danielpetrica/activitypub-for-laravel@v0.9.3
+- pkg:composer/danielpetrica/activitypub-for-laravel@v0.9.4
