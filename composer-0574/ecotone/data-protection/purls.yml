@@ -41,3 +41,4 @@
 - pkg:composer/ecotone/data-protection@1.325.0
 - pkg:composer/ecotone/data-protection@1.326.0
 - pkg:composer/ecotone/data-protection@1.326.1
+- pkg:composer/ecotone/data-protection@2.0.0-beta.1
