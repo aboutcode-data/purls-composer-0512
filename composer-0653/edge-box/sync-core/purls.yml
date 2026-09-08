@@ -61,3 +61,4 @@
 - pkg:composer/edge-box/sync-core@4.0.9
 - pkg:composer/edge-box/sync-core@4.1.0
 - pkg:composer/edge-box/sync-core@4.2.1
+- pkg:composer/edge-box/sync-core@4.2.2
