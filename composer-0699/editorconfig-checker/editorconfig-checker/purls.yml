@@ -19,6 +19,7 @@
 - pkg:composer/editorconfig-checker/editorconfig-checker@10.5.0
 - pkg:composer/editorconfig-checker/editorconfig-checker@10.6.0
 - pkg:composer/editorconfig-checker/editorconfig-checker@10.7.0
+- pkg:composer/editorconfig-checker/editorconfig-checker@11.0.0
 - pkg:composer/editorconfig-checker/editorconfig-checker@2.2.4
 - pkg:composer/editorconfig-checker/editorconfig-checker@2.2.5
 - pkg:composer/editorconfig-checker/editorconfig-checker@2.2.6
