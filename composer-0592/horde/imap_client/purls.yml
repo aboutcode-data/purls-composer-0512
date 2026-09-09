@@ -110,3 +110,4 @@
 - pkg:composer/horde/imap_client@v3.0.0beta1
 - pkg:composer/horde/imap_client@v3.0.0beta2
 - pkg:composer/horde/imap_client@v3.0.1
+- pkg:composer/horde/imap_client@v3.1.0
