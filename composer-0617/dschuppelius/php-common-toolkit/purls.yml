@@ -155,6 +155,7 @@
 - pkg:composer/dschuppelius/php-common-toolkit@v1.30.1
 - pkg:composer/dschuppelius/php-common-toolkit@v1.31
 - pkg:composer/dschuppelius/php-common-toolkit@v1.31.1
+- pkg:composer/dschuppelius/php-common-toolkit@v1.31.10
 - pkg:composer/dschuppelius/php-common-toolkit@v1.31.2
 - pkg:composer/dschuppelius/php-common-toolkit@v1.31.3
 - pkg:composer/dschuppelius/php-common-toolkit@v1.31.4
