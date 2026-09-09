@@ -3,6 +3,8 @@
 - pkg:composer/danielpetrica/activitypub-for-laravel@v0.10.2
 - pkg:composer/danielpetrica/activitypub-for-laravel@v0.10.3
 - pkg:composer/danielpetrica/activitypub-for-laravel@v0.10.4
+- pkg:composer/danielpetrica/activitypub-for-laravel@v0.11.0
+- pkg:composer/danielpetrica/activitypub-for-laravel@v0.12.0
 - pkg:composer/danielpetrica/activitypub-for-laravel@v0.2.0
 - pkg:composer/danielpetrica/activitypub-for-laravel@v0.2.1
 - pkg:composer/danielpetrica/activitypub-for-laravel@v0.3.0
