@@ -35,6 +35,14 @@
 - pkg:composer/funnelchat20/wapi-gateway@v0.20.0-rc.1
 - pkg:composer/funnelchat20/wapi-gateway@v0.20.1
 - pkg:composer/funnelchat20/wapi-gateway@v0.20.1-beta.1
+- pkg:composer/funnelchat20/wapi-gateway@v0.20.2
+- pkg:composer/funnelchat20/wapi-gateway@v0.20.3
+- pkg:composer/funnelchat20/wapi-gateway@v0.20.4
+- pkg:composer/funnelchat20/wapi-gateway@v0.20.4-beta.1
+- pkg:composer/funnelchat20/wapi-gateway@v0.20.4-beta.2
+- pkg:composer/funnelchat20/wapi-gateway@v0.21.0
+- pkg:composer/funnelchat20/wapi-gateway@v0.21.0-beta.1
+- pkg:composer/funnelchat20/wapi-gateway@v0.21.0-beta.2
 - pkg:composer/funnelchat20/wapi-gateway@v0.3.0
 - pkg:composer/funnelchat20/wapi-gateway@v0.3.1
 - pkg:composer/funnelchat20/wapi-gateway@v0.3.10
