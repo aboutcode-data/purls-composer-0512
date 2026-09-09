@@ -29,3 +29,5 @@
 - pkg:composer/flowpack/decoupledcontentstore@3.1.1
 - pkg:composer/flowpack/decoupledcontentstore@3.2.0
 - pkg:composer/flowpack/decoupledcontentstore@3.2.1
+- pkg:composer/flowpack/decoupledcontentstore@4.0.0
+- pkg:composer/flowpack/decoupledcontentstore@4.1.0
