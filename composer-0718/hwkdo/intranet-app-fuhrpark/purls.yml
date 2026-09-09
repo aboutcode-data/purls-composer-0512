@@ -10,8 +10,13 @@
 - pkg:composer/hwkdo/intranet-app-fuhrpark@v0.5.1
 - pkg:composer/hwkdo/intranet-app-fuhrpark@v0.6
 - pkg:composer/hwkdo/intranet-app-fuhrpark@v0.6.1
+- pkg:composer/hwkdo/intranet-app-fuhrpark@v0.6.10
+- pkg:composer/hwkdo/intranet-app-fuhrpark@v0.6.11
 - pkg:composer/hwkdo/intranet-app-fuhrpark@v0.6.2
 - pkg:composer/hwkdo/intranet-app-fuhrpark@v0.6.3
 - pkg:composer/hwkdo/intranet-app-fuhrpark@v0.6.4
 - pkg:composer/hwkdo/intranet-app-fuhrpark@v0.6.5
 - pkg:composer/hwkdo/intranet-app-fuhrpark@v0.6.6
+- pkg:composer/hwkdo/intranet-app-fuhrpark@v0.6.7
+- pkg:composer/hwkdo/intranet-app-fuhrpark@v0.6.8
+- pkg:composer/hwkdo/intranet-app-fuhrpark@v0.6.9
