@@ -9,6 +9,9 @@
 - pkg:composer/ghentcdh/omeka-s-cli@0.14.0
 - pkg:composer/ghentcdh/omeka-s-cli@0.14.1
 - pkg:composer/ghentcdh/omeka-s-cli@0.14.1-alpha.0
+- pkg:composer/ghentcdh/omeka-s-cli@0.14.2
+- pkg:composer/ghentcdh/omeka-s-cli@0.15.0
+- pkg:composer/ghentcdh/omeka-s-cli@0.16.0
 - pkg:composer/ghentcdh/omeka-s-cli@0.2.0
 - pkg:composer/ghentcdh/omeka-s-cli@0.2.1
 - pkg:composer/ghentcdh/omeka-s-cli@0.3.0
