@@ -35,3 +35,4 @@
 - pkg:composer/google/cloud-iam-credentials@v2.1.2
 - pkg:composer/google/cloud-iam-credentials@v2.2.0
 - pkg:composer/google/cloud-iam-credentials@v2.3.0
+- pkg:composer/google/cloud-iam-credentials@v2.3.1

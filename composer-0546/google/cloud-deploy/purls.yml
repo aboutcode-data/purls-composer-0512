@@ -56,3 +56,4 @@
 - pkg:composer/google/cloud-deploy@v1.6.3
 - pkg:composer/google/cloud-deploy@v1.6.4
 - pkg:composer/google/cloud-deploy@v1.7.0
+- pkg:composer/google/cloud-deploy@v1.7.1
