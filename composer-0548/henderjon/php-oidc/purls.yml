@@ -2,3 +2,6 @@
 - pkg:composer/henderjon/php-oidc@v1.0.1
 - pkg:composer/henderjon/php-oidc@v1.1.0
 - pkg:composer/henderjon/php-oidc@v1.1.1
+- pkg:composer/henderjon/php-oidc@v1.2.0
+- pkg:composer/henderjon/php-oidc@v1.3.0
+- pkg:composer/henderjon/php-oidc@v1.4.0
