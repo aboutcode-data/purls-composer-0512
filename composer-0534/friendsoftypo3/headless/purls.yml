@@ -61,3 +61,4 @@
 - pkg:composer/friendsoftypo3/headless@v4.8.0
 - pkg:composer/friendsoftypo3/headless@v4.8.1
 - pkg:composer/friendsoftypo3/headless@v5.0.0-rc1
+- pkg:composer/friendsoftypo3/headless@v5.0.0-rc2
