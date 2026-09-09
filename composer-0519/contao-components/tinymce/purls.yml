@@ -223,3 +223,4 @@
 - pkg:composer/contao-components/tinymce@8.8.1
 - pkg:composer/contao-components/tinymce@8.8.2
 - pkg:composer/contao-components/tinymce@8.9.0
+- pkg:composer/contao-components/tinymce@8.9.1
