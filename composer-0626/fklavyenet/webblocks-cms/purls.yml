@@ -602,6 +602,7 @@
 - pkg:composer/fklavyenet/webblocks-cms@v1.78.22
 - pkg:composer/fklavyenet/webblocks-cms@v1.78.23
 - pkg:composer/fklavyenet/webblocks-cms@v1.78.24
+- pkg:composer/fklavyenet/webblocks-cms@v1.78.25
 - pkg:composer/fklavyenet/webblocks-cms@v1.78.3
 - pkg:composer/fklavyenet/webblocks-cms@v1.78.4
 - pkg:composer/fklavyenet/webblocks-cms@v1.78.5
@@ -609,5 +610,8 @@
 - pkg:composer/fklavyenet/webblocks-cms@v1.78.7
 - pkg:composer/fklavyenet/webblocks-cms@v1.78.8
 - pkg:composer/fklavyenet/webblocks-cms@v1.78.9
+- pkg:composer/fklavyenet/webblocks-cms@v1.79.0
 - pkg:composer/fklavyenet/webblocks-cms@v1.8.0
+- pkg:composer/fklavyenet/webblocks-cms@v1.80.0
+- pkg:composer/fklavyenet/webblocks-cms@v1.81.0
 - pkg:composer/fklavyenet/webblocks-cms@v1.9.0
