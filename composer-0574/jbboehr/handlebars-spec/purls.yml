@@ -1,6 +1,7 @@
 - pkg:composer/jbboehr/handlebars-spec@v104.7.106
 - pkg:composer/jbboehr/handlebars-spec@v104.7.6
 - pkg:composer/jbboehr/handlebars-spec@v2.0.0
+- pkg:composer/jbboehr/handlebars-spec@v204.7.9
 - pkg:composer/jbboehr/handlebars-spec@v3.0.3
 - pkg:composer/jbboehr/handlebars-spec@v3.0.3-alpha2
 - pkg:composer/jbboehr/handlebars-spec@v4.0.2

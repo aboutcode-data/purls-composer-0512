@@ -1,1 +1,2 @@
 - pkg:composer/jbboehr/phpstan-laravel-validation@v0.1.0
+- pkg:composer/jbboehr/phpstan-laravel-validation@v0.2.0
