@@ -38,6 +38,10 @@
 - pkg:composer/jiannius/atom@v3.21.0
 - pkg:composer/jiannius/atom@v3.21.1
 - pkg:composer/jiannius/atom@v3.22.0
+- pkg:composer/jiannius/atom@v3.23.0
+- pkg:composer/jiannius/atom@v3.24.0
+- pkg:composer/jiannius/atom@v3.24.1
+- pkg:composer/jiannius/atom@v3.25.0
 - pkg:composer/jiannius/atom@v3.3.0
 - pkg:composer/jiannius/atom@v3.4.0
 - pkg:composer/jiannius/atom@v3.4.1
