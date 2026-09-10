@@ -13,6 +13,8 @@
 - pkg:composer/dennisbusk/debug-notary@v1.1.0
 - pkg:composer/dennisbusk/debug-notary@v1.1.1
 - pkg:composer/dennisbusk/debug-notary@v1.1.10
+- pkg:composer/dennisbusk/debug-notary@v1.1.11
+- pkg:composer/dennisbusk/debug-notary@v1.1.12
 - pkg:composer/dennisbusk/debug-notary@v1.1.2
 - pkg:composer/dennisbusk/debug-notary@v1.1.3
 - pkg:composer/dennisbusk/debug-notary@v1.1.4
