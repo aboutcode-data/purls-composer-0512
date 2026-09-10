@@ -6,3 +6,4 @@
 - pkg:composer/jonasschen/laravel-lang-monitor@v2.2.1
 - pkg:composer/jonasschen/laravel-lang-monitor@v3.0.3
 - pkg:composer/jonasschen/laravel-lang-monitor@v4.0.0
+- pkg:composer/jonasschen/laravel-lang-monitor@v5.0.0
