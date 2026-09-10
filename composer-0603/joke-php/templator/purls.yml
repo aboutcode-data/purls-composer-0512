@@ -1,2 +1,3 @@
 - pkg:composer/joke-php/templator@1.0.0
 - pkg:composer/joke-php/templator@1.1.0
+- pkg:composer/joke-php/templator@2.0.0
