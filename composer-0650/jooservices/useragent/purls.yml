@@ -1,3 +1,1 @@
-- pkg:composer/jooservices/useragent@1.0.0
-- pkg:composer/jooservices/useragent@1.1.0
-- pkg:composer/jooservices/useragent@1.2.0
+- pkg:composer/jooservices/useragent@v4.0.0
