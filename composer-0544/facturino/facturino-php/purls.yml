@@ -7,3 +7,4 @@
 - pkg:composer/facturino/facturino-php@v2.3.1
 - pkg:composer/facturino/facturino-php@v2.4.0
 - pkg:composer/facturino/facturino-php@v2.7.0
+- pkg:composer/facturino/facturino-php@v2.8.0
