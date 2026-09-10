@@ -16,3 +16,6 @@
 - pkg:composer/johnfmorton/craft-llm-ready@1.5.3
 - pkg:composer/johnfmorton/craft-llm-ready@1.6.0
 - pkg:composer/johnfmorton/craft-llm-ready@1.6.1
+- pkg:composer/johnfmorton/craft-llm-ready@1.7.0
+- pkg:composer/johnfmorton/craft-llm-ready@1.7.1
+- pkg:composer/johnfmorton/craft-llm-ready@1.8.0
