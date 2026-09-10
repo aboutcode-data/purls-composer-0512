@@ -1218,6 +1218,16 @@
 - pkg:composer/itzbund/gsb-sitepackage@v9.11.2-rc.2
 - pkg:composer/itzbund/gsb-sitepackage@v9.11.2-rc.3
 - pkg:composer/itzbund/gsb-sitepackage@v9.11.3-rc.1
+- pkg:composer/itzbund/gsb-sitepackage@v9.11.3-rc.2
+- pkg:composer/itzbund/gsb-sitepackage@v9.12.0
+- pkg:composer/itzbund/gsb-sitepackage@v9.12.0-rc.1
+- pkg:composer/itzbund/gsb-sitepackage@v9.12.0-rc.2
+- pkg:composer/itzbund/gsb-sitepackage@v9.12.1-rc.1
+- pkg:composer/itzbund/gsb-sitepackage@v9.12.1-rc.2
+- pkg:composer/itzbund/gsb-sitepackage@v9.12.1-rc.3
+- pkg:composer/itzbund/gsb-sitepackage@v9.12.1-rc.4
+- pkg:composer/itzbund/gsb-sitepackage@v9.12.1-rc.5
+- pkg:composer/itzbund/gsb-sitepackage@v9.12.1-rc.6
 - pkg:composer/itzbund/gsb-sitepackage@v9.2.0
 - pkg:composer/itzbund/gsb-sitepackage@v9.2.0-rc.1
 - pkg:composer/itzbund/gsb-sitepackage@v9.2.0-rc.2

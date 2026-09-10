@@ -174,3 +174,5 @@
 - pkg:composer/itzbund/gsb-rss@v2.4.4-beta.2
 - pkg:composer/itzbund/gsb-rss@v2.4.4-rc.1
 - pkg:composer/itzbund/gsb-rss@v2.4.5-beta.1
+- pkg:composer/itzbund/gsb-rss@v2.4.5-beta.2
+- pkg:composer/itzbund/gsb-rss@v2.4.5-beta.3
