@@ -350,6 +350,8 @@
 - pkg:composer/getgrav/grav@2.0.22
 - pkg:composer/getgrav/grav@2.0.23
 - pkg:composer/getgrav/grav@2.0.24
+- pkg:composer/getgrav/grav@2.0.25
+- pkg:composer/getgrav/grav@2.0.26
 - pkg:composer/getgrav/grav@2.0.3
 - pkg:composer/getgrav/grav@2.0.4
 - pkg:composer/getgrav/grav@2.0.5
