@@ -44,6 +44,13 @@
 - pkg:composer/ivanwilliammd/satusehat-integration@v4.1.0
 - pkg:composer/ivanwilliammd/satusehat-integration@v4.11.0
 - pkg:composer/ivanwilliammd/satusehat-integration@v4.11.1
+- pkg:composer/ivanwilliammd/satusehat-integration@v4.11.2
+- pkg:composer/ivanwilliammd/satusehat-integration@v4.11.3
+- pkg:composer/ivanwilliammd/satusehat-integration@v4.11.4
+- pkg:composer/ivanwilliammd/satusehat-integration@v4.12.0
+- pkg:composer/ivanwilliammd/satusehat-integration@v4.13.0
+- pkg:composer/ivanwilliammd/satusehat-integration@v4.14.0
+- pkg:composer/ivanwilliammd/satusehat-integration@v4.14.1
 - pkg:composer/ivanwilliammd/satusehat-integration@v4.2.0
 - pkg:composer/ivanwilliammd/satusehat-integration@v4.2.1
 - pkg:composer/ivanwilliammd/satusehat-integration@v4.2.2
