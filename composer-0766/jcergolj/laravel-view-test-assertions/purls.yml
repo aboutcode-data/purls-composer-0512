@@ -11,3 +11,4 @@
 - pkg:composer/jcergolj/laravel-view-test-assertions@v2.7
 - pkg:composer/jcergolj/laravel-view-test-assertions@v2.8
 - pkg:composer/jcergolj/laravel-view-test-assertions@v2.9
+- pkg:composer/jcergolj/laravel-view-test-assertions@v3
