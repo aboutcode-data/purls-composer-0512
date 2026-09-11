@@ -1,8 +1,8 @@
 - pkg:composer/lazerg/laravel-response-helpers@0.11
 - pkg:composer/lazerg/laravel-response-helpers@0.12
 - pkg:composer/lazerg/laravel-response-helpers@0.20
+- pkg:composer/lazerg/laravel-response-helpers@v0.01
 - pkg:composer/lazerg/laravel-response-helpers@v0.02
-- pkg:composer/lazerg/laravel-response-helpers@v0.1
 - pkg:composer/lazerg/laravel-response-helpers@v1.0.0
 - pkg:composer/lazerg/laravel-response-helpers@v1.1.0
 - pkg:composer/lazerg/laravel-response-helpers@v1.1.1
