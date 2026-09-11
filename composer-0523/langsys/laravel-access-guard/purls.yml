@@ -1,1 +1,2 @@
 - pkg:composer/langsys/laravel-access-guard@v0.1.0
+- pkg:composer/langsys/laravel-access-guard@v0.2.0
