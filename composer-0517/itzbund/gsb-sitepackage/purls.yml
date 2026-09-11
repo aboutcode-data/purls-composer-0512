@@ -1228,6 +1228,8 @@
 - pkg:composer/itzbund/gsb-sitepackage@v9.12.1-rc.4
 - pkg:composer/itzbund/gsb-sitepackage@v9.12.1-rc.5
 - pkg:composer/itzbund/gsb-sitepackage@v9.12.1-rc.6
+- pkg:composer/itzbund/gsb-sitepackage@v9.12.1-rc.7
+- pkg:composer/itzbund/gsb-sitepackage@v9.13.0-rc.1
 - pkg:composer/itzbund/gsb-sitepackage@v9.2.0
 - pkg:composer/itzbund/gsb-sitepackage@v9.2.0-rc.1
 - pkg:composer/itzbund/gsb-sitepackage@v9.2.0-rc.2
