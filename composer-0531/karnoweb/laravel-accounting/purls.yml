@@ -5,3 +5,9 @@
 - pkg:composer/karnoweb/laravel-accounting@13.3.0
 - pkg:composer/karnoweb/laravel-accounting@13.4.0
 - pkg:composer/karnoweb/laravel-accounting@13.4.1
+- pkg:composer/karnoweb/laravel-accounting@13.4.2
+- pkg:composer/karnoweb/laravel-accounting@13.4.3
+- pkg:composer/karnoweb/laravel-accounting@13.5.0
+- pkg:composer/karnoweb/laravel-accounting@13.6.0
+- pkg:composer/karnoweb/laravel-accounting@13.7.0
+- pkg:composer/karnoweb/laravel-accounting@13.8.0
