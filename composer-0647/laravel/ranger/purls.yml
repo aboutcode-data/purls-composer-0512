@@ -20,3 +20,4 @@
 - pkg:composer/laravel/ranger@v0.3.0
 - pkg:composer/laravel/ranger@v0.4.0
 - pkg:composer/laravel/ranger@v0.5.0
+- pkg:composer/laravel/ranger@v0.5.1
