@@ -13,3 +13,4 @@
 - pkg:composer/loantap/aws@1.8.4
 - pkg:composer/loantap/aws@1.8.5
 - pkg:composer/loantap/aws@1.8.6
+- pkg:composer/loantap/aws@1.9
