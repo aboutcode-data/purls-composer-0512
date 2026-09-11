@@ -49,6 +49,7 @@
 - pkg:composer/maclof/kubernetes-client@0.3.0
 - pkg:composer/maclof/kubernetes-client@0.30.0
 - pkg:composer/maclof/kubernetes-client@0.31.0
+- pkg:composer/maclof/kubernetes-client@0.32.0
 - pkg:composer/maclof/kubernetes-client@0.4.0
 - pkg:composer/maclof/kubernetes-client@0.4.1
 - pkg:composer/maclof/kubernetes-client@0.4.2
