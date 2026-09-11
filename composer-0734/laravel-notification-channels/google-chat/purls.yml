@@ -6,3 +6,4 @@
 - pkg:composer/laravel-notification-channels/google-chat@v2.0.1
 - pkg:composer/laravel-notification-channels/google-chat@v3.0.0
 - pkg:composer/laravel-notification-channels/google-chat@v3.1.0
+- pkg:composer/laravel-notification-channels/google-chat@v4.0.0
