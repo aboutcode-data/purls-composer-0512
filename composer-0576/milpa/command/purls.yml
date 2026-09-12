@@ -11,6 +11,16 @@
 - pkg:composer/milpa/command@v0.18.0
 - pkg:composer/milpa/command@v0.19.0
 - pkg:composer/milpa/command@v0.2.0
+- pkg:composer/milpa/command@v0.20.0
+- pkg:composer/milpa/command@v0.21.0
+- pkg:composer/milpa/command@v0.22.0
+- pkg:composer/milpa/command@v0.23.0
+- pkg:composer/milpa/command@v0.24.0
+- pkg:composer/milpa/command@v0.25.0
+- pkg:composer/milpa/command@v0.25.1
+- pkg:composer/milpa/command@v0.25.2
+- pkg:composer/milpa/command@v0.25.3
+- pkg:composer/milpa/command@v0.25.4
 - pkg:composer/milpa/command@v0.3.0
 - pkg:composer/milpa/command@v0.3.1
 - pkg:composer/milpa/command@v0.4.0
