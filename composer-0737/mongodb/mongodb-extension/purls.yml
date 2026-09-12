@@ -57,6 +57,8 @@
 - pkg:composer/mongodb/mongodb-extension@1.21.5
 - pkg:composer/mongodb/mongodb-extension@1.21.6
 - pkg:composer/mongodb/mongodb-extension@1.21.7
+- pkg:composer/mongodb/mongodb-extension@1.21.8
+- pkg:composer/mongodb/mongodb-extension@1.21.9
 - pkg:composer/mongodb/mongodb-extension@2.0.0
 - pkg:composer/mongodb/mongodb-extension@2.1.0
 - pkg:composer/mongodb/mongodb-extension@2.1.1
@@ -65,6 +67,7 @@
 - pkg:composer/mongodb/mongodb-extension@2.1.4
 - pkg:composer/mongodb/mongodb-extension@2.1.7
 - pkg:composer/mongodb/mongodb-extension@2.1.8
+- pkg:composer/mongodb/mongodb-extension@2.1.9
 - pkg:composer/mongodb/mongodb-extension@2.2.0
 - pkg:composer/mongodb/mongodb-extension@2.2.1
 - pkg:composer/mongodb/mongodb-extension@2.3.0
@@ -73,3 +76,6 @@
 - pkg:composer/mongodb/mongodb-extension@2.3.3
 - pkg:composer/mongodb/mongodb-extension@2.4.0
 - pkg:composer/mongodb/mongodb-extension@2.4.1
+- pkg:composer/mongodb/mongodb-extension@2.5.0
+- pkg:composer/mongodb/mongodb-extension@2.5.1
+- pkg:composer/mongodb/mongodb-extension@2.5.2
