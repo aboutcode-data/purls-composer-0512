@@ -2,3 +2,5 @@
 - pkg:composer/mvpopuk/laravel-enhanced-failed-jobs@v1.0.1
 - pkg:composer/mvpopuk/laravel-enhanced-failed-jobs@v1.1.0
 - pkg:composer/mvpopuk/laravel-enhanced-failed-jobs@v1.1.1
+- pkg:composer/mvpopuk/laravel-enhanced-failed-jobs@v1.2.0
+- pkg:composer/mvpopuk/laravel-enhanced-failed-jobs@v1.3.0
