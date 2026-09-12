@@ -30,3 +30,5 @@
 - pkg:composer/kode/framework@v1.3.7
 - pkg:composer/kode/framework@v1.3.8
 - pkg:composer/kode/framework@v1.3.9
+- pkg:composer/kode/framework@v1.4.0
+- pkg:composer/kode/framework@v1.4.1
