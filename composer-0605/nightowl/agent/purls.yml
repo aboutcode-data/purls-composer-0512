@@ -71,3 +71,7 @@
 - pkg:composer/nightowl/agent@v2.3.1
 - pkg:composer/nightowl/agent@v2.3.2
 - pkg:composer/nightowl/agent@v2.3.3
+- pkg:composer/nightowl/agent@v2.4.1
+- pkg:composer/nightowl/agent@v2.4.2
+- pkg:composer/nightowl/agent@v2.4.3
+- pkg:composer/nightowl/agent@v2.4.4
