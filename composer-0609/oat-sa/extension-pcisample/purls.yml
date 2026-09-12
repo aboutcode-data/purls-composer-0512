@@ -81,6 +81,7 @@
 - pkg:composer/oat-sa/extension-pcisample@v3.8.9
 - pkg:composer/oat-sa/extension-pcisample@v3.9.0
 - pkg:composer/oat-sa/extension-pcisample@v3.9.1
+- pkg:composer/oat-sa/extension-pcisample@v3.9.10
 - pkg:composer/oat-sa/extension-pcisample@v3.9.2
 - pkg:composer/oat-sa/extension-pcisample@v3.9.3
 - pkg:composer/oat-sa/extension-pcisample@v3.9.4
