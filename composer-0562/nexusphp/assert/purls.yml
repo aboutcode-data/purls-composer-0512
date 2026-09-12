@@ -4,3 +4,4 @@
 - pkg:composer/nexusphp/assert@v1.2.0
 - pkg:composer/nexusphp/assert@v1.3.0
 - pkg:composer/nexusphp/assert@v1.4.0
+- pkg:composer/nexusphp/assert@v1.5.0
