@@ -3,6 +3,7 @@
 - pkg:composer/malsubrata/woo-wallet@v1.6.12
 - pkg:composer/malsubrata/woo-wallet@v1.6.13
 - pkg:composer/malsubrata/woo-wallet@v1.6.14
+- pkg:composer/malsubrata/woo-wallet@v1.6.15
 - pkg:composer/malsubrata/woo-wallet@v1.6.2
 - pkg:composer/malsubrata/woo-wallet@v1.6.3
 - pkg:composer/malsubrata/woo-wallet@v1.6.4
@@ -11,3 +12,4 @@
 - pkg:composer/malsubrata/woo-wallet@v1.6.7
 - pkg:composer/malsubrata/woo-wallet@v1.6.8
 - pkg:composer/malsubrata/woo-wallet@v1.6.9
+- pkg:composer/malsubrata/woo-wallet@v1.7.0
