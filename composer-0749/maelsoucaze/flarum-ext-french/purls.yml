@@ -74,6 +74,8 @@
 - pkg:composer/maelsoucaze/flarum-ext-french@v4.9.0
 - pkg:composer/maelsoucaze/flarum-ext-french@v5.0.0
 - pkg:composer/maelsoucaze/flarum-ext-french@v5.0.1
+- pkg:composer/maelsoucaze/flarum-ext-french@v5.0.10
+- pkg:composer/maelsoucaze/flarum-ext-french@v5.0.11
 - pkg:composer/maelsoucaze/flarum-ext-french@v5.0.2
 - pkg:composer/maelsoucaze/flarum-ext-french@v5.0.3
 - pkg:composer/maelsoucaze/flarum-ext-french@v5.0.4
