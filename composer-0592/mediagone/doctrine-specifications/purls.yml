@@ -33,3 +33,4 @@
 - pkg:composer/mediagone/doctrine-specifications@0.4.8
 - pkg:composer/mediagone/doctrine-specifications@0.4.9
 - pkg:composer/mediagone/doctrine-specifications@0.5.0
+- pkg:composer/mediagone/doctrine-specifications@0.5.1
