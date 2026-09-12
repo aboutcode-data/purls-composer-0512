@@ -84,4 +84,6 @@
 - pkg:composer/openculturas/openculturas-distribution@3.0.4
 - pkg:composer/openculturas/openculturas-distribution@3.0.5
 - pkg:composer/openculturas/openculturas-distribution@3.0.6
+- pkg:composer/openculturas/openculturas-distribution@3.0.7
 - pkg:composer/openculturas/openculturas-distribution@3.1.0-rc1
+- pkg:composer/openculturas/openculturas-distribution@3.1.0-rc2
