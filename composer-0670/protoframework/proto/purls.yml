@@ -273,7 +273,9 @@
 - pkg:composer/protoframework/proto@2.0.16
 - pkg:composer/protoframework/proto@2.0.17
 - pkg:composer/protoframework/proto@2.0.18
+- pkg:composer/protoframework/proto@2.0.19
 - pkg:composer/protoframework/proto@2.0.2
+- pkg:composer/protoframework/proto@2.0.20
 - pkg:composer/protoframework/proto@2.0.3
 - pkg:composer/protoframework/proto@2.0.4
 - pkg:composer/protoframework/proto@2.0.5
