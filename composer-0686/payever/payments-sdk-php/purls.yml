@@ -42,3 +42,4 @@
 - pkg:composer/payever/payments-sdk-php@2.8.4
 - pkg:composer/payever/payments-sdk-php@2.8.5
 - pkg:composer/payever/payments-sdk-php@2.9.0
+- pkg:composer/payever/payments-sdk-php@2.9.1
