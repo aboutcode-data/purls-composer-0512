@@ -18,3 +18,4 @@
 - pkg:composer/rapidez/strapi@2.0.0
 - pkg:composer/rapidez/strapi@3.0.0
 - pkg:composer/rapidez/strapi@4.0.0
+- pkg:composer/rapidez/strapi@5.0.0

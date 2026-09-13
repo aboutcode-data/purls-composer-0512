@@ -16,6 +16,7 @@
 - pkg:composer/rapidez/checkout-theme@2.11.1
 - pkg:composer/rapidez/checkout-theme@2.11.2
 - pkg:composer/rapidez/checkout-theme@2.12.0
+- pkg:composer/rapidez/checkout-theme@2.12.1
 - pkg:composer/rapidez/checkout-theme@2.2.0
 - pkg:composer/rapidez/checkout-theme@2.3.0
 - pkg:composer/rapidez/checkout-theme@2.3.1
@@ -36,6 +37,7 @@
 - pkg:composer/rapidez/checkout-theme@3.1.1
 - pkg:composer/rapidez/checkout-theme@3.1.2
 - pkg:composer/rapidez/checkout-theme@3.1.3
+- pkg:composer/rapidez/checkout-theme@3.1.4
 - pkg:composer/rapidez/checkout-theme@4.0.0
 - pkg:composer/rapidez/checkout-theme@4.0.1
 - pkg:composer/rapidez/checkout-theme@4.0.2
@@ -47,8 +49,10 @@
 - pkg:composer/rapidez/checkout-theme@4.4.1
 - pkg:composer/rapidez/checkout-theme@4.5.0
 - pkg:composer/rapidez/checkout-theme@4.6.0
+- pkg:composer/rapidez/checkout-theme@4.6.1
 - pkg:composer/rapidez/checkout-theme@5.0.0
 - pkg:composer/rapidez/checkout-theme@5.0.0-alpha.1
 - pkg:composer/rapidez/checkout-theme@5.0.0-beta.1
 - pkg:composer/rapidez/checkout-theme@5.0.1
 - pkg:composer/rapidez/checkout-theme@5.0.2
+- pkg:composer/rapidez/checkout-theme@5.0.3
