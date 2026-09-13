@@ -36,3 +36,4 @@
 - pkg:composer/reyhanteam/laravel-telegram-bot-router@v1.3.7
 - pkg:composer/reyhanteam/laravel-telegram-bot-router@v1.3.8
 - pkg:composer/reyhanteam/laravel-telegram-bot-router@v1.3.9
+- pkg:composer/reyhanteam/laravel-telegram-bot-router@v2.0.0
