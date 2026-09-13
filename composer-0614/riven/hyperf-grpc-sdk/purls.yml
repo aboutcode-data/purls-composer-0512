@@ -1,2 +1,3 @@
 - pkg:composer/riven/hyperf-grpc-sdk@v1.0
 - pkg:composer/riven/hyperf-grpc-sdk@v1.1
+- pkg:composer/riven/hyperf-grpc-sdk@v1.2
