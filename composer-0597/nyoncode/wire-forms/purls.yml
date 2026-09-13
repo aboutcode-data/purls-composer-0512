@@ -32,3 +32,4 @@
 - pkg:composer/nyoncode/wire-forms@1.8.0
 - pkg:composer/nyoncode/wire-forms@1.9.0
 - pkg:composer/nyoncode/wire-forms@1.9.1
+- pkg:composer/nyoncode/wire-forms@2.0.0
