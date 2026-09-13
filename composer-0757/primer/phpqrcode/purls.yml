@@ -2,3 +2,4 @@
 - pkg:composer/primer/phpqrcode@1.2.1
 - pkg:composer/primer/phpqrcode@1.2.3
 - pkg:composer/primer/phpqrcode@1.4.0
+- pkg:composer/primer/phpqrcode@1.6.0
