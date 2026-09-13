@@ -1,1 +1,2 @@
 - pkg:composer/prepmock/idiorm@v1.0.0
+- pkg:composer/prepmock/idiorm@v2.0.0
