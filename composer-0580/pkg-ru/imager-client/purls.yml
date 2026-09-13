@@ -1,1 +1,3 @@
-- pkg:composer/pkg-ru/imager-client@1.0.0
+- pkg:composer/pkg-ru/imager-client@v2.0.2
+- pkg:composer/pkg-ru/imager-client@v2.0.3
+- pkg:composer/pkg-ru/imager-client@v2.0.4
