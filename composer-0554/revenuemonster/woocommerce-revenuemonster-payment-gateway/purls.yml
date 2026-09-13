@@ -1,4 +1,6 @@
 - pkg:composer/revenuemonster/woocommerce-revenuemonster-payment-gateway@v1.0.0
+- pkg:composer/revenuemonster/woocommerce-revenuemonster-payment-gateway@v1.0.10
+- pkg:composer/revenuemonster/woocommerce-revenuemonster-payment-gateway@v1.0.11
 - pkg:composer/revenuemonster/woocommerce-revenuemonster-payment-gateway@v1.0.7
 - pkg:composer/revenuemonster/woocommerce-revenuemonster-payment-gateway@v1.0.8
 - pkg:composer/revenuemonster/woocommerce-revenuemonster-payment-gateway@v1.0.9
