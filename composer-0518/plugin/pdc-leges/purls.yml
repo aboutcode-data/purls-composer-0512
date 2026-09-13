@@ -28,3 +28,4 @@
 - pkg:composer/plugin/pdc-leges@v2.2.8
 - pkg:composer/plugin/pdc-leges@v2.2.9
 - pkg:composer/plugin/pdc-leges@v2.3.0
+- pkg:composer/plugin/pdc-leges@v2.4.0
