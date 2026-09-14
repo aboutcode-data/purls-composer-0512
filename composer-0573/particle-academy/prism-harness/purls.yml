@@ -1,6 +1,7 @@
 - pkg:composer/particle-academy/prism-harness@v0.1.0
 - pkg:composer/particle-academy/prism-harness@v0.1.1
 - pkg:composer/particle-academy/prism-harness@v0.1.2
+- pkg:composer/particle-academy/prism-harness@v0.10.0
 - pkg:composer/particle-academy/prism-harness@v0.2.0
 - pkg:composer/particle-academy/prism-harness@v0.2.1
 - pkg:composer/particle-academy/prism-harness@v0.3.0
@@ -13,3 +14,5 @@
 - pkg:composer/particle-academy/prism-harness@v0.8.0
 - pkg:composer/particle-academy/prism-harness@v0.8.1
 - pkg:composer/particle-academy/prism-harness@v0.8.2
+- pkg:composer/particle-academy/prism-harness@v0.9.0
+- pkg:composer/particle-academy/prism-harness@v0.9.1
