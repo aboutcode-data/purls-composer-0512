@@ -117,6 +117,8 @@
 - pkg:composer/rollun-com/rollun-callback@6.11.0
 - pkg:composer/rollun-com/rollun-callback@6.11.1
 - pkg:composer/rollun-com/rollun-callback@6.11.2
+- pkg:composer/rollun-com/rollun-callback@6.11.3
+- pkg:composer/rollun-com/rollun-callback@6.11.4
 - pkg:composer/rollun-com/rollun-callback@6.6.7
 - pkg:composer/rollun-com/rollun-callback@6.6.8
 - pkg:composer/rollun-com/rollun-callback@6.7.0
@@ -134,7 +136,11 @@
 - pkg:composer/rollun-com/rollun-callback@7.4.0
 - pkg:composer/rollun-com/rollun-callback@7.5.0
 - pkg:composer/rollun-com/rollun-callback@7.6.0
+- pkg:composer/rollun-com/rollun-callback@7.6.1
+- pkg:composer/rollun-com/rollun-callback@7.6.2
 - pkg:composer/rollun-com/rollun-callback@8.0.0
 - pkg:composer/rollun-com/rollun-callback@8.1.0
 - pkg:composer/rollun-com/rollun-callback@8.2.0
+- pkg:composer/rollun-com/rollun-callback@8.2.1
+- pkg:composer/rollun-com/rollun-callback@8.2.2
 - pkg:composer/rollun-com/rollun-callback@v1.0.0
