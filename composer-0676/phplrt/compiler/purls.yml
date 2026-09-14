@@ -74,3 +74,4 @@
 - pkg:composer/phplrt/compiler@4.1.0
 - pkg:composer/phplrt/compiler@4.1.1
 - pkg:composer/phplrt/compiler@4.1.2
+- pkg:composer/phplrt/compiler@4.1.3

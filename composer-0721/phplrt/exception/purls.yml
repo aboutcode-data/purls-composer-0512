@@ -58,3 +58,4 @@
 - pkg:composer/phplrt/exception@4.1.0
 - pkg:composer/phplrt/exception@4.1.1
 - pkg:composer/phplrt/exception@4.1.2
+- pkg:composer/phplrt/exception@4.1.3
