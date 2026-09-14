@@ -1,0 +1,2 @@
+- pkg:composer/open-telemetry/operator-autoinstrumentation-php@1.4.0
+- pkg:composer/open-telemetry/operator-autoinstrumentation-php@1.4.1
