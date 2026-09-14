@@ -445,3 +445,4 @@
 - pkg:composer/roots/wordpress-full@7.1-beta2
 - pkg:composer/roots/wordpress-full@7.1-beta3
 - pkg:composer/roots/wordpress-full@7.1-beta4
+- pkg:composer/roots/wordpress-full@7.1.1-RC1
