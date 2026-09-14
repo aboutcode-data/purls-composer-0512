@@ -1,2 +1,3 @@
 - pkg:composer/romanfedorskij/message-bus-amphp@v1.0.0
 - pkg:composer/romanfedorskij/message-bus-amphp@v5.0.0
+- pkg:composer/romanfedorskij/message-bus-amphp@v6.1.0
