@@ -44,6 +44,10 @@
 - pkg:composer/spryker/store@1.36.1
 - pkg:composer/spryker/store@1.36.2
 - pkg:composer/spryker/store@1.37.0
+- pkg:composer/spryker/store@1.37.1
+- pkg:composer/spryker/store@1.38.0
+- pkg:composer/spryker/store@1.39.0
+- pkg:composer/spryker/store@1.39.1
 - pkg:composer/spryker/store@1.4.0
 - pkg:composer/spryker/store@1.5.0
 - pkg:composer/spryker/store@1.5.1
