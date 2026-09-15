@@ -1,3 +1,5 @@
 - pkg:composer/statikbe/laravel-filament-solaris@0.1.0
 - pkg:composer/statikbe/laravel-filament-solaris@0.2.0
 - pkg:composer/statikbe/laravel-filament-solaris@0.3.0
+- pkg:composer/statikbe/laravel-filament-solaris@0.4.0
+- pkg:composer/statikbe/laravel-filament-solaris@0.4.1
