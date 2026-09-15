@@ -6,3 +6,5 @@
 - pkg:composer/shwaeki/laravel-dynamictable@v2.0.0
 - pkg:composer/shwaeki/laravel-dynamictable@v2.1.0
 - pkg:composer/shwaeki/laravel-dynamictable@v2.2.0
+- pkg:composer/shwaeki/laravel-dynamictable@v3.0.0
+- pkg:composer/shwaeki/laravel-dynamictable@v3.0.1
