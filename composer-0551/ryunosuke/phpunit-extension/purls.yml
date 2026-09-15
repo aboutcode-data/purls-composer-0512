@@ -47,3 +47,4 @@
 - pkg:composer/ryunosuke/phpunit-extension@v4.3.1
 - pkg:composer/ryunosuke/phpunit-extension@v4.4.0
 - pkg:composer/ryunosuke/phpunit-extension@v4.4.1
+- pkg:composer/ryunosuke/phpunit-extension@v4.5.0
