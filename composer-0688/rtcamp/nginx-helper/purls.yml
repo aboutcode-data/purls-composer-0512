@@ -24,3 +24,5 @@
 - pkg:composer/rtcamp/nginx-helper@2.3.3
 - pkg:composer/rtcamp/nginx-helper@2.3.4
 - pkg:composer/rtcamp/nginx-helper@2.3.5
+- pkg:composer/rtcamp/nginx-helper@2.4.0
+- pkg:composer/rtcamp/nginx-helper@2.4.1
