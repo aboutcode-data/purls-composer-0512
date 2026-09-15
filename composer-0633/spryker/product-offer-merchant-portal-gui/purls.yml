@@ -82,3 +82,6 @@
 - pkg:composer/spryker/product-offer-merchant-portal-gui@3.1.0
 - pkg:composer/spryker/product-offer-merchant-portal-gui@4.0.0
 - pkg:composer/spryker/product-offer-merchant-portal-gui@4.1.0
+- pkg:composer/spryker/product-offer-merchant-portal-gui@4.2.0
+- pkg:composer/spryker/product-offer-merchant-portal-gui@4.3.0
+- pkg:composer/spryker/product-offer-merchant-portal-gui@4.3.1
