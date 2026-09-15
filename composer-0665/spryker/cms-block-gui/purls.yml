@@ -28,6 +28,7 @@
 - pkg:composer/spryker/cms-block-gui@2.16.0
 - pkg:composer/spryker/cms-block-gui@2.16.1
 - pkg:composer/spryker/cms-block-gui@2.17.0
+- pkg:composer/spryker/cms-block-gui@2.18.0
 - pkg:composer/spryker/cms-block-gui@2.2.0
 - pkg:composer/spryker/cms-block-gui@2.3.0
 - pkg:composer/spryker/cms-block-gui@2.3.1
