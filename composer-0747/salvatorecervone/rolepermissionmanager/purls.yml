@@ -19,6 +19,11 @@
 - pkg:composer/salvatorecervone/rolepermissionmanager@v1.2.3
 - pkg:composer/salvatorecervone/rolepermissionmanager@v1.3.0
 - pkg:composer/salvatorecervone/rolepermissionmanager@v1.3.1
+- pkg:composer/salvatorecervone/rolepermissionmanager@v1.3.10
+- pkg:composer/salvatorecervone/rolepermissionmanager@v1.3.11
+- pkg:composer/salvatorecervone/rolepermissionmanager@v1.3.12
+- pkg:composer/salvatorecervone/rolepermissionmanager@v1.3.13
+- pkg:composer/salvatorecervone/rolepermissionmanager@v1.3.14
 - pkg:composer/salvatorecervone/rolepermissionmanager@v1.3.2
 - pkg:composer/salvatorecervone/rolepermissionmanager@v1.3.3
 - pkg:composer/salvatorecervone/rolepermissionmanager@v1.3.4
@@ -27,3 +32,12 @@
 - pkg:composer/salvatorecervone/rolepermissionmanager@v1.3.7
 - pkg:composer/salvatorecervone/rolepermissionmanager@v1.3.8
 - pkg:composer/salvatorecervone/rolepermissionmanager@v1.3.9
+- pkg:composer/salvatorecervone/rolepermissionmanager@v1.4.0
+- pkg:composer/salvatorecervone/rolepermissionmanager@v1.4.1
+- pkg:composer/salvatorecervone/rolepermissionmanager@v1.4.2
+- pkg:composer/salvatorecervone/rolepermissionmanager@v1.4.3
+- pkg:composer/salvatorecervone/rolepermissionmanager@v1.4.4
+- pkg:composer/salvatorecervone/rolepermissionmanager@v1.4.5
+- pkg:composer/salvatorecervone/rolepermissionmanager@v1.4.6
+- pkg:composer/salvatorecervone/rolepermissionmanager@v1.4.7
+- pkg:composer/salvatorecervone/rolepermissionmanager@v1.4.8
