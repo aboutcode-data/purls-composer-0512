@@ -9,3 +9,4 @@
 - pkg:composer/samwilson/commonmark-shortcodes@0.5.1
 - pkg:composer/samwilson/commonmark-shortcodes@0.6.0
 - pkg:composer/samwilson/commonmark-shortcodes@0.6.1
+- pkg:composer/samwilson/commonmark-shortcodes@1.0.0
