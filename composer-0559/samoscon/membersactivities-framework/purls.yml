@@ -1,4 +1,3 @@
-- pkg:composer/samoscon/membersactivities-framework@1.0.26
 - pkg:composer/samoscon/membersactivities-framework@V1.0.2
 - pkg:composer/samoscon/membersactivities-framework@v1.0.0
 - pkg:composer/samoscon/membersactivities-framework@v1.0.10
@@ -17,6 +16,8 @@
 - pkg:composer/samoscon/membersactivities-framework@v1.0.23
 - pkg:composer/samoscon/membersactivities-framework@v1.0.24
 - pkg:composer/samoscon/membersactivities-framework@v1.0.25
+- pkg:composer/samoscon/membersactivities-framework@v1.0.27
+- pkg:composer/samoscon/membersactivities-framework@v1.0.29
 - pkg:composer/samoscon/membersactivities-framework@v1.0.3
 - pkg:composer/samoscon/membersactivities-framework@v1.0.4
 - pkg:composer/samoscon/membersactivities-framework@v1.0.5
