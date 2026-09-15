@@ -10,3 +10,4 @@
 - pkg:composer/salesrender/plugin-core-chat@0.2.1
 - pkg:composer/salesrender/plugin-core-chat@0.2.2
 - pkg:composer/salesrender/plugin-core-chat@0.3.0
+- pkg:composer/salesrender/plugin-core-chat@1.0.0
