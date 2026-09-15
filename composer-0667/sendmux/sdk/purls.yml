@@ -1,1 +1,3 @@
 - pkg:composer/sendmux/sdk@v1.0.0
+- pkg:composer/sendmux/sdk@v2.0.0
+- pkg:composer/sendmux/sdk@v2.1.0

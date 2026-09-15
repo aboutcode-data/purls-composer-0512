@@ -42,7 +42,9 @@
 - pkg:composer/sendly/sendly-php@3.37.0
 - pkg:composer/sendly/sendly-php@3.37.1
 - pkg:composer/sendly/sendly-php@3.38.0
+- pkg:composer/sendly/sendly-php@3.39.0
 - pkg:composer/sendly/sendly-php@3.4.0
+- pkg:composer/sendly/sendly-php@3.40.0
 - pkg:composer/sendly/sendly-php@3.5.2
 - pkg:composer/sendly/sendly-php@3.5.3
 - pkg:composer/sendly/sendly-php@3.5.4
@@ -52,5 +54,7 @@
 - pkg:composer/sendly/sendly-php@3.8.1
 - pkg:composer/sendly/sendly-php@3.8.2
 - pkg:composer/sendly/sendly-php@3.9.0
+- pkg:composer/sendly/sendly-php@4.0.0
+- pkg:composer/sendly/sendly-php@4.1.0
 - pkg:composer/sendly/sendly-php@v1.0.5
 - pkg:composer/sendly/sendly-php@v2.1.0
