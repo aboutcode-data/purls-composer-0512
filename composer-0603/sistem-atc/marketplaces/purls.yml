@@ -19,6 +19,16 @@
 - pkg:composer/sistem-atc/marketplaces@2.1.1
 - pkg:composer/sistem-atc/marketplaces@2.2.0
 - pkg:composer/sistem-atc/marketplaces@2.3.0
+- pkg:composer/sistem-atc/marketplaces@v2.10.0
+- pkg:composer/sistem-atc/marketplaces@v2.11.0
+- pkg:composer/sistem-atc/marketplaces@v2.11.1
+- pkg:composer/sistem-atc/marketplaces@v2.12.0
+- pkg:composer/sistem-atc/marketplaces@v2.13.0
+- pkg:composer/sistem-atc/marketplaces@v2.14.0
+- pkg:composer/sistem-atc/marketplaces@v2.15.0
+- pkg:composer/sistem-atc/marketplaces@v2.15.1
+- pkg:composer/sistem-atc/marketplaces@v2.16.0
+- pkg:composer/sistem-atc/marketplaces@v2.17.0
 - pkg:composer/sistem-atc/marketplaces@v2.4.0
 - pkg:composer/sistem-atc/marketplaces@v2.4.1
 - pkg:composer/sistem-atc/marketplaces@v2.4.2
