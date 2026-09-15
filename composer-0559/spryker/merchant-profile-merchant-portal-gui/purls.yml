@@ -59,3 +59,5 @@
 - pkg:composer/spryker/merchant-profile-merchant-portal-gui@4.0.0
 - pkg:composer/spryker/merchant-profile-merchant-portal-gui@4.1.0
 - pkg:composer/spryker/merchant-profile-merchant-portal-gui@4.2.0
+- pkg:composer/spryker/merchant-profile-merchant-portal-gui@4.3.0
+- pkg:composer/spryker/merchant-profile-merchant-portal-gui@4.4.0
