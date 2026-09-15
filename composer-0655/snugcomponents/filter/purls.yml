@@ -35,3 +35,4 @@
 - pkg:composer/snugcomponents/filter@v2.6.1
 - pkg:composer/snugcomponents/filter@v2.6.2
 - pkg:composer/snugcomponents/filter@v2.7.0
+- pkg:composer/snugcomponents/filter@v3.0.0
