@@ -2,3 +2,5 @@
 - pkg:composer/solution-forest/workflow-engine-core@v0.0.2-alpha
 - pkg:composer/solution-forest/workflow-engine-core@v0.0.3-alpha
 - pkg:composer/solution-forest/workflow-engine-core@v0.0.4-alpha
+- pkg:composer/solution-forest/workflow-engine-core@v1.0.0
+- pkg:composer/solution-forest/workflow-engine-core@v2.0.0
