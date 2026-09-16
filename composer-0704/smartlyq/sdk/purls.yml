@@ -22,6 +22,12 @@
 - pkg:composer/smartlyq/sdk@v0.1.28
 - pkg:composer/smartlyq/sdk@v0.1.29
 - pkg:composer/smartlyq/sdk@v0.1.3
+- pkg:composer/smartlyq/sdk@v0.1.30
+- pkg:composer/smartlyq/sdk@v0.1.31
+- pkg:composer/smartlyq/sdk@v0.1.32
+- pkg:composer/smartlyq/sdk@v0.1.33
+- pkg:composer/smartlyq/sdk@v0.1.34
+- pkg:composer/smartlyq/sdk@v0.1.35
 - pkg:composer/smartlyq/sdk@v0.1.4
 - pkg:composer/smartlyq/sdk@v0.1.5
 - pkg:composer/smartlyq/sdk@v0.1.6
