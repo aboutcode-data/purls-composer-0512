@@ -668,6 +668,7 @@
 - pkg:composer/symfony/serializer@v6.4.43
 - pkg:composer/symfony/serializer@v6.4.44
 - pkg:composer/symfony/serializer@v6.4.45
+- pkg:composer/symfony/serializer@v6.4.46
 - pkg:composer/symfony/serializer@v6.4.6
 - pkg:composer/symfony/serializer@v6.4.7
 - pkg:composer/symfony/serializer@v6.4.8
@@ -733,6 +734,7 @@
 - pkg:composer/symfony/serializer@v7.4.16
 - pkg:composer/symfony/serializer@v7.4.17
 - pkg:composer/symfony/serializer@v7.4.18
+- pkg:composer/symfony/serializer@v7.4.19
 - pkg:composer/symfony/serializer@v7.4.2
 - pkg:composer/symfony/serializer@v7.4.3
 - pkg:composer/symfony/serializer@v7.4.4
@@ -766,3 +768,4 @@
 - pkg:composer/symfony/serializer@v8.1.4
 - pkg:composer/symfony/serializer@v8.1.5
 - pkg:composer/symfony/serializer@v8.1.6
+- pkg:composer/symfony/serializer@v8.1.7

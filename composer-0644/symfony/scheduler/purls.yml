@@ -83,3 +83,4 @@
 - pkg:composer/symfony/scheduler@v8.1.0-RC1
 - pkg:composer/symfony/scheduler@v8.1.2
 - pkg:composer/symfony/scheduler@v8.1.5
+- pkg:composer/symfony/scheduler@v8.1.7
