@@ -80,3 +80,4 @@
 - pkg:composer/thelia/thelia@3.0.0-beta3
 - pkg:composer/thelia/thelia@3.0.0-beta4
 - pkg:composer/thelia/thelia@3.0.0-beta5
+- pkg:composer/thelia/thelia@3.1.0
