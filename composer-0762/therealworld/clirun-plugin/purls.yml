@@ -110,6 +110,8 @@
 - pkg:composer/therealworld/clirun-plugin@v4.0.4
 - pkg:composer/therealworld/clirun-plugin@v4.0.40
 - pkg:composer/therealworld/clirun-plugin@v4.0.41
+- pkg:composer/therealworld/clirun-plugin@v4.0.42
+- pkg:composer/therealworld/clirun-plugin@v4.0.43
 - pkg:composer/therealworld/clirun-plugin@v4.0.5
 - pkg:composer/therealworld/clirun-plugin@v4.0.6
 - pkg:composer/therealworld/clirun-plugin@v4.0.7
