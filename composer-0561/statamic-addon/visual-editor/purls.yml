@@ -51,6 +51,8 @@
 - pkg:composer/statamic-addon/visual-editor@v1.1.134
 - pkg:composer/statamic-addon/visual-editor@v1.1.135
 - pkg:composer/statamic-addon/visual-editor@v1.1.136
+- pkg:composer/statamic-addon/visual-editor@v1.1.137
+- pkg:composer/statamic-addon/visual-editor@v1.1.138
 - pkg:composer/statamic-addon/visual-editor@v1.1.14
 - pkg:composer/statamic-addon/visual-editor@v1.1.15
 - pkg:composer/statamic-addon/visual-editor@v1.1.16
