@@ -109,6 +109,7 @@
 - pkg:composer/psalm/plugin-laravel@v3.15.6
 - pkg:composer/psalm/plugin-laravel@v3.15.7
 - pkg:composer/psalm/plugin-laravel@v3.16.0
+- pkg:composer/psalm/plugin-laravel@v3.16.1
 - pkg:composer/psalm/plugin-laravel@v3.2.0
 - pkg:composer/psalm/plugin-laravel@v3.2.1
 - pkg:composer/psalm/plugin-laravel@v3.2.2
