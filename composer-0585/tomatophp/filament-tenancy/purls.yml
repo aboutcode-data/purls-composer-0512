@@ -1,3 +1,4 @@
+- pkg:composer/tomatophp/filament-tenancy@5.0.0
 - pkg:composer/tomatophp/filament-tenancy@v1.0.0
 - pkg:composer/tomatophp/filament-tenancy@v1.0.1
 - pkg:composer/tomatophp/filament-tenancy@v1.0.2

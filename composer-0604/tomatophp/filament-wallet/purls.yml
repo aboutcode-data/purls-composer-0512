@@ -1,4 +1,5 @@
 - pkg:composer/tomatophp/filament-wallet@4.0.0
+- pkg:composer/tomatophp/filament-wallet@5.0.0
 - pkg:composer/tomatophp/filament-wallet@v1.0.0
 - pkg:composer/tomatophp/filament-wallet@v1.0.1
 - pkg:composer/tomatophp/filament-wallet@v1.0.2

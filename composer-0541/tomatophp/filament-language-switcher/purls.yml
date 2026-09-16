@@ -1,5 +1,6 @@
 - pkg:composer/tomatophp/filament-language-switcher@4.0.0
 - pkg:composer/tomatophp/filament-language-switcher@4.0.1
+- pkg:composer/tomatophp/filament-language-switcher@5.0.0
 - pkg:composer/tomatophp/filament-language-switcher@v1.0.0
 - pkg:composer/tomatophp/filament-language-switcher@v1.0.1
 - pkg:composer/tomatophp/filament-language-switcher@v1.0.2
