@@ -64,3 +64,5 @@
 - pkg:composer/typo3/form@6.0.3
 - pkg:composer/typo3/form@6.1.0
 - pkg:composer/typo3/form@6.1.1
+- pkg:composer/typo3/form@6.1.2
+- pkg:composer/typo3/form@6.1.3
