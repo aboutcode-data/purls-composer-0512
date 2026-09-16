@@ -1304,5 +1304,7 @@
 - pkg:composer/pushword/conversation@1.0.4
 - pkg:composer/pushword/conversation@1.0.5
 - pkg:composer/pushword/conversation@1.0.6
+- pkg:composer/pushword/conversation@1.0.7
+- pkg:composer/pushword/conversation@1.0.8
 - pkg:composer/pushword/conversation@v0.0.33
 - pkg:composer/pushword/conversation@v0.0.35
