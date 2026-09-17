@@ -32,3 +32,4 @@
 - pkg:composer/ufo-tech/json-rpc-client-sdk@4.3.3
 - pkg:composer/ufo-tech/json-rpc-client-sdk@4.3.4
 - pkg:composer/ufo-tech/json-rpc-client-sdk@4.4.0
+- pkg:composer/ufo-tech/json-rpc-client-sdk@5.0.1
