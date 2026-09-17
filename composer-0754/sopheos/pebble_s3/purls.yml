@@ -1,3 +1,5 @@
 - pkg:composer/sopheos/pebble_s3@1.0.0
 - pkg:composer/sopheos/pebble_s3@1.1.0
 - pkg:composer/sopheos/pebble_s3@1.1.1
+- pkg:composer/sopheos/pebble_s3@1.1.2
+- pkg:composer/sopheos/pebble_s3@1.1.3
