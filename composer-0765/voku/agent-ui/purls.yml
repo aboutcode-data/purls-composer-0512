@@ -4,3 +4,10 @@
 - pkg:composer/voku/agent-ui@0.12.2
 - pkg:composer/voku/agent-ui@0.13.0
 - pkg:composer/voku/agent-ui@0.14.0
+- pkg:composer/voku/agent-ui@0.14.1
+- pkg:composer/voku/agent-ui@0.15.0
+- pkg:composer/voku/agent-ui@0.15.1
+- pkg:composer/voku/agent-ui@0.15.2
+- pkg:composer/voku/agent-ui@0.15.3
+- pkg:composer/voku/agent-ui@0.16.0
+- pkg:composer/voku/agent-ui@0.17.0
