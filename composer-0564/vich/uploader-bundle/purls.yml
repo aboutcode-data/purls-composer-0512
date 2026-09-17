@@ -91,6 +91,7 @@
 - pkg:composer/vich/uploader-bundle@v0.8.1
 - pkg:composer/vich/uploader-bundle@v0.9.0
 - pkg:composer/vich/uploader-bundle@v2.10.0
+- pkg:composer/vich/uploader-bundle@v2.10.1
 - pkg:composer/vich/uploader-bundle@v2.4.2
 - pkg:composer/vich/uploader-bundle@v2.4.3
 - pkg:composer/vich/uploader-bundle@v2.5.0
@@ -105,6 +106,7 @@
 - pkg:composer/vich/uploader-bundle@v2.9.2
 - pkg:composer/vich/uploader-bundle@v2.9.3
 - pkg:composer/vich/uploader-bundle@v2.9.4
+- pkg:composer/vich/uploader-bundle@v3.0.0
 - pkg:composer/vich/uploader-bundle@v3.0.0-rc
 - pkg:composer/vich/uploader-bundle@v3.0.0-rc2
 - pkg:composer/vich/uploader-bundle@v3.0.0-rc3
