@@ -54,6 +54,7 @@
 - pkg:composer/temporal/sdk@v2.17.0
 - pkg:composer/temporal/sdk@v2.17.1
 - pkg:composer/temporal/sdk@v2.18
+- pkg:composer/temporal/sdk@v2.19
 - pkg:composer/temporal/sdk@v2.2.0
 - pkg:composer/temporal/sdk@v2.2.1
 - pkg:composer/temporal/sdk@v2.3.0
