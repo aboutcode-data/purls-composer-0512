@@ -194,4 +194,5 @@
 - pkg:composer/spryker/customer@7.84.0
 - pkg:composer/spryker/customer@7.85.0
 - pkg:composer/spryker/customer@7.86.0
+- pkg:composer/spryker/customer@7.86.1
 - pkg:composer/spryker/customer@7.9.0
