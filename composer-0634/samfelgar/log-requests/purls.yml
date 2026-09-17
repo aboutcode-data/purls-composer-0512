@@ -1,3 +1,4 @@
+- pkg:composer/samfelgar/log-requests@3.0.0
 - pkg:composer/samfelgar/log-requests@v1.0
 - pkg:composer/samfelgar/log-requests@v2.0
 - pkg:composer/samfelgar/log-requests@v2.1
