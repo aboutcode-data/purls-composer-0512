@@ -10,3 +10,4 @@
 - pkg:composer/seatplus/esi-schema@5.0.0
 - pkg:composer/seatplus/esi-schema@5.1.0
 - pkg:composer/seatplus/esi-schema@5.1.1
+- pkg:composer/seatplus/esi-schema@6.0.0
