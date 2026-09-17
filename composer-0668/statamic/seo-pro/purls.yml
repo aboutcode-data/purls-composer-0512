@@ -102,6 +102,7 @@
 - pkg:composer/statamic/seo-pro@v7.13.3
 - pkg:composer/statamic/seo-pro@v7.14.0
 - pkg:composer/statamic/seo-pro@v7.14.1
+- pkg:composer/statamic/seo-pro@v7.14.2
 - pkg:composer/statamic/seo-pro@v7.2.0
 - pkg:composer/statamic/seo-pro@v7.3.0
 - pkg:composer/statamic/seo-pro@v7.4.0
