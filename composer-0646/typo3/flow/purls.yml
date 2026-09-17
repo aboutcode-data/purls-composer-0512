@@ -549,3 +549,4 @@
 - pkg:composer/typo3/flow@9.2.0-beta3
 - pkg:composer/typo3/flow@9.2.0-beta4
 - pkg:composer/typo3/flow@9.2.0-beta5
+- pkg:composer/typo3/flow@9.2.0-beta6
