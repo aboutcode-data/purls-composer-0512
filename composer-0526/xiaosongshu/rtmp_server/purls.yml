@@ -61,3 +61,5 @@
 - pkg:composer/xiaosongshu/rtmp_server@v2.5.8
 - pkg:composer/xiaosongshu/rtmp_server@v2.5.9
 - pkg:composer/xiaosongshu/rtmp_server@v2.6.0
+- pkg:composer/xiaosongshu/rtmp_server@v2.6.1
+- pkg:composer/xiaosongshu/rtmp_server@v2.6.2
