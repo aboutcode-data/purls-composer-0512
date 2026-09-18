@@ -13,3 +13,5 @@
 - pkg:composer/zonuexe/simple-routing@0.5.2
 - pkg:composer/zonuexe/simple-routing@0.5.3
 - pkg:composer/zonuexe/simple-routing@0.6.0
+- pkg:composer/zonuexe/simple-routing@0.7.0
+- pkg:composer/zonuexe/simple-routing@0.7.1
