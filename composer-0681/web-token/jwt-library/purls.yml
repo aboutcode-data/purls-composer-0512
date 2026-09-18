@@ -36,3 +36,4 @@
 - pkg:composer/web-token/jwt-library@4.2.0
 - pkg:composer/web-token/jwt-library@4.2.1
 - pkg:composer/web-token/jwt-library@4.2.2
+- pkg:composer/web-token/jwt-library@4.2.3
