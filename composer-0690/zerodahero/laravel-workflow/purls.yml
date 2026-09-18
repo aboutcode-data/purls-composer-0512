@@ -37,3 +37,4 @@
 - pkg:composer/zerodahero/laravel-workflow@v6.1.0
 - pkg:composer/zerodahero/laravel-workflow@v6.2.0
 - pkg:composer/zerodahero/laravel-workflow@v6.3.0
+- pkg:composer/zerodahero/laravel-workflow@v6.4.0
