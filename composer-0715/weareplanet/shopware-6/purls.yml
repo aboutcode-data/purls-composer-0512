@@ -3,6 +3,7 @@
 - pkg:composer/weareplanet/shopware-6@5.0.11
 - pkg:composer/weareplanet/shopware-6@5.0.12
 - pkg:composer/weareplanet/shopware-6@5.0.13
+- pkg:composer/weareplanet/shopware-6@5.0.17
 - pkg:composer/weareplanet/shopware-6@5.0.2
 - pkg:composer/weareplanet/shopware-6@5.0.3
 - pkg:composer/weareplanet/shopware-6@5.0.4
@@ -35,6 +36,7 @@
 - pkg:composer/weareplanet/shopware-6@6.2.3
 - pkg:composer/weareplanet/shopware-6@6.2.4
 - pkg:composer/weareplanet/shopware-6@6.2.5
+- pkg:composer/weareplanet/shopware-6@6.2.6
 - pkg:composer/weareplanet/shopware-6@7.0.0
 - pkg:composer/weareplanet/shopware-6@7.0.1
 - pkg:composer/weareplanet/shopware-6@7.1.0
@@ -52,3 +54,4 @@
 - pkg:composer/weareplanet/shopware-6@7.3.4
 - pkg:composer/weareplanet/shopware-6@7.3.5
 - pkg:composer/weareplanet/shopware-6@7.3.6
+- pkg:composer/weareplanet/shopware-6@7.3.7
