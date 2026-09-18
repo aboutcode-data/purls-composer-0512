@@ -1,3 +1,4 @@
 - pkg:composer/zylu/laravel-fcm-notification@5.0
 - pkg:composer/zylu/laravel-fcm-notification@6.0
 - pkg:composer/zylu/laravel-fcm-notification@6.1
+- pkg:composer/zylu/laravel-fcm-notification@6.2
