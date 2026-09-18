@@ -1,5 +1,6 @@
+- pkg:composer/adamcmoore/laravel-location-validator@1.3
+- pkg:composer/adamcmoore/laravel-location-validator@1.4
 - pkg:composer/adamcmoore/laravel-location-validator@v1.0
 - pkg:composer/adamcmoore/laravel-location-validator@v1.1
 - pkg:composer/adamcmoore/laravel-location-validator@v1.2
-- pkg:composer/adamcmoore/laravel-location-validator@v10.0
 - pkg:composer/adamcmoore/laravel-location-validator@v10.1
