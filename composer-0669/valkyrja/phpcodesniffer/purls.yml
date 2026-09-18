@@ -46,6 +46,7 @@
 - pkg:composer/valkyrja/phpcodesniffer@v26.3.40
 - pkg:composer/valkyrja/phpcodesniffer@v26.3.41
 - pkg:composer/valkyrja/phpcodesniffer@v26.3.42
+- pkg:composer/valkyrja/phpcodesniffer@v26.3.43
 - pkg:composer/valkyrja/phpcodesniffer@v26.3.5
 - pkg:composer/valkyrja/phpcodesniffer@v26.3.6
 - pkg:composer/valkyrja/phpcodesniffer@v26.3.7
