@@ -26,3 +26,9 @@
 - pkg:composer/xgenious/installer@v2.2.0
 - pkg:composer/xgenious/installer@v2.3.0
 - pkg:composer/xgenious/installer@v2.4.0
+- pkg:composer/xgenious/installer@v2.5.0
+- pkg:composer/xgenious/installer@v2.5.1
+- pkg:composer/xgenious/installer@v2.6.0
+- pkg:composer/xgenious/installer@v2.6.1
+- pkg:composer/xgenious/installer@v2.7.0
+- pkg:composer/xgenious/installer@v2.8.0
