@@ -10,3 +10,5 @@
 - pkg:composer/actualizer/passkey@1.1.5
 - pkg:composer/actualizer/passkey@1.1.6
 - pkg:composer/actualizer/passkey@1.1.7
+- pkg:composer/actualizer/passkey@1.1.8
+- pkg:composer/actualizer/passkey@1.1.9
