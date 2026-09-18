@@ -43,6 +43,7 @@
 - pkg:composer/twig/html-extra@v3.23.0
 - pkg:composer/twig/html-extra@v3.24.0
 - pkg:composer/twig/html-extra@v3.28.0
+- pkg:composer/twig/html-extra@v3.29.0
 - pkg:composer/twig/html-extra@v3.3.0
 - pkg:composer/twig/html-extra@v3.3.3
 - pkg:composer/twig/html-extra@v3.3.4
