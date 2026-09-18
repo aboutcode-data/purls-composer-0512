@@ -66,6 +66,11 @@
 - pkg:composer/xberg-io/tree-sitter-language-pack@v1.16.0
 - pkg:composer/xberg-io/tree-sitter-language-pack@v1.16.1
 - pkg:composer/xberg-io/tree-sitter-language-pack@v1.16.2
+- pkg:composer/xberg-io/tree-sitter-language-pack@v1.17.0
+- pkg:composer/xberg-io/tree-sitter-language-pack@v1.18.0
+- pkg:composer/xberg-io/tree-sitter-language-pack@v1.19.0
+- pkg:composer/xberg-io/tree-sitter-language-pack@v1.19.1
+- pkg:composer/xberg-io/tree-sitter-language-pack@v1.20.0
 - pkg:composer/xberg-io/tree-sitter-language-pack@v1.9.0
 - pkg:composer/xberg-io/tree-sitter-language-pack@v1.9.0-rc.10
 - pkg:composer/xberg-io/tree-sitter-language-pack@v1.9.0-rc.11

@@ -127,6 +127,13 @@
 - pkg:composer/xberg-io/html-to-markdown@v3.11.5
 - pkg:composer/xberg-io/html-to-markdown@v3.11.6
 - pkg:composer/xberg-io/html-to-markdown@v3.12.0
+- pkg:composer/xberg-io/html-to-markdown@v3.12.1
+- pkg:composer/xberg-io/html-to-markdown@v3.12.2
+- pkg:composer/xberg-io/html-to-markdown@v3.12.3
+- pkg:composer/xberg-io/html-to-markdown@v3.12.4
+- pkg:composer/xberg-io/html-to-markdown@v3.13.0
+- pkg:composer/xberg-io/html-to-markdown@v3.14.0
+- pkg:composer/xberg-io/html-to-markdown@v3.14.1
 - pkg:composer/xberg-io/html-to-markdown@v3.5.0
 - pkg:composer/xberg-io/html-to-markdown@v3.5.1
 - pkg:composer/xberg-io/html-to-markdown@v3.5.2
