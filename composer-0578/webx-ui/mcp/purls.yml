@@ -15,6 +15,9 @@
 - pkg:composer/webx-ui/mcp@v0.2.0
 - pkg:composer/webx-ui/mcp@v0.20.0
 - pkg:composer/webx-ui/mcp@v0.20.1
+- pkg:composer/webx-ui/mcp@v0.21.0
+- pkg:composer/webx-ui/mcp@v0.22.0
+- pkg:composer/webx-ui/mcp@v0.22.1
 - pkg:composer/webx-ui/mcp@v0.3.0
 - pkg:composer/webx-ui/mcp@v0.3.1
 - pkg:composer/webx-ui/mcp@v0.4.0
