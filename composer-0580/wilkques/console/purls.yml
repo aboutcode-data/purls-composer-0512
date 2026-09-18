@@ -7,3 +7,6 @@
 - pkg:composer/wilkques/console@v3.2.6
 - pkg:composer/wilkques/console@v3.3.0
 - pkg:composer/wilkques/console@v3.3.1
+- pkg:composer/wilkques/console@v3.4.0
+- pkg:composer/wilkques/console@v4.0.0
+- pkg:composer/wilkques/console@v4.3.0
