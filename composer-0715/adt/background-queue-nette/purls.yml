@@ -40,3 +40,4 @@
 - pkg:composer/adt/background-queue-nette@v3.0.2
 - pkg:composer/adt/background-queue-nette@v3.1
 - pkg:composer/adt/background-queue-nette@v3.2
+- pkg:composer/adt/background-queue-nette@v3.3
