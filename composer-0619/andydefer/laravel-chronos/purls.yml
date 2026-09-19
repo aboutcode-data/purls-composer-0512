@@ -3,6 +3,7 @@
 - pkg:composer/andydefer/laravel-chronos@v0.10.2
 - pkg:composer/andydefer/laravel-chronos@v0.10.3
 - pkg:composer/andydefer/laravel-chronos@v0.10.4
+- pkg:composer/andydefer/laravel-chronos@v0.10.5
 - pkg:composer/andydefer/laravel-chronos@v0.2.0
 - pkg:composer/andydefer/laravel-chronos@v0.2.1
 - pkg:composer/andydefer/laravel-chronos@v0.2.10
@@ -42,6 +43,7 @@
 - pkg:composer/andydefer/laravel-chronos@v0.2.130
 - pkg:composer/andydefer/laravel-chronos@v0.2.131
 - pkg:composer/andydefer/laravel-chronos@v0.2.132
+- pkg:composer/andydefer/laravel-chronos@v0.2.133
 - pkg:composer/andydefer/laravel-chronos@v0.2.14
 - pkg:composer/andydefer/laravel-chronos@v0.2.15
 - pkg:composer/andydefer/laravel-chronos@v0.2.16
