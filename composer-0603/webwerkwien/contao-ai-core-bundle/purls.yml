@@ -62,6 +62,7 @@
 - pkg:composer/webwerkwien/contao-ai-core-bundle@v0.25.0
 - pkg:composer/webwerkwien/contao-ai-core-bundle@v0.26.0
 - pkg:composer/webwerkwien/contao-ai-core-bundle@v0.27.0
+- pkg:composer/webwerkwien/contao-ai-core-bundle@v0.28.0
 - pkg:composer/webwerkwien/contao-ai-core-bundle@v0.4.0
 - pkg:composer/webwerkwien/contao-ai-core-bundle@v0.4.1
 - pkg:composer/webwerkwien/contao-ai-core-bundle@v0.5.0
@@ -73,3 +74,4 @@
 - pkg:composer/webwerkwien/contao-ai-core-bundle@v0.8.0
 - pkg:composer/webwerkwien/contao-ai-core-bundle@v0.8.1
 - pkg:composer/webwerkwien/contao-ai-core-bundle@v0.9.0
+- pkg:composer/webwerkwien/contao-ai-core-bundle@v1.0.0
