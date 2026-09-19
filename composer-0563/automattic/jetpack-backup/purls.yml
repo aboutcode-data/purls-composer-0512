@@ -253,3 +253,6 @@
 - pkg:composer/automattic/jetpack-backup@v4.3.8
 - pkg:composer/automattic/jetpack-backup@v4.3.9
 - pkg:composer/automattic/jetpack-backup@v5.0.0
+- pkg:composer/automattic/jetpack-backup@v5.0.1
+- pkg:composer/automattic/jetpack-backup@v5.0.2
+- pkg:composer/automattic/jetpack-backup@v5.0.3
