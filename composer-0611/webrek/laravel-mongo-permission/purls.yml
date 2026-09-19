@@ -7,3 +7,4 @@
 - pkg:composer/webrek/laravel-mongo-permission@v1.6.0
 - pkg:composer/webrek/laravel-mongo-permission@v1.6.1
 - pkg:composer/webrek/laravel-mongo-permission@v1.7.0
+- pkg:composer/webrek/laravel-mongo-permission@v2.0.0
