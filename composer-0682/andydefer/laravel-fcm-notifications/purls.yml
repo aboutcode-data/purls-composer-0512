@@ -12,6 +12,10 @@
 - pkg:composer/andydefer/laravel-fcm-notifications@v1.1.0
 - pkg:composer/andydefer/laravel-fcm-notifications@v1.1.1
 - pkg:composer/andydefer/laravel-fcm-notifications@v1.1.10
+- pkg:composer/andydefer/laravel-fcm-notifications@v1.1.100
+- pkg:composer/andydefer/laravel-fcm-notifications@v1.1.101
+- pkg:composer/andydefer/laravel-fcm-notifications@v1.1.102
+- pkg:composer/andydefer/laravel-fcm-notifications@v1.1.103
 - pkg:composer/andydefer/laravel-fcm-notifications@v1.1.11
 - pkg:composer/andydefer/laravel-fcm-notifications@v1.1.12
 - pkg:composer/andydefer/laravel-fcm-notifications@v1.1.13
@@ -103,3 +107,8 @@
 - pkg:composer/andydefer/laravel-fcm-notifications@v1.1.92
 - pkg:composer/andydefer/laravel-fcm-notifications@v1.1.93
 - pkg:composer/andydefer/laravel-fcm-notifications@v1.1.94
+- pkg:composer/andydefer/laravel-fcm-notifications@v1.1.95
+- pkg:composer/andydefer/laravel-fcm-notifications@v1.1.96
+- pkg:composer/andydefer/laravel-fcm-notifications@v1.1.97
+- pkg:composer/andydefer/laravel-fcm-notifications@v1.1.98
+- pkg:composer/andydefer/laravel-fcm-notifications@v1.1.99
