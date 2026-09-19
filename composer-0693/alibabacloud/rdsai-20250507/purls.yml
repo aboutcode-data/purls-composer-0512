@@ -43,3 +43,5 @@
 - pkg:composer/alibabacloud/rdsai-20250507@3.9.0
 - pkg:composer/alibabacloud/rdsai-20250507@3.9.1
 - pkg:composer/alibabacloud/rdsai-20250507@3.9.2
+- pkg:composer/alibabacloud/rdsai-20250507@3.9.3
+- pkg:composer/alibabacloud/rdsai-20250507@3.9.4
