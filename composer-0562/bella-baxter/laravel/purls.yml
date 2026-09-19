@@ -1,3 +1,15 @@
+- pkg:composer/bella-baxter/laravel@v0.1.1-beta.100
+- pkg:composer/bella-baxter/laravel@v0.1.1-beta.101
+- pkg:composer/bella-baxter/laravel@v0.1.1-beta.102
+- pkg:composer/bella-baxter/laravel@v0.1.1-beta.103
+- pkg:composer/bella-baxter/laravel@v0.1.1-beta.104
+- pkg:composer/bella-baxter/laravel@v0.1.1-beta.105
+- pkg:composer/bella-baxter/laravel@v0.1.1-beta.106
+- pkg:composer/bella-baxter/laravel@v0.1.1-beta.107
+- pkg:composer/bella-baxter/laravel@v0.1.1-beta.108
+- pkg:composer/bella-baxter/laravel@v0.1.1-beta.109
+- pkg:composer/bella-baxter/laravel@v0.1.1-beta.110
+- pkg:composer/bella-baxter/laravel@v0.1.1-beta.111
 - pkg:composer/bella-baxter/laravel@v0.1.1-beta.26
 - pkg:composer/bella-baxter/laravel@v0.1.1-beta.27
 - pkg:composer/bella-baxter/laravel@v0.1.1-beta.28
@@ -69,3 +81,6 @@
 - pkg:composer/bella-baxter/laravel@v0.1.1-beta.94
 - pkg:composer/bella-baxter/laravel@v0.1.1-beta.95
 - pkg:composer/bella-baxter/laravel@v0.1.1-beta.96
+- pkg:composer/bella-baxter/laravel@v0.1.1-beta.97
+- pkg:composer/bella-baxter/laravel@v0.1.1-beta.98
+- pkg:composer/bella-baxter/laravel@v0.1.1-beta.99
