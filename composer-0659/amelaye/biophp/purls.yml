@@ -1,4 +1,10 @@
 - pkg:composer/amelaye/biophp@1.1.0
+- pkg:composer/amelaye/biophp@1.2.0
+- pkg:composer/amelaye/biophp@1.2.1
+- pkg:composer/amelaye/biophp@1.3.0
+- pkg:composer/amelaye/biophp@1.3.1
+- pkg:composer/amelaye/biophp@1.3.2
+- pkg:composer/amelaye/biophp@1.4.0
 - pkg:composer/amelaye/biophp@v0.1.0
 - pkg:composer/amelaye/biophp@v0.1.10
 - pkg:composer/amelaye/biophp@v0.1.11
