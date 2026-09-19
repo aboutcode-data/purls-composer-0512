@@ -131,7 +131,15 @@
 - pkg:composer/boundwize/structarmed@0.16.9
 - pkg:composer/boundwize/structarmed@0.17.0
 - pkg:composer/boundwize/structarmed@0.17.1
+- pkg:composer/boundwize/structarmed@0.17.10
 - pkg:composer/boundwize/structarmed@0.17.2
+- pkg:composer/boundwize/structarmed@0.17.3
+- pkg:composer/boundwize/structarmed@0.17.4
+- pkg:composer/boundwize/structarmed@0.17.5
+- pkg:composer/boundwize/structarmed@0.17.6
+- pkg:composer/boundwize/structarmed@0.17.7
+- pkg:composer/boundwize/structarmed@0.17.8
+- pkg:composer/boundwize/structarmed@0.17.9
 - pkg:composer/boundwize/structarmed@0.2.0
 - pkg:composer/boundwize/structarmed@0.2.1
 - pkg:composer/boundwize/structarmed@0.2.2
