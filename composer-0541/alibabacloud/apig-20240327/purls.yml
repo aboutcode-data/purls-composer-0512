@@ -18,6 +18,12 @@
 - pkg:composer/alibabacloud/apig-20240327@11.1.0
 - pkg:composer/alibabacloud/apig-20240327@11.2.0
 - pkg:composer/alibabacloud/apig-20240327@11.3.0
+- pkg:composer/alibabacloud/apig-20240327@11.3.1
+- pkg:composer/alibabacloud/apig-20240327@11.3.2
+- pkg:composer/alibabacloud/apig-20240327@11.3.3
+- pkg:composer/alibabacloud/apig-20240327@11.3.4
+- pkg:composer/alibabacloud/apig-20240327@11.3.5
+- pkg:composer/alibabacloud/apig-20240327@11.4.0
 - pkg:composer/alibabacloud/apig-20240327@2.0.0
 - pkg:composer/alibabacloud/apig-20240327@2.0.1
 - pkg:composer/alibabacloud/apig-20240327@3.0.0
