@@ -92,6 +92,9 @@
 - pkg:composer/alibabacloud/ecs-20140526@7.10.0
 - pkg:composer/alibabacloud/ecs-20140526@7.11.0
 - pkg:composer/alibabacloud/ecs-20140526@7.11.1
+- pkg:composer/alibabacloud/ecs-20140526@7.11.2
+- pkg:composer/alibabacloud/ecs-20140526@7.11.3
+- pkg:composer/alibabacloud/ecs-20140526@7.11.4
 - pkg:composer/alibabacloud/ecs-20140526@7.2.0
 - pkg:composer/alibabacloud/ecs-20140526@7.2.1
 - pkg:composer/alibabacloud/ecs-20140526@7.2.2
