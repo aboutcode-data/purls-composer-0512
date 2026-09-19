@@ -1,4 +1,5 @@
 - pkg:composer/b13/distributed-locks@3.0.0
+- pkg:composer/b13/distributed-locks@3.0.1
 - pkg:composer/b13/distributed-locks@v1.0.0
 - pkg:composer/b13/distributed-locks@v1.1.0
 - pkg:composer/b13/distributed-locks@v1.2.0
