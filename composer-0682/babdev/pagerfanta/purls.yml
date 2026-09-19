@@ -53,3 +53,4 @@
 - pkg:composer/babdev/pagerfanta@v4.7.1
 - pkg:composer/babdev/pagerfanta@v4.7.2
 - pkg:composer/babdev/pagerfanta@v4.8.0
+- pkg:composer/babdev/pagerfanta@v4.9.0
