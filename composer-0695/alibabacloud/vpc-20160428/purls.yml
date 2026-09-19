@@ -92,3 +92,4 @@
 - pkg:composer/alibabacloud/vpc-20160428@7.2.3
 - pkg:composer/alibabacloud/vpc-20160428@7.2.4
 - pkg:composer/alibabacloud/vpc-20160428@7.3.0
+- pkg:composer/alibabacloud/vpc-20160428@7.3.1
