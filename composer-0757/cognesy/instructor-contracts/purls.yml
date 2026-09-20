@@ -1,3 +1,6 @@
+- pkg:composer/cognesy/instructor-contracts@v2.10.0
+- pkg:composer/cognesy/instructor-contracts@v2.10.1
+- pkg:composer/cognesy/instructor-contracts@v2.11.0
 - pkg:composer/cognesy/instructor-contracts@v2.4.1
 - pkg:composer/cognesy/instructor-contracts@v2.5.0
 - pkg:composer/cognesy/instructor-contracts@v2.5.1
