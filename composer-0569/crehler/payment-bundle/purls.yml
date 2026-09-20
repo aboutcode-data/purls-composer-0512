@@ -8,3 +8,5 @@
 - pkg:composer/crehler/payment-bundle@6.3.0
 - pkg:composer/crehler/payment-bundle@6.4.0
 - pkg:composer/crehler/payment-bundle@6.4.1
+- pkg:composer/crehler/payment-bundle@6.5.0
+- pkg:composer/crehler/payment-bundle@6.6.0
