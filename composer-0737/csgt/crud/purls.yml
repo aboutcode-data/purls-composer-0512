@@ -71,6 +71,8 @@
 - pkg:composer/csgt/crud@v5.6.21
 - pkg:composer/csgt/crud@v5.6.22
 - pkg:composer/csgt/crud@v5.6.23
+- pkg:composer/csgt/crud@v5.6.24
+- pkg:composer/csgt/crud@v5.6.25
 - pkg:composer/csgt/crud@v5.6.3
 - pkg:composer/csgt/crud@v5.6.4
 - pkg:composer/csgt/crud@v5.6.5
@@ -119,6 +121,8 @@
 - pkg:composer/csgt/crud@v6.0.30
 - pkg:composer/csgt/crud@v6.0.31
 - pkg:composer/csgt/crud@v6.0.32
+- pkg:composer/csgt/crud@v6.0.33
+- pkg:composer/csgt/crud@v6.0.34
 - pkg:composer/csgt/crud@v6.0.4
 - pkg:composer/csgt/crud@v6.0.6
 - pkg:composer/csgt/crud@v6.0.7
@@ -139,6 +143,7 @@
 - pkg:composer/csgt/crud@v8.0.2
 - pkg:composer/csgt/crud@v8.0.20
 - pkg:composer/csgt/crud@v8.0.21
+- pkg:composer/csgt/crud@v8.0.22
 - pkg:composer/csgt/crud@v8.0.3
 - pkg:composer/csgt/crud@v8.0.4
 - pkg:composer/csgt/crud@v8.0.5
