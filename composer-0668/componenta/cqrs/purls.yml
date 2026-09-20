@@ -6,3 +6,4 @@
 - pkg:composer/componenta/cqrs@v3.0.1
 - pkg:composer/componenta/cqrs@v3.0.2
 - pkg:composer/componenta/cqrs@v3.0.3
+- pkg:composer/componenta/cqrs@v4.0.0

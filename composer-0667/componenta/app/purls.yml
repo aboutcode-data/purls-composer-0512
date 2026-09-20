@@ -6,3 +6,5 @@
 - pkg:composer/componenta/app@v3.0.0
 - pkg:composer/componenta/app@v3.0.1
 - pkg:composer/componenta/app@v3.0.2
+- pkg:composer/componenta/app@v4.0.0
+- pkg:composer/componenta/app@v5.0.0
