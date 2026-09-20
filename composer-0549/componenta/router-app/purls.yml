@@ -5,3 +5,6 @@
 - pkg:composer/componenta/router-app@v2.0.0
 - pkg:composer/componenta/router-app@v3.0.0
 - pkg:composer/componenta/router-app@v3.0.1
+- pkg:composer/componenta/router-app@v4.0.0
+- pkg:composer/componenta/router-app@v4.0.1
+- pkg:composer/componenta/router-app@v5.0.0
