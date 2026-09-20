@@ -6,3 +6,6 @@
 - pkg:composer/cloud-castle/file-system@v1.0.5
 - pkg:composer/cloud-castle/file-system@v1.1.0
 - pkg:composer/cloud-castle/file-system@v1.1.1
+- pkg:composer/cloud-castle/file-system@v1.2.0
+- pkg:composer/cloud-castle/file-system@v1.3.0
+- pkg:composer/cloud-castle/file-system@v1.4.0
