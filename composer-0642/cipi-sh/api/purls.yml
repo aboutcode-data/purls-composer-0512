@@ -23,6 +23,8 @@
 - pkg:composer/cipi-sh/api@1.18.0
 - pkg:composer/cipi-sh/api@1.19.1
 - pkg:composer/cipi-sh/api@1.20
+- pkg:composer/cipi-sh/api@1.30.0
+- pkg:composer/cipi-sh/api@1.31.0
 - pkg:composer/cipi-sh/api@1.5
 - pkg:composer/cipi-sh/api@1.5.1
 - pkg:composer/cipi-sh/api@1.5.2
