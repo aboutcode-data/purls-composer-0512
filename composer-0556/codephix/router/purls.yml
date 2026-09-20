@@ -6,6 +6,8 @@
 - pkg:composer/codephix/router@6
 - pkg:composer/codephix/router@6.0.1
 - pkg:composer/codephix/router@6.0.10
+- pkg:composer/codephix/router@6.0.11
+- pkg:composer/codephix/router@6.0.12
 - pkg:composer/codephix/router@6.0.2
 - pkg:composer/codephix/router@6.0.3
 - pkg:composer/codephix/router@6.0.4
