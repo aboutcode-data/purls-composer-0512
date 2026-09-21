@@ -47,3 +47,7 @@
 - pkg:composer/carlosgude/integration-engine@v5.3.0
 - pkg:composer/carlosgude/integration-engine@v5.3.1
 - pkg:composer/carlosgude/integration-engine@v5.4.0
+- pkg:composer/carlosgude/integration-engine@v6.0.0
+- pkg:composer/carlosgude/integration-engine@v7.0.0
+- pkg:composer/carlosgude/integration-engine@v7.0.1
+- pkg:composer/carlosgude/integration-engine@v7.0.2
