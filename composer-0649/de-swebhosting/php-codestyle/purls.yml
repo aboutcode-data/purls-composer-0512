@@ -15,3 +15,4 @@
 - pkg:composer/de-swebhosting/php-codestyle@v6.0.2
 - pkg:composer/de-swebhosting/php-codestyle@v7.0.0
 - pkg:composer/de-swebhosting/php-codestyle@v7.1.0
+- pkg:composer/de-swebhosting/php-codestyle@v8.0.0
