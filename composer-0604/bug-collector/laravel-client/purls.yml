@@ -3,3 +3,4 @@
 - pkg:composer/bug-collector/laravel-client@v0.1.2
 - pkg:composer/bug-collector/laravel-client@v1.0.1
 - pkg:composer/bug-collector/laravel-client@v1.1.0
+- pkg:composer/bug-collector/laravel-client@v1.2.0
