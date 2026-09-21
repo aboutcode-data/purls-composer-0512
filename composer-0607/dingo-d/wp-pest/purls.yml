@@ -8,4 +8,5 @@
 - pkg:composer/dingo-d/wp-pest@1.6.0
 - pkg:composer/dingo-d/wp-pest@1.6.1
 - pkg:composer/dingo-d/wp-pest@1.7.0
+- pkg:composer/dingo-d/wp-pest@1.8.0
 - pkg:composer/dingo-d/wp-pest@2.0.0-alpha
