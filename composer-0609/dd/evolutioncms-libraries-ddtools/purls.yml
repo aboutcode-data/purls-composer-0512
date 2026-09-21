@@ -64,6 +64,7 @@
 - pkg:composer/dd/evolutioncms-libraries-ddtools@0.68.0
 - pkg:composer/dd/evolutioncms-libraries-ddtools@0.69.0
 - pkg:composer/dd/evolutioncms-libraries-ddtools@0.69.1
+- pkg:composer/dd/evolutioncms-libraries-ddtools@0.70.0
 - pkg:composer/dd/evolutioncms-libraries-ddtools@v0.14
 - pkg:composer/dd/evolutioncms-libraries-ddtools@v0.14.1
 - pkg:composer/dd/evolutioncms-libraries-ddtools@v0.14.2
