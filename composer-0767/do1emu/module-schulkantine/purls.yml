@@ -29,6 +29,15 @@
 - pkg:composer/do1emu/module-schulkantine@v1.12.7
 - pkg:composer/do1emu/module-schulkantine@v1.12.8
 - pkg:composer/do1emu/module-schulkantine@v1.12.9
+- pkg:composer/do1emu/module-schulkantine@v1.13.0
+- pkg:composer/do1emu/module-schulkantine@v1.13.1
+- pkg:composer/do1emu/module-schulkantine@v1.14.0
+- pkg:composer/do1emu/module-schulkantine@v1.15.0
+- pkg:composer/do1emu/module-schulkantine@v1.15.1
+- pkg:composer/do1emu/module-schulkantine@v1.16.0
+- pkg:composer/do1emu/module-schulkantine@v1.16.1
+- pkg:composer/do1emu/module-schulkantine@v1.17.0
+- pkg:composer/do1emu/module-schulkantine@v1.18.0
 - pkg:composer/do1emu/module-schulkantine@v1.2.0
 - pkg:composer/do1emu/module-schulkantine@v1.3.0
 - pkg:composer/do1emu/module-schulkantine@v1.3.1
