@@ -1,3 +1,4 @@
 - pkg:composer/eganesha/cas-auth@2.0.0
+- pkg:composer/eganesha/cas-auth@2.1.0
 - pkg:composer/eganesha/cas-auth@v1.0.0
 - pkg:composer/eganesha/cas-auth@v1.1.0
