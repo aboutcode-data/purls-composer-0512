@@ -5,3 +5,4 @@
 - pkg:composer/extport/protobuf@35.1
 - pkg:composer/extport/protobuf@36.0
 - pkg:composer/extport/protobuf@36.1
+- pkg:composer/extport/protobuf@36.2
