@@ -64,6 +64,7 @@
 - pkg:composer/filp/whoops@2.18.2
 - pkg:composer/filp/whoops@2.18.3
 - pkg:composer/filp/whoops@2.18.4
+- pkg:composer/filp/whoops@2.18.5
 - pkg:composer/filp/whoops@2.2.0
 - pkg:composer/filp/whoops@2.2.1
 - pkg:composer/filp/whoops@2.3.0
