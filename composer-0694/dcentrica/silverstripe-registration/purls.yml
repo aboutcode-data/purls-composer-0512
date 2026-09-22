@@ -10,3 +10,4 @@
 - pkg:composer/dcentrica/silverstripe-registration@1.0.3
 - pkg:composer/dcentrica/silverstripe-registration@1.0.4
 - pkg:composer/dcentrica/silverstripe-registration@2.0.0
+- pkg:composer/dcentrica/silverstripe-registration@3.0.0
