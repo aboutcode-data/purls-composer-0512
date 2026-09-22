@@ -20,6 +20,7 @@
 - pkg:composer/falseclock/dbd-php-entity@3.1.4
 - pkg:composer/falseclock/dbd-php-entity@3.1.5
 - pkg:composer/falseclock/dbd-php-entity@3.1.6
+- pkg:composer/falseclock/dbd-php-entity@3.1.7
 - pkg:composer/falseclock/dbd-php-entity@v0.0.0
 - pkg:composer/falseclock/dbd-php-entity@v0.0.1
 - pkg:composer/falseclock/dbd-php-entity@v1.0.0
