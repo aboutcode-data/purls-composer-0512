@@ -15,6 +15,7 @@
 - pkg:composer/fetchify/module-fetchify@1.1.9
 - pkg:composer/fetchify/module-fetchify@2.0.0
 - pkg:composer/fetchify/module-fetchify@2.1.0
+- pkg:composer/fetchify/module-fetchify@2.10.0
 - pkg:composer/fetchify/module-fetchify@2.2.0
 - pkg:composer/fetchify/module-fetchify@2.2.1
 - pkg:composer/fetchify/module-fetchify@2.3.0
