@@ -10,3 +10,4 @@
 - pkg:composer/gowa-php/sdk@v1.3.2
 - pkg:composer/gowa-php/sdk@v1.4.0
 - pkg:composer/gowa-php/sdk@v1.5.0
+- pkg:composer/gowa-php/sdk@v1.6.0
