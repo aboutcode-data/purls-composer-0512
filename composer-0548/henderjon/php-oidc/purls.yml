@@ -5,3 +5,5 @@
 - pkg:composer/henderjon/php-oidc@v1.2.0
 - pkg:composer/henderjon/php-oidc@v1.3.0
 - pkg:composer/henderjon/php-oidc@v1.4.0
+- pkg:composer/henderjon/php-oidc@v1.5.0
+- pkg:composer/henderjon/php-oidc@v1.6.0
