@@ -36,6 +36,7 @@
 - pkg:composer/guanguans/soar-php@7.0.3
 - pkg:composer/guanguans/soar-php@7.1.0
 - pkg:composer/guanguans/soar-php@8.0.0
+- pkg:composer/guanguans/soar-php@8.0.1
 - pkg:composer/guanguans/soar-php@v1.0.0
 - pkg:composer/guanguans/soar-php@v1.0.1
 - pkg:composer/guanguans/soar-php@v1.1.0
