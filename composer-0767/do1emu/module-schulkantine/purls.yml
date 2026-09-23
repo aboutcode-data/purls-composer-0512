@@ -38,7 +38,10 @@
 - pkg:composer/do1emu/module-schulkantine@v1.16.1
 - pkg:composer/do1emu/module-schulkantine@v1.17.0
 - pkg:composer/do1emu/module-schulkantine@v1.18.0
+- pkg:composer/do1emu/module-schulkantine@v1.19.0
 - pkg:composer/do1emu/module-schulkantine@v1.2.0
+- pkg:composer/do1emu/module-schulkantine@v1.20.0
+- pkg:composer/do1emu/module-schulkantine@v1.20.1
 - pkg:composer/do1emu/module-schulkantine@v1.3.0
 - pkg:composer/do1emu/module-schulkantine@v1.3.1
 - pkg:composer/do1emu/module-schulkantine@v1.3.2
