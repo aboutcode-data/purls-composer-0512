@@ -28,3 +28,4 @@
 - pkg:composer/flyo/nitro-laravel@3.0
 - pkg:composer/flyo/nitro-laravel@3.1
 - pkg:composer/flyo/nitro-laravel@3.2
+- pkg:composer/flyo/nitro-laravel@3.3
