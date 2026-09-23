@@ -87,3 +87,4 @@
 - pkg:composer/getresponse/magento2@21.3.0
 - pkg:composer/getresponse/magento2@21.4.0
 - pkg:composer/getresponse/magento2@21.4.1
+- pkg:composer/getresponse/magento2@21.4.3
