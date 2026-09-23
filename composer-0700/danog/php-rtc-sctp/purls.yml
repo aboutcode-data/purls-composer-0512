@@ -6,6 +6,10 @@
 - pkg:composer/danog/php-rtc-sctp@1.1.5
 - pkg:composer/danog/php-rtc-sctp@2.0.0
 - pkg:composer/danog/php-rtc-sctp@2.0.1
+- pkg:composer/danog/php-rtc-sctp@2.0.10
+- pkg:composer/danog/php-rtc-sctp@2.0.11
+- pkg:composer/danog/php-rtc-sctp@2.0.12
+- pkg:composer/danog/php-rtc-sctp@2.0.13
 - pkg:composer/danog/php-rtc-sctp@2.0.2
 - pkg:composer/danog/php-rtc-sctp@2.0.3
 - pkg:composer/danog/php-rtc-sctp@2.0.4
