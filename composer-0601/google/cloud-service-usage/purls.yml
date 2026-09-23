@@ -36,3 +36,4 @@
 - pkg:composer/google/cloud-service-usage@v2.2.0
 - pkg:composer/google/cloud-service-usage@v2.2.1
 - pkg:composer/google/cloud-service-usage@v2.2.2
+- pkg:composer/google/cloud-service-usage@v2.2.3
