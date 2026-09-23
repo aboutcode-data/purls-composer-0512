@@ -1,1 +1,3 @@
+- pkg:composer/hei/accounting-connector@0.2.0
 - pkg:composer/hei/accounting-connector@v0.1.0
+- pkg:composer/hei/accounting-connector@v0.2.1
