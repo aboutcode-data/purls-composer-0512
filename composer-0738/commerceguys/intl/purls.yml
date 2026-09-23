@@ -21,6 +21,7 @@
 - pkg:composer/commerceguys/intl@v1.1.2
 - pkg:composer/commerceguys/intl@v2.0.0
 - pkg:composer/commerceguys/intl@v2.0.1
+- pkg:composer/commerceguys/intl@v2.0.10
 - pkg:composer/commerceguys/intl@v2.0.2
 - pkg:composer/commerceguys/intl@v2.0.3
 - pkg:composer/commerceguys/intl@v2.0.4
@@ -28,3 +29,5 @@
 - pkg:composer/commerceguys/intl@v2.0.6
 - pkg:composer/commerceguys/intl@v2.0.7
 - pkg:composer/commerceguys/intl@v2.0.8
+- pkg:composer/commerceguys/intl@v2.0.9
+- pkg:composer/commerceguys/intl@v2.1.0
