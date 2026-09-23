@@ -14,3 +14,5 @@
 - pkg:composer/forumfortress/flarum@v1.3.7
 - pkg:composer/forumfortress/flarum@v1.3.7.1
 - pkg:composer/forumfortress/flarum@v1.3.7.2
+- pkg:composer/forumfortress/flarum@v1.4.0
+- pkg:composer/forumfortress/flarum@v1.4.1
