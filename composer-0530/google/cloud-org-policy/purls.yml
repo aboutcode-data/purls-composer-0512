@@ -39,3 +39,4 @@
 - pkg:composer/google/cloud-org-policy@v1.3.3
 - pkg:composer/google/cloud-org-policy@v1.4.0
 - pkg:composer/google/cloud-org-policy@v1.4.1
+- pkg:composer/google/cloud-org-policy@v1.4.2
