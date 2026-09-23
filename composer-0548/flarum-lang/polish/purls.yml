@@ -172,6 +172,7 @@
 - pkg:composer/flarum-lang/polish@v1.10.11
 - pkg:composer/flarum-lang/polish@v1.10.12
 - pkg:composer/flarum-lang/polish@v1.10.13
+- pkg:composer/flarum-lang/polish@v1.10.14
 - pkg:composer/flarum-lang/polish@v1.10.2
 - pkg:composer/flarum-lang/polish@v1.10.3
 - pkg:composer/flarum-lang/polish@v1.10.4
@@ -206,3 +207,4 @@
 - pkg:composer/flarum-lang/polish@v2.0.2
 - pkg:composer/flarum-lang/polish@v2.0.3
 - pkg:composer/flarum-lang/polish@v2.0.4
+- pkg:composer/flarum-lang/polish@v2.0.5
