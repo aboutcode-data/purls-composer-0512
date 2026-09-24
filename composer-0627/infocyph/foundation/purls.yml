@@ -8,3 +8,5 @@
 - pkg:composer/infocyph/foundation@2.0
 - pkg:composer/infocyph/foundation@2.1
 - pkg:composer/infocyph/foundation@2.1.1
+- pkg:composer/infocyph/foundation@3.0
+- pkg:composer/infocyph/foundation@3.0.1
