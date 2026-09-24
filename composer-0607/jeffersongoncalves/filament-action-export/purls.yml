@@ -1,6 +1,15 @@
 - pkg:composer/jeffersongoncalves/filament-action-export@1.6.0
+- pkg:composer/jeffersongoncalves/filament-action-export@1.6.1
+- pkg:composer/jeffersongoncalves/filament-action-export@1.7.0
+- pkg:composer/jeffersongoncalves/filament-action-export@1.8.0
 - pkg:composer/jeffersongoncalves/filament-action-export@2.7.0
+- pkg:composer/jeffersongoncalves/filament-action-export@2.7.1
+- pkg:composer/jeffersongoncalves/filament-action-export@2.8.0
+- pkg:composer/jeffersongoncalves/filament-action-export@2.9.0
 - pkg:composer/jeffersongoncalves/filament-action-export@3.7.0
+- pkg:composer/jeffersongoncalves/filament-action-export@3.7.1
+- pkg:composer/jeffersongoncalves/filament-action-export@3.8.0
+- pkg:composer/jeffersongoncalves/filament-action-export@3.9.0
 - pkg:composer/jeffersongoncalves/filament-action-export@v1.0.0
 - pkg:composer/jeffersongoncalves/filament-action-export@v1.1.0
 - pkg:composer/jeffersongoncalves/filament-action-export@v1.2.0
