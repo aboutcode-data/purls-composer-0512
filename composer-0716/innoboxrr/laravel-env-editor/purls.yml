@@ -1,1 +1,4 @@
 - pkg:composer/innoboxrr/laravel-env-editor@1.0.0
+- pkg:composer/innoboxrr/laravel-env-editor@2.0.0
+- pkg:composer/innoboxrr/laravel-env-editor@2.1.0
+- pkg:composer/innoboxrr/laravel-env-editor@2.1.1

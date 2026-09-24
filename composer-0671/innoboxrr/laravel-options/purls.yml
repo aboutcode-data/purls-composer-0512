@@ -10,3 +10,5 @@
 - pkg:composer/innoboxrr/laravel-options@1.0.7
 - pkg:composer/innoboxrr/laravel-options@1.0.8
 - pkg:composer/innoboxrr/laravel-options@1.0.9
+- pkg:composer/innoboxrr/laravel-options@2.0.0
+- pkg:composer/innoboxrr/laravel-options@2.1.0
