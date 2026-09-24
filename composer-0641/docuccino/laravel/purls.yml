@@ -24,6 +24,7 @@
 - pkg:composer/docuccino/laravel@v0.2.1
 - pkg:composer/docuccino/laravel@v0.20.0
 - pkg:composer/docuccino/laravel@v0.20.1
+- pkg:composer/docuccino/laravel@v0.20.2
 - pkg:composer/docuccino/laravel@v0.3.0
 - pkg:composer/docuccino/laravel@v0.4.0
 - pkg:composer/docuccino/laravel@v0.5.0
