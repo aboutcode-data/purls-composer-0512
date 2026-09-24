@@ -23,3 +23,4 @@
 - pkg:composer/itelmenko/laravel-mysql-logger@v1.0.7
 - pkg:composer/itelmenko/laravel-mysql-logger@v2.0.0
 - pkg:composer/itelmenko/laravel-mysql-logger@v2.0.1
+- pkg:composer/itelmenko/laravel-mysql-logger@v2.0.2
