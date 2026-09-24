@@ -21,6 +21,8 @@
 - pkg:composer/inphinit/inphinit@2.0.1
 - pkg:composer/inphinit/inphinit@2.1-beta.1
 - pkg:composer/inphinit/inphinit@2.1-beta.10
+- pkg:composer/inphinit/inphinit@2.1-beta.11
+- pkg:composer/inphinit/inphinit@2.1-beta.12
 - pkg:composer/inphinit/inphinit@2.1-beta.2
 - pkg:composer/inphinit/inphinit@2.1-beta.3
 - pkg:composer/inphinit/inphinit@2.1-beta.5
