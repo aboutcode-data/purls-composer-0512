@@ -29,3 +29,5 @@
 - pkg:composer/flyo/nitro-laravel@3.1
 - pkg:composer/flyo/nitro-laravel@3.2
 - pkg:composer/flyo/nitro-laravel@3.3
+- pkg:composer/flyo/nitro-laravel@3.4
+- pkg:composer/flyo/nitro-laravel@3.5
