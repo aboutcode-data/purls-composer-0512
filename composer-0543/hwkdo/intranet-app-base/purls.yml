@@ -28,6 +28,9 @@
 - pkg:composer/hwkdo/intranet-app-base@v1.11.3
 - pkg:composer/hwkdo/intranet-app-base@v1.12
 - pkg:composer/hwkdo/intranet-app-base@v1.12.1
+- pkg:composer/hwkdo/intranet-app-base@v1.12.2
+- pkg:composer/hwkdo/intranet-app-base@v1.12.3
+- pkg:composer/hwkdo/intranet-app-base@v1.12.4
 - pkg:composer/hwkdo/intranet-app-base@v1.2.0
 - pkg:composer/hwkdo/intranet-app-base@v1.3.0
 - pkg:composer/hwkdo/intranet-app-base@v1.3.1
