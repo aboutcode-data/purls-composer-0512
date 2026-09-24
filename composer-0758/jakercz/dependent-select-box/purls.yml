@@ -24,6 +24,7 @@
 - pkg:composer/jakercz/dependent-select-box@v4.0.0
 - pkg:composer/jakercz/dependent-select-box@v5.0.0
 - pkg:composer/jakercz/dependent-select-box@v5.0.1
+- pkg:composer/jakercz/dependent-select-box@v5.0.10
 - pkg:composer/jakercz/dependent-select-box@v5.0.2
 - pkg:composer/jakercz/dependent-select-box@v5.0.3
 - pkg:composer/jakercz/dependent-select-box@v5.0.4
