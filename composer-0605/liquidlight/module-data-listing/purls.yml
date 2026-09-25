@@ -10,3 +10,5 @@
 - pkg:composer/liquidlight/module-data-listing@1.1.0
 - pkg:composer/liquidlight/module-data-listing@1.2.0
 - pkg:composer/liquidlight/module-data-listing@1.2.1
+- pkg:composer/liquidlight/module-data-listing@2.0.0
+- pkg:composer/liquidlight/module-data-listing@3.0.0
