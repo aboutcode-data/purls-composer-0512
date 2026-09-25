@@ -17,6 +17,7 @@
 - pkg:composer/league/oauth1-client@v1.10.0
 - pkg:composer/league/oauth1-client@v1.10.1
 - pkg:composer/league/oauth1-client@v1.11.0
+- pkg:composer/league/oauth1-client@v1.12.0
 - pkg:composer/league/oauth1-client@v1.8.1
 - pkg:composer/league/oauth1-client@v1.8.2
 - pkg:composer/league/oauth1-client@v1.9.0

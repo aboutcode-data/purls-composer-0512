@@ -42,3 +42,4 @@
 - pkg:composer/league/oauth2-client@2.8.0
 - pkg:composer/league/oauth2-client@2.8.1
 - pkg:composer/league/oauth2-client@2.9.0
+- pkg:composer/league/oauth2-client@2.9.1
