@@ -1,2 +1,4 @@
 - pkg:composer/laraneat/modules@v1.0.0
 - pkg:composer/laraneat/modules@v2.0.0
+- pkg:composer/laraneat/modules@v2.1.0
+- pkg:composer/laraneat/modules@v3.0.0
