@@ -8,3 +8,5 @@
 - pkg:composer/jtsternberg/buddy-cli@v1.6.1
 - pkg:composer/jtsternberg/buddy-cli@v1.6.2
 - pkg:composer/jtsternberg/buddy-cli@v1.7.0
+- pkg:composer/jtsternberg/buddy-cli@v1.8.0
+- pkg:composer/jtsternberg/buddy-cli@v1.8.1
