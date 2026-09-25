@@ -169,6 +169,7 @@
 - pkg:composer/laravel/sail@v1.65.0
 - pkg:composer/laravel/sail@v1.66.0
 - pkg:composer/laravel/sail@v1.67.0
+- pkg:composer/laravel/sail@v1.68.0
 - pkg:composer/laravel/sail@v1.7.0
 - pkg:composer/laravel/sail@v1.8.0
 - pkg:composer/laravel/sail@v1.8.1

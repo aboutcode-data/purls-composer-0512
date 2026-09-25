@@ -385,6 +385,8 @@
 - pkg:composer/laravel/framework@v13.30.0
 - pkg:composer/laravel/framework@v13.30.1
 - pkg:composer/laravel/framework@v13.31.0
+- pkg:composer/laravel/framework@v13.32.0
+- pkg:composer/laravel/framework@v13.33.0
 - pkg:composer/laravel/framework@v13.4.0
 - pkg:composer/laravel/framework@v13.5.0
 - pkg:composer/laravel/framework@v13.6.0
