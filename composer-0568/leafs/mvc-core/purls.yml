@@ -46,3 +46,4 @@
 - pkg:composer/leafs/mvc-core@v5.1.0
 - pkg:composer/leafs/mvc-core@v5.1.1
 - pkg:composer/leafs/mvc-core@v5.2.0
+- pkg:composer/leafs/mvc-core@v5.2.1
