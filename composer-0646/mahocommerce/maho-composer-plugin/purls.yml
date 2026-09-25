@@ -50,3 +50,5 @@
 - pkg:composer/mahocommerce/maho-composer-plugin@v4.5.0
 - pkg:composer/mahocommerce/maho-composer-plugin@v4.5.1
 - pkg:composer/mahocommerce/maho-composer-plugin@v4.6.0
+- pkg:composer/mahocommerce/maho-composer-plugin@v5.0.1
+- pkg:composer/mahocommerce/maho-composer-plugin@v5.1.0
