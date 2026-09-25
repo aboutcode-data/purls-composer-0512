@@ -506,6 +506,8 @@
 - pkg:composer/jessegall/code-commandments@v4.370.0
 - pkg:composer/jessegall/code-commandments@v4.371.0
 - pkg:composer/jessegall/code-commandments@v4.372.0
+- pkg:composer/jessegall/code-commandments@v4.373.0
+- pkg:composer/jessegall/code-commandments@v4.374.0
 - pkg:composer/jessegall/code-commandments@v4.73.1
 - pkg:composer/jessegall/code-commandments@v4.73.2
 - pkg:composer/jessegall/code-commandments@v4.73.3
