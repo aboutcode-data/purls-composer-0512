@@ -105,6 +105,7 @@
 - pkg:composer/hostinger/api-php-sdk@1.51.1
 - pkg:composer/hostinger/api-php-sdk@1.52.0
 - pkg:composer/hostinger/api-php-sdk@1.52.1
+- pkg:composer/hostinger/api-php-sdk@1.52.2
 - pkg:composer/hostinger/api-php-sdk@1.6.0
 - pkg:composer/hostinger/api-php-sdk@1.6.1
 - pkg:composer/hostinger/api-php-sdk@1.6.2
