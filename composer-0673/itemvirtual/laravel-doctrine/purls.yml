@@ -7,3 +7,4 @@
 - pkg:composer/itemvirtual/laravel-doctrine@1.0.6
 - pkg:composer/itemvirtual/laravel-doctrine@1.0.7
 - pkg:composer/itemvirtual/laravel-doctrine@2.0.0
+- pkg:composer/itemvirtual/laravel-doctrine@2.0.1
