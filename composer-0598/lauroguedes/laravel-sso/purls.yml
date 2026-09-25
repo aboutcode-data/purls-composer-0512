@@ -1,3 +1,4 @@
 - pkg:composer/lauroguedes/laravel-sso@v1.0.0
 - pkg:composer/lauroguedes/laravel-sso@v1.0.1
 - pkg:composer/lauroguedes/laravel-sso@v1.0.2
+- pkg:composer/lauroguedes/laravel-sso@v2.0.0
