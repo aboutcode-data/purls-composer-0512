@@ -111,3 +111,4 @@
 - pkg:composer/leapt/core-bundle@v6.1.0
 - pkg:composer/leapt/core-bundle@v6.2.0
 - pkg:composer/leapt/core-bundle@v6.3.0
+- pkg:composer/leapt/core-bundle@v6.4.0
