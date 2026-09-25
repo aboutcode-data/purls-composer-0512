@@ -1,1 +1,2 @@
 - pkg:composer/kalprajsolutions/laravel-turnstile@1.0.0
+- pkg:composer/kalprajsolutions/laravel-turnstile@v1.2
