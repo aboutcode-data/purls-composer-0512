@@ -19,3 +19,5 @@
 - pkg:composer/johnfmorton/craft-bespoken@5.3.5
 - pkg:composer/johnfmorton/craft-bespoken@5.3.6
 - pkg:composer/johnfmorton/craft-bespoken@5.4.0
+- pkg:composer/johnfmorton/craft-bespoken@5.5.0
+- pkg:composer/johnfmorton/craft-bespoken@5.6.0
