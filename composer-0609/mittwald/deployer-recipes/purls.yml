@@ -12,3 +12,5 @@
 - pkg:composer/mittwald/deployer-recipes@v1.0.0-beta8
 - pkg:composer/mittwald/deployer-recipes@v1.0.0-beta9
 - pkg:composer/mittwald/deployer-recipes@v1.0.1
+- pkg:composer/mittwald/deployer-recipes@v1.0.2
+- pkg:composer/mittwald/deployer-recipes@v1.0.3
