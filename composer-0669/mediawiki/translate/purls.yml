@@ -70,3 +70,4 @@
 - pkg:composer/mediawiki/translate@2025.03
 - pkg:composer/mediawiki/translate@2025.07
 - pkg:composer/mediawiki/translate@2026.02
+- pkg:composer/mediawiki/translate@2026.09
