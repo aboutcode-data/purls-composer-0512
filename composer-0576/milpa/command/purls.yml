@@ -21,6 +21,7 @@
 - pkg:composer/milpa/command@v0.25.2
 - pkg:composer/milpa/command@v0.25.3
 - pkg:composer/milpa/command@v0.25.4
+- pkg:composer/milpa/command@v0.25.5
 - pkg:composer/milpa/command@v0.3.0
 - pkg:composer/milpa/command@v0.3.1
 - pkg:composer/milpa/command@v0.4.0
