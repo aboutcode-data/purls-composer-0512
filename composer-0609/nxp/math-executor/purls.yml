@@ -42,3 +42,4 @@
 - pkg:composer/nxp/math-executor@v2.3.6
 - pkg:composer/nxp/math-executor@v2.3.7
 - pkg:composer/nxp/math-executor@v2.3.8
+- pkg:composer/nxp/math-executor@v2.4.0
