@@ -13,3 +13,4 @@
 - pkg:composer/micschk/silverstripe-groupable-gridfield@2.4.0
 - pkg:composer/micschk/silverstripe-groupable-gridfield@2.4.1
 - pkg:composer/micschk/silverstripe-groupable-gridfield@3.0.0
+- pkg:composer/micschk/silverstripe-groupable-gridfield@4.0.0
