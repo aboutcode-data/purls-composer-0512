@@ -58,3 +58,4 @@
 - pkg:composer/mediawiki/babel@2025.03
 - pkg:composer/mediawiki/babel@2025.07
 - pkg:composer/mediawiki/babel@2026.02
+- pkg:composer/mediawiki/babel@2026.09
