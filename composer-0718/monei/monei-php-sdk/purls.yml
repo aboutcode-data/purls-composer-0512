@@ -37,6 +37,7 @@
 - pkg:composer/monei/monei-php-sdk@2.10.4
 - pkg:composer/monei/monei-php-sdk@2.10.5
 - pkg:composer/monei/monei-php-sdk@2.11.0
+- pkg:composer/monei/monei-php-sdk@2.12.0
 - pkg:composer/monei/monei-php-sdk@2.2.0
 - pkg:composer/monei/monei-php-sdk@2.2.1
 - pkg:composer/monei/monei-php-sdk@2.2.2
