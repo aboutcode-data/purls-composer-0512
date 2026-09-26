@@ -384,6 +384,8 @@
 - pkg:composer/moonshine/moonshine@4.19.0
 - pkg:composer/moonshine/moonshine@4.19.1
 - pkg:composer/moonshine/moonshine@4.19.2
+- pkg:composer/moonshine/moonshine@4.19.3
+- pkg:composer/moonshine/moonshine@4.19.4
 - pkg:composer/moonshine/moonshine@4.2.0
 - pkg:composer/moonshine/moonshine@4.2.1
 - pkg:composer/moonshine/moonshine@4.2.2
