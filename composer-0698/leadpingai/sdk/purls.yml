@@ -58,6 +58,8 @@
 - pkg:composer/leadpingai/sdk@v1.0.60
 - pkg:composer/leadpingai/sdk@v1.0.61
 - pkg:composer/leadpingai/sdk@v1.0.62
+- pkg:composer/leadpingai/sdk@v1.0.63
+- pkg:composer/leadpingai/sdk@v1.0.64
 - pkg:composer/leadpingai/sdk@v1.0.7
 - pkg:composer/leadpingai/sdk@v1.0.8
 - pkg:composer/leadpingai/sdk@v1.0.9
