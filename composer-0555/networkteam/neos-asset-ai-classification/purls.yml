@@ -1,2 +1,4 @@
 - pkg:composer/networkteam/neos-asset-ai-classification@1.0.0
 - pkg:composer/networkteam/neos-asset-ai-classification@1.0.1
+- pkg:composer/networkteam/neos-asset-ai-classification@1.0.2
+- pkg:composer/networkteam/neos-asset-ai-classification@1.0.3
