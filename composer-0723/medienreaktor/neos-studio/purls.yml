@@ -16,6 +16,10 @@
 - pkg:composer/medienreaktor/neos-studio@1.16.0
 - pkg:composer/medienreaktor/neos-studio@1.16.1
 - pkg:composer/medienreaktor/neos-studio@1.16.2
+- pkg:composer/medienreaktor/neos-studio@1.17.0
+- pkg:composer/medienreaktor/neos-studio@1.17.1
+- pkg:composer/medienreaktor/neos-studio@1.17.2
+- pkg:composer/medienreaktor/neos-studio@1.17.3
 - pkg:composer/medienreaktor/neos-studio@1.2
 - pkg:composer/medienreaktor/neos-studio@1.2.1
 - pkg:composer/medienreaktor/neos-studio@1.2.2
