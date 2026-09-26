@@ -56,3 +56,4 @@
 - pkg:composer/neos/seo@4.1.6
 - pkg:composer/neos/seo@4.1.7
 - pkg:composer/neos/seo@4.2.0
+- pkg:composer/neos/seo@4.2.1
