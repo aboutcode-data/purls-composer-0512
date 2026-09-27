@@ -18,6 +18,8 @@
 - pkg:composer/phpexperts/dockerize@v13.0.3
 - pkg:composer/phpexperts/dockerize@v14.0.0
 - pkg:composer/phpexperts/dockerize@v14.1.0
+- pkg:composer/phpexperts/dockerize@v14.2.0
+- pkg:composer/phpexperts/dockerize@v15.0.0
 - pkg:composer/phpexperts/dockerize@v5.0
 - pkg:composer/phpexperts/dockerize@v5.0.1
 - pkg:composer/phpexperts/dockerize@v5.0.2
