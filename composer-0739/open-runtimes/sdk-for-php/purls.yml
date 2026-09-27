@@ -14,3 +14,4 @@
 - pkg:composer/open-runtimes/sdk-for-php@1.0.0
 - pkg:composer/open-runtimes/sdk-for-php@1.0.1
 - pkg:composer/open-runtimes/sdk-for-php@2.0.0
+- pkg:composer/open-runtimes/sdk-for-php@2.1.0
