@@ -30,6 +30,7 @@
 - pkg:composer/netresearch/agent-typo3-conformance@v2.19.4
 - pkg:composer/netresearch/agent-typo3-conformance@v2.19.5
 - pkg:composer/netresearch/agent-typo3-conformance@v2.19.6
+- pkg:composer/netresearch/agent-typo3-conformance@v2.19.7
 - pkg:composer/netresearch/agent-typo3-conformance@v2.2.0
 - pkg:composer/netresearch/agent-typo3-conformance@v2.2.1
 - pkg:composer/netresearch/agent-typo3-conformance@v2.3.0

@@ -57,6 +57,7 @@
 - pkg:composer/netresearch/agent-jira-skill@v3.32.0
 - pkg:composer/netresearch/agent-jira-skill@v3.32.1
 - pkg:composer/netresearch/agent-jira-skill@v3.32.2
+- pkg:composer/netresearch/agent-jira-skill@v3.32.3
 - pkg:composer/netresearch/agent-jira-skill@v3.4.0
 - pkg:composer/netresearch/agent-jira-skill@v3.5.0
 - pkg:composer/netresearch/agent-jira-skill@v3.6.0
