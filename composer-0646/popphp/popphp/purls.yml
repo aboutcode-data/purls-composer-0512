@@ -83,6 +83,8 @@
 - pkg:composer/popphp/popphp@5.0.12
 - pkg:composer/popphp/popphp@5.0.13
 - pkg:composer/popphp/popphp@5.0.14
+- pkg:composer/popphp/popphp@5.0.15
+- pkg:composer/popphp/popphp@5.0.16
 - pkg:composer/popphp/popphp@5.0.2
 - pkg:composer/popphp/popphp@5.0.3
 - pkg:composer/popphp/popphp@5.0.4
