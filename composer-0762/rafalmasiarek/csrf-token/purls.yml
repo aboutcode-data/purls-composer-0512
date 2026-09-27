@@ -8,3 +8,5 @@
 - pkg:composer/rafalmasiarek/csrf-token@v1.3.4
 - pkg:composer/rafalmasiarek/csrf-token@v1.4.0
 - pkg:composer/rafalmasiarek/csrf-token@v1.5.0
+- pkg:composer/rafalmasiarek/csrf-token@v1.5.1
+- pkg:composer/rafalmasiarek/csrf-token@v1.6.0
