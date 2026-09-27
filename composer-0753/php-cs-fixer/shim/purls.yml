@@ -183,6 +183,8 @@
 - pkg:composer/php-cs-fixer/shim@v3.95.23
 - pkg:composer/php-cs-fixer/shim@v3.95.24
 - pkg:composer/php-cs-fixer/shim@v3.95.25
+- pkg:composer/php-cs-fixer/shim@v3.95.26
+- pkg:composer/php-cs-fixer/shim@v3.95.27
 - pkg:composer/php-cs-fixer/shim@v3.95.3
 - pkg:composer/php-cs-fixer/shim@v3.95.4
 - pkg:composer/php-cs-fixer/shim@v3.95.5
