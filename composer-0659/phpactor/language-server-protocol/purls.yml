@@ -9,3 +9,4 @@
 - pkg:composer/phpactor/language-server-protocol@3.17.3
 - pkg:composer/phpactor/language-server-protocol@3.17.4
 - pkg:composer/phpactor/language-server-protocol@3.17.5
+- pkg:composer/phpactor/language-server-protocol@3.17.6
