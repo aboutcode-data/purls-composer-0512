@@ -34,3 +34,4 @@
 - pkg:composer/riclep/storyblok-php-client@2.7
 - pkg:composer/riclep/storyblok-php-client@2.8.0
 - pkg:composer/riclep/storyblok-php-client@2.9.0
+- pkg:composer/riclep/storyblok-php-client@2.9.1
