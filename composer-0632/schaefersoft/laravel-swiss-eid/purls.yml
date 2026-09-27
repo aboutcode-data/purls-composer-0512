@@ -9,3 +9,6 @@
 - pkg:composer/schaefersoft/laravel-swiss-eid@v0.4.2
 - pkg:composer/schaefersoft/laravel-swiss-eid@v0.5.0
 - pkg:composer/schaefersoft/laravel-swiss-eid@v0.5.1
+- pkg:composer/schaefersoft/laravel-swiss-eid@v0.5.2
+- pkg:composer/schaefersoft/laravel-swiss-eid@v0.6.0
+- pkg:composer/schaefersoft/laravel-swiss-eid@v0.7.0
