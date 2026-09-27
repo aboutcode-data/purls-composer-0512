@@ -184,3 +184,4 @@
 - pkg:composer/openclassify/openclassify@3.1.1
 - pkg:composer/openclassify/openclassify@4.0
 - pkg:composer/openclassify/openclassify@4.1
+- pkg:composer/openclassify/openclassify@4.2
