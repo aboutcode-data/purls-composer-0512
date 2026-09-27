@@ -119,3 +119,5 @@
 - pkg:composer/ronu/rest-generic-class@v1.0.0
 - pkg:composer/ronu/rest-generic-class@v2.4.0
 - pkg:composer/ronu/rest-generic-class@v2.4.1
+- pkg:composer/ronu/rest-generic-class@v2.4.2
+- pkg:composer/ronu/rest-generic-class@v2.5.0
