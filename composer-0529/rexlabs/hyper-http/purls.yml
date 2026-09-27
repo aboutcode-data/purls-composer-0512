@@ -13,3 +13,4 @@
 - pkg:composer/rexlabs/hyper-http@3.0.0
 - pkg:composer/rexlabs/hyper-http@4.0.0
 - pkg:composer/rexlabs/hyper-http@4.1.0
+- pkg:composer/rexlabs/hyper-http@4.2.0
