@@ -11,3 +11,7 @@
 - pkg:composer/mrjthedifferent/laravel-foundation@v1.5.1
 - pkg:composer/mrjthedifferent/laravel-foundation@v1.5.2
 - pkg:composer/mrjthedifferent/laravel-foundation@v1.5.3
+- pkg:composer/mrjthedifferent/laravel-foundation@v1.5.4
+- pkg:composer/mrjthedifferent/laravel-foundation@v1.6.0
+- pkg:composer/mrjthedifferent/laravel-foundation@v1.7.0
+- pkg:composer/mrjthedifferent/laravel-foundation@v1.7.1
