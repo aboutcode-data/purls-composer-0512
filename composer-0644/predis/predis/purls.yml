@@ -55,3 +55,4 @@
 - pkg:composer/predis/predis@v3.5.0
 - pkg:composer/predis/predis@v3.5.1
 - pkg:composer/predis/predis@v3.6.0
+- pkg:composer/predis/predis@v3.6.1
