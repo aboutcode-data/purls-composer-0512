@@ -7,6 +7,8 @@
 - pkg:composer/patrickhanna/laravel-warden@v3.1.0
 - pkg:composer/patrickhanna/laravel-warden@v3.10.0
 - pkg:composer/patrickhanna/laravel-warden@v3.11.0
+- pkg:composer/patrickhanna/laravel-warden@v3.12.0
+- pkg:composer/patrickhanna/laravel-warden@v3.13.0
 - pkg:composer/patrickhanna/laravel-warden@v3.2.0
 - pkg:composer/patrickhanna/laravel-warden@v3.2.1
 - pkg:composer/patrickhanna/laravel-warden@v3.2.2
@@ -19,3 +21,4 @@
 - pkg:composer/patrickhanna/laravel-warden@v3.7.0
 - pkg:composer/patrickhanna/laravel-warden@v3.8.0
 - pkg:composer/patrickhanna/laravel-warden@v3.9.0
+- pkg:composer/patrickhanna/laravel-warden@v4.0.0
