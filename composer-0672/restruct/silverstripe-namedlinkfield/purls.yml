@@ -17,3 +17,4 @@
 - pkg:composer/restruct/silverstripe-namedlinkfield@2.1.4
 - pkg:composer/restruct/silverstripe-namedlinkfield@3.0.0
 - pkg:composer/restruct/silverstripe-namedlinkfield@3.0.1
+- pkg:composer/restruct/silverstripe-namedlinkfield@3.0.2
