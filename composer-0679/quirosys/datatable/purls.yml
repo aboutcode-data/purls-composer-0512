@@ -6,3 +6,6 @@
 - pkg:composer/quirosys/datatable@v1.4.0
 - pkg:composer/quirosys/datatable@v2.0.0
 - pkg:composer/quirosys/datatable@v2.1.0
+- pkg:composer/quirosys/datatable@v2.1.1
+- pkg:composer/quirosys/datatable@v2.1.2
+- pkg:composer/quirosys/datatable@v2.1.3
