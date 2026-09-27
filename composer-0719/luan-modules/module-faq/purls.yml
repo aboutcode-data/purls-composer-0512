@@ -3,3 +3,4 @@
 - pkg:composer/luan-modules/module-faq@1.1.0
 - pkg:composer/luan-modules/module-faq@1.1.1
 - pkg:composer/luan-modules/module-faq@1.1.2
+- pkg:composer/luan-modules/module-faq@2.0.0
