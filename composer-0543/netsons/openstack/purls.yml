@@ -48,3 +48,4 @@
 - pkg:composer/netsons/openstack@v3.2.1.7
 - pkg:composer/netsons/openstack@v3.2.1.8
 - pkg:composer/netsons/openstack@v3.2.1.9
+- pkg:composer/netsons/openstack@v3.7.1
