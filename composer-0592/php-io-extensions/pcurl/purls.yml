@@ -1,1 +1,2 @@
+- pkg:composer/php-io-extensions/pcurl@0.10.0
 - pkg:composer/php-io-extensions/pcurl@0.9.0
