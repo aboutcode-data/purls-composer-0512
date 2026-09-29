@@ -35,3 +35,4 @@
 - pkg:composer/spryker-sdk/evaluator@0.3.5
 - pkg:composer/spryker-sdk/evaluator@0.3.6
 - pkg:composer/spryker-sdk/evaluator@0.3.7
+- pkg:composer/spryker-sdk/evaluator@0.3.8
