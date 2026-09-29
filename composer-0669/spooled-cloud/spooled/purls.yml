@@ -22,3 +22,6 @@
 - pkg:composer/spooled-cloud/spooled@v1.0.9
 - pkg:composer/spooled-cloud/spooled@v1.1.0
 - pkg:composer/spooled-cloud/spooled@v1.2.0
+- pkg:composer/spooled-cloud/spooled@v1.2.1
+- pkg:composer/spooled-cloud/spooled@v1.2.2
+- pkg:composer/spooled-cloud/spooled@v1.2.3
