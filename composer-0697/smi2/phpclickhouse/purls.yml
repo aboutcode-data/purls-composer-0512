@@ -28,6 +28,7 @@
 - pkg:composer/smi2/phpclickhouse@1.26.417
 - pkg:composer/smi2/phpclickhouse@1.26.423
 - pkg:composer/smi2/phpclickhouse@1.26.610
+- pkg:composer/smi2/phpclickhouse@1.26.925
 - pkg:composer/smi2/phpclickhouse@1.3.1
 - pkg:composer/smi2/phpclickhouse@1.3.10
 - pkg:composer/smi2/phpclickhouse@1.3.2
