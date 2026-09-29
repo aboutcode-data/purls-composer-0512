@@ -17,6 +17,7 @@
 - pkg:composer/repull/sdk@v0.2.23
 - pkg:composer/repull/sdk@v0.2.24
 - pkg:composer/repull/sdk@v0.2.25
+- pkg:composer/repull/sdk@v0.2.26
 - pkg:composer/repull/sdk@v0.2.3
 - pkg:composer/repull/sdk@v0.2.4
 - pkg:composer/repull/sdk@v0.2.5
