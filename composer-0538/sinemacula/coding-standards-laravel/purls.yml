@@ -9,3 +9,5 @@
 - pkg:composer/sinemacula/coding-standards-laravel@v1.4.0
 - pkg:composer/sinemacula/coding-standards-laravel@v1.5.0
 - pkg:composer/sinemacula/coding-standards-laravel@v1.6.0
+- pkg:composer/sinemacula/coding-standards-laravel@v1.6.1
+- pkg:composer/sinemacula/coding-standards-laravel@v1.6.2
