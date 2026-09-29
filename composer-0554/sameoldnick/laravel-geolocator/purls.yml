@@ -1,1 +1,2 @@
 - pkg:composer/sameoldnick/laravel-geolocator@v1.0.0
+- pkg:composer/sameoldnick/laravel-geolocator@v2.0.0
