@@ -1,1 +1,2 @@
 - pkg:composer/rosgear/rg-be-config-session@v1.0
+- pkg:composer/rosgear/rg-be-config-session@v1.0.1
