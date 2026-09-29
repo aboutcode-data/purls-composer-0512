@@ -13,3 +13,4 @@
 - pkg:composer/spryker/quote-requests-rest-api@0.2.5
 - pkg:composer/spryker/quote-requests-rest-api@0.3.0
 - pkg:composer/spryker/quote-requests-rest-api@0.3.1
+- pkg:composer/spryker/quote-requests-rest-api@0.3.2
