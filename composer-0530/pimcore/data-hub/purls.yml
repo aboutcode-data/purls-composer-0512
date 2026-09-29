@@ -111,3 +111,4 @@
 - pkg:composer/pimcore/data-hub@v2026.2.6
 - pkg:composer/pimcore/data-hub@v2026.2.7
 - pkg:composer/pimcore/data-hub@v2026.2.8
+- pkg:composer/pimcore/data-hub@v2026.3.0
