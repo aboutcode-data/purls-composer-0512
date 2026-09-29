@@ -1,4 +1,7 @@
 - pkg:composer/parkktech/fastmagento@v2.10.0
+- pkg:composer/parkktech/fastmagento@v2.10.1
+- pkg:composer/parkktech/fastmagento@v2.11.0
+- pkg:composer/parkktech/fastmagento@v2.11.1
 - pkg:composer/parkktech/fastmagento@v2.2.2
 - pkg:composer/parkktech/fastmagento@v2.2.3
 - pkg:composer/parkktech/fastmagento@v2.2.4
