@@ -33,6 +33,10 @@
 - pkg:composer/swoole-bundle/swoole-bundle@v0.32.0
 - pkg:composer/swoole-bundle/swoole-bundle@v0.33.0
 - pkg:composer/swoole-bundle/swoole-bundle@v0.34.0
+- pkg:composer/swoole-bundle/swoole-bundle@v0.35.0
+- pkg:composer/swoole-bundle/swoole-bundle@v0.35.1
+- pkg:composer/swoole-bundle/swoole-bundle@v0.35.2
+- pkg:composer/swoole-bundle/swoole-bundle@v0.35.3
 - pkg:composer/swoole-bundle/swoole-bundle@v0.4.0
 - pkg:composer/swoole-bundle/swoole-bundle@v0.4.1
 - pkg:composer/swoole-bundle/swoole-bundle@v0.4.2
