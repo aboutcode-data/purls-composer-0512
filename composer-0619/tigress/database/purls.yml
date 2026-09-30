@@ -2,3 +2,4 @@
 - pkg:composer/tigress/database@2025.01.23.0
 - pkg:composer/tigress/database@2025.12.09.0
 - pkg:composer/tigress/database@2026.05.21.0
+- pkg:composer/tigress/database@2026.05.21.1
