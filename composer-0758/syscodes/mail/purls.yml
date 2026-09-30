@@ -3,3 +3,4 @@
 - pkg:composer/syscodes/mail@v0.8.15
 - pkg:composer/syscodes/mail@v0.8.16
 - pkg:composer/syscodes/mail@v0.9.0
+- pkg:composer/syscodes/mail@v0.9.1

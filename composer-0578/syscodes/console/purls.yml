@@ -22,3 +22,4 @@
 - pkg:composer/syscodes/console@v0.8.8
 - pkg:composer/syscodes/console@v0.8.9
 - pkg:composer/syscodes/console@v0.9.0
+- pkg:composer/syscodes/console@v0.9.1
