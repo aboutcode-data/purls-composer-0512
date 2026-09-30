@@ -39,6 +39,14 @@
 - pkg:composer/survos/ai-workflow-bundle@2.28.2
 - pkg:composer/survos/ai-workflow-bundle@2.28.3
 - pkg:composer/survos/ai-workflow-bundle@2.3.0
+- pkg:composer/survos/ai-workflow-bundle@2.31.11
+- pkg:composer/survos/ai-workflow-bundle@2.31.12
+- pkg:composer/survos/ai-workflow-bundle@2.31.14
+- pkg:composer/survos/ai-workflow-bundle@2.31.8
+- pkg:composer/survos/ai-workflow-bundle@2.31.9
+- pkg:composer/survos/ai-workflow-bundle@2.33.0
+- pkg:composer/survos/ai-workflow-bundle@2.33.2
+- pkg:composer/survos/ai-workflow-bundle@2.34.1
 - pkg:composer/survos/ai-workflow-bundle@2.4.0
 - pkg:composer/survos/ai-workflow-bundle@2.4.1
 - pkg:composer/survos/ai-workflow-bundle@2.4.2
