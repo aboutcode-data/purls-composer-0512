@@ -1,4 +1,6 @@
 - pkg:composer/uak35/laravel-response-compression@v0.0.1
+- pkg:composer/uak35/laravel-response-compression@v0.0.10
+- pkg:composer/uak35/laravel-response-compression@v0.0.10-alpha1
 - pkg:composer/uak35/laravel-response-compression@v0.0.2
 - pkg:composer/uak35/laravel-response-compression@v0.0.3
 - pkg:composer/uak35/laravel-response-compression@v0.0.4
