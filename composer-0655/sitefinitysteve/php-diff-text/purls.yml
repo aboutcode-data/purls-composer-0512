@@ -1,2 +1,4 @@
 - pkg:composer/sitefinitysteve/php-diff-text@1.5.0
 - pkg:composer/sitefinitysteve/php-diff-text@1.5.4
+- pkg:composer/sitefinitysteve/php-diff-text@1.5.5
+- pkg:composer/sitefinitysteve/php-diff-text@1.6.0
