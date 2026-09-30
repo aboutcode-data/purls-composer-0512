@@ -4,3 +4,6 @@
 - pkg:composer/survos/grist-bundle@2.26.5
 - pkg:composer/survos/grist-bundle@2.26.6
 - pkg:composer/survos/grist-bundle@2.26.9
+- pkg:composer/survos/grist-bundle@2.31.1
+- pkg:composer/survos/grist-bundle@2.33.0
+- pkg:composer/survos/grist-bundle@2.34.1
