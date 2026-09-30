@@ -6,3 +6,4 @@
 - pkg:composer/tideways/laravel-octane-middleware@v1.4
 - pkg:composer/tideways/laravel-octane-middleware@v1.5
 - pkg:composer/tideways/laravel-octane-middleware@v1.6
+- pkg:composer/tideways/laravel-octane-middleware@v1.7
