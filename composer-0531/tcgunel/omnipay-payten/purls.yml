@@ -1,2 +1,3 @@
 - pkg:composer/tcgunel/omnipay-payten@v1.0.0
 - pkg:composer/tcgunel/omnipay-payten@v2.0.0
+- pkg:composer/tcgunel/omnipay-payten@v2.1.0
