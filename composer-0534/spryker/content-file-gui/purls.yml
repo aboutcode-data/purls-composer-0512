@@ -13,3 +13,4 @@
 - pkg:composer/spryker/content-file-gui@2.3.0
 - pkg:composer/spryker/content-file-gui@2.4.0
 - pkg:composer/spryker/content-file-gui@2.5.0
+- pkg:composer/spryker/content-file-gui@2.5.1
