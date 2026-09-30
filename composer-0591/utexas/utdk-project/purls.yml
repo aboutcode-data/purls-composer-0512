@@ -54,6 +54,10 @@
 - pkg:composer/utexas/utdk-project@3.31.3
 - pkg:composer/utexas/utdk-project@3.31.4
 - pkg:composer/utexas/utdk-project@3.31.5
+- pkg:composer/utexas/utdk-project@3.32.0
+- pkg:composer/utexas/utdk-project@3.32.1
+- pkg:composer/utexas/utdk-project@3.32.2
+- pkg:composer/utexas/utdk-project@3.32.3
 - pkg:composer/utexas/utdk-project@3.4.1
 - pkg:composer/utexas/utdk-project@3.5.0
 - pkg:composer/utexas/utdk-project@3.5.1
