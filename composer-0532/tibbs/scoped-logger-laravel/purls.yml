@@ -4,3 +4,4 @@
 - pkg:composer/tibbs/scoped-logger-laravel@v1.0
 - pkg:composer/tibbs/scoped-logger-laravel@v1.1
 - pkg:composer/tibbs/scoped-logger-laravel@v1.2
+- pkg:composer/tibbs/scoped-logger-laravel@v2.0
