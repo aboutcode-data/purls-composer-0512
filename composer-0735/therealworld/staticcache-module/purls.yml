@@ -46,3 +46,8 @@
 - pkg:composer/therealworld/staticcache-module@v2.1.7
 - pkg:composer/therealworld/staticcache-module@v2.1.8
 - pkg:composer/therealworld/staticcache-module@v2.1.9
+- pkg:composer/therealworld/staticcache-module@v3.0.0
+- pkg:composer/therealworld/staticcache-module@v3.0.1
+- pkg:composer/therealworld/staticcache-module@v3.0.2
+- pkg:composer/therealworld/staticcache-module@v3.0.3
+- pkg:composer/therealworld/staticcache-module@v3.0.4
