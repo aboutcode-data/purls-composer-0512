@@ -12,3 +12,5 @@
 - pkg:composer/two-inc/magento2-hyva-checkout@2.0.2
 - pkg:composer/two-inc/magento2-hyva-checkout@2.0.3
 - pkg:composer/two-inc/magento2-hyva-checkout@2.1.0
+- pkg:composer/two-inc/magento2-hyva-checkout@2.1.1
+- pkg:composer/two-inc/magento2-hyva-checkout@3.0.0
