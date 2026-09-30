@@ -29,6 +29,7 @@
 - pkg:composer/thelia/thelia-library-module@1.4.0
 - pkg:composer/thelia/thelia-library-module@2.0.0
 - pkg:composer/thelia/thelia-library-module@2.0.1
+- pkg:composer/thelia/thelia-library-module@2.0.10
 - pkg:composer/thelia/thelia-library-module@2.0.2
 - pkg:composer/thelia/thelia-library-module@2.0.3
 - pkg:composer/thelia/thelia-library-module@2.0.4
@@ -36,3 +37,4 @@
 - pkg:composer/thelia/thelia-library-module@2.0.6
 - pkg:composer/thelia/thelia-library-module@2.0.7
 - pkg:composer/thelia/thelia-library-module@2.0.8
+- pkg:composer/thelia/thelia-library-module@2.0.9
