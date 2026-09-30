@@ -5,3 +5,4 @@
 - pkg:composer/thesis/grpc-server@0.1.6
 - pkg:composer/thesis/grpc-server@0.1.9
 - pkg:composer/thesis/grpc-server@0.2.0
+- pkg:composer/thesis/grpc-server@0.3.0
