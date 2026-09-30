@@ -48,3 +48,4 @@
 - pkg:composer/userfrosting/sprinkle-core@6.0.0-rc.5
 - pkg:composer/userfrosting/sprinkle-core@6.0.1
 - pkg:composer/userfrosting/sprinkle-core@6.0.2
+- pkg:composer/userfrosting/sprinkle-core@6.0.3
