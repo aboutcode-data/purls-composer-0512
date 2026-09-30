@@ -25,6 +25,7 @@
 - pkg:composer/symfony/scheduler@v6.4.41
 - pkg:composer/symfony/scheduler@v6.4.43
 - pkg:composer/symfony/scheduler@v6.4.44
+- pkg:composer/symfony/scheduler@v6.4.47
 - pkg:composer/symfony/scheduler@v6.4.7
 - pkg:composer/symfony/scheduler@v6.4.8
 - pkg:composer/symfony/scheduler@v7.0.0
@@ -64,6 +65,7 @@
 - pkg:composer/symfony/scheduler@v7.4.13
 - pkg:composer/symfony/scheduler@v7.4.15
 - pkg:composer/symfony/scheduler@v7.4.17
+- pkg:composer/symfony/scheduler@v7.4.20
 - pkg:composer/symfony/scheduler@v7.4.4
 - pkg:composer/symfony/scheduler@v7.4.8
 - pkg:composer/symfony/scheduler@v7.4.9
@@ -84,3 +86,4 @@
 - pkg:composer/symfony/scheduler@v8.1.2
 - pkg:composer/symfony/scheduler@v8.1.5
 - pkg:composer/symfony/scheduler@v8.1.7
+- pkg:composer/symfony/scheduler@v8.1.8
