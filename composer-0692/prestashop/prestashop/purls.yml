@@ -119,5 +119,6 @@
 - pkg:composer/prestashop/prestashop@9.1.3
 - pkg:composer/prestashop/prestashop@9.1.4
 - pkg:composer/prestashop/prestashop@9.1.5
+- pkg:composer/prestashop/prestashop@9.2.0
 - pkg:composer/prestashop/prestashop@9.2.0-beta.1
 - pkg:composer/prestashop/prestashop@9.2.0-rc.1
