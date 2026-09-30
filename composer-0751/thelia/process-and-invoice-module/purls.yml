@@ -10,3 +10,4 @@
 - pkg:composer/thelia/process-and-invoice-module@1.2.4
 - pkg:composer/thelia/process-and-invoice-module@1.2.5
 - pkg:composer/thelia/process-and-invoice-module@2.0.0
+- pkg:composer/thelia/process-and-invoice-module@3.0.0
