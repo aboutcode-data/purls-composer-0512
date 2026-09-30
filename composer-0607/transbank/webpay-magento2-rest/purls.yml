@@ -22,3 +22,4 @@
 - pkg:composer/transbank/webpay-magento2-rest@2.2.0
 - pkg:composer/transbank/webpay-magento2-rest@2.2.1
 - pkg:composer/transbank/webpay-magento2-rest@2.3.0
+- pkg:composer/transbank/webpay-magento2-rest@2.4.0
