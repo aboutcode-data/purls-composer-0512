@@ -88,3 +88,4 @@
 - pkg:composer/tillkruss/redis-object-cache@2.6.5
 - pkg:composer/tillkruss/redis-object-cache@2.7.0
 - pkg:composer/tillkruss/redis-object-cache@2.8.0
+- pkg:composer/tillkruss/redis-object-cache@3.0.0
