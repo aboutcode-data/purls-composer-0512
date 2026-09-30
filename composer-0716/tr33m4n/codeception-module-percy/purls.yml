@@ -40,3 +40,4 @@
 - pkg:composer/tr33m4n/codeception-module-percy@v5.0.9
 - pkg:composer/tr33m4n/codeception-module-percy@v6.0.0
 - pkg:composer/tr33m4n/codeception-module-percy@v6.0.1
+- pkg:composer/tr33m4n/codeception-module-percy@v7.0.0
