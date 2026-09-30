@@ -4,3 +4,4 @@
 - pkg:composer/vanilo/paypal@2.0.0
 - pkg:composer/vanilo/paypal@2.1.0
 - pkg:composer/vanilo/paypal@3.0.0
+- pkg:composer/vanilo/paypal@4.0.0
