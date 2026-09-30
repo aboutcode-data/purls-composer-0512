@@ -24,5 +24,6 @@
 - pkg:composer/siftscience/sift-php@4.6.0
 - pkg:composer/siftscience/sift-php@4.7.0
 - pkg:composer/siftscience/sift-php@4.8.0
+- pkg:composer/siftscience/sift-php@4.9.0
 - pkg:composer/siftscience/sift-php@v1.0.2
 - pkg:composer/siftscience/sift-php@v1.0.3
