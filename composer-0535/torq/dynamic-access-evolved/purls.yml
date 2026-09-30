@@ -12,3 +12,5 @@
 - pkg:composer/torq/dynamic-access-evolved@v0.6.3
 - pkg:composer/torq/dynamic-access-evolved@v0.6.4
 - pkg:composer/torq/dynamic-access-evolved@v0.7
+- pkg:composer/torq/dynamic-access-evolved@v0.7.1
+- pkg:composer/torq/dynamic-access-evolved@v0.7.2
