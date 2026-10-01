@@ -58,3 +58,4 @@
 - pkg:composer/torq/shopwarecommon@4.2.3
 - pkg:composer/torq/shopwarecommon@4.2.4
 - pkg:composer/torq/shopwarecommon@4.2.5
+- pkg:composer/torq/shopwarecommon@4.3.0
