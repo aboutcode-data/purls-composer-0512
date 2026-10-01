@@ -31,3 +31,4 @@
 - pkg:composer/worldoptions/php-sdk@v1.3.8
 - pkg:composer/worldoptions/php-sdk@v1.3.9
 - pkg:composer/worldoptions/php-sdk@v1.4.0
+- pkg:composer/worldoptions/php-sdk@v1.5
