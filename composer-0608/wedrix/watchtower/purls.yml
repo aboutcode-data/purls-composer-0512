@@ -13,6 +13,8 @@
 - pkg:composer/wedrix/watchtower@v12.1.0
 - pkg:composer/wedrix/watchtower@v12.2.0
 - pkg:composer/wedrix/watchtower@v12.2.1
+- pkg:composer/wedrix/watchtower@v12.2.2
+- pkg:composer/wedrix/watchtower@v12.2.3
 - pkg:composer/wedrix/watchtower@v2.0.0
 - pkg:composer/wedrix/watchtower@v2.0.0-alpha.1
 - pkg:composer/wedrix/watchtower@v2.0.0-alpha.2
