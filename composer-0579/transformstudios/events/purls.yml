@@ -74,3 +74,5 @@
 - pkg:composer/transformstudios/events@v6.1.6
 - pkg:composer/transformstudios/events@v6.1.7
 - pkg:composer/transformstudios/events@v6.2.0
+- pkg:composer/transformstudios/events@v6.2.1
+- pkg:composer/transformstudios/events@v6.2.2
