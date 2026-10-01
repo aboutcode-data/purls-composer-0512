@@ -6,3 +6,4 @@
 - pkg:composer/win32service/service-library@v1.0.0
 - pkg:composer/win32service/service-library@v1.0.1
 - pkg:composer/win32service/service-library@v1.0.2
+- pkg:composer/win32service/service-library@v1.1.0
