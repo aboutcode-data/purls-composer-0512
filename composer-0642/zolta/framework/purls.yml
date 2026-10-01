@@ -1,2 +1,6 @@
 - pkg:composer/zolta/framework@v1.0.0
 - pkg:composer/zolta/framework@v1.1.0
+- pkg:composer/zolta/framework@v1.1.0-beta.1
+- pkg:composer/zolta/framework@v1.1.1
+- pkg:composer/zolta/framework@v1.1.2
+- pkg:composer/zolta/framework@v1.1.3
