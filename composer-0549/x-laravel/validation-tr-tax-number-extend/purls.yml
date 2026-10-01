@@ -1,1 +1,2 @@
 - pkg:composer/x-laravel/validation-tr-tax-number-extend@v1.0.0
+- pkg:composer/x-laravel/validation-tr-tax-number-extend@v2.0.0
