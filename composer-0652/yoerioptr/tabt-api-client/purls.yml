@@ -1,3 +1,4 @@
+- pkg:composer/yoerioptr/tabt-api-client@2.2.0
 - pkg:composer/yoerioptr/tabt-api-client@v1.0.0
 - pkg:composer/yoerioptr/tabt-api-client@v1.0.1
 - pkg:composer/yoerioptr/tabt-api-client@v1.0.2
@@ -15,3 +16,4 @@
 - pkg:composer/yoerioptr/tabt-api-client@v2.0.6
 - pkg:composer/yoerioptr/tabt-api-client@v2.0.7
 - pkg:composer/yoerioptr/tabt-api-client@v2.1.0
+- pkg:composer/yoerioptr/tabt-api-client@v2.2.1
