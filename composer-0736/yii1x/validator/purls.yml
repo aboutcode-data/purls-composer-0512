@@ -1,2 +1,4 @@
 - pkg:composer/yii1x/validator@0.1.0
 - pkg:composer/yii1x/validator@v0.1.1
+- pkg:composer/yii1x/validator@v0.2.0
+- pkg:composer/yii1x/validator@v0.2.1
