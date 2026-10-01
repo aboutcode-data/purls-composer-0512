@@ -219,6 +219,11 @@
 - pkg:composer/adt/fancyadmin@v1.3.31
 - pkg:composer/adt/fancyadmin@v1.3.32
 - pkg:composer/adt/fancyadmin@v1.3.33
+- pkg:composer/adt/fancyadmin@v1.3.34
+- pkg:composer/adt/fancyadmin@v1.3.35
+- pkg:composer/adt/fancyadmin@v1.3.36
+- pkg:composer/adt/fancyadmin@v1.3.37
+- pkg:composer/adt/fancyadmin@v1.3.38
 - pkg:composer/adt/fancyadmin@v1.3.4
 - pkg:composer/adt/fancyadmin@v1.3.5
 - pkg:composer/adt/fancyadmin@v1.3.6
