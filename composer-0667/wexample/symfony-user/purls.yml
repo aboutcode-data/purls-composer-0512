@@ -1,2 +1,7 @@
 - pkg:composer/wexample/symfony-user@1.0.2
 - pkg:composer/wexample/symfony-user@1.0.3
+- pkg:composer/wexample/symfony-user@1.0.4
+- pkg:composer/wexample/symfony-user@4.0.0
+- pkg:composer/wexample/symfony-user@5.0.0
+- pkg:composer/wexample/symfony-user@7.0.0
+- pkg:composer/wexample/symfony-user@7.0.1

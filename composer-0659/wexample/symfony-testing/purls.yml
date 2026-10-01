@@ -112,3 +112,9 @@
 - pkg:composer/wexample/symfony-testing@1.0.90
 - pkg:composer/wexample/symfony-testing@1.0.91
 - pkg:composer/wexample/symfony-testing@2.0.0
+- pkg:composer/wexample/symfony-testing@2.0.1
+- pkg:composer/wexample/symfony-testing@2.0.2
+- pkg:composer/wexample/symfony-testing@2.0.3
+- pkg:composer/wexample/symfony-testing@2.0.4
+- pkg:composer/wexample/symfony-testing@3.0.0
+- pkg:composer/wexample/symfony-testing@4.0.0

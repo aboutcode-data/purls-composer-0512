@@ -113,3 +113,14 @@
 - pkg:composer/wexample/symfony-forms@4.0.0
 - pkg:composer/wexample/symfony-forms@5.0.0
 - pkg:composer/wexample/symfony-forms@6.0.0
+- pkg:composer/wexample/symfony-forms@7.0.0
+- pkg:composer/wexample/symfony-forms@7.0.1
+- pkg:composer/wexample/symfony-forms@7.0.2
+- pkg:composer/wexample/symfony-forms@7.0.3
+- pkg:composer/wexample/symfony-forms@7.0.4
+- pkg:composer/wexample/symfony-forms@7.0.5
+- pkg:composer/wexample/symfony-forms@8.0.0
+- pkg:composer/wexample/symfony-forms@8.0.1
+- pkg:composer/wexample/symfony-forms@8.0.2
+- pkg:composer/wexample/symfony-forms@8.0.3
+- pkg:composer/wexample/symfony-forms@8.0.4
