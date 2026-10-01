@@ -27,3 +27,4 @@
 - pkg:composer/webfiori/app@v3.0.0-RC.5
 - pkg:composer/webfiori/app@v3.0.0-RC0
 - pkg:composer/webfiori/app@v3.0.0-RC1
+- pkg:composer/webfiori/app@v3.1.0
