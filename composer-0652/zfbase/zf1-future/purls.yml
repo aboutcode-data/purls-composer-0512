@@ -2,3 +2,6 @@
 - pkg:composer/zfbase/zf1-future@1.24.4
 - pkg:composer/zfbase/zf1-future@1.24.5
 - pkg:composer/zfbase/zf1-future@1.24.6
+- pkg:composer/zfbase/zf1-future@v1.24.7
+- pkg:composer/zfbase/zf1-future@v1.24.8
+- pkg:composer/zfbase/zf1-future@v1.24.9
