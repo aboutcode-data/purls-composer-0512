@@ -26,3 +26,5 @@
 - pkg:composer/4rn0/statamic-image-optimizer@v2.0.0
 - pkg:composer/4rn0/statamic-image-optimizer@v2.1.0
 - pkg:composer/4rn0/statamic-image-optimizer@v2.1.1
+- pkg:composer/4rn0/statamic-image-optimizer@v2.1.2
+- pkg:composer/4rn0/statamic-image-optimizer@v2.1.3
