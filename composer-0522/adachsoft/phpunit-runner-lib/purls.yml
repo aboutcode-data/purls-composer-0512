@@ -1,1 +1,2 @@
 - pkg:composer/adachsoft/phpunit-runner-lib@v0.1.0
+- pkg:composer/adachsoft/phpunit-runner-lib@v0.2.0
