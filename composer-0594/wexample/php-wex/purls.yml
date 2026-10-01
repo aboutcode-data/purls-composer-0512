@@ -1,3 +1,5 @@
 - pkg:composer/wexample/php-wex@0.0.3
 - pkg:composer/wexample/php-wex@1.0.0
 - pkg:composer/wexample/php-wex@1.0.1
+- pkg:composer/wexample/php-wex@1.0.2
+- pkg:composer/wexample/php-wex@1.0.3

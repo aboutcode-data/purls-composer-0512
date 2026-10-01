@@ -30,3 +30,5 @@
 - pkg:composer/wexample/php-api@3.0.1
 - pkg:composer/wexample/php-api@4.0.0
 - pkg:composer/wexample/php-api@4.0.1
+- pkg:composer/wexample/php-api@4.0.2
+- pkg:composer/wexample/php-api@5.0.0
