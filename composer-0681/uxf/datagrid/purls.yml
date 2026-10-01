@@ -282,6 +282,7 @@
 - pkg:composer/uxf/datagrid@3.83.1
 - pkg:composer/uxf/datagrid@3.84.0
 - pkg:composer/uxf/datagrid@3.84.2
+- pkg:composer/uxf/datagrid@3.84.3
 - pkg:composer/uxf/datagrid@3.9.2
 - pkg:composer/uxf/datagrid@v0.1
 - pkg:composer/uxf/datagrid@v0.2
