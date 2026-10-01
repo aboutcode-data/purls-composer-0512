@@ -10,3 +10,5 @@
 - pkg:composer/wilkques/console@v3.4.0
 - pkg:composer/wilkques/console@v4.0.0
 - pkg:composer/wilkques/console@v4.3.0
+- pkg:composer/wilkques/console@v4.5.0
+- pkg:composer/wilkques/console@v4.5.1
