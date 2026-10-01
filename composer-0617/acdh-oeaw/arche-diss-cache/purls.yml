@@ -36,3 +36,6 @@
 - pkg:composer/acdh-oeaw/arche-diss-cache@3.0.7
 - pkg:composer/acdh-oeaw/arche-diss-cache@3.0.8
 - pkg:composer/acdh-oeaw/arche-diss-cache@3.0.9
+- pkg:composer/acdh-oeaw/arche-diss-cache@3.1.0
+- pkg:composer/acdh-oeaw/arche-diss-cache@3.2.0
+- pkg:composer/acdh-oeaw/arche-diss-cache@3.2.1
