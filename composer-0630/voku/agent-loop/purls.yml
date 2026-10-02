@@ -90,6 +90,7 @@
 - pkg:composer/voku/agent-loop@0.20.5
 - pkg:composer/voku/agent-loop@0.20.50
 - pkg:composer/voku/agent-loop@0.20.51
+- pkg:composer/voku/agent-loop@0.20.52
 - pkg:composer/voku/agent-loop@0.20.6
 - pkg:composer/voku/agent-loop@0.20.7
 - pkg:composer/voku/agent-loop@0.20.8
