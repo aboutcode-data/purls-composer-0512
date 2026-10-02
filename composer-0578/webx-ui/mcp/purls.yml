@@ -70,6 +70,7 @@
 - pkg:composer/webx-ui/mcp@v0.53.1
 - pkg:composer/webx-ui/mcp@v0.54.0
 - pkg:composer/webx-ui/mcp@v0.55.0
+- pkg:composer/webx-ui/mcp@v0.56.0
 - pkg:composer/webx-ui/mcp@v0.6.0
 - pkg:composer/webx-ui/mcp@v0.7.0
 - pkg:composer/webx-ui/mcp@v0.8.0
