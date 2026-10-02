@@ -36,6 +36,9 @@
 - pkg:composer/xlabs/mmadminbundle@2.0.2
 - pkg:composer/xlabs/mmadminbundle@2.0.20
 - pkg:composer/xlabs/mmadminbundle@2.0.21
+- pkg:composer/xlabs/mmadminbundle@2.0.22
+- pkg:composer/xlabs/mmadminbundle@2.0.23
+- pkg:composer/xlabs/mmadminbundle@2.0.24
 - pkg:composer/xlabs/mmadminbundle@2.0.3
 - pkg:composer/xlabs/mmadminbundle@2.0.4
 - pkg:composer/xlabs/mmadminbundle@2.0.5
