@@ -393,6 +393,7 @@
 - pkg:composer/bailing/helper@v3.2.34
 - pkg:composer/bailing/helper@v3.84.1
 - pkg:composer/bailing/helper@v3.84.10
+- pkg:composer/bailing/helper@v3.84.100
 - pkg:composer/bailing/helper@v3.84.11
 - pkg:composer/bailing/helper@v3.84.14
 - pkg:composer/bailing/helper@v3.84.15
@@ -459,3 +460,7 @@
 - pkg:composer/bailing/helper@v3.84.9
 - pkg:composer/bailing/helper@v3.84.91
 - pkg:composer/bailing/helper@v3.84.94
+- pkg:composer/bailing/helper@v3.84.95
+- pkg:composer/bailing/helper@v3.84.96
+- pkg:composer/bailing/helper@v3.84.97
+- pkg:composer/bailing/helper@v3.84.99
