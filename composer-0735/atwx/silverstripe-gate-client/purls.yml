@@ -1,3 +1,4 @@
 - pkg:composer/atwx/silverstripe-gate-client@1.0
 - pkg:composer/atwx/silverstripe-gate-client@2.0
 - pkg:composer/atwx/silverstripe-gate-client@2.1
+- pkg:composer/atwx/silverstripe-gate-client@2.2
