@@ -10,6 +10,7 @@
 - pkg:composer/aimeos/aimeos-base@2022.10.4
 - pkg:composer/aimeos/aimeos-base@2022.10.5
 - pkg:composer/aimeos/aimeos-base@2022.10.6
+- pkg:composer/aimeos/aimeos-base@2022.10.7
 - pkg:composer/aimeos/aimeos-base@2023.04.1
 - pkg:composer/aimeos/aimeos-base@2023.04.2
 - pkg:composer/aimeos/aimeos-base@2023.04.3
@@ -22,6 +23,7 @@
 - pkg:composer/aimeos/aimeos-base@2023.10.5
 - pkg:composer/aimeos/aimeos-base@2023.10.6
 - pkg:composer/aimeos/aimeos-base@2023.10.7
+- pkg:composer/aimeos/aimeos-base@2023.10.8
 - pkg:composer/aimeos/aimeos-base@2024.04.1
 - pkg:composer/aimeos/aimeos-base@2024.07.1
 - pkg:composer/aimeos/aimeos-base@2024.07.2
@@ -31,6 +33,7 @@
 - pkg:composer/aimeos/aimeos-base@2024.10.4
 - pkg:composer/aimeos/aimeos-base@2024.10.5
 - pkg:composer/aimeos/aimeos-base@2024.10.6
+- pkg:composer/aimeos/aimeos-base@2024.10.7
 - pkg:composer/aimeos/aimeos-base@2025.04.1
 - pkg:composer/aimeos/aimeos-base@2025.07.1
 - pkg:composer/aimeos/aimeos-base@2025.10.1
@@ -38,3 +41,4 @@
 - pkg:composer/aimeos/aimeos-base@2025.10.3
 - pkg:composer/aimeos/aimeos-base@2026.04.1
 - pkg:composer/aimeos/aimeos-base@2026.04.2
+- pkg:composer/aimeos/aimeos-base@2026.04.3
