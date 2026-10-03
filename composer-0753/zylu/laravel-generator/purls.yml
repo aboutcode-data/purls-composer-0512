@@ -1,2 +1,4 @@
 - pkg:composer/zylu/laravel-generator@5.0
 - pkg:composer/zylu/laravel-generator@5.1
+- pkg:composer/zylu/laravel-generator@5.2
+- pkg:composer/zylu/laravel-generator@5.3
