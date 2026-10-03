@@ -365,6 +365,7 @@
 - pkg:composer/arkecosystem/foundation@21.0.0
 - pkg:composer/arkecosystem/foundation@21.1.0
 - pkg:composer/arkecosystem/foundation@21.2.0
+- pkg:composer/arkecosystem/foundation@22.0.0
 - pkg:composer/arkecosystem/foundation@3.0.0
 - pkg:composer/arkecosystem/foundation@3.0.1
 - pkg:composer/arkecosystem/foundation@3.0.2
