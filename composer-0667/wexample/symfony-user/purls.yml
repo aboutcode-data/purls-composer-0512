@@ -5,3 +5,5 @@
 - pkg:composer/wexample/symfony-user@5.0.0
 - pkg:composer/wexample/symfony-user@7.0.0
 - pkg:composer/wexample/symfony-user@7.0.1
+- pkg:composer/wexample/symfony-user@8.0.0
+- pkg:composer/wexample/symfony-user@8.0.1

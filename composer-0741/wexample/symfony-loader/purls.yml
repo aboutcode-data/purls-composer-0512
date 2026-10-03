@@ -32,6 +32,8 @@
 - pkg:composer/wexample/symfony-loader@14.0.0
 - pkg:composer/wexample/symfony-loader@14.0.1
 - pkg:composer/wexample/symfony-loader@15.0.0
+- pkg:composer/wexample/symfony-loader@16.0.0
+- pkg:composer/wexample/symfony-loader@17.0.0
 - pkg:composer/wexample/symfony-loader@2.0.0
 - pkg:composer/wexample/symfony-loader@4.0.0
 - pkg:composer/wexample/symfony-loader@4.0.1
