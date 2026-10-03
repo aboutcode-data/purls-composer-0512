@@ -8,3 +8,4 @@
 - pkg:composer/bedita/elastic-search@v1.0.6
 - pkg:composer/bedita/elastic-search@v1.0.7
 - pkg:composer/bedita/elastic-search@v1.1.0
+- pkg:composer/bedita/elastic-search@v2.0.0

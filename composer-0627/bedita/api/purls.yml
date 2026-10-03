@@ -144,6 +144,9 @@
 - pkg:composer/bedita/api@v5.47.0
 - pkg:composer/bedita/api@v5.48.0
 - pkg:composer/bedita/api@v5.48.1
+- pkg:composer/bedita/api@v5.48.2
+- pkg:composer/bedita/api@v5.48.3
+- pkg:composer/bedita/api@v5.48.4
 - pkg:composer/bedita/api@v5.5.0
 - pkg:composer/bedita/api@v5.5.1
 - pkg:composer/bedita/api@v5.5.2
