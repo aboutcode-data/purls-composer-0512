@@ -55,3 +55,6 @@
 - pkg:composer/agence-adeliom/sylius-happy-cms-plugin@v2.1.0
 - pkg:composer/agence-adeliom/sylius-happy-cms-plugin@v2.1.1
 - pkg:composer/agence-adeliom/sylius-happy-cms-plugin@v2.1.2
+- pkg:composer/agence-adeliom/sylius-happy-cms-plugin@v2.3.0
+- pkg:composer/agence-adeliom/sylius-happy-cms-plugin@v2.3.0-alpha.1
+- pkg:composer/agence-adeliom/sylius-happy-cms-plugin@v2.3.0-alpha.2
