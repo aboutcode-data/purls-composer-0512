@@ -253,6 +253,10 @@
 - pkg:composer/automattic/jetpack-videopress@v0.50.1
 - pkg:composer/automattic/jetpack-videopress@v0.50.2
 - pkg:composer/automattic/jetpack-videopress@v0.51.0
+- pkg:composer/automattic/jetpack-videopress@v0.51.1
+- pkg:composer/automattic/jetpack-videopress@v0.52.0
+- pkg:composer/automattic/jetpack-videopress@v0.53.0
+- pkg:composer/automattic/jetpack-videopress@v0.54.0
 - pkg:composer/automattic/jetpack-videopress@v0.6.0
 - pkg:composer/automattic/jetpack-videopress@v0.6.1
 - pkg:composer/automattic/jetpack-videopress@v0.6.2
