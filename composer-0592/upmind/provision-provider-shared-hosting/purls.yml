@@ -64,6 +64,7 @@
 - pkg:composer/upmind/provision-provider-shared-hosting@v6.18.0
 - pkg:composer/upmind/provision-provider-shared-hosting@v6.18.1
 - pkg:composer/upmind/provision-provider-shared-hosting@v6.18.2
+- pkg:composer/upmind/provision-provider-shared-hosting@v6.18.3
 - pkg:composer/upmind/provision-provider-shared-hosting@v6.2.0
 - pkg:composer/upmind/provision-provider-shared-hosting@v6.2.1
 - pkg:composer/upmind/provision-provider-shared-hosting@v6.3.0
@@ -108,6 +109,7 @@
 - pkg:composer/upmind/provision-provider-shared-hosting@v6.6.38
 - pkg:composer/upmind/provision-provider-shared-hosting@v6.6.39
 - pkg:composer/upmind/provision-provider-shared-hosting@v6.6.4
+- pkg:composer/upmind/provision-provider-shared-hosting@v6.6.40
 - pkg:composer/upmind/provision-provider-shared-hosting@v6.6.5
 - pkg:composer/upmind/provision-provider-shared-hosting@v6.6.6
 - pkg:composer/upmind/provision-provider-shared-hosting@v6.6.7
