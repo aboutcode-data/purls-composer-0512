@@ -37,6 +37,8 @@
 - pkg:composer/b13/backendpreviews@1.5.1
 - pkg:composer/b13/backendpreviews@1.5.2
 - pkg:composer/b13/backendpreviews@1.5.3
+- pkg:composer/b13/backendpreviews@2.0.0
+- pkg:composer/b13/backendpreviews@2.0.1
 - pkg:composer/b13/backendpreviews@v0.1.0
 - pkg:composer/b13/backendpreviews@v0.1.1
 - pkg:composer/b13/backendpreviews@v0.1.2
