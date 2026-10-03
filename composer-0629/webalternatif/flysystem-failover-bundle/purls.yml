@@ -13,3 +13,4 @@
 - pkg:composer/webalternatif/flysystem-failover-bundle@v0.6.0
 - pkg:composer/webalternatif/flysystem-failover-bundle@v0.6.1
 - pkg:composer/webalternatif/flysystem-failover-bundle@v0.7.0
+- pkg:composer/webalternatif/flysystem-failover-bundle@v0.7.1
