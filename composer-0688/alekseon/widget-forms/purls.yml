@@ -41,6 +41,8 @@
 - pkg:composer/alekseon/widget-forms@102.4.4
 - pkg:composer/alekseon/widget-forms@102.5.0
 - pkg:composer/alekseon/widget-forms@102.5.1
+- pkg:composer/alekseon/widget-forms@102.5.10
+- pkg:composer/alekseon/widget-forms@102.5.11
 - pkg:composer/alekseon/widget-forms@102.5.2
 - pkg:composer/alekseon/widget-forms@102.5.3
 - pkg:composer/alekseon/widget-forms@102.5.4
@@ -48,3 +50,4 @@
 - pkg:composer/alekseon/widget-forms@102.5.6
 - pkg:composer/alekseon/widget-forms@102.5.7
 - pkg:composer/alekseon/widget-forms@102.5.8
+- pkg:composer/alekseon/widget-forms@102.5.9
