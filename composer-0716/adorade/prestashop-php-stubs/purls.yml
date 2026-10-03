@@ -1,2 +1,5 @@
 - pkg:composer/adorade/prestashop-php-stubs@v8.2.4
 - pkg:composer/adorade/prestashop-php-stubs@v8.2.7
+- pkg:composer/adorade/prestashop-php-stubs@v8.2.8
+- pkg:composer/adorade/prestashop-php-stubs@v9.1.5
+- pkg:composer/adorade/prestashop-php-stubs@v9.2.0
