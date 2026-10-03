@@ -46,6 +46,7 @@
 - pkg:composer/behat/gherkin@v4.16.0
 - pkg:composer/behat/gherkin@v4.16.1
 - pkg:composer/behat/gherkin@v4.17.0
+- pkg:composer/behat/gherkin@v4.18.0
 - pkg:composer/behat/gherkin@v4.2.0
 - pkg:composer/behat/gherkin@v4.2.1
 - pkg:composer/behat/gherkin@v4.3.0
