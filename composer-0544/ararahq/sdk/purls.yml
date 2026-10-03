@@ -1,3 +1,4 @@
 - pkg:composer/ararahq/sdk@v1.7.0
 - pkg:composer/ararahq/sdk@v1.8.0
 - pkg:composer/ararahq/sdk@v1.8.1
+- pkg:composer/ararahq/sdk@v2.0.0
