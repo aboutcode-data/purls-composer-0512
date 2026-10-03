@@ -11,3 +11,5 @@
 - pkg:composer/alifcoder/query-filter@v1.1.4
 - pkg:composer/alifcoder/query-filter@v1.1.5
 - pkg:composer/alifcoder/query-filter@v1.1.6
+- pkg:composer/alifcoder/query-filter@v2.0.0
+- pkg:composer/alifcoder/query-filter@v2.0.1
