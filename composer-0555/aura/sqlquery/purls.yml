@@ -14,3 +14,4 @@
 - pkg:composer/aura/sqlquery@2.8.1
 - pkg:composer/aura/sqlquery@3.0.0
 - pkg:composer/aura/sqlquery@3.0.0-alpha.1
+- pkg:composer/aura/sqlquery@7.0.0-beta1
