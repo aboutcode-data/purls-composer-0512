@@ -106,3 +106,4 @@
 - pkg:composer/wpstarter/framework@v1.9.7
 - pkg:composer/wpstarter/framework@v1.9.8
 - pkg:composer/wpstarter/framework@v1.9.9
+- pkg:composer/wpstarter/framework@v2.0.0
