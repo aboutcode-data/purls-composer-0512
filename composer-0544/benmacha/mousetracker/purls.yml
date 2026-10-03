@@ -1,4 +1,5 @@
 - pkg:composer/benmacha/mousetracker@1.0.0
+- pkg:composer/benmacha/mousetracker@3.0.0
 - pkg:composer/benmacha/mousetracker@v2.0.0
 - pkg:composer/benmacha/mousetracker@v2.0.1
 - pkg:composer/benmacha/mousetracker@v2.1.0
