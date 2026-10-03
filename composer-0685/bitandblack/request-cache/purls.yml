@@ -8,6 +8,7 @@
 - pkg:composer/bitandblack/request-cache@1.0.0
 - pkg:composer/bitandblack/request-cache@1.1.0
 - pkg:composer/bitandblack/request-cache@1.1.1
+- pkg:composer/bitandblack/request-cache@1.10.0
 - pkg:composer/bitandblack/request-cache@1.2.0
 - pkg:composer/bitandblack/request-cache@1.3.0
 - pkg:composer/bitandblack/request-cache@1.4.0
