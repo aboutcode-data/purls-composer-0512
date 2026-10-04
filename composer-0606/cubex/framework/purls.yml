@@ -49,6 +49,7 @@
 - pkg:composer/cubex/framework@2.6.6
 - pkg:composer/cubex/framework@2.6.7
 - pkg:composer/cubex/framework@2.6.8
+- pkg:composer/cubex/framework@2.7.0
 - pkg:composer/cubex/framework@3.0.0
 - pkg:composer/cubex/framework@3.0.0-alpha
 - pkg:composer/cubex/framework@3.0.0-alpha.10
@@ -126,6 +127,7 @@
 - pkg:composer/cubex/framework@4.26.2
 - pkg:composer/cubex/framework@4.27.0
 - pkg:composer/cubex/framework@4.27.1
+- pkg:composer/cubex/framework@4.27.2
 - pkg:composer/cubex/framework@4.3.0
 - pkg:composer/cubex/framework@4.3.1
 - pkg:composer/cubex/framework@4.3.2
