@@ -283,6 +283,8 @@
 - pkg:composer/bref/bref@3.0.0-beta3
 - pkg:composer/bref/bref@3.0.1
 - pkg:composer/bref/bref@3.0.10
+- pkg:composer/bref/bref@3.0.11
+- pkg:composer/bref/bref@3.0.12
 - pkg:composer/bref/bref@3.0.2
 - pkg:composer/bref/bref@3.0.3
 - pkg:composer/bref/bref@3.0.4
