@@ -277,3 +277,5 @@
 - pkg:composer/contao/test-case@6.0.0
 - pkg:composer/contao/test-case@6.0.0-RC1
 - pkg:composer/contao/test-case@6.0.0-RC2
+- pkg:composer/contao/test-case@6.0.1
+- pkg:composer/contao/test-case@6.0.2
