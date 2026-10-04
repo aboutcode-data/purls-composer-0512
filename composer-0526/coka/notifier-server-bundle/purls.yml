@@ -33,3 +33,4 @@
 - pkg:composer/coka/notifier-server-bundle@1.7.3
 - pkg:composer/coka/notifier-server-bundle@1.8.0
 - pkg:composer/coka/notifier-server-bundle@1.9.0
+- pkg:composer/coka/notifier-server-bundle@2.0.0
