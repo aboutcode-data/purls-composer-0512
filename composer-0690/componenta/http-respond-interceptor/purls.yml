@@ -3,3 +3,6 @@
 - pkg:composer/componenta/http-respond-interceptor@v1.0.2
 - pkg:composer/componenta/http-respond-interceptor@v1.0.3
 - pkg:composer/componenta/http-respond-interceptor@v1.0.4
+- pkg:composer/componenta/http-respond-interceptor@v1.0.5
+- pkg:composer/componenta/http-respond-interceptor@v2.0.0
+- pkg:composer/componenta/http-respond-interceptor@v2.0.1
