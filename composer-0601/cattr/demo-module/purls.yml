@@ -1,2 +1,4 @@
 - pkg:composer/cattr/demo-module@v1.0.0
 - pkg:composer/cattr/demo-module@v2.0.0
+- pkg:composer/cattr/demo-module@v2.0.1
+- pkg:composer/cattr/demo-module@v2.0.2

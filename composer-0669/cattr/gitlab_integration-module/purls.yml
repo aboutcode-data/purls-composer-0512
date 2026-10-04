@@ -14,3 +14,4 @@
 - pkg:composer/cattr/gitlab_integration-module@v3.1.5
 - pkg:composer/cattr/gitlab_integration-module@v3.1.6
 - pkg:composer/cattr/gitlab_integration-module@v3.1.7
+- pkg:composer/cattr/gitlab_integration-module@v3.1.8
