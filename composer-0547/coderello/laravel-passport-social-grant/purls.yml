@@ -11,3 +11,4 @@
 - pkg:composer/coderello/laravel-passport-social-grant@3.2.0
 - pkg:composer/coderello/laravel-passport-social-grant@3.3.0
 - pkg:composer/coderello/laravel-passport-social-grant@4.0.0
+- pkg:composer/coderello/laravel-passport-social-grant@v5.0.0
