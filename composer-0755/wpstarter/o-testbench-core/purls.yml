@@ -1,3 +1,4 @@
 - pkg:composer/wpstarter/o-testbench-core@v1.0
 - pkg:composer/wpstarter/o-testbench-core@v2.0
 - pkg:composer/wpstarter/o-testbench-core@v2.1
+- pkg:composer/wpstarter/o-testbench-core@v2.1.1
