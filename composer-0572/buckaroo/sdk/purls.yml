@@ -31,6 +31,8 @@
 - pkg:composer/buckaroo/sdk@1.24.2
 - pkg:composer/buckaroo/sdk@1.24.3
 - pkg:composer/buckaroo/sdk@1.24.4
+- pkg:composer/buckaroo/sdk@1.24.5
+- pkg:composer/buckaroo/sdk@1.24.6
 - pkg:composer/buckaroo/sdk@1.3.0
 - pkg:composer/buckaroo/sdk@1.4.0
 - pkg:composer/buckaroo/sdk@1.5.0
