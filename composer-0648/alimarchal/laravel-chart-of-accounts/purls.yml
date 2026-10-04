@@ -11,3 +11,6 @@
 - pkg:composer/alimarchal/laravel-chart-of-accounts@v1.3.8
 - pkg:composer/alimarchal/laravel-chart-of-accounts@v1.3.9
 - pkg:composer/alimarchal/laravel-chart-of-accounts@v1.4.0
+- pkg:composer/alimarchal/laravel-chart-of-accounts@v2.0.0
+- pkg:composer/alimarchal/laravel-chart-of-accounts@v2.1.0
+- pkg:composer/alimarchal/laravel-chart-of-accounts@v2.2.0
