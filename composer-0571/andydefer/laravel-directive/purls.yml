@@ -220,6 +220,7 @@
 - pkg:composer/andydefer/laravel-directive@v3.66.7
 - pkg:composer/andydefer/laravel-directive@v3.66.8
 - pkg:composer/andydefer/laravel-directive@v3.66.9
+- pkg:composer/andydefer/laravel-directive@v3.67.0
 - pkg:composer/andydefer/laravel-directive@v3.7.0
 - pkg:composer/andydefer/laravel-directive@v3.8.0
 - pkg:composer/andydefer/laravel-directive@v3.9.0
