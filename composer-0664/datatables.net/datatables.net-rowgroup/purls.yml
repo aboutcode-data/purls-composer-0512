@@ -4,3 +4,4 @@
 - pkg:composer/datatables.net/datatables.net-rowgroup@1.6.0
 - pkg:composer/datatables.net/datatables.net-rowgroup@2.0.0
 - pkg:composer/datatables.net/datatables.net-rowgroup@2.1.0
+- pkg:composer/datatables.net/datatables.net-rowgroup@2.1.1
