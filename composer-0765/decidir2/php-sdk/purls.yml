@@ -22,6 +22,7 @@
 - pkg:composer/decidir2/php-sdk@V1.7.8
 - pkg:composer/decidir2/php-sdk@V2.0.0
 - pkg:composer/decidir2/php-sdk@V2.0.1
+- pkg:composer/decidir2/php-sdk@V2.0.10
 - pkg:composer/decidir2/php-sdk@V2.0.2
 - pkg:composer/decidir2/php-sdk@V2.0.3
 - pkg:composer/decidir2/php-sdk@V2.0.4
@@ -29,4 +30,5 @@
 - pkg:composer/decidir2/php-sdk@V2.0.6
 - pkg:composer/decidir2/php-sdk@V2.0.7
 - pkg:composer/decidir2/php-sdk@V2.0.8
+- pkg:composer/decidir2/php-sdk@V2.0.9
 - pkg:composer/decidir2/php-sdk@v1.5.6
