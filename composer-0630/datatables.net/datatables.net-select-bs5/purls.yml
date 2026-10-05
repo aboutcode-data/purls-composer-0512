@@ -15,3 +15,4 @@
 - pkg:composer/datatables.net/datatables.net-select-bs5@4.0.0
 - pkg:composer/datatables.net/datatables.net-select-bs5@4.0.1
 - pkg:composer/datatables.net/datatables.net-select-bs5@4.1.0
+- pkg:composer/datatables.net/datatables.net-select-bs5@4.1.1
