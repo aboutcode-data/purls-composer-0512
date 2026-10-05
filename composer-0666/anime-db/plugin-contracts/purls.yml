@@ -19,6 +19,7 @@
 - pkg:composer/anime-db/plugin-contracts@v0.24.0
 - pkg:composer/anime-db/plugin-contracts@v0.24.1
 - pkg:composer/anime-db/plugin-contracts@v0.25.0
+- pkg:composer/anime-db/plugin-contracts@v0.25.1
 - pkg:composer/anime-db/plugin-contracts@v0.3.0
 - pkg:composer/anime-db/plugin-contracts@v0.4.0
 - pkg:composer/anime-db/plugin-contracts@v0.5.0
