@@ -42,3 +42,4 @@
 - pkg:composer/aimeos/aimeos-base@2026.04.1
 - pkg:composer/aimeos/aimeos-base@2026.04.2
 - pkg:composer/aimeos/aimeos-base@2026.04.3
+- pkg:composer/aimeos/aimeos-base@2026.10.1
