@@ -200,6 +200,7 @@
 - pkg:composer/zircote/swagger-php@6.1.2
 - pkg:composer/zircote/swagger-php@6.10.0
 - pkg:composer/zircote/swagger-php@6.11.0
+- pkg:composer/zircote/swagger-php@6.12.0
 - pkg:composer/zircote/swagger-php@6.2.0
 - pkg:composer/zircote/swagger-php@6.3.0
 - pkg:composer/zircote/swagger-php@6.3.1
