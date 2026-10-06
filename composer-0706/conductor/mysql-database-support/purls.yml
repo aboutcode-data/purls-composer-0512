@@ -19,3 +19,5 @@
 - pkg:composer/conductor/mysql-database-support@6.3.0
 - pkg:composer/conductor/mysql-database-support@6.3.1
 - pkg:composer/conductor/mysql-database-support@6.3.2
+- pkg:composer/conductor/mysql-database-support@6.3.3
+- pkg:composer/conductor/mysql-database-support@6.3.4
