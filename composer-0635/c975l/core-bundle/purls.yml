@@ -143,6 +143,12 @@
 - pkg:composer/c975l/core-bundle@v1.51.0
 - pkg:composer/c975l/core-bundle@v1.51.1
 - pkg:composer/c975l/core-bundle@v1.51.2
+- pkg:composer/c975l/core-bundle@v1.51.3
+- pkg:composer/c975l/core-bundle@v1.52.0
+- pkg:composer/c975l/core-bundle@v1.52.1
+- pkg:composer/c975l/core-bundle@v1.53.0
+- pkg:composer/c975l/core-bundle@v1.54.0
+- pkg:composer/c975l/core-bundle@v1.54.1
 - pkg:composer/c975l/core-bundle@v1.6.0
 - pkg:composer/c975l/core-bundle@v1.6.1
 - pkg:composer/c975l/core-bundle@v1.7.0
