@@ -88,3 +88,4 @@
 - pkg:composer/cypresslab/gitelephant@v4.4.3
 - pkg:composer/cypresslab/gitelephant@v4.5.0
 - pkg:composer/cypresslab/gitelephant@v4.6.0
+- pkg:composer/cypresslab/gitelephant@v5.0.0
