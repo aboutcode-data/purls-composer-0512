@@ -29,6 +29,10 @@
 - pkg:composer/alimarchal/laravel-chart-of-accounts@v2.22.0
 - pkg:composer/alimarchal/laravel-chart-of-accounts@v2.23.0
 - pkg:composer/alimarchal/laravel-chart-of-accounts@v2.24.0
+- pkg:composer/alimarchal/laravel-chart-of-accounts@v2.25.0
+- pkg:composer/alimarchal/laravel-chart-of-accounts@v2.26.0
+- pkg:composer/alimarchal/laravel-chart-of-accounts@v2.27.0
+- pkg:composer/alimarchal/laravel-chart-of-accounts@v2.28.0
 - pkg:composer/alimarchal/laravel-chart-of-accounts@v2.3.0
 - pkg:composer/alimarchal/laravel-chart-of-accounts@v2.4.0
 - pkg:composer/alimarchal/laravel-chart-of-accounts@v2.5.0
