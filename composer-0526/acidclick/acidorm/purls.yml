@@ -10,6 +10,11 @@
 - pkg:composer/acidclick/acidorm@v1.0.9
 - pkg:composer/acidclick/acidorm@v2.0.0
 - pkg:composer/acidclick/acidorm@v2.0.1
+- pkg:composer/acidclick/acidorm@v2.0.2
+- pkg:composer/acidclick/acidorm@v2.0.3
+- pkg:composer/acidclick/acidorm@v2.1.0
+- pkg:composer/acidclick/acidorm@v2.2.0
+- pkg:composer/acidclick/acidorm@v2.2.1
 - pkg:composer/acidclick/acidorm@v3.0.0
 - pkg:composer/acidclick/acidorm@v3.0.1
 - pkg:composer/acidclick/acidorm@v3.0.2
