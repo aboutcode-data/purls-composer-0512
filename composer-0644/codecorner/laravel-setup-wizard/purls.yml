@@ -1,1 +1,2 @@
 - pkg:composer/codecorner/laravel-setup-wizard@1.0.0
+- pkg:composer/codecorner/laravel-setup-wizard@1.0.3
