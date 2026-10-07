@@ -1,2 +1,5 @@
 - pkg:composer/drupal/webship_project@11.0.0-rc1
 - pkg:composer/drupal/webship_project@11.0.0-rc2
+- pkg:composer/drupal/webship_project@12.0.0
+- pkg:composer/drupal/webship_project@12.0.1
+- pkg:composer/drupal/webship_project@12.0.2
