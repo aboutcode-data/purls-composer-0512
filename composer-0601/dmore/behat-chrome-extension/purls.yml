@@ -4,3 +4,4 @@
 - pkg:composer/dmore/behat-chrome-extension@1.3.0
 - pkg:composer/dmore/behat-chrome-extension@1.4.0
 - pkg:composer/dmore/behat-chrome-extension@1.4.1
+- pkg:composer/dmore/behat-chrome-extension@1.5.0
