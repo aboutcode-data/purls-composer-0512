@@ -1,3 +1,4 @@
 - pkg:composer/friends-of-behat/suite-settings-extension@v1.0.0
 - pkg:composer/friends-of-behat/suite-settings-extension@v1.0.1
 - pkg:composer/friends-of-behat/suite-settings-extension@v1.1.0
+- pkg:composer/friends-of-behat/suite-settings-extension@v1.2.0
