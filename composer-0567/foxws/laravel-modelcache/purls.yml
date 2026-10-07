@@ -10,3 +10,4 @@
 - pkg:composer/foxws/laravel-modelcache@1.4.0
 - pkg:composer/foxws/laravel-modelcache@1.4.1
 - pkg:composer/foxws/laravel-modelcache@1.4.2
+- pkg:composer/foxws/laravel-modelcache@1.4.3
