@@ -86,3 +86,4 @@
 - pkg:composer/evaisse/simple-http-bundle@v3.8.2
 - pkg:composer/evaisse/simple-http-bundle@v3.8.3
 - pkg:composer/evaisse/simple-http-bundle@v4.0.0
+- pkg:composer/evaisse/simple-http-bundle@v4.0.1
