@@ -46,3 +46,5 @@
 - pkg:composer/fdt2k/laravel-database-dump@4.0.3
 - pkg:composer/fdt2k/laravel-database-dump@5.0.0
 - pkg:composer/fdt2k/laravel-database-dump@5.0.1
+- pkg:composer/fdt2k/laravel-database-dump@5.1.0
+- pkg:composer/fdt2k/laravel-database-dump@5.1.1
