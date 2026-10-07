@@ -7,3 +7,4 @@
 - pkg:composer/flatrate/wiki-supabase-oauth@v0.2.6
 - pkg:composer/flatrate/wiki-supabase-oauth@v0.2.7
 - pkg:composer/flatrate/wiki-supabase-oauth@v0.2.8
+- pkg:composer/flatrate/wiki-supabase-oauth@v0.3.0
