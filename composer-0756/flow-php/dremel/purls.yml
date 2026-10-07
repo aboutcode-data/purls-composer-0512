@@ -46,6 +46,7 @@
 - pkg:composer/flow-php/dremel@0.43.0
 - pkg:composer/flow-php/dremel@0.44.0
 - pkg:composer/flow-php/dremel@0.44.1
+- pkg:composer/flow-php/dremel@0.45.0
 - pkg:composer/flow-php/dremel@0.5.0
 - pkg:composer/flow-php/dremel@0.5.1
 - pkg:composer/flow-php/dremel@0.5.2
