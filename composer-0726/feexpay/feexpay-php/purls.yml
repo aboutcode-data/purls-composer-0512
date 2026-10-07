@@ -12,3 +12,5 @@
 - pkg:composer/feexpay/feexpay-php@1.0.8
 - pkg:composer/feexpay/feexpay-php@1.0.9
 - pkg:composer/feexpay/feexpay-php@v2.0.0
+- pkg:composer/feexpay/feexpay-php@v2.1.0
+- pkg:composer/feexpay/feexpay-php@v3.0.0
