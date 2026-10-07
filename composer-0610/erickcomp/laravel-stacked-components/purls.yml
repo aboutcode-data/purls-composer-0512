@@ -1,7 +1,9 @@
+- pkg:composer/erickcomp/laravel-stacked-components@0.10.0
 - pkg:composer/erickcomp/laravel-stacked-components@0.7
 - pkg:composer/erickcomp/laravel-stacked-components@0.8
 - pkg:composer/erickcomp/laravel-stacked-components@0.9.0
 - pkg:composer/erickcomp/laravel-stacked-components@0.9.1
+- pkg:composer/erickcomp/laravel-stacked-components@1.0.0
 - pkg:composer/erickcomp/laravel-stacked-components@v0.1
 - pkg:composer/erickcomp/laravel-stacked-components@v0.2
 - pkg:composer/erickcomp/laravel-stacked-components@v0.3
