@@ -14,3 +14,5 @@
 - pkg:composer/drupal/byte@1.0.2
 - pkg:composer/drupal/byte@1.0.3
 - pkg:composer/drupal/byte@1.0.5
+- pkg:composer/drupal/byte@1.0.6
+- pkg:composer/drupal/byte@1.1.0
