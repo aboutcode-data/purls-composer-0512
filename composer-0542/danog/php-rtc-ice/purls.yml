@@ -25,6 +25,8 @@
 - pkg:composer/danog/php-rtc-ice@2.0.13
 - pkg:composer/danog/php-rtc-ice@2.0.14
 - pkg:composer/danog/php-rtc-ice@2.0.15
+- pkg:composer/danog/php-rtc-ice@2.0.16
+- pkg:composer/danog/php-rtc-ice@2.0.17
 - pkg:composer/danog/php-rtc-ice@2.0.2
 - pkg:composer/danog/php-rtc-ice@2.0.3
 - pkg:composer/danog/php-rtc-ice@2.0.4
