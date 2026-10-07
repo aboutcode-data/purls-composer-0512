@@ -10,3 +10,4 @@
 - pkg:composer/dynamic/silverstripe-site-tools@5.0.0
 - pkg:composer/dynamic/silverstripe-site-tools@5.1.0
 - pkg:composer/dynamic/silverstripe-site-tools@6.0.0
+- pkg:composer/dynamic/silverstripe-site-tools@6.0.1
