@@ -42,3 +42,4 @@
 - pkg:composer/drupal/drupal_cms_forms@2.1.4
 - pkg:composer/drupal/drupal_cms_forms@2.1.5
 - pkg:composer/drupal/drupal_cms_forms@2.1.6
+- pkg:composer/drupal/drupal_cms_forms@2.2.0
