@@ -9,6 +9,7 @@
 - pkg:composer/dereuromark/cakephp-test-helper@1.1.0
 - pkg:composer/dereuromark/cakephp-test-helper@1.1.1
 - pkg:composer/dereuromark/cakephp-test-helper@1.1.2
+- pkg:composer/dereuromark/cakephp-test-helper@1.1.3
 - pkg:composer/dereuromark/cakephp-test-helper@2.0.0
 - pkg:composer/dereuromark/cakephp-test-helper@2.0.0-RC
 - pkg:composer/dereuromark/cakephp-test-helper@2.0.1

@@ -116,6 +116,7 @@
 - pkg:composer/dereuromark/cakephp-queue@8.14.0
 - pkg:composer/dereuromark/cakephp-queue@8.15.0
 - pkg:composer/dereuromark/cakephp-queue@8.15.1
+- pkg:composer/dereuromark/cakephp-queue@8.16.0
 - pkg:composer/dereuromark/cakephp-queue@8.2.0
 - pkg:composer/dereuromark/cakephp-queue@8.2.1
 - pkg:composer/dereuromark/cakephp-queue@8.2.2
