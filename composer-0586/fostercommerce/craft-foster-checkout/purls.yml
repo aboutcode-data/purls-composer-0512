@@ -9,3 +9,4 @@
 - pkg:composer/fostercommerce/craft-foster-checkout@1.4.2
 - pkg:composer/fostercommerce/craft-foster-checkout@1.4.3
 - pkg:composer/fostercommerce/craft-foster-checkout@1.5.0
+- pkg:composer/fostercommerce/craft-foster-checkout@2.0.0
