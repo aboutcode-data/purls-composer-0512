@@ -10,3 +10,5 @@
 - pkg:composer/elgiosoft/elgiopay-php-sdk@1.1.4
 - pkg:composer/elgiosoft/elgiopay-php-sdk@1.1.5
 - pkg:composer/elgiosoft/elgiopay-php-sdk@1.1.6
+- pkg:composer/elgiosoft/elgiopay-php-sdk@1.2.0
+- pkg:composer/elgiosoft/elgiopay-php-sdk@1.2.1
