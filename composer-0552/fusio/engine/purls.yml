@@ -105,6 +105,7 @@
 - pkg:composer/fusio/engine@v6.1.7
 - pkg:composer/fusio/engine@v6.1.8
 - pkg:composer/fusio/engine@v6.1.9
+- pkg:composer/fusio/engine@v6.10.0
 - pkg:composer/fusio/engine@v6.2.0
 - pkg:composer/fusio/engine@v6.2.1
 - pkg:composer/fusio/engine@v6.2.2

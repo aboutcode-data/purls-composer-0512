@@ -10,3 +10,5 @@
 - pkg:composer/fusonic/csv-reader@0.5.0
 - pkg:composer/fusonic/csv-reader@0.5.1
 - pkg:composer/fusonic/csv-reader@0.5.2
+- pkg:composer/fusonic/csv-reader@0.6.0
+- pkg:composer/fusonic/csv-reader@0.6.1
