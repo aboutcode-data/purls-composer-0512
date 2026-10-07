@@ -19,3 +19,5 @@
 - pkg:composer/cpsit/cps-utility@3.3.3
 - pkg:composer/cpsit/cps-utility@3.4.0
 - pkg:composer/cpsit/cps-utility@3.4.1
+- pkg:composer/cpsit/cps-utility@3.5.0
+- pkg:composer/cpsit/cps-utility@3.6.0
