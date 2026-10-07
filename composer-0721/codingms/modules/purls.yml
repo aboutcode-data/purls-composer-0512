@@ -145,3 +145,5 @@
 - pkg:composer/codingms/modules@8.2.0
 - pkg:composer/codingms/modules@8.2.1
 - pkg:composer/codingms/modules@8.2.2
+- pkg:composer/codingms/modules@8.3.0
+- pkg:composer/codingms/modules@8.3.2
