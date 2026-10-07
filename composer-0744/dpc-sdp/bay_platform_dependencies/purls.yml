@@ -7,6 +7,7 @@
 - pkg:composer/dpc-sdp/bay_platform_dependencies@2.0.5
 - pkg:composer/dpc-sdp/bay_platform_dependencies@2.0.6
 - pkg:composer/dpc-sdp/bay_platform_dependencies@2.0.7
+- pkg:composer/dpc-sdp/bay_platform_dependencies@3.2.0
 - pkg:composer/dpc-sdp/bay_platform_dependencies@v2.0.1
 - pkg:composer/dpc-sdp/bay_platform_dependencies@v2.0.10
 - pkg:composer/dpc-sdp/bay_platform_dependencies@v2.0.11
