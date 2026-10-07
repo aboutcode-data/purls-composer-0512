@@ -1,1 +1,4 @@
 - pkg:composer/gabrielesbaiz/nova-field-json@1.0.0
+- pkg:composer/gabrielesbaiz/nova-field-json@2.0.0
+- pkg:composer/gabrielesbaiz/nova-field-json@2.0.1
+- pkg:composer/gabrielesbaiz/nova-field-json@2.1.0
