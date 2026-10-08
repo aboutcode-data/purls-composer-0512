@@ -40,6 +40,8 @@
 - pkg:composer/cognesy/instructor-dynamic@v2.11.0
 - pkg:composer/cognesy/instructor-dynamic@v2.12.0
 - pkg:composer/cognesy/instructor-dynamic@v2.13.0
+- pkg:composer/cognesy/instructor-dynamic@v2.14.0
+- pkg:composer/cognesy/instructor-dynamic@v2.14.1
 - pkg:composer/cognesy/instructor-dynamic@v2.2.0
 - pkg:composer/cognesy/instructor-dynamic@v2.3.0
 - pkg:composer/cognesy/instructor-dynamic@v2.3.1
