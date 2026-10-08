@@ -12,3 +12,4 @@
 - pkg:composer/flow-php/symfony-postgresql-bundle@0.44.0
 - pkg:composer/flow-php/symfony-postgresql-bundle@0.44.1
 - pkg:composer/flow-php/symfony-postgresql-bundle@0.45.0
+- pkg:composer/flow-php/symfony-postgresql-bundle@0.46.0
