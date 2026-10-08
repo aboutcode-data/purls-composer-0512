@@ -6,3 +6,5 @@
 - pkg:composer/gijsbos/apiserver-oauth2@1.4
 - pkg:composer/gijsbos/apiserver-oauth2@1.5
 - pkg:composer/gijsbos/apiserver-oauth2@1.6
+- pkg:composer/gijsbos/apiserver-oauth2@1.7
+- pkg:composer/gijsbos/apiserver-oauth2@1.8
