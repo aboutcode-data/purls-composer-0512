@@ -76,6 +76,7 @@
 - pkg:composer/google/cloud-error-reporting@v0.27.0
 - pkg:composer/google/cloud-error-reporting@v0.27.1
 - pkg:composer/google/cloud-error-reporting@v0.27.2
+- pkg:composer/google/cloud-error-reporting@v0.27.3
 - pkg:composer/google/cloud-error-reporting@v0.3.0
 - pkg:composer/google/cloud-error-reporting@v0.4.0
 - pkg:composer/google/cloud-error-reporting@v0.4.1
