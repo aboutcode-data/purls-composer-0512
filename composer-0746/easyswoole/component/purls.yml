@@ -121,3 +121,5 @@
 - pkg:composer/easyswoole/component@2.4.3
 - pkg:composer/easyswoole/component@2.4.4
 - pkg:composer/easyswoole/component@2.4.5
+- pkg:composer/easyswoole/component@2.4.6
+- pkg:composer/easyswoole/component@2.4.7
