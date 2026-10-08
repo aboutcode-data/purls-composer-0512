@@ -1,2 +1,4 @@
 - pkg:composer/gpio/digital@0.7.0
+- pkg:composer/gpio/digital@v0.10.0
 - pkg:composer/gpio/digital@v0.8.0
+- pkg:composer/gpio/digital@v0.9.0
