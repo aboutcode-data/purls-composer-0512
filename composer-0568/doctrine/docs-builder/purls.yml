@@ -1,2 +1,3 @@
 - pkg:composer/doctrine/docs-builder@1.0.2
 - pkg:composer/doctrine/docs-builder@1.0.3
+- pkg:composer/doctrine/docs-builder@1.0.4
