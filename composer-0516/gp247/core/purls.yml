@@ -80,6 +80,11 @@
 - pkg:composer/gp247/core@3.0
 - pkg:composer/gp247/core@3.0.1
 - pkg:composer/gp247/core@3.0.10
+- pkg:composer/gp247/core@3.0.11
+- pkg:composer/gp247/core@3.0.12
+- pkg:composer/gp247/core@3.0.13
+- pkg:composer/gp247/core@3.0.14
+- pkg:composer/gp247/core@3.0.15
 - pkg:composer/gp247/core@3.0.2
 - pkg:composer/gp247/core@3.0.3
 - pkg:composer/gp247/core@3.0.4
@@ -88,3 +93,4 @@
 - pkg:composer/gp247/core@3.0.7
 - pkg:composer/gp247/core@3.0.8
 - pkg:composer/gp247/core@3.0.9
+- pkg:composer/gp247/core@3.1
