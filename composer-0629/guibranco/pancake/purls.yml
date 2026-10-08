@@ -380,7 +380,11 @@
 - pkg:composer/guibranco/pancake@v1.9.15
 - pkg:composer/guibranco/pancake@v1.9.16
 - pkg:composer/guibranco/pancake@v1.9.17
+- pkg:composer/guibranco/pancake@v1.9.18
+- pkg:composer/guibranco/pancake@v1.9.19
 - pkg:composer/guibranco/pancake@v1.9.2
+- pkg:composer/guibranco/pancake@v1.9.20
+- pkg:composer/guibranco/pancake@v1.9.21
 - pkg:composer/guibranco/pancake@v1.9.3
 - pkg:composer/guibranco/pancake@v1.9.4
 - pkg:composer/guibranco/pancake@v1.9.5
