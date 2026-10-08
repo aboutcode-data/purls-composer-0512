@@ -1,3 +1,4 @@
 - pkg:composer/google/cloud-workloadidentity@v0.1.0
 - pkg:composer/google/cloud-workloadidentity@v0.1.1
 - pkg:composer/google/cloud-workloadidentity@v0.1.2
+- pkg:composer/google/cloud-workloadidentity@v0.1.3
