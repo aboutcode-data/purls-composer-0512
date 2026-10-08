@@ -5,3 +5,4 @@
 - pkg:composer/geocoder-php/locationiq-provider@1.3.0
 - pkg:composer/geocoder-php/locationiq-provider@1.4.0
 - pkg:composer/geocoder-php/locationiq-provider@1.5.0
+- pkg:composer/geocoder-php/locationiq-provider@1.5.1
