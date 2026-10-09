@@ -145,3 +145,4 @@
 - pkg:composer/kaltura/api-client-library@v23.5.0
 - pkg:composer/kaltura/api-client-library@v23.6.0
 - pkg:composer/kaltura/api-client-library@v23.7.0
+- pkg:composer/kaltura/api-client-library@v23.8.0
