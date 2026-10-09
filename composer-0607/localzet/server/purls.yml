@@ -130,3 +130,4 @@
 - pkg:composer/localzet/server@v4.5.1
 - pkg:composer/localzet/server@v4.5.2
 - pkg:composer/localzet/server@v4.5.3
+- pkg:composer/localzet/server@v7.0.0
