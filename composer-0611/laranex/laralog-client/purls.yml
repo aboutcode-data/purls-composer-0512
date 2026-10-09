@@ -1,2 +1,4 @@
 - pkg:composer/laranex/laralog-client@v1.0.0
 - pkg:composer/laranex/laralog-client@v1.0.1
+- pkg:composer/laranex/laralog-client@v4.0.0-alpha.1
+- pkg:composer/laranex/laralog-client@v4.0.0-alpha.2
