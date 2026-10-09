@@ -2,3 +2,5 @@
 - pkg:composer/jeremykenedy/laravel-notifications@v1.1.0
 - pkg:composer/jeremykenedy/laravel-notifications@v2.0.0
 - pkg:composer/jeremykenedy/laravel-notifications@v2.0.1
+- pkg:composer/jeremykenedy/laravel-notifications@v2.1.0
+- pkg:composer/jeremykenedy/laravel-notifications@v3.0.0
