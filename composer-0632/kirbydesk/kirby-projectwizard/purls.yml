@@ -75,6 +75,8 @@
 - pkg:composer/kirbydesk/kirby-projectwizard@1.0.90
 - pkg:composer/kirbydesk/kirby-projectwizard@1.0.91
 - pkg:composer/kirbydesk/kirby-projectwizard@1.0.92
+- pkg:composer/kirbydesk/kirby-projectwizard@1.0.94
+- pkg:composer/kirbydesk/kirby-projectwizard@1.0.95
 - pkg:composer/kirbydesk/kirby-projectwizard@v1.0.0
 - pkg:composer/kirbydesk/kirby-projectwizard@v1.0.1
 - pkg:composer/kirbydesk/kirby-projectwizard@v1.0.10
