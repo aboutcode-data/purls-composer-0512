@@ -58,3 +58,10 @@
 - pkg:composer/jorenrothman/acf-builder@3.0.9.9999
 - pkg:composer/jorenrothman/acf-builder@3.1.0
 - pkg:composer/jorenrothman/acf-builder@3.1.1
+- pkg:composer/jorenrothman/acf-builder@3.2.0
+- pkg:composer/jorenrothman/acf-builder@3.2.1
+- pkg:composer/jorenrothman/acf-builder@3.3.0
+- pkg:composer/jorenrothman/acf-builder@4.0.0
+- pkg:composer/jorenrothman/acf-builder@4.0.1
+- pkg:composer/jorenrothman/acf-builder@4.1.0
+- pkg:composer/jorenrothman/acf-builder@4.1.1
