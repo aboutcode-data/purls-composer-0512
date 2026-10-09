@@ -347,6 +347,9 @@
 - pkg:composer/laravel-lang/lang@15.36.1
 - pkg:composer/laravel-lang/lang@15.37.0
 - pkg:composer/laravel-lang/lang@15.37.1
+- pkg:composer/laravel-lang/lang@15.37.2
+- pkg:composer/laravel-lang/lang@15.37.3
+- pkg:composer/laravel-lang/lang@15.37.4
 - pkg:composer/laravel-lang/lang@15.4.0
 - pkg:composer/laravel-lang/lang@15.4.1
 - pkg:composer/laravel-lang/lang@15.5.0
