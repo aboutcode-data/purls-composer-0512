@@ -1,2 +1,3 @@
 - pkg:composer/grazulex/laravel-snapshot@v1.0.0
 - pkg:composer/grazulex/laravel-snapshot@v2.0.0
+- pkg:composer/grazulex/laravel-snapshot@v2.1.0
