@@ -163,6 +163,10 @@
 - pkg:composer/happones/kinetix@v0.214.0
 - pkg:composer/happones/kinetix@v0.215.0
 - pkg:composer/happones/kinetix@v0.216.0
+- pkg:composer/happones/kinetix@v0.216.1
+- pkg:composer/happones/kinetix@v0.217.0
+- pkg:composer/happones/kinetix@v0.218.0
+- pkg:composer/happones/kinetix@v0.218.1
 - pkg:composer/happones/kinetix@v0.22.0
 - pkg:composer/happones/kinetix@v0.23.0
 - pkg:composer/happones/kinetix@v0.24.0
