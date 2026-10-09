@@ -1,4 +1,6 @@
 - pkg:composer/dcodegroup/xero-integration@0.0.6
+- pkg:composer/dcodegroup/xero-integration@v0.0.10
+- pkg:composer/dcodegroup/xero-integration@v0.0.11
 - pkg:composer/dcodegroup/xero-integration@v0.0.2
 - pkg:composer/dcodegroup/xero-integration@v0.0.3
 - pkg:composer/dcodegroup/xero-integration@v0.0.4
