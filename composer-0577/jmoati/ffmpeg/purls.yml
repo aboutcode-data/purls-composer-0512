@@ -20,3 +20,4 @@
 - pkg:composer/jmoati/ffmpeg@3.0.0
 - pkg:composer/jmoati/ffmpeg@4.0.0
 - pkg:composer/jmoati/ffmpeg@5.0.0
+- pkg:composer/jmoati/ffmpeg@5.0.1
