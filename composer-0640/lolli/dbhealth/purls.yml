@@ -20,3 +20,5 @@
 - pkg:composer/lolli/dbhealth@1.0.5
 - pkg:composer/lolli/dbhealth@1.0.6
 - pkg:composer/lolli/dbhealth@2.0.0
+- pkg:composer/lolli/dbhealth@2.1.0
+- pkg:composer/lolli/dbhealth@2.2.0
