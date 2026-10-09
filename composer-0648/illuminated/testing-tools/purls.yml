@@ -45,6 +45,7 @@
 - pkg:composer/illuminated/testing-tools@10.0.0
 - pkg:composer/illuminated/testing-tools@11.0.0
 - pkg:composer/illuminated/testing-tools@12.0.0
+- pkg:composer/illuminated/testing-tools@13.0.0
 - pkg:composer/illuminated/testing-tools@5.1.0
 - pkg:composer/illuminated/testing-tools@5.1.1
 - pkg:composer/illuminated/testing-tools@5.1.2
