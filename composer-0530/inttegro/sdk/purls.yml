@@ -2,6 +2,12 @@
 - pkg:composer/inttegro/sdk@v10.0.0
 - pkg:composer/inttegro/sdk@v10.1.0
 - pkg:composer/inttegro/sdk@v11.0.0
+- pkg:composer/inttegro/sdk@v11.1.0
+- pkg:composer/inttegro/sdk@v11.2.0
+- pkg:composer/inttegro/sdk@v11.2.1
+- pkg:composer/inttegro/sdk@v11.2.2
+- pkg:composer/inttegro/sdk@v11.3.0
+- pkg:composer/inttegro/sdk@v12.0.0
 - pkg:composer/inttegro/sdk@v2.0.0
 - pkg:composer/inttegro/sdk@v3.0.0
 - pkg:composer/inttegro/sdk@v3.0.1
