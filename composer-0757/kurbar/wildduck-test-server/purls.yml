@@ -7,6 +7,7 @@
 - pkg:composer/kurbar/wildduck-test-server@0.7.0
 - pkg:composer/kurbar/wildduck-test-server@0.8.0
 - pkg:composer/kurbar/wildduck-test-server@0.8.1
+- pkg:composer/kurbar/wildduck-test-server@0.8.11
 - pkg:composer/kurbar/wildduck-test-server@0.8.2
 - pkg:composer/kurbar/wildduck-test-server@0.8.4
 - pkg:composer/kurbar/wildduck-test-server@0.8.5
