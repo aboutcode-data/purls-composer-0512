@@ -75,6 +75,9 @@
 - pkg:composer/droost/workflow@0.13.8
 - pkg:composer/droost/workflow@0.13.9
 - pkg:composer/droost/workflow@0.14.0
+- pkg:composer/droost/workflow@0.14.1
+- pkg:composer/droost/workflow@0.14.2
+- pkg:composer/droost/workflow@0.14.3
 - pkg:composer/droost/workflow@0.2.0
 - pkg:composer/droost/workflow@0.3.0
 - pkg:composer/droost/workflow@0.3.1
