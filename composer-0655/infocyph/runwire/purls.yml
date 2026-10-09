@@ -1,1 +1,4 @@
 - pkg:composer/infocyph/runwire@1.0
+- pkg:composer/infocyph/runwire@2.0
+- pkg:composer/infocyph/runwire@2.1
+- pkg:composer/infocyph/runwire@2.1.1
