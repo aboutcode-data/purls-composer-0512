@@ -1,3 +1,6 @@
 - pkg:composer/jeffersongoncalves/filament-metrics-posthog@1.0.0
+- pkg:composer/jeffersongoncalves/filament-metrics-posthog@1.1.0
 - pkg:composer/jeffersongoncalves/filament-metrics-posthog@2.0.0
+- pkg:composer/jeffersongoncalves/filament-metrics-posthog@2.1.0
 - pkg:composer/jeffersongoncalves/filament-metrics-posthog@3.0.0
+- pkg:composer/jeffersongoncalves/filament-metrics-posthog@3.1.0
