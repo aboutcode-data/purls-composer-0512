@@ -121,3 +121,4 @@
 - pkg:composer/jeroennoten/laravel-adminlte@v4.0.0-rc1
 - pkg:composer/jeroennoten/laravel-adminlte@v4.0.0-rc2
 - pkg:composer/jeroennoten/laravel-adminlte@v4.0.0-rc3
+- pkg:composer/jeroennoten/laravel-adminlte@v4.0.1
