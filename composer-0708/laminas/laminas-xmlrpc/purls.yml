@@ -85,3 +85,5 @@
 - pkg:composer/laminas/laminas-xmlrpc@2.9.0
 - pkg:composer/laminas/laminas-xmlrpc@3.0.0
 - pkg:composer/laminas/laminas-xmlrpc@3.0.1
+- pkg:composer/laminas/laminas-xmlrpc@3.1.0
+- pkg:composer/laminas/laminas-xmlrpc@3.1.1
