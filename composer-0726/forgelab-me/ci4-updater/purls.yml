@@ -11,6 +11,7 @@
 - pkg:composer/forgelab-me/ci4-updater@v2.15.0
 - pkg:composer/forgelab-me/ci4-updater@v2.16.0
 - pkg:composer/forgelab-me/ci4-updater@v2.17.0
+- pkg:composer/forgelab-me/ci4-updater@v2.17.1
 - pkg:composer/forgelab-me/ci4-updater@v2.2.0
 - pkg:composer/forgelab-me/ci4-updater@v2.3.0
 - pkg:composer/forgelab-me/ci4-updater@v2.4.0
