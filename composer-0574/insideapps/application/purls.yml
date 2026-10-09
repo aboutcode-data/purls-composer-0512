@@ -25,3 +25,7 @@
 - pkg:composer/insideapps/application@1.5.1
 - pkg:composer/insideapps/application@1.6.1
 - pkg:composer/insideapps/application@1.6.2
+- pkg:composer/insideapps/application@1.6.3
+- pkg:composer/insideapps/application@1.7.1
+- pkg:composer/insideapps/application@1.7.2
+- pkg:composer/insideapps/application@1.7.3
