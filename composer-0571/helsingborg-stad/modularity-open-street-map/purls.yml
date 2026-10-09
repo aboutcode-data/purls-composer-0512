@@ -57,6 +57,8 @@
 - pkg:composer/helsingborg-stad/modularity-open-street-map@3.1.18
 - pkg:composer/helsingborg-stad/modularity-open-street-map@3.1.2
 - pkg:composer/helsingborg-stad/modularity-open-street-map@3.1.20
+- pkg:composer/helsingborg-stad/modularity-open-street-map@3.1.22
+- pkg:composer/helsingborg-stad/modularity-open-street-map@3.1.24
 - pkg:composer/helsingborg-stad/modularity-open-street-map@3.1.4
 - pkg:composer/helsingborg-stad/modularity-open-street-map@3.1.6
 - pkg:composer/helsingborg-stad/modularity-open-street-map@3.1.8
