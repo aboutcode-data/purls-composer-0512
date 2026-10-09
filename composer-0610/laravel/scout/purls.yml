@@ -82,6 +82,7 @@
 - pkg:composer/laravel/scout@v11.6.1
 - pkg:composer/laravel/scout@v11.7.0
 - pkg:composer/laravel/scout@v11.8.0
+- pkg:composer/laravel/scout@v11.9.0
 - pkg:composer/laravel/scout@v2.0.0
 - pkg:composer/laravel/scout@v2.0.1
 - pkg:composer/laravel/scout@v2.0.2
