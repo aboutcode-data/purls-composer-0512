@@ -1,3 +1,6 @@
 - pkg:composer/getodden/mail@v1.0.0
 - pkg:composer/getodden/mail@v1.0.1
 - pkg:composer/getodden/mail@v2.0.0
+- pkg:composer/getodden/mail@v2.1.0
+- pkg:composer/getodden/mail@v2.2.0
+- pkg:composer/getodden/mail@v2.2.1
