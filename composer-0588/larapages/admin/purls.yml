@@ -29,6 +29,9 @@
 - pkg:composer/larapages/admin@1.16.1
 - pkg:composer/larapages/admin@1.16.2
 - pkg:composer/larapages/admin@1.16.3
+- pkg:composer/larapages/admin@1.16.4
+- pkg:composer/larapages/admin@1.16.5
+- pkg:composer/larapages/admin@1.17.0
 - pkg:composer/larapages/admin@1.2.0
 - pkg:composer/larapages/admin@1.2.1
 - pkg:composer/larapages/admin@1.2.2
@@ -74,3 +77,4 @@
 - pkg:composer/larapages/admin@2.0.4
 - pkg:composer/larapages/admin@2.0.5
 - pkg:composer/larapages/admin@2.0.6
+- pkg:composer/larapages/admin@2.1.0
