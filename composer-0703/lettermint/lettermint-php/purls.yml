@@ -18,4 +18,6 @@
 - pkg:composer/lettermint/lettermint-php@2.5.0
 - pkg:composer/lettermint/lettermint-php@2.6.0
 - pkg:composer/lettermint/lettermint-php@2.7.0
+- pkg:composer/lettermint/lettermint-php@2.8.0
+- pkg:composer/lettermint/lettermint-php@3.0.0
 - pkg:composer/lettermint/lettermint-php@v2.4.0
