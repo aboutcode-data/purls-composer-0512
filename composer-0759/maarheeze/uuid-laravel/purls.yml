@@ -4,3 +4,4 @@
 - pkg:composer/maarheeze/uuid-laravel@1.2.0
 - pkg:composer/maarheeze/uuid-laravel@2.0.0
 - pkg:composer/maarheeze/uuid-laravel@3.0.0
+- pkg:composer/maarheeze/uuid-laravel@3.0.1
