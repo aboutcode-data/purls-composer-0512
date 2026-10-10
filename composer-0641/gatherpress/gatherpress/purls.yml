@@ -33,3 +33,5 @@
 - pkg:composer/gatherpress/gatherpress@0.35.2
 - pkg:composer/gatherpress/gatherpress@0.35.3
 - pkg:composer/gatherpress/gatherpress@0.35.4
+- pkg:composer/gatherpress/gatherpress@0.36.0-alpha.1
+- pkg:composer/gatherpress/gatherpress@0.36.0-alpha.2
