@@ -12,3 +12,5 @@
 - pkg:composer/mage-obsidian/module-customer@2.3.0
 - pkg:composer/mage-obsidian/module-customer@2.4.0
 - pkg:composer/mage-obsidian/module-customer@2.4.1
+- pkg:composer/mage-obsidian/module-customer@4.0.0
+- pkg:composer/mage-obsidian/module-customer@4.0.1
