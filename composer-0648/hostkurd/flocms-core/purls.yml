@@ -7,3 +7,5 @@
 - pkg:composer/hostkurd/flocms-core@v1.0.6
 - pkg:composer/hostkurd/flocms-core@v1.0.7
 - pkg:composer/hostkurd/flocms-core@v2.0.0
+- pkg:composer/hostkurd/flocms-core@v2.1.0
+- pkg:composer/hostkurd/flocms-core@v2.2.0
