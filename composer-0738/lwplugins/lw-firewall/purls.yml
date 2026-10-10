@@ -36,3 +36,6 @@
 - pkg:composer/lwplugins/lw-firewall@v1.6.1
 - pkg:composer/lwplugins/lw-firewall@v1.6.2
 - pkg:composer/lwplugins/lw-firewall@v1.7.0
+- pkg:composer/lwplugins/lw-firewall@v1.8.0
+- pkg:composer/lwplugins/lw-firewall@v1.8.1
+- pkg:composer/lwplugins/lw-firewall@v1.8.2
