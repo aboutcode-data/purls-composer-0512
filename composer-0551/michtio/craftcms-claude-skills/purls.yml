@@ -13,6 +13,8 @@
 - pkg:composer/michtio/craftcms-claude-skills@v1.16.1
 - pkg:composer/michtio/craftcms-claude-skills@v1.17.0
 - pkg:composer/michtio/craftcms-claude-skills@v1.18.0
+- pkg:composer/michtio/craftcms-claude-skills@v1.18.1
+- pkg:composer/michtio/craftcms-claude-skills@v1.19.0
 - pkg:composer/michtio/craftcms-claude-skills@v1.4.0
 - pkg:composer/michtio/craftcms-claude-skills@v1.4.1
 - pkg:composer/michtio/craftcms-claude-skills@v1.4.10
