@@ -598,7 +598,15 @@
 - pkg:composer/jessegall/code-commandments@v5.18.12
 - pkg:composer/jessegall/code-commandments@v5.18.13
 - pkg:composer/jessegall/code-commandments@v5.18.14
+- pkg:composer/jessegall/code-commandments@v5.18.15
+- pkg:composer/jessegall/code-commandments@v5.18.16
+- pkg:composer/jessegall/code-commandments@v5.18.17
+- pkg:composer/jessegall/code-commandments@v5.18.18
+- pkg:composer/jessegall/code-commandments@v5.18.19
 - pkg:composer/jessegall/code-commandments@v5.18.2
+- pkg:composer/jessegall/code-commandments@v5.18.20
+- pkg:composer/jessegall/code-commandments@v5.18.21
+- pkg:composer/jessegall/code-commandments@v5.18.22
 - pkg:composer/jessegall/code-commandments@v5.18.3
 - pkg:composer/jessegall/code-commandments@v5.18.4
 - pkg:composer/jessegall/code-commandments@v5.18.5
