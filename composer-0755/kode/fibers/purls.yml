@@ -39,4 +39,6 @@
 - pkg:composer/kode/fibers@5.0.1
 - pkg:composer/kode/fibers@5.0.2
 - pkg:composer/kode/fibers@5.0.3
+- pkg:composer/kode/fibers@5.0.4
+- pkg:composer/kode/fibers@5.0.5
 - pkg:composer/kode/fibers@v2.0.0
