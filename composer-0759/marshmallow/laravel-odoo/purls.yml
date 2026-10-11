@@ -1,0 +1,3 @@
+- pkg:composer/marshmallow/laravel-odoo@v0.1.0
+- pkg:composer/marshmallow/laravel-odoo@v0.2.0
+- pkg:composer/marshmallow/laravel-odoo@v0.2.1
