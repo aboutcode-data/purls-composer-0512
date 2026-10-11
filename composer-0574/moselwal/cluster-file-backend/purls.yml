@@ -19,6 +19,11 @@
 - pkg:composer/moselwal/cluster-file-backend@v2.6.20
 - pkg:composer/moselwal/cluster-file-backend@v2.6.21
 - pkg:composer/moselwal/cluster-file-backend@v2.6.22
+- pkg:composer/moselwal/cluster-file-backend@v2.6.23
+- pkg:composer/moselwal/cluster-file-backend@v2.6.24
+- pkg:composer/moselwal/cluster-file-backend@v2.6.25
+- pkg:composer/moselwal/cluster-file-backend@v2.6.26
+- pkg:composer/moselwal/cluster-file-backend@v2.6.27
 - pkg:composer/moselwal/cluster-file-backend@v2.6.3
 - pkg:composer/moselwal/cluster-file-backend@v2.6.4
 - pkg:composer/moselwal/cluster-file-backend@v2.6.5
