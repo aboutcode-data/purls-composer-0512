@@ -104,3 +104,6 @@
 - pkg:composer/melisplatform/melis-cms@v6.0.3
 - pkg:composer/melisplatform/melis-cms@v6.0.4
 - pkg:composer/melisplatform/melis-cms@v6.0.5
+- pkg:composer/melisplatform/melis-cms@v6.0.6
+- pkg:composer/melisplatform/melis-cms@v6.0.7
+- pkg:composer/melisplatform/melis-cms@v6.0.8
