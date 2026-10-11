@@ -20,3 +20,6 @@
 - pkg:composer/mountainclans/livewire-tiptap@1.4.0
 - pkg:composer/mountainclans/livewire-tiptap@1.5.0
 - pkg:composer/mountainclans/livewire-tiptap@1.6.0
+- pkg:composer/mountainclans/livewire-tiptap@1.7.0
+- pkg:composer/mountainclans/livewire-tiptap@1.8.0
+- pkg:composer/mountainclans/livewire-tiptap@1.8.1
