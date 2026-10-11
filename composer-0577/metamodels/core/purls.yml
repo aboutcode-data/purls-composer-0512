@@ -106,3 +106,4 @@
 - pkg:composer/metamodels/core@2.4.7
 - pkg:composer/metamodels/core@2.4.8
 - pkg:composer/metamodels/core@2.4.9
+- pkg:composer/metamodels/core@2.5.0
