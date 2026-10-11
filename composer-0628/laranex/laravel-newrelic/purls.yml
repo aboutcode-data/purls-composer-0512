@@ -3,3 +3,4 @@
 - pkg:composer/laranex/laravel-newrelic@v1.0.0
 - pkg:composer/laranex/laravel-newrelic@v4.0.0-alpha.1
 - pkg:composer/laranex/laravel-newrelic@v4.0.0-alpha.2
+- pkg:composer/laranex/laravel-newrelic@v4.0.0-alpha.6
