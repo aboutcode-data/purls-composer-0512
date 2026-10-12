@@ -9,3 +9,6 @@
 - pkg:composer/lsat/yii2-bower-asset@v2.1.0
 - pkg:composer/lsat/yii2-bower-asset@v2.1.1
 - pkg:composer/lsat/yii2-bower-asset@v2.1.2
+- pkg:composer/lsat/yii2-bower-asset@v3.0.0
+- pkg:composer/lsat/yii2-bower-asset@v3.0.1
+- pkg:composer/lsat/yii2-bower-asset@v3.0.2
