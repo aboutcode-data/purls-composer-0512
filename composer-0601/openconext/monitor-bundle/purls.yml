@@ -17,3 +17,4 @@
 - pkg:composer/openconext/monitor-bundle@4.2.0
 - pkg:composer/openconext/monitor-bundle@4.3.0
 - pkg:composer/openconext/monitor-bundle@4.3.1
+- pkg:composer/openconext/monitor-bundle@4.4.0
