@@ -12,3 +12,5 @@
 - pkg:composer/php-architecture-kit/state-machine@1.5.3
 - pkg:composer/php-architecture-kit/state-machine@1.5.4
 - pkg:composer/php-architecture-kit/state-machine@1.6.0
+- pkg:composer/php-architecture-kit/state-machine@1.7.0
+- pkg:composer/php-architecture-kit/state-machine@1.7.1

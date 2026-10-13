@@ -1,2 +1,4 @@
 - pkg:composer/php-architecture-kit/graph@1.0.0
 - pkg:composer/php-architecture-kit/graph@1.0.1
+- pkg:composer/php-architecture-kit/graph@1.1.0
+- pkg:composer/php-architecture-kit/graph@1.2.0
