@@ -5,3 +5,4 @@
 - pkg:composer/phploader/cdata@v2.13
 - pkg:composer/phploader/cdata@v2.14
 - pkg:composer/phploader/cdata@v2.15
+- pkg:composer/phploader/cdata@v2.16
