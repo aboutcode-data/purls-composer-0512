@@ -3,6 +3,7 @@
 - pkg:composer/munkireport/homebrew@v1.11
 - pkg:composer/munkireport/homebrew@v1.12
 - pkg:composer/munkireport/homebrew@v1.13
+- pkg:composer/munkireport/homebrew@v1.14
 - pkg:composer/munkireport/homebrew@v1.2
 - pkg:composer/munkireport/homebrew@v1.3
 - pkg:composer/munkireport/homebrew@v1.5
