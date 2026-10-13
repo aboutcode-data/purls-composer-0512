@@ -13,3 +13,5 @@
 - pkg:composer/mreycode/laravel-db-migrator@v2.5.0
 - pkg:composer/mreycode/laravel-db-migrator@v2.5.1
 - pkg:composer/mreycode/laravel-db-migrator@v2.5.2
+- pkg:composer/mreycode/laravel-db-migrator@v2.5.3
+- pkg:composer/mreycode/laravel-db-migrator@v2.5.4
