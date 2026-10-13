@@ -129,3 +129,6 @@
 - pkg:composer/namirasoft/account@1.5.1
 - pkg:composer/namirasoft/account@1.5.3
 - pkg:composer/namirasoft/account@1.5.4
+- pkg:composer/namirasoft/account@1.5.6
+- pkg:composer/namirasoft/account@1.5.7
+- pkg:composer/namirasoft/account@1.5.8
