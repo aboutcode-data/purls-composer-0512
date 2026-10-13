@@ -5,3 +5,5 @@
 - pkg:composer/phattarachai/laravel-env-secrets@v1.3.0
 - pkg:composer/phattarachai/laravel-env-secrets@v1.3.1
 - pkg:composer/phattarachai/laravel-env-secrets@v1.4.0
+- pkg:composer/phattarachai/laravel-env-secrets@v1.5.0
+- pkg:composer/phattarachai/laravel-env-secrets@v1.5.1
