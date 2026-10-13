@@ -64,6 +64,7 @@
 - pkg:composer/milpa/devtools@v0.44.0
 - pkg:composer/milpa/devtools@v0.44.1
 - pkg:composer/milpa/devtools@v0.44.2
+- pkg:composer/milpa/devtools@v0.44.3
 - pkg:composer/milpa/devtools@v0.5.0
 - pkg:composer/milpa/devtools@v0.6.0
 - pkg:composer/milpa/devtools@v0.7.0
