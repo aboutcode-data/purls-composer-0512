@@ -6,3 +6,7 @@
 - pkg:composer/paysera/lib-checkout-integration-sdk@3.2.1
 - pkg:composer/paysera/lib-checkout-integration-sdk@3.4.0
 - pkg:composer/paysera/lib-checkout-integration-sdk@3.5.0
+- pkg:composer/paysera/lib-checkout-integration-sdk@3.6.0
+- pkg:composer/paysera/lib-checkout-integration-sdk@3.6.1
+- pkg:composer/paysera/lib-checkout-integration-sdk@3.7.0
+- pkg:composer/paysera/lib-checkout-integration-sdk@3.7.1
