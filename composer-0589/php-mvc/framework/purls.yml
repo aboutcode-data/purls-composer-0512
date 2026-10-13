@@ -5,3 +5,4 @@
 - pkg:composer/php-mvc/framework@v1.0.4
 - pkg:composer/php-mvc/framework@v1.0.5
 - pkg:composer/php-mvc/framework@v1.1.0
+- pkg:composer/php-mvc/framework@v2.0.0
