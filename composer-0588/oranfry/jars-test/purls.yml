@@ -26,3 +26,5 @@
 - pkg:composer/oranfry/jars-test@3.2.4
 - pkg:composer/oranfry/jars-test@3.3.0
 - pkg:composer/oranfry/jars-test@3.4.0
+- pkg:composer/oranfry/jars-test@3.5.0
+- pkg:composer/oranfry/jars-test@3.5.1
