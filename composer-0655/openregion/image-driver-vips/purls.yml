@@ -1,3 +1,4 @@
 - pkg:composer/openregion/image-driver-vips@4.1.1
 - pkg:composer/openregion/image-driver-vips@4.1.4
 - pkg:composer/openregion/image-driver-vips@4.1.5
+- pkg:composer/openregion/image-driver-vips@4.1.6
