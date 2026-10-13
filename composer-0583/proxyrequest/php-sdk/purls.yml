@@ -4,3 +4,7 @@
 - pkg:composer/proxyrequest/php-sdk@v3.0.0
 - pkg:composer/proxyrequest/php-sdk@v4.0.0
 - pkg:composer/proxyrequest/php-sdk@v4.1.0
+- pkg:composer/proxyrequest/php-sdk@v4.2.0
+- pkg:composer/proxyrequest/php-sdk@v4.2.1
+- pkg:composer/proxyrequest/php-sdk@v4.3.0
+- pkg:composer/proxyrequest/php-sdk@v4.4.0
