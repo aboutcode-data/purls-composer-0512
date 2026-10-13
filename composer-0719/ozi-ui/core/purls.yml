@@ -11,3 +11,6 @@
 - pkg:composer/ozi-ui/core@2.4.0
 - pkg:composer/ozi-ui/core@2.5.0
 - pkg:composer/ozi-ui/core@2.6.0
+- pkg:composer/ozi-ui/core@2.6.1
+- pkg:composer/ozi-ui/core@2.6.2
+- pkg:composer/ozi-ui/core@2.7.0
