@@ -8,3 +8,4 @@
 - pkg:composer/plokko/laravel-orthanc-restapi@0.3.0
 - pkg:composer/plokko/laravel-orthanc-restapi@0.4.0
 - pkg:composer/plokko/laravel-orthanc-restapi@0.4.1
+- pkg:composer/plokko/laravel-orthanc-restapi@0.5.0
