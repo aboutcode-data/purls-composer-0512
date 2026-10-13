@@ -1,2 +1,5 @@
 - pkg:composer/priebera/typo3-context-reporter@0.1.0
 - pkg:composer/priebera/typo3-context-reporter@0.1.1
+- pkg:composer/priebera/typo3-context-reporter@0.1.2
+- pkg:composer/priebera/typo3-context-reporter@0.2.0
+- pkg:composer/priebera/typo3-context-reporter@0.3.0
