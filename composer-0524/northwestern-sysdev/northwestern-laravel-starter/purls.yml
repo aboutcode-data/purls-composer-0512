@@ -44,3 +44,5 @@
 - pkg:composer/northwestern-sysdev/northwestern-laravel-starter@v2.3.0
 - pkg:composer/northwestern-sysdev/northwestern-laravel-starter@v2.4.0
 - pkg:composer/northwestern-sysdev/northwestern-laravel-starter@v2.5.0
+- pkg:composer/northwestern-sysdev/northwestern-laravel-starter@v2.6.0
+- pkg:composer/northwestern-sysdev/northwestern-laravel-starter@v3.0.0
