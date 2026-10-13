@@ -47,3 +47,6 @@
 - pkg:composer/nzo/url-encryptor-bundle@v6.3.3
 - pkg:composer/nzo/url-encryptor-bundle@v6.4.0
 - pkg:composer/nzo/url-encryptor-bundle@v6.5.0
+- pkg:composer/nzo/url-encryptor-bundle@v6.6.0
+- pkg:composer/nzo/url-encryptor-bundle@v7.0.0
+- pkg:composer/nzo/url-encryptor-bundle@v7.0.1
