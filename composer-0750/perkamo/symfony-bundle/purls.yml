@@ -13,3 +13,4 @@
 - pkg:composer/perkamo/symfony-bundle@v1.0.0
 - pkg:composer/perkamo/symfony-bundle@v1.1.0
 - pkg:composer/perkamo/symfony-bundle@v1.2.0
+- pkg:composer/perkamo/symfony-bundle@v1.2.1
