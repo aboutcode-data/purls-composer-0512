@@ -1,1 +1,2 @@
 - pkg:composer/mochipay/php-sdk@v1.0.0
+- pkg:composer/mochipay/php-sdk@v1.0.1
