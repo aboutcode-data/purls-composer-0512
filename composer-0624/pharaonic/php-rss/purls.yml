@@ -1,1 +1,14 @@
 - pkg:composer/pharaonic/php-rss@1.0.0
+- pkg:composer/pharaonic/php-rss@8.0.0
+- pkg:composer/pharaonic/php-rss@8.0.1
+- pkg:composer/pharaonic/php-rss@8.0.2
+- pkg:composer/pharaonic/php-rss@8.1.0
+- pkg:composer/pharaonic/php-rss@8.1.1
+- pkg:composer/pharaonic/php-rss@8.2.0
+- pkg:composer/pharaonic/php-rss@8.2.1
+- pkg:composer/pharaonic/php-rss@8.3.0
+- pkg:composer/pharaonic/php-rss@8.3.1
+- pkg:composer/pharaonic/php-rss@8.4.0
+- pkg:composer/pharaonic/php-rss@8.4.1
+- pkg:composer/pharaonic/php-rss@8.5.0
+- pkg:composer/pharaonic/php-rss@8.5.1
