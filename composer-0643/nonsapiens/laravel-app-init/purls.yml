@@ -10,3 +10,4 @@
 - pkg:composer/nonsapiens/laravel-app-init@v2.1.0
 - pkg:composer/nonsapiens/laravel-app-init@v2.1.1
 - pkg:composer/nonsapiens/laravel-app-init@v2.1.2
+- pkg:composer/nonsapiens/laravel-app-init@v3.0.0
