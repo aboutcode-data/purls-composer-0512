@@ -28,3 +28,4 @@
 - pkg:composer/onecentlin/laravel-adminer@7.2.0
 - pkg:composer/onecentlin/laravel-adminer@8.0.1
 - pkg:composer/onecentlin/laravel-adminer@8.0.2
+- pkg:composer/onecentlin/laravel-adminer@8.0.3
