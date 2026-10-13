@@ -3,3 +3,4 @@
 - pkg:composer/overtrue/laravel-saml@1.1.0
 - pkg:composer/overtrue/laravel-saml@1.2.0
 - pkg:composer/overtrue/laravel-saml@1.3.0
+- pkg:composer/overtrue/laravel-saml@2.0.0

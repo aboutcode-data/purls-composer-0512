@@ -20,3 +20,4 @@
 - pkg:composer/overtrue/laravel-qcs@3.7.0
 - pkg:composer/overtrue/laravel-qcs@4.0.0
 - pkg:composer/overtrue/laravel-qcs@4.0.1
+- pkg:composer/overtrue/laravel-qcs@5.0.0

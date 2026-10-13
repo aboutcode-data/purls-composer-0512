@@ -6,3 +6,4 @@
 - pkg:composer/overtrue/laravel-payment@1.0.7
 - pkg:composer/overtrue/laravel-payment@2.0.0
 - pkg:composer/overtrue/laravel-payment@3.0.0
+- pkg:composer/overtrue/laravel-payment@4.0.0
