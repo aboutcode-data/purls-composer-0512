@@ -84,6 +84,8 @@
 - pkg:composer/pensoft/media-plugin@1.2.42
 - pkg:composer/pensoft/media-plugin@1.2.43
 - pkg:composer/pensoft/media-plugin@1.2.44
+- pkg:composer/pensoft/media-plugin@1.2.45
+- pkg:composer/pensoft/media-plugin@1.2.46
 - pkg:composer/pensoft/media-plugin@1.2.5
 - pkg:composer/pensoft/media-plugin@1.2.6
 - pkg:composer/pensoft/media-plugin@1.2.7
