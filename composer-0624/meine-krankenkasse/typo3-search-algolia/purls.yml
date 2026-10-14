@@ -17,6 +17,8 @@
 - pkg:composer/meine-krankenkasse/typo3-search-algolia@1.6.0
 - pkg:composer/meine-krankenkasse/typo3-search-algolia@1.7.0
 - pkg:composer/meine-krankenkasse/typo3-search-algolia@1.7.1
+- pkg:composer/meine-krankenkasse/typo3-search-algolia@1.8.0
+- pkg:composer/meine-krankenkasse/typo3-search-algolia@1.8.1
 - pkg:composer/meine-krankenkasse/typo3-search-algolia@2.0.0
 - pkg:composer/meine-krankenkasse/typo3-search-algolia@2.0.1
 - pkg:composer/meine-krankenkasse/typo3-search-algolia@3.0.0
