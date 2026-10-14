@@ -1,2 +1,4 @@
 - pkg:composer/ongudidan/laravel-multi-2fa@1.0.1
+- pkg:composer/ongudidan/laravel-multi-2fa@1.0.2
+- pkg:composer/ongudidan/laravel-multi-2fa@1.0.3
 - pkg:composer/ongudidan/laravel-multi-2fa@v1.0.0
