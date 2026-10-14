@@ -18,3 +18,6 @@
 - pkg:composer/restruct/silverstripe-simpler@0.3.6
 - pkg:composer/restruct/silverstripe-simpler@0.3.7
 - pkg:composer/restruct/silverstripe-simpler@1.0.0
+- pkg:composer/restruct/silverstripe-simpler@1.0.1
+- pkg:composer/restruct/silverstripe-simpler@1.0.2
+- pkg:composer/restruct/silverstripe-simpler@1.0.3

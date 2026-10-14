@@ -19,3 +19,4 @@
 - pkg:composer/restruct/silverstripe-shortcodable@5.0.4
 - pkg:composer/restruct/silverstripe-shortcodable@5.0.5
 - pkg:composer/restruct/silverstripe-shortcodable@5.1.0
+- pkg:composer/restruct/silverstripe-shortcodable@5.2.0
