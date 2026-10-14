@@ -33,3 +33,4 @@
 - pkg:composer/noerd/communication@v0.4.9
 - pkg:composer/noerd/communication@v0.5.0
 - pkg:composer/noerd/communication@v0.5.1
+- pkg:composer/noerd/communication@v0.5.2
