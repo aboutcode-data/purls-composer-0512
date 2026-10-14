@@ -8,3 +8,4 @@
 - pkg:composer/nicoren/cron-bundle@1.0.7
 - pkg:composer/nicoren/cron-bundle@1.0.8
 - pkg:composer/nicoren/cron-bundle@1.0.9
+- pkg:composer/nicoren/cron-bundle@2.0.0
