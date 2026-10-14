@@ -2,6 +2,7 @@
 - pkg:composer/rkw/rkw-solrsearch@v10.4.1-stable
 - pkg:composer/rkw/rkw-solrsearch@v10.4.10-stable
 - pkg:composer/rkw/rkw-solrsearch@v10.4.11-stable
+- pkg:composer/rkw/rkw-solrsearch@v10.4.12-stable
 - pkg:composer/rkw/rkw-solrsearch@v10.4.2-stable
 - pkg:composer/rkw/rkw-solrsearch@v10.4.3-stable
 - pkg:composer/rkw/rkw-solrsearch@v10.4.4-stable
