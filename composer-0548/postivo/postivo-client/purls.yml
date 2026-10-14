@@ -2,3 +2,4 @@
 - pkg:composer/postivo/postivo-client@v0.0.37
 - pkg:composer/postivo/postivo-client@v0.1.0
 - pkg:composer/postivo/postivo-client@v0.2.3
+- pkg:composer/postivo/postivo-client@v0.3.13
