@@ -24,3 +24,5 @@
 - pkg:composer/ose/magento2-grumphp@1.5.0
 - pkg:composer/ose/magento2-grumphp@1.6.0
 - pkg:composer/ose/magento2-grumphp@1.7.0
+- pkg:composer/ose/magento2-grumphp@1.8.0
+- pkg:composer/ose/magento2-grumphp@1.9.0
