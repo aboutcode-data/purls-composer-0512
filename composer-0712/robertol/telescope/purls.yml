@@ -7,6 +7,8 @@
 - pkg:composer/robertol/telescope@v5.24.6
 - pkg:composer/robertol/telescope@v6.0.0
 - pkg:composer/robertol/telescope@v6.0.1
+- pkg:composer/robertol/telescope@v6.0.10
+- pkg:composer/robertol/telescope@v6.0.11
 - pkg:composer/robertol/telescope@v6.0.2
 - pkg:composer/robertol/telescope@v6.0.3
 - pkg:composer/robertol/telescope@v6.0.4
@@ -14,3 +16,4 @@
 - pkg:composer/robertol/telescope@v6.0.6
 - pkg:composer/robertol/telescope@v6.0.7
 - pkg:composer/robertol/telescope@v6.0.8
+- pkg:composer/robertol/telescope@v6.0.9
