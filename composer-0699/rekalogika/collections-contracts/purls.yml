@@ -24,6 +24,8 @@
 - pkg:composer/rekalogika/collections-contracts@v0.2.3
 - pkg:composer/rekalogika/collections-contracts@v0.2.4
 - pkg:composer/rekalogika/collections-contracts@v0.20.0
+- pkg:composer/rekalogika/collections-contracts@v0.21.0
+- pkg:composer/rekalogika/collections-contracts@v0.21.1
 - pkg:composer/rekalogika/collections-contracts@v0.3.0
 - pkg:composer/rekalogika/collections-contracts@v0.4.0
 - pkg:composer/rekalogika/collections-contracts@v0.4.1
