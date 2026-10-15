@@ -2,4 +2,17 @@
 - pkg:composer/saucebase/core@v1.0.0
 - pkg:composer/saucebase/core@v1.0.1
 - pkg:composer/saucebase/core@v1.1.0
+- pkg:composer/saucebase/core@v1.10.0
+- pkg:composer/saucebase/core@v1.10.1
+- pkg:composer/saucebase/core@v1.11.0
+- pkg:composer/saucebase/core@v1.12.0
 - pkg:composer/saucebase/core@v1.2.0
+- pkg:composer/saucebase/core@v1.3.0
+- pkg:composer/saucebase/core@v1.4.0
+- pkg:composer/saucebase/core@v1.5.0
+- pkg:composer/saucebase/core@v1.6.0
+- pkg:composer/saucebase/core@v1.7.0
+- pkg:composer/saucebase/core@v1.8.0
+- pkg:composer/saucebase/core@v1.8.1
+- pkg:composer/saucebase/core@v1.8.2
+- pkg:composer/saucebase/core@v1.9.0
