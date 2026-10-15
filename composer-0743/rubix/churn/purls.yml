@@ -1,1 +1,3 @@
+- pkg:composer/rubix/churn@V2
+- pkg:composer/rubix/churn@V3
 - pkg:composer/rubix/churn@v1

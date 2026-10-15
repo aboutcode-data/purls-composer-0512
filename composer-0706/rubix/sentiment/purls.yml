@@ -1,3 +1,5 @@
+- pkg:composer/rubix/sentiment@V10
+- pkg:composer/rubix/sentiment@V9
 - pkg:composer/rubix/sentiment@v1
 - pkg:composer/rubix/sentiment@v2
 - pkg:composer/rubix/sentiment@v3
