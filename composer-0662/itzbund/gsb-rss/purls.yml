@@ -180,3 +180,5 @@
 - pkg:composer/itzbund/gsb-rss@v2.4.5-beta.4
 - pkg:composer/itzbund/gsb-rss@v2.4.5-rc.1
 - pkg:composer/itzbund/gsb-rss@v2.4.6-beta.1
+- pkg:composer/itzbund/gsb-rss@v2.4.6-beta.2
+- pkg:composer/itzbund/gsb-rss@v2.4.6-rc.1
