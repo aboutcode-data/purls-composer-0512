@@ -10,3 +10,4 @@
 - pkg:composer/jbtronics/2fa-webauthn@v3.0.1
 - pkg:composer/jbtronics/2fa-webauthn@v3.0.2
 - pkg:composer/jbtronics/2fa-webauthn@v3.03
+- pkg:composer/jbtronics/2fa-webauthn@v3.4.0
