@@ -1,1 +1,2 @@
 - pkg:composer/invisnet/phpstan-compose-shapes@1.0.0
+- pkg:composer/invisnet/phpstan-compose-shapes@1.0.1
