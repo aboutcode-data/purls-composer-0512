@@ -11,3 +11,10 @@
 - pkg:composer/jmonitor/collector@v2.1.0
 - pkg:composer/jmonitor/collector@v2.2.0
 - pkg:composer/jmonitor/collector@v2.2.1
+- pkg:composer/jmonitor/collector@v2.2.2
+- pkg:composer/jmonitor/collector@v2.2.3
+- pkg:composer/jmonitor/collector@v2.3.0
+- pkg:composer/jmonitor/collector@v2.3.1
+- pkg:composer/jmonitor/collector@v2.4.0
+- pkg:composer/jmonitor/collector@v2.5.0
+- pkg:composer/jmonitor/collector@v2.5.1
