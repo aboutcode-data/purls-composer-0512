@@ -8,6 +8,7 @@
 - pkg:composer/inttegro/sdk@v11.2.2
 - pkg:composer/inttegro/sdk@v11.3.0
 - pkg:composer/inttegro/sdk@v12.0.0
+- pkg:composer/inttegro/sdk@v13.0.0
 - pkg:composer/inttegro/sdk@v2.0.0
 - pkg:composer/inttegro/sdk@v3.0.0
 - pkg:composer/inttegro/sdk@v3.0.1
