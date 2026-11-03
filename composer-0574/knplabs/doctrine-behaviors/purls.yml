@@ -19,6 +19,7 @@
 - pkg:composer/knplabs/doctrine-behaviors@2.6.0
 - pkg:composer/knplabs/doctrine-behaviors@2.6.1
 - pkg:composer/knplabs/doctrine-behaviors@2.6.2
+- pkg:composer/knplabs/doctrine-behaviors@2.6.3
 - pkg:composer/knplabs/doctrine-behaviors@v1.0.0
 - pkg:composer/knplabs/doctrine-behaviors@v1.0.1
 - pkg:composer/knplabs/doctrine-behaviors@v1.0.2
