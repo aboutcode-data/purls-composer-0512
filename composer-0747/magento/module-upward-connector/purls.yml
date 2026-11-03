@@ -16,3 +16,4 @@
 - pkg:composer/magento/module-upward-connector@2.1.5
 - pkg:composer/magento/module-upward-connector@2.1.6
 - pkg:composer/magento/module-upward-connector@2.1.7
+- pkg:composer/magento/module-upward-connector@2.1.8
