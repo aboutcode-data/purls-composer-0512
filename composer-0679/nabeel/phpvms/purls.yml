@@ -5,6 +5,7 @@
 - pkg:composer/nabeel/phpvms@7.0.0-beta.5
 - pkg:composer/nabeel/phpvms@7.0.1
 - pkg:composer/nabeel/phpvms@7.0.10
+- pkg:composer/nabeel/phpvms@7.0.11
 - pkg:composer/nabeel/phpvms@7.0.2
 - pkg:composer/nabeel/phpvms@7.0.3
 - pkg:composer/nabeel/phpvms@7.0.4
