@@ -28,7 +28,13 @@
 - pkg:composer/kipchak/driver-s3@1.33
 - pkg:composer/kipchak/driver-s3@1.34
 - pkg:composer/kipchak/driver-s3@1.35
+- pkg:composer/kipchak/driver-s3@1.36
+- pkg:composer/kipchak/driver-s3@1.37
+- pkg:composer/kipchak/driver-s3@1.38
+- pkg:composer/kipchak/driver-s3@1.39
 - pkg:composer/kipchak/driver-s3@1.4
+- pkg:composer/kipchak/driver-s3@1.40
+- pkg:composer/kipchak/driver-s3@1.41
 - pkg:composer/kipchak/driver-s3@1.5
 - pkg:composer/kipchak/driver-s3@1.6
 - pkg:composer/kipchak/driver-s3@1.7
