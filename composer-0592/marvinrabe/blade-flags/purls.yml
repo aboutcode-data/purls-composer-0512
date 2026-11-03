@@ -1,1 +1,3 @@
 - pkg:composer/marvinrabe/blade-flags@7.5.0
+- pkg:composer/marvinrabe/blade-flags@7.5.1
+- pkg:composer/marvinrabe/blade-flags@8.0.0
