@@ -14,3 +14,7 @@
 - pkg:composer/libpurecontent/database@v4.4.2
 - pkg:composer/libpurecontent/database@v4.4.3
 - pkg:composer/libpurecontent/database@v4.4.4
+- pkg:composer/libpurecontent/database@v4.5.0
+- pkg:composer/libpurecontent/database@v4.6.0
+- pkg:composer/libpurecontent/database@v4.6.1
+- pkg:composer/libpurecontent/database@v4.6.2
