@@ -23,6 +23,7 @@
 - pkg:composer/medienreaktor/neos-studio@1.17.12
 - pkg:composer/medienreaktor/neos-studio@1.17.13
 - pkg:composer/medienreaktor/neos-studio@1.17.14
+- pkg:composer/medienreaktor/neos-studio@1.17.15
 - pkg:composer/medienreaktor/neos-studio@1.17.2
 - pkg:composer/medienreaktor/neos-studio@1.17.3
 - pkg:composer/medienreaktor/neos-studio@1.17.4
@@ -31,6 +32,8 @@
 - pkg:composer/medienreaktor/neos-studio@1.17.7
 - pkg:composer/medienreaktor/neos-studio@1.17.8
 - pkg:composer/medienreaktor/neos-studio@1.17.9
+- pkg:composer/medienreaktor/neos-studio@1.18.0
+- pkg:composer/medienreaktor/neos-studio@1.18.1
 - pkg:composer/medienreaktor/neos-studio@1.2
 - pkg:composer/medienreaktor/neos-studio@1.2.1
 - pkg:composer/medienreaktor/neos-studio@1.2.2

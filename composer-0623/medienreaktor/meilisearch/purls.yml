@@ -32,5 +32,6 @@
 - pkg:composer/medienreaktor/meilisearch@2.9.0
 - pkg:composer/medienreaktor/meilisearch@3.0.0
 - pkg:composer/medienreaktor/meilisearch@3.0.1
+- pkg:composer/medienreaktor/meilisearch@3.0.2
 - pkg:composer/medienreaktor/meilisearch@v1.5
 - pkg:composer/medienreaktor/meilisearch@v2.5.1
