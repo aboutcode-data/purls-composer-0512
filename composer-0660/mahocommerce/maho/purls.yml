@@ -7,6 +7,7 @@
 - pkg:composer/mahocommerce/maho@25.7.0
 - pkg:composer/mahocommerce/maho@25.9.0
 - pkg:composer/mahocommerce/maho@26.1.0
+- pkg:composer/mahocommerce/maho@26.11.0
 - pkg:composer/mahocommerce/maho@26.3.0
 - pkg:composer/mahocommerce/maho@26.5.0
 - pkg:composer/mahocommerce/maho@26.7.0
@@ -17,3 +18,5 @@
 - pkg:composer/mahocommerce/maho@26.7.5
 - pkg:composer/mahocommerce/maho@26.9.0
 - pkg:composer/mahocommerce/maho@26.9.1
+- pkg:composer/mahocommerce/maho@26.9.2
+- pkg:composer/mahocommerce/maho@26.9.3
