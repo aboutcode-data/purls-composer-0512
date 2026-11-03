@@ -2,3 +2,5 @@
 - pkg:composer/laruence/yac@2.4.0
 - pkg:composer/laruence/yac@2.4.1
 - pkg:composer/laruence/yac@2.4.2
+- pkg:composer/laruence/yac@3.0.1
+- pkg:composer/laruence/yac@3.0.2
