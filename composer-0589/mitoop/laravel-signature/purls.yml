@@ -23,3 +23,5 @@
 - pkg:composer/mitoop/laravel-signature@v2.7.1
 - pkg:composer/mitoop/laravel-signature@v2.7.2
 - pkg:composer/mitoop/laravel-signature@v2.8.0
+- pkg:composer/mitoop/laravel-signature@v3.0.0
+- pkg:composer/mitoop/laravel-signature@v3.0.1
