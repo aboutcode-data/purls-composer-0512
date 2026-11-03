@@ -28,4 +28,9 @@
 - pkg:composer/kode/skeleton@2.0.0
 - pkg:composer/kode/skeleton@2.0.1
 - pkg:composer/kode/skeleton@2.0.2
+- pkg:composer/kode/skeleton@3.0.0
+- pkg:composer/kode/skeleton@3.0.1
+- pkg:composer/kode/skeleton@3.0.2
+- pkg:composer/kode/skeleton@3.0.3
+- pkg:composer/kode/skeleton@3.1.0
 - pkg:composer/kode/skeleton@v0.8.51
