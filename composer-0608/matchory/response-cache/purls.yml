@@ -18,3 +18,5 @@
 - pkg:composer/matchory/response-cache@1.5.1
 - pkg:composer/matchory/response-cache@1.5.2
 - pkg:composer/matchory/response-cache@1.5.3
+- pkg:composer/matchory/response-cache@1.5.4
+- pkg:composer/matchory/response-cache@2.0.0
