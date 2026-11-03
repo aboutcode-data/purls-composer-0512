@@ -58,4 +58,6 @@
 - pkg:composer/novactive/ezseobundle@v7.4.1
 - pkg:composer/novactive/ezseobundle@v7.5.0
 - pkg:composer/novactive/ezseobundle@v7.5.1
+- pkg:composer/novactive/ezseobundle@v7.5.2
+- pkg:composer/novactive/ezseobundle@v7.5.3
 - pkg:composer/novactive/ezseobundle@v8.0.0

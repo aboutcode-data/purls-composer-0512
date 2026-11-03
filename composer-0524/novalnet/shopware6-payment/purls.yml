@@ -51,3 +51,4 @@
 - pkg:composer/novalnet/shopware6-payment@v13.6.0
 - pkg:composer/novalnet/shopware6-payment@v13.6.1
 - pkg:composer/novalnet/shopware6-payment@v13.6.2
+- pkg:composer/novalnet/shopware6-payment@v13.6.3
