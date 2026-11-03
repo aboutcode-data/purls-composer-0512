@@ -177,6 +177,8 @@
 - pkg:composer/keboola/output-mapping@27.10.0
 - pkg:composer/keboola/output-mapping@27.10.1
 - pkg:composer/keboola/output-mapping@27.11.0
+- pkg:composer/keboola/output-mapping@27.12.0
+- pkg:composer/keboola/output-mapping@27.12.1
 - pkg:composer/keboola/output-mapping@27.2.0
 - pkg:composer/keboola/output-mapping@27.2.1
 - pkg:composer/keboola/output-mapping@27.3.0
