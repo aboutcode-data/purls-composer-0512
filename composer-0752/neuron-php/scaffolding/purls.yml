@@ -2,6 +2,9 @@
 - pkg:composer/neuron-php/scaffolding@0.8.11
 - pkg:composer/neuron-php/scaffolding@0.8.12
 - pkg:composer/neuron-php/scaffolding@0.8.13
+- pkg:composer/neuron-php/scaffolding@0.8.14
+- pkg:composer/neuron-php/scaffolding@0.8.15
+- pkg:composer/neuron-php/scaffolding@0.8.16
 - pkg:composer/neuron-php/scaffolding@0.8.4
 - pkg:composer/neuron-php/scaffolding@0.8.5
 - pkg:composer/neuron-php/scaffolding@0.8.6
