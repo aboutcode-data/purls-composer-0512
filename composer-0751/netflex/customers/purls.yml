@@ -303,3 +303,4 @@
 - pkg:composer/netflex/customers@v6.7.3
 - pkg:composer/netflex/customers@v7.0.0
 - pkg:composer/netflex/customers@v7.0.1
+- pkg:composer/netflex/customers@v7.0.2

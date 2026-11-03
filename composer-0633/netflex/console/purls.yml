@@ -287,3 +287,4 @@
 - pkg:composer/netflex/console@v6.7.3
 - pkg:composer/netflex/console@v7.0.0
 - pkg:composer/netflex/console@v7.0.1
+- pkg:composer/netflex/console@v7.0.2
