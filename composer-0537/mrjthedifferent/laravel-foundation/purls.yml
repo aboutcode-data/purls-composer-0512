@@ -37,3 +37,8 @@
 - pkg:composer/mrjthedifferent/laravel-foundation@v3.4.0
 - pkg:composer/mrjthedifferent/laravel-foundation@v3.5.0
 - pkg:composer/mrjthedifferent/laravel-foundation@v3.5.1
+- pkg:composer/mrjthedifferent/laravel-foundation@v3.5.2
+- pkg:composer/mrjthedifferent/laravel-foundation@v3.6.0
+- pkg:composer/mrjthedifferent/laravel-foundation@v3.6.1
+- pkg:composer/mrjthedifferent/laravel-foundation@v3.6.2
+- pkg:composer/mrjthedifferent/laravel-foundation@v3.7.0
