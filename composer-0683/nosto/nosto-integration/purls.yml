@@ -46,7 +46,11 @@
 - pkg:composer/nosto/nosto-integration@3.6.15
 - pkg:composer/nosto/nosto-integration@3.6.16
 - pkg:composer/nosto/nosto-integration@3.6.17
+- pkg:composer/nosto/nosto-integration@3.6.18
+- pkg:composer/nosto/nosto-integration@3.6.19
 - pkg:composer/nosto/nosto-integration@3.6.2
+- pkg:composer/nosto/nosto-integration@3.6.20
+- pkg:composer/nosto/nosto-integration@3.6.21
 - pkg:composer/nosto/nosto-integration@3.6.3
 - pkg:composer/nosto/nosto-integration@3.6.4
 - pkg:composer/nosto/nosto-integration@3.6.5
@@ -116,6 +120,8 @@
 - pkg:composer/nosto/nosto-integration@5.2.30
 - pkg:composer/nosto/nosto-integration@5.2.31
 - pkg:composer/nosto/nosto-integration@5.2.32
+- pkg:composer/nosto/nosto-integration@5.2.33
+- pkg:composer/nosto/nosto-integration@5.2.34
 - pkg:composer/nosto/nosto-integration@5.2.4
 - pkg:composer/nosto/nosto-integration@5.2.5
 - pkg:composer/nosto/nosto-integration@5.2.6
@@ -166,6 +172,8 @@
 - pkg:composer/nosto/nosto-integration@6.1.32
 - pkg:composer/nosto/nosto-integration@6.1.33
 - pkg:composer/nosto/nosto-integration@6.1.34
+- pkg:composer/nosto/nosto-integration@6.1.35
+- pkg:composer/nosto/nosto-integration@6.1.36
 - pkg:composer/nosto/nosto-integration@6.1.4
 - pkg:composer/nosto/nosto-integration@6.1.5
 - pkg:composer/nosto/nosto-integration@6.1.6
