@@ -20,3 +20,4 @@
 - pkg:composer/masterro/laravel-xss-filter@v2.0.0
 - pkg:composer/masterro/laravel-xss-filter@v2.1.0
 - pkg:composer/masterro/laravel-xss-filter@v2.2.0
+- pkg:composer/masterro/laravel-xss-filter@v2.2.1
