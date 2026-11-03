@@ -22,3 +22,4 @@
 - pkg:composer/mediawiki/bootstrap-components@6.0.1
 - pkg:composer/mediawiki/bootstrap-components@6.1.0
 - pkg:composer/mediawiki/bootstrap-components@6.1.1
+- pkg:composer/mediawiki/bootstrap-components@6.1.2
