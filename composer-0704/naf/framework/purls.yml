@@ -2,6 +2,8 @@
 - pkg:composer/naf/framework@v0.2.1
 - pkg:composer/naf/framework@v0.2.10
 - pkg:composer/naf/framework@v0.2.12
+- pkg:composer/naf/framework@v0.2.13
+- pkg:composer/naf/framework@v0.2.14
 - pkg:composer/naf/framework@v0.2.2
 - pkg:composer/naf/framework@v0.2.3
 - pkg:composer/naf/framework@v0.2.4
