@@ -10,3 +10,5 @@
 - pkg:composer/nogrod/dhl-retoure-php-sdk@v0.2.6.1
 - pkg:composer/nogrod/dhl-retoure-php-sdk@v0.2.7
 - pkg:composer/nogrod/dhl-retoure-php-sdk@v0.3.0
+- pkg:composer/nogrod/dhl-retoure-php-sdk@v0.3.1
+- pkg:composer/nogrod/dhl-retoure-php-sdk@v0.3.2
