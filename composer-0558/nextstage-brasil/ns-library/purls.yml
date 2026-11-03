@@ -318,6 +318,7 @@
 - pkg:composer/nextstage-brasil/ns-library@2.0.12
 - pkg:composer/nextstage-brasil/ns-library@2.0.13
 - pkg:composer/nextstage-brasil/ns-library@2.0.14
+- pkg:composer/nextstage-brasil/ns-library@2.0.15
 - pkg:composer/nextstage-brasil/ns-library@2.0.2
 - pkg:composer/nextstage-brasil/ns-library@2.0.3
 - pkg:composer/nextstage-brasil/ns-library@2.0.4
@@ -326,3 +327,6 @@
 - pkg:composer/nextstage-brasil/ns-library@2.0.7
 - pkg:composer/nextstage-brasil/ns-library@2.0.8
 - pkg:composer/nextstage-brasil/ns-library@2.0.9
+- pkg:composer/nextstage-brasil/ns-library@2.1.0
+- pkg:composer/nextstage-brasil/ns-library@2.1.1
+- pkg:composer/nextstage-brasil/ns-library@2.1.2
