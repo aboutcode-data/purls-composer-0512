@@ -101,3 +101,7 @@
 - pkg:composer/milzer/checkout@v1.1.0
 - pkg:composer/milzer/checkout@v1.1.1
 - pkg:composer/milzer/checkout@v1.2.0
+- pkg:composer/milzer/checkout@v1.3.0
+- pkg:composer/milzer/checkout@v1.4.0
+- pkg:composer/milzer/checkout@v1.5.0
+- pkg:composer/milzer/checkout@v1.6.0
