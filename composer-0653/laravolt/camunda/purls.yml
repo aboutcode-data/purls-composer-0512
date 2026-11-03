@@ -24,3 +24,5 @@
 - pkg:composer/laravolt/camunda@2.5.9
 - pkg:composer/laravolt/camunda@2.6.0
 - pkg:composer/laravolt/camunda@2.7.0
+- pkg:composer/laravolt/camunda@3.0.0
+- pkg:composer/laravolt/camunda@3.0.1
