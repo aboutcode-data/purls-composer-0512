@@ -5,3 +5,5 @@
 - pkg:composer/marque/parley@v2.2.0
 - pkg:composer/marque/parley@v2.3.0
 - pkg:composer/marque/parley@v3.0.0
+- pkg:composer/marque/parley@v3.0.1
+- pkg:composer/marque/parley@v4.0.0
