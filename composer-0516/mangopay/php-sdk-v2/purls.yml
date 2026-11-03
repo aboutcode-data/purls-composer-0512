@@ -130,3 +130,5 @@
 - pkg:composer/mangopay/php-sdk-v2@v3.8.0
 - pkg:composer/mangopay/php-sdk-v2@v5.0.0
 - pkg:composer/mangopay/php-sdk-v2@v5.1.0
+- pkg:composer/mangopay/php-sdk-v2@v5.2.0
+- pkg:composer/mangopay/php-sdk-v2@v5.3.0
