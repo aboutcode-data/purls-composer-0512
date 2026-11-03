@@ -1,1 +1,2 @@
 - pkg:composer/mage2kishan/module-llms-txt@1.5.6
+- pkg:composer/mage2kishan/module-llms-txt@1.5.7
