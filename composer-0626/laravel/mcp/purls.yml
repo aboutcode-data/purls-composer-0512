@@ -42,7 +42,11 @@
 - pkg:composer/laravel/mcp@v0.9.4
 - pkg:composer/laravel/mcp@v0.9.5
 - pkg:composer/laravel/mcp@v0.9.6
+- pkg:composer/laravel/mcp@v0.9.7
 - pkg:composer/laravel/mcp@v1.0.0
 - pkg:composer/laravel/mcp@v1.0.0-beta.1
 - pkg:composer/laravel/mcp@v1.0.1
 - pkg:composer/laravel/mcp@v1.0.2
+- pkg:composer/laravel/mcp@v1.1.0
+- pkg:composer/laravel/mcp@v1.1.1
+- pkg:composer/laravel/mcp@v1.1.2
