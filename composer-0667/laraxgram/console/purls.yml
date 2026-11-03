@@ -3,3 +3,7 @@
 - pkg:composer/laraxgram/console@v3.0.2
 - pkg:composer/laraxgram/console@v3.0.3
 - pkg:composer/laraxgram/console@v4.0.0
+- pkg:composer/laraxgram/console@v4.5.0
+- pkg:composer/laraxgram/console@v4.6.0
+- pkg:composer/laraxgram/console@v4.6.1
+- pkg:composer/laraxgram/console@v4.7.0

@@ -1,1 +1,5 @@
 - pkg:composer/laraxgram/auth@v3.0.0
+- pkg:composer/laraxgram/auth@v4.5.0
+- pkg:composer/laraxgram/auth@v4.6.0
+- pkg:composer/laraxgram/auth@v4.6.1
+- pkg:composer/laraxgram/auth@v4.7.0
