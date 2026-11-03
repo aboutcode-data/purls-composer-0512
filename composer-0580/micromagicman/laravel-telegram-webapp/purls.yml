@@ -4,3 +4,5 @@
 - pkg:composer/micromagicman/laravel-telegram-webapp@v2.2.0
 - pkg:composer/micromagicman/laravel-telegram-webapp@v3.0.0
 - pkg:composer/micromagicman/laravel-telegram-webapp@v4.0.0
+- pkg:composer/micromagicman/laravel-telegram-webapp@v4.0.1
+- pkg:composer/micromagicman/laravel-telegram-webapp@v4.1.0
