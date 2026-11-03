@@ -39,3 +39,5 @@
 - pkg:composer/league/uri@7.7.0
 - pkg:composer/league/uri@7.8.0
 - pkg:composer/league/uri@7.8.1
+- pkg:composer/league/uri@7.9.0
+- pkg:composer/league/uri@7.9.1
