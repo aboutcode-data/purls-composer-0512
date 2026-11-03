@@ -1,1 +1,2 @@
 - pkg:composer/mmft24/elastic-apm-symfony-bundle@2.0.0
+- pkg:composer/mmft24/elastic-apm-symfony-bundle@3.0.0
