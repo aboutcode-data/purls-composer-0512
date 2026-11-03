@@ -11,3 +11,6 @@
 - pkg:composer/localzet/tunnel@v2.2.2
 - pkg:composer/localzet/tunnel@v2.2.3
 - pkg:composer/localzet/tunnel@v2.2.4
+- pkg:composer/localzet/tunnel@v3.0.0
+- pkg:composer/localzet/tunnel@v3.0.1
+- pkg:composer/localzet/tunnel@v3.0.2

@@ -39,6 +39,11 @@
 - pkg:composer/localheinz/phpstan-rules@2.13.0
 - pkg:composer/localheinz/phpstan-rules@2.13.1
 - pkg:composer/localheinz/phpstan-rules@2.14.0
+- pkg:composer/localheinz/phpstan-rules@2.14.1
+- pkg:composer/localheinz/phpstan-rules@2.14.2
+- pkg:composer/localheinz/phpstan-rules@2.15.0
+- pkg:composer/localheinz/phpstan-rules@2.16.0
+- pkg:composer/localheinz/phpstan-rules@2.17.0
 - pkg:composer/localheinz/phpstan-rules@2.2.0
 - pkg:composer/localheinz/phpstan-rules@2.3.0
 - pkg:composer/localheinz/phpstan-rules@2.4.0
