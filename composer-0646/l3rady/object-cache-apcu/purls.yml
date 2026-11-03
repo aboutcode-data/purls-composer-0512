@@ -1,2 +1,3 @@
 - pkg:composer/l3rady/object-cache-apcu@v1.2
 - pkg:composer/l3rady/object-cache-apcu@v2.0.0
+- pkg:composer/l3rady/object-cache-apcu@v2.0.1
