@@ -17,3 +17,4 @@
 - pkg:composer/koderzi/php-github-updater@1.7.0
 - pkg:composer/koderzi/php-github-updater@1.7.1
 - pkg:composer/koderzi/php-github-updater@1.8.0
+- pkg:composer/koderzi/php-github-updater@1.9.0
