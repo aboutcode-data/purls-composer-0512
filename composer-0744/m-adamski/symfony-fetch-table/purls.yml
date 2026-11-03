@@ -1,3 +1,5 @@
 - pkg:composer/m-adamski/symfony-fetch-table@0.1.0
 - pkg:composer/m-adamski/symfony-fetch-table@1.0.0
 - pkg:composer/m-adamski/symfony-fetch-table@1.1.0
+- pkg:composer/m-adamski/symfony-fetch-table@1.2.0
+- pkg:composer/m-adamski/symfony-fetch-table@1.2.1
