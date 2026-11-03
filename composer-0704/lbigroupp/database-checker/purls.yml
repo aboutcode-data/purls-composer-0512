@@ -8,5 +8,6 @@
 - pkg:composer/lbigroupp/database-checker@v1.1.5
 - pkg:composer/lbigroupp/database-checker@v1.1.7
 - pkg:composer/lbigroupp/database-checker@v1.1.9
+- pkg:composer/lbigroupp/database-checker@v1.2.0
 - pkg:composer/lbigroupp/database-checker@v2.0.1
 - pkg:composer/lbigroupp/database-checker@v2.0.2
