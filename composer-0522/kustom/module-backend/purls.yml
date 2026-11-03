@@ -5,3 +5,4 @@
 - pkg:composer/kustom/module-backend@11.0.18
 - pkg:composer/kustom/module-backend@11.1.0
 - pkg:composer/kustom/module-backend@12.0.0
+- pkg:composer/kustom/module-backend@12.0.1
