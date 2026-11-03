@@ -19,3 +19,5 @@
 - pkg:composer/neuron-core/neuron-laravel@1.2.0
 - pkg:composer/neuron-core/neuron-laravel@1.3.0
 - pkg:composer/neuron-core/neuron-laravel@2.0.0
+- pkg:composer/neuron-core/neuron-laravel@2.0.1
+- pkg:composer/neuron-core/neuron-laravel@2.0.2
