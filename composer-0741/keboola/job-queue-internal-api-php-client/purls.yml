@@ -97,6 +97,9 @@
 - pkg:composer/keboola/job-queue-internal-api-php-client@27.3.1
 - pkg:composer/keboola/job-queue-internal-api-php-client@27.4.0
 - pkg:composer/keboola/job-queue-internal-api-php-client@27.4.1
+- pkg:composer/keboola/job-queue-internal-api-php-client@28.0.0
+- pkg:composer/keboola/job-queue-internal-api-php-client@28.1.0
+- pkg:composer/keboola/job-queue-internal-api-php-client@29.0.0
 - pkg:composer/keboola/job-queue-internal-api-php-client@7.0.0
 - pkg:composer/keboola/job-queue-internal-api-php-client@7.1.0
 - pkg:composer/keboola/job-queue-internal-api-php-client@7.2.0
