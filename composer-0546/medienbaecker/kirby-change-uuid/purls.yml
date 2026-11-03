@@ -2,3 +2,4 @@
 - pkg:composer/medienbaecker/kirby-change-uuid@1.1.0
 - pkg:composer/medienbaecker/kirby-change-uuid@1.2.0
 - pkg:composer/medienbaecker/kirby-change-uuid@1.2.1
+- pkg:composer/medienbaecker/kirby-change-uuid@6.0.0-rc.1
