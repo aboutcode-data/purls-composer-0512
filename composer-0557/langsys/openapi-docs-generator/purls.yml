@@ -18,6 +18,9 @@
 - pkg:composer/langsys/openapi-docs-generator@v2.1.1
 - pkg:composer/langsys/openapi-docs-generator@v2.10.0
 - pkg:composer/langsys/openapi-docs-generator@v2.2.0
+- pkg:composer/langsys/openapi-docs-generator@v2.20.0
+- pkg:composer/langsys/openapi-docs-generator@v2.20.1
+- pkg:composer/langsys/openapi-docs-generator@v2.20.2
 - pkg:composer/langsys/openapi-docs-generator@v2.3.0
 - pkg:composer/langsys/openapi-docs-generator@v2.3.1
 - pkg:composer/langsys/openapi-docs-generator@v2.4.0
