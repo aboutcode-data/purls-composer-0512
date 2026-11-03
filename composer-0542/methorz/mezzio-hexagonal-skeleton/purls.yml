@@ -5,3 +5,5 @@
 - pkg:composer/methorz/mezzio-hexagonal-skeleton@v1.0.5
 - pkg:composer/methorz/mezzio-hexagonal-skeleton@v1.0.6
 - pkg:composer/methorz/mezzio-hexagonal-skeleton@v2.0.0
+- pkg:composer/methorz/mezzio-hexagonal-skeleton@v3.0.0
+- pkg:composer/methorz/mezzio-hexagonal-skeleton@v3.1.0
