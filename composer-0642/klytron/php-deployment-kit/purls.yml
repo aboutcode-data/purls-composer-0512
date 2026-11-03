@@ -20,3 +20,7 @@
 - pkg:composer/klytron/php-deployment-kit@v1.2.4
 - pkg:composer/klytron/php-deployment-kit@v1.3.0
 - pkg:composer/klytron/php-deployment-kit@v1.3.1
+- pkg:composer/klytron/php-deployment-kit@v1.3.2
+- pkg:composer/klytron/php-deployment-kit@v1.3.3
+- pkg:composer/klytron/php-deployment-kit@v1.4.0
+- pkg:composer/klytron/php-deployment-kit@v1.4.1
