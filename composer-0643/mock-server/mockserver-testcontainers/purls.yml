@@ -2,3 +2,6 @@
 - pkg:composer/mock-server/mockserver-testcontainers@7.5.0
 - pkg:composer/mock-server/mockserver-testcontainers@7.6.0
 - pkg:composer/mock-server/mockserver-testcontainers@8.0.0
+- pkg:composer/mock-server/mockserver-testcontainers@9.0.0
+- pkg:composer/mock-server/mockserver-testcontainers@9.1.0
+- pkg:composer/mock-server/mockserver-testcontainers@9.2.0
