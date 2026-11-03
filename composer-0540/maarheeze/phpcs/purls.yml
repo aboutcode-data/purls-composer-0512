@@ -16,3 +16,4 @@
 - pkg:composer/maarheeze/phpcs@3.0.5
 - pkg:composer/maarheeze/phpcs@3.1.0
 - pkg:composer/maarheeze/phpcs@4.0.0
+- pkg:composer/maarheeze/phpcs@4.1.0

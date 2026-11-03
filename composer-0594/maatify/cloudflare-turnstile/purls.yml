@@ -5,3 +5,5 @@
 - pkg:composer/maatify/cloudflare-turnstile@1.0.0007
 - pkg:composer/maatify/cloudflare-turnstile@1.0.8
 - pkg:composer/maatify/cloudflare-turnstile@5.0.1
+- pkg:composer/maatify/cloudflare-turnstile@5.0.2
+- pkg:composer/maatify/cloudflare-turnstile@6.0.0
