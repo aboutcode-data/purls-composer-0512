@@ -11,3 +11,5 @@
 - pkg:composer/mandryn/mandryn@3.0.0-rc.1
 - pkg:composer/mandryn/mandryn@v1.3.0
 - pkg:composer/mandryn/mandryn@v2.0
+- pkg:composer/mandryn/mandryn@v2.0.1
+- pkg:composer/mandryn/mandryn@v2.0.2
