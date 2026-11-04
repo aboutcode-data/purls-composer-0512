@@ -34,6 +34,8 @@
 - pkg:composer/medienreaktor/neos-studio@1.17.9
 - pkg:composer/medienreaktor/neos-studio@1.18.0
 - pkg:composer/medienreaktor/neos-studio@1.18.1
+- pkg:composer/medienreaktor/neos-studio@1.19.0
+- pkg:composer/medienreaktor/neos-studio@1.19.1
 - pkg:composer/medienreaktor/neos-studio@1.2
 - pkg:composer/medienreaktor/neos-studio@1.2.1
 - pkg:composer/medienreaktor/neos-studio@1.2.2
