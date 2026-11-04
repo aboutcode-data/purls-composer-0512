@@ -15,6 +15,8 @@
 - pkg:composer/matatirosoln/doctrine-filemaker-driver-bundle@1.0.1
 - pkg:composer/matatirosoln/doctrine-filemaker-driver-bundle@1.1.0
 - pkg:composer/matatirosoln/doctrine-filemaker-driver-bundle@1.10.1
+- pkg:composer/matatirosoln/doctrine-filemaker-driver-bundle@1.10.10
+- pkg:composer/matatirosoln/doctrine-filemaker-driver-bundle@1.10.11
 - pkg:composer/matatirosoln/doctrine-filemaker-driver-bundle@1.10.2
 - pkg:composer/matatirosoln/doctrine-filemaker-driver-bundle@1.10.3
 - pkg:composer/matatirosoln/doctrine-filemaker-driver-bundle@1.10.4
