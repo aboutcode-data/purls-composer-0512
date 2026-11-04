@@ -37,6 +37,7 @@
 - pkg:composer/koh/sylius-agent-contracts@v1.3.36
 - pkg:composer/koh/sylius-agent-contracts@v1.3.37
 - pkg:composer/koh/sylius-agent-contracts@v1.3.38
+- pkg:composer/koh/sylius-agent-contracts@v1.3.39
 - pkg:composer/koh/sylius-agent-contracts@v1.3.4
 - pkg:composer/koh/sylius-agent-contracts@v1.3.5
 - pkg:composer/koh/sylius-agent-contracts@v1.3.6
