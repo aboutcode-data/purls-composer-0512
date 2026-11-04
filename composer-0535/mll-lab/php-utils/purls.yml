@@ -79,3 +79,4 @@
 - pkg:composer/mll-lab/php-utils@v6.9.0
 - pkg:composer/mll-lab/php-utils@v6.9.1
 - pkg:composer/mll-lab/php-utils@v7.0.0
+- pkg:composer/mll-lab/php-utils@v7.0.1
