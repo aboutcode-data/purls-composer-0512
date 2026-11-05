@@ -17,6 +17,9 @@
 - pkg:composer/perplorm/perpl@v2.10.2
 - pkg:composer/perplorm/perpl@v2.10.3
 - pkg:composer/perplorm/perpl@v2.10.4
+- pkg:composer/perplorm/perpl@v2.10.5
+- pkg:composer/perplorm/perpl@v2.10.6
+- pkg:composer/perplorm/perpl@v2.10.7
 - pkg:composer/perplorm/perpl@v2.2.0
 - pkg:composer/perplorm/perpl@v2.3.0
 - pkg:composer/perplorm/perpl@v2.4.0
