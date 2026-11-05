@@ -57,3 +57,4 @@
 - pkg:composer/openeuropa/oe_translation@3.0.0-rc2
 - pkg:composer/openeuropa/oe_translation@3.1.0
 - pkg:composer/openeuropa/oe_translation@3.2.0
+- pkg:composer/openeuropa/oe_translation@3.2.1
