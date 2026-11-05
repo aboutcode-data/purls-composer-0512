@@ -5,3 +5,4 @@
 - pkg:composer/piotrpress/wordpress-workspace@v1.1.0
 - pkg:composer/piotrpress/wordpress-workspace@v1.1.1
 - pkg:composer/piotrpress/wordpress-workspace@v1.1.2
+- pkg:composer/piotrpress/wordpress-workspace@v2.0.0
