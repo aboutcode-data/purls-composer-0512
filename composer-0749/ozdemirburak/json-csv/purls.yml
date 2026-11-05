@@ -5,3 +5,5 @@
 - pkg:composer/ozdemirburak/json-csv@0.3.0
 - pkg:composer/ozdemirburak/json-csv@0.4.0
 - pkg:composer/ozdemirburak/json-csv@1.0.0
+- pkg:composer/ozdemirburak/json-csv@2.0.0
+- pkg:composer/ozdemirburak/json-csv@2.0.1
