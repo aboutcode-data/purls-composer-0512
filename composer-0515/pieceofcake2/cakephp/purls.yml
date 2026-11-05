@@ -9,8 +9,14 @@
 - pkg:composer/pieceofcake2/cakephp@v2.11.0
 - pkg:composer/pieceofcake2/cakephp@v2.12.0
 - pkg:composer/pieceofcake2/cakephp@v2.12.1
+- pkg:composer/pieceofcake2/cakephp@v2.12.10
+- pkg:composer/pieceofcake2/cakephp@v2.12.11
 - pkg:composer/pieceofcake2/cakephp@v2.12.2
 - pkg:composer/pieceofcake2/cakephp@v2.12.3
 - pkg:composer/pieceofcake2/cakephp@v2.12.4
 - pkg:composer/pieceofcake2/cakephp@v2.12.5
 - pkg:composer/pieceofcake2/cakephp@v2.12.6
+- pkg:composer/pieceofcake2/cakephp@v2.12.7
+- pkg:composer/pieceofcake2/cakephp@v2.12.8
+- pkg:composer/pieceofcake2/cakephp@v2.12.9
+- pkg:composer/pieceofcake2/cakephp@v2.13.0
