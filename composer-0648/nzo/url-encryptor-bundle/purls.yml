@@ -50,3 +50,4 @@
 - pkg:composer/nzo/url-encryptor-bundle@v6.6.0
 - pkg:composer/nzo/url-encryptor-bundle@v7.0.0
 - pkg:composer/nzo/url-encryptor-bundle@v7.0.1
+- pkg:composer/nzo/url-encryptor-bundle@v7.0.2
