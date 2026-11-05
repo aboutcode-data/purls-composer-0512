@@ -7,6 +7,12 @@
 - pkg:composer/oliweb/statamic-cap@v1.13.0
 - pkg:composer/oliweb/statamic-cap@v1.13.1
 - pkg:composer/oliweb/statamic-cap@v1.14.0
+- pkg:composer/oliweb/statamic-cap@v1.15.0
+- pkg:composer/oliweb/statamic-cap@v1.16.0
+- pkg:composer/oliweb/statamic-cap@v1.17.0
+- pkg:composer/oliweb/statamic-cap@v1.17.1
+- pkg:composer/oliweb/statamic-cap@v1.17.2
+- pkg:composer/oliweb/statamic-cap@v1.17.3
 - pkg:composer/oliweb/statamic-cap@v1.2.0
 - pkg:composer/oliweb/statamic-cap@v1.3.0
 - pkg:composer/oliweb/statamic-cap@v1.4.0

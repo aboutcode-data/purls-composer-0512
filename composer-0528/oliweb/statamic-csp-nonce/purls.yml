@@ -1,1 +1,2 @@
 - pkg:composer/oliweb/statamic-csp-nonce@v1.0.0
+- pkg:composer/oliweb/statamic-csp-nonce@v1.0.1
