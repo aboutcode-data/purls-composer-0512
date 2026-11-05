@@ -18,3 +18,4 @@
 - pkg:composer/php81_bc/strftime@0.7.4
 - pkg:composer/php81_bc/strftime@0.7.5
 - pkg:composer/php81_bc/strftime@0.7.6
+- pkg:composer/php81_bc/strftime@0.7.7
