@@ -13,5 +13,11 @@
 - pkg:composer/pandoc-php/pandoc@4.2.0
 - pkg:composer/pandoc-php/pandoc@5.0.0
 - pkg:composer/pandoc-php/pandoc@5.5.0
+- pkg:composer/pandoc-php/pandoc@6.0.0
+- pkg:composer/pandoc-php/pandoc@6.0.1
+- pkg:composer/pandoc-php/pandoc@6.0.2
+- pkg:composer/pandoc-php/pandoc@7.0.0
+- pkg:composer/pandoc-php/pandoc@7.0.1
+- pkg:composer/pandoc-php/pandoc@7.5.0
 - pkg:composer/pandoc-php/pandoc@v1.0.0
 - pkg:composer/pandoc-php/pandoc@v3.0.0
