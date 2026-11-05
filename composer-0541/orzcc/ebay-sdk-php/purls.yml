@@ -26,6 +26,7 @@
 - pkg:composer/orzcc/ebay-sdk-php@18.0.12
 - pkg:composer/orzcc/ebay-sdk-php@18.0.13
 - pkg:composer/orzcc/ebay-sdk-php@18.0.14
+- pkg:composer/orzcc/ebay-sdk-php@18.0.15
 - pkg:composer/orzcc/ebay-sdk-php@18.0.2
 - pkg:composer/orzcc/ebay-sdk-php@18.0.3
 - pkg:composer/orzcc/ebay-sdk-php@18.0.4
