@@ -16,5 +16,8 @@
 - pkg:composer/paycomet/composer-bankstore@2.1.4
 - pkg:composer/paycomet/composer-bankstore@2.1.5
 - pkg:composer/paycomet/composer-bankstore@2.1.6
+- pkg:composer/paycomet/composer-bankstore@2.1.7
+- pkg:composer/paycomet/composer-bankstore@2.1.8
+- pkg:composer/paycomet/composer-bankstore@2.1.9
 - pkg:composer/paycomet/composer-bankstore@v1.0
 - pkg:composer/paycomet/composer-bankstore@v1.1
