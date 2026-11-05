@@ -193,6 +193,9 @@
 - pkg:composer/planningbiblio/planningbiblio@v25.10.25
 - pkg:composer/planningbiblio/planningbiblio@v25.10.26
 - pkg:composer/planningbiblio/planningbiblio@v25.10.27
+- pkg:composer/planningbiblio/planningbiblio@v25.10.28
+- pkg:composer/planningbiblio/planningbiblio@v25.10.29
+- pkg:composer/planningbiblio/planningbiblio@v25.10.30
 - pkg:composer/planningbiblio/planningbiblio@v26.04.00
 - pkg:composer/planningbiblio/planningbiblio@v26.04.01
 - pkg:composer/planningbiblio/planningbiblio@v26.04.02
@@ -204,3 +207,9 @@
 - pkg:composer/planningbiblio/planningbiblio@v26.04.08
 - pkg:composer/planningbiblio/planningbiblio@v26.04.09
 - pkg:composer/planningbiblio/planningbiblio@v26.04.10
+- pkg:composer/planningbiblio/planningbiblio@v26.04.11
+- pkg:composer/planningbiblio/planningbiblio@v26.04.12
+- pkg:composer/planningbiblio/planningbiblio@v26.04.13
+- pkg:composer/planningbiblio/planningbiblio@v26.10.00
+- pkg:composer/planningbiblio/planningbiblio@v26.10.01
+- pkg:composer/planningbiblio/planningbiblio@v26.10.02
