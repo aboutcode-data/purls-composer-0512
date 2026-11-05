@@ -4,6 +4,12 @@
 - pkg:composer/open-web-analytics/open-web-analytics@1.12.0
 - pkg:composer/open-web-analytics/open-web-analytics@1.13.0
 - pkg:composer/open-web-analytics/open-web-analytics@1.14.0
+- pkg:composer/open-web-analytics/open-web-analytics@1.14.1
+- pkg:composer/open-web-analytics/open-web-analytics@1.14.2
+- pkg:composer/open-web-analytics/open-web-analytics@1.14.3
+- pkg:composer/open-web-analytics/open-web-analytics@1.14.4
+- pkg:composer/open-web-analytics/open-web-analytics@1.14.5
+- pkg:composer/open-web-analytics/open-web-analytics@1.14.6
 - pkg:composer/open-web-analytics/open-web-analytics@1.6.6
 - pkg:composer/open-web-analytics/open-web-analytics@1.6.7
 - pkg:composer/open-web-analytics/open-web-analytics@1.6.8
