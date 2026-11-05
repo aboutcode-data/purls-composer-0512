@@ -1,4 +1,6 @@
 - pkg:composer/php-io-extensions/posi@0.10.0
+- pkg:composer/php-io-extensions/posi@0.10.6
+- pkg:composer/php-io-extensions/posi@0.11.0
 - pkg:composer/php-io-extensions/posi@0.4.2
 - pkg:composer/php-io-extensions/posi@0.4.5
 - pkg:composer/php-io-extensions/posi@0.4.6

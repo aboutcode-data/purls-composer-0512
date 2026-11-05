@@ -4,6 +4,7 @@
 - pkg:composer/php-http/react-adapter@3.0.0
 - pkg:composer/php-http/react-adapter@3.0.1
 - pkg:composer/php-http/react-adapter@4.0.0
+- pkg:composer/php-http/react-adapter@4.0.1
 - pkg:composer/php-http/react-adapter@v0.1.0
 - pkg:composer/php-http/react-adapter@v0.1.1
 - pkg:composer/php-http/react-adapter@v0.2.0
