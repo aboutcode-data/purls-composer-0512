@@ -2,3 +2,6 @@
 - pkg:composer/nvl/auth@v2.2.1
 - pkg:composer/nvl/auth@v5.0.0
 - pkg:composer/nvl/auth@v5.0.1
+- pkg:composer/nvl/auth@v6.0.0
+- pkg:composer/nvl/auth@v6.1.0
+- pkg:composer/nvl/auth@v7.0.0
