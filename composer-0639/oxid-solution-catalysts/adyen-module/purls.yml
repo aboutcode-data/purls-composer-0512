@@ -25,10 +25,14 @@
 - pkg:composer/oxid-solution-catalysts/adyen-module@v1.1.8-rc.1
 - pkg:composer/oxid-solution-catalysts/adyen-module@v1.1.9
 - pkg:composer/oxid-solution-catalysts/adyen-module@v1.1.9-rc.1
+- pkg:composer/oxid-solution-catalysts/adyen-module@v1.2.0
 - pkg:composer/oxid-solution-catalysts/adyen-module@v1.2.0-rc.2
 - pkg:composer/oxid-solution-catalysts/adyen-module@v1.2.0-rc.3
 - pkg:composer/oxid-solution-catalysts/adyen-module@v1.2.0-rc.4
 - pkg:composer/oxid-solution-catalysts/adyen-module@v1.2.0-rc.5
+- pkg:composer/oxid-solution-catalysts/adyen-module@v1.2.0-rc.6
+- pkg:composer/oxid-solution-catalysts/adyen-module@v1.2.1-rc.1
+- pkg:composer/oxid-solution-catalysts/adyen-module@v1.2.1-rc.2
 - pkg:composer/oxid-solution-catalysts/adyen-module@v2.1.10
 - pkg:composer/oxid-solution-catalysts/adyen-module@v2.1.10-rc.1
 - pkg:composer/oxid-solution-catalysts/adyen-module@v2.1.4
@@ -45,7 +49,11 @@
 - pkg:composer/oxid-solution-catalysts/adyen-module@v2.1.8-rc.2
 - pkg:composer/oxid-solution-catalysts/adyen-module@v2.1.9
 - pkg:composer/oxid-solution-catalysts/adyen-module@v2.1.9-rc.1
+- pkg:composer/oxid-solution-catalysts/adyen-module@v2.2.0
 - pkg:composer/oxid-solution-catalysts/adyen-module@v2.2.0-rc.2
 - pkg:composer/oxid-solution-catalysts/adyen-module@v2.2.0-rc.3
 - pkg:composer/oxid-solution-catalysts/adyen-module@v2.2.0-rc.4
 - pkg:composer/oxid-solution-catalysts/adyen-module@v2.2.0-rc.5
+- pkg:composer/oxid-solution-catalysts/adyen-module@v2.2.0-rc.6
+- pkg:composer/oxid-solution-catalysts/adyen-module@v2.2.1-rc.1
+- pkg:composer/oxid-solution-catalysts/adyen-module@v2.2.1-rc.2
