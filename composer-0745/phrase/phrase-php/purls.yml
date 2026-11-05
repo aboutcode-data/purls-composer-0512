@@ -61,7 +61,11 @@
 - pkg:composer/phrase/phrase-php@3.25.0
 - pkg:composer/phrase/phrase-php@3.26.0
 - pkg:composer/phrase/phrase-php@3.27.0
+- pkg:composer/phrase/phrase-php@3.28.0
+- pkg:composer/phrase/phrase-php@3.29.0
 - pkg:composer/phrase/phrase-php@3.3.0
+- pkg:composer/phrase/phrase-php@3.30.0
+- pkg:composer/phrase/phrase-php@3.31.0
 - pkg:composer/phrase/phrase-php@3.4.0
 - pkg:composer/phrase/phrase-php@3.5.0
 - pkg:composer/phrase/phrase-php@3.6.0
