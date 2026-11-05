@@ -155,6 +155,8 @@
 - pkg:composer/martis/martis@v2.16.3
 - pkg:composer/martis/martis@v2.16.4
 - pkg:composer/martis/martis@v2.16.5
+- pkg:composer/martis/martis@v2.16.6
+- pkg:composer/martis/martis@v2.17.0
 - pkg:composer/martis/martis@v2.2.0
 - pkg:composer/martis/martis@v2.3.0
 - pkg:composer/martis/martis@v2.4.0
