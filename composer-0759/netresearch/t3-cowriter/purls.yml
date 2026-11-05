@@ -41,6 +41,9 @@
 - pkg:composer/netresearch/t3-cowriter@v3.22.2
 - pkg:composer/netresearch/t3-cowriter@v3.23.0
 - pkg:composer/netresearch/t3-cowriter@v3.24.0
+- pkg:composer/netresearch/t3-cowriter@v3.24.1
+- pkg:composer/netresearch/t3-cowriter@v3.25.0
+- pkg:composer/netresearch/t3-cowriter@v3.26.0
 - pkg:composer/netresearch/t3-cowriter@v3.3.0
 - pkg:composer/netresearch/t3-cowriter@v3.4.0
 - pkg:composer/netresearch/t3-cowriter@v3.4.1
