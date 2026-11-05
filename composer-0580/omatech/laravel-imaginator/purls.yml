@@ -20,3 +20,5 @@
 - pkg:composer/omatech/laravel-imaginator@v2.3.2
 - pkg:composer/omatech/laravel-imaginator@v2.4.0
 - pkg:composer/omatech/laravel-imaginator@v2.4.1
+- pkg:composer/omatech/laravel-imaginator@v2.4.2
+- pkg:composer/omatech/laravel-imaginator@v2.5.0
