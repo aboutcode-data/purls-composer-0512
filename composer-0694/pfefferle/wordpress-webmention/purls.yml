@@ -44,6 +44,8 @@
 - pkg:composer/pfefferle/wordpress-webmention@5.1.9
 - pkg:composer/pfefferle/wordpress-webmention@5.10.0
 - pkg:composer/pfefferle/wordpress-webmention@5.10.1
+- pkg:composer/pfefferle/wordpress-webmention@5.10.2
+- pkg:composer/pfefferle/wordpress-webmention@5.11.0
 - pkg:composer/pfefferle/wordpress-webmention@5.2.0
 - pkg:composer/pfefferle/wordpress-webmention@5.2.1
 - pkg:composer/pfefferle/wordpress-webmention@5.2.2
