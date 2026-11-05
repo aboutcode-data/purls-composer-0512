@@ -14,3 +14,6 @@
 - pkg:composer/php-anonymizer/anonymizer@0.4.1
 - pkg:composer/php-anonymizer/anonymizer@0.4.2
 - pkg:composer/php-anonymizer/anonymizer@0.5.0
+- pkg:composer/php-anonymizer/anonymizer@2.0.0
+- pkg:composer/php-anonymizer/anonymizer@2.0.1
+- pkg:composer/php-anonymizer/anonymizer@2.0.2
