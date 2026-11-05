@@ -1,3 +1,5 @@
 - pkg:composer/ondewo/csi-client-php@5.5.0
 - pkg:composer/ondewo/csi-client-php@5.5.1
 - pkg:composer/ondewo/csi-client-php@5.6.0
+- pkg:composer/ondewo/csi-client-php@5.6.2
+- pkg:composer/ondewo/csi-client-php@5.7.0
