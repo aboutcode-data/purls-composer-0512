@@ -23,3 +23,5 @@
 - pkg:composer/pixidos/gpwebpay@3.3.1
 - pkg:composer/pixidos/gpwebpay@3.4.0
 - pkg:composer/pixidos/gpwebpay@3.4.1
+- pkg:composer/pixidos/gpwebpay@3.5.0
+- pkg:composer/pixidos/gpwebpay@4.0.0
