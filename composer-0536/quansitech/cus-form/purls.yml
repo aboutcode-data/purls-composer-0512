@@ -29,6 +29,7 @@
 - pkg:composer/quansitech/cus-form@v1.5.1
 - pkg:composer/quansitech/cus-form@v1.5.2
 - pkg:composer/quansitech/cus-form@v1.6.0
+- pkg:composer/quansitech/cus-form@v1.6.1
 - pkg:composer/quansitech/cus-form@v2.0.0
 - pkg:composer/quansitech/cus-form@v2.0.1
 - pkg:composer/quansitech/cus-form@v2.1.1
@@ -46,11 +47,15 @@
 - pkg:composer/quansitech/cus-form@v2.3.3
 - pkg:composer/quansitech/cus-form@v2.4.0
 - pkg:composer/quansitech/cus-form@v2.4.1
+- pkg:composer/quansitech/cus-form@v2.4.10
 - pkg:composer/quansitech/cus-form@v2.4.2
 - pkg:composer/quansitech/cus-form@v2.4.3
 - pkg:composer/quansitech/cus-form@v2.4.4
 - pkg:composer/quansitech/cus-form@v2.4.5
 - pkg:composer/quansitech/cus-form@v2.4.6
+- pkg:composer/quansitech/cus-form@v2.4.7
+- pkg:composer/quansitech/cus-form@v2.4.8
+- pkg:composer/quansitech/cus-form@v2.4.9
 - pkg:composer/quansitech/cus-form@v3.0.0
 - pkg:composer/quansitech/cus-form@v3.0.1
 - pkg:composer/quansitech/cus-form@v3.0.2
