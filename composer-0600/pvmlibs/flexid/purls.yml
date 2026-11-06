@@ -8,3 +8,7 @@
 - pkg:composer/pvmlibs/flexid@4.0
 - pkg:composer/pvmlibs/flexid@5.0
 - pkg:composer/pvmlibs/flexid@5.0.1
+- pkg:composer/pvmlibs/flexid@6.0
+- pkg:composer/pvmlibs/flexid@6.1
+- pkg:composer/pvmlibs/flexid@6.2
+- pkg:composer/pvmlibs/flexid@6.2.1
