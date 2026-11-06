@@ -139,6 +139,7 @@
 - pkg:composer/pop-api/api-endpoints@2.5.2
 - pkg:composer/pop-api/api-endpoints@2.6.0
 - pkg:composer/pop-api/api-endpoints@2.6.1
+- pkg:composer/pop-api/api-endpoints@20.0.0
 - pkg:composer/pop-api/api-endpoints@3.0.0
 - pkg:composer/pop-api/api-endpoints@4.0.0
 - pkg:composer/pop-api/api-endpoints@4.0.1

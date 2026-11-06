@@ -123,6 +123,7 @@
 - pkg:composer/pop-cms-schema/schema-commons-wp@2.5.2
 - pkg:composer/pop-cms-schema/schema-commons-wp@2.6.0
 - pkg:composer/pop-cms-schema/schema-commons-wp@2.6.1
+- pkg:composer/pop-cms-schema/schema-commons-wp@20.0.0
 - pkg:composer/pop-cms-schema/schema-commons-wp@3.0.0
 - pkg:composer/pop-cms-schema/schema-commons-wp@4.0.0
 - pkg:composer/pop-cms-schema/schema-commons-wp@4.0.1

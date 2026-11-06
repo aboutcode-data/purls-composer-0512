@@ -139,6 +139,7 @@
 - pkg:composer/pop-api/api-clients@2.5.2
 - pkg:composer/pop-api/api-clients@2.6.0
 - pkg:composer/pop-api/api-clients@2.6.1
+- pkg:composer/pop-api/api-clients@20.0.0
 - pkg:composer/pop-api/api-clients@3.0.0
 - pkg:composer/pop-api/api-clients@4.0.0
 - pkg:composer/pop-api/api-clients@4.0.1
