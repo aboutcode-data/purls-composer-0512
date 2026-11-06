@@ -1,3 +1,6 @@
+- pkg:composer/rabbitevents/listener@v10.0.0
+- pkg:composer/rabbitevents/listener@v10.0.1
+- pkg:composer/rabbitevents/listener@v10.1.0
 - pkg:composer/rabbitevents/listener@v7.0
 - pkg:composer/rabbitevents/listener@v7.0-beta.1
 - pkg:composer/rabbitevents/listener@v7.0-beta.2
@@ -31,3 +34,4 @@
 - pkg:composer/rabbitevents/listener@v9.1.0
 - pkg:composer/rabbitevents/listener@v9.1.1
 - pkg:composer/rabbitevents/listener@v9.1.2
+- pkg:composer/rabbitevents/listener@v9.1.3
