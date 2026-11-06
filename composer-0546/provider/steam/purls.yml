@@ -40,6 +40,10 @@
 - pkg:composer/provider/steam@14.0.0
 - pkg:composer/provider/steam@14.0.1
 - pkg:composer/provider/steam@14.1.0
+- pkg:composer/provider/steam@14.2.0
+- pkg:composer/provider/steam@14.2.1
+- pkg:composer/provider/steam@15.0.0
+- pkg:composer/provider/steam@15.1.0
 - pkg:composer/provider/steam@2.0.0
 - pkg:composer/provider/steam@2.0.1
 - pkg:composer/provider/steam@2.1.0
