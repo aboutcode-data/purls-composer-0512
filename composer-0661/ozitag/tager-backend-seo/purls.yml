@@ -49,3 +49,5 @@
 - pkg:composer/ozitag/tager-backend-seo@1.9.4
 - pkg:composer/ozitag/tager-backend-seo@1.9.5
 - pkg:composer/ozitag/tager-backend-seo@1.9.6
+- pkg:composer/ozitag/tager-backend-seo@2.0.0
+- pkg:composer/ozitag/tager-backend-seo@2.0.1

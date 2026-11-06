@@ -18,3 +18,5 @@
 - pkg:composer/ozitag/tager-backend-sms@1.5
 - pkg:composer/ozitag/tager-backend-sms@1.6
 - pkg:composer/ozitag/tager-backend-sms@1.6.1
+- pkg:composer/ozitag/tager-backend-sms@2.0.0
+- pkg:composer/ozitag/tager-backend-sms@2.0.1

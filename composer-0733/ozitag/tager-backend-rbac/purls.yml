@@ -25,3 +25,6 @@
 - pkg:composer/ozitag/tager-backend-rbac@1.3.4
 - pkg:composer/ozitag/tager-backend-rbac@1.3.5
 - pkg:composer/ozitag/tager-backend-rbac@1.3.6
+- pkg:composer/ozitag/tager-backend-rbac@2.0.0
+- pkg:composer/ozitag/tager-backend-rbac@2.0.1
+- pkg:composer/ozitag/tager-backend-rbac@2.0.2
