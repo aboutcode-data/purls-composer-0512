@@ -6,3 +6,5 @@
 - pkg:composer/produman-org/kassa-php@1.0.5
 - pkg:composer/produman-org/kassa-php@1.0.6
 - pkg:composer/produman-org/kassa-php@1.1.0
+- pkg:composer/produman-org/kassa-php@2.0.0
+- pkg:composer/produman-org/kassa-php@2.0.1
