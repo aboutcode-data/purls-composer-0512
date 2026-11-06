@@ -30,3 +30,4 @@
 - pkg:composer/ratepay/magento2-payment@2.1.7
 - pkg:composer/ratepay/magento2-payment@2.1.8
 - pkg:composer/ratepay/magento2-payment@2.1.9
+- pkg:composer/ratepay/magento2-payment@3.0.0
