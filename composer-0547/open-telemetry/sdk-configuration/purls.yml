@@ -8,6 +8,7 @@
 - pkg:composer/open-telemetry/sdk-configuration@0.0.8
 - pkg:composer/open-telemetry/sdk-configuration@0.0.9
 - pkg:composer/open-telemetry/sdk-configuration@0.1.0
+- pkg:composer/open-telemetry/sdk-configuration@0.10.0
 - pkg:composer/open-telemetry/sdk-configuration@0.2.0
 - pkg:composer/open-telemetry/sdk-configuration@0.3.0
 - pkg:composer/open-telemetry/sdk-configuration@0.4.0
