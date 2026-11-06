@@ -171,6 +171,13 @@
 - pkg:composer/psalm/plugin-laravel@v4.16.5
 - pkg:composer/psalm/plugin-laravel@v4.16.6
 - pkg:composer/psalm/plugin-laravel@v4.17.0
+- pkg:composer/psalm/plugin-laravel@v4.17.1
+- pkg:composer/psalm/plugin-laravel@v4.17.3
+- pkg:composer/psalm/plugin-laravel@v4.17.4
+- pkg:composer/psalm/plugin-laravel@v4.18.0
+- pkg:composer/psalm/plugin-laravel@v4.18.1
+- pkg:composer/psalm/plugin-laravel@v4.18.2
+- pkg:composer/psalm/plugin-laravel@v4.18.3
 - pkg:composer/psalm/plugin-laravel@v4.2.0
 - pkg:composer/psalm/plugin-laravel@v4.3.0
 - pkg:composer/psalm/plugin-laravel@v4.3.1
