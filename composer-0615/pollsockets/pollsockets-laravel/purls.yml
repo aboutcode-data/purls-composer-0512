@@ -2,3 +2,4 @@
 - pkg:composer/pollsockets/pollsockets-laravel@1.2
 - pkg:composer/pollsockets/pollsockets-laravel@1.3.0
 - pkg:composer/pollsockets/pollsockets-laravel@1.4.0
+- pkg:composer/pollsockets/pollsockets-laravel@2.0.0
