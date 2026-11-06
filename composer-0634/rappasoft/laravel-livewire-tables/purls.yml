@@ -95,6 +95,7 @@
 - pkg:composer/rappasoft/laravel-livewire-tables@v3.1.6
 - pkg:composer/rappasoft/laravel-livewire-tables@v3.1.7
 - pkg:composer/rappasoft/laravel-livewire-tables@v3.1.8
+- pkg:composer/rappasoft/laravel-livewire-tables@v3.10.0
 - pkg:composer/rappasoft/laravel-livewire-tables@v3.2.0
 - pkg:composer/rappasoft/laravel-livewire-tables@v3.2.1
 - pkg:composer/rappasoft/laravel-livewire-tables@v3.2.2
