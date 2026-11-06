@@ -80,3 +80,4 @@
 - pkg:composer/nette/application@v3.2.9
 - pkg:composer/nette/application@v3.3.0
 - pkg:composer/nette/application@v3.3.0-RC
+- pkg:composer/nette/application@v3.3.1
