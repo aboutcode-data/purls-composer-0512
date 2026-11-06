@@ -331,9 +331,12 @@
 - pkg:composer/pigagent/pig@v1.5.9
 - pkg:composer/pigagent/pig@v1.6.0
 - pkg:composer/pigagent/pig@v1.6.1
+- pkg:composer/pigagent/pig@v1.6.10
 - pkg:composer/pigagent/pig@v1.6.2
 - pkg:composer/pigagent/pig@v1.6.3
 - pkg:composer/pigagent/pig@v1.6.4
 - pkg:composer/pigagent/pig@v1.6.5
 - pkg:composer/pigagent/pig@v1.6.6
 - pkg:composer/pigagent/pig@v1.6.7
+- pkg:composer/pigagent/pig@v1.6.8
+- pkg:composer/pigagent/pig@v1.6.9
