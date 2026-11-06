@@ -138,6 +138,7 @@
 - pkg:composer/pop-schema/post-mutations@2.5.2
 - pkg:composer/pop-schema/post-mutations@2.6.0
 - pkg:composer/pop-schema/post-mutations@2.6.1
+- pkg:composer/pop-schema/post-mutations@20.0.0
 - pkg:composer/pop-schema/post-mutations@3.0.0
 - pkg:composer/pop-schema/post-mutations@4.0.0
 - pkg:composer/pop-schema/post-mutations@4.0.1
