@@ -204,3 +204,5 @@
 - pkg:composer/psx/api@v7.6.3
 - pkg:composer/psx/api@v7.6.4
 - pkg:composer/psx/api@v7.7.0
+- pkg:composer/psx/api@v7.7.1
+- pkg:composer/psx/api@v7.7.2
