@@ -30,3 +30,4 @@
 - pkg:composer/opis/json-schema@2.4.1
 - pkg:composer/opis/json-schema@2.5.0
 - pkg:composer/opis/json-schema@2.6.0
+- pkg:composer/opis/json-schema@2.6.1
