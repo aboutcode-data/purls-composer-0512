@@ -7,3 +7,6 @@
 - pkg:composer/power-vending/laravel-api-query-builder@1.0.0
 - pkg:composer/power-vending/laravel-api-query-builder@1.0.1
 - pkg:composer/power-vending/laravel-api-query-builder@1.1.0
+- pkg:composer/power-vending/laravel-api-query-builder@1.2.0
+- pkg:composer/power-vending/laravel-api-query-builder@1.2.1
+- pkg:composer/power-vending/laravel-api-query-builder@1.2.2
