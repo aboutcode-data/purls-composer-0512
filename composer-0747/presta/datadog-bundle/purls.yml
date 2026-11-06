@@ -1,1 +1,3 @@
 - pkg:composer/presta/datadog-bundle@v1.0.0
+- pkg:composer/presta/datadog-bundle@v2.0.0
+- pkg:composer/presta/datadog-bundle@v2.0.1
