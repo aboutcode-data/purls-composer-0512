@@ -1,1 +1,2 @@
 - pkg:composer/rogervila/laravel-soap-server@1.0.0
+- pkg:composer/rogervila/laravel-soap-server@2.0.0
