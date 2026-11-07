@@ -370,6 +370,11 @@
 - pkg:composer/rector/rector@2.6.6
 - pkg:composer/rector/rector@2.6.7
 - pkg:composer/rector/rector@2.7.0
+- pkg:composer/rector/rector@2.8.0
+- pkg:composer/rector/rector@2.8.1
+- pkg:composer/rector/rector@2.8.2
+- pkg:composer/rector/rector@2.8.3
+- pkg:composer/rector/rector@2.8.4
 - pkg:composer/rector/rector@v0.1.0
 - pkg:composer/rector/rector@v0.2.0
 - pkg:composer/rector/rector@v0.3.0
