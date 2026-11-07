@@ -45,6 +45,8 @@
 - pkg:composer/resend/resend-php@v1.14.0
 - pkg:composer/resend/resend-php@v1.15.0
 - pkg:composer/resend/resend-php@v1.16.0
+- pkg:composer/resend/resend-php@v1.17.0
+- pkg:composer/resend/resend-php@v1.18.0
 - pkg:composer/resend/resend-php@v1.2.0
 - pkg:composer/resend/resend-php@v1.3.0
 - pkg:composer/resend/resend-php@v1.4.0

@@ -38,3 +38,4 @@
 - pkg:composer/resend/resend-laravel@v1.4.0
 - pkg:composer/resend/resend-laravel@v1.5.0
 - pkg:composer/resend/resend-laravel@v1.6.0
+- pkg:composer/resend/resend-laravel@v1.7.0
