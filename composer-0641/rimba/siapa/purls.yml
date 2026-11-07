@@ -80,8 +80,12 @@
 - pkg:composer/rimba/siapa@v1.4.42
 - pkg:composer/rimba/siapa@v1.4.43
 - pkg:composer/rimba/siapa@v1.4.44
+- pkg:composer/rimba/siapa@v1.4.45
+- pkg:composer/rimba/siapa@v1.4.46
 - pkg:composer/rimba/siapa@v1.4.5
 - pkg:composer/rimba/siapa@v1.4.6
 - pkg:composer/rimba/siapa@v1.4.7
 - pkg:composer/rimba/siapa@v1.4.8
 - pkg:composer/rimba/siapa@v1.4.9
+- pkg:composer/rimba/siapa@v1.5.1
+- pkg:composer/rimba/siapa@v1.5.2
