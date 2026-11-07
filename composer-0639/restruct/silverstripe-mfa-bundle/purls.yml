@@ -16,3 +16,4 @@
 - pkg:composer/restruct/silverstripe-mfa-bundle@1.6.0
 - pkg:composer/restruct/silverstripe-mfa-bundle@1.7.0
 - pkg:composer/restruct/silverstripe-mfa-bundle@1.8.0
+- pkg:composer/restruct/silverstripe-mfa-bundle@1.9.0
