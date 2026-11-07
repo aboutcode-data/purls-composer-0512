@@ -1,1 +1,2 @@
 - pkg:composer/roadrunner/version-checker@v1.4.0
+- pkg:composer/roadrunner/version-checker@v1.4.1
