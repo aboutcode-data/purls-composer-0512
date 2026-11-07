@@ -28,6 +28,7 @@
 - pkg:composer/relewise/client@2.19.0
 - pkg:composer/relewise/client@2.19.1
 - pkg:composer/relewise/client@2.2.0
+- pkg:composer/relewise/client@2.20.0
 - pkg:composer/relewise/client@2.3.0
 - pkg:composer/relewise/client@2.4.0
 - pkg:composer/relewise/client@2.5.0

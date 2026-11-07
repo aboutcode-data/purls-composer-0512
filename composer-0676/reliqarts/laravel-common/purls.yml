@@ -54,3 +54,4 @@
 - pkg:composer/reliqarts/laravel-common@v8.0.2
 - pkg:composer/reliqarts/laravel-common@v8.0.3
 - pkg:composer/reliqarts/laravel-common@v8.0.4
+- pkg:composer/reliqarts/laravel-common@v9.0.0
