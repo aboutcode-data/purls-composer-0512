@@ -36,3 +36,5 @@
 - pkg:composer/paliari/doctrine-validator@4.0.0
 - pkg:composer/paliari/doctrine-validator@4.0.1
 - pkg:composer/paliari/doctrine-validator@4.0.2
+- pkg:composer/paliari/doctrine-validator@5.0.0
+- pkg:composer/paliari/doctrine-validator@5.0.1
