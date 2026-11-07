@@ -33,3 +33,4 @@
 - pkg:composer/roddy/firestore-eloquent@v3.0.7
 - pkg:composer/roddy/firestore-eloquent@v3.0.8
 - pkg:composer/roddy/firestore-eloquent@v3.0.9
+- pkg:composer/roddy/firestore-eloquent@v4.0
