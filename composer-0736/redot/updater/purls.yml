@@ -10,6 +10,9 @@
 - pkg:composer/redot/updater@v0.1.11
 - pkg:composer/redot/updater@v0.1.12
 - pkg:composer/redot/updater@v0.1.13
+- pkg:composer/redot/updater@v0.1.14
+- pkg:composer/redot/updater@v0.1.15
+- pkg:composer/redot/updater@v0.1.16
 - pkg:composer/redot/updater@v0.1.2
 - pkg:composer/redot/updater@v0.1.7
 - pkg:composer/redot/updater@v0.1.8

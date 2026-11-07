@@ -11,5 +11,7 @@
 - pkg:composer/redound/phalcon-api@4.0.0
 - pkg:composer/redound/phalcon-api@5.0.0
 - pkg:composer/redound/phalcon-api@6.0.0
+- pkg:composer/redound/phalcon-api@6.0.1
+- pkg:composer/redound/phalcon-api@7.0.0
 - pkg:composer/redound/phalcon-api@v1.0.1
 - pkg:composer/redound/phalcon-api@v1.0.2
