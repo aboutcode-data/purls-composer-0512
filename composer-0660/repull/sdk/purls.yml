@@ -26,7 +26,16 @@
 - pkg:composer/repull/sdk@v0.2.31
 - pkg:composer/repull/sdk@v0.2.32
 - pkg:composer/repull/sdk@v0.2.33
+- pkg:composer/repull/sdk@v0.2.34
+- pkg:composer/repull/sdk@v0.2.35
+- pkg:composer/repull/sdk@v0.2.36
+- pkg:composer/repull/sdk@v0.2.37
+- pkg:composer/repull/sdk@v0.2.38
+- pkg:composer/repull/sdk@v0.2.39
 - pkg:composer/repull/sdk@v0.2.4
+- pkg:composer/repull/sdk@v0.2.40
+- pkg:composer/repull/sdk@v0.2.41
+- pkg:composer/repull/sdk@v0.2.42
 - pkg:composer/repull/sdk@v0.2.5
 - pkg:composer/repull/sdk@v0.2.6
 - pkg:composer/repull/sdk@v0.2.7
