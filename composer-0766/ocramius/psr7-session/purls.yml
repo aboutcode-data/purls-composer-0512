@@ -7,6 +7,7 @@
 - pkg:composer/ocramius/psr7-session@10.2.1
 - pkg:composer/ocramius/psr7-session@10.3.0
 - pkg:composer/ocramius/psr7-session@10.4.0
+- pkg:composer/ocramius/psr7-session@10.5.0
 - pkg:composer/ocramius/psr7-session@2.0.0
 - pkg:composer/ocramius/psr7-session@3.0.0
 - pkg:composer/ocramius/psr7-session@3.0.1
