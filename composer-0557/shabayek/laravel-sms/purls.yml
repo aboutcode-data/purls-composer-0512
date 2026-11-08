@@ -8,3 +8,5 @@
 - pkg:composer/shabayek/laravel-sms@v1.3.3
 - pkg:composer/shabayek/laravel-sms@v1.3.4
 - pkg:composer/shabayek/laravel-sms@v1.3.5
+- pkg:composer/shabayek/laravel-sms@v3.0
+- pkg:composer/shabayek/laravel-sms@v3.0.1
