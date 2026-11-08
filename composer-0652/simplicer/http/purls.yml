@@ -1,1 +1,2 @@
 - pkg:composer/simplicer/http@1.0.0
+- pkg:composer/simplicer/http@v1.0.1
