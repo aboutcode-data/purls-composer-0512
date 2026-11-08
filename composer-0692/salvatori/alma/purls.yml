@@ -14,3 +14,5 @@
 - pkg:composer/salvatori/alma@6.0.3
 - pkg:composer/salvatori/alma@6.1.0
 - pkg:composer/salvatori/alma@6.2.0
+- pkg:composer/salvatori/alma@8.0.0
+- pkg:composer/salvatori/alma@8.1.0
