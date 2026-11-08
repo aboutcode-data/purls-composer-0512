@@ -45,6 +45,10 @@
 - pkg:composer/simplesamlphp/openid@v0.1.9
 - pkg:composer/simplesamlphp/openid@v0.10.0
 - pkg:composer/simplesamlphp/openid@v0.10.1
+- pkg:composer/simplesamlphp/openid@v0.10.2
+- pkg:composer/simplesamlphp/openid@v0.11.0
+- pkg:composer/simplesamlphp/openid@v0.12.0
+- pkg:composer/simplesamlphp/openid@v0.12.1
 - pkg:composer/simplesamlphp/openid@v0.2.0
 - pkg:composer/simplesamlphp/openid@v0.2.1
 - pkg:composer/simplesamlphp/openid@v0.2.2
