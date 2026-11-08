@@ -69,3 +69,4 @@
 - pkg:composer/scell/sdk@v3.4.1
 - pkg:composer/scell/sdk@v3.5.0
 - pkg:composer/scell/sdk@v3.5.1
+- pkg:composer/scell/sdk@v3.5.2
