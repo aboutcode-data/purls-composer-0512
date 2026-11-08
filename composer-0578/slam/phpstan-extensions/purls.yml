@@ -23,6 +23,7 @@
 - pkg:composer/slam/phpstan-extensions@v5.1.0
 - pkg:composer/slam/phpstan-extensions@v6.0.0
 - pkg:composer/slam/phpstan-extensions@v6.1.0
+- pkg:composer/slam/phpstan-extensions@v6.10.0
 - pkg:composer/slam/phpstan-extensions@v6.2.0
 - pkg:composer/slam/phpstan-extensions@v6.3.0
 - pkg:composer/slam/phpstan-extensions@v6.4.0
