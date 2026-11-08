@@ -340,3 +340,4 @@
 - pkg:composer/pigagent/pig@v1.6.7
 - pkg:composer/pigagent/pig@v1.6.8
 - pkg:composer/pigagent/pig@v1.6.9
+- pkg:composer/pigagent/pig@v1.7.0
