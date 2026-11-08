@@ -49,10 +49,12 @@
 - pkg:composer/se7enxweb/information-collection-bundle@v1.9.3
 - pkg:composer/se7enxweb/information-collection-bundle@v1.9.4
 - pkg:composer/se7enxweb/information-collection-bundle@v1.9.5
+- pkg:composer/se7enxweb/information-collection-bundle@v1.9.6
 - pkg:composer/se7enxweb/information-collection-bundle@v2.0.0-alpha1
 - pkg:composer/se7enxweb/information-collection-bundle@v2.0.0-alpha2
 - pkg:composer/se7enxweb/information-collection-bundle@v2.0.0-alpha3
 - pkg:composer/se7enxweb/information-collection-bundle@v2.0.3
+- pkg:composer/se7enxweb/information-collection-bundle@v2.0.4
 - pkg:composer/se7enxweb/information-collection-bundle@v3.0.0-alpha1
 - pkg:composer/se7enxweb/information-collection-bundle@v3.0.0-alpha2
 - pkg:composer/se7enxweb/information-collection-bundle@v3.0.0-alpha3
@@ -60,3 +62,4 @@
 - pkg:composer/se7enxweb/information-collection-bundle@v3.0.0-alpha5
 - pkg:composer/se7enxweb/information-collection-bundle@v3.0.0-alpha6
 - pkg:composer/se7enxweb/information-collection-bundle@v3.0.0-alpha7
+- pkg:composer/se7enxweb/information-collection-bundle@v3.0.1

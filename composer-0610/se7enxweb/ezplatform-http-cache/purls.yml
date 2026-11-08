@@ -66,6 +66,7 @@
 - pkg:composer/se7enxweb/ezplatform-http-cache@v0.9.3-rc1
 - pkg:composer/se7enxweb/ezplatform-http-cache@v0.9.4
 - pkg:composer/se7enxweb/ezplatform-http-cache@v0.9.5
+- pkg:composer/se7enxweb/ezplatform-http-cache@v0.9.6
 - pkg:composer/se7enxweb/ezplatform-http-cache@v1.0.0
 - pkg:composer/se7enxweb/ezplatform-http-cache@v1.0.0-beta1
 - pkg:composer/se7enxweb/ezplatform-http-cache@v1.0.0-beta2
