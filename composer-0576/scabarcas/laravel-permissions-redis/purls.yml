@@ -11,3 +11,4 @@
 - pkg:composer/scabarcas/laravel-permissions-redis@v4.1.0
 - pkg:composer/scabarcas/laravel-permissions-redis@v4.1.1
 - pkg:composer/scabarcas/laravel-permissions-redis@v4.1.2
+- pkg:composer/scabarcas/laravel-permissions-redis@v4.2.0
