@@ -73,3 +73,5 @@
 - pkg:composer/preflow/form@v0.56.0
 - pkg:composer/preflow/form@v0.56.1
 - pkg:composer/preflow/form@v0.57.0
+- pkg:composer/preflow/form@v0.58.0
+- pkg:composer/preflow/form@v0.58.1
