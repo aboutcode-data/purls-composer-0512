@@ -4,3 +4,4 @@
 - pkg:composer/php-io-extensions/metal@0.7.3
 - pkg:composer/php-io-extensions/metal@0.7.4
 - pkg:composer/php-io-extensions/metal@0.7.5
+- pkg:composer/php-io-extensions/metal@v0.11.1
