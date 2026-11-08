@@ -110,6 +110,7 @@
 - pkg:composer/pop-schema/http-requests@2.6.0
 - pkg:composer/pop-schema/http-requests@2.6.1
 - pkg:composer/pop-schema/http-requests@20.0.0
+- pkg:composer/pop-schema/http-requests@20.0.1
 - pkg:composer/pop-schema/http-requests@3.0.0
 - pkg:composer/pop-schema/http-requests@4.0.0
 - pkg:composer/pop-schema/http-requests@4.0.1

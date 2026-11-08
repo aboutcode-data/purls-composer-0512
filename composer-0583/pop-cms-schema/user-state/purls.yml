@@ -139,6 +139,7 @@
 - pkg:composer/pop-cms-schema/user-state@2.6.0
 - pkg:composer/pop-cms-schema/user-state@2.6.1
 - pkg:composer/pop-cms-schema/user-state@20.0.0
+- pkg:composer/pop-cms-schema/user-state@20.0.1
 - pkg:composer/pop-cms-schema/user-state@3.0.0
 - pkg:composer/pop-cms-schema/user-state@4.0.0
 - pkg:composer/pop-cms-schema/user-state@4.0.1
