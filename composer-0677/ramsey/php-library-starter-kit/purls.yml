@@ -31,3 +31,4 @@
 - pkg:composer/ramsey/php-library-starter-kit@3.5.5
 - pkg:composer/ramsey/php-library-starter-kit@3.5.6
 - pkg:composer/ramsey/php-library-starter-kit@3.6.0
+- pkg:composer/ramsey/php-library-starter-kit@4.0.0
