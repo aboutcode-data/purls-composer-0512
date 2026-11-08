@@ -57,3 +57,4 @@
 - pkg:composer/oxygen/auth@0.8.2
 - pkg:composer/oxygen/auth@0.8.3
 - pkg:composer/oxygen/auth@1.0.0
+- pkg:composer/oxygen/auth@1.0.1
