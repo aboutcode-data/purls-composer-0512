@@ -8,3 +8,5 @@
 - pkg:composer/sitmpcz/oidc@v2.0
 - pkg:composer/sitmpcz/oidc@v2.0.1
 - pkg:composer/sitmpcz/oidc@v2.0.2
+- pkg:composer/sitmpcz/oidc@v2.1.0
+- pkg:composer/sitmpcz/oidc@v2.2.0
