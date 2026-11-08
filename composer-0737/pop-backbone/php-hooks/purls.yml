@@ -124,6 +124,7 @@
 - pkg:composer/pop-backbone/php-hooks@2.6.0
 - pkg:composer/pop-backbone/php-hooks@2.6.1
 - pkg:composer/pop-backbone/php-hooks@20.0.0
+- pkg:composer/pop-backbone/php-hooks@20.0.1
 - pkg:composer/pop-backbone/php-hooks@3.0.0
 - pkg:composer/pop-backbone/php-hooks@4.0.0
 - pkg:composer/pop-backbone/php-hooks@4.0.1

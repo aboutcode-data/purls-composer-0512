@@ -139,6 +139,7 @@
 - pkg:composer/pop-cms-schema/custompost-mutations@2.6.0
 - pkg:composer/pop-cms-schema/custompost-mutations@2.6.1
 - pkg:composer/pop-cms-schema/custompost-mutations@20.0.0
+- pkg:composer/pop-cms-schema/custompost-mutations@20.0.1
 - pkg:composer/pop-cms-schema/custompost-mutations@3.0.0
 - pkg:composer/pop-cms-schema/custompost-mutations@4.0.0
 - pkg:composer/pop-cms-schema/custompost-mutations@4.0.1
