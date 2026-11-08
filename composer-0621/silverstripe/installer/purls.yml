@@ -290,5 +290,6 @@
 - pkg:composer/silverstripe/installer@6.2.0
 - pkg:composer/silverstripe/installer@6.2.0-beta1
 - pkg:composer/silverstripe/installer@6.2.0-rc1
+- pkg:composer/silverstripe/installer@6.3.0
 - pkg:composer/silverstripe/installer@6.3.0-beta1
 - pkg:composer/silverstripe/installer@6.3.0-rc1
