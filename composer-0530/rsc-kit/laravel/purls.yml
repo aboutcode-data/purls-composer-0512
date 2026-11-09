@@ -25,6 +25,7 @@
 - pkg:composer/rsc-kit/laravel@v0.20.2
 - pkg:composer/rsc-kit/laravel@v0.21.0
 - pkg:composer/rsc-kit/laravel@v0.21.1
+- pkg:composer/rsc-kit/laravel@v0.21.2
 - pkg:composer/rsc-kit/laravel@v0.3.0
 - pkg:composer/rsc-kit/laravel@v0.4.0
 - pkg:composer/rsc-kit/laravel@v0.5.0
