@@ -35,3 +35,4 @@
 - pkg:composer/spatie/laravel-passkeys@1.7.3
 - pkg:composer/spatie/laravel-passkeys@1.8.0
 - pkg:composer/spatie/laravel-passkeys@1.8.1
+- pkg:composer/spatie/laravel-passkeys@1.8.2

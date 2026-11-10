@@ -52,3 +52,4 @@
 - pkg:composer/spatie/laravel-webhook-server@3.8.2
 - pkg:composer/spatie/laravel-webhook-server@3.8.3
 - pkg:composer/spatie/laravel-webhook-server@3.9.0
+- pkg:composer/spatie/laravel-webhook-server@4.0.0
