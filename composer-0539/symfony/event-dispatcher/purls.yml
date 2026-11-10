@@ -613,3 +613,4 @@
 - pkg:composer/symfony/event-dispatcher@v8.1.1
 - pkg:composer/symfony/event-dispatcher@v8.1.2
 - pkg:composer/symfony/event-dispatcher@v8.1.5
+- pkg:composer/symfony/event-dispatcher@v8.2.0-BETA1
