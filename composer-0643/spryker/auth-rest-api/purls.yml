@@ -19,6 +19,7 @@
 - pkg:composer/spryker/auth-rest-api@2.18.2
 - pkg:composer/spryker/auth-rest-api@2.18.3
 - pkg:composer/spryker/auth-rest-api@2.19.0
+- pkg:composer/spryker/auth-rest-api@2.19.1
 - pkg:composer/spryker/auth-rest-api@2.2.0
 - pkg:composer/spryker/auth-rest-api@2.2.1
 - pkg:composer/spryker/auth-rest-api@2.2.2
