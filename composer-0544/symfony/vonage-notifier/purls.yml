@@ -72,3 +72,4 @@
 - pkg:composer/symfony/vonage-notifier@v8.1.0-BETA2
 - pkg:composer/symfony/vonage-notifier@v8.1.6
 - pkg:composer/symfony/vonage-notifier@v8.1.7
+- pkg:composer/symfony/vonage-notifier@v8.2.0-BETA1
