@@ -536,6 +536,7 @@
 - pkg:composer/silverstripe/framework@6.2.11
 - pkg:composer/silverstripe/framework@6.2.12
 - pkg:composer/silverstripe/framework@6.2.13
+- pkg:composer/silverstripe/framework@6.2.14
 - pkg:composer/silverstripe/framework@6.2.2
 - pkg:composer/silverstripe/framework@6.2.3
 - pkg:composer/silverstripe/framework@6.2.4
@@ -550,3 +551,4 @@
 - pkg:composer/silverstripe/framework@6.3.1
 - pkg:composer/silverstripe/framework@6.3.2
 - pkg:composer/silverstripe/framework@6.3.3
+- pkg:composer/silverstripe/framework@6.3.4
