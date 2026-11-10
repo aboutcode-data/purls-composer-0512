@@ -27,3 +27,7 @@
 - pkg:composer/spatie/laravel-backup-server@4.2.1
 - pkg:composer/spatie/laravel-backup-server@4.3.0
 - pkg:composer/spatie/laravel-backup-server@4.3.1
+- pkg:composer/spatie/laravel-backup-server@4.3.2
+- pkg:composer/spatie/laravel-backup-server@4.3.3
+- pkg:composer/spatie/laravel-backup-server@4.4.0
+- pkg:composer/spatie/laravel-backup-server@4.4.1
