@@ -3,6 +3,7 @@
 - pkg:composer/script-development/phpstan-warroom-rules@v0.10.0
 - pkg:composer/script-development/phpstan-warroom-rules@v0.11.0
 - pkg:composer/script-development/phpstan-warroom-rules@v0.12.0
+- pkg:composer/script-development/phpstan-warroom-rules@v0.13.0
 - pkg:composer/script-development/phpstan-warroom-rules@v0.2.0
 - pkg:composer/script-development/phpstan-warroom-rules@v0.3.0
 - pkg:composer/script-development/phpstan-warroom-rules@v0.4.0
