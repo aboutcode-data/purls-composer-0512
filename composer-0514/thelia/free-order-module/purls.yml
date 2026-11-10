@@ -50,3 +50,4 @@
 - pkg:composer/thelia/free-order-module@2.6.1
 - pkg:composer/thelia/free-order-module@2.6.2
 - pkg:composer/thelia/free-order-module@3.0.0
+- pkg:composer/thelia/free-order-module@3.0.1
