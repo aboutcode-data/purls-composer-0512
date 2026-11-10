@@ -9,3 +9,4 @@
 - pkg:composer/ssofy/laravel@v2.0.3
 - pkg:composer/ssofy/laravel@v3.0.1
 - pkg:composer/ssofy/laravel@v3.1.0
+- pkg:composer/ssofy/laravel@v4.0.0

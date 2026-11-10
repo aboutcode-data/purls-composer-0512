@@ -19,3 +19,4 @@
 - pkg:composer/ssofy/php-sdk@v2.2.1
 - pkg:composer/ssofy/php-sdk@v3.0.1
 - pkg:composer/ssofy/php-sdk@v3.1.0
+- pkg:composer/ssofy/php-sdk@v4.0.0
