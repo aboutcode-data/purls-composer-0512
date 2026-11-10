@@ -1,1 +1,2 @@
 - pkg:composer/solophp/job-queue@v1.0.0
+- pkg:composer/solophp/job-queue@v2.0.0

@@ -7,3 +7,6 @@
 - pkg:composer/solophp/application@v3.0.0
 - pkg:composer/solophp/application@v3.1.0
 - pkg:composer/solophp/application@v3.1.1
+- pkg:composer/solophp/application@v3.2.0
+- pkg:composer/solophp/application@v4.0.0
+- pkg:composer/solophp/application@v4.0.1
