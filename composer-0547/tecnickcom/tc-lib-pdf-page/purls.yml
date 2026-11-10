@@ -107,6 +107,12 @@
 - pkg:composer/tecnickcom/tc-lib-pdf-page@4.16.3
 - pkg:composer/tecnickcom/tc-lib-pdf-page@4.16.4
 - pkg:composer/tecnickcom/tc-lib-pdf-page@4.16.5
+- pkg:composer/tecnickcom/tc-lib-pdf-page@4.16.6
+- pkg:composer/tecnickcom/tc-lib-pdf-page@4.16.7
+- pkg:composer/tecnickcom/tc-lib-pdf-page@4.17.1
+- pkg:composer/tecnickcom/tc-lib-pdf-page@4.17.2
+- pkg:composer/tecnickcom/tc-lib-pdf-page@4.18.0
+- pkg:composer/tecnickcom/tc-lib-pdf-page@4.18.1
 - pkg:composer/tecnickcom/tc-lib-pdf-page@4.2.0
 - pkg:composer/tecnickcom/tc-lib-pdf-page@4.2.1
 - pkg:composer/tecnickcom/tc-lib-pdf-page@4.2.10
