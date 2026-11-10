@@ -1,0 +1,4 @@
+- pkg:composer/stefaminator/php-cli-cmd@1.0.0
+- pkg:composer/stefaminator/php-cli-cmd@2.0.0
+- pkg:composer/stefaminator/php-cli-cmd@v2.0.1
+- pkg:composer/stefaminator/php-cli-cmd@v2.0.2
