@@ -1,0 +1,3 @@
+- pkg:composer/stewart-php/phpstan@v1.8.0
+- pkg:composer/stewart-php/phpstan@v2.0.0
+- pkg:composer/stewart-php/phpstan@v2.1.0
