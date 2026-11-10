@@ -30,3 +30,4 @@
 - pkg:composer/symfony/lox24-notifier@v8.1.0-BETA1
 - pkg:composer/symfony/lox24-notifier@v8.1.0-BETA3
 - pkg:composer/symfony/lox24-notifier@v8.1.6
+- pkg:composer/symfony/lox24-notifier@v8.2.0-BETA1

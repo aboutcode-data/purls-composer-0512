@@ -80,3 +80,4 @@
 - pkg:composer/symfony/microsoft-teams-notifier@v8.1.0
 - pkg:composer/symfony/microsoft-teams-notifier@v8.1.0-BETA1
 - pkg:composer/symfony/microsoft-teams-notifier@v8.1.1
+- pkg:composer/symfony/microsoft-teams-notifier@v8.2.0-BETA1

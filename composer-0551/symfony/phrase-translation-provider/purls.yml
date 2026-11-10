@@ -47,3 +47,4 @@
 - pkg:composer/symfony/phrase-translation-provider@v8.1.0
 - pkg:composer/symfony/phrase-translation-provider@v8.1.0-BETA1
 - pkg:composer/symfony/phrase-translation-provider@v8.1.7
+- pkg:composer/symfony/phrase-translation-provider@v8.2.0-BETA1
