@@ -14,3 +14,4 @@
 - pkg:composer/think.studio/laravel-simple-image-manager@3.3.2
 - pkg:composer/think.studio/laravel-simple-image-manager@3.3.3
 - pkg:composer/think.studio/laravel-simple-image-manager@3.4.0
+- pkg:composer/think.studio/laravel-simple-image-manager@4.0.0
