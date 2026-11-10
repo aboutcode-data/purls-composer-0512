@@ -1,3 +1,4 @@
+- pkg:composer/strukt/router@1.2.0
 - pkg:composer/strukt/router@v1.0.0-alpha
 - pkg:composer/strukt/router@v1.0.1-alpha
 - pkg:composer/strukt/router@v1.1.0-alpha
