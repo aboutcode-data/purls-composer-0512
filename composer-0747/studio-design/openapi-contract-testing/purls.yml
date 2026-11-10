@@ -42,3 +42,7 @@
 - pkg:composer/studio-design/openapi-contract-testing@v2.4.0
 - pkg:composer/studio-design/openapi-contract-testing@v2.5.0
 - pkg:composer/studio-design/openapi-contract-testing@v2.6.0
+- pkg:composer/studio-design/openapi-contract-testing@v2.7.0
+- pkg:composer/studio-design/openapi-contract-testing@v2.7.1
+- pkg:composer/studio-design/openapi-contract-testing@v2.8.0
+- pkg:composer/studio-design/openapi-contract-testing@v2.9.0
