@@ -6,3 +6,7 @@
 - pkg:composer/thelia/option-module@2.0.0
 - pkg:composer/thelia/option-module@2.0.1
 - pkg:composer/thelia/option-module@2.0.2
+- pkg:composer/thelia/option-module@3.0.0
+- pkg:composer/thelia/option-module@3.0.1
+- pkg:composer/thelia/option-module@3.0.2
+- pkg:composer/thelia/option-module@3.0.3

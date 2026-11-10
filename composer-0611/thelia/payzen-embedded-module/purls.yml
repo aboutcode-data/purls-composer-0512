@@ -21,3 +21,12 @@
 - pkg:composer/thelia/payzen-embedded-module@3.3.1
 - pkg:composer/thelia/payzen-embedded-module@3.4.0
 - pkg:composer/thelia/payzen-embedded-module@3.4.1
+- pkg:composer/thelia/payzen-embedded-module@3.5.0
+- pkg:composer/thelia/payzen-embedded-module@3.5.1
+- pkg:composer/thelia/payzen-embedded-module@3.6.0
+- pkg:composer/thelia/payzen-embedded-module@3.7.0
+- pkg:composer/thelia/payzen-embedded-module@3.7.1
+- pkg:composer/thelia/payzen-embedded-module@3.7.2
+- pkg:composer/thelia/payzen-embedded-module@3.7.3
+- pkg:composer/thelia/payzen-embedded-module@3.8.0
+- pkg:composer/thelia/payzen-embedded-module@3.8.1
