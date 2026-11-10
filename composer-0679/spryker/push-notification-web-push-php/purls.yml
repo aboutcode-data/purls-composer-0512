@@ -3,3 +3,5 @@
 - pkg:composer/spryker/push-notification-web-push-php@0.3.0
 - pkg:composer/spryker/push-notification-web-push-php@0.3.1
 - pkg:composer/spryker/push-notification-web-push-php@1.0.0
+- pkg:composer/spryker/push-notification-web-push-php@1.1.0
+- pkg:composer/spryker/push-notification-web-push-php@1.2.0
