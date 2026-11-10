@@ -11,3 +11,6 @@
 - pkg:composer/supercool/scheduler@4.0.0-beta.1
 - pkg:composer/supercool/scheduler@4.0.1
 - pkg:composer/supercool/scheduler@4.0.2
+- pkg:composer/supercool/scheduler@4.0.3
+- pkg:composer/supercool/scheduler@4.0.4
+- pkg:composer/supercool/scheduler@4.0.5
