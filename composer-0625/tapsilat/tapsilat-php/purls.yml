@@ -21,6 +21,10 @@
 - pkg:composer/tapsilat/tapsilat-php@v2025.12.18.4
 - pkg:composer/tapsilat/tapsilat-php@v2025.12.19.2
 - pkg:composer/tapsilat/tapsilat-php@v2025.12.5.1
+- pkg:composer/tapsilat/tapsilat-php@v2026.10.20.1
+- pkg:composer/tapsilat/tapsilat-php@v2026.10.20.2
+- pkg:composer/tapsilat/tapsilat-php@v2026.10.20.3
+- pkg:composer/tapsilat/tapsilat-php@v2026.10.26
 - pkg:composer/tapsilat/tapsilat-php@v2026.7.11.1
 - pkg:composer/tapsilat/tapsilat-php@v2026.7.31.1
 - pkg:composer/tapsilat/tapsilat-php@v2026.7.31.2
