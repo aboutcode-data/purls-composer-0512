@@ -550,3 +550,4 @@
 - pkg:composer/roots/wordpress-full@7.2-beta2
 - pkg:composer/roots/wordpress-full@7.2-beta3
 - pkg:composer/roots/wordpress-full@7.2-beta4
+- pkg:composer/roots/wordpress-full@7.2-beta5
