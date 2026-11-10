@@ -46,3 +46,5 @@
 - pkg:composer/spatie/icalendar-generator@3.2.0
 - pkg:composer/spatie/icalendar-generator@3.2.1
 - pkg:composer/spatie/icalendar-generator@3.3.0
+- pkg:composer/spatie/icalendar-generator@3.3.1
+- pkg:composer/spatie/icalendar-generator@3.3.2
