@@ -240,11 +240,16 @@
 - pkg:composer/survos/babel-bundle@2.3.0
 - pkg:composer/survos/babel-bundle@2.33.0
 - pkg:composer/survos/babel-bundle@2.34.29
+- pkg:composer/survos/babel-bundle@2.39.0
 - pkg:composer/survos/babel-bundle@2.4.0
 - pkg:composer/survos/babel-bundle@2.4.1
 - pkg:composer/survos/babel-bundle@2.4.2
 - pkg:composer/survos/babel-bundle@2.4.3
 - pkg:composer/survos/babel-bundle@2.4.4
+- pkg:composer/survos/babel-bundle@2.41.9
+- pkg:composer/survos/babel-bundle@2.45.20
+- pkg:composer/survos/babel-bundle@2.45.21
+- pkg:composer/survos/babel-bundle@2.45.23
 - pkg:composer/survos/babel-bundle@2.5.0
 - pkg:composer/survos/babel-bundle@2.5.1
 - pkg:composer/survos/babel-bundle@2.5.2

@@ -1,2 +1,5 @@
 - pkg:composer/survos/brevo-bundle@2.34.0
 - pkg:composer/survos/brevo-bundle@2.34.1
+- pkg:composer/survos/brevo-bundle@2.34.33
+- pkg:composer/survos/brevo-bundle@2.41.9
+- pkg:composer/survos/brevo-bundle@2.42.14
