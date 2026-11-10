@@ -1,4 +1,6 @@
 - pkg:composer/takumi9942/flarum-ext-japanese@3.9.7
+- pkg:composer/takumi9942/flarum-ext-japanese@4.0.12
+- pkg:composer/takumi9942/flarum-ext-japanese@4.0.13
 - pkg:composer/takumi9942/flarum-ext-japanese@v0.5.0
 - pkg:composer/takumi9942/flarum-ext-japanese@v1.0.0
 - pkg:composer/takumi9942/flarum-ext-japanese@v1.1.0
