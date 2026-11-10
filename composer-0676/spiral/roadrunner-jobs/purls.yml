@@ -3,6 +3,8 @@
 - pkg:composer/spiral/roadrunner-jobs@4.1.0
 - pkg:composer/spiral/roadrunner-jobs@4.2.0
 - pkg:composer/spiral/roadrunner-jobs@4.3.0
+- pkg:composer/spiral/roadrunner-jobs@4.9.0
+- pkg:composer/spiral/roadrunner-jobs@4.9.1
 - pkg:composer/spiral/roadrunner-jobs@v2.0.0
 - pkg:composer/spiral/roadrunner-jobs@v2.0.0-beta1
 - pkg:composer/spiral/roadrunner-jobs@v2.0.0-rc1
@@ -32,3 +34,4 @@
 - pkg:composer/spiral/roadrunner-jobs@v4.6.2
 - pkg:composer/spiral/roadrunner-jobs@v4.6.3
 - pkg:composer/spiral/roadrunner-jobs@v4.7.0
+- pkg:composer/spiral/roadrunner-jobs@v4.8.0
