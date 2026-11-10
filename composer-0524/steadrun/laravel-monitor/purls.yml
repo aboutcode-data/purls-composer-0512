@@ -1,3 +1,4 @@
 - pkg:composer/steadrun/laravel-monitor@v0.1.0
 - pkg:composer/steadrun/laravel-monitor@v0.2.0
 - pkg:composer/steadrun/laravel-monitor@v0.3.0
+- pkg:composer/steadrun/laravel-monitor@v1.0.0
