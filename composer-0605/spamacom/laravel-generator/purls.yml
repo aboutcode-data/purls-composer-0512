@@ -1,3 +1,4 @@
 - pkg:composer/spamacom/laravel-generator@6.0.2
 - pkg:composer/spamacom/laravel-generator@6.0.3
 - pkg:composer/spamacom/laravel-generator@6.0.4
+- pkg:composer/spamacom/laravel-generator@7.0.0
