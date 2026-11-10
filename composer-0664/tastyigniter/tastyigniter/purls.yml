@@ -114,3 +114,5 @@
 - pkg:composer/tastyigniter/tastyigniter@v4.4.1
 - pkg:composer/tastyigniter/tastyigniter@v4.4.2
 - pkg:composer/tastyigniter/tastyigniter@v4.4.3
+- pkg:composer/tastyigniter/tastyigniter@v4.4.5
+- pkg:composer/tastyigniter/tastyigniter@v4.5.0
