@@ -52,6 +52,7 @@
 - pkg:composer/scriptua/magento2-invisible-captcha@2.5.3
 - pkg:composer/scriptua/magento2-invisible-captcha@2.5.4
 - pkg:composer/scriptua/magento2-invisible-captcha@2.5.5
+- pkg:composer/scriptua/magento2-invisible-captcha@2.5.6
 - pkg:composer/scriptua/magento2-invisible-captcha@3.0.0
 - pkg:composer/scriptua/magento2-invisible-captcha@3.0.1
 - pkg:composer/scriptua/magento2-invisible-captcha@3.0.2
