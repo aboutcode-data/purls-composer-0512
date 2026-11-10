@@ -20,4 +20,5 @@
 - pkg:composer/teksite/handler@3.0.0
 - pkg:composer/teksite/handler@3.0.1
 - pkg:composer/teksite/handler@3.0.2
+- pkg:composer/teksite/handler@3.0.3
 - pkg:composer/teksite/handler@v0.0.2
