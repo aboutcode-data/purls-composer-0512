@@ -31,3 +31,4 @@
 - pkg:composer/ryanwinchester/netsuite-php@v2023.1.0
 - pkg:composer/ryanwinchester/netsuite-php@v2023.2.0
 - pkg:composer/ryanwinchester/netsuite-php@v2024.2.0
+- pkg:composer/ryanwinchester/netsuite-php@v2025.2.0
