@@ -86,3 +86,4 @@
 - pkg:composer/softspring/collection-form-type@v5.5.9
 - pkg:composer/softspring/collection-form-type@v5.6.0
 - pkg:composer/softspring/collection-form-type@v6.0.0-rc1
+- pkg:composer/softspring/collection-form-type@v6.0.0-rc2
