@@ -7,3 +7,4 @@
 - pkg:composer/sidecar/craft-formie-import@1.0.7
 - pkg:composer/sidecar/craft-formie-import@1.1.0
 - pkg:composer/sidecar/craft-formie-import@1.1.1
+- pkg:composer/sidecar/craft-formie-import@2.0.0
