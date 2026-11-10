@@ -58,6 +58,7 @@
 - pkg:composer/steelants/livewire-datatable@2.6.2
 - pkg:composer/steelants/livewire-datatable@2.7.0
 - pkg:composer/steelants/livewire-datatable@2.7.1
+- pkg:composer/steelants/livewire-datatable@2.7.10
 - pkg:composer/steelants/livewire-datatable@2.7.2
 - pkg:composer/steelants/livewire-datatable@2.7.3
 - pkg:composer/steelants/livewire-datatable@2.7.4
@@ -67,6 +68,10 @@
 - pkg:composer/steelants/livewire-datatable@2.7.8
 - pkg:composer/steelants/livewire-datatable@2.7.9
 - pkg:composer/steelants/livewire-datatable@2.8.0
+- pkg:composer/steelants/livewire-datatable@2.9.0
+- pkg:composer/steelants/livewire-datatable@3.0.0
+- pkg:composer/steelants/livewire-datatable@3.0.1
+- pkg:composer/steelants/livewire-datatable@3.0.2
 - pkg:composer/steelants/livewire-datatable@v1.0.1
 - pkg:composer/steelants/livewire-datatable@v1.0.18
 - pkg:composer/steelants/livewire-datatable@v1.0.19
