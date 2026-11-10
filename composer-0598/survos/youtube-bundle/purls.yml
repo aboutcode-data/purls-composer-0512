@@ -1,1 +1,6 @@
 - pkg:composer/survos/youtube-bundle@2.34.10
+- pkg:composer/survos/youtube-bundle@2.41.9
+- pkg:composer/survos/youtube-bundle@2.42.19
+- pkg:composer/survos/youtube-bundle@2.42.20
+- pkg:composer/survos/youtube-bundle@2.42.21
+- pkg:composer/survos/youtube-bundle@2.42.22
