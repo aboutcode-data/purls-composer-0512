@@ -179,3 +179,4 @@
 - pkg:composer/symfony/sendgrid-mailer@v8.1.4
 - pkg:composer/symfony/sendgrid-mailer@v8.1.6
 - pkg:composer/symfony/sendgrid-mailer@v8.1.7
+- pkg:composer/symfony/sendgrid-mailer@v8.2.0-BETA1
