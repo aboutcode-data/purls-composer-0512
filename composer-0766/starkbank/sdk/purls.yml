@@ -29,6 +29,8 @@
 - pkg:composer/starkbank/sdk@2.23.0
 - pkg:composer/starkbank/sdk@2.24.0
 - pkg:composer/starkbank/sdk@2.25.0
+- pkg:composer/starkbank/sdk@2.26.0
+- pkg:composer/starkbank/sdk@2.27.0
 - pkg:composer/starkbank/sdk@2.3.0
 - pkg:composer/starkbank/sdk@2.4.0
 - pkg:composer/starkbank/sdk@2.4.1

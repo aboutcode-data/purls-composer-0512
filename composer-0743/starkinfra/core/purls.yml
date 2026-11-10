@@ -10,3 +10,5 @@
 - pkg:composer/starkinfra/core@0.5.0
 - pkg:composer/starkinfra/core@0.5.1
 - pkg:composer/starkinfra/core@0.6.0
+- pkg:composer/starkinfra/core@0.7.0
+- pkg:composer/starkinfra/core@0.8.0
