@@ -41,3 +41,5 @@
 - pkg:composer/spacekola/devups@v5.6.22
 - pkg:composer/spacekola/devups@v6.0.1
 - pkg:composer/spacekola/devups@v6.1.0
+- pkg:composer/spacekola/devups@v7.0.0
+- pkg:composer/spacekola/devups@v7.1.0
