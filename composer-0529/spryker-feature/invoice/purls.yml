@@ -21,3 +21,4 @@
 - pkg:composer/spryker-feature/invoice@202604.0
 - pkg:composer/spryker-feature/invoice@202606.0
 - pkg:composer/spryker-feature/invoice@202608.0
+- pkg:composer/spryker-feature/invoice@202610.0
