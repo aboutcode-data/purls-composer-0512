@@ -123,3 +123,5 @@
 - pkg:composer/thunder/thunder-distribution@8.4.2
 - pkg:composer/thunder/thunder-distribution@8.4.3
 - pkg:composer/thunder/thunder-distribution@8.4.4
+- pkg:composer/thunder/thunder-distribution@8.4.5
+- pkg:composer/thunder/thunder-distribution@8.4.6
