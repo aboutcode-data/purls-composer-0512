@@ -6,3 +6,4 @@
 - pkg:composer/ticketpark/php-api-client@2.0
 - pkg:composer/ticketpark/php-api-client@2.0.1
 - pkg:composer/ticketpark/php-api-client@2.1
+- pkg:composer/ticketpark/php-api-client@2.2
