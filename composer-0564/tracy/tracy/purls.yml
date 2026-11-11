@@ -15,6 +15,7 @@
 - pkg:composer/tracy/tracy@v2.11.4
 - pkg:composer/tracy/tracy@v2.12.0
 - pkg:composer/tracy/tracy@v2.12.1
+- pkg:composer/tracy/tracy@v2.12.2
 - pkg:composer/tracy/tracy@v2.2.0
 - pkg:composer/tracy/tracy@v2.2.1
 - pkg:composer/tracy/tracy@v2.2.2
