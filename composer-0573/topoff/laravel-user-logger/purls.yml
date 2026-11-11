@@ -44,6 +44,9 @@
 - pkg:composer/topoff/laravel-user-logger@v1.1.0
 - pkg:composer/topoff/laravel-user-logger@v10.0.0
 - pkg:composer/topoff/laravel-user-logger@v10.1.0
+- pkg:composer/topoff/laravel-user-logger@v10.10.0
+- pkg:composer/topoff/laravel-user-logger@v10.10.1
+- pkg:composer/topoff/laravel-user-logger@v10.11.0
 - pkg:composer/topoff/laravel-user-logger@v10.2.0
 - pkg:composer/topoff/laravel-user-logger@v10.2.1
 - pkg:composer/topoff/laravel-user-logger@v10.3.0
