@@ -31,3 +31,6 @@
 - pkg:composer/tiny-blocks/collection@2.4.0
 - pkg:composer/tiny-blocks/collection@2.5.0
 - pkg:composer/tiny-blocks/collection@2.6.0
+- pkg:composer/tiny-blocks/collection@2.6.1
+- pkg:composer/tiny-blocks/collection@2.6.2
+- pkg:composer/tiny-blocks/collection@2.6.3

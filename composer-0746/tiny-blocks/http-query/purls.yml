@@ -5,3 +5,12 @@
 - pkg:composer/tiny-blocks/http-query@2.3.0
 - pkg:composer/tiny-blocks/http-query@2.4.0
 - pkg:composer/tiny-blocks/http-query@2.4.1
+- pkg:composer/tiny-blocks/http-query@2.5.0
+- pkg:composer/tiny-blocks/http-query@2.6.0
+- pkg:composer/tiny-blocks/http-query@2.6.1
+- pkg:composer/tiny-blocks/http-query@2.7.0
+- pkg:composer/tiny-blocks/http-query@2.7.1
+- pkg:composer/tiny-blocks/http-query@2.7.2
+- pkg:composer/tiny-blocks/http-query@2.7.3
+- pkg:composer/tiny-blocks/http-query@2.7.4
+- pkg:composer/tiny-blocks/http-query@3.0.0
