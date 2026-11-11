@@ -30,5 +30,4 @@
 - pkg:composer/sendpulse/rest-api@2.0.1
 - pkg:composer/sendpulse/rest-api@2.0.1.1
 - pkg:composer/sendpulse/rest-api@2.0.1.2
-- pkg:composer/sendpulse/rest-api@3.0.0
-- pkg:composer/sendpulse/rest-api@3.0.1
+- pkg:composer/sendpulse/rest-api@4.0.0
