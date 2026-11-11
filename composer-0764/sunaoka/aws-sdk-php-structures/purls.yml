@@ -139,3 +139,4 @@
 - pkg:composer/sunaoka/aws-sdk-php-structures@3.403.0
 - pkg:composer/sunaoka/aws-sdk-php-structures@3.403.1
 - pkg:composer/sunaoka/aws-sdk-php-structures@3.403.2
+- pkg:composer/sunaoka/aws-sdk-php-structures@3.403.3
