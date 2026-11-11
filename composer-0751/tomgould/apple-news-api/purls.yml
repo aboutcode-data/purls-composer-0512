@@ -10,3 +10,5 @@
 - pkg:composer/tomgould/apple-news-api@v1.0.8
 - pkg:composer/tomgould/apple-news-api@v2.0.0
 - pkg:composer/tomgould/apple-news-api@v2.0.2
+- pkg:composer/tomgould/apple-news-api@v2.1.0
+- pkg:composer/tomgould/apple-news-api@v2.2.0
