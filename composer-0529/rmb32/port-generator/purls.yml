@@ -1,12 +1,1 @@
-- pkg:composer/rmb32/port-generator@v1.0.1
-- pkg:composer/rmb32/port-generator@v1.1.0
-- pkg:composer/rmb32/port-generator@v1.2.0
-- pkg:composer/rmb32/port-generator@v1.2.1
-- pkg:composer/rmb32/port-generator@v2.0.0
-- pkg:composer/rmb32/port-generator@v3.0.0
-- pkg:composer/rmb32/port-generator@v3.1.0
-- pkg:composer/rmb32/port-generator@v3.2.0
-- pkg:composer/rmb32/port-generator@v4.0.0
-- pkg:composer/rmb32/port-generator@v5.0.0
-- pkg:composer/rmb32/port-generator@v5.1.0
-- pkg:composer/rmb32/port-generator@v5.2.0
+- pkg:composer/rmb32/port-generator@v0.1.0
