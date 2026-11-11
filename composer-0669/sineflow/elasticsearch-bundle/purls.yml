@@ -57,3 +57,4 @@
 - pkg:composer/sineflow/elasticsearch-bundle@v8.2.0
 - pkg:composer/sineflow/elasticsearch-bundle@v8.2.1
 - pkg:composer/sineflow/elasticsearch-bundle@v9.0.0
+- pkg:composer/sineflow/elasticsearch-bundle@v9.0.1
