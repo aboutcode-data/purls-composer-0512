@@ -2,3 +2,9 @@
 - pkg:composer/tinker/payments-php-sdk@v0.0.2
 - pkg:composer/tinker/payments-php-sdk@v0.0.3
 - pkg:composer/tinker/payments-php-sdk@v0.0.4
+- pkg:composer/tinker/payments-php-sdk@v0.0.5
+- pkg:composer/tinker/payments-php-sdk@v0.1.0
+- pkg:composer/tinker/payments-php-sdk@v0.2.0
+- pkg:composer/tinker/payments-php-sdk@v0.3.0
+- pkg:composer/tinker/payments-php-sdk@v0.4.0
+- pkg:composer/tinker/payments-php-sdk@v0.5.0
