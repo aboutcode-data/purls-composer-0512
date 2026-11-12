@@ -1,4 +1,5 @@
 - pkg:composer/wegewerk/ai3_summary@0.9.10
+- pkg:composer/wegewerk/ai3_summary@0.9.27
 - pkg:composer/wegewerk/ai3_summary@v0.9.11
 - pkg:composer/wegewerk/ai3_summary@v0.9.12
 - pkg:composer/wegewerk/ai3_summary@v0.9.13
@@ -15,6 +16,10 @@
 - pkg:composer/wegewerk/ai3_summary@v0.9.24
 - pkg:composer/wegewerk/ai3_summary@v0.9.25
 - pkg:composer/wegewerk/ai3_summary@v0.9.26
+- pkg:composer/wegewerk/ai3_summary@v0.9.28
+- pkg:composer/wegewerk/ai3_summary@v0.9.29
+- pkg:composer/wegewerk/ai3_summary@v0.9.30
+- pkg:composer/wegewerk/ai3_summary@v0.9.31
 - pkg:composer/wegewerk/ai3_summary@v0.9.6
 - pkg:composer/wegewerk/ai3_summary@v0.9.7
 - pkg:composer/wegewerk/ai3_summary@v0.9.8
