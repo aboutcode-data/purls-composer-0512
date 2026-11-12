@@ -62,3 +62,6 @@
 - pkg:composer/vrana/adminer@v6.0.2
 - pkg:composer/vrana/adminer@v6.1.0
 - pkg:composer/vrana/adminer@v6.1.1
+- pkg:composer/vrana/adminer@v6.1.2
+- pkg:composer/vrana/adminer@v6.2.0
+- pkg:composer/vrana/adminer@v6.3.0
