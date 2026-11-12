@@ -50,3 +50,4 @@
 - pkg:composer/userbase/client@v3.2.0
 - pkg:composer/userbase/client@v3.2.1
 - pkg:composer/userbase/client@v4.123.1
+- pkg:composer/userbase/client@v4.123.2
