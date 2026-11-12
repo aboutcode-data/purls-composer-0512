@@ -2,6 +2,7 @@
 - pkg:composer/yokai/sonata-workflow@v0.1.1
 - pkg:composer/yokai/sonata-workflow@v0.1.2
 - pkg:composer/yokai/sonata-workflow@v0.1.3
+- pkg:composer/yokai/sonata-workflow@v0.10.0
 - pkg:composer/yokai/sonata-workflow@v0.2.0
 - pkg:composer/yokai/sonata-workflow@v0.3.0
 - pkg:composer/yokai/sonata-workflow@v0.4.0
