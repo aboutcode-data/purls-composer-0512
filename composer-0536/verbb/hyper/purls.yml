@@ -95,6 +95,9 @@
 - pkg:composer/verbb/hyper@2.3.13
 - pkg:composer/verbb/hyper@2.3.14
 - pkg:composer/verbb/hyper@2.3.15
+- pkg:composer/verbb/hyper@2.3.16
+- pkg:composer/verbb/hyper@2.3.17
+- pkg:composer/verbb/hyper@2.3.18
 - pkg:composer/verbb/hyper@2.3.2
 - pkg:composer/verbb/hyper@2.3.3
 - pkg:composer/verbb/hyper@2.3.4
@@ -103,5 +106,12 @@
 - pkg:composer/verbb/hyper@2.3.7
 - pkg:composer/verbb/hyper@2.3.8
 - pkg:composer/verbb/hyper@2.3.9
+- pkg:composer/verbb/hyper@3.0.0
 - pkg:composer/verbb/hyper@3.0.0-beta.1
 - pkg:composer/verbb/hyper@3.0.0-beta.2
+- pkg:composer/verbb/hyper@3.0.0-beta.3
+- pkg:composer/verbb/hyper@3.0.1
+- pkg:composer/verbb/hyper@3.0.2
+- pkg:composer/verbb/hyper@3.0.3
+- pkg:composer/verbb/hyper@3.0.4
+- pkg:composer/verbb/hyper@3.0.5

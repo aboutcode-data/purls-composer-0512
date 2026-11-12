@@ -37,6 +37,9 @@
 - pkg:composer/verbb/field-manager@4.0.0
 - pkg:composer/verbb/field-manager@4.0.0-beta.1
 - pkg:composer/verbb/field-manager@4.0.1
+- pkg:composer/verbb/field-manager@4.0.10
+- pkg:composer/verbb/field-manager@4.0.11
+- pkg:composer/verbb/field-manager@4.0.12
 - pkg:composer/verbb/field-manager@4.0.2
 - pkg:composer/verbb/field-manager@4.0.3
 - pkg:composer/verbb/field-manager@4.0.4
@@ -44,3 +47,4 @@
 - pkg:composer/verbb/field-manager@4.0.6
 - pkg:composer/verbb/field-manager@4.0.7
 - pkg:composer/verbb/field-manager@4.0.8
+- pkg:composer/verbb/field-manager@4.0.9
