@@ -1,2 +1,3 @@
 - pkg:composer/uams-web/patches-pest-plugin-mutate@v1.0.0
 - pkg:composer/uams-web/patches-pest-plugin-mutate@v1.1.0
+- pkg:composer/uams-web/patches-pest-plugin-mutate@v1.2.0
