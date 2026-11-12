@@ -121,3 +121,4 @@
 - pkg:composer/voku/simple_html_dom@4.8.8
 - pkg:composer/voku/simple_html_dom@4.8.9
 - pkg:composer/voku/simple_html_dom@5.0.0
+- pkg:composer/voku/simple_html_dom@5.1.0

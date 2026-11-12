@@ -20,3 +20,5 @@
 - pkg:composer/volcanus/database@2.1.1
 - pkg:composer/volcanus/database@3.0.0
 - pkg:composer/volcanus/database@3.0.1
+- pkg:composer/volcanus/database@3.1.0
+- pkg:composer/volcanus/database@3.1.1

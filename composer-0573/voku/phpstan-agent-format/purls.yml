@@ -2,3 +2,5 @@
 - pkg:composer/voku/phpstan-agent-format@0.1.1
 - pkg:composer/voku/phpstan-agent-format@0.2.0
 - pkg:composer/voku/phpstan-agent-format@0.2.1
+- pkg:composer/voku/phpstan-agent-format@0.3.0
+- pkg:composer/voku/phpstan-agent-format@0.3.1
