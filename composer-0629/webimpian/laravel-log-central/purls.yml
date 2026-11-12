@@ -7,3 +7,6 @@
 - pkg:composer/webimpian/laravel-log-central@v1.3.0
 - pkg:composer/webimpian/laravel-log-central@v1.4.0
 - pkg:composer/webimpian/laravel-log-central@v1.4.1
+- pkg:composer/webimpian/laravel-log-central@v1.5.0
+- pkg:composer/webimpian/laravel-log-central@v1.6.0
+- pkg:composer/webimpian/laravel-log-central@v1.6.1
