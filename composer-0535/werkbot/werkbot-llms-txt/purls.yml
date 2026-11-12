@@ -1,3 +1,4 @@
 - pkg:composer/werkbot/werkbot-llms-txt@0.0.1
 - pkg:composer/werkbot/werkbot-llms-txt@1.0.0
 - pkg:composer/werkbot/werkbot-llms-txt@1.0.1
+- pkg:composer/werkbot/werkbot-llms-txt@2.0.0
