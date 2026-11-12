@@ -7,7 +7,10 @@
 - pkg:composer/xddesigners/silverstripe-events@0.1.6
 - pkg:composer/xddesigners/silverstripe-events@0.1.7
 - pkg:composer/xddesigners/silverstripe-events@0.1.8
+- pkg:composer/xddesigners/silverstripe-events@4.0.1
 - pkg:composer/xddesigners/silverstripe-events@5.0.0
 - pkg:composer/xddesigners/silverstripe-events@6.0.0
 - pkg:composer/xddesigners/silverstripe-events@6.0.1
 - pkg:composer/xddesigners/silverstripe-events@6.0.2
+- pkg:composer/xddesigners/silverstripe-events@6.0.3
+- pkg:composer/xddesigners/silverstripe-events@6.0.4
