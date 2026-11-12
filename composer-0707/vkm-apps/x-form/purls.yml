@@ -42,3 +42,5 @@
 - pkg:composer/vkm-apps/x-form@v2.0.7
 - pkg:composer/vkm-apps/x-form@v2.0.8
 - pkg:composer/vkm-apps/x-form@v2.0.9
+- pkg:composer/vkm-apps/x-form@v2.1.0
+- pkg:composer/vkm-apps/x-form@v2.1.1
