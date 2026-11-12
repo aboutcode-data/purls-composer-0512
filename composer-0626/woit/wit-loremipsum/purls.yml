@@ -1,2 +1,4 @@
 - pkg:composer/woit/wit-loremipsum@v1.0.0
 - pkg:composer/woit/wit-loremipsum@v1.0.1
+- pkg:composer/woit/wit-loremipsum@v2.1.1
+- pkg:composer/woit/wit-loremipsum@v2.1.2
