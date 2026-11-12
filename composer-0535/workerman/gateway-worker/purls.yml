@@ -38,3 +38,4 @@
 - pkg:composer/workerman/gateway-worker@v3.1.6
 - pkg:composer/workerman/gateway-worker@v4.0.0
 - pkg:composer/workerman/gateway-worker@v4.0.1
+- pkg:composer/workerman/gateway-worker@v4.0.2
