@@ -1,1 +1,2 @@
 - pkg:composer/violetshih/laravel-mongo-queue-monitor@1.0.0
+- pkg:composer/violetshih/laravel-mongo-queue-monitor@6.0.0
