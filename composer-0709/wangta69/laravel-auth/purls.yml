@@ -54,3 +54,5 @@
 - pkg:composer/wangta69/laravel-auth@8.12.8
 - pkg:composer/wangta69/laravel-auth@8.12.9
 - pkg:composer/wangta69/laravel-auth@8.13.0
+- pkg:composer/wangta69/laravel-auth@8.13.1
+- pkg:composer/wangta69/laravel-auth@8.13.2
