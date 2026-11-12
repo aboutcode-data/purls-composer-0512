@@ -20,6 +20,9 @@
 - pkg:composer/uiaciel/suryacms@v2.0.22
 - pkg:composer/uiaciel/suryacms@v2.0.23
 - pkg:composer/uiaciel/suryacms@v2.0.24
+- pkg:composer/uiaciel/suryacms@v2.0.25
+- pkg:composer/uiaciel/suryacms@v2.0.26
+- pkg:composer/uiaciel/suryacms@v2.0.27
 - pkg:composer/uiaciel/suryacms@v2.0.3
 - pkg:composer/uiaciel/suryacms@v2.0.4
 - pkg:composer/uiaciel/suryacms@v2.0.5
@@ -27,3 +30,5 @@
 - pkg:composer/uiaciel/suryacms@v2.0.7
 - pkg:composer/uiaciel/suryacms@v2.0.8
 - pkg:composer/uiaciel/suryacms@v2.0.9
+- pkg:composer/uiaciel/suryacms@v2.1.0-beta.1
+- pkg:composer/uiaciel/suryacms@v2.1.0-beta.2
