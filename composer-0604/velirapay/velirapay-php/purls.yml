@@ -1,2 +1,13 @@
 - pkg:composer/velirapay/velirapay-php@v0.1.0
 - pkg:composer/velirapay/velirapay-php@v0.1.1
+- pkg:composer/velirapay/velirapay-php@v0.2.0
+- pkg:composer/velirapay/velirapay-php@v0.3.0
+- pkg:composer/velirapay/velirapay-php@v0.4.0
+- pkg:composer/velirapay/velirapay-php@v0.5.0
+- pkg:composer/velirapay/velirapay-php@v0.6.0
+- pkg:composer/velirapay/velirapay-php@v0.6.1
+- pkg:composer/velirapay/velirapay-php@v0.6.2
+- pkg:composer/velirapay/velirapay-php@v0.6.3
+- pkg:composer/velirapay/velirapay-php@v0.6.4
+- pkg:composer/velirapay/velirapay-php@v0.6.5
+- pkg:composer/velirapay/velirapay-php@v0.6.6
