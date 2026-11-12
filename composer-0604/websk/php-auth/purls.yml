@@ -42,3 +42,6 @@
 - pkg:composer/websk/php-auth@2.4.7
 - pkg:composer/websk/php-auth@2.4.8
 - pkg:composer/websk/php-auth@2.4.9
+- pkg:composer/websk/php-auth@3.0.0
+- pkg:composer/websk/php-auth@4.0.0
+- pkg:composer/websk/php-auth@4.0.1
