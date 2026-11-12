@@ -104,3 +104,4 @@
 - pkg:composer/valkyrja/ci-psalm@v26.3.93
 - pkg:composer/valkyrja/ci-psalm@v26.3.94
 - pkg:composer/valkyrja/ci-psalm@v26.3.95
+- pkg:composer/valkyrja/ci-psalm@v26.3.96
