@@ -9,3 +9,7 @@
 - pkg:composer/utopia-php/query@0.5.0
 - pkg:composer/utopia-php/query@0.6.0
 - pkg:composer/utopia-php/query@0.6.1
+- pkg:composer/utopia-php/query@0.6.2
+- pkg:composer/utopia-php/query@0.7.0
+- pkg:composer/utopia-php/query@0.7.1
+- pkg:composer/utopia-php/query@0.7.2
