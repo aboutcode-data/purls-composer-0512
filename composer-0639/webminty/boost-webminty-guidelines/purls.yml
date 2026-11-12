@@ -6,3 +6,7 @@
 - pkg:composer/webminty/boost-webminty-guidelines@3.1.0
 - pkg:composer/webminty/boost-webminty-guidelines@3.2.0
 - pkg:composer/webminty/boost-webminty-guidelines@3.3.0
+- pkg:composer/webminty/boost-webminty-guidelines@3.4.0
+- pkg:composer/webminty/boost-webminty-guidelines@3.4.1
+- pkg:composer/webminty/boost-webminty-guidelines@v4.0.0
+- pkg:composer/webminty/boost-webminty-guidelines@v4.0.1
