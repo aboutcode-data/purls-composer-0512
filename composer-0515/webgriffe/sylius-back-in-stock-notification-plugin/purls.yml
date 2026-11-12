@@ -12,3 +12,6 @@
 - pkg:composer/webgriffe/sylius-back-in-stock-notification-plugin@v5.0.0
 - pkg:composer/webgriffe/sylius-back-in-stock-notification-plugin@v5.0.1
 - pkg:composer/webgriffe/sylius-back-in-stock-notification-plugin@v5.0.2
+- pkg:composer/webgriffe/sylius-back-in-stock-notification-plugin@v5.0.3
+- pkg:composer/webgriffe/sylius-back-in-stock-notification-plugin@v5.0.4
+- pkg:composer/webgriffe/sylius-back-in-stock-notification-plugin@v5.0.5
