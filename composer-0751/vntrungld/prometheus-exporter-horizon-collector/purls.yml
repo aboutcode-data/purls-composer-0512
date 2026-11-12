@@ -5,3 +5,4 @@
 - pkg:composer/vntrungld/prometheus-exporter-horizon-collector@v1.1.0
 - pkg:composer/vntrungld/prometheus-exporter-horizon-collector@v1.2.0
 - pkg:composer/vntrungld/prometheus-exporter-horizon-collector@v1.3.0
+- pkg:composer/vntrungld/prometheus-exporter-horizon-collector@v1.3.1
