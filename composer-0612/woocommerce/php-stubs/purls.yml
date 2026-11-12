@@ -73,3 +73,5 @@
 - pkg:composer/woocommerce/php-stubs@v2026.11.11.8
 - pkg:composer/woocommerce/php-stubs@v2026.11.11.9
 - pkg:composer/woocommerce/php-stubs@v2026.11.12
+- pkg:composer/woocommerce/php-stubs@v2026.11.12.1
+- pkg:composer/woocommerce/php-stubs@v2026.11.12.2
