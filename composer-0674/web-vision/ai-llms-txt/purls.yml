@@ -10,3 +10,7 @@
 - pkg:composer/web-vision/ai-llms-txt@0.1.9
 - pkg:composer/web-vision/ai-llms-txt@0.2.0
 - pkg:composer/web-vision/ai-llms-txt@0.2.1
+- pkg:composer/web-vision/ai-llms-txt@0.3.0
+- pkg:composer/web-vision/ai-llms-txt@0.4.0
+- pkg:composer/web-vision/ai-llms-txt@0.5.0
+- pkg:composer/web-vision/ai-llms-txt@0.5.1
