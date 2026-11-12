@@ -3,6 +3,7 @@
 - pkg:composer/ujamii/prometheus-sentry-exporter@v0.1.2
 - pkg:composer/ujamii/prometheus-sentry-exporter@v0.10.0
 - pkg:composer/ujamii/prometheus-sentry-exporter@v0.10.1
+- pkg:composer/ujamii/prometheus-sentry-exporter@v0.11.0
 - pkg:composer/ujamii/prometheus-sentry-exporter@v0.2.0
 - pkg:composer/ujamii/prometheus-sentry-exporter@v0.3.0
 - pkg:composer/ujamii/prometheus-sentry-exporter@v0.3.1
