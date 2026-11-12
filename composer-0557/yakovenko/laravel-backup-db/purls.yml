@@ -11,3 +11,4 @@
 - pkg:composer/yakovenko/laravel-backup-db@v1.0.8
 - pkg:composer/yakovenko/laravel-backup-db@v1.0.9
 - pkg:composer/yakovenko/laravel-backup-db@v1.1.0
+- pkg:composer/yakovenko/laravel-backup-db@v1.2.0
