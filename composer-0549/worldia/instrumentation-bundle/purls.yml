@@ -91,3 +91,5 @@
 - pkg:composer/worldia/instrumentation-bundle@2.4.0
 - pkg:composer/worldia/instrumentation-bundle@3.0.0
 - pkg:composer/worldia/instrumentation-bundle@3.0.1
+- pkg:composer/worldia/instrumentation-bundle@3.0.2
+- pkg:composer/worldia/instrumentation-bundle@3.0.3
