@@ -26,3 +26,4 @@
 - pkg:composer/webmozarts/console-parallelization@2.2.0
 - pkg:composer/webmozarts/console-parallelization@2.2.1
 - pkg:composer/webmozarts/console-parallelization@2.3.0
+- pkg:composer/webmozarts/console-parallelization@2.3.1
