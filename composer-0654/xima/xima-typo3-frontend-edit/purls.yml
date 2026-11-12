@@ -23,5 +23,7 @@
 - pkg:composer/xima/xima-typo3-frontend-edit@2.5.0
 - pkg:composer/xima/xima-typo3-frontend-edit@2.6.0
 - pkg:composer/xima/xima-typo3-frontend-edit@2.6.1
+- pkg:composer/xima/xima-typo3-frontend-edit@2.6.2
+- pkg:composer/xima/xima-typo3-frontend-edit@2.6.3
 - pkg:composer/xima/xima-typo3-frontend-edit@v1.0.0
 - pkg:composer/xima/xima-typo3-frontend-edit@v1.3.1
