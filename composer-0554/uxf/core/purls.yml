@@ -246,6 +246,13 @@
 - pkg:composer/uxf/core@3.84.0
 - pkg:composer/uxf/core@3.84.2
 - pkg:composer/uxf/core@3.84.3
+- pkg:composer/uxf/core@3.85.0
+- pkg:composer/uxf/core@3.85.1
+- pkg:composer/uxf/core@3.86.0
+- pkg:composer/uxf/core@3.87.0
+- pkg:composer/uxf/core@3.87.1
+- pkg:composer/uxf/core@3.87.2
+- pkg:composer/uxf/core@3.88.0
 - pkg:composer/uxf/core@3.9.2
 - pkg:composer/uxf/core@v0.1
 - pkg:composer/uxf/core@v0.1.1
