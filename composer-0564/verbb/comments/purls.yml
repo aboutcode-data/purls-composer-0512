@@ -108,6 +108,7 @@
 - pkg:composer/verbb/comments@2.0.22
 - pkg:composer/verbb/comments@2.0.23
 - pkg:composer/verbb/comments@2.0.24
+- pkg:composer/verbb/comments@2.0.25
 - pkg:composer/verbb/comments@2.0.3
 - pkg:composer/verbb/comments@2.0.4
 - pkg:composer/verbb/comments@2.0.5
@@ -136,6 +137,7 @@
 - pkg:composer/verbb/comments@3.0.22
 - pkg:composer/verbb/comments@3.0.23
 - pkg:composer/verbb/comments@3.0.24
+- pkg:composer/verbb/comments@3.0.25
 - pkg:composer/verbb/comments@3.0.3
 - pkg:composer/verbb/comments@3.0.4
 - pkg:composer/verbb/comments@3.0.5
