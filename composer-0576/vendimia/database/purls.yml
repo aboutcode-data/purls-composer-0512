@@ -69,5 +69,6 @@
 - pkg:composer/vendimia/database@0.1.70
 - pkg:composer/vendimia/database@0.1.71
 - pkg:composer/vendimia/database@0.1.72
+- pkg:composer/vendimia/database@0.1.73
 - pkg:composer/vendimia/database@0.1.8
 - pkg:composer/vendimia/database@0.1.9
