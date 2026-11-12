@@ -93,6 +93,11 @@
 - pkg:composer/wpcloud/wp-stateless@4.4.1
 - pkg:composer/wpcloud/wp-stateless@4.4.2
 - pkg:composer/wpcloud/wp-stateless@4.4.3
+- pkg:composer/wpcloud/wp-stateless@4.5.0
+- pkg:composer/wpcloud/wp-stateless@4.6.0-rc1
+- pkg:composer/wpcloud/wp-stateless@4.6.0-rc2
+- pkg:composer/wpcloud/wp-stateless@4.6.0-rc3
+- pkg:composer/wpcloud/wp-stateless@4.6.0-rc4
 - pkg:composer/wpcloud/wp-stateless@v2.0
 - pkg:composer/wpcloud/wp-stateless@v2.0.0-rc1
 - pkg:composer/wpcloud/wp-stateless@v2.1-RC-1

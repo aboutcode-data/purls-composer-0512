@@ -11,3 +11,5 @@
 - pkg:composer/wpbones/geolocalizer@0.8.2
 - pkg:composer/wpbones/geolocalizer@1.0.0
 - pkg:composer/wpbones/geolocalizer@1.0.1
+- pkg:composer/wpbones/geolocalizer@2.0.0
+- pkg:composer/wpbones/geolocalizer@2.0.1
