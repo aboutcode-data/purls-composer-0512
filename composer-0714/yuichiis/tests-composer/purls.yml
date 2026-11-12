@@ -1,4 +1,5 @@
 - pkg:composer/yuichiis/tests-composer@0.0.1
+- pkg:composer/yuichiis/tests-composer@0.0.10
 - pkg:composer/yuichiis/tests-composer@0.0.2
 - pkg:composer/yuichiis/tests-composer@0.0.3
 - pkg:composer/yuichiis/tests-composer@0.0.4
