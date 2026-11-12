@@ -1,1 +1,2 @@
 - pkg:composer/verdient/hyperf3-handler-annotation@1.0.0
+- pkg:composer/verdient/hyperf3-handler-annotation@2.1.0
