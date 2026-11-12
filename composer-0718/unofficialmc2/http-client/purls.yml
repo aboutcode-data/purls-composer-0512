@@ -15,3 +15,5 @@
 - pkg:composer/unofficialmc2/http-client@v2.1.4
 - pkg:composer/unofficialmc2/http-client@v2.1.5
 - pkg:composer/unofficialmc2/http-client@v2.1.6
+- pkg:composer/unofficialmc2/http-client@v2.1.7
+- pkg:composer/unofficialmc2/http-client@v2.2.0

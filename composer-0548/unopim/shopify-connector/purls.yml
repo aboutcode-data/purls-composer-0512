@@ -5,3 +5,5 @@
 - pkg:composer/unopim/shopify-connector@v1.3.0
 - pkg:composer/unopim/shopify-connector@v1.4.0
 - pkg:composer/unopim/shopify-connector@v3.0.0
+- pkg:composer/unopim/shopify-connector@v3.0.1
+- pkg:composer/unopim/shopify-connector@v3.0.2
