@@ -1,3 +1,5 @@
+- pkg:composer/webregulate/laravel-administration@0.10.0
+- pkg:composer/webregulate/laravel-administration@0.10.1
 - pkg:composer/webregulate/laravel-administration@0.8.0
 - pkg:composer/webregulate/laravel-administration@0.8.1
 - pkg:composer/webregulate/laravel-administration@0.8.10
@@ -45,7 +47,19 @@
 - pkg:composer/webregulate/laravel-administration@0.8.49
 - pkg:composer/webregulate/laravel-administration@0.8.5
 - pkg:composer/webregulate/laravel-administration@0.8.50
+- pkg:composer/webregulate/laravel-administration@0.8.51
+- pkg:composer/webregulate/laravel-administration@0.8.52
+- pkg:composer/webregulate/laravel-administration@0.8.53
+- pkg:composer/webregulate/laravel-administration@0.8.54
+- pkg:composer/webregulate/laravel-administration@0.8.55
+- pkg:composer/webregulate/laravel-administration@0.8.56
+- pkg:composer/webregulate/laravel-administration@0.8.57
+- pkg:composer/webregulate/laravel-administration@0.8.58
+- pkg:composer/webregulate/laravel-administration@0.8.59
 - pkg:composer/webregulate/laravel-administration@0.8.6
+- pkg:composer/webregulate/laravel-administration@0.8.60
 - pkg:composer/webregulate/laravel-administration@0.8.7
 - pkg:composer/webregulate/laravel-administration@0.8.8
 - pkg:composer/webregulate/laravel-administration@0.8.9
+- pkg:composer/webregulate/laravel-administration@0.9.0
+- pkg:composer/webregulate/laravel-administration@0.9.1
