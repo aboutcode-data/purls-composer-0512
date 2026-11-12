@@ -158,3 +158,9 @@
 - pkg:composer/voila_cms/crudbooster@v3.0.0.50
 - pkg:composer/voila_cms/crudbooster@v3.0.0.51
 - pkg:composer/voila_cms/crudbooster@v4.0.0
+- pkg:composer/voila_cms/crudbooster@v4.0.1
+- pkg:composer/voila_cms/crudbooster@v5.0.0
+- pkg:composer/voila_cms/crudbooster@v5.1.0
+- pkg:composer/voila_cms/crudbooster@v5.2.0
+- pkg:composer/voila_cms/crudbooster@v5.2.1
+- pkg:composer/voila_cms/crudbooster@v5.2.2
