@@ -1,4 +1,5 @@
 - pkg:composer/vicephp/virtue-jwt@0.10.0
+- pkg:composer/vicephp/virtue-jwt@0.11.0
 - pkg:composer/vicephp/virtue-jwt@0.2
 - pkg:composer/vicephp/virtue-jwt@0.3.0
 - pkg:composer/vicephp/virtue-jwt@0.4.0
