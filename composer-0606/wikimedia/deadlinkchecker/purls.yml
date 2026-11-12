@@ -30,3 +30,5 @@
 - pkg:composer/wikimedia/deadlinkchecker@v1.8.3.5
 - pkg:composer/wikimedia/deadlinkchecker@v1.8.3.6
 - pkg:composer/wikimedia/deadlinkchecker@v1.8.3.7
+- pkg:composer/wikimedia/deadlinkchecker@v1.8.3.8
+- pkg:composer/wikimedia/deadlinkchecker@v1.8.3.9
