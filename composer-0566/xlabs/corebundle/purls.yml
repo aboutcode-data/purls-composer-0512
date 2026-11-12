@@ -188,7 +188,9 @@
 - pkg:composer/xlabs/corebundle@1.1.89
 - pkg:composer/xlabs/corebundle@1.1.9
 - pkg:composer/xlabs/corebundle@1.1.90
+- pkg:composer/xlabs/corebundle@1.1.90.1
 - pkg:composer/xlabs/corebundle@1.1.91
+- pkg:composer/xlabs/corebundle@1.1.91.1
 - pkg:composer/xlabs/corebundle@2.0.0
 - pkg:composer/xlabs/corebundle@2.0.1
 - pkg:composer/xlabs/corebundle@2.0.10
@@ -230,6 +232,7 @@
 - pkg:composer/xlabs/corebundle@2.0.43
 - pkg:composer/xlabs/corebundle@2.0.44
 - pkg:composer/xlabs/corebundle@2.0.45
+- pkg:composer/xlabs/corebundle@2.0.45.1
 - pkg:composer/xlabs/corebundle@2.0.46
 - pkg:composer/xlabs/corebundle@2.0.47
 - pkg:composer/xlabs/corebundle@2.0.48
