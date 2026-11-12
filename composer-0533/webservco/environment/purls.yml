@@ -2,3 +2,6 @@
 - pkg:composer/webservco/environment@v0.1.0
 - pkg:composer/webservco/environment@v0.8.0
 - pkg:composer/webservco/environment@v1.0.0
+- pkg:composer/webservco/environment@v2.0.0
+- pkg:composer/webservco/environment@v2.1.0
+- pkg:composer/webservco/environment@v2.3.0

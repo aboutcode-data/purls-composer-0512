@@ -34,3 +34,11 @@
 - pkg:composer/webservco/database@v1.1.2.74
 - pkg:composer/webservco/database@v1.2.0
 - pkg:composer/webservco/database@v1.2.0.74
+- pkg:composer/webservco/database@v2.0.0
+- pkg:composer/webservco/database@v2.0.0.74
+- pkg:composer/webservco/database@v2.0.1
+- pkg:composer/webservco/database@v2.0.1.74
+- pkg:composer/webservco/database@v2.1.0
+- pkg:composer/webservco/database@v2.1.0.74
+- pkg:composer/webservco/database@v2.3.0
+- pkg:composer/webservco/database@v2.3.0.74
