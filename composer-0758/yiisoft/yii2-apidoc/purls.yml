@@ -25,3 +25,4 @@
 - pkg:composer/yiisoft/yii2-apidoc@3.0.8
 - pkg:composer/yiisoft/yii2-apidoc@4.0.0
 - pkg:composer/yiisoft/yii2-apidoc@4.0.1
+- pkg:composer/yiisoft/yii2-apidoc@4.0.2
