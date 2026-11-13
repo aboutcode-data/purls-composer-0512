@@ -1,2 +1,4 @@
-- pkg:composer/adachsoft/workflow-definition-repository-json@v0.1.0
-- pkg:composer/adachsoft/workflow-definition-repository-json@v0.1.1
+- pkg:composer/adachsoft/workflow-definition-repository-json@v1.0.0
+- pkg:composer/adachsoft/workflow-definition-repository-json@v2.0.0
+- pkg:composer/adachsoft/workflow-definition-repository-json@v3.0.0
+- pkg:composer/adachsoft/workflow-definition-repository-json@v3.1.0
