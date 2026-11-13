@@ -1,4 +1,8 @@
 - pkg:composer/adachsoft/ai-integration-gemini@v0.1.0
+- pkg:composer/adachsoft/ai-integration-gemini@v0.10.0
+- pkg:composer/adachsoft/ai-integration-gemini@v0.11.0
+- pkg:composer/adachsoft/ai-integration-gemini@v0.12.0
+- pkg:composer/adachsoft/ai-integration-gemini@v0.13.0
 - pkg:composer/adachsoft/ai-integration-gemini@v0.2.0
 - pkg:composer/adachsoft/ai-integration-gemini@v0.2.1
 - pkg:composer/adachsoft/ai-integration-gemini@v0.2.2
