@@ -8,3 +8,5 @@
 - pkg:composer/zeixcom/craft-delta@2.2.3
 - pkg:composer/zeixcom/craft-delta@2.2.4
 - pkg:composer/zeixcom/craft-delta@2.2.5
+- pkg:composer/zeixcom/craft-delta@2.3.0
+- pkg:composer/zeixcom/craft-delta@2.4.0
