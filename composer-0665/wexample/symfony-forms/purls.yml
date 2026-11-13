@@ -122,6 +122,7 @@
 - pkg:composer/wexample/symfony-forms@15.0.2
 - pkg:composer/wexample/symfony-forms@15.0.3
 - pkg:composer/wexample/symfony-forms@16.0.0
+- pkg:composer/wexample/symfony-forms@16.0.1
 - pkg:composer/wexample/symfony-forms@2.0.0
 - pkg:composer/wexample/symfony-forms@2.0.1
 - pkg:composer/wexample/symfony-forms@2.0.2
