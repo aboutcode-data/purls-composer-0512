@@ -1,3 +1,7 @@
 - pkg:composer/yuramozol/com.docstudio.api.php-client@v110.4
 - pkg:composer/yuramozol/com.docstudio.api.php-client@v125.4
+- pkg:composer/yuramozol/com.docstudio.api.php-client@v168.18
+- pkg:composer/yuramozol/com.docstudio.api.php-client@v168.21
+- pkg:composer/yuramozol/com.docstudio.api.php-client@v168.21.1
+- pkg:composer/yuramozol/com.docstudio.api.php-client@v169.4
 - pkg:composer/yuramozol/com.docstudio.api.php-client@v75.3
