@@ -102,3 +102,4 @@
 - pkg:composer/workos/workos-php@v9.4.0
 - pkg:composer/workos/workos-php@v9.5.0
 - pkg:composer/workos/workos-php@v9.6.0
+- pkg:composer/workos/workos-php@v9.7.0
