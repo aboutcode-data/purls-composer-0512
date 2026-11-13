@@ -9,5 +9,7 @@
 - pkg:composer/zapmizer/laravel-notification-zapmizer@0.2.0
 - pkg:composer/zapmizer/laravel-notification-zapmizer@0.3.0
 - pkg:composer/zapmizer/laravel-notification-zapmizer@0.3.1
+- pkg:composer/zapmizer/laravel-notification-zapmizer@0.4.0
+- pkg:composer/zapmizer/laravel-notification-zapmizer@0.4.1
 - pkg:composer/zapmizer/laravel-notification-zapmizer@v1.0.0
 - pkg:composer/zapmizer/laravel-notification-zapmizer@v1.0.1
