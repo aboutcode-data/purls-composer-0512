@@ -5,3 +5,4 @@
 - pkg:composer/68publishers/doctrine-bridge@v0.2.1
 - pkg:composer/68publishers/doctrine-bridge@v1.0.0
 - pkg:composer/68publishers/doctrine-bridge@v1.1.0
+- pkg:composer/68publishers/doctrine-bridge@v2.0.0

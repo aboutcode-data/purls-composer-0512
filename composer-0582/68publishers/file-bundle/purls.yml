@@ -19,3 +19,4 @@
 - pkg:composer/68publishers/file-bundle@v0.5.5
 - pkg:composer/68publishers/file-bundle@v0.5.6
 - pkg:composer/68publishers/file-bundle@v0.5.7
+- pkg:composer/68publishers/file-bundle@v0.6.0
