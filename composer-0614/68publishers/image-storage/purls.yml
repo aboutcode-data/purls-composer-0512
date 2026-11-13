@@ -42,3 +42,4 @@
 - pkg:composer/68publishers/image-storage@v1.8.0
 - pkg:composer/68publishers/image-storage@v1.8.1
 - pkg:composer/68publishers/image-storage@v1.8.2
+- pkg:composer/68publishers/image-storage@v2.0.0
