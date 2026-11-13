@@ -1,3 +1,5 @@
 - pkg:composer/act-training/laravel-permissions-manager@v1.0.0
 - pkg:composer/act-training/laravel-permissions-manager@v1.0.1
 - pkg:composer/act-training/laravel-permissions-manager@v1.0.2
+- pkg:composer/act-training/laravel-permissions-manager@v1.1.0
+- pkg:composer/act-training/laravel-permissions-manager@v1.2.0
