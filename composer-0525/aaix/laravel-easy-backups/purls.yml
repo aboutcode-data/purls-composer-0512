@@ -21,3 +21,6 @@
 - pkg:composer/aaix/laravel-easy-backups@v1.2.1
 - pkg:composer/aaix/laravel-easy-backups@v1.3.0
 - pkg:composer/aaix/laravel-easy-backups@v1.3.1
+- pkg:composer/aaix/laravel-easy-backups@v1.3.2
+- pkg:composer/aaix/laravel-easy-backups@v1.4.0
+- pkg:composer/aaix/laravel-easy-backups@v1.4.1
