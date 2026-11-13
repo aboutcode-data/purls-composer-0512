@@ -1,1 +1,2 @@
 - pkg:composer/adamcmoore/laravel-newsletter-emailoctopus@0.1
+- pkg:composer/adamcmoore/laravel-newsletter-emailoctopus@1.1
