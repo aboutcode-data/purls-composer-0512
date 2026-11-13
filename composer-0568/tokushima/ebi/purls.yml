@@ -12,6 +12,8 @@
 - pkg:composer/tokushima/ebi@5.0.12
 - pkg:composer/tokushima/ebi@5.0.13
 - pkg:composer/tokushima/ebi@5.0.14
+- pkg:composer/tokushima/ebi@5.0.15
+- pkg:composer/tokushima/ebi@5.0.16
 - pkg:composer/tokushima/ebi@5.0.7
 - pkg:composer/tokushima/ebi@5.0.8
 - pkg:composer/tokushima/ebi@5.0.9
