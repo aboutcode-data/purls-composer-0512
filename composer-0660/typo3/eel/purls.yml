@@ -503,6 +503,7 @@
 - pkg:composer/typo3/eel@8.3.2
 - pkg:composer/typo3/eel@8.3.20
 - pkg:composer/typo3/eel@8.3.21
+- pkg:composer/typo3/eel@8.3.22
 - pkg:composer/typo3/eel@8.3.3
 - pkg:composer/typo3/eel@8.3.4
 - pkg:composer/typo3/eel@8.3.5
