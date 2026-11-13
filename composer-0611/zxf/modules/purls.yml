@@ -1,3 +1,4 @@
+- pkg:composer/zxf/modules@1.13.9
 - pkg:composer/zxf/modules@v0.0.1
 - pkg:composer/zxf/modules@v0.0.2
 - pkg:composer/zxf/modules@v1.0.0
@@ -15,8 +16,11 @@
 - pkg:composer/zxf/modules@v1.1.2
 - pkg:composer/zxf/modules@v1.13.0
 - pkg:composer/zxf/modules@v1.13.1
+- pkg:composer/zxf/modules@v1.13.13
+- pkg:composer/zxf/modules@v1.13.14
 - pkg:composer/zxf/modules@v1.13.2
 - pkg:composer/zxf/modules@v1.13.3
 - pkg:composer/zxf/modules@v1.13.4
 - pkg:composer/zxf/modules@v1.13.6
 - pkg:composer/zxf/modules@v1.13.7
+- pkg:composer/zxf/modules@v1.13.8
