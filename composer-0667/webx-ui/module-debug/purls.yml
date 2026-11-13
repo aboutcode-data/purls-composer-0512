@@ -17,3 +17,4 @@
 - pkg:composer/webx-ui/module-debug@v0.93.0
 - pkg:composer/webx-ui/module-debug@v0.94.0
 - pkg:composer/webx-ui/module-debug@v0.95.0
+- pkg:composer/webx-ui/module-debug@v0.95.1
