@@ -75,6 +75,10 @@
 - pkg:composer/zumba/prismic-sdk@5.1.0
 - pkg:composer/zumba/prismic-sdk@5.1.1
 - pkg:composer/zumba/prismic-sdk@5.1.2
+- pkg:composer/zumba/prismic-sdk@5.4.1
 - pkg:composer/zumba/prismic-sdk@6.0.0
 - pkg:composer/zumba/prismic-sdk@6.0.1
+- pkg:composer/zumba/prismic-sdk@6.0.3
+- pkg:composer/zumba/prismic-sdk@6.1.0
 - pkg:composer/zumba/prismic-sdk@v4.0.0
+- pkg:composer/zumba/prismic-sdk@v6.0.2
