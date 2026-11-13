@@ -2,3 +2,6 @@
 - pkg:composer/zhylon/zhylon-auth@v1.1
 - pkg:composer/zhylon/zhylon-auth@v2.0
 - pkg:composer/zhylon/zhylon-auth@v2.1
+- pkg:composer/zhylon/zhylon-auth@v2.2
+- pkg:composer/zhylon/zhylon-auth@v3.0
+- pkg:composer/zhylon/zhylon-auth@v3.0.1
