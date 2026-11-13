@@ -1,2 +1,4 @@
 - pkg:composer/zounar/php-proxy@1.0.0
 - pkg:composer/zounar/php-proxy@1.1.0
+- pkg:composer/zounar/php-proxy@2.0.0
+- pkg:composer/zounar/php-proxy@2.1.0
