@@ -8,3 +8,4 @@
 - pkg:composer/artryazanov/laravel-error-mailer@v1.0.7
 - pkg:composer/artryazanov/laravel-error-mailer@v1.1.0
 - pkg:composer/artryazanov/laravel-error-mailer@v1.1.1
+- pkg:composer/artryazanov/laravel-error-mailer@v1.2.0
