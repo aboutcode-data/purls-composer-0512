@@ -40,3 +40,4 @@
 - pkg:composer/anomaly/dashboard-module@v2.2.8
 - pkg:composer/anomaly/dashboard-module@v2.2.9
 - pkg:composer/anomaly/dashboard-module@v2.3.0
+- pkg:composer/anomaly/dashboard-module@v2.3.1
