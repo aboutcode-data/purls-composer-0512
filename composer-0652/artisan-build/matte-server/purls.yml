@@ -3,3 +3,4 @@
 - pkg:composer/artisan-build/matte-server@v2.0.0
 - pkg:composer/artisan-build/matte-server@v2.1.0
 - pkg:composer/artisan-build/matte-server@v2.2.0
+- pkg:composer/artisan-build/matte-server@v2.3.0
