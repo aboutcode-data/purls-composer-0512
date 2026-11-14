@@ -10,3 +10,4 @@
 - pkg:composer/asseco-voice/laravel-jwt-authentication@v2.1.0
 - pkg:composer/asseco-voice/laravel-jwt-authentication@v3.0.0
 - pkg:composer/asseco-voice/laravel-jwt-authentication@v3.0.1
+- pkg:composer/asseco-voice/laravel-jwt-authentication@v3.1.0
