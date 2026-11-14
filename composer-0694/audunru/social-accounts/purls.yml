@@ -8,6 +8,13 @@
 - pkg:composer/audunru/social-accounts@v0.5.1
 - pkg:composer/audunru/social-accounts@v0.5.2
 - pkg:composer/audunru/social-accounts@v1.0.0
+- pkg:composer/audunru/social-accounts@v10.0.0
+- pkg:composer/audunru/social-accounts@v10.1.0
+- pkg:composer/audunru/social-accounts@v10.2.0
+- pkg:composer/audunru/social-accounts@v11.0.0
+- pkg:composer/audunru/social-accounts@v11.1.0
+- pkg:composer/audunru/social-accounts@v11.1.1
+- pkg:composer/audunru/social-accounts@v11.1.2
 - pkg:composer/audunru/social-accounts@v2.0.0
 - pkg:composer/audunru/social-accounts@v3.0.0
 - pkg:composer/audunru/social-accounts@v3.1.0
@@ -25,3 +32,9 @@
 - pkg:composer/audunru/social-accounts@v8.1.2
 - pkg:composer/audunru/social-accounts@v9.0.0
 - pkg:composer/audunru/social-accounts@v9.1.0
+- pkg:composer/audunru/social-accounts@v9.1.1
+- pkg:composer/audunru/social-accounts@v9.1.2
+- pkg:composer/audunru/social-accounts@v9.1.3
+- pkg:composer/audunru/social-accounts@v9.1.4
+- pkg:composer/audunru/social-accounts@v9.2.0
+- pkg:composer/audunru/social-accounts@v9.2.1
