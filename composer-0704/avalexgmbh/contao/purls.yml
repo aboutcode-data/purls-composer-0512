@@ -4,3 +4,5 @@
 - pkg:composer/avalexgmbh/contao@v2.0.1
 - pkg:composer/avalexgmbh/contao@v2.1.0
 - pkg:composer/avalexgmbh/contao@v2.1.1
+- pkg:composer/avalexgmbh/contao@v3.0.0
+- pkg:composer/avalexgmbh/contao@v3.0.1
