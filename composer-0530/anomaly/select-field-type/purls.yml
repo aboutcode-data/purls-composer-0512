@@ -113,3 +113,4 @@
 - pkg:composer/anomaly/select-field-type@v2.3.8
 - pkg:composer/anomaly/select-field-type@v2.3.9
 - pkg:composer/anomaly/select-field-type@v2.4.0
+- pkg:composer/anomaly/select-field-type@v2.4.1
