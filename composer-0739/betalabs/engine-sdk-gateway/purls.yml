@@ -16,6 +16,7 @@
 - pkg:composer/betalabs/engine-sdk-gateway@3.0.1
 - pkg:composer/betalabs/engine-sdk-gateway@3.0.2
 - pkg:composer/betalabs/engine-sdk-gateway@4.0.0
+- pkg:composer/betalabs/engine-sdk-gateway@4.1.0
 - pkg:composer/betalabs/engine-sdk-gateway@5.0.0
 - pkg:composer/betalabs/engine-sdk-gateway@5.0.1
 - pkg:composer/betalabs/engine-sdk-gateway@5.0.2
