@@ -20,3 +20,4 @@
 - pkg:composer/brainbits/phpcs-standard@7.0.2
 - pkg:composer/brainbits/phpcs-standard@8.0.0
 - pkg:composer/brainbits/phpcs-standard@8.0.1
+- pkg:composer/brainbits/phpcs-standard@8.0.2
