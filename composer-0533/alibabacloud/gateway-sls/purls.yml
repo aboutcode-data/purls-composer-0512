@@ -14,3 +14,4 @@
 - pkg:composer/alibabacloud/gateway-sls@0.2.0
 - pkg:composer/alibabacloud/gateway-sls@0.3.0
 - pkg:composer/alibabacloud/gateway-sls@0.3.1
+- pkg:composer/alibabacloud/gateway-sls@0.3.2
