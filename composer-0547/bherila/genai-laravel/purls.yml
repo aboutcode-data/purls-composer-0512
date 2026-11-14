@@ -8,3 +8,4 @@
 - pkg:composer/bherila/genai-laravel@v0.2.6
 - pkg:composer/bherila/genai-laravel@v0.2.7
 - pkg:composer/bherila/genai-laravel@v0.3.0
+- pkg:composer/bherila/genai-laravel@v0.3.1
