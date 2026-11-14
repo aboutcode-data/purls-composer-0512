@@ -4,3 +4,5 @@
 - pkg:composer/baxtian/wp_jwt@0.4.2
 - pkg:composer/baxtian/wp_jwt@0.4.5
 - pkg:composer/baxtian/wp_jwt@0.4.6
+- pkg:composer/baxtian/wp_jwt@0.4.7
+- pkg:composer/baxtian/wp_jwt@0.4.8
