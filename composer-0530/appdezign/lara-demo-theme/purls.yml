@@ -69,7 +69,15 @@
 - pkg:composer/appdezign/lara-demo-theme@8.5.9
 - pkg:composer/appdezign/lara-demo-theme@8.7.0
 - pkg:composer/appdezign/lara-demo-theme@8.7.1
+- pkg:composer/appdezign/lara-demo-theme@8.7.10
+- pkg:composer/appdezign/lara-demo-theme@8.7.11
+- pkg:composer/appdezign/lara-demo-theme@8.7.12
+- pkg:composer/appdezign/lara-demo-theme@8.7.14
 - pkg:composer/appdezign/lara-demo-theme@8.7.2
 - pkg:composer/appdezign/lara-demo-theme@8.7.3
 - pkg:composer/appdezign/lara-demo-theme@8.7.4
 - pkg:composer/appdezign/lara-demo-theme@8.7.5
+- pkg:composer/appdezign/lara-demo-theme@8.7.6
+- pkg:composer/appdezign/lara-demo-theme@8.7.7
+- pkg:composer/appdezign/lara-demo-theme@8.7.8
+- pkg:composer/appdezign/lara-demo-theme@8.7.9
