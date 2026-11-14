@@ -104,7 +104,12 @@
 - pkg:composer/automattic/jetpack-waf@v0.29.0
 - pkg:composer/automattic/jetpack-waf@v0.29.1
 - pkg:composer/automattic/jetpack-waf@v0.29.2
+- pkg:composer/automattic/jetpack-waf@v0.29.3
 - pkg:composer/automattic/jetpack-waf@v0.3.0
+- pkg:composer/automattic/jetpack-waf@v0.30.0
+- pkg:composer/automattic/jetpack-waf@v0.30.1
+- pkg:composer/automattic/jetpack-waf@v0.31.0
+- pkg:composer/automattic/jetpack-waf@v0.32.0
 - pkg:composer/automattic/jetpack-waf@v0.4.0
 - pkg:composer/automattic/jetpack-waf@v0.5.0
 - pkg:composer/automattic/jetpack-waf@v0.5.1

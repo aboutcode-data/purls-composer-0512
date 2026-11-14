@@ -1,6 +1,12 @@
 - pkg:composer/automattic/jetpack-premium-analytics@v0.1.0
 - pkg:composer/automattic/jetpack-premium-analytics@v0.10.0
 - pkg:composer/automattic/jetpack-premium-analytics@v0.11.0
+- pkg:composer/automattic/jetpack-premium-analytics@v0.12.0
+- pkg:composer/automattic/jetpack-premium-analytics@v0.13.0
+- pkg:composer/automattic/jetpack-premium-analytics@v0.14.0
+- pkg:composer/automattic/jetpack-premium-analytics@v0.15.0
+- pkg:composer/automattic/jetpack-premium-analytics@v0.16.0
+- pkg:composer/automattic/jetpack-premium-analytics@v0.17.0
 - pkg:composer/automattic/jetpack-premium-analytics@v0.2.0
 - pkg:composer/automattic/jetpack-premium-analytics@v0.3.0
 - pkg:composer/automattic/jetpack-premium-analytics@v0.4.0
