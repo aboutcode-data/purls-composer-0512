@@ -21,3 +21,5 @@
 - pkg:composer/afaya/edge-tts@1.5.0
 - pkg:composer/afaya/edge-tts@1.6.0
 - pkg:composer/afaya/edge-tts@1.7.0
+- pkg:composer/afaya/edge-tts@1.8.3
+- pkg:composer/afaya/edge-tts@1.9.1
