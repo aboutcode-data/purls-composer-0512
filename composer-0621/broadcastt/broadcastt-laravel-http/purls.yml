@@ -11,3 +11,4 @@
 - pkg:composer/broadcastt/broadcastt-laravel-http@v0.3.4
 - pkg:composer/broadcastt/broadcastt-laravel-http@v0.3.5
 - pkg:composer/broadcastt/broadcastt-laravel-http@v0.3.6
+- pkg:composer/broadcastt/broadcastt-laravel-http@v0.3.7
