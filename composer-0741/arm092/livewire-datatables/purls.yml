@@ -22,6 +22,7 @@
 - pkg:composer/arm092/livewire-datatables@2.2.6
 - pkg:composer/arm092/livewire-datatables@2.3.0
 - pkg:composer/arm092/livewire-datatables@2.3.1
+- pkg:composer/arm092/livewire-datatables@2.3.10
 - pkg:composer/arm092/livewire-datatables@2.3.2
 - pkg:composer/arm092/livewire-datatables@2.3.3
 - pkg:composer/arm092/livewire-datatables@2.3.4
@@ -40,3 +41,8 @@
 - pkg:composer/arm092/livewire-datatables@3.2.5
 - pkg:composer/arm092/livewire-datatables@3.2.6
 - pkg:composer/arm092/livewire-datatables@3.2.7
+- pkg:composer/arm092/livewire-datatables@3.2.8
+- pkg:composer/arm092/livewire-datatables@3.2.9
+- pkg:composer/arm092/livewire-datatables@4.0.0
+- pkg:composer/arm092/livewire-datatables@4.0.1
+- pkg:composer/arm092/livewire-datatables@4.0.2
