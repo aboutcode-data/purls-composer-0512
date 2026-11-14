@@ -67,6 +67,7 @@
 - pkg:composer/bakame/csv@9.27.0
 - pkg:composer/bakame/csv@9.27.1
 - pkg:composer/bakame/csv@9.28.0
+- pkg:composer/bakame/csv@9.29.0
 - pkg:composer/bakame/csv@9.3.0
 - pkg:composer/bakame/csv@9.4.0
 - pkg:composer/bakame/csv@9.4.1
