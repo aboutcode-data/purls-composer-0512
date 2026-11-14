@@ -387,8 +387,12 @@
 - pkg:composer/axolotl-pm/pocketmine-mp@5.48.1
 - pkg:composer/axolotl-pm/pocketmine-mp@5.49.0
 - pkg:composer/axolotl-pm/pocketmine-mp@5.49.1
+- pkg:composer/axolotl-pm/pocketmine-mp@5.49.2
 - pkg:composer/axolotl-pm/pocketmine-mp@5.5.0
 - pkg:composer/axolotl-pm/pocketmine-mp@5.5.0-BETA1
+- pkg:composer/axolotl-pm/pocketmine-mp@5.50.0
+- pkg:composer/axolotl-pm/pocketmine-mp@5.51.0
+- pkg:composer/axolotl-pm/pocketmine-mp@5.51.1
 - pkg:composer/axolotl-pm/pocketmine-mp@5.6.0
 - pkg:composer/axolotl-pm/pocketmine-mp@5.6.1
 - pkg:composer/axolotl-pm/pocketmine-mp@5.7.0
