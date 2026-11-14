@@ -18,3 +18,5 @@
 - pkg:composer/berlioz/core@v3.2.0
 - pkg:composer/berlioz/core@v3.2.1
 - pkg:composer/berlioz/core@v3.3.0
+- pkg:composer/berlioz/core@v3.3.1
+- pkg:composer/berlioz/core@v3.3.2
