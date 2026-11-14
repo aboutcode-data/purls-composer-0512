@@ -16,3 +16,5 @@
 - pkg:composer/aternos/modrinth-api@v3.2.1
 - pkg:composer/aternos/modrinth-api@v4.0.0
 - pkg:composer/aternos/modrinth-api@v4.0.0-beta1
+- pkg:composer/aternos/modrinth-api@v4.1.0
+- pkg:composer/aternos/modrinth-api@v5.0.0

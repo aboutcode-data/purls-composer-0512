@@ -15,3 +15,5 @@
 - pkg:composer/aternos/curseforge-api@v2.0.0
 - pkg:composer/aternos/curseforge-api@v2.0.1
 - pkg:composer/aternos/curseforge-api@v3.0.0
+- pkg:composer/aternos/curseforge-api@v3.2.0
+- pkg:composer/aternos/curseforge-api@v4.0.0
