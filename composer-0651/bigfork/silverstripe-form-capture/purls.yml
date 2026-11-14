@@ -25,3 +25,4 @@
 - pkg:composer/bigfork/silverstripe-form-capture@4.0.0
 - pkg:composer/bigfork/silverstripe-form-capture@4.0.1
 - pkg:composer/bigfork/silverstripe-form-capture@4.0.2
+- pkg:composer/bigfork/silverstripe-form-capture@5.0.0
