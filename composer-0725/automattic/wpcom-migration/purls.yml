@@ -2,3 +2,9 @@
 - pkg:composer/automattic/wpcom-migration@1.0.0
 - pkg:composer/automattic/wpcom-migration@1.0.1
 - pkg:composer/automattic/wpcom-migration@2.0.0
+- pkg:composer/automattic/wpcom-migration@6.73
+- pkg:composer/automattic/wpcom-migration@6.74
+- pkg:composer/automattic/wpcom-migration@6.75
+- pkg:composer/automattic/wpcom-migration@6.76
+- pkg:composer/automattic/wpcom-migration@6.77
+- pkg:composer/automattic/wpcom-migration@6.78
