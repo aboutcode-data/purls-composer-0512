@@ -46,3 +46,5 @@
 - pkg:composer/alperenersoy/filament-export@v3.0.8
 - pkg:composer/alperenersoy/filament-export@v3.0.9
 - pkg:composer/alperenersoy/filament-export@v4.0.1
+- pkg:composer/alperenersoy/filament-export@v4.0.2
+- pkg:composer/alperenersoy/filament-export@v5.0.1
