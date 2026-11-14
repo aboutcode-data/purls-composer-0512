@@ -43,3 +43,5 @@
 - pkg:composer/babdev/pagerfanta-bundle@v4.4.0
 - pkg:composer/babdev/pagerfanta-bundle@v4.5.0
 - pkg:composer/babdev/pagerfanta-bundle@v4.6.0
+- pkg:composer/babdev/pagerfanta-bundle@v4.7.0
+- pkg:composer/babdev/pagerfanta-bundle@v4.8.0
