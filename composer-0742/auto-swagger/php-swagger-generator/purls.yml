@@ -8,6 +8,7 @@
 - pkg:composer/auto-swagger/php-swagger-generator@13.3
 - pkg:composer/auto-swagger/php-swagger-generator@13.4
 - pkg:composer/auto-swagger/php-swagger-generator@13.5
+- pkg:composer/auto-swagger/php-swagger-generator@14.0.0
 - pkg:composer/auto-swagger/php-swagger-generator@2.0
 - pkg:composer/auto-swagger/php-swagger-generator@3.0
 - pkg:composer/auto-swagger/php-swagger-generator@4.0
