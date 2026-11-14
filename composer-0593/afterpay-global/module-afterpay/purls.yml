@@ -28,6 +28,7 @@
 - pkg:composer/afterpay-global/module-afterpay@4.3.4
 - pkg:composer/afterpay-global/module-afterpay@4.3.5
 - pkg:composer/afterpay-global/module-afterpay@4.3.6
+- pkg:composer/afterpay-global/module-afterpay@4.3.7
 - pkg:composer/afterpay-global/module-afterpay@5.0.0
 - pkg:composer/afterpay-global/module-afterpay@5.0.1
 - pkg:composer/afterpay-global/module-afterpay@5.0.3
@@ -45,6 +46,7 @@
 - pkg:composer/afterpay-global/module-afterpay@5.4.4
 - pkg:composer/afterpay-global/module-afterpay@5.4.5
 - pkg:composer/afterpay-global/module-afterpay@5.4.6
+- pkg:composer/afterpay-global/module-afterpay@5.4.7
 - pkg:composer/afterpay-global/module-afterpay@v3.1.0
 - pkg:composer/afterpay-global/module-afterpay@v5.0.4-beta.1
 - pkg:composer/afterpay-global/module-afterpay@v5.1.0
