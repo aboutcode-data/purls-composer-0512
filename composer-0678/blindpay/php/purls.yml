@@ -21,3 +21,6 @@
 - pkg:composer/blindpay/php@v3.3.0
 - pkg:composer/blindpay/php@v3.4.0
 - pkg:composer/blindpay/php@v3.4.1
+- pkg:composer/blindpay/php@v4.0.0
+- pkg:composer/blindpay/php@v4.1.0
+- pkg:composer/blindpay/php@v4.2.0
