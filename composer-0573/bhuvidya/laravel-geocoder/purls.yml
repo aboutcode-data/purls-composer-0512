@@ -5,6 +5,7 @@
 - pkg:composer/bhuvidya/laravel-geocoder@v10.0
 - pkg:composer/bhuvidya/laravel-geocoder@v11.0
 - pkg:composer/bhuvidya/laravel-geocoder@v12.0
+- pkg:composer/bhuvidya/laravel-geocoder@v13.0
 - pkg:composer/bhuvidya/laravel-geocoder@v2.0.0
 - pkg:composer/bhuvidya/laravel-geocoder@v3.0.0
 - pkg:composer/bhuvidya/laravel-geocoder@v3.0.1
