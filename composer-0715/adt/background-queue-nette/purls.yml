@@ -41,3 +41,4 @@
 - pkg:composer/adt/background-queue-nette@v3.1
 - pkg:composer/adt/background-queue-nette@v3.2
 - pkg:composer/adt/background-queue-nette@v3.3
+- pkg:composer/adt/background-queue-nette@v3.4
