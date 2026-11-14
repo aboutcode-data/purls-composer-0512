@@ -14,3 +14,4 @@
 - pkg:composer/baspa/laravel-timezones@v1.3.3
 - pkg:composer/baspa/laravel-timezones@v1.4.0
 - pkg:composer/baspa/laravel-timezones@v1.5.0
+- pkg:composer/baspa/laravel-timezones@v2.0.0
