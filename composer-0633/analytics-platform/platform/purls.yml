@@ -1,6 +1,8 @@
 - pkg:composer/analytics-platform/platform@v0.2.1
 - pkg:composer/analytics-platform/platform@v0.3.0
 - pkg:composer/analytics-platform/platform@v0.3.1
+- pkg:composer/analytics-platform/platform@v0.3.10
+- pkg:composer/analytics-platform/platform@v0.3.11
 - pkg:composer/analytics-platform/platform@v0.3.2
 - pkg:composer/analytics-platform/platform@v0.3.3
 - pkg:composer/analytics-platform/platform@v0.3.4
