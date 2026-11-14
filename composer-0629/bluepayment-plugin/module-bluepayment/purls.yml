@@ -40,3 +40,17 @@
 - pkg:composer/bluepayment-plugin/module-bluepayment@2.32.1
 - pkg:composer/bluepayment-plugin/module-bluepayment@2.33.0
 - pkg:composer/bluepayment-plugin/module-bluepayment@2.33.1
+- pkg:composer/bluepayment-plugin/module-bluepayment@v2.22.11-p1
+- pkg:composer/bluepayment-plugin/module-bluepayment@v2.23.0-p1
+- pkg:composer/bluepayment-plugin/module-bluepayment@v2.24.2-p1
+- pkg:composer/bluepayment-plugin/module-bluepayment@v2.25.0-p1
+- pkg:composer/bluepayment-plugin/module-bluepayment@v2.26.2-p1
+- pkg:composer/bluepayment-plugin/module-bluepayment@v2.27.1-p1
+- pkg:composer/bluepayment-plugin/module-bluepayment@v2.28.0-p1
+- pkg:composer/bluepayment-plugin/module-bluepayment@v2.29.0-p1
+- pkg:composer/bluepayment-plugin/module-bluepayment@v2.30.0-p1
+- pkg:composer/bluepayment-plugin/module-bluepayment@v2.31.2-p1
+- pkg:composer/bluepayment-plugin/module-bluepayment@v2.32.1-p1
+- pkg:composer/bluepayment-plugin/module-bluepayment@v2.33.0-p1
+- pkg:composer/bluepayment-plugin/module-bluepayment@v2.33.1-p1
+- pkg:composer/bluepayment-plugin/module-bluepayment@v2.34.6
