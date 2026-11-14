@@ -13,6 +13,7 @@
 - pkg:composer/billowapp/laravel-helpers@3.0.2
 - pkg:composer/billowapp/laravel-helpers@3.1.0
 - pkg:composer/billowapp/laravel-helpers@3.1.1
+- pkg:composer/billowapp/laravel-helpers@3.1.10
 - pkg:composer/billowapp/laravel-helpers@3.1.2
 - pkg:composer/billowapp/laravel-helpers@3.1.3
 - pkg:composer/billowapp/laravel-helpers@3.1.4
@@ -61,3 +62,4 @@
 - pkg:composer/billowapp/laravel-helpers@v2.3.5
 - pkg:composer/billowapp/laravel-helpers@v2.3.6
 - pkg:composer/billowapp/laravel-helpers@v2.3.7
+- pkg:composer/billowapp/laravel-helpers@v2.3.8
