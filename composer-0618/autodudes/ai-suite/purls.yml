@@ -41,6 +41,7 @@
 - pkg:composer/autodudes/ai-suite@12.24.0
 - pkg:composer/autodudes/ai-suite@12.24.1
 - pkg:composer/autodudes/ai-suite@12.24.2
+- pkg:composer/autodudes/ai-suite@12.25.0
 - pkg:composer/autodudes/ai-suite@12.3.0
 - pkg:composer/autodudes/ai-suite@12.3.1
 - pkg:composer/autodudes/ai-suite@12.4.0
@@ -77,6 +78,7 @@
 - pkg:composer/autodudes/ai-suite@13.18.0
 - pkg:composer/autodudes/ai-suite@13.18.1
 - pkg:composer/autodudes/ai-suite@13.18.2
+- pkg:composer/autodudes/ai-suite@13.19.0
 - pkg:composer/autodudes/ai-suite@13.2.0
 - pkg:composer/autodudes/ai-suite@13.3.0
 - pkg:composer/autodudes/ai-suite@13.3.1
@@ -104,3 +106,4 @@
 - pkg:composer/autodudes/ai-suite@14.6.0
 - pkg:composer/autodudes/ai-suite@14.6.1
 - pkg:composer/autodudes/ai-suite@14.6.2
+- pkg:composer/autodudes/ai-suite@14.7.0

@@ -215,6 +215,16 @@
 - pkg:composer/automattic/jetpack-assets@v4.4.9
 - pkg:composer/automattic/jetpack-assets@v5.0.0
 - pkg:composer/automattic/jetpack-assets@v5.0.1
+- pkg:composer/automattic/jetpack-assets@v5.0.10
+- pkg:composer/automattic/jetpack-assets@v5.0.11
+- pkg:composer/automattic/jetpack-assets@v5.0.12
+- pkg:composer/automattic/jetpack-assets@v5.0.13
+- pkg:composer/automattic/jetpack-assets@v5.0.14
+- pkg:composer/automattic/jetpack-assets@v5.0.15
+- pkg:composer/automattic/jetpack-assets@v5.0.16
+- pkg:composer/automattic/jetpack-assets@v5.0.17
+- pkg:composer/automattic/jetpack-assets@v5.0.18
+- pkg:composer/automattic/jetpack-assets@v5.0.19
 - pkg:composer/automattic/jetpack-assets@v5.0.2
 - pkg:composer/automattic/jetpack-assets@v5.0.3
 - pkg:composer/automattic/jetpack-assets@v5.0.4
