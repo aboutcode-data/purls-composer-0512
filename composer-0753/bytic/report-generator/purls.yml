@@ -18,6 +18,9 @@
 - pkg:composer/bytic/report-generator@1.0.24
 - pkg:composer/bytic/report-generator@1.0.25
 - pkg:composer/bytic/report-generator@1.0.26
+- pkg:composer/bytic/report-generator@1.0.27
+- pkg:composer/bytic/report-generator@1.0.28
+- pkg:composer/bytic/report-generator@1.0.29
 - pkg:composer/bytic/report-generator@1.0.3
 - pkg:composer/bytic/report-generator@1.0.4
 - pkg:composer/bytic/report-generator@1.0.5
