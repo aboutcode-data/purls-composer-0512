@@ -21,6 +21,11 @@
 - pkg:composer/adt/ai-chat@v1.10.0
 - pkg:composer/adt/ai-chat@v1.11.0
 - pkg:composer/adt/ai-chat@v1.11.1
+- pkg:composer/adt/ai-chat@v1.12.0
+- pkg:composer/adt/ai-chat@v1.13.0
+- pkg:composer/adt/ai-chat@v1.13.1
+- pkg:composer/adt/ai-chat@v1.13.2
+- pkg:composer/adt/ai-chat@v1.13.3
 - pkg:composer/adt/ai-chat@v1.2.0
 - pkg:composer/adt/ai-chat@v1.3.0
 - pkg:composer/adt/ai-chat@v1.4.0
