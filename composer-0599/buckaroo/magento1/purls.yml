@@ -9,6 +9,7 @@
 - pkg:composer/buckaroo/magento1@v5.13.0
 - pkg:composer/buckaroo/magento1@v5.14.0
 - pkg:composer/buckaroo/magento1@v5.15.0
+- pkg:composer/buckaroo/magento1@v5.16.0
 - pkg:composer/buckaroo/magento1@v5.2.0
 - pkg:composer/buckaroo/magento1@v5.2.2
 - pkg:composer/buckaroo/magento1@v5.3.0
