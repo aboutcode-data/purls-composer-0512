@@ -12,3 +12,4 @@
 - pkg:composer/changole/otel-logging@v1.1.0
 - pkg:composer/changole/otel-logging@v1.1.1
 - pkg:composer/changole/otel-logging@v1.1.2
+- pkg:composer/changole/otel-logging@v1.1.3
