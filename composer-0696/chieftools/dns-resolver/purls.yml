@@ -13,3 +13,6 @@
 - pkg:composer/chieftools/dns-resolver@v1.1.3
 - pkg:composer/chieftools/dns-resolver@v1.2.0
 - pkg:composer/chieftools/dns-resolver@v1.3.0
+- pkg:composer/chieftools/dns-resolver@v1.4.0
+- pkg:composer/chieftools/dns-resolver@v1.4.1
+- pkg:composer/chieftools/dns-resolver@v1.5.0
