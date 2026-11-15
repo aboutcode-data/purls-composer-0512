@@ -1,2 +1,4 @@
 - pkg:composer/ceibacore/ceiba-db@v1.0.0
 - pkg:composer/ceibacore/ceiba-db@v1.0.1
+- pkg:composer/ceibacore/ceiba-db@v1.1.0
+- pkg:composer/ceibacore/ceiba-db@v1.2.0

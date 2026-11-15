@@ -15,6 +15,10 @@
 - pkg:composer/ceedcv-maya/shared-profile-laravel@v0.2.0
 - pkg:composer/ceedcv-maya/shared-profile-laravel@v0.20.0
 - pkg:composer/ceedcv-maya/shared-profile-laravel@v0.21.0
+- pkg:composer/ceedcv-maya/shared-profile-laravel@v0.22.0
+- pkg:composer/ceedcv-maya/shared-profile-laravel@v0.22.1
+- pkg:composer/ceedcv-maya/shared-profile-laravel@v0.22.2
+- pkg:composer/ceedcv-maya/shared-profile-laravel@v0.23.0
 - pkg:composer/ceedcv-maya/shared-profile-laravel@v0.3.0
 - pkg:composer/ceedcv-maya/shared-profile-laravel@v0.3.1
 - pkg:composer/ceedcv-maya/shared-profile-laravel@v0.4.0
