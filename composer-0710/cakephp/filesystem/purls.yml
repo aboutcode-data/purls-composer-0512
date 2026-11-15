@@ -271,3 +271,4 @@
 - pkg:composer/cakephp/filesystem@4.6.2
 - pkg:composer/cakephp/filesystem@4.6.3
 - pkg:composer/cakephp/filesystem@4.6.5
+- pkg:composer/cakephp/filesystem@4.6.6
