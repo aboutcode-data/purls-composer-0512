@@ -40,6 +40,8 @@
 - pkg:composer/cachewerk/relay@v0.6.6
 - pkg:composer/cachewerk/relay@v0.6.7
 - pkg:composer/cachewerk/relay@v0.6.8
+- pkg:composer/cachewerk/relay@v0.60.0
+- pkg:composer/cachewerk/relay@v0.61.0
 - pkg:composer/cachewerk/relay@v0.7.0
 - pkg:composer/cachewerk/relay@v0.8.0
 - pkg:composer/cachewerk/relay@v0.8.1
