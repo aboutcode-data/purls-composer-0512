@@ -178,3 +178,8 @@
 - pkg:composer/cecil/theme-docs@3.3.0
 - pkg:composer/cecil/theme-docs@3.3.1
 - pkg:composer/cecil/theme-docs@3.3.2
+- pkg:composer/cecil/theme-docs@4.0.0
+- pkg:composer/cecil/theme-docs@5.0.0
+- pkg:composer/cecil/theme-docs@6.0.0
+- pkg:composer/cecil/theme-docs@6.0.1
+- pkg:composer/cecil/theme-docs@7.0.0

@@ -27,3 +27,6 @@
 - pkg:composer/cecil/theme-netlify@2.1.2
 - pkg:composer/cecil/theme-netlify@2.2.0
 - pkg:composer/cecil/theme-netlify@2.2.1
+- pkg:composer/cecil/theme-netlify@3.0.0
+- pkg:composer/cecil/theme-netlify@3.0.1
+- pkg:composer/cecil/theme-netlify@3.0.2

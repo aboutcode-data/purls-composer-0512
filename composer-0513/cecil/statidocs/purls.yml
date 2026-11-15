@@ -102,3 +102,5 @@
 - pkg:composer/cecil/statidocs@3.3.0
 - pkg:composer/cecil/statidocs@3.3.1
 - pkg:composer/cecil/statidocs@3.3.2
+- pkg:composer/cecil/statidocs@4.0.0
+- pkg:composer/cecil/statidocs@5.0.0
