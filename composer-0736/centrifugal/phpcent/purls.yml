@@ -18,3 +18,4 @@
 - pkg:composer/centrifugal/phpcent@6.0.1
 - pkg:composer/centrifugal/phpcent@6.0.2
 - pkg:composer/centrifugal/phpcent@6.0.3
+- pkg:composer/centrifugal/phpcent@v7.0.0
