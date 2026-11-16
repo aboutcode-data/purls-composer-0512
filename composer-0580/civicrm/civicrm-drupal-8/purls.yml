@@ -332,7 +332,13 @@
 - pkg:composer/civicrm/civicrm-drupal-8@6.18.1
 - pkg:composer/civicrm/civicrm-drupal-8@6.18.2
 - pkg:composer/civicrm/civicrm-drupal-8@6.19.0
+- pkg:composer/civicrm/civicrm-drupal-8@6.19.1
+- pkg:composer/civicrm/civicrm-drupal-8@6.19.2
+- pkg:composer/civicrm/civicrm-drupal-8@6.19.3
+- pkg:composer/civicrm/civicrm-drupal-8@6.19.4
+- pkg:composer/civicrm/civicrm-drupal-8@6.19.5
 - pkg:composer/civicrm/civicrm-drupal-8@6.2.0
+- pkg:composer/civicrm/civicrm-drupal-8@6.20.0
 - pkg:composer/civicrm/civicrm-drupal-8@6.3.0
 - pkg:composer/civicrm/civicrm-drupal-8@6.3.1
 - pkg:composer/civicrm/civicrm-drupal-8@6.3.2
