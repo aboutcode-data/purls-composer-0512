@@ -16,3 +16,4 @@
 - pkg:composer/coding-libs/laravel-mfa@v1.1.4
 - pkg:composer/coding-libs/laravel-mfa@v1.1.5
 - pkg:composer/coding-libs/laravel-mfa@v1.1.6
+- pkg:composer/coding-libs/laravel-mfa@v2.0.0
