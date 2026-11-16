@@ -10,3 +10,5 @@
 - pkg:composer/core45/laravel-cookieconsent@v3.2.2
 - pkg:composer/core45/laravel-cookieconsent@v3.3.0
 - pkg:composer/core45/laravel-cookieconsent@v3.3.1
+- pkg:composer/core45/laravel-cookieconsent@v3.4.0
+- pkg:composer/core45/laravel-cookieconsent@v3.5.0

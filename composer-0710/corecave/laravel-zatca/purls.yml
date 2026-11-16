@@ -2,3 +2,5 @@
 - pkg:composer/corecave/laravel-zatca@v1.0.1
 - pkg:composer/corecave/laravel-zatca@v1.1.0
 - pkg:composer/corecave/laravel-zatca@v1.2.0
+- pkg:composer/corecave/laravel-zatca@v2.0.0
+- pkg:composer/corecave/laravel-zatca@v2.1.0
