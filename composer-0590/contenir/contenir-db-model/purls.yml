@@ -24,3 +24,5 @@
 - pkg:composer/contenir/contenir-db-model@v2.0.0-rc2
 - pkg:composer/contenir/contenir-db-model@v2.0.0-rc3
 - pkg:composer/contenir/contenir-db-model@v2.0.0-rc4
+- pkg:composer/contenir/contenir-db-model@v2.0.0-rc5
+- pkg:composer/contenir/contenir-db-model@v2.0.0-rc6

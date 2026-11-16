@@ -1,2 +1,3 @@
 - pkg:composer/contenir/contenir-page-cache-mezzio@v0.1.0
 - pkg:composer/contenir/contenir-page-cache-mezzio@v2.0.0-RC1
+- pkg:composer/contenir/contenir-page-cache-mezzio@v2.0.0-RC2
