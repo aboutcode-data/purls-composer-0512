@@ -5,6 +5,7 @@
 - pkg:composer/contributte/psr7-http-message@v0.1.4
 - pkg:composer/contributte/psr7-http-message@v0.10.0
 - pkg:composer/contributte/psr7-http-message@v0.11.0
+- pkg:composer/contributte/psr7-http-message@v0.11.1
 - pkg:composer/contributte/psr7-http-message@v0.2
 - pkg:composer/contributte/psr7-http-message@v0.3
 - pkg:composer/contributte/psr7-http-message@v0.3.1
