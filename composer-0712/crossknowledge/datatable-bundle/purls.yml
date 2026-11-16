@@ -15,3 +15,5 @@
 - pkg:composer/crossknowledge/datatable-bundle@4.0.2
 - pkg:composer/crossknowledge/datatable-bundle@4.0.3
 - pkg:composer/crossknowledge/datatable-bundle@4.0.4
+- pkg:composer/crossknowledge/datatable-bundle@4.1.0
+- pkg:composer/crossknowledge/datatable-bundle@4.2.0
