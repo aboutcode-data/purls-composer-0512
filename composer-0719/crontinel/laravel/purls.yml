@@ -15,3 +15,17 @@
 - pkg:composer/crontinel/laravel@v0.7.2
 - pkg:composer/crontinel/laravel@v0.7.3
 - pkg:composer/crontinel/laravel@v0.7.4
+- pkg:composer/crontinel/laravel@v0.8.0
+- pkg:composer/crontinel/laravel@v0.9.0
+- pkg:composer/crontinel/laravel@v0.9.1
+- pkg:composer/crontinel/laravel@v0.9.10
+- pkg:composer/crontinel/laravel@v0.9.11
+- pkg:composer/crontinel/laravel@v0.9.12
+- pkg:composer/crontinel/laravel@v0.9.2
+- pkg:composer/crontinel/laravel@v0.9.3
+- pkg:composer/crontinel/laravel@v0.9.4
+- pkg:composer/crontinel/laravel@v0.9.5
+- pkg:composer/crontinel/laravel@v0.9.6
+- pkg:composer/crontinel/laravel@v0.9.7
+- pkg:composer/crontinel/laravel@v0.9.8
+- pkg:composer/crontinel/laravel@v0.9.9

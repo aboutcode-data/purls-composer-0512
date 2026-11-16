@@ -1,1 +1,4 @@
 - pkg:composer/cronfig/mautic-cronfig@1.0
+- pkg:composer/cronfig/mautic-cronfig@2.1.0
+- pkg:composer/cronfig/mautic-cronfig@3.0.0
+- pkg:composer/cronfig/mautic-cronfig@4.0.0
