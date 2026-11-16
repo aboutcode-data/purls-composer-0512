@@ -152,7 +152,13 @@
 - pkg:composer/condoedge/finance@v0.1.212
 - pkg:composer/condoedge/finance@v0.1.213
 - pkg:composer/condoedge/finance@v0.1.214
+- pkg:composer/condoedge/finance@v0.1.217
+- pkg:composer/condoedge/finance@v0.1.218
+- pkg:composer/condoedge/finance@v0.1.219
 - pkg:composer/condoedge/finance@v0.1.22
+- pkg:composer/condoedge/finance@v0.1.220
+- pkg:composer/condoedge/finance@v0.1.221
+- pkg:composer/condoedge/finance@v0.1.222
 - pkg:composer/condoedge/finance@v0.1.23
 - pkg:composer/condoedge/finance@v0.1.24
 - pkg:composer/condoedge/finance@v0.1.26
