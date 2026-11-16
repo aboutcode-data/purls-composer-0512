@@ -21,3 +21,4 @@
 - pkg:composer/copyleaks/php-plagiarism-checker@v5.1.0
 - pkg:composer/copyleaks/php-plagiarism-checker@v5.1.1
 - pkg:composer/copyleaks/php-plagiarism-checker@v5.2.0
+- pkg:composer/copyleaks/php-plagiarism-checker@v5.3.0
