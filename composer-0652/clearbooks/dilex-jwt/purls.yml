@@ -9,3 +9,4 @@
 - pkg:composer/clearbooks/dilex-jwt@3.0.0-alpha.1
 - pkg:composer/clearbooks/dilex-jwt@3.1.0-alpha
 - pkg:composer/clearbooks/dilex-jwt@4.0.0-alpha
+- pkg:composer/clearbooks/dilex-jwt@4.0.1-alpha
