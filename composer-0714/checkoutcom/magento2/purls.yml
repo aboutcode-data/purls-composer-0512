@@ -118,3 +118,4 @@
 - pkg:composer/checkoutcom/magento2@7.5.0
 - pkg:composer/checkoutcom/magento2@7.6.0
 - pkg:composer/checkoutcom/magento2@7.6.1
+- pkg:composer/checkoutcom/magento2@7.6.3
