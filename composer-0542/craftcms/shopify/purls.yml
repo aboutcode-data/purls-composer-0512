@@ -57,6 +57,10 @@
 - pkg:composer/craftcms/shopify@7.1.4
 - pkg:composer/craftcms/shopify@7.2.0
 - pkg:composer/craftcms/shopify@7.3.0
+- pkg:composer/craftcms/shopify@7.3.1
+- pkg:composer/craftcms/shopify@7.4.0
 - pkg:composer/craftcms/shopify@8.0.0
 - pkg:composer/craftcms/shopify@8.1.0
 - pkg:composer/craftcms/shopify@8.2.0
+- pkg:composer/craftcms/shopify@8.2.1
+- pkg:composer/craftcms/shopify@8.3.0
