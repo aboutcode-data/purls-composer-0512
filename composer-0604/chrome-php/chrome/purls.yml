@@ -35,6 +35,7 @@
 - pkg:composer/chrome-php/chrome@v1.15.1
 - pkg:composer/chrome-php/chrome@v1.16.0
 - pkg:composer/chrome-php/chrome@v1.16.1
+- pkg:composer/chrome-php/chrome@v1.16.2
 - pkg:composer/chrome-php/chrome@v1.2.0
 - pkg:composer/chrome-php/chrome@v1.2.1
 - pkg:composer/chrome-php/chrome@v1.3.0

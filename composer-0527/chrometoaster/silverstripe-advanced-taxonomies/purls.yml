@@ -23,3 +23,6 @@
 - pkg:composer/chrometoaster/silverstripe-advanced-taxonomies@4.0.0-alpha7
 - pkg:composer/chrometoaster/silverstripe-advanced-taxonomies@4.0.0-alpha8
 - pkg:composer/chrometoaster/silverstripe-advanced-taxonomies@4.0.0-alpha9
+- pkg:composer/chrometoaster/silverstripe-advanced-taxonomies@5.0.0
+- pkg:composer/chrometoaster/silverstripe-advanced-taxonomies@6.0.0
+- pkg:composer/chrometoaster/silverstripe-advanced-taxonomies@6.0.1
