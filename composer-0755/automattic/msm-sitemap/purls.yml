@@ -14,3 +14,4 @@
 - pkg:composer/automattic/msm-sitemap@1.5.4
 - pkg:composer/automattic/msm-sitemap@1.5.5
 - pkg:composer/automattic/msm-sitemap@1.5.6
+- pkg:composer/automattic/msm-sitemap@1.6.0
