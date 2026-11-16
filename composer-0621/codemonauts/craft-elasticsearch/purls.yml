@@ -3,4 +3,6 @@
 - pkg:composer/codemonauts/craft-elasticsearch@1.2.0
 - pkg:composer/codemonauts/craft-elasticsearch@2.0.0
 - pkg:composer/codemonauts/craft-elasticsearch@2.1.0
+- pkg:composer/codemonauts/craft-elasticsearch@2.2.0
 - pkg:composer/codemonauts/craft-elasticsearch@3.0.0
+- pkg:composer/codemonauts/craft-elasticsearch@3.1.0
