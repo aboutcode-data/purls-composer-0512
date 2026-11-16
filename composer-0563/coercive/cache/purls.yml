@@ -10,3 +10,4 @@
 - pkg:composer/coercive/cache@0.0.8
 - pkg:composer/coercive/cache@0.0.9
 - pkg:composer/coercive/cache@0.1
+- pkg:composer/coercive/cache@0.2.0
