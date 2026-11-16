@@ -10,3 +10,5 @@
 - pkg:composer/contextualcode/ezplatform-content-variables@v3.2.1
 - pkg:composer/contextualcode/ezplatform-content-variables@v3.2.2
 - pkg:composer/contextualcode/ezplatform-content-variables@v5.0.0
+- pkg:composer/contextualcode/ezplatform-content-variables@v6.0.0
+- pkg:composer/contextualcode/ezplatform-content-variables@v6.0.1
