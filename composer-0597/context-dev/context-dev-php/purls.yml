@@ -58,6 +58,7 @@
 - pkg:composer/context-dev/context-dev-php@v2.5.0
 - pkg:composer/context-dev/context-dev-php@v2.50.0
 - pkg:composer/context-dev/context-dev-php@v2.51.0
+- pkg:composer/context-dev/context-dev-php@v2.52.0
 - pkg:composer/context-dev/context-dev-php@v2.6.0
 - pkg:composer/context-dev/context-dev-php@v2.7.0
 - pkg:composer/context-dev/context-dev-php@v2.8.0
