@@ -31,6 +31,8 @@
 - pkg:composer/cipi/api@1.36.0
 - pkg:composer/cipi/api@1.36.1
 - pkg:composer/cipi/api@1.37.0
+- pkg:composer/cipi/api@1.39.0
+- pkg:composer/cipi/api@1.39.1
 - pkg:composer/cipi/api@1.5
 - pkg:composer/cipi/api@1.5.1
 - pkg:composer/cipi/api@1.5.2
