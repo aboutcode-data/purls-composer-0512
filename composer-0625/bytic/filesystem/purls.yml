@@ -28,3 +28,5 @@
 - pkg:composer/bytic/filesystem@1.0.9
 - pkg:composer/bytic/filesystem@2.0.0
 - pkg:composer/bytic/filesystem@2.0.1
+- pkg:composer/bytic/filesystem@2.0.2
+- pkg:composer/bytic/filesystem@2.0.3
