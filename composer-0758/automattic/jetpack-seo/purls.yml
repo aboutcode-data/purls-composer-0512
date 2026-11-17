@@ -5,6 +5,7 @@
 - pkg:composer/automattic/jetpack-seo@v0.10.2
 - pkg:composer/automattic/jetpack-seo@v0.10.3
 - pkg:composer/automattic/jetpack-seo@v0.11.0
+- pkg:composer/automattic/jetpack-seo@v0.12.0
 - pkg:composer/automattic/jetpack-seo@v0.2.0
 - pkg:composer/automattic/jetpack-seo@v0.3.0
 - pkg:composer/automattic/jetpack-seo@v0.3.1
