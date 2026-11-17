@@ -10,3 +10,4 @@
 - pkg:composer/comfino/php-api-client@3.4.0
 - pkg:composer/comfino/php-api-client@3.5.0
 - pkg:composer/comfino/php-api-client@4.0.0
+- pkg:composer/comfino/php-api-client@4.1.0
