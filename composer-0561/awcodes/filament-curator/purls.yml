@@ -283,3 +283,5 @@
 - pkg:composer/awcodes/filament-curator@v5.6.0
 - pkg:composer/awcodes/filament-curator@v5.6.1
 - pkg:composer/awcodes/filament-curator@v5.6.2
+- pkg:composer/awcodes/filament-curator@v5.6.3
+- pkg:composer/awcodes/filament-curator@v5.6.4
