@@ -1,2 +1,3 @@
 - pkg:composer/devture/pimple-provider-phinx-migrations@1.0
 - pkg:composer/devture/pimple-provider-phinx-migrations@1.0.1
+- pkg:composer/devture/pimple-provider-phinx-migrations@2.0.0
