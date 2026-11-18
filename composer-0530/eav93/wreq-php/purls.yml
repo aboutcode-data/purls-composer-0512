@@ -43,6 +43,7 @@
 - pkg:composer/eav93/wreq-php@v1.4.0
 - pkg:composer/eav93/wreq-php@v1.5.0
 - pkg:composer/eav93/wreq-php@v1.5.1
+- pkg:composer/eav93/wreq-php@v1.5.10
 - pkg:composer/eav93/wreq-php@v1.5.2
 - pkg:composer/eav93/wreq-php@v1.5.3
 - pkg:composer/eav93/wreq-php@v1.5.4
