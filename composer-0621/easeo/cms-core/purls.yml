@@ -3,3 +3,5 @@
 - pkg:composer/easeo/cms-core@v0.2.0
 - pkg:composer/easeo/cms-core@v0.2.0-rc1
 - pkg:composer/easeo/cms-core@v0.2.0-rc2
+- pkg:composer/easeo/cms-core@v0.2.1
+- pkg:composer/easeo/cms-core@v0.2.2
