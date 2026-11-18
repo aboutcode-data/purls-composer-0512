@@ -9,3 +9,4 @@
 - pkg:composer/datalogix/laravel-builder-macros@v4.1.0
 - pkg:composer/datalogix/laravel-builder-macros@v5.0.0
 - pkg:composer/datalogix/laravel-builder-macros@v5.1.0
+- pkg:composer/datalogix/laravel-builder-macros@v5.2.0
