@@ -4,8 +4,13 @@
 - pkg:composer/darvis/lemmings@1.4.1
 - pkg:composer/darvis/lemmings@v1.0.0
 - pkg:composer/darvis/lemmings@v1.1.0
+- pkg:composer/darvis/lemmings@v1.10.0
 - pkg:composer/darvis/lemmings@v1.5.0
 - pkg:composer/darvis/lemmings@v1.5.1
 - pkg:composer/darvis/lemmings@v1.6.0
 - pkg:composer/darvis/lemmings@v1.7.0
 - pkg:composer/darvis/lemmings@v1.7.1
+- pkg:composer/darvis/lemmings@v1.8.0
+- pkg:composer/darvis/lemmings@v1.8.1
+- pkg:composer/darvis/lemmings@v1.8.2
+- pkg:composer/darvis/lemmings@v1.9.0

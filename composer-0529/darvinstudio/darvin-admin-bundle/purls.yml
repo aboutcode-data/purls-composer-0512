@@ -376,6 +376,7 @@
 - pkg:composer/darvinstudio/darvin-admin-bundle@6.8.0
 - pkg:composer/darvinstudio/darvin-admin-bundle@6.8.1
 - pkg:composer/darvinstudio/darvin-admin-bundle@6.8.10
+- pkg:composer/darvinstudio/darvin-admin-bundle@6.8.11
 - pkg:composer/darvinstudio/darvin-admin-bundle@6.8.2
 - pkg:composer/darvinstudio/darvin-admin-bundle@6.8.3
 - pkg:composer/darvinstudio/darvin-admin-bundle@6.8.4
