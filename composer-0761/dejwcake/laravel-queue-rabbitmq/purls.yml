@@ -6,3 +6,4 @@
 - pkg:composer/dejwcake/laravel-queue-rabbitmq@v14.4.3
 - pkg:composer/dejwcake/laravel-queue-rabbitmq@v15.0.0
 - pkg:composer/dejwcake/laravel-queue-rabbitmq@v15.0.1
+- pkg:composer/dejwcake/laravel-queue-rabbitmq@v15.1.0
