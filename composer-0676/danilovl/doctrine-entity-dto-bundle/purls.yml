@@ -16,3 +16,5 @@
 - pkg:composer/danilovl/doctrine-entity-dto-bundle@v0.2.4
 - pkg:composer/danilovl/doctrine-entity-dto-bundle@v0.2.5
 - pkg:composer/danilovl/doctrine-entity-dto-bundle@v1.0.0
+- pkg:composer/danilovl/doctrine-entity-dto-bundle@v1.0.1
+- pkg:composer/danilovl/doctrine-entity-dto-bundle@v1.0.2

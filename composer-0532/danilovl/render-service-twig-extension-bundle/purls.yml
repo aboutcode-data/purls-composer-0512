@@ -33,3 +33,4 @@
 - pkg:composer/danilovl/render-service-twig-extension-bundle@v4.0.7
 - pkg:composer/danilovl/render-service-twig-extension-bundle@v4.0.8
 - pkg:composer/danilovl/render-service-twig-extension-bundle@v5.0.0
+- pkg:composer/danilovl/render-service-twig-extension-bundle@v5.0.1
