@@ -32,3 +32,4 @@
 - pkg:composer/datenkraft/bb-access-management-api-php-client@v2.4.0
 - pkg:composer/datenkraft/bb-access-management-api-php-client@v2.4.1
 - pkg:composer/datenkraft/bb-access-management-api-php-client@v2.4.2
+- pkg:composer/datenkraft/bb-access-management-api-php-client@v2.5.0
