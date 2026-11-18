@@ -29,3 +29,5 @@
 - pkg:composer/decodelabs/stash@v0.7.1
 - pkg:composer/decodelabs/stash@v0.7.2
 - pkg:composer/decodelabs/stash@v0.8.0
+- pkg:composer/decodelabs/stash@v0.8.1
+- pkg:composer/decodelabs/stash@v0.8.2

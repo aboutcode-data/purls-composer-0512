@@ -57,6 +57,8 @@
 - pkg:composer/decodelabs/tagged@v0.21.1
 - pkg:composer/decodelabs/tagged@v0.21.2
 - pkg:composer/decodelabs/tagged@v0.21.3
+- pkg:composer/decodelabs/tagged@v0.21.4
+- pkg:composer/decodelabs/tagged@v0.21.5
 - pkg:composer/decodelabs/tagged@v0.5.0
 - pkg:composer/decodelabs/tagged@v0.6.0
 - pkg:composer/decodelabs/tagged@v0.6.1
