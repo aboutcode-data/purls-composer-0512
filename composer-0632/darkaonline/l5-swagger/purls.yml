@@ -3,6 +3,12 @@
 - pkg:composer/darkaonline/l5-swagger@11.0.0
 - pkg:composer/darkaonline/l5-swagger@11.0.1
 - pkg:composer/darkaonline/l5-swagger@11.1.0
+- pkg:composer/darkaonline/l5-swagger@11.2.0
+- pkg:composer/darkaonline/l5-swagger@11.2.1
+- pkg:composer/darkaonline/l5-swagger@11.2.2
+- pkg:composer/darkaonline/l5-swagger@11.3.0
+- pkg:composer/darkaonline/l5-swagger@11.3.1
+- pkg:composer/darkaonline/l5-swagger@11.4.0
 - pkg:composer/darkaonline/l5-swagger@2.1
 - pkg:composer/darkaonline/l5-swagger@2.1.1
 - pkg:composer/darkaonline/l5-swagger@2.1.2
