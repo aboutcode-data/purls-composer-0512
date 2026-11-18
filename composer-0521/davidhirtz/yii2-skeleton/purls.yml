@@ -99,6 +99,8 @@
 - pkg:composer/davidhirtz/yii2-skeleton@3.28.0
 - pkg:composer/davidhirtz/yii2-skeleton@3.29.0
 - pkg:composer/davidhirtz/yii2-skeleton@3.3.0
+- pkg:composer/davidhirtz/yii2-skeleton@3.30.0
+- pkg:composer/davidhirtz/yii2-skeleton@3.30.1
 - pkg:composer/davidhirtz/yii2-skeleton@3.4.0
 - pkg:composer/davidhirtz/yii2-skeleton@3.5.0
 - pkg:composer/davidhirtz/yii2-skeleton@3.5.1
