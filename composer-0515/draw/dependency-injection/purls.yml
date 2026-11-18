@@ -46,3 +46,4 @@
 - pkg:composer/draw/dependency-injection@0.41.0
 - pkg:composer/draw/dependency-injection@0.42.0
 - pkg:composer/draw/dependency-injection@0.43.0
+- pkg:composer/draw/dependency-injection@0.43.1

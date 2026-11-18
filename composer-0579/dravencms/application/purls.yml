@@ -16,3 +16,5 @@
 - pkg:composer/dravencms/application@0.0.8
 - pkg:composer/dravencms/application@0.0.9
 - pkg:composer/dravencms/application@0.1.0
+- pkg:composer/dravencms/application@0.2.0
+- pkg:composer/dravencms/application@0.3.0

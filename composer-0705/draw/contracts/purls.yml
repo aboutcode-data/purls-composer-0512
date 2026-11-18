@@ -81,6 +81,7 @@
 - pkg:composer/draw/contracts@0.41.0
 - pkg:composer/draw/contracts@0.42.0
 - pkg:composer/draw/contracts@0.43.0
+- pkg:composer/draw/contracts@0.43.1
 - pkg:composer/draw/contracts@0.7.53
 - pkg:composer/draw/contracts@0.7.54
 - pkg:composer/draw/contracts@0.7.56
