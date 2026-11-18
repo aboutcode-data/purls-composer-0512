@@ -398,6 +398,9 @@
 - pkg:composer/ecotone/amqp@1.326.2
 - pkg:composer/ecotone/amqp@1.327.0
 - pkg:composer/ecotone/amqp@1.328.0
+- pkg:composer/ecotone/amqp@1.328.1
+- pkg:composer/ecotone/amqp@1.328.2
+- pkg:composer/ecotone/amqp@1.328.3
 - pkg:composer/ecotone/amqp@1.34.2
 - pkg:composer/ecotone/amqp@1.34.3
 - pkg:composer/ecotone/amqp@1.35.0
@@ -543,3 +546,11 @@
 - pkg:composer/ecotone/amqp@1.98.4
 - pkg:composer/ecotone/amqp@1.99.0
 - pkg:composer/ecotone/amqp@2.0.0-beta.1
+- pkg:composer/ecotone/amqp@2.0.0-beta.2
+- pkg:composer/ecotone/amqp@2.0.0-beta.3
+- pkg:composer/ecotone/amqp@2.0.0-beta.4
+- pkg:composer/ecotone/amqp@2.0.0-beta.5
+- pkg:composer/ecotone/amqp@2.0.0-beta.6
+- pkg:composer/ecotone/amqp@2.0.0-beta.7
+- pkg:composer/ecotone/amqp@2.0.0-beta.8
+- pkg:composer/ecotone/amqp@2.0.0-beta.9

@@ -15,4 +15,15 @@
 - pkg:composer/ecotone/tempest@1.326.2
 - pkg:composer/ecotone/tempest@1.327.0
 - pkg:composer/ecotone/tempest@1.328.0
+- pkg:composer/ecotone/tempest@1.328.1
+- pkg:composer/ecotone/tempest@1.328.2
+- pkg:composer/ecotone/tempest@1.328.3
 - pkg:composer/ecotone/tempest@2.0.0-beta.1
+- pkg:composer/ecotone/tempest@2.0.0-beta.2
+- pkg:composer/ecotone/tempest@2.0.0-beta.3
+- pkg:composer/ecotone/tempest@2.0.0-beta.4
+- pkg:composer/ecotone/tempest@2.0.0-beta.5
+- pkg:composer/ecotone/tempest@2.0.0-beta.6
+- pkg:composer/ecotone/tempest@2.0.0-beta.7
+- pkg:composer/ecotone/tempest@2.0.0-beta.8
+- pkg:composer/ecotone/tempest@2.0.0-beta.9
