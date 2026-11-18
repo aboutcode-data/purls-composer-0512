@@ -85,3 +85,4 @@
 - pkg:composer/dereuromark/cakephp-shim@3.8.5
 - pkg:composer/dereuromark/cakephp-shim@3.9.0
 - pkg:composer/dereuromark/cakephp-shim@3.9.1
+- pkg:composer/dereuromark/cakephp-shim@3.9.2
