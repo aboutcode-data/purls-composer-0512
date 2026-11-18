@@ -35,3 +35,5 @@
 - pkg:composer/dg/ftp-deployment@v3.6.1
 - pkg:composer/dg/ftp-deployment@v3.6.2
 - pkg:composer/dg/ftp-deployment@v3.7.0
+- pkg:composer/dg/ftp-deployment@v3.8.0
+- pkg:composer/dg/ftp-deployment@v3.8.1

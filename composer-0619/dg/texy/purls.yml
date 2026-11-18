@@ -26,6 +26,7 @@
 - pkg:composer/dg/texy@v3.1.8
 - pkg:composer/dg/texy@v3.2.0
 - pkg:composer/dg/texy@v3.2.1
+- pkg:composer/dg/texy@v3.2.10
 - pkg:composer/dg/texy@v3.2.2
 - pkg:composer/dg/texy@v3.2.3
 - pkg:composer/dg/texy@v3.2.4
@@ -33,3 +34,4 @@
 - pkg:composer/dg/texy@v3.2.6
 - pkg:composer/dg/texy@v3.2.7
 - pkg:composer/dg/texy@v3.2.8
+- pkg:composer/dg/texy@v4.0.0
