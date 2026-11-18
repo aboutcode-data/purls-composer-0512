@@ -16,3 +16,4 @@
 - pkg:composer/dynamic/silverstripe-elemental-baseobject@5.0.1
 - pkg:composer/dynamic/silverstripe-elemental-baseobject@6.0.0
 - pkg:composer/dynamic/silverstripe-elemental-baseobject@6.0.1
+- pkg:composer/dynamic/silverstripe-elemental-baseobject@6.0.2
