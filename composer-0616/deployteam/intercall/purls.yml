@@ -18,6 +18,7 @@
 - pkg:composer/deployteam/intercall@0.22.0
 - pkg:composer/deployteam/intercall@0.23.0
 - pkg:composer/deployteam/intercall@0.24.0
+- pkg:composer/deployteam/intercall@0.25.0
 - pkg:composer/deployteam/intercall@0.3.0
 - pkg:composer/deployteam/intercall@0.4.0
 - pkg:composer/deployteam/intercall@0.5.0
