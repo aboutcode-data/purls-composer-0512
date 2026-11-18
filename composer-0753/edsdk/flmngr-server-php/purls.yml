@@ -27,3 +27,4 @@
 - pkg:composer/edsdk/flmngr-server-php@1.6.7
 - pkg:composer/edsdk/flmngr-server-php@1.6.8
 - pkg:composer/edsdk/flmngr-server-php@1.6.9
+- pkg:composer/edsdk/flmngr-server-php@1.7.0
