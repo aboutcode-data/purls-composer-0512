@@ -14,3 +14,5 @@
 - pkg:composer/devwizardhq/laravel-textify@v1.6.1
 - pkg:composer/devwizardhq/laravel-textify@v1.6.2
 - pkg:composer/devwizardhq/laravel-textify@v1.6.3
+- pkg:composer/devwizardhq/laravel-textify@v1.7.0
+- pkg:composer/devwizardhq/laravel-textify@v1.8.0
