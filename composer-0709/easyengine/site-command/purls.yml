@@ -80,3 +80,6 @@
 - pkg:composer/easyengine/site-command@v3.7.6
 - pkg:composer/easyengine/site-command@v3.8.0
 - pkg:composer/easyengine/site-command@v3.8.1
+- pkg:composer/easyengine/site-command@v3.8.2
+- pkg:composer/easyengine/site-command@v3.9.0
+- pkg:composer/easyengine/site-command@v3.9.1
