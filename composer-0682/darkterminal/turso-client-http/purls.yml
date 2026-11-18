@@ -18,3 +18,5 @@
 - pkg:composer/darkterminal/turso-client-http@v2.9.0
 - pkg:composer/darkterminal/turso-client-http@v2.9.1
 - pkg:composer/darkterminal/turso-client-http@v2.9.2
+- pkg:composer/darkterminal/turso-client-http@v3.0.0
+- pkg:composer/darkterminal/turso-client-http@v3.0.1
