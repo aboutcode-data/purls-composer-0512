@@ -5,3 +5,4 @@
 - pkg:composer/drupal/varbase_blog_base@1.0.0-beta1
 - pkg:composer/drupal/varbase_blog_base@1.0.0-rc1
 - pkg:composer/drupal/varbase_blog_base@1.0.1
+- pkg:composer/drupal/varbase_blog_base@1.0.2
