@@ -49,3 +49,6 @@
 - pkg:composer/dwenzel/t3events@1.0.2
 - pkg:composer/dwenzel/t3events@1.1.0
 - pkg:composer/dwenzel/t3events@2.0.0
+- pkg:composer/dwenzel/t3events@2.0.1
+- pkg:composer/dwenzel/t3events@3.0.0
+- pkg:composer/dwenzel/t3events@4.0.0
