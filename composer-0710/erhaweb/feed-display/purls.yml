@@ -28,3 +28,5 @@
 - pkg:composer/erhaweb/feed-display@2.2.7
 - pkg:composer/erhaweb/feed-display@3.0.0
 - pkg:composer/erhaweb/feed-display@3.0.1
+- pkg:composer/erhaweb/feed-display@3.0.2
+- pkg:composer/erhaweb/feed-display@3.1.0
