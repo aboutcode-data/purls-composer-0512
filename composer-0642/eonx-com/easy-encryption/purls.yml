@@ -283,6 +283,11 @@
 - pkg:composer/eonx-com/easy-encryption@6.24.1
 - pkg:composer/eonx-com/easy-encryption@6.25.0
 - pkg:composer/eonx-com/easy-encryption@6.25.1
+- pkg:composer/eonx-com/easy-encryption@6.25.2
+- pkg:composer/eonx-com/easy-encryption@6.26.0
+- pkg:composer/eonx-com/easy-encryption@6.26.1
+- pkg:composer/eonx-com/easy-encryption@6.27.0
+- pkg:composer/eonx-com/easy-encryption@6.28.0
 - pkg:composer/eonx-com/easy-encryption@6.3.0
 - pkg:composer/eonx-com/easy-encryption@6.3.1
 - pkg:composer/eonx-com/easy-encryption@6.3.2
@@ -297,3 +302,5 @@
 - pkg:composer/eonx-com/easy-encryption@6.7.0
 - pkg:composer/eonx-com/easy-encryption@6.8.0
 - pkg:composer/eonx-com/easy-encryption@6.9.0
+- pkg:composer/eonx-com/easy-encryption@7.0.0-alpha.1
+- pkg:composer/eonx-com/easy-encryption@7.0.0-alpha.2
