@@ -3,3 +3,6 @@
 - pkg:composer/elephentity/codegen-wordpress@v0.2.0
 - pkg:composer/elephentity/codegen-wordpress@v0.3.0
 - pkg:composer/elephentity/codegen-wordpress@v0.4.0
+- pkg:composer/elephentity/codegen-wordpress@v0.4.1
+- pkg:composer/elephentity/codegen-wordpress@v0.5.0
+- pkg:composer/elephentity/codegen-wordpress@v0.5.1
