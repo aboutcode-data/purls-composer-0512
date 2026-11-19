@@ -50,3 +50,4 @@
 - pkg:composer/elvi/auth0-symfony@v5.5.0
 - pkg:composer/elvi/auth0-symfony@v5.6.0
 - pkg:composer/elvi/auth0-symfony@v5.7.0
+- pkg:composer/elvi/auth0-symfony@v5.9.0
