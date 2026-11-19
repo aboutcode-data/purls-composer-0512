@@ -30,4 +30,5 @@
 - pkg:composer/cosmira/yii1-strangler-proxy@8.1.0
 - pkg:composer/cosmira/yii1-strangler-proxy@8.2.0
 - pkg:composer/cosmira/yii1-strangler-proxy@8.3.0
+- pkg:composer/cosmira/yii1-strangler-proxy@8.4.0
 - pkg:composer/cosmira/yii1-strangler-proxy@v0.1.0
