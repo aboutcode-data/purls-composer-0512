@@ -213,3 +213,5 @@
 - pkg:composer/experteam/api-testing-bundle@4.1.7
 - pkg:composer/experteam/api-testing-bundle@4.1.8
 - pkg:composer/experteam/api-testing-bundle@4.1.9
+- pkg:composer/experteam/api-testing-bundle@5.0.0
+- pkg:composer/experteam/api-testing-bundle@5.0.1
