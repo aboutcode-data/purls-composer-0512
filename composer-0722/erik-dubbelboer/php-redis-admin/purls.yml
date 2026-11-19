@@ -38,6 +38,8 @@
 - pkg:composer/erik-dubbelboer/php-redis-admin@1.24.0
 - pkg:composer/erik-dubbelboer/php-redis-admin@1.25.0
 - pkg:composer/erik-dubbelboer/php-redis-admin@1.26.0
+- pkg:composer/erik-dubbelboer/php-redis-admin@1.27.0
+- pkg:composer/erik-dubbelboer/php-redis-admin@1.28.0
 - pkg:composer/erik-dubbelboer/php-redis-admin@1.3.0
 - pkg:composer/erik-dubbelboer/php-redis-admin@1.4.0
 - pkg:composer/erik-dubbelboer/php-redis-admin@1.4.1
