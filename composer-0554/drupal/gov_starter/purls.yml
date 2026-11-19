@@ -1,2 +1,4 @@
+- pkg:composer/drupal/gov_starter@1.0.0
 - pkg:composer/drupal/gov_starter@1.0.0-alpha5
 - pkg:composer/drupal/gov_starter@1.0.0-alpha6
+- pkg:composer/drupal/gov_starter@1.0.0-alpha7
