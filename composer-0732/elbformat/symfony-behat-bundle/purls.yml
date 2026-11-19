@@ -20,3 +20,7 @@
 - pkg:composer/elbformat/symfony-behat-bundle@v1.5.7
 - pkg:composer/elbformat/symfony-behat-bundle@v1.5.8
 - pkg:composer/elbformat/symfony-behat-bundle@v1.5.9
+- pkg:composer/elbformat/symfony-behat-bundle@v1.6.0
+- pkg:composer/elbformat/symfony-behat-bundle@v1.6.1
+- pkg:composer/elbformat/symfony-behat-bundle@v1.7.0
+- pkg:composer/elbformat/symfony-behat-bundle@v1.7.1

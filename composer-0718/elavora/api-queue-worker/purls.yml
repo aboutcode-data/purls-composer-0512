@@ -1,2 +1,9 @@
+- pkg:composer/elavora/api-queue-worker@1.0.1
+- pkg:composer/elavora/api-queue-worker@1.0.2
+- pkg:composer/elavora/api-queue-worker@1.0.2-beta.1
+- pkg:composer/elavora/api-queue-worker@2.0.0
+- pkg:composer/elavora/api-queue-worker@3.0.0
+- pkg:composer/elavora/api-queue-worker@3.0.1
 - pkg:composer/elavora/api-queue-worker@v0.1.1
 - pkg:composer/elavora/api-queue-worker@v0.2.0
+- pkg:composer/elavora/api-queue-worker@v1.0.0

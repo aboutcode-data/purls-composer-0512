@@ -1,2 +1,8 @@
+- pkg:composer/elavora/api-database-mysql@1.0.0
+- pkg:composer/elavora/api-database-mysql@1.0.1
+- pkg:composer/elavora/api-database-mysql@1.0.1-beta.1
+- pkg:composer/elavora/api-database-mysql@2.0.0
+- pkg:composer/elavora/api-database-mysql@3.0.0
+- pkg:composer/elavora/api-database-mysql@3.0.1
 - pkg:composer/elavora/api-database-mysql@v0.1.1
 - pkg:composer/elavora/api-database-mysql@v0.2.0
