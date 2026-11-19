@@ -3,6 +3,7 @@
 - pkg:composer/ergebnis/json-pointer@2.1.0
 - pkg:composer/ergebnis/json-pointer@3.0.0
 - pkg:composer/ergebnis/json-pointer@3.1.0
+- pkg:composer/ergebnis/json-pointer@3.10.0
 - pkg:composer/ergebnis/json-pointer@3.2.0
 - pkg:composer/ergebnis/json-pointer@3.3.0
 - pkg:composer/ergebnis/json-pointer@3.4.0
