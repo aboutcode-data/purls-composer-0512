@@ -5,3 +5,4 @@
 - pkg:composer/errorvault/laravel@1.4.0
 - pkg:composer/errorvault/laravel@1.4.1
 - pkg:composer/errorvault/laravel@1.4.2
+- pkg:composer/errorvault/laravel@1.5.0

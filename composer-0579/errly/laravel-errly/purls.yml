@@ -15,3 +15,5 @@
 - pkg:composer/errly/laravel-errly@v1.2.0
 - pkg:composer/errly/laravel-errly@v1.2.0-beta.1
 - pkg:composer/errly/laravel-errly@v1.2.1
+- pkg:composer/errly/laravel-errly@v1.2.2
+- pkg:composer/errly/laravel-errly@v2.0.0
