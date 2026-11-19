@@ -27,6 +27,7 @@
 - pkg:composer/elavora/api-skeleton@4.0.1
 - pkg:composer/elavora/api-skeleton@4.0.2
 - pkg:composer/elavora/api-skeleton@4.0.3
+- pkg:composer/elavora/api-skeleton@5.0.0
 - pkg:composer/elavora/api-skeleton@v0.1.1
 - pkg:composer/elavora/api-skeleton@v0.2.0
 - pkg:composer/elavora/api-skeleton@v1.0.0

@@ -4,6 +4,7 @@
 - pkg:composer/elavora/api-cache-apcu@2.0.0
 - pkg:composer/elavora/api-cache-apcu@3.0.0
 - pkg:composer/elavora/api-cache-apcu@3.0.1
+- pkg:composer/elavora/api-cache-apcu@3.0.2
 - pkg:composer/elavora/api-cache-apcu@v0.1.1
 - pkg:composer/elavora/api-cache-apcu@v0.2.0
 - pkg:composer/elavora/api-cache-apcu@v0.3.0

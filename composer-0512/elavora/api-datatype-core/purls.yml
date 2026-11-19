@@ -3,6 +3,7 @@
 - pkg:composer/elavora/api-datatype-core@3.0.0
 - pkg:composer/elavora/api-datatype-core@4.0.0
 - pkg:composer/elavora/api-datatype-core@4.0.1
+- pkg:composer/elavora/api-datatype-core@4.0.2
 - pkg:composer/elavora/api-datatype-core@v0.1.1
 - pkg:composer/elavora/api-datatype-core@v0.2.0
 - pkg:composer/elavora/api-datatype-core@v1.0.0
