@@ -1,4 +1,5 @@
 - pkg:composer/ecourier/ecourier-laravel@v1.0.0
 - pkg:composer/ecourier/ecourier-laravel@v1.1.0
+- pkg:composer/ecourier/ecourier-laravel@v2.0.0
 - pkg:composer/ecourier/ecourier-laravel@v2.0.0-beta.1
 - pkg:composer/ecourier/ecourier-laravel@v2.0.0-beta.2
