@@ -2,3 +2,7 @@
 - pkg:composer/flexops/sdk@v1.0.1
 - pkg:composer/flexops/sdk@v1.0.2
 - pkg:composer/flexops/sdk@v1.1.0
+- pkg:composer/flexops/sdk@v2.0.0
+- pkg:composer/flexops/sdk@v2.1.0
+- pkg:composer/flexops/sdk@v2.2.0
+- pkg:composer/flexops/sdk@v2.3.0
