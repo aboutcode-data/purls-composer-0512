@@ -1,1 +1,2 @@
 - pkg:composer/fleetbase/twilio@5.0.1
+- pkg:composer/fleetbase/twilio@6.0.0

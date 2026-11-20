@@ -171,6 +171,17 @@
 - pkg:composer/fleetbase/core-api@1.6.66
 - pkg:composer/fleetbase/core-api@1.6.67
 - pkg:composer/fleetbase/core-api@1.6.68
+- pkg:composer/fleetbase/core-api@1.6.69
 - pkg:composer/fleetbase/core-api@1.6.7
+- pkg:composer/fleetbase/core-api@1.6.70
+- pkg:composer/fleetbase/core-api@1.6.71
+- pkg:composer/fleetbase/core-api@1.6.72
+- pkg:composer/fleetbase/core-api@1.6.73
+- pkg:composer/fleetbase/core-api@1.6.74
 - pkg:composer/fleetbase/core-api@1.6.8
 - pkg:composer/fleetbase/core-api@1.6.9
+- pkg:composer/fleetbase/core-api@2.0.0
+- pkg:composer/fleetbase/core-api@2.0.1
+- pkg:composer/fleetbase/core-api@2.0.2
+- pkg:composer/fleetbase/core-api@2.0.3
+- pkg:composer/fleetbase/core-api@2.0.4
