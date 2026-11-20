@@ -66,3 +66,5 @@
 - pkg:composer/google/cloud-recaptcha-enterprise@v2.5.1
 - pkg:composer/google/cloud-recaptcha-enterprise@v2.5.2
 - pkg:composer/google/cloud-recaptcha-enterprise@v2.5.3
+- pkg:composer/google/cloud-recaptcha-enterprise@v2.5.4
+- pkg:composer/google/cloud-recaptcha-enterprise@v2.6.0
