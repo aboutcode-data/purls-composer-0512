@@ -40,3 +40,5 @@
 - pkg:composer/grafite/charts@v3.0.5
 - pkg:composer/grafite/charts@v3.0.6
 - pkg:composer/grafite/charts@v3.0.7
+- pkg:composer/grafite/charts@v3.1.0
+- pkg:composer/grafite/charts@v3.1.1
