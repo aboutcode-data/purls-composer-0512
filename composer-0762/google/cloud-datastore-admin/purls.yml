@@ -43,3 +43,4 @@
 - pkg:composer/google/cloud-datastore-admin@v1.2.1
 - pkg:composer/google/cloud-datastore-admin@v1.2.2
 - pkg:composer/google/cloud-datastore-admin@v1.2.3
+- pkg:composer/google/cloud-datastore-admin@v1.3.0
