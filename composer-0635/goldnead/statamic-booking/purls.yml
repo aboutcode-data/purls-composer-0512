@@ -5,3 +5,6 @@
 - pkg:composer/goldnead/statamic-booking@v1.4.0
 - pkg:composer/goldnead/statamic-booking@v1.5.0
 - pkg:composer/goldnead/statamic-booking@v1.6.0
+- pkg:composer/goldnead/statamic-booking@v1.7.0
+- pkg:composer/goldnead/statamic-booking@v1.7.1
+- pkg:composer/goldnead/statamic-booking@v1.8.0

@@ -3,6 +3,9 @@
 - pkg:composer/goldnead/statamic-inline-edit@v1.10.0
 - pkg:composer/goldnead/statamic-inline-edit@v1.11.0
 - pkg:composer/goldnead/statamic-inline-edit@v1.11.1
+- pkg:composer/goldnead/statamic-inline-edit@v1.11.2
+- pkg:composer/goldnead/statamic-inline-edit@v1.11.3
+- pkg:composer/goldnead/statamic-inline-edit@v1.11.4
 - pkg:composer/goldnead/statamic-inline-edit@v1.2.0
 - pkg:composer/goldnead/statamic-inline-edit@v1.3.0
 - pkg:composer/goldnead/statamic-inline-edit@v1.4.0

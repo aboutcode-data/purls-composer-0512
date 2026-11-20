@@ -10,3 +10,5 @@
 - pkg:composer/goldnead/statamic-insights@v1.5.0
 - pkg:composer/goldnead/statamic-insights@v1.5.0-rc.1
 - pkg:composer/goldnead/statamic-insights@v1.5.0-rc.2
+- pkg:composer/goldnead/statamic-insights@v1.6.0
+- pkg:composer/goldnead/statamic-insights@v1.7.0
