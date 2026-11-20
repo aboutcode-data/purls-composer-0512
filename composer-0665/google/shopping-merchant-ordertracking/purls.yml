@@ -12,3 +12,6 @@
 - pkg:composer/google/shopping-merchant-ordertracking@v1.2.4
 - pkg:composer/google/shopping-merchant-ordertracking@v1.2.5
 - pkg:composer/google/shopping-merchant-ordertracking@v1.2.6
+- pkg:composer/google/shopping-merchant-ordertracking@v1.2.7
+- pkg:composer/google/shopping-merchant-ordertracking@v1.3.0
+- pkg:composer/google/shopping-merchant-ordertracking@v1.4.0

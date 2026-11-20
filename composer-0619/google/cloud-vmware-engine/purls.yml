@@ -32,3 +32,5 @@
 - pkg:composer/google/cloud-vmware-engine@v1.4.1
 - pkg:composer/google/cloud-vmware-engine@v1.4.2
 - pkg:composer/google/cloud-vmware-engine@v1.4.3
+- pkg:composer/google/cloud-vmware-engine@v1.4.4
+- pkg:composer/google/cloud-vmware-engine@v1.5.0

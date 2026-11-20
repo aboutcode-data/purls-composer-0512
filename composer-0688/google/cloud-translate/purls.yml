@@ -91,3 +91,5 @@
 - pkg:composer/google/cloud-translate@v2.3.4
 - pkg:composer/google/cloud-translate@v2.3.5
 - pkg:composer/google/cloud-translate@v2.3.6
+- pkg:composer/google/cloud-translate@v2.3.7
+- pkg:composer/google/cloud-translate@v2.4.0
