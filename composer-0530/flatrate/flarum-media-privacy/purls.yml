@@ -1,1 +1,2 @@
 - pkg:composer/flatrate/flarum-media-privacy@v1.0.0
+- pkg:composer/flatrate/flarum-media-privacy@v2.0.0-RC1
