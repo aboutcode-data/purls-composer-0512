@@ -137,6 +137,9 @@
 - pkg:composer/getpop/user-roles@2.5.2
 - pkg:composer/getpop/user-roles@2.6.0
 - pkg:composer/getpop/user-roles@2.6.1
+- pkg:composer/getpop/user-roles@20.0.0
+- pkg:composer/getpop/user-roles@20.0.1
+- pkg:composer/getpop/user-roles@20.0.2
 - pkg:composer/getpop/user-roles@3.0.0
 - pkg:composer/getpop/user-roles@4.0.0
 - pkg:composer/getpop/user-roles@4.0.1
