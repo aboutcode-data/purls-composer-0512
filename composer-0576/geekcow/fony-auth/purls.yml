@@ -4,6 +4,8 @@
 - pkg:composer/geekcow/fony-auth@0.0.12
 - pkg:composer/geekcow/fony-auth@0.0.13
 - pkg:composer/geekcow/fony-auth@0.0.14
+- pkg:composer/geekcow/fony-auth@0.0.15
+- pkg:composer/geekcow/fony-auth@0.0.16
 - pkg:composer/geekcow/fony-auth@0.0.2
 - pkg:composer/geekcow/fony-auth@0.0.3
 - pkg:composer/geekcow/fony-auth@0.0.4
@@ -12,3 +14,4 @@
 - pkg:composer/geekcow/fony-auth@0.0.7
 - pkg:composer/geekcow/fony-auth@0.0.8
 - pkg:composer/geekcow/fony-auth@0.0.9
+- pkg:composer/geekcow/fony-auth@0.1.0
