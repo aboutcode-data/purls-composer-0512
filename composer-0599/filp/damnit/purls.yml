@@ -65,6 +65,11 @@
 - pkg:composer/filp/damnit@2.18.3
 - pkg:composer/filp/damnit@2.18.4
 - pkg:composer/filp/damnit@2.18.5
+- pkg:composer/filp/damnit@2.18.6
+- pkg:composer/filp/damnit@2.18.7
+- pkg:composer/filp/damnit@2.19.0
+- pkg:composer/filp/damnit@2.19.1
+- pkg:composer/filp/damnit@2.19.2
 - pkg:composer/filp/damnit@2.2.0
 - pkg:composer/filp/damnit@2.2.1
 - pkg:composer/filp/damnit@2.3.0
