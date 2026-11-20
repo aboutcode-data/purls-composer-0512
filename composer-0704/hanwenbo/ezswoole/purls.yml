@@ -3,6 +3,9 @@
 - pkg:composer/hanwenbo/ezswoole@3.0.4
 - pkg:composer/hanwenbo/ezswoole@3.0.5
 - pkg:composer/hanwenbo/ezswoole@3.0.6
+- pkg:composer/hanwenbo/ezswoole@4.0.0
+- pkg:composer/hanwenbo/ezswoole@4.0.1
+- pkg:composer/hanwenbo/ezswoole@4.0.2
 - pkg:composer/hanwenbo/ezswoole@v2.0.0
 - pkg:composer/hanwenbo/ezswoole@v2.0.1
 - pkg:composer/hanwenbo/ezswoole@v2.0.3
