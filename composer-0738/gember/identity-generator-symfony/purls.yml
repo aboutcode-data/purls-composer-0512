@@ -5,6 +5,8 @@
 - pkg:composer/gember/identity-generator-symfony@0.12.1
 - pkg:composer/gember/identity-generator-symfony@0.12.2
 - pkg:composer/gember/identity-generator-symfony@0.12.3
+- pkg:composer/gember/identity-generator-symfony@0.12.4
+- pkg:composer/gember/identity-generator-symfony@0.12.5
 - pkg:composer/gember/identity-generator-symfony@0.2.0
 - pkg:composer/gember/identity-generator-symfony@0.3.0
 - pkg:composer/gember/identity-generator-symfony@0.4.0
