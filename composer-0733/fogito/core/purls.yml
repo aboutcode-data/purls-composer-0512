@@ -96,3 +96,7 @@
 - pkg:composer/fogito/core@1.9
 - pkg:composer/fogito/core@1.9.1
 - pkg:composer/fogito/core@2.0.0
+- pkg:composer/fogito/core@2.0.1
+- pkg:composer/fogito/core@2.0.2
+- pkg:composer/fogito/core@2.0.3
+- pkg:composer/fogito/core@2.1.0
