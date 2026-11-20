@@ -56,3 +56,4 @@
 - pkg:composer/heimrichhannot/contao-head-bundle@1.9.0
 - pkg:composer/heimrichhannot/contao-head-bundle@1.9.1
 - pkg:composer/heimrichhannot/contao-head-bundle@2.0.0
+- pkg:composer/heimrichhannot/contao-head-bundle@2.0.1
