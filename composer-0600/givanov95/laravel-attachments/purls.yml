@@ -5,3 +5,5 @@
 - pkg:composer/givanov95/laravel-attachments@v1.1.2
 - pkg:composer/givanov95/laravel-attachments@v1.2.0
 - pkg:composer/givanov95/laravel-attachments@v1.3.0
+- pkg:composer/givanov95/laravel-attachments@v1.4.0
+- pkg:composer/givanov95/laravel-attachments@v1.4.1

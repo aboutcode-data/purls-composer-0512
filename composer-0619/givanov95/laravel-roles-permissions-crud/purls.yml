@@ -13,3 +13,9 @@
 - pkg:composer/givanov95/laravel-roles-permissions-crud@v5.1.0
 - pkg:composer/givanov95/laravel-roles-permissions-crud@v6.0.0
 - pkg:composer/givanov95/laravel-roles-permissions-crud@v6.1.0
+- pkg:composer/givanov95/laravel-roles-permissions-crud@v6.2.0
+- pkg:composer/givanov95/laravel-roles-permissions-crud@v6.3.0
+- pkg:composer/givanov95/laravel-roles-permissions-crud@v7.0.0
+- pkg:composer/givanov95/laravel-roles-permissions-crud@v7.1.0
+- pkg:composer/givanov95/laravel-roles-permissions-crud@v7.1.1
+- pkg:composer/givanov95/laravel-roles-permissions-crud@v7.1.2
