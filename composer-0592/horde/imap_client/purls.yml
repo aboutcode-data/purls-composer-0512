@@ -111,3 +111,9 @@
 - pkg:composer/horde/imap_client@v3.0.0beta2
 - pkg:composer/horde/imap_client@v3.0.1
 - pkg:composer/horde/imap_client@v3.1.0
+- pkg:composer/horde/imap_client@v3.2.0
+- pkg:composer/horde/imap_client@v3.2.1
+- pkg:composer/horde/imap_client@v3.3.0
+- pkg:composer/horde/imap_client@v3.3.1
+- pkg:composer/horde/imap_client@v3.3.2
+- pkg:composer/horde/imap_client@v3.3.3
