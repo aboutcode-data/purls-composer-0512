@@ -1,1 +1,3 @@
 - pkg:composer/fluffydiscord/fast-pgsql-mapper-stubs@v1.0.0
+- pkg:composer/fluffydiscord/fast-pgsql-mapper-stubs@v1.1.0
+- pkg:composer/fluffydiscord/fast-pgsql-mapper-stubs@v1.1.1
