@@ -207,6 +207,8 @@
 - pkg:composer/fklavyenet/webblocks-cms@v1.143.2
 - pkg:composer/fklavyenet/webblocks-cms@v1.143.3
 - pkg:composer/fklavyenet/webblocks-cms@v1.143.4
+- pkg:composer/fklavyenet/webblocks-cms@v1.143.5
+- pkg:composer/fklavyenet/webblocks-cms@v1.144.0
 - pkg:composer/fklavyenet/webblocks-cms@v1.15.0
 - pkg:composer/fklavyenet/webblocks-cms@v1.16.0
 - pkg:composer/fklavyenet/webblocks-cms@v1.17.0
