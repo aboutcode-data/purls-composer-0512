@@ -1,2 +1,4 @@
 - pkg:composer/fullmetrix/sylius-plugin@v1.5.1
 - pkg:composer/fullmetrix/sylius-plugin@v1.6.1
+- pkg:composer/fullmetrix/sylius-plugin@v1.7.0
+- pkg:composer/fullmetrix/sylius-plugin@v1.8.0
