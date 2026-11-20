@@ -35,6 +35,7 @@
 - pkg:composer/hwkdo/intranet-app-hwro@v1.0.8
 - pkg:composer/hwkdo/intranet-app-hwro@v1.0.9
 - pkg:composer/hwkdo/intranet-app-hwro@v1.1
+- pkg:composer/hwkdo/intranet-app-hwro@v1.14.13
 - pkg:composer/hwkdo/intranet-app-hwro@v1.2
 - pkg:composer/hwkdo/intranet-app-hwro@v1.2.1
 - pkg:composer/hwkdo/intranet-app-hwro@v1.3
@@ -44,8 +45,14 @@
 - pkg:composer/hwkdo/intranet-app-hwro@v1.3.4
 - pkg:composer/hwkdo/intranet-app-hwro@v1.3.5
 - pkg:composer/hwkdo/intranet-app-hwro@v1.4
+- pkg:composer/hwkdo/intranet-app-hwro@v1.4.10
+- pkg:composer/hwkdo/intranet-app-hwro@v1.4.11
+- pkg:composer/hwkdo/intranet-app-hwro@v1.4.12
 - pkg:composer/hwkdo/intranet-app-hwro@v1.4.2
 - pkg:composer/hwkdo/intranet-app-hwro@v1.4.3
 - pkg:composer/hwkdo/intranet-app-hwro@v1.4.4
 - pkg:composer/hwkdo/intranet-app-hwro@v1.4.5
 - pkg:composer/hwkdo/intranet-app-hwro@v1.4.6
+- pkg:composer/hwkdo/intranet-app-hwro@v1.4.7
+- pkg:composer/hwkdo/intranet-app-hwro@v1.4.8
+- pkg:composer/hwkdo/intranet-app-hwro@v1.4.9
