@@ -81,3 +81,13 @@
 - pkg:composer/gyselroth/mongodb-php-task-scheduler@v4.0.7
 - pkg:composer/gyselroth/mongodb-php-task-scheduler@v4.0.8
 - pkg:composer/gyselroth/mongodb-php-task-scheduler@v4.0.9
+- pkg:composer/gyselroth/mongodb-php-task-scheduler@v4.1.0
+- pkg:composer/gyselroth/mongodb-php-task-scheduler@v4.1.0-beta1
+- pkg:composer/gyselroth/mongodb-php-task-scheduler@v4.1.0-beta2
+- pkg:composer/gyselroth/mongodb-php-task-scheduler@v4.1.0-beta3
+- pkg:composer/gyselroth/mongodb-php-task-scheduler@v4.1.0-beta4
+- pkg:composer/gyselroth/mongodb-php-task-scheduler@v4.1.0-beta5
+- pkg:composer/gyselroth/mongodb-php-task-scheduler@v4.1.0-beta6
+- pkg:composer/gyselroth/mongodb-php-task-scheduler@v4.1.0-beta7
+- pkg:composer/gyselroth/mongodb-php-task-scheduler@v4.1.0-beta8
+- pkg:composer/gyselroth/mongodb-php-task-scheduler@v4.1.1
