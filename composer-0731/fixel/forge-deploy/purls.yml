@@ -1,3 +1,4 @@
 - pkg:composer/fixel/forge-deploy@v1.0.0
 - pkg:composer/fixel/forge-deploy@v2.0.0
 - pkg:composer/fixel/forge-deploy@v3.0.0
+- pkg:composer/fixel/forge-deploy@v3.0.1
