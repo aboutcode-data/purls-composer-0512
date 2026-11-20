@@ -1,5 +1,10 @@
 - pkg:composer/ffans/lang-simplified-chinese@1.6.1
+- pkg:composer/ffans/lang-simplified-chinese@1.6.2
+- pkg:composer/ffans/lang-simplified-chinese@1.6.3
 - pkg:composer/ffans/lang-simplified-chinese@2.0.0
+- pkg:composer/ffans/lang-simplified-chinese@2.0.1
+- pkg:composer/ffans/lang-simplified-chinese@2.0.2
+- pkg:composer/ffans/lang-simplified-chinese@2.0.3
 - pkg:composer/ffans/lang-simplified-chinese@v0.1.0
 - pkg:composer/ffans/lang-simplified-chinese@v0.1.0-beta.15
 - pkg:composer/ffans/lang-simplified-chinese@v0.1.0-beta.15.1

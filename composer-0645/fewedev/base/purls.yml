@@ -11,3 +11,5 @@
 - pkg:composer/fewedev/base@2.2.1
 - pkg:composer/fewedev/base@2.2.2
 - pkg:composer/fewedev/base@2.3.0
+- pkg:composer/fewedev/base@2.4.0
+- pkg:composer/fewedev/base@2.4.1
