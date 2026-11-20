@@ -1,3 +1,4 @@
+- pkg:composer/gschurgast/eudr-api-client@1.4.0
 - pkg:composer/gschurgast/eudr-api-client@v1.0.0
 - pkg:composer/gschurgast/eudr-api-client@v1.0.1
 - pkg:composer/gschurgast/eudr-api-client@v1.0.2
