@@ -16,3 +16,5 @@
 - pkg:composer/gl-events/sylius-admin-saml-plugin@2.0.0
 - pkg:composer/gl-events/sylius-admin-saml-plugin@2.1.0
 - pkg:composer/gl-events/sylius-admin-saml-plugin@2.1.1
+- pkg:composer/gl-events/sylius-admin-saml-plugin@2.2.0
+- pkg:composer/gl-events/sylius-admin-saml-plugin@2.3.0
