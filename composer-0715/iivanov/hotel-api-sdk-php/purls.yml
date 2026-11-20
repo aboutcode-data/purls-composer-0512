@@ -16,3 +16,5 @@
 - pkg:composer/iivanov/hotel-api-sdk-php@4.0.0
 - pkg:composer/iivanov/hotel-api-sdk-php@4.0.1
 - pkg:composer/iivanov/hotel-api-sdk-php@4.1.0
+- pkg:composer/iivanov/hotel-api-sdk-php@5.0.0
+- pkg:composer/iivanov/hotel-api-sdk-php@5.0.1
