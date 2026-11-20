@@ -2,3 +2,5 @@
 - pkg:composer/guava/sqids-for-laravel@1.1.0
 - pkg:composer/guava/sqids-for-laravel@1.1.1
 - pkg:composer/guava/sqids-for-laravel@1.2.0
+- pkg:composer/guava/sqids-for-laravel@1.3.0
+- pkg:composer/guava/sqids-for-laravel@1.4.0
