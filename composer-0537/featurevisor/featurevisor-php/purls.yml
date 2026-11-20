@@ -12,3 +12,4 @@
 - pkg:composer/featurevisor/featurevisor-php@v2.0.0
 - pkg:composer/featurevisor/featurevisor-php@v3.0.0
 - pkg:composer/featurevisor/featurevisor-php@v3.1.0
+- pkg:composer/featurevisor/featurevisor-php@v4.0.0
