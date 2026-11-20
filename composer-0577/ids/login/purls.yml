@@ -144,3 +144,9 @@
 - pkg:composer/ids/login@v4.3.0
 - pkg:composer/ids/login@v4.4.0
 - pkg:composer/ids/login@v4.4.1
+- pkg:composer/ids/login@v4.4.2
+- pkg:composer/ids/login@v4.5.0
+- pkg:composer/ids/login@v4.5.1
+- pkg:composer/ids/login@v4.6.0
+- pkg:composer/ids/login@v4.6.1
+- pkg:composer/ids/login@v4.8.0
