@@ -8,4 +8,6 @@
 - pkg:composer/indy2kro/laravel-git-hooks@2.0.8
 - pkg:composer/indy2kro/laravel-git-hooks@2.1.0
 - pkg:composer/indy2kro/laravel-git-hooks@2.2.0
+- pkg:composer/indy2kro/laravel-git-hooks@2.2.1
+- pkg:composer/indy2kro/laravel-git-hooks@3.0.0
 - pkg:composer/indy2kro/laravel-git-hooks@v2.0.0
