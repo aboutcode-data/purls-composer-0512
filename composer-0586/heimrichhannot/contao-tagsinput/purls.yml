@@ -54,3 +54,5 @@
 - pkg:composer/heimrichhannot/contao-tagsinput@3.0.0-beta4
 - pkg:composer/heimrichhannot/contao-tagsinput@3.0.1
 - pkg:composer/heimrichhannot/contao-tagsinput@3.0.2
+- pkg:composer/heimrichhannot/contao-tagsinput@3.1.0
+- pkg:composer/heimrichhannot/contao-tagsinput@3.1.1
