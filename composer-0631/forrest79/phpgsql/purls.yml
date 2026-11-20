@@ -96,3 +96,4 @@
 - pkg:composer/forrest79/phpgsql@v2.1.0
 - pkg:composer/forrest79/phpgsql@v2.1.1
 - pkg:composer/forrest79/phpgsql@v2.1.2
+- pkg:composer/forrest79/phpgsql@v2.2.0
