@@ -1,1 +1,2 @@
 - pkg:composer/fernandoguiao/laravel-stateless-tenancy@1.0.0
+- pkg:composer/fernandoguiao/laravel-stateless-tenancy@v1.1.0
