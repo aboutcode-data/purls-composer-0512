@@ -1,4 +1,5 @@
 - pkg:composer/fof/discussion-views@1.0.0
+- pkg:composer/fof/discussion-views@2.0.0
 - pkg:composer/fof/discussion-views@2.0.0-beta.1
 - pkg:composer/fof/discussion-views@2.0.0-rc.1
 - pkg:composer/fof/discussion-views@2.0.0-rc.2
