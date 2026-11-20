@@ -37,6 +37,9 @@
 - pkg:composer/glc36/maxloop-kernel@v2.15.0
 - pkg:composer/glc36/maxloop-kernel@v2.16.0
 - pkg:composer/glc36/maxloop-kernel@v2.16.1
+- pkg:composer/glc36/maxloop-kernel@v2.16.3
+- pkg:composer/glc36/maxloop-kernel@v2.17.0
+- pkg:composer/glc36/maxloop-kernel@v2.18.0
 - pkg:composer/glc36/maxloop-kernel@v2.2.0
 - pkg:composer/glc36/maxloop-kernel@v2.3.0
 - pkg:composer/glc36/maxloop-kernel@v2.3.1

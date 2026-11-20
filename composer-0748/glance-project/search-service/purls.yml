@@ -6,3 +6,8 @@
 - pkg:composer/glance-project/search-service@v2.0.4
 - pkg:composer/glance-project/search-service@v2.0.5
 - pkg:composer/glance-project/search-service@v2.0.6
+- pkg:composer/glance-project/search-service@v2.0.7
+- pkg:composer/glance-project/search-service@v2.1.0
+- pkg:composer/glance-project/search-service@v2.3.2
+- pkg:composer/glance-project/search-service@v2.3.3
+- pkg:composer/glance-project/search-service@v2.4.0
