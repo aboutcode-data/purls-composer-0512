@@ -11,3 +11,6 @@
 - pkg:composer/foxws/laravel-modelcache@1.4.1
 - pkg:composer/foxws/laravel-modelcache@1.4.2
 - pkg:composer/foxws/laravel-modelcache@1.4.3
+- pkg:composer/foxws/laravel-modelcache@1.5.0
+- pkg:composer/foxws/laravel-modelcache@1.6.0
+- pkg:composer/foxws/laravel-modelcache@2.0.0
