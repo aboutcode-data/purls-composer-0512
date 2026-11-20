@@ -1,4 +1,6 @@
+- pkg:composer/flarum-lang/czech@1.1.12
 - pkg:composer/flarum-lang/czech@2.0.7
+- pkg:composer/flarum-lang/czech@2.0.8
 - pkg:composer/flarum-lang/czech@v1.0.0
 - pkg:composer/flarum-lang/czech@v1.1.0
 - pkg:composer/flarum-lang/czech@v1.1.1
