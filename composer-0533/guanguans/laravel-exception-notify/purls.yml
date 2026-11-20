@@ -78,6 +78,13 @@
 - pkg:composer/guanguans/laravel-exception-notify@7.0.1
 - pkg:composer/guanguans/laravel-exception-notify@7.0.2
 - pkg:composer/guanguans/laravel-exception-notify@7.0.3
+- pkg:composer/guanguans/laravel-exception-notify@7.0.4
+- pkg:composer/guanguans/laravel-exception-notify@7.0.5
+- pkg:composer/guanguans/laravel-exception-notify@7.0.6
+- pkg:composer/guanguans/laravel-exception-notify@7.0.7
+- pkg:composer/guanguans/laravel-exception-notify@7.1.0
+- pkg:composer/guanguans/laravel-exception-notify@7.1.1
+- pkg:composer/guanguans/laravel-exception-notify@7.1.2
 - pkg:composer/guanguans/laravel-exception-notify@v1.0.0
 - pkg:composer/guanguans/laravel-exception-notify@v1.0.1
 - pkg:composer/guanguans/laravel-exception-notify@v1.0.2
