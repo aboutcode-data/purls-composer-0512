@@ -7,3 +7,5 @@
 - pkg:composer/generoi/gds-security-hardening@v2.2.0
 - pkg:composer/generoi/gds-security-hardening@v2.3.0
 - pkg:composer/generoi/gds-security-hardening@v2.3.1
+- pkg:composer/generoi/gds-security-hardening@v2.4.0
+- pkg:composer/generoi/gds-security-hardening@v2.4.1
