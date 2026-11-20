@@ -47,3 +47,4 @@
 - pkg:composer/fortrabbit/craft-copy@2.4.4
 - pkg:composer/fortrabbit/craft-copy@3.0.0
 - pkg:composer/fortrabbit/craft-copy@3.0.1
+- pkg:composer/fortrabbit/craft-copy@3.1.0
