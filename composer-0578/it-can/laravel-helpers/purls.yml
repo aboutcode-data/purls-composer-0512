@@ -115,3 +115,5 @@
 - pkg:composer/it-can/laravel-helpers@v3.0.0
 - pkg:composer/it-can/laravel-helpers@v3.0.1
 - pkg:composer/it-can/laravel-helpers@v3.0.2
+- pkg:composer/it-can/laravel-helpers@v4.0.0
+- pkg:composer/it-can/laravel-helpers@v4.0.1
