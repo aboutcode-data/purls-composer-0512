@@ -1,3 +1,7 @@
 - pkg:composer/kba-team/cake2_app_version@v1.0.0
 - pkg:composer/kba-team/cake2_app_version@v2.0.0
 - pkg:composer/kba-team/cake2_app_version@v2.0.1
+- pkg:composer/kba-team/cake2_app_version@v2.0.2
+- pkg:composer/kba-team/cake2_app_version@v3.0.1
+- pkg:composer/kba-team/cake2_app_version@v3.0.2
+- pkg:composer/kba-team/cake2_app_version@v3.0.3
