@@ -24,3 +24,4 @@
 - pkg:composer/ianm/twofactor@2.0.0-beta.4
 - pkg:composer/ianm/twofactor@2.0.0-beta.5
 - pkg:composer/ianm/twofactor@2.0.0-beta.6
+- pkg:composer/ianm/twofactor@2.0.1
