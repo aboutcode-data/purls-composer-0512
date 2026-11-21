@@ -186,3 +186,5 @@
 - pkg:composer/jtl-scx/channel-core@3.6.1
 - pkg:composer/jtl-scx/channel-core@3.7.0
 - pkg:composer/jtl-scx/channel-core@3.8.0
+- pkg:composer/jtl-scx/channel-core@3.8.1
+- pkg:composer/jtl-scx/channel-core@3.9.0
