@@ -16,3 +16,5 @@
 - pkg:composer/joan/user-management@v3.2.2
 - pkg:composer/joan/user-management@v3.3.0
 - pkg:composer/joan/user-management@v3.3.1
+- pkg:composer/joan/user-management@v3.4.0
+- pkg:composer/joan/user-management@v3.4.1
