@@ -36,5 +36,7 @@
 - pkg:composer/grpc/grpc@1.82.3
 - pkg:composer/grpc/grpc@1.83.2
 - pkg:composer/grpc/grpc@1.84.1
+- pkg:composer/grpc/grpc@1.84.4
 - pkg:composer/grpc/grpc@1.85.0
+- pkg:composer/grpc/grpc@1.85.4
 - pkg:composer/grpc/grpc@1.9.0
