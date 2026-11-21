@@ -18,3 +18,4 @@
 - pkg:composer/jmonitor/collector@v2.4.0
 - pkg:composer/jmonitor/collector@v2.5.0
 - pkg:composer/jmonitor/collector@v2.5.1
+- pkg:composer/jmonitor/collector@v2.6.0
