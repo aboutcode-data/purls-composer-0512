@@ -9,6 +9,7 @@
 - pkg:composer/idct/symfony-nats-messenger@v4.0.0
 - pkg:composer/idct/symfony-nats-messenger@v5.0.0
 - pkg:composer/idct/symfony-nats-messenger@v5.1.0
+- pkg:composer/idct/symfony-nats-messenger@v5.10.0
 - pkg:composer/idct/symfony-nats-messenger@v5.2.0
 - pkg:composer/idct/symfony-nats-messenger@v5.2.1
 - pkg:composer/idct/symfony-nats-messenger@v5.2.2
@@ -23,3 +24,4 @@
 - pkg:composer/idct/symfony-nats-messenger@v5.8.0
 - pkg:composer/idct/symfony-nats-messenger@v5.8.1
 - pkg:composer/idct/symfony-nats-messenger@v5.9.0
+- pkg:composer/idct/symfony-nats-messenger@v5.9.1
