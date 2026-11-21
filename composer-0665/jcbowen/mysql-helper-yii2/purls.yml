@@ -17,6 +17,9 @@
 - pkg:composer/jcbowen/mysql-helper-yii2@v0.5.1
 - pkg:composer/jcbowen/mysql-helper-yii2@v0.5.10
 - pkg:composer/jcbowen/mysql-helper-yii2@v0.5.13
+- pkg:composer/jcbowen/mysql-helper-yii2@v0.5.14
+- pkg:composer/jcbowen/mysql-helper-yii2@v0.5.15
+- pkg:composer/jcbowen/mysql-helper-yii2@v0.5.16
 - pkg:composer/jcbowen/mysql-helper-yii2@v0.5.2
 - pkg:composer/jcbowen/mysql-helper-yii2@v0.5.3
 - pkg:composer/jcbowen/mysql-helper-yii2@v0.5.5
