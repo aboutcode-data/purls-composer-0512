@@ -8,6 +8,9 @@
 - pkg:composer/innis/nostr-core@v0.1.7
 - pkg:composer/innis/nostr-core@v0.1.8
 - pkg:composer/innis/nostr-core@v0.1.9
+- pkg:composer/innis/nostr-core@v0.10.0
+- pkg:composer/innis/nostr-core@v0.10.1
+- pkg:composer/innis/nostr-core@v0.11.0
 - pkg:composer/innis/nostr-core@v0.2.0
 - pkg:composer/innis/nostr-core@v0.2.1
 - pkg:composer/innis/nostr-core@v0.2.2
