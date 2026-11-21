@@ -33,6 +33,14 @@
 - pkg:composer/jweiland/events2@10.2.7
 - pkg:composer/jweiland/events2@10.2.8
 - pkg:composer/jweiland/events2@10.2.9
+- pkg:composer/jweiland/events2@11.0.0
+- pkg:composer/jweiland/events2@11.0.1
+- pkg:composer/jweiland/events2@11.0.2
+- pkg:composer/jweiland/events2@11.1.0
+- pkg:composer/jweiland/events2@11.2.0
+- pkg:composer/jweiland/events2@11.2.1
+- pkg:composer/jweiland/events2@12.0.0
+- pkg:composer/jweiland/events2@12.0.1
 - pkg:composer/jweiland/events2@2.0.0
 - pkg:composer/jweiland/events2@2.1.0
 - pkg:composer/jweiland/events2@2.1.1
