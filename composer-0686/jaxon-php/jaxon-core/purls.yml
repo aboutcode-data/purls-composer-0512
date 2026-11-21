@@ -1,5 +1,6 @@
 - pkg:composer/jaxon-php/jaxon-core@3.1.9
 - pkg:composer/jaxon-php/jaxon-core@3.3.0
+- pkg:composer/jaxon-php/jaxon-core@5.8.7
 - pkg:composer/jaxon-php/jaxon-core@v1.0.0
 - pkg:composer/jaxon-php/jaxon-core@v1.0.1
 - pkg:composer/jaxon-php/jaxon-core@v1.0.10
@@ -215,8 +216,11 @@
 - pkg:composer/jaxon-php/jaxon-core@v5.7.5
 - pkg:composer/jaxon-php/jaxon-core@v5.8.0
 - pkg:composer/jaxon-php/jaxon-core@v5.8.1
+- pkg:composer/jaxon-php/jaxon-core@v5.8.10
 - pkg:composer/jaxon-php/jaxon-core@v5.8.2
 - pkg:composer/jaxon-php/jaxon-core@v5.8.3
 - pkg:composer/jaxon-php/jaxon-core@v5.8.4
 - pkg:composer/jaxon-php/jaxon-core@v5.8.5
 - pkg:composer/jaxon-php/jaxon-core@v5.8.6
+- pkg:composer/jaxon-php/jaxon-core@v5.8.8
+- pkg:composer/jaxon-php/jaxon-core@v5.8.9
