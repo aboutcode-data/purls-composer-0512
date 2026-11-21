@@ -3,3 +3,5 @@
 - pkg:composer/justbetter/statamic-cloudflare-purge@2.0.0
 - pkg:composer/justbetter/statamic-cloudflare-purge@2.1.0
 - pkg:composer/justbetter/statamic-cloudflare-purge@2.2.0
+- pkg:composer/justbetter/statamic-cloudflare-purge@2.2.1
+- pkg:composer/justbetter/statamic-cloudflare-purge@2.2.2

@@ -63,3 +63,5 @@
 - pkg:composer/justbetter/magento2-sentry@4.5.4
 - pkg:composer/justbetter/magento2-sentry@4.5.5
 - pkg:composer/justbetter/magento2-sentry@4.6.0
+- pkg:composer/justbetter/magento2-sentry@4.7.0
+- pkg:composer/justbetter/magento2-sentry@5.0.0
