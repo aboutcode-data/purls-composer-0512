@@ -35,3 +35,7 @@
 - pkg:composer/jardiscore/app@v3.1.0
 - pkg:composer/jardiscore/app@v3.2.0
 - pkg:composer/jardiscore/app@v3.3.0
+- pkg:composer/jardiscore/app@v3.3.1
+- pkg:composer/jardiscore/app@v3.3.2
+- pkg:composer/jardiscore/app@v3.4.0
+- pkg:composer/jardiscore/app@v3.5.0
