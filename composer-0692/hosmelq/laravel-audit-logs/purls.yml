@@ -2,3 +2,4 @@
 - pkg:composer/hosmelq/laravel-audit-logs@v1.1.0
 - pkg:composer/hosmelq/laravel-audit-logs@v2.0.0
 - pkg:composer/hosmelq/laravel-audit-logs@v2.0.1
+- pkg:composer/hosmelq/laravel-audit-logs@v3.0.0
