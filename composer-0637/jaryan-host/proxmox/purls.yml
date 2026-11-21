@@ -1,0 +1,5 @@
+- pkg:composer/jaryan-host/proxmox@v1.0.0
+- pkg:composer/jaryan-host/proxmox@v1.0.1
+- pkg:composer/jaryan-host/proxmox@v1.1.0
+- pkg:composer/jaryan-host/proxmox@v1.2.0
+- pkg:composer/jaryan-host/proxmox@v1.3.0
