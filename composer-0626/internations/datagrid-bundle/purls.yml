@@ -10,3 +10,4 @@
 - pkg:composer/internations/datagrid-bundle@v3.2.0
 - pkg:composer/internations/datagrid-bundle@v4.0.0-beta
 - pkg:composer/internations/datagrid-bundle@v5.0.0
+- pkg:composer/internations/datagrid-bundle@v5.0.1
