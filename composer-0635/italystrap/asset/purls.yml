@@ -1,1 +1,5 @@
 - pkg:composer/italystrap/asset@0.0.1-alpha
+- pkg:composer/italystrap/asset@1.0.0
+- pkg:composer/italystrap/asset@1.1.0
+- pkg:composer/italystrap/asset@1.1.1
+- pkg:composer/italystrap/asset@2.0.0
