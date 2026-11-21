@@ -1,1 +1,2 @@
 - pkg:composer/ipaynow/ipaynow-php-sdk@1.0.0
+- pkg:composer/ipaynow/ipaynow-php-sdk@1.0.1
