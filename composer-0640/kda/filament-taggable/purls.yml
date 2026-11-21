@@ -31,3 +31,5 @@
 - pkg:composer/kda/filament-taggable@4.0.1
 - pkg:composer/kda/filament-taggable@5.0.0
 - pkg:composer/kda/filament-taggable@5.0.1
+- pkg:composer/kda/filament-taggable@5.1.0
+- pkg:composer/kda/filament-taggable@5.2.0
