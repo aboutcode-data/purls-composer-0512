@@ -6,6 +6,7 @@
 - pkg:composer/jeroen-g/laravel-packager@2.7.2
 - pkg:composer/jeroen-g/laravel-packager@2.8.0
 - pkg:composer/jeroen-g/laravel-packager@2.9.0
+- pkg:composer/jeroen-g/laravel-packager@3.0
 - pkg:composer/jeroen-g/laravel-packager@V1.5.1
 - pkg:composer/jeroen-g/laravel-packager@V2.0.1
 - pkg:composer/jeroen-g/laravel-packager@V2.1
