@@ -33,3 +33,7 @@
 - pkg:composer/iquesters/user-management@v1.0.7
 - pkg:composer/iquesters/user-management@v1.0.8
 - pkg:composer/iquesters/user-management@v1.0.9
+- pkg:composer/iquesters/user-management@v2.0.0
+- pkg:composer/iquesters/user-management@v2.0.1
+- pkg:composer/iquesters/user-management@v2.0.2
+- pkg:composer/iquesters/user-management@v2.0.3
