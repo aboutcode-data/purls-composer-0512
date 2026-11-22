@@ -9,6 +9,7 @@
 - pkg:composer/mekras/php-speller@2.1.4
 - pkg:composer/mekras/php-speller@2.2.0
 - pkg:composer/mekras/php-speller@2.3.0
+- pkg:composer/mekras/php-speller@2.4.0
 - pkg:composer/mekras/php-speller@v1.00
 - pkg:composer/mekras/php-speller@v1.01
 - pkg:composer/mekras/php-speller@v1.02
