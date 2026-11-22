@@ -24,3 +24,5 @@
 - pkg:composer/mmoreram/gearman-bundle@v5.0.0
 - pkg:composer/mmoreram/gearman-bundle@v5.0.1
 - pkg:composer/mmoreram/gearman-bundle@v5.1.1
+- pkg:composer/mmoreram/gearman-bundle@v5.1.2
+- pkg:composer/mmoreram/gearman-bundle@v5.2.0
