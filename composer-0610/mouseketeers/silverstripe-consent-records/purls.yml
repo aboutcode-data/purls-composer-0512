@@ -5,8 +5,14 @@
 - pkg:composer/mouseketeers/silverstripe-consent-records@1.0.4
 - pkg:composer/mouseketeers/silverstripe-consent-records@1.0.5
 - pkg:composer/mouseketeers/silverstripe-consent-records@1.1.0
+- pkg:composer/mouseketeers/silverstripe-consent-records@1.1.1
 - pkg:composer/mouseketeers/silverstripe-consent-records@2.0.0
 - pkg:composer/mouseketeers/silverstripe-consent-records@2.0.1
 - pkg:composer/mouseketeers/silverstripe-consent-records@2.1.0
+- pkg:composer/mouseketeers/silverstripe-consent-records@2.1.1
+- pkg:composer/mouseketeers/silverstripe-consent-records@2.2.0
 - pkg:composer/mouseketeers/silverstripe-consent-records@3.0.0
 - pkg:composer/mouseketeers/silverstripe-consent-records@3.0.1
+- pkg:composer/mouseketeers/silverstripe-consent-records@4.0.0
+- pkg:composer/mouseketeers/silverstripe-consent-records@4.1.0
+- pkg:composer/mouseketeers/silverstripe-consent-records@5.0.0
