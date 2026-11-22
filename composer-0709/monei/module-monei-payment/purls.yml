@@ -43,6 +43,11 @@
 - pkg:composer/monei/module-monei-payment@2.4.3
 - pkg:composer/monei/module-monei-payment@2.4.4
 - pkg:composer/monei/module-monei-payment@2.5.0
+- pkg:composer/monei/module-monei-payment@2.5.1
+- pkg:composer/monei/module-monei-payment@2.5.2
+- pkg:composer/monei/module-monei-payment@2.5.3
+- pkg:composer/monei/module-monei-payment@2.5.4
+- pkg:composer/monei/module-monei-payment@2.5.5
 - pkg:composer/monei/module-monei-payment@v1.0.0
 - pkg:composer/monei/module-monei-payment@v1.1.0
 - pkg:composer/monei/module-monei-payment@v1.1.1
