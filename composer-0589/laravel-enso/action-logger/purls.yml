@@ -107,3 +107,4 @@
 - pkg:composer/laravel-enso/action-logger@3.8.0
 - pkg:composer/laravel-enso/action-logger@3.8.1
 - pkg:composer/laravel-enso/action-logger@3.8.2
+- pkg:composer/laravel-enso/action-logger@3.8.3
