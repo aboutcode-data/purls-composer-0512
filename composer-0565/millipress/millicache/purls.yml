@@ -39,3 +39,4 @@
 - pkg:composer/millipress/millicache@v1.8.2-beta
 - pkg:composer/millipress/millicache@v1.8.2-beta.1
 - pkg:composer/millipress/millicache@v1.8.2-beta.2
+- pkg:composer/millipress/millicache@v1.8.3
