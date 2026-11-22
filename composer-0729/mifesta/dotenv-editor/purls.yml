@@ -1,3 +1,7 @@
 - pkg:composer/mifesta/dotenv-editor@1.0.0
 - pkg:composer/mifesta/dotenv-editor@1.0.1
 - pkg:composer/mifesta/dotenv-editor@1.0.2
+- pkg:composer/mifesta/dotenv-editor@v10.0.0
+- pkg:composer/mifesta/dotenv-editor@v11.0.0
+- pkg:composer/mifesta/dotenv-editor@v12.0.0
+- pkg:composer/mifesta/dotenv-editor@v13.0.0
