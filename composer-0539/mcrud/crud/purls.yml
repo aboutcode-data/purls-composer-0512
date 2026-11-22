@@ -1,1 +1,2 @@
 - pkg:composer/mcrud/crud@v1.0
+- pkg:composer/mcrud/crud@v2.0.0
