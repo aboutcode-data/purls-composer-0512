@@ -31,6 +31,7 @@
 - pkg:composer/lizmap/lizmap-mapbuilder-module@2.4.3
 - pkg:composer/lizmap/lizmap-mapbuilder-module@2.4.4
 - pkg:composer/lizmap/lizmap-mapbuilder-module@2.4.5
+- pkg:composer/lizmap/lizmap-mapbuilder-module@2.4.6
 - pkg:composer/lizmap/lizmap-mapbuilder-module@v1.0.0-rc.1
 - pkg:composer/lizmap/lizmap-mapbuilder-module@v1.0.0-rc.10
 - pkg:composer/lizmap/lizmap-mapbuilder-module@v1.0.0-rc.11
