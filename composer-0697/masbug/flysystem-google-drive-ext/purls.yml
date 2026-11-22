@@ -26,3 +26,5 @@
 - pkg:composer/masbug/flysystem-google-drive-ext@v2.4.0
 - pkg:composer/masbug/flysystem-google-drive-ext@v2.4.1
 - pkg:composer/masbug/flysystem-google-drive-ext@v2.5.0
+- pkg:composer/masbug/flysystem-google-drive-ext@v2.6.0
+- pkg:composer/masbug/flysystem-google-drive-ext@v3.0.0
