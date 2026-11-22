@@ -48,6 +48,7 @@
 - pkg:composer/liquid/liquid@1.4.45
 - pkg:composer/liquid/liquid@1.4.46
 - pkg:composer/liquid/liquid@1.4.47
+- pkg:composer/liquid/liquid@1.4.48
 - pkg:composer/liquid/liquid@1.4.5
 - pkg:composer/liquid/liquid@1.4.6
 - pkg:composer/liquid/liquid@1.4.7
