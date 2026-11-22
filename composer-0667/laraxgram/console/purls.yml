@@ -7,3 +7,5 @@
 - pkg:composer/laraxgram/console@v4.6.0
 - pkg:composer/laraxgram/console@v4.6.1
 - pkg:composer/laraxgram/console@v4.7.0
+- pkg:composer/laraxgram/console@v4.8.0
+- pkg:composer/laraxgram/console@v4.9.0
