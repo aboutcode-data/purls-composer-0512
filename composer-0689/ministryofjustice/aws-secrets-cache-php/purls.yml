@@ -25,3 +25,4 @@
 - pkg:composer/ministryofjustice/aws-secrets-cache-php@v2.1.8
 - pkg:composer/ministryofjustice/aws-secrets-cache-php@v2.2.0
 - pkg:composer/ministryofjustice/aws-secrets-cache-php@v2.2.1
+- pkg:composer/ministryofjustice/aws-secrets-cache-php@v2.2.2
