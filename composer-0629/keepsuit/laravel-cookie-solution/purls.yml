@@ -39,4 +39,7 @@
 - pkg:composer/keepsuit/laravel-cookie-solution@2.1.0
 - pkg:composer/keepsuit/laravel-cookie-solution@2.2.0
 - pkg:composer/keepsuit/laravel-cookie-solution@2.2.1
+- pkg:composer/keepsuit/laravel-cookie-solution@2.3.0
+- pkg:composer/keepsuit/laravel-cookie-solution@2.4.0
+- pkg:composer/keepsuit/laravel-cookie-solution@2.5.0
 - pkg:composer/keepsuit/laravel-cookie-solution@v0.2.1

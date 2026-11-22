@@ -1,2 +1,4 @@
 - pkg:composer/keepcloud/vultr-api-laravel@v1.0.0
 - pkg:composer/keepcloud/vultr-api-laravel@v1.0.1
+- pkg:composer/keepcloud/vultr-api-laravel@v1.1.0
+- pkg:composer/keepcloud/vultr-api-laravel@v2.0.0
