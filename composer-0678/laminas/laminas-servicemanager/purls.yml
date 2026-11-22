@@ -105,6 +105,7 @@
 - pkg:composer/laminas/laminas-servicemanager@3.23.0
 - pkg:composer/laminas/laminas-servicemanager@3.23.1
 - pkg:composer/laminas/laminas-servicemanager@3.24.0
+- pkg:composer/laminas/laminas-servicemanager@3.25.0
 - pkg:composer/laminas/laminas-servicemanager@3.3.0
 - pkg:composer/laminas/laminas-servicemanager@3.3.1
 - pkg:composer/laminas/laminas-servicemanager@3.3.2
@@ -133,3 +134,4 @@
 - pkg:composer/laminas/laminas-servicemanager@4.4.0
 - pkg:composer/laminas/laminas-servicemanager@4.5.0
 - pkg:composer/laminas/laminas-servicemanager@4.5.1
+- pkg:composer/laminas/laminas-servicemanager@4.6.0

@@ -7,3 +7,4 @@
 - pkg:composer/laminas/laminas-i18n-phone-number@1.4.0
 - pkg:composer/laminas/laminas-i18n-phone-number@1.5.0
 - pkg:composer/laminas/laminas-i18n-phone-number@1.6.0
+- pkg:composer/laminas/laminas-i18n-phone-number@1.7.0
