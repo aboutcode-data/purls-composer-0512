@@ -35,3 +35,4 @@
 - pkg:composer/magdv/diadoc-php@0.6.0
 - pkg:composer/magdv/diadoc-php@0.7.0
 - pkg:composer/magdv/diadoc-php@0.7.1
+- pkg:composer/magdv/diadoc-php@1.0.0
