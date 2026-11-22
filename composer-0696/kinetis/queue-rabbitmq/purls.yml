@@ -9,3 +9,4 @@
 - pkg:composer/kinetis/queue-rabbitmq@v1.6.1
 - pkg:composer/kinetis/queue-rabbitmq@v1.6.2
 - pkg:composer/kinetis/queue-rabbitmq@v1.6.3
+- pkg:composer/kinetis/queue-rabbitmq@v1.6.4
