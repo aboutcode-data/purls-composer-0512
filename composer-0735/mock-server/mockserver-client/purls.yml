@@ -8,3 +8,5 @@
 - pkg:composer/mock-server/mockserver-client@9.0.0
 - pkg:composer/mock-server/mockserver-client@9.1.0
 - pkg:composer/mock-server/mockserver-client@9.2.0
+- pkg:composer/mock-server/mockserver-client@9.3.0
+- pkg:composer/mock-server/mockserver-client@9.4.0
