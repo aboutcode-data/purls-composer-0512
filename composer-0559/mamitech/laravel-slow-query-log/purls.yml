@@ -14,3 +14,4 @@
 - pkg:composer/mamitech/laravel-slow-query-log@v1.1
 - pkg:composer/mamitech/laravel-slow-query-log@v2.0
 - pkg:composer/mamitech/laravel-slow-query-log@v3.0
+- pkg:composer/mamitech/laravel-slow-query-log@v4.0
