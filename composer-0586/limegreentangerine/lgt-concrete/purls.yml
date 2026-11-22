@@ -1,5 +1,12 @@
 - pkg:composer/limegreentangerine/lgt-concrete@0.0.0
 - pkg:composer/limegreentangerine/lgt-concrete@0.0.1
+- pkg:composer/limegreentangerine/lgt-concrete@0.0.2
+- pkg:composer/limegreentangerine/lgt-concrete@0.0.3
+- pkg:composer/limegreentangerine/lgt-concrete@0.0.4
+- pkg:composer/limegreentangerine/lgt-concrete@0.0.5
+- pkg:composer/limegreentangerine/lgt-concrete@0.0.6
+- pkg:composer/limegreentangerine/lgt-concrete@0.0.7
+- pkg:composer/limegreentangerine/lgt-concrete@0.0.8
 - pkg:composer/limegreentangerine/lgt-concrete@1.0.0-rc.1
 - pkg:composer/limegreentangerine/lgt-concrete@1.0.0-rc.2
 - pkg:composer/limegreentangerine/lgt-concrete@1.0.0-rc.3
