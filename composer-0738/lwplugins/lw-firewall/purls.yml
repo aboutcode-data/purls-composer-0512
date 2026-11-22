@@ -44,3 +44,4 @@
 - pkg:composer/lwplugins/lw-firewall@v1.8.5
 - pkg:composer/lwplugins/lw-firewall@v1.9.0
 - pkg:composer/lwplugins/lw-firewall@v1.9.1
+- pkg:composer/lwplugins/lw-firewall@v1.9.2
