@@ -40,6 +40,9 @@
 - pkg:composer/kipchak/driver-rabbitmq@1.44
 - pkg:composer/kipchak/driver-rabbitmq@1.45
 - pkg:composer/kipchak/driver-rabbitmq@1.46
+- pkg:composer/kipchak/driver-rabbitmq@1.47
+- pkg:composer/kipchak/driver-rabbitmq@1.48
+- pkg:composer/kipchak/driver-rabbitmq@1.49
 - pkg:composer/kipchak/driver-rabbitmq@1.5
 - pkg:composer/kipchak/driver-rabbitmq@1.6
 - pkg:composer/kipchak/driver-rabbitmq@1.7
