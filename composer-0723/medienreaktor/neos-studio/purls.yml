@@ -36,6 +36,7 @@
 - pkg:composer/medienreaktor/neos-studio@1.18.1
 - pkg:composer/medienreaktor/neos-studio@1.19.0
 - pkg:composer/medienreaktor/neos-studio@1.19.1
+- pkg:composer/medienreaktor/neos-studio@1.19.2
 - pkg:composer/medienreaktor/neos-studio@1.2
 - pkg:composer/medienreaktor/neos-studio@1.2.1
 - pkg:composer/medienreaktor/neos-studio@1.2.2
@@ -68,3 +69,19 @@
 - pkg:composer/medienreaktor/neos-studio@1.9.7
 - pkg:composer/medienreaktor/neos-studio@1.9.8
 - pkg:composer/medienreaktor/neos-studio@1.9.9
+- pkg:composer/medienreaktor/neos-studio@2.0.0
+- pkg:composer/medienreaktor/neos-studio@2.0.1
+- pkg:composer/medienreaktor/neos-studio@2.0.2
+- pkg:composer/medienreaktor/neos-studio@2.0.3
+- pkg:composer/medienreaktor/neos-studio@2.0.4
+- pkg:composer/medienreaktor/neos-studio@2.0.5
+- pkg:composer/medienreaktor/neos-studio@2.1.0
+- pkg:composer/medienreaktor/neos-studio@2.1.1
+- pkg:composer/medienreaktor/neos-studio@2.2.0
+- pkg:composer/medienreaktor/neos-studio@2.2.1
+- pkg:composer/medienreaktor/neos-studio@2.3.0
+- pkg:composer/medienreaktor/neos-studio@2.3.1
+- pkg:composer/medienreaktor/neos-studio@2.4.0
+- pkg:composer/medienreaktor/neos-studio@2.5.0
+- pkg:composer/medienreaktor/neos-studio@2.6.0
+- pkg:composer/medienreaktor/neos-studio@2.6.1
