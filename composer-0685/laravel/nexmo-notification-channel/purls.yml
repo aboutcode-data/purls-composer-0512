@@ -21,3 +21,5 @@
 - pkg:composer/laravel/nexmo-notification-channel@v3.3.3
 - pkg:composer/laravel/nexmo-notification-channel@v3.3.4
 - pkg:composer/laravel/nexmo-notification-channel@v3.3.5
+- pkg:composer/laravel/nexmo-notification-channel@v3.4.0
+- pkg:composer/laravel/nexmo-notification-channel@v3.5.0

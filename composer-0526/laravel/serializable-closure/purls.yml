@@ -35,3 +35,4 @@
 - pkg:composer/laravel/serializable-closure@v2.0.8
 - pkg:composer/laravel/serializable-closure@v2.0.9
 - pkg:composer/laravel/serializable-closure@v2.1.0
+- pkg:composer/laravel/serializable-closure@v2.2.0
