@@ -23,6 +23,7 @@
 - pkg:composer/marcelweidum/filament-passkeys@v3.0.6
 - pkg:composer/marcelweidum/filament-passkeys@v4.0.0
 - pkg:composer/marcelweidum/filament-passkeys@v4.0.1
+- pkg:composer/marcelweidum/filament-passkeys@v4.0.10
 - pkg:composer/marcelweidum/filament-passkeys@v4.0.2
 - pkg:composer/marcelweidum/filament-passkeys@v4.0.3
 - pkg:composer/marcelweidum/filament-passkeys@v4.0.4
