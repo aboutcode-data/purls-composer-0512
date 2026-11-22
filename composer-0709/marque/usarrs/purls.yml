@@ -1,3 +1,7 @@
+- pkg:composer/marque/usarrs@v10.0.0
+- pkg:composer/marque/usarrs@v10.1.0
+- pkg:composer/marque/usarrs@v11.0.0
+- pkg:composer/marque/usarrs@v11.1.0
 - pkg:composer/marque/usarrs@v2.0.0
 - pkg:composer/marque/usarrs@v2.1.0
 - pkg:composer/marque/usarrs@v3.0.0
@@ -20,3 +24,4 @@
 - pkg:composer/marque/usarrs@v8.6.1
 - pkg:composer/marque/usarrs@v8.6.2
 - pkg:composer/marque/usarrs@v9.0.0
+- pkg:composer/marque/usarrs@v9.0.1
