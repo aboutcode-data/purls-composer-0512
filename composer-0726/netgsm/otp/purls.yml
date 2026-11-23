@@ -1,2 +1,6 @@
 - pkg:composer/netgsm/otp@v1.0.1
 - pkg:composer/netgsm/otp@v2.0.1
+- pkg:composer/netgsm/otp@v3.0.0
+- pkg:composer/netgsm/otp@v3.0.1
+- pkg:composer/netgsm/otp@v3.0.2
+- pkg:composer/netgsm/otp@v3.1.0
