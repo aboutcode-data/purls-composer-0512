@@ -85,6 +85,7 @@
 - pkg:composer/neighborhoods/prefab@8.0.0-alpha
 - pkg:composer/neighborhoods/prefab@8.0.0-beta
 - pkg:composer/neighborhoods/prefab@8.1.0
+- pkg:composer/neighborhoods/prefab@8.10.0
 - pkg:composer/neighborhoods/prefab@8.2.0
 - pkg:composer/neighborhoods/prefab@8.2.1
 - pkg:composer/neighborhoods/prefab@8.2.2
