@@ -172,6 +172,7 @@
 - pkg:composer/nunomaduro/larastan@v3.13.1
 - pkg:composer/nunomaduro/larastan@v3.13.2
 - pkg:composer/nunomaduro/larastan@v3.14.0
+- pkg:composer/nunomaduro/larastan@v3.15.0
 - pkg:composer/nunomaduro/larastan@v3.2.0
 - pkg:composer/nunomaduro/larastan@v3.3.0
 - pkg:composer/nunomaduro/larastan@v3.3.1
