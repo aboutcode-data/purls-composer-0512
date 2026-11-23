@@ -92,7 +92,12 @@
 - pkg:composer/oceancodex/wpsp-core@12.1.84
 - pkg:composer/oceancodex/wpsp-core@12.1.85
 - pkg:composer/oceancodex/wpsp-core@12.1.86
+- pkg:composer/oceancodex/wpsp-core@12.1.87
+- pkg:composer/oceancodex/wpsp-core@12.1.88
+- pkg:composer/oceancodex/wpsp-core@12.1.89
 - pkg:composer/oceancodex/wpsp-core@12.1.9
+- pkg:composer/oceancodex/wpsp-core@12.1.90
+- pkg:composer/oceancodex/wpsp-core@12.1.91
 - pkg:composer/oceancodex/wpsp-core@13.0.1
 - pkg:composer/oceancodex/wpsp-core@13.0.3
 - pkg:composer/oceancodex/wpsp-core@13.0.4
@@ -186,4 +191,9 @@
 - pkg:composer/oceancodex/wpsp-core@13.1.84
 - pkg:composer/oceancodex/wpsp-core@13.1.85
 - pkg:composer/oceancodex/wpsp-core@13.1.86
+- pkg:composer/oceancodex/wpsp-core@13.1.87
+- pkg:composer/oceancodex/wpsp-core@13.1.88
+- pkg:composer/oceancodex/wpsp-core@13.1.89
 - pkg:composer/oceancodex/wpsp-core@13.1.9
+- pkg:composer/oceancodex/wpsp-core@13.1.90
+- pkg:composer/oceancodex/wpsp-core@13.1.91
