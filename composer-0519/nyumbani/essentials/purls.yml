@@ -18,6 +18,13 @@
 - pkg:composer/nyumbani/essentials@v1.15.0
 - pkg:composer/nyumbani/essentials@v1.15.1
 - pkg:composer/nyumbani/essentials@v1.16.0
+- pkg:composer/nyumbani/essentials@v1.16.1
+- pkg:composer/nyumbani/essentials@v1.16.2
+- pkg:composer/nyumbani/essentials@v1.17.0
+- pkg:composer/nyumbani/essentials@v1.17.1
+- pkg:composer/nyumbani/essentials@v1.18.0
+- pkg:composer/nyumbani/essentials@v1.18.1
+- pkg:composer/nyumbani/essentials@v1.19.0
 - pkg:composer/nyumbani/essentials@v1.2.0
 - pkg:composer/nyumbani/essentials@v1.2.1
 - pkg:composer/nyumbani/essentials@v1.2.2
