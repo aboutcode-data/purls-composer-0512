@@ -22,3 +22,9 @@
 - pkg:composer/ocallit/sqler@1.40.2
 - pkg:composer/ocallit/sqler@1.40.3
 - pkg:composer/ocallit/sqler@1.40.5
+- pkg:composer/ocallit/sqler@1.5.0
+- pkg:composer/ocallit/sqler@1.50.0
+- pkg:composer/ocallit/sqler@1.50.1
+- pkg:composer/ocallit/sqler@1.50.2
+- pkg:composer/ocallit/sqler@1.50.3
+- pkg:composer/ocallit/sqler@1.60.0
