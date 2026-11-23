@@ -5,3 +5,5 @@
 - pkg:composer/nox-it/yii2-nox-cron-jobs@1.0.5
 - pkg:composer/nox-it/yii2-nox-cron-jobs@1.0.6
 - pkg:composer/nox-it/yii2-nox-cron-jobs@2.0.0
+- pkg:composer/nox-it/yii2-nox-cron-jobs@4.0.0
+- pkg:composer/nox-it/yii2-nox-cron-jobs@5.0.0

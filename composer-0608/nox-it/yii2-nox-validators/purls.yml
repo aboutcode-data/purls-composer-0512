@@ -8,3 +8,5 @@
 - pkg:composer/nox-it/yii2-nox-validators@1.0.8
 - pkg:composer/nox-it/yii2-nox-validators@2.0.0
 - pkg:composer/nox-it/yii2-nox-validators@2.0.1
+- pkg:composer/nox-it/yii2-nox-validators@4.0.0
+- pkg:composer/nox-it/yii2-nox-validators@5.0.0

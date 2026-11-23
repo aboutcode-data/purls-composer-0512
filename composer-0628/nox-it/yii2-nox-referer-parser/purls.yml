@@ -6,3 +6,5 @@
 - pkg:composer/nox-it/yii2-nox-referer-parser@1.0.5
 - pkg:composer/nox-it/yii2-nox-referer-parser@1.0.6
 - pkg:composer/nox-it/yii2-nox-referer-parser@2.0.0
+- pkg:composer/nox-it/yii2-nox-referer-parser@4.0.0
+- pkg:composer/nox-it/yii2-nox-referer-parser@5.0.1

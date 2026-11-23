@@ -7,3 +7,5 @@
 - pkg:composer/nox-it/yii2-nox-flash-messages@2.0.1
 - pkg:composer/nox-it/yii2-nox-flash-messages@2.0.2
 - pkg:composer/nox-it/yii2-nox-flash-messages@3.0.0
+- pkg:composer/nox-it/yii2-nox-flash-messages@4.0.0
+- pkg:composer/nox-it/yii2-nox-flash-messages@5.0.0
