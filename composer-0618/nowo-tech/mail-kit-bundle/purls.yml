@@ -24,3 +24,5 @@
 - pkg:composer/nowo-tech/mail-kit-bundle@v1.9.1
 - pkg:composer/nowo-tech/mail-kit-bundle@v2.0.0
 - pkg:composer/nowo-tech/mail-kit-bundle@v2.1.0
+- pkg:composer/nowo-tech/mail-kit-bundle@v2.2.0
+- pkg:composer/nowo-tech/mail-kit-bundle@v2.2.1
