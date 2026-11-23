@@ -10,3 +10,8 @@
 - pkg:composer/neopayment/nbo-installer@v1.0.6-rc1
 - pkg:composer/neopayment/nbo-installer@v1.0.6-rc2
 - pkg:composer/neopayment/nbo-installer@v1.0.6-rc3
+- pkg:composer/neopayment/nbo-installer@v1.0.7
+- pkg:composer/neopayment/nbo-installer@v1.0.7-rc1
+- pkg:composer/neopayment/nbo-installer@v1.0.7-rc2
+- pkg:composer/neopayment/nbo-installer@v1.1.0-rc1
+- pkg:composer/neopayment/nbo-installer@v1.1.0-rc2
