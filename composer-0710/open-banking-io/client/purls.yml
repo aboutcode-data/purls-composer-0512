@@ -3,3 +3,4 @@
 - pkg:composer/open-banking-io/client@v0.3.0
 - pkg:composer/open-banking-io/client@v1.0.0
 - pkg:composer/open-banking-io/client@v1.1.0
+- pkg:composer/open-banking-io/client@v2.0.0
