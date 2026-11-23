@@ -1,2 +1,5 @@
 - pkg:composer/nvl/mail-notification-bridge@v7.0.0
 - pkg:composer/nvl/mail-notification-bridge@v7.0.1
+- pkg:composer/nvl/mail-notification-bridge@v7.0.2
+- pkg:composer/nvl/mail-notification-bridge@v7.0.3
+- pkg:composer/nvl/mail-notification-bridge@v7.1.0
