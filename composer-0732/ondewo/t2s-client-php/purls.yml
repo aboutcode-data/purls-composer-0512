@@ -1,2 +1,4 @@
 - pkg:composer/ondewo/t2s-client-php@6.6.0
 - pkg:composer/ondewo/t2s-client-php@6.6.1
+- pkg:composer/ondewo/t2s-client-php@6.7.0
+- pkg:composer/ondewo/t2s-client-php@6.7.1
