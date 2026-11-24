@@ -32,3 +32,4 @@
 - pkg:composer/poliander/cron@3.2.2
 - pkg:composer/poliander/cron@3.3.0
 - pkg:composer/poliander/cron@3.3.1
+- pkg:composer/poliander/cron@3.4.0
