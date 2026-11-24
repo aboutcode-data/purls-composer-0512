@@ -28,6 +28,8 @@
 - pkg:composer/pimcore/object-merger@v2026.2.2
 - pkg:composer/pimcore/object-merger@v2026.3.0
 - pkg:composer/pimcore/object-merger@v2026.3.1
+- pkg:composer/pimcore/object-merger@v2026.3.5
+- pkg:composer/pimcore/object-merger@v2026.3.6
 - pkg:composer/pimcore/object-merger@v3.0.0
 - pkg:composer/pimcore/object-merger@v3.0.1
 - pkg:composer/pimcore/object-merger@v3.0.10
@@ -48,7 +50,9 @@
 - pkg:composer/pimcore/object-merger@v4.0.5
 - pkg:composer/pimcore/object-merger@v4.1.0
 - pkg:composer/pimcore/object-merger@v4.1.0-RC1
+- pkg:composer/pimcore/object-merger@v4.1.1
 - pkg:composer/pimcore/object-merger@v5.0.0
 - pkg:composer/pimcore/object-merger@v5.0.0-RC1
 - pkg:composer/pimcore/object-merger@v5.1.0
 - pkg:composer/pimcore/object-merger@v5.2.0
+- pkg:composer/pimcore/object-merger@v5.2.1
