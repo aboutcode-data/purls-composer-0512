@@ -4,6 +4,11 @@
 - pkg:composer/papi-ai/anthropic@v0.15.0
 - pkg:composer/papi-ai/anthropic@v0.16.0
 - pkg:composer/papi-ai/anthropic@v0.16.1
+- pkg:composer/papi-ai/anthropic@v0.17.0
+- pkg:composer/papi-ai/anthropic@v0.17.1
+- pkg:composer/papi-ai/anthropic@v0.17.2
+- pkg:composer/papi-ai/anthropic@v0.18.0
+- pkg:composer/papi-ai/anthropic@v0.19.0
 - pkg:composer/papi-ai/anthropic@v0.6
 - pkg:composer/papi-ai/anthropic@v0.7
 - pkg:composer/papi-ai/anthropic@v0.8
