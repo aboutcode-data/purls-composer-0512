@@ -27,3 +27,5 @@
 - pkg:composer/payfurl/phpsdk@v2.2.1
 - pkg:composer/payfurl/phpsdk@v2.2.2
 - pkg:composer/payfurl/phpsdk@v2.2.3
+- pkg:composer/payfurl/phpsdk@v2.3.0
+- pkg:composer/payfurl/phpsdk@v3.0.0
