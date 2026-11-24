@@ -46,3 +46,4 @@
 - pkg:composer/oxid-esales/stripe-module@v2.1.0-rc.3
 - pkg:composer/oxid-esales/stripe-module@v2.1.0-rc.4
 - pkg:composer/oxid-esales/stripe-module@v2.1.0-rc.5
+- pkg:composer/oxid-esales/stripe-module@v2.1.1-rc.1
