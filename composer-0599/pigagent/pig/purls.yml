@@ -373,6 +373,7 @@
 - pkg:composer/pigagent/pig@v2.0.25
 - pkg:composer/pigagent/pig@v2.0.26
 - pkg:composer/pigagent/pig@v2.0.27
+- pkg:composer/pigagent/pig@v2.0.28
 - pkg:composer/pigagent/pig@v2.0.3
 - pkg:composer/pigagent/pig@v2.0.4
 - pkg:composer/pigagent/pig@v2.0.5
