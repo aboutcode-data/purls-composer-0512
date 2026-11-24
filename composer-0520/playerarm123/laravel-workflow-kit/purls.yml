@@ -13,6 +13,8 @@
 - pkg:composer/playerarm123/laravel-workflow-kit@v0.2.19
 - pkg:composer/playerarm123/laravel-workflow-kit@v0.2.2
 - pkg:composer/playerarm123/laravel-workflow-kit@v0.2.20
+- pkg:composer/playerarm123/laravel-workflow-kit@v0.2.21
+- pkg:composer/playerarm123/laravel-workflow-kit@v0.2.22
 - pkg:composer/playerarm123/laravel-workflow-kit@v0.2.3
 - pkg:composer/playerarm123/laravel-workflow-kit@v0.2.4
 - pkg:composer/playerarm123/laravel-workflow-kit@v0.2.5
@@ -20,3 +22,4 @@
 - pkg:composer/playerarm123/laravel-workflow-kit@v0.2.7
 - pkg:composer/playerarm123/laravel-workflow-kit@v0.2.8
 - pkg:composer/playerarm123/laravel-workflow-kit@v0.2.9
+- pkg:composer/playerarm123/laravel-workflow-kit@v0.3.0
