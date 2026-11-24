@@ -7,3 +7,5 @@
 - pkg:composer/quansitech/cmf-module-media@v1.4.0
 - pkg:composer/quansitech/cmf-module-media@v1.5.0
 - pkg:composer/quansitech/cmf-module-media@v1.6.0
+- pkg:composer/quansitech/cmf-module-media@v1.6.1
+- pkg:composer/quansitech/cmf-module-media@v1.7.0
