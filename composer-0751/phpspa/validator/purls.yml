@@ -2,3 +2,4 @@
 - pkg:composer/phpspa/validator@v0.0.1
 - pkg:composer/phpspa/validator@v0.0.2
 - pkg:composer/phpspa/validator@v0.0.3
+- pkg:composer/phpspa/validator@v0.0.4
