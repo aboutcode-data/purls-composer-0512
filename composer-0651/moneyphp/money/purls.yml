@@ -36,6 +36,7 @@
 - pkg:composer/moneyphp/money@v4.0.5
 - pkg:composer/moneyphp/money@v4.1.0
 - pkg:composer/moneyphp/money@v4.1.1
+- pkg:composer/moneyphp/money@v4.10.0
 - pkg:composer/moneyphp/money@v4.2.0
 - pkg:composer/moneyphp/money@v4.3.0
 - pkg:composer/moneyphp/money@v4.4.0
