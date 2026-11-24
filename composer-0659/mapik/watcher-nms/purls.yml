@@ -100,3 +100,4 @@
 - pkg:composer/mapik/watcher-nms@5.7.2
 - pkg:composer/mapik/watcher-nms@5.8.0
 - pkg:composer/mapik/watcher-nms@5.8.1
+- pkg:composer/mapik/watcher-nms@5.9.0
