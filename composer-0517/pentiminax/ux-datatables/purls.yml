@@ -149,3 +149,8 @@
 - pkg:composer/pentiminax/ux-datatables@v1.2.1
 - pkg:composer/pentiminax/ux-datatables@v1.3.0
 - pkg:composer/pentiminax/ux-datatables@v1.4.0
+- pkg:composer/pentiminax/ux-datatables@v1.5.0
+- pkg:composer/pentiminax/ux-datatables@v1.5.1
+- pkg:composer/pentiminax/ux-datatables@v1.6.0
+- pkg:composer/pentiminax/ux-datatables@v1.7.0
+- pkg:composer/pentiminax/ux-datatables@v1.8.0
