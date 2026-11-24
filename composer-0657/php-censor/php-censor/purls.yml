@@ -67,6 +67,7 @@
 - pkg:composer/php-censor/php-censor@2.0.12
 - pkg:composer/php-censor/php-censor@2.0.13
 - pkg:composer/php-censor/php-censor@2.0.14
+- pkg:composer/php-censor/php-censor@2.0.15
 - pkg:composer/php-censor/php-censor@2.0.2
 - pkg:composer/php-censor/php-censor@2.0.3
 - pkg:composer/php-censor/php-censor@2.0.4
@@ -82,3 +83,4 @@
 - pkg:composer/php-censor/php-censor@2.1.4
 - pkg:composer/php-censor/php-censor@2.1.5
 - pkg:composer/php-censor/php-censor@2.1.6
+- pkg:composer/php-censor/php-censor@2.1.7
