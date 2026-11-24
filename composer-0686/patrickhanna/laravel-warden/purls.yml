@@ -25,6 +25,11 @@
 - pkg:composer/patrickhanna/laravel-warden@v4.1.0
 - pkg:composer/patrickhanna/laravel-warden@v4.10.0
 - pkg:composer/patrickhanna/laravel-warden@v4.11.0
+- pkg:composer/patrickhanna/laravel-warden@v4.12.0
+- pkg:composer/patrickhanna/laravel-warden@v4.12.1
+- pkg:composer/patrickhanna/laravel-warden@v4.12.2
+- pkg:composer/patrickhanna/laravel-warden@v4.12.3
+- pkg:composer/patrickhanna/laravel-warden@v4.13.0
 - pkg:composer/patrickhanna/laravel-warden@v4.2.0
 - pkg:composer/patrickhanna/laravel-warden@v4.3.0
 - pkg:composer/patrickhanna/laravel-warden@v4.3.1
