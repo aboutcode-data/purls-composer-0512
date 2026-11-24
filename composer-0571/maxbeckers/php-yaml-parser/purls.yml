@@ -9,3 +9,4 @@
 - pkg:composer/maxbeckers/php-yaml-parser@0.6.0
 - pkg:composer/maxbeckers/php-yaml-parser@1.0.0
 - pkg:composer/maxbeckers/php-yaml-parser@1.0.1
+- pkg:composer/maxbeckers/php-yaml-parser@1.0.2
