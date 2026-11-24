@@ -13,3 +13,5 @@
 - pkg:composer/parcelado-lara/payment-plan-php@v3.2.4
 - pkg:composer/parcelado-lara/payment-plan-php@v3.2.6
 - pkg:composer/parcelado-lara/payment-plan-php@v3.3.0
+- pkg:composer/parcelado-lara/payment-plan-php@v3.5.0
+- pkg:composer/parcelado-lara/payment-plan-php@v3.5.1
