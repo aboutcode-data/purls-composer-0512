@@ -12,6 +12,7 @@
 - pkg:composer/orchestra/testbench-core@v10.14.1
 - pkg:composer/orchestra/testbench-core@v10.15.0
 - pkg:composer/orchestra/testbench-core@v10.16.0
+- pkg:composer/orchestra/testbench-core@v10.16.1
 - pkg:composer/orchestra/testbench-core@v10.2.0
 - pkg:composer/orchestra/testbench-core@v10.2.1
 - pkg:composer/orchestra/testbench-core@v10.2.2
@@ -46,6 +47,7 @@
 - pkg:composer/orchestra/testbench-core@v11.4.0
 - pkg:composer/orchestra/testbench-core@v11.5.0
 - pkg:composer/orchestra/testbench-core@v11.6.0
+- pkg:composer/orchestra/testbench-core@v11.6.1
 - pkg:composer/orchestra/testbench-core@v3.4.0
 - pkg:composer/orchestra/testbench-core@v3.4.1
 - pkg:composer/orchestra/testbench-core@v3.4.2
