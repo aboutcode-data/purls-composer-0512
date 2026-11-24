@@ -6,3 +6,4 @@
 - pkg:composer/pear/net_sieve@1.4.6
 - pkg:composer/pear/net_sieve@1.4.7
 - pkg:composer/pear/net_sieve@1.4.8
+- pkg:composer/pear/net_sieve@1.5.0
