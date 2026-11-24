@@ -28,3 +28,5 @@
 - pkg:composer/plugin/yard-page-guard@v3.1.0
 - pkg:composer/plugin/yard-page-guard@v3.1.1
 - pkg:composer/plugin/yard-page-guard@v3.1.2
+- pkg:composer/plugin/yard-page-guard@v3.1.3
+- pkg:composer/plugin/yard-page-guard@v3.1.4
