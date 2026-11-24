@@ -80,6 +80,7 @@
 - pkg:composer/omnitend/dashboard-for-laravel@v0.48.2
 - pkg:composer/omnitend/dashboard-for-laravel@v0.49.0
 - pkg:composer/omnitend/dashboard-for-laravel@v0.49.1
+- pkg:composer/omnitend/dashboard-for-laravel@v0.49.2
 - pkg:composer/omnitend/dashboard-for-laravel@v0.5.0
 - pkg:composer/omnitend/dashboard-for-laravel@v0.6.0
 - pkg:composer/omnitend/dashboard-for-laravel@v0.7.0
