@@ -1,5 +1,7 @@
 - pkg:composer/nowo-tech/transaction-doctrine@v1.0.0
 - pkg:composer/nowo-tech/transaction-doctrine@v1.1.0
+- pkg:composer/nowo-tech/transaction-doctrine@v1.10.0
+- pkg:composer/nowo-tech/transaction-doctrine@v1.10.1
 - pkg:composer/nowo-tech/transaction-doctrine@v1.2.0
 - pkg:composer/nowo-tech/transaction-doctrine@v1.3.0
 - pkg:composer/nowo-tech/transaction-doctrine@v1.3.1
