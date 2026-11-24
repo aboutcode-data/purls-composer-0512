@@ -28,6 +28,7 @@
 - pkg:composer/paysera/lib-rest-bundle@4.3.0
 - pkg:composer/paysera/lib-rest-bundle@4.4.0
 - pkg:composer/paysera/lib-rest-bundle@4.4.1
+- pkg:composer/paysera/lib-rest-bundle@4.4.2
 - pkg:composer/paysera/lib-rest-bundle@5.0.0
 - pkg:composer/paysera/lib-rest-bundle@5.0.1
 - pkg:composer/paysera/lib-rest-bundle@5.0.2
