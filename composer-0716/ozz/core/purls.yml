@@ -87,6 +87,7 @@
 - pkg:composer/ozz/core@1.4.3
 - pkg:composer/ozz/core@1.4.4
 - pkg:composer/ozz/core@1.4.5
+- pkg:composer/ozz/core@1.4.6
 - pkg:composer/ozz/core@v0.1.0
 - pkg:composer/ozz/core@v0.1.1
 - pkg:composer/ozz/core@v0.1.10
