@@ -42,3 +42,4 @@
 - pkg:composer/protonemedia/laravel-cross-eloquent-search@3.5.0
 - pkg:composer/protonemedia/laravel-cross-eloquent-search@3.6.0
 - pkg:composer/protonemedia/laravel-cross-eloquent-search@3.7.0
+- pkg:composer/protonemedia/laravel-cross-eloquent-search@3.8.0
