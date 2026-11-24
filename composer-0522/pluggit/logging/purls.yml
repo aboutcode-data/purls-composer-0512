@@ -9,3 +9,4 @@
 - pkg:composer/pluggit/logging@1.0.7
 - pkg:composer/pluggit/logging@1.0.8
 - pkg:composer/pluggit/logging@2.0.0
+- pkg:composer/pluggit/logging@3.0.0
