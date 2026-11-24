@@ -6,3 +6,5 @@
 - pkg:composer/quellabs/canvas-payments-klarna@1.0.5
 - pkg:composer/quellabs/canvas-payments-klarna@1.1.0
 - pkg:composer/quellabs/canvas-payments-klarna@1.2.0
+- pkg:composer/quellabs/canvas-payments-klarna@1.3.0
+- pkg:composer/quellabs/canvas-payments-klarna@1.4.0
