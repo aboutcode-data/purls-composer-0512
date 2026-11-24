@@ -558,3 +558,4 @@
 - pkg:composer/openeuropa/oe_theme@6.0.0-alpha2
 - pkg:composer/openeuropa/oe_theme@6.0.0-alpha3
 - pkg:composer/openeuropa/oe_theme@6.1.0
+- pkg:composer/openeuropa/oe_theme@6.2.0
