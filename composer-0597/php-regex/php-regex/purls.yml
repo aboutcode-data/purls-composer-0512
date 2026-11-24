@@ -75,3 +75,4 @@
 - pkg:composer/php-regex/php-regex@v1.1.0
 - pkg:composer/php-regex/php-regex@v1.2.0
 - pkg:composer/php-regex/php-regex@v1.3.0
+- pkg:composer/php-regex/php-regex@v2.0.0-RC1
