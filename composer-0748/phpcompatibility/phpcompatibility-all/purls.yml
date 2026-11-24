@@ -6,3 +6,4 @@
 - pkg:composer/phpcompatibility/phpcompatibility-all@1.1.4
 - pkg:composer/phpcompatibility/phpcompatibility-all@1.1.5
 - pkg:composer/phpcompatibility/phpcompatibility-all@2.0.0-alpha1
+- pkg:composer/phpcompatibility/phpcompatibility-all@2.0.0-alpha2
