@@ -35,6 +35,7 @@
 - pkg:composer/netresearch/nr-vault@v1.0.1
 - pkg:composer/netresearch/nr-vault@v1.1.0
 - pkg:composer/netresearch/nr-vault@v1.10.0
+- pkg:composer/netresearch/nr-vault@v1.11.0
 - pkg:composer/netresearch/nr-vault@v1.2.0
 - pkg:composer/netresearch/nr-vault@v1.3.0
 - pkg:composer/netresearch/nr-vault@v1.4.0
