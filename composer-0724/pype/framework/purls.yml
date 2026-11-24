@@ -5,6 +5,8 @@
 - pkg:composer/pype/framework@v0.12.0
 - pkg:composer/pype/framework@v0.13.0
 - pkg:composer/pype/framework@v0.13.1
+- pkg:composer/pype/framework@v0.14.0
+- pkg:composer/pype/framework@v0.14.1
 - pkg:composer/pype/framework@v0.2.0
 - pkg:composer/pype/framework@v0.3.0
 - pkg:composer/pype/framework@v0.4.0
