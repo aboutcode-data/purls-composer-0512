@@ -245,3 +245,4 @@
 - pkg:composer/ottimis/phplibs@8.4.4
 - pkg:composer/ottimis/phplibs@9.0.0
 - pkg:composer/ottimis/phplibs@9.0.1
+- pkg:composer/ottimis/phplibs@9.1.0
