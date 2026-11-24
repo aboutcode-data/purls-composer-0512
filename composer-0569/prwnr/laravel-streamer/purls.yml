@@ -43,3 +43,5 @@
 - pkg:composer/prwnr/laravel-streamer@4.5.0
 - pkg:composer/prwnr/laravel-streamer@4.6.0
 - pkg:composer/prwnr/laravel-streamer@4.7.0
+- pkg:composer/prwnr/laravel-streamer@5.0.0
+- pkg:composer/prwnr/laravel-streamer@5.0.1
