@@ -133,6 +133,7 @@
 - pkg:composer/pop-cms-schema/user-avatars-wp@20.0.0
 - pkg:composer/pop-cms-schema/user-avatars-wp@20.0.1
 - pkg:composer/pop-cms-schema/user-avatars-wp@20.0.2
+- pkg:composer/pop-cms-schema/user-avatars-wp@21.0.0
 - pkg:composer/pop-cms-schema/user-avatars-wp@3.0.0
 - pkg:composer/pop-cms-schema/user-avatars-wp@4.0.0
 - pkg:composer/pop-cms-schema/user-avatars-wp@4.0.1
