@@ -33,3 +33,12 @@
 - pkg:composer/programster/pgsql-objects@3.1.0
 - pkg:composer/programster/pgsql-objects@4.0.0
 - pkg:composer/programster/pgsql-objects@4.1.0
+- pkg:composer/programster/pgsql-objects@5.0.0-alpha1
+- pkg:composer/programster/pgsql-objects@5.0.0-alpha2
+- pkg:composer/programster/pgsql-objects@5.0.0-alpha3
+- pkg:composer/programster/pgsql-objects@5.0.0-alpha4
+- pkg:composer/programster/pgsql-objects@5.0.0-alpha5
+- pkg:composer/programster/pgsql-objects@5.0.0-alpha6
+- pkg:composer/programster/pgsql-objects@5.0.0-alpha7
+- pkg:composer/programster/pgsql-objects@5.0.0-alpha8
+- pkg:composer/programster/pgsql-objects@5.0.0-alpha9
