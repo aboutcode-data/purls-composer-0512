@@ -5,3 +5,5 @@
 - pkg:composer/pudo/pudo-common@v0.5.0
 - pkg:composer/pudo/pudo-common@v0.5.1
 - pkg:composer/pudo/pudo-common@v0.5.2
+- pkg:composer/pudo/pudo-common@v1.0.0
+- pkg:composer/pudo/pudo-common@v1.0.1
