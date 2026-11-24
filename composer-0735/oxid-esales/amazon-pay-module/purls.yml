@@ -123,3 +123,4 @@
 - pkg:composer/oxid-esales/amazon-pay-module@v3.3.0-rc.6
 - pkg:composer/oxid-esales/amazon-pay-module@v3.3.1
 - pkg:composer/oxid-esales/amazon-pay-module@v3.3.1-rc.1
+- pkg:composer/oxid-esales/amazon-pay-module@v3.3.2-rc.1
