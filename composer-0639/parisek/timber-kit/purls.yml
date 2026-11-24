@@ -89,6 +89,8 @@
 - pkg:composer/parisek/timber-kit@v1.7.5
 - pkg:composer/parisek/timber-kit@v1.7.6
 - pkg:composer/parisek/timber-kit@v1.7.7
+- pkg:composer/parisek/timber-kit@v1.70.0
+- pkg:composer/parisek/timber-kit@v1.70.1
 - pkg:composer/parisek/timber-kit@v1.8.0
 - pkg:composer/parisek/timber-kit@v1.8.1
 - pkg:composer/parisek/timber-kit@v1.9.0
