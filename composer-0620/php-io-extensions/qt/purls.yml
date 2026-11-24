@@ -3,3 +3,4 @@
 - pkg:composer/php-io-extensions/qt@v0.10.5
 - pkg:composer/php-io-extensions/qt@v0.11.0
 - pkg:composer/php-io-extensions/qt@v0.11.1
+- pkg:composer/php-io-extensions/qt@v0.11.2
