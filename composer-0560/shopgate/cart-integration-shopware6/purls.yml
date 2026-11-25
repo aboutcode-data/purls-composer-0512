@@ -86,6 +86,7 @@
 - pkg:composer/shopgate/cart-integration-shopware6@3.10.3
 - pkg:composer/shopgate/cart-integration-shopware6@3.10.4
 - pkg:composer/shopgate/cart-integration-shopware6@3.10.5
+- pkg:composer/shopgate/cart-integration-shopware6@3.10.6
 - pkg:composer/shopgate/cart-integration-shopware6@3.2.0
 - pkg:composer/shopgate/cart-integration-shopware6@3.2.1
 - pkg:composer/shopgate/cart-integration-shopware6@3.3.0
