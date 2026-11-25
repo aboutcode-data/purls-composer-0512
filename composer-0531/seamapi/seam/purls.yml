@@ -210,7 +210,16 @@
 - pkg:composer/seamapi/seam@v4.31.1
 - pkg:composer/seamapi/seam@v4.32.0
 - pkg:composer/seamapi/seam@v4.33.0
+- pkg:composer/seamapi/seam@v4.34.0
+- pkg:composer/seamapi/seam@v4.35.0
+- pkg:composer/seamapi/seam@v4.35.1
+- pkg:composer/seamapi/seam@v4.36.0
+- pkg:composer/seamapi/seam@v4.37.0
+- pkg:composer/seamapi/seam@v4.38.0
+- pkg:composer/seamapi/seam@v4.39.0
 - pkg:composer/seamapi/seam@v4.4.0
+- pkg:composer/seamapi/seam@v4.40.0
+- pkg:composer/seamapi/seam@v4.41.0
 - pkg:composer/seamapi/seam@v4.5.0
 - pkg:composer/seamapi/seam@v4.6.0
 - pkg:composer/seamapi/seam@v4.7.0
