@@ -1,1 +1,4 @@
 - pkg:composer/reachweb/resrv-payment-mollie@v1.0.0
+- pkg:composer/reachweb/resrv-payment-mollie@v2.0.0
+- pkg:composer/reachweb/resrv-payment-mollie@v2.0.1
+- pkg:composer/reachweb/resrv-payment-mollie@v2.0.2
