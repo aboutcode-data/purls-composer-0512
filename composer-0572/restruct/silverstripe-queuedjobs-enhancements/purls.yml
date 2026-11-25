@@ -12,3 +12,4 @@
 - pkg:composer/restruct/silverstripe-queuedjobs-enhancements@1.7.0
 - pkg:composer/restruct/silverstripe-queuedjobs-enhancements@1.7.1
 - pkg:composer/restruct/silverstripe-queuedjobs-enhancements@1.8.0
+- pkg:composer/restruct/silverstripe-queuedjobs-enhancements@1.9.0
