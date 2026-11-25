@@ -72,11 +72,13 @@
 - pkg:composer/simplesamlphp/assert@v1.8.2
 - pkg:composer/simplesamlphp/assert@v1.8.3
 - pkg:composer/simplesamlphp/assert@v1.8.4
+- pkg:composer/simplesamlphp/assert@v1.8.5
 - pkg:composer/simplesamlphp/assert@v1.9.0
 - pkg:composer/simplesamlphp/assert@v1.9.1
 - pkg:composer/simplesamlphp/assert@v2.0.0
 - pkg:composer/simplesamlphp/assert@v2.0.1
 - pkg:composer/simplesamlphp/assert@v2.0.2
+- pkg:composer/simplesamlphp/assert@v2.0.3
 - pkg:composer/simplesamlphp/assert@v3.0.0
 - pkg:composer/simplesamlphp/assert@v3.0.1
 - pkg:composer/simplesamlphp/assert@v3.0.2
