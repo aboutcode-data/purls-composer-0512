@@ -54,6 +54,8 @@
 - pkg:composer/scheb/2fa@v7.13.0
 - pkg:composer/scheb/2fa@v7.13.1
 - pkg:composer/scheb/2fa@v7.14.0
+- pkg:composer/scheb/2fa@v7.15.0
+- pkg:composer/scheb/2fa@v7.16.0
 - pkg:composer/scheb/2fa@v7.2.0
 - pkg:composer/scheb/2fa@v7.3.0
 - pkg:composer/scheb/2fa@v7.3.1
@@ -74,3 +76,6 @@
 - pkg:composer/scheb/2fa@v8.6.0
 - pkg:composer/scheb/2fa@v8.6.1
 - pkg:composer/scheb/2fa@v8.7.0
+- pkg:composer/scheb/2fa@v8.7.1
+- pkg:composer/scheb/2fa@v8.8.0
+- pkg:composer/scheb/2fa@v8.8.1
