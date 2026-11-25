@@ -39,3 +39,6 @@
 - pkg:composer/saucebase/core@v2.8.0
 - pkg:composer/saucebase/core@v2.8.1
 - pkg:composer/saucebase/core@v2.9.0
+- pkg:composer/saucebase/core@v3.0.0
+- pkg:composer/saucebase/core@v3.1.0
+- pkg:composer/saucebase/core@v3.1.1
