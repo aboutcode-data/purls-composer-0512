@@ -25,3 +25,4 @@
 - pkg:composer/serendipity_hq/component-array-writer@6.0.0
 - pkg:composer/serendipity_hq/component-array-writer@6.0.1
 - pkg:composer/serendipity_hq/component-array-writer@6.0.2
+- pkg:composer/serendipity_hq/component-array-writer@6.0.3

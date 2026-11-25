@@ -85,3 +85,4 @@
 - pkg:composer/serendipity_hq/php_value_objects@7.1.7
 - pkg:composer/serendipity_hq/php_value_objects@7.1.8
 - pkg:composer/serendipity_hq/php_value_objects@7.1.9
+- pkg:composer/serendipity_hq/php_value_objects@7.2.0
