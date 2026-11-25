@@ -111,3 +111,5 @@
 - pkg:composer/preflow/roles@v0.86.0
 - pkg:composer/preflow/roles@v0.87.0
 - pkg:composer/preflow/roles@v0.88.0
+- pkg:composer/preflow/roles@v0.89.0
+- pkg:composer/preflow/roles@v0.90.0
