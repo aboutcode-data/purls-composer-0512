@@ -77,3 +77,4 @@
 - pkg:composer/pbmedia/laravel-ffmpeg@8.7.1
 - pkg:composer/pbmedia/laravel-ffmpeg@8.8.0
 - pkg:composer/pbmedia/laravel-ffmpeg@8.9.0
+- pkg:composer/pbmedia/laravel-ffmpeg@9.0.0
