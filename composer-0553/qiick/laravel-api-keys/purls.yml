@@ -1,2 +1,4 @@
 - pkg:composer/qiick/laravel-api-keys@v0.1.0
 - pkg:composer/qiick/laravel-api-keys@v0.2.0
+- pkg:composer/qiick/laravel-api-keys@v0.3.0-beta.1
+- pkg:composer/qiick/laravel-api-keys@v0.3.0-beta.2
