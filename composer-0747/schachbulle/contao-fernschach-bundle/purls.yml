@@ -157,6 +157,7 @@
 - pkg:composer/schachbulle/contao-fernschach-bundle@2.13.0
 - pkg:composer/schachbulle/contao-fernschach-bundle@2.14.0
 - pkg:composer/schachbulle/contao-fernschach-bundle@2.14.1
+- pkg:composer/schachbulle/contao-fernschach-bundle@2.14.2
 - pkg:composer/schachbulle/contao-fernschach-bundle@2.2.0
 - pkg:composer/schachbulle/contao-fernschach-bundle@2.2.1
 - pkg:composer/schachbulle/contao-fernschach-bundle@2.2.2
