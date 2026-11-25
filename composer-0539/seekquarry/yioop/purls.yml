@@ -1,4 +1,6 @@
 - pkg:composer/seekquarry/yioop@v10.0.0
+- pkg:composer/seekquarry/yioop@v10.1.01
+- pkg:composer/seekquarry/yioop@v10.1.2
 - pkg:composer/seekquarry/yioop@v3.0.0
 - pkg:composer/seekquarry/yioop@v3.0.1
 - pkg:composer/seekquarry/yioop@v3.0.2
