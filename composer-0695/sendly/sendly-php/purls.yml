@@ -61,5 +61,7 @@
 - pkg:composer/sendly/sendly-php@4.4.0
 - pkg:composer/sendly/sendly-php@4.5.0
 - pkg:composer/sendly/sendly-php@4.5.1
+- pkg:composer/sendly/sendly-php@4.6.0
+- pkg:composer/sendly/sendly-php@4.7.0
 - pkg:composer/sendly/sendly-php@v1.0.5
 - pkg:composer/sendly/sendly-php@v2.1.0
