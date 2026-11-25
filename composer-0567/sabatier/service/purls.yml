@@ -4,9 +4,15 @@
 - pkg:composer/sabatier/service@v1.10.0
 - pkg:composer/sabatier/service@v1.11.0
 - pkg:composer/sabatier/service@v1.11.1
+- pkg:composer/sabatier/service@v1.11.10
 - pkg:composer/sabatier/service@v1.11.2
 - pkg:composer/sabatier/service@v1.11.3
 - pkg:composer/sabatier/service@v1.11.4
+- pkg:composer/sabatier/service@v1.11.5
+- pkg:composer/sabatier/service@v1.11.6
+- pkg:composer/sabatier/service@v1.11.7
+- pkg:composer/sabatier/service@v1.11.8
+- pkg:composer/sabatier/service@v1.11.9
 - pkg:composer/sabatier/service@v1.2.0
 - pkg:composer/sabatier/service@v1.3.0
 - pkg:composer/sabatier/service@v1.3.1
