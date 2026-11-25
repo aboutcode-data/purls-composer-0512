@@ -28,6 +28,8 @@
 - pkg:composer/pixonaut/pixonaut-php@v29.0.0
 - pkg:composer/pixonaut/pixonaut-php@v3.0.0
 - pkg:composer/pixonaut/pixonaut-php@v3.1.0
+- pkg:composer/pixonaut/pixonaut-php@v30.0.0
+- pkg:composer/pixonaut/pixonaut-php@v31.0.0
 - pkg:composer/pixonaut/pixonaut-php@v4.0.0
 - pkg:composer/pixonaut/pixonaut-php@v5.0.0
 - pkg:composer/pixonaut/pixonaut-php@v6.0.0
