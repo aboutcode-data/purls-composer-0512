@@ -27,3 +27,4 @@
 - pkg:composer/sensson/laravel-moneybird@v0.6.3
 - pkg:composer/sensson/laravel-moneybird@v0.6.4
 - pkg:composer/sensson/laravel-moneybird@v0.7.0
+- pkg:composer/sensson/laravel-moneybird@v0.8.0
