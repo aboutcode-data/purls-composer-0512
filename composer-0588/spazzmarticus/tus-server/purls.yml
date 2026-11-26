@@ -18,4 +18,7 @@
 - pkg:composer/spazzmarticus/tus-server@2.0.0-rc2
 - pkg:composer/spazzmarticus/tus-server@2.0.0-rc3
 - pkg:composer/spazzmarticus/tus-server@2.0.0-rc4
+- pkg:composer/spazzmarticus/tus-server@2.1.0
 - pkg:composer/spazzmarticus/tus-server@2.1.0-rc1
+- pkg:composer/spazzmarticus/tus-server@2.2.0-rc.1
+- pkg:composer/spazzmarticus/tus-server@2.2.0-rc.2
