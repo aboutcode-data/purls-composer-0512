@@ -19,3 +19,7 @@
 - pkg:composer/sympress/runtime@v1.2.8
 - pkg:composer/sympress/runtime@v1.3.0
 - pkg:composer/sympress/runtime@v1.3.1
+- pkg:composer/sympress/runtime@v1.3.2
+- pkg:composer/sympress/runtime@v1.3.3
+- pkg:composer/sympress/runtime@v1.3.4
+- pkg:composer/sympress/runtime@v1.3.5

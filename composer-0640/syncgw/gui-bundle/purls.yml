@@ -1,4 +1,5 @@
 - pkg:composer/syncgw/gui-bundle@9.20.10
+- pkg:composer/syncgw/gui-bundle@9.20.11
 - pkg:composer/syncgw/gui-bundle@9.20.2
 - pkg:composer/syncgw/gui-bundle@9.20.3
 - pkg:composer/syncgw/gui-bundle@9.20.4
