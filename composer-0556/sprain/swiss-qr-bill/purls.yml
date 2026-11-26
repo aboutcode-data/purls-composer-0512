@@ -75,3 +75,5 @@
 - pkg:composer/sprain/swiss-qr-bill@v5.2.1
 - pkg:composer/sprain/swiss-qr-bill@v5.3
 - pkg:composer/sprain/swiss-qr-bill@v5.3.1
+- pkg:composer/sprain/swiss-qr-bill@v5.4
+- pkg:composer/sprain/swiss-qr-bill@v5.5
