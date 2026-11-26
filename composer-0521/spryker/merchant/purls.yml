@@ -34,6 +34,7 @@
 - pkg:composer/spryker/merchant@3.23.1
 - pkg:composer/spryker/merchant@3.23.2
 - pkg:composer/spryker/merchant@3.24.0
+- pkg:composer/spryker/merchant@3.24.1
 - pkg:composer/spryker/merchant@3.3.0
 - pkg:composer/spryker/merchant@3.3.1
 - pkg:composer/spryker/merchant@3.3.2
