@@ -250,6 +250,8 @@
 - pkg:composer/survos/babel-bundle@2.45.20
 - pkg:composer/survos/babel-bundle@2.45.21
 - pkg:composer/survos/babel-bundle@2.45.23
+- pkg:composer/survos/babel-bundle@2.45.47
+- pkg:composer/survos/babel-bundle@2.45.49
 - pkg:composer/survos/babel-bundle@2.5.0
 - pkg:composer/survos/babel-bundle@2.5.1
 - pkg:composer/survos/babel-bundle@2.5.2
