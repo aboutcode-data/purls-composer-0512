@@ -1,3 +1,4 @@
 - pkg:composer/swow/swow-stub@v0.2.0-alpha.1
 - pkg:composer/swow/swow-stub@v1.5.2
 - pkg:composer/swow/swow-stub@v1.6.0
+- pkg:composer/swow/swow-stub@v2.0.0
