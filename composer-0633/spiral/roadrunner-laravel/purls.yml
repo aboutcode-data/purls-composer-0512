@@ -19,6 +19,7 @@
 - pkg:composer/spiral/roadrunner-laravel@6.6.1
 - pkg:composer/spiral/roadrunner-laravel@6.6.2
 - pkg:composer/spiral/roadrunner-laravel@6.7.0
+- pkg:composer/spiral/roadrunner-laravel@6.8.0
 - pkg:composer/spiral/roadrunner-laravel@v3.3.0
 - pkg:composer/spiral/roadrunner-laravel@v3.4.0
 - pkg:composer/spiral/roadrunner-laravel@v3.5.0
