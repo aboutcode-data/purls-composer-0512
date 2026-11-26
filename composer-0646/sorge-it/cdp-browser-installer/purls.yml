@@ -1,3 +1,5 @@
 - pkg:composer/sorge-it/cdp-browser-installer@v1.0.0
 - pkg:composer/sorge-it/cdp-browser-installer@v1.0.1
 - pkg:composer/sorge-it/cdp-browser-installer@v2.0.0
+- pkg:composer/sorge-it/cdp-browser-installer@v2.0.1
+- pkg:composer/sorge-it/cdp-browser-installer@v2.1.0
