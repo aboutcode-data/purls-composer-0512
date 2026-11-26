@@ -34,3 +34,5 @@
 - pkg:composer/tastyigniter/ti-ext-reservation@v4.1.3
 - pkg:composer/tastyigniter/ti-ext-reservation@v4.1.4
 - pkg:composer/tastyigniter/ti-ext-reservation@v4.2.0
+- pkg:composer/tastyigniter/ti-ext-reservation@v4.2.1
+- pkg:composer/tastyigniter/ti-ext-reservation@v4.2.2
