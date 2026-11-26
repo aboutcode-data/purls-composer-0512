@@ -92,6 +92,7 @@
 - pkg:composer/sudhaus7/sudhaus7-wizard@0.5.2
 - pkg:composer/sudhaus7/sudhaus7-wizard@0.5.20
 - pkg:composer/sudhaus7/sudhaus7-wizard@0.5.21
+- pkg:composer/sudhaus7/sudhaus7-wizard@0.5.22
 - pkg:composer/sudhaus7/sudhaus7-wizard@0.5.3
 - pkg:composer/sudhaus7/sudhaus7-wizard@0.5.4
 - pkg:composer/sudhaus7/sudhaus7-wizard@0.5.5
@@ -102,3 +103,4 @@
 - pkg:composer/sudhaus7/sudhaus7-wizard@1.0.0
 - pkg:composer/sudhaus7/sudhaus7-wizard@1.0.1
 - pkg:composer/sudhaus7/sudhaus7-wizard@2.0.0
+- pkg:composer/sudhaus7/sudhaus7-wizard@2.0.1
