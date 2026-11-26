@@ -8,6 +8,8 @@
 - pkg:composer/suvera/winter-boot@2.1.7
 - pkg:composer/suvera/winter-boot@2.1.8
 - pkg:composer/suvera/winter-boot@2.2.0
+- pkg:composer/suvera/winter-boot@2.3.0
+- pkg:composer/suvera/winter-boot@2.3.1
 - pkg:composer/suvera/winter-boot@v0.1
 - pkg:composer/suvera/winter-boot@v0.2
 - pkg:composer/suvera/winter-boot@v1.0
