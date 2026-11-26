@@ -90,3 +90,5 @@
 - pkg:composer/rhubarbgroup/redis-cache@2.8.0
 - pkg:composer/rhubarbgroup/redis-cache@3.0.0
 - pkg:composer/rhubarbgroup/redis-cache@3.0.1
+- pkg:composer/rhubarbgroup/redis-cache@3.0.2
+- pkg:composer/rhubarbgroup/redis-cache@3.0.2.1
