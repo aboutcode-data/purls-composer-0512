@@ -597,6 +597,7 @@
 - pkg:composer/symfony/intl@v7.4.16
 - pkg:composer/symfony/intl@v7.4.17
 - pkg:composer/symfony/intl@v7.4.22
+- pkg:composer/symfony/intl@v7.4.24
 - pkg:composer/symfony/intl@v7.4.4
 - pkg:composer/symfony/intl@v7.4.6
 - pkg:composer/symfony/intl@v7.4.8
@@ -613,6 +614,8 @@
 - pkg:composer/symfony/intl@v8.1.0-BETA1
 - pkg:composer/symfony/intl@v8.1.1
 - pkg:composer/symfony/intl@v8.1.10
+- pkg:composer/symfony/intl@v8.1.12
 - pkg:composer/symfony/intl@v8.1.4
 - pkg:composer/symfony/intl@v8.1.5
 - pkg:composer/symfony/intl@v8.2.0-BETA1
+- pkg:composer/symfony/intl@v8.2.0-RC1

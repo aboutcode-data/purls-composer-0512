@@ -37,10 +37,13 @@
 - pkg:composer/symfony/mail-pace-mailer@v7.4.0
 - pkg:composer/symfony/mail-pace-mailer@v7.4.0-BETA1
 - pkg:composer/symfony/mail-pace-mailer@v7.4.0-RC1
+- pkg:composer/symfony/mail-pace-mailer@v7.4.24
 - pkg:composer/symfony/mail-pace-mailer@v8.0.0
 - pkg:composer/symfony/mail-pace-mailer@v8.0.0-BETA1
 - pkg:composer/symfony/mail-pace-mailer@v8.0.0-RC1
 - pkg:composer/symfony/mail-pace-mailer@v8.1.0
 - pkg:composer/symfony/mail-pace-mailer@v8.1.0-BETA1
 - pkg:composer/symfony/mail-pace-mailer@v8.1.0-BETA3
+- pkg:composer/symfony/mail-pace-mailer@v8.1.12
 - pkg:composer/symfony/mail-pace-mailer@v8.2.0-BETA1
+- pkg:composer/symfony/mail-pace-mailer@v8.2.0-BETA2
