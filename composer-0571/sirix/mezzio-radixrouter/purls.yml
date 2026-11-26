@@ -6,3 +6,5 @@
 - pkg:composer/sirix/mezzio-radixrouter@3.2.1
 - pkg:composer/sirix/mezzio-radixrouter@3.2.2
 - pkg:composer/sirix/mezzio-radixrouter@3.2.3
+- pkg:composer/sirix/mezzio-radixrouter@4.0.0
+- pkg:composer/sirix/mezzio-radixrouter@4.1.0
