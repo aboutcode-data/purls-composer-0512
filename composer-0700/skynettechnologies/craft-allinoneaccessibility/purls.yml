@@ -42,6 +42,7 @@
 - pkg:composer/skynettechnologies/craft-allinoneaccessibility@2.2.6
 - pkg:composer/skynettechnologies/craft-allinoneaccessibility@2.2.7
 - pkg:composer/skynettechnologies/craft-allinoneaccessibility@2.2.8
+- pkg:composer/skynettechnologies/craft-allinoneaccessibility@2.2.9
 - pkg:composer/skynettechnologies/craft-allinoneaccessibility@3.0.0
 - pkg:composer/skynettechnologies/craft-allinoneaccessibility@3.0.1
 - pkg:composer/skynettechnologies/craft-allinoneaccessibility@3.0.2
@@ -52,3 +53,4 @@
 - pkg:composer/skynettechnologies/craft-allinoneaccessibility@3.0.7
 - pkg:composer/skynettechnologies/craft-allinoneaccessibility@3.0.8
 - pkg:composer/skynettechnologies/craft-allinoneaccessibility@3.0.9
+- pkg:composer/skynettechnologies/craft-allinoneaccessibility@3.1.0
