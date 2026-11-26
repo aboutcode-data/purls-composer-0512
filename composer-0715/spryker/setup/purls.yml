@@ -40,3 +40,4 @@
 - pkg:composer/spryker/setup@4.8.0
 - pkg:composer/spryker/setup@4.8.1
 - pkg:composer/spryker/setup@4.8.2
+- pkg:composer/spryker/setup@4.8.3
