@@ -40,3 +40,5 @@
 - pkg:composer/steinhaug/uarpc@v1.6.3
 - pkg:composer/steinhaug/uarpc@v1.6.4
 - pkg:composer/steinhaug/uarpc@v1.6.5
+- pkg:composer/steinhaug/uarpc@v1.7.0
+- pkg:composer/steinhaug/uarpc@v1.7.1
