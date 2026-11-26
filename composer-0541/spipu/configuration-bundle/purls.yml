@@ -38,6 +38,7 @@
 - pkg:composer/spipu/configuration-bundle@v4.2.2
 - pkg:composer/spipu/configuration-bundle@v4.3.0
 - pkg:composer/spipu/configuration-bundle@v4.3.1
+- pkg:composer/spipu/configuration-bundle@v4.3.2
 - pkg:composer/spipu/configuration-bundle@v5.0.0
 - pkg:composer/spipu/configuration-bundle@v5.0.1
 - pkg:composer/spipu/configuration-bundle@v5.0.2
@@ -45,3 +46,4 @@
 - pkg:composer/spipu/configuration-bundle@v5.1.1
 - pkg:composer/spipu/configuration-bundle@v5.1.2
 - pkg:composer/spipu/configuration-bundle@v5.2.0
+- pkg:composer/spipu/configuration-bundle@v5.2.1
