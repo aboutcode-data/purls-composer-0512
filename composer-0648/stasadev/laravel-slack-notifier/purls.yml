@@ -1,3 +1,4 @@
 - pkg:composer/stasadev/laravel-slack-notifier@1.0.0
 - pkg:composer/stasadev/laravel-slack-notifier@1.1.0
 - pkg:composer/stasadev/laravel-slack-notifier@1.1.1
+- pkg:composer/stasadev/laravel-slack-notifier@1.2.0
