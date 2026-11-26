@@ -331,4 +331,5 @@
 - pkg:composer/symfony/security-guard@v5.4.39
 - pkg:composer/symfony/security-guard@v5.4.40
 - pkg:composer/symfony/security-guard@v5.4.45
+- pkg:composer/symfony/security-guard@v5.4.57
 - pkg:composer/symfony/security-guard@v5.4.9
