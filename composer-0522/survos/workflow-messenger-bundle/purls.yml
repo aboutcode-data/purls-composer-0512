@@ -13,3 +13,5 @@
 - pkg:composer/survos/workflow-messenger-bundle@2.43.23
 - pkg:composer/survos/workflow-messenger-bundle@2.45.32
 - pkg:composer/survos/workflow-messenger-bundle@2.45.42
+- pkg:composer/survos/workflow-messenger-bundle@2.45.56
+- pkg:composer/survos/workflow-messenger-bundle@2.45.92
