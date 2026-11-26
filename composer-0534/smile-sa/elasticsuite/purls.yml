@@ -64,6 +64,8 @@
 - pkg:composer/smile-sa/elasticsuite@2.10.35-rc1
 - pkg:composer/smile-sa/elasticsuite@2.10.36
 - pkg:composer/smile-sa/elasticsuite@2.10.36.1
+- pkg:composer/smile-sa/elasticsuite@2.10.36.2
+- pkg:composer/smile-sa/elasticsuite@2.10.37
 - pkg:composer/smile-sa/elasticsuite@2.10.37-rc1
 - pkg:composer/smile-sa/elasticsuite@2.10.4
 - pkg:composer/smile-sa/elasticsuite@2.10.4-rc1
@@ -100,6 +102,8 @@
 - pkg:composer/smile-sa/elasticsuite@2.11.20-rc1
 - pkg:composer/smile-sa/elasticsuite@2.11.21
 - pkg:composer/smile-sa/elasticsuite@2.11.21.1
+- pkg:composer/smile-sa/elasticsuite@2.11.21.2
+- pkg:composer/smile-sa/elasticsuite@2.11.22
 - pkg:composer/smile-sa/elasticsuite@2.11.22-rc1
 - pkg:composer/smile-sa/elasticsuite@2.11.3
 - pkg:composer/smile-sa/elasticsuite@2.11.3.1
@@ -131,6 +135,8 @@
 - pkg:composer/smile-sa/elasticsuite@2.12.1.1
 - pkg:composer/smile-sa/elasticsuite@2.12.2
 - pkg:composer/smile-sa/elasticsuite@2.12.2.1
+- pkg:composer/smile-sa/elasticsuite@2.12.2.2
+- pkg:composer/smile-sa/elasticsuite@2.12.3
 - pkg:composer/smile-sa/elasticsuite@2.12.3-rc1
 - pkg:composer/smile-sa/elasticsuite@2.2.0
 - pkg:composer/smile-sa/elasticsuite@2.2.0-alpha1
