@@ -59,3 +59,6 @@
 - pkg:composer/sylius/paypal-plugin@v2.0.8
 - pkg:composer/sylius/paypal-plugin@v2.0.9
 - pkg:composer/sylius/paypal-plugin@v2.1.0
+- pkg:composer/sylius/paypal-plugin@v2.2.0
+- pkg:composer/sylius/paypal-plugin@v2.2.0-ALPHA.1
+- pkg:composer/sylius/paypal-plugin@v3.0.0-ALPHA.1

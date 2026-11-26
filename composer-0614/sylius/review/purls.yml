@@ -145,6 +145,7 @@
 - pkg:composer/sylius/review@v1.14.2
 - pkg:composer/sylius/review@v1.14.20
 - pkg:composer/sylius/review@v1.14.21
+- pkg:composer/sylius/review@v1.14.22
 - pkg:composer/sylius/review@v1.14.3
 - pkg:composer/sylius/review@v1.14.4
 - pkg:composer/sylius/review@v1.14.5
@@ -279,6 +280,7 @@
 - pkg:composer/sylius/review@v2.2.10
 - pkg:composer/sylius/review@v2.2.11
 - pkg:composer/sylius/review@v2.2.12
+- pkg:composer/sylius/review@v2.2.13
 - pkg:composer/sylius/review@v2.2.2
 - pkg:composer/sylius/review@v2.2.3
 - pkg:composer/sylius/review@v2.2.4
@@ -289,3 +291,4 @@
 - pkg:composer/sylius/review@v2.3.0-RC.1
 - pkg:composer/sylius/review@v2.3.1
 - pkg:composer/sylius/review@v2.3.2
+- pkg:composer/sylius/review@v2.3.3
