@@ -6,6 +6,8 @@
 - pkg:composer/swoole/typephp@v0.0.6
 - pkg:composer/swoole/typephp@v0.0.7
 - pkg:composer/swoole/typephp@v0.1.0
+- pkg:composer/swoole/typephp@v0.10.0
+- pkg:composer/swoole/typephp@v0.10.1
 - pkg:composer/swoole/typephp@v0.4.0
 - pkg:composer/swoole/typephp@v0.4.1
 - pkg:composer/swoole/typephp@v0.6.1

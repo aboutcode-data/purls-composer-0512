@@ -58,3 +58,5 @@
 - pkg:composer/swoole/phpx@v2.9.4
 - pkg:composer/swoole/phpx@v2.9.5
 - pkg:composer/swoole/phpx@v2.9.6
+- pkg:composer/swoole/phpx@v2.9.7
+- pkg:composer/swoole/phpx@v2.9.8
