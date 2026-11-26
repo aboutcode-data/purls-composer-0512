@@ -42,6 +42,9 @@
 - pkg:composer/sourcebroker/deployer-extended-database@20.0.0
 - pkg:composer/sourcebroker/deployer-extended-database@20.0.1
 - pkg:composer/sourcebroker/deployer-extended-database@20.1.0
+- pkg:composer/sourcebroker/deployer-extended-database@20.2.0
+- pkg:composer/sourcebroker/deployer-extended-database@20.2.1
+- pkg:composer/sourcebroker/deployer-extended-database@20.3.0
 - pkg:composer/sourcebroker/deployer-extended-database@3.0.0
 - pkg:composer/sourcebroker/deployer-extended-database@3.0.1
 - pkg:composer/sourcebroker/deployer-extended-database@4.0.0
