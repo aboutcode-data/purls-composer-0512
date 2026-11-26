@@ -5,3 +5,4 @@
 - pkg:composer/rdx/composer-laravel-read-error-log@2.4
 - pkg:composer/rdx/composer-laravel-read-error-log@2.5
 - pkg:composer/rdx/composer-laravel-read-error-log@2.6
+- pkg:composer/rdx/composer-laravel-read-error-log@2.7
