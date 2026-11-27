@@ -1,5 +1,6 @@
 - pkg:composer/usamamuneerchaudhary/laravel-slipway@1.0
 - pkg:composer/usamamuneerchaudhary/laravel-slipway@1.1
+- pkg:composer/usamamuneerchaudhary/laravel-slipway@1.10
 - pkg:composer/usamamuneerchaudhary/laravel-slipway@1.2
 - pkg:composer/usamamuneerchaudhary/laravel-slipway@1.3
 - pkg:composer/usamamuneerchaudhary/laravel-slipway@1.4
@@ -7,3 +8,4 @@
 - pkg:composer/usamamuneerchaudhary/laravel-slipway@1.6
 - pkg:composer/usamamuneerchaudhary/laravel-slipway@1.7
 - pkg:composer/usamamuneerchaudhary/laravel-slipway@1.8
+- pkg:composer/usamamuneerchaudhary/laravel-slipway@1.9
