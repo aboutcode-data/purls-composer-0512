@@ -110,6 +110,7 @@
 - pkg:composer/verbb/workflow@3.0.25
 - pkg:composer/verbb/workflow@3.0.26
 - pkg:composer/verbb/workflow@3.0.27
+- pkg:composer/verbb/workflow@3.0.28
 - pkg:composer/verbb/workflow@3.0.3
 - pkg:composer/verbb/workflow@3.0.4
 - pkg:composer/verbb/workflow@3.0.5
@@ -117,3 +118,4 @@
 - pkg:composer/verbb/workflow@3.0.7
 - pkg:composer/verbb/workflow@3.0.8
 - pkg:composer/verbb/workflow@3.0.9
+- pkg:composer/verbb/workflow@3.1.0
