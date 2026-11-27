@@ -13,3 +13,5 @@
 - pkg:composer/teksite/authorize@2.2.5
 - pkg:composer/teksite/authorize@2.3.0
 - pkg:composer/teksite/authorize@2.3.1
+- pkg:composer/teksite/authorize@2.4.0
+- pkg:composer/teksite/authorize@2.4.1

@@ -96,3 +96,4 @@
 - pkg:composer/teknoo/kubernetes-client@2.0.5
 - pkg:composer/teknoo/kubernetes-client@2.1.0
 - pkg:composer/teknoo/kubernetes-client@2.1.1
+- pkg:composer/teknoo/kubernetes-client@2.2.0
