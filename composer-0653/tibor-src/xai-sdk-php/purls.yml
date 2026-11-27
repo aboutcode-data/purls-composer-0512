@@ -1,5 +1,9 @@
 - pkg:composer/tibor-src/xai-sdk-php@v0.2.1
 - pkg:composer/tibor-src/xai-sdk-php@v0.2.1.1
+- pkg:composer/tibor-src/xai-sdk-php@v0.2.10
+- pkg:composer/tibor-src/xai-sdk-php@v0.2.11
+- pkg:composer/tibor-src/xai-sdk-php@v0.2.11.1
 - pkg:composer/tibor-src/xai-sdk-php@v0.2.3
 - pkg:composer/tibor-src/xai-sdk-php@v0.2.4
 - pkg:composer/tibor-src/xai-sdk-php@v0.2.8
+- pkg:composer/tibor-src/xai-sdk-php@v0.2.9
