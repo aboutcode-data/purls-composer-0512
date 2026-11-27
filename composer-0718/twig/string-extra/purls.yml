@@ -57,3 +57,4 @@
 - pkg:composer/twig/string-extra@v3.8.0
 - pkg:composer/twig/string-extra@v3.9.0
 - pkg:composer/twig/string-extra@v4.0.0-alpha1
+- pkg:composer/twig/string-extra@v4.0.0-beta1
