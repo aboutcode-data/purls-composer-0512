@@ -107,6 +107,9 @@
 - pkg:composer/totalcms/cms@3.5.2
 - pkg:composer/totalcms/cms@3.6.0
 - pkg:composer/totalcms/cms@3.6.1
+- pkg:composer/totalcms/cms@3.6.10
+- pkg:composer/totalcms/cms@3.6.11
+- pkg:composer/totalcms/cms@3.6.12
 - pkg:composer/totalcms/cms@3.6.2
 - pkg:composer/totalcms/cms@3.6.3
 - pkg:composer/totalcms/cms@3.6.4
