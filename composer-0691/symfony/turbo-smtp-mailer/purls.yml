@@ -1,2 +1,3 @@
 - pkg:composer/symfony/turbo-smtp-mailer@v8.2.0-BETA1
 - pkg:composer/symfony/turbo-smtp-mailer@v8.2.0-BETA2
+- pkg:composer/symfony/turbo-smtp-mailer@v8.2.0-RC1
