@@ -1,1 +1,3 @@
 - pkg:composer/torbox/sdk@1.0.1
+- pkg:composer/torbox/sdk@v9.3.1-beta20261125.4
+- pkg:composer/torbox/sdk@v9.3.2026112508
