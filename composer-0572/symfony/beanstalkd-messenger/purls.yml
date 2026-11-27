@@ -113,3 +113,4 @@
 - pkg:composer/symfony/beanstalkd-messenger@v8.1.7
 - pkg:composer/symfony/beanstalkd-messenger@v8.2.0-BETA1
 - pkg:composer/symfony/beanstalkd-messenger@v8.2.0-BETA2
+- pkg:composer/symfony/beanstalkd-messenger@v8.2.0-RC1
