@@ -1,1 +1,4 @@
 - pkg:composer/tilttek/collections-bundle@0.1.0-alpha
+- pkg:composer/tilttek/collections-bundle@0.2.0-alpha
+- pkg:composer/tilttek/collections-bundle@0.2.1-alpha
+- pkg:composer/tilttek/collections-bundle@0.2.2-alpha
