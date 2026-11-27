@@ -50,3 +50,4 @@
 - pkg:composer/thomas-0816/pdo-duckdb-php@2.0.0.0-beta5
 - pkg:composer/thomas-0816/pdo-duckdb-php@2.0.0.0-beta6
 - pkg:composer/thomas-0816/pdo-duckdb-php@2.0.1.0
+- pkg:composer/thomas-0816/pdo-duckdb-php@2.0.1.1
