@@ -2,3 +2,4 @@
 - pkg:composer/thunderwolf/eloquent-nested-set@1.0.0
 - pkg:composer/thunderwolf/eloquent-nested-set@1.0.1
 - pkg:composer/thunderwolf/eloquent-nested-set@1.0.2
+- pkg:composer/thunderwolf/eloquent-nested-set@2.0.0
