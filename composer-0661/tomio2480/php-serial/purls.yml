@@ -4,3 +4,5 @@
 - pkg:composer/tomio2480/php-serial@v1.3.0
 - pkg:composer/tomio2480/php-serial@v1.3.2
 - pkg:composer/tomio2480/php-serial@v1.3.3
+- pkg:composer/tomio2480/php-serial@v1.4.0
+- pkg:composer/tomio2480/php-serial@v2.0.0
