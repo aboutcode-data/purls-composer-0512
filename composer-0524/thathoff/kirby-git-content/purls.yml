@@ -25,3 +25,4 @@
 - pkg:composer/thathoff/kirby-git-content@v5.4.0
 - pkg:composer/thathoff/kirby-git-content@v5.5.0
 - pkg:composer/thathoff/kirby-git-content@v5.5.1
+- pkg:composer/thathoff/kirby-git-content@v6.0.0

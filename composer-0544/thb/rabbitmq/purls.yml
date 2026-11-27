@@ -1,1 +1,6 @@
-- pkg:composer/thb/rabbitmq@v1.0.0
+- pkg:composer/thb/rabbitmq@v3.0
+- pkg:composer/thb/rabbitmq@v3.1
+- pkg:composer/thb/rabbitmq@v3.2
+- pkg:composer/thb/rabbitmq@v3.3
+- pkg:composer/thb/rabbitmq@v3.4
+- pkg:composer/thb/rabbitmq@v3.5
