@@ -48,3 +48,4 @@
 - pkg:composer/tijsverkoyen/deployer-sumo@v4.3.0
 - pkg:composer/tijsverkoyen/deployer-sumo@v4.3.1
 - pkg:composer/tijsverkoyen/deployer-sumo@v5.0.0
+- pkg:composer/tijsverkoyen/deployer-sumo@v5.1.0
