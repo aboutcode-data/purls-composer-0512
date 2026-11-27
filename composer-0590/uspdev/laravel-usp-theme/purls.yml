@@ -94,6 +94,9 @@
 - pkg:composer/uspdev/laravel-usp-theme@2.8.40
 - pkg:composer/uspdev/laravel-usp-theme@2.8.41
 - pkg:composer/uspdev/laravel-usp-theme@2.8.42
+- pkg:composer/uspdev/laravel-usp-theme@2.8.43
+- pkg:composer/uspdev/laravel-usp-theme@2.8.44
+- pkg:composer/uspdev/laravel-usp-theme@2.8.45
 - pkg:composer/uspdev/laravel-usp-theme@2.8.5
 - pkg:composer/uspdev/laravel-usp-theme@2.8.6
 - pkg:composer/uspdev/laravel-usp-theme@2.8.7
