@@ -37,3 +37,4 @@
 - pkg:composer/thelia/paypal-module@6.1.4
 - pkg:composer/thelia/paypal-module@6.2.0
 - pkg:composer/thelia/paypal-module@6.2.1
+- pkg:composer/thelia/paypal-module@6.2.2

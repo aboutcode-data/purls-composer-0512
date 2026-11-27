@@ -14,3 +14,4 @@
 - pkg:composer/thelia/re-captcha-module@5.0.0
 - pkg:composer/thelia/re-captcha-module@5.0.1
 - pkg:composer/thelia/re-captcha-module@5.1.0
+- pkg:composer/thelia/re-captcha-module@5.2.0

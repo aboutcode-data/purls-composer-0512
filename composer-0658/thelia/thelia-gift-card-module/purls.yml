@@ -24,3 +24,7 @@
 - pkg:composer/thelia/thelia-gift-card-module@3.4.3
 - pkg:composer/thelia/thelia-gift-card-module@3.4.4
 - pkg:composer/thelia/thelia-gift-card-module@3.4.5
+- pkg:composer/thelia/thelia-gift-card-module@3.5.0
+- pkg:composer/thelia/thelia-gift-card-module@3.6.0
+- pkg:composer/thelia/thelia-gift-card-module@3.6.1
+- pkg:composer/thelia/thelia-gift-card-module@3.6.2
