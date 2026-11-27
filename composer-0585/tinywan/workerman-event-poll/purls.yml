@@ -1,1 +1,4 @@
 - pkg:composer/tinywan/workerman-event-poll@v1.0.0
+- pkg:composer/tinywan/workerman-event-poll@v2.0.0
+- pkg:composer/tinywan/workerman-event-poll@v2.0.1
+- pkg:composer/tinywan/workerman-event-poll@v2.0.2
