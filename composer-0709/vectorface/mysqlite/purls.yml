@@ -9,3 +9,6 @@
 - pkg:composer/vectorface/mysqlite@v0.2.0
 - pkg:composer/vectorface/mysqlite@v0.2.1
 - pkg:composer/vectorface/mysqlite@v0.2.2
+- pkg:composer/vectorface/mysqlite@v0.2.3
+- pkg:composer/vectorface/mysqlite@v0.2.4
+- pkg:composer/vectorface/mysqlite@v0.3.0
