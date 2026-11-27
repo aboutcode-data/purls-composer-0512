@@ -1,3 +1,5 @@
 - pkg:composer/tmd/laravel-multi-cache@1.0.0
 - pkg:composer/tmd/laravel-multi-cache@10.0.0
 - pkg:composer/tmd/laravel-multi-cache@10.1.0
+- pkg:composer/tmd/laravel-multi-cache@13.0.0
+- pkg:composer/tmd/laravel-multi-cache@13.1.0
