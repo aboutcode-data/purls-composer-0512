@@ -107,3 +107,4 @@
 - pkg:composer/symfony/lokalise-translation-provider@v8.1.4
 - pkg:composer/symfony/lokalise-translation-provider@v8.1.5
 - pkg:composer/symfony/lokalise-translation-provider@v8.2.0-BETA1
+- pkg:composer/symfony/lokalise-translation-provider@v8.2.0-RC1

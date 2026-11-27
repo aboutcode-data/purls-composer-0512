@@ -60,3 +60,4 @@
 - pkg:composer/symfony/clock@v8.1.0-BETA1
 - pkg:composer/symfony/clock@v8.1.9
 - pkg:composer/symfony/clock@v8.2.0-BETA1
+- pkg:composer/symfony/clock@v8.2.0-RC1
