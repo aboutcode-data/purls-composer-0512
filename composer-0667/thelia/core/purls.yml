@@ -77,3 +77,4 @@
 - pkg:composer/thelia/core@3.3.1
 - pkg:composer/thelia/core@3.3.2
 - pkg:composer/thelia/core@3.3.3
+- pkg:composer/thelia/core@3.4.0
