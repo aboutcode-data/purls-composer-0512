@@ -70,3 +70,5 @@
 - pkg:composer/verbb/abandoned-cart@4.0.7
 - pkg:composer/verbb/abandoned-cart@4.0.8
 - pkg:composer/verbb/abandoned-cart@4.0.9
+- pkg:composer/verbb/abandoned-cart@5.0.0
+- pkg:composer/verbb/abandoned-cart@5.0.1

@@ -116,3 +116,5 @@
 - pkg:composer/verbb/hyper@3.0.4
 - pkg:composer/verbb/hyper@3.0.5
 - pkg:composer/verbb/hyper@3.0.6
+- pkg:composer/verbb/hyper@3.0.7
+- pkg:composer/verbb/hyper@3.1.0
