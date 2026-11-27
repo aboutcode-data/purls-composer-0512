@@ -1,2 +1,4 @@
+- pkg:composer/valtzu/symfony-outgoing-firewall@0.3.1
 - pkg:composer/valtzu/symfony-outgoing-firewall@v0.1.0
 - pkg:composer/valtzu/symfony-outgoing-firewall@v0.2.0
+- pkg:composer/valtzu/symfony-outgoing-firewall@v0.3.0

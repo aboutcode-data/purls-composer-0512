@@ -105,3 +105,6 @@
 - pkg:composer/valkyrja/phpcodesniffer@v26.3.94
 - pkg:composer/valkyrja/phpcodesniffer@v26.3.95
 - pkg:composer/valkyrja/phpcodesniffer@v26.3.96
+- pkg:composer/valkyrja/phpcodesniffer@v26.3.97
+- pkg:composer/valkyrja/phpcodesniffer@v26.3.98
+- pkg:composer/valkyrja/phpcodesniffer@v26.3.99

@@ -11,6 +11,8 @@
 - pkg:composer/valkyrja/psalm@v26.3.0
 - pkg:composer/valkyrja/psalm@v26.3.1
 - pkg:composer/valkyrja/psalm@v26.3.10
+- pkg:composer/valkyrja/psalm@v26.3.100
+- pkg:composer/valkyrja/psalm@v26.3.101
 - pkg:composer/valkyrja/psalm@v26.3.11
 - pkg:composer/valkyrja/psalm@v26.3.12
 - pkg:composer/valkyrja/psalm@v26.3.13
@@ -106,3 +108,5 @@
 - pkg:composer/valkyrja/psalm@v26.3.95
 - pkg:composer/valkyrja/psalm@v26.3.96
 - pkg:composer/valkyrja/psalm@v26.3.97
+- pkg:composer/valkyrja/psalm@v26.3.98
+- pkg:composer/valkyrja/psalm@v26.3.99
