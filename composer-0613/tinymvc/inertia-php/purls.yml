@@ -5,3 +5,5 @@
 - pkg:composer/tinymvc/inertia-php@v2.0.1
 - pkg:composer/tinymvc/inertia-php@v2.0.2
 - pkg:composer/tinymvc/inertia-php@v2.1.0
+- pkg:composer/tinymvc/inertia-php@v2.1.1
+- pkg:composer/tinymvc/inertia-php@v2.1.2
