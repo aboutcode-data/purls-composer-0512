@@ -45,6 +45,14 @@
 - pkg:composer/voku/agent-loop@0.20.0
 - pkg:composer/voku/agent-loop@0.20.1
 - pkg:composer/voku/agent-loop@0.20.10
+- pkg:composer/voku/agent-loop@0.20.100
+- pkg:composer/voku/agent-loop@0.20.101
+- pkg:composer/voku/agent-loop@0.20.102
+- pkg:composer/voku/agent-loop@0.20.103
+- pkg:composer/voku/agent-loop@0.20.104
+- pkg:composer/voku/agent-loop@0.20.105
+- pkg:composer/voku/agent-loop@0.20.106
+- pkg:composer/voku/agent-loop@0.20.107
 - pkg:composer/voku/agent-loop@0.20.11
 - pkg:composer/voku/agent-loop@0.20.12
 - pkg:composer/voku/agent-loop@0.20.13
@@ -137,6 +145,11 @@
 - pkg:composer/voku/agent-loop@0.20.92
 - pkg:composer/voku/agent-loop@0.20.93
 - pkg:composer/voku/agent-loop@0.20.94
+- pkg:composer/voku/agent-loop@0.20.95
+- pkg:composer/voku/agent-loop@0.20.96
+- pkg:composer/voku/agent-loop@0.20.97
+- pkg:composer/voku/agent-loop@0.20.98
+- pkg:composer/voku/agent-loop@0.20.99
 - pkg:composer/voku/agent-loop@0.3.0
 - pkg:composer/voku/agent-loop@0.4.0
 - pkg:composer/voku/agent-loop@0.5.0
