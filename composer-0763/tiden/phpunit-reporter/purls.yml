@@ -5,3 +5,4 @@
 - pkg:composer/tiden/phpunit-reporter@v0.1.4
 - pkg:composer/tiden/phpunit-reporter@v0.2.0
 - pkg:composer/tiden/phpunit-reporter@v0.3.0
+- pkg:composer/tiden/phpunit-reporter@v0.3.1
