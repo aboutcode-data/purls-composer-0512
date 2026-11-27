@@ -504,6 +504,7 @@
 - pkg:composer/typo3/eel@8.3.20
 - pkg:composer/typo3/eel@8.3.21
 - pkg:composer/typo3/eel@8.3.22
+- pkg:composer/typo3/eel@8.3.23
 - pkg:composer/typo3/eel@8.3.3
 - pkg:composer/typo3/eel@8.3.4
 - pkg:composer/typo3/eel@8.3.5
@@ -518,6 +519,8 @@
 - pkg:composer/typo3/eel@8.4.4
 - pkg:composer/typo3/eel@8.4.5
 - pkg:composer/typo3/eel@8.4.6
+- pkg:composer/typo3/eel@8.4.7
+- pkg:composer/typo3/eel@8.4.8
 - pkg:composer/typo3/eel@9.0.0
 - pkg:composer/typo3/eel@9.0.0-beta1
 - pkg:composer/typo3/eel@9.0.0-beta10
@@ -534,6 +537,8 @@
 - pkg:composer/typo3/eel@9.0.0-beta4
 - pkg:composer/typo3/eel@9.0.0-beta8
 - pkg:composer/typo3/eel@9.0.1
+- pkg:composer/typo3/eel@9.0.10
+- pkg:composer/typo3/eel@9.0.11
 - pkg:composer/typo3/eel@9.0.2
 - pkg:composer/typo3/eel@9.0.3
 - pkg:composer/typo3/eel@9.0.4
@@ -547,6 +552,8 @@
 - pkg:composer/typo3/eel@9.1.2
 - pkg:composer/typo3/eel@9.1.3
 - pkg:composer/typo3/eel@9.1.4
+- pkg:composer/typo3/eel@9.1.5
+- pkg:composer/typo3/eel@9.1.6
 - pkg:composer/typo3/eel@9.2.0
 - pkg:composer/typo3/eel@9.2.0-beta1
 - pkg:composer/typo3/eel@9.2.0-beta2
@@ -556,3 +563,5 @@
 - pkg:composer/typo3/eel@9.2.0-beta6
 - pkg:composer/typo3/eel@9.2.1
 - pkg:composer/typo3/eel@9.2.2
+- pkg:composer/typo3/eel@9.2.3
+- pkg:composer/typo3/eel@9.2.4
