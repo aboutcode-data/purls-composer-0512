@@ -1,3 +1,6 @@
 - pkg:composer/wondernetwork/slim-kernel-testing-harness@1.0.0
 - pkg:composer/wondernetwork/slim-kernel-testing-harness@1.0.1
 - pkg:composer/wondernetwork/slim-kernel-testing-harness@1.0.2
+- pkg:composer/wondernetwork/slim-kernel-testing-harness@v2.0.0
+- pkg:composer/wondernetwork/slim-kernel-testing-harness@v2.0.1
+- pkg:composer/wondernetwork/slim-kernel-testing-harness@v2.1.0
