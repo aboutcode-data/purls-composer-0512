@@ -36,3 +36,4 @@
 - pkg:composer/yireo/magento2-serverpush@1.4.7
 - pkg:composer/yireo/magento2-serverpush@1.4.8
 - pkg:composer/yireo/magento2-serverpush@1.4.9
+- pkg:composer/yireo/magento2-serverpush@1.5.0

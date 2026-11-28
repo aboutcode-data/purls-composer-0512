@@ -51,6 +51,8 @@
 - pkg:composer/yireo/magento2-next-gen-images@0.5.14
 - pkg:composer/yireo/magento2-next-gen-images@0.5.15
 - pkg:composer/yireo/magento2-next-gen-images@0.5.16
+- pkg:composer/yireo/magento2-next-gen-images@0.5.17
+- pkg:composer/yireo/magento2-next-gen-images@0.5.18
 - pkg:composer/yireo/magento2-next-gen-images@0.5.2
 - pkg:composer/yireo/magento2-next-gen-images@0.5.3
 - pkg:composer/yireo/magento2-next-gen-images@0.5.5
