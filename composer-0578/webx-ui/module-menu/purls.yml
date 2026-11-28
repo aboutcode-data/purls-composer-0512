@@ -1,3 +1,8 @@
+- pkg:composer/webx-ui/module-menu@v0.100.0
+- pkg:composer/webx-ui/module-menu@v0.101.0
+- pkg:composer/webx-ui/module-menu@v0.101.1
+- pkg:composer/webx-ui/module-menu@v0.102.0
+- pkg:composer/webx-ui/module-menu@v0.102.1
 - pkg:composer/webx-ui/module-menu@v0.30.0
 - pkg:composer/webx-ui/module-menu@v0.31.0
 - pkg:composer/webx-ui/module-menu@v0.32.0
@@ -78,3 +83,10 @@
 - pkg:composer/webx-ui/module-menu@v0.94.0
 - pkg:composer/webx-ui/module-menu@v0.95.0
 - pkg:composer/webx-ui/module-menu@v0.95.1
+- pkg:composer/webx-ui/module-menu@v0.96.0
+- pkg:composer/webx-ui/module-menu@v0.97.0
+- pkg:composer/webx-ui/module-menu@v0.98.0
+- pkg:composer/webx-ui/module-menu@v0.98.1
+- pkg:composer/webx-ui/module-menu@v0.98.2
+- pkg:composer/webx-ui/module-menu@v0.98.3
+- pkg:composer/webx-ui/module-menu@v0.99.0
