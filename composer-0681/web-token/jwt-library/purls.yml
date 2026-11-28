@@ -48,3 +48,4 @@
 - pkg:composer/web-token/jwt-library@4.2.5
 - pkg:composer/web-token/jwt-library@4.2.6
 - pkg:composer/web-token/jwt-library@4.2.7
+- pkg:composer/web-token/jwt-library@4.2.8
