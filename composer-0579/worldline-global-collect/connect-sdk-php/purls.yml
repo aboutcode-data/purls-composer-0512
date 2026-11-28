@@ -2,6 +2,7 @@
 - pkg:composer/worldline-global-collect/connect-sdk-php@10.1.0
 - pkg:composer/worldline-global-collect/connect-sdk-php@10.2.0
 - pkg:composer/worldline-global-collect/connect-sdk-php@10.3.0
+- pkg:composer/worldline-global-collect/connect-sdk-php@10.4.0
 - pkg:composer/worldline-global-collect/connect-sdk-php@7.0.0
 - pkg:composer/worldline-global-collect/connect-sdk-php@7.0.1
 - pkg:composer/worldline-global-collect/connect-sdk-php@7.1.0
