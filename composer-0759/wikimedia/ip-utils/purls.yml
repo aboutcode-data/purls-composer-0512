@@ -8,3 +8,4 @@
 - pkg:composer/wikimedia/ip-utils@5.0.0
 - pkg:composer/wikimedia/ip-utils@6.0.0
 - pkg:composer/wikimedia/ip-utils@6.0.1
+- pkg:composer/wikimedia/ip-utils@6.0.2
