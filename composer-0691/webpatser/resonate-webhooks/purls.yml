@@ -10,3 +10,6 @@
 - pkg:composer/webpatser/resonate-webhooks@v0.7.0
 - pkg:composer/webpatser/resonate-webhooks@v0.7.1
 - pkg:composer/webpatser/resonate-webhooks@v1.0.0
+- pkg:composer/webpatser/resonate-webhooks@v1.1.0
+- pkg:composer/webpatser/resonate-webhooks@v1.2.0
+- pkg:composer/webpatser/resonate-webhooks@v1.2.1

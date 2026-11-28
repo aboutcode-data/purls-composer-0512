@@ -6,3 +6,5 @@
 - pkg:composer/webpatser/uuid@v1.3.0
 - pkg:composer/webpatser/uuid@v2.0.0
 - pkg:composer/webpatser/uuid@v2.0.1
+- pkg:composer/webpatser/uuid@v3.0.0
+- pkg:composer/webpatser/uuid@v3.0.1
